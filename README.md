@@ -20,6 +20,10 @@ data. Provisional coverage and alternative calendars show where results depend
 on assumptions; unknown affiliation is not silently treated as non-affiliation.
 See [CODEBOOK.md](CODEBOOK.md) for the coding rules.
 
+Read the [cabinet history narrative](docs/CABINET_HISTORY_NARRATIVE.md) for the
+evolution of party composition, or consult the [chronological evidence audit](docs/CABINET_HISTORY_AUDIT.md)
+for individual events, source links, coding decisions, and retained uncertainties.
+
 ## Building the release
 
 Use Python and its standard library; the supported version is recorded in

@@ -1,0 +1,17 @@
+{
+  "party": "PRTB",
+  "id": 39,
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "Londrina",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=39&currentPage=0&pageSize=10000",
+      "records": 202,
+      "totalElements": 202,
+      "response_sha256": "f547046ea2814ee51d0ea83bea09d9141bdfb333cd1fc798d6040044d1a697f0",
+      "retrieved_utc": "2026-09-10T23:39:56Z"
+    }
+  ],
+  "matches": []
+}

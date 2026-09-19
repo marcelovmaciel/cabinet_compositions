@@ -1,0 +1,17 @@
+{
+  "party": "PSTU",
+  "id": 67,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=67&currentPage=0&pageSize=10000",
+      "records": 63,
+      "totalElements": 63,
+      "response_sha256": "72c385f7345da186d212dc40505792a19fe0ebbb0eb37e00387ed3dc2faea304",
+      "retrieved_utc": "2026-09-10T23:40:42Z"
+    }
+  ],
+  "matches": []
+}

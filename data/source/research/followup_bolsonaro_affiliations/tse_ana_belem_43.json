@@ -1,0 +1,14 @@
+{
+  "party": "PODE",
+  "id": 43,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=43&currentPage=0&pageSize=10000",
+      "records": 4306,
+      "totalElements": 4306,
+      "response_sha256": "fa4f57b369e03d5052db8c5eb7e012a8e249174ab6d2ead0af024eee71c5ba13",
+      "retrieved_utc": "2026-09-10T23:48:54Z"
+    }
+  ],
+  "matches": []
+}

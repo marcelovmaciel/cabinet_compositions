@@ -1,0 +1,44 @@
+{
+  "parties_completed": 39,
+  "all_requests_successful": true,
+  "observed_registry_rows": 231889,
+  "matches": [
+    [
+      {
+        "sqRegistroFiliacao": 6778114,
+        "cdMotivoCancelamento": null,
+        "cdMotivoDesfiliacao": 2,
+        "desSituacaoEleitor": "REGULAR",
+        "dtCancelamento": null,
+        "dtDesfiliacao": [
+          2021,
+          2,
+          3
+        ],
+        "dtExclusao": null,
+        "dtFiliacao": [
+          2017,
+          10,
+          28
+        ],
+        "tsCadastroDesfiliacao": null,
+        "nmEleitor": "HELDER MELILLO LOPES CUNHA SILVA",
+        "nomLocalidade": "BRASÍLIA",
+        "sgPartido": "NOVO",
+        "sgUe": "DF",
+        "stRegistroFiliacao": 1,
+        "tpSexo": 2,
+        "indPendencia": 1,
+        "indOrigem": 0,
+        "public_registry_identity_sha256": "62357a61157ca222d3a5676270198bda24b80b7987ce51ad0cd41531aefba87b"
+      }
+    ]
+  ],
+  "negative_evidence_limit": "Only regular official current affiliations are published under Resolution23.596 article26 paragraph2; absence cannot establish historical nonaffiliation.",
+  "identity_check": {
+    "person": "Helder Melillo Lopes Cunha Silva",
+    "result": "Exact complete identifier hash matches official2020MDR appointment. Identifier not retained in extract.",
+    "source": "helder_official2020.pdf",
+    "registry": "tse_df_58.json"
+  }
+}

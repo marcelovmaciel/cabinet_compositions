@@ -1,0 +1,17 @@
+{
+  "party": "DEMOCRATA",
+  "id": 60,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=60&currentPage=0&pageSize=10000",
+      "records": 36,
+      "totalElements": 36,
+      "response_sha256": "d81a51ab282e203ae21bb59112e7733e720fa0d8d644f7af07aeae9a549a134c",
+      "retrieved_utc": "2026-09-10T23:37:59Z"
+    }
+  ],
+  "matches": []
+}

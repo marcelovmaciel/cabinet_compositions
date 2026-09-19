@@ -1,0 +1,17 @@
+{
+  "party": "PODE",
+  "id": 43,
+  "uf": "RS",
+  "municipio": "8067",
+  "city": "Sananduva",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=43&currentPage=0&pageSize=10000",
+      "records": 28,
+      "totalElements": 28,
+      "response_sha256": "3ba013c31422793a3dfeb03dab66a3752b31235d032077e792800d81758830bf",
+      "retrieved_utc": "2026-09-10T23:37:54Z"
+    }
+  ],
+  "matches": []
+}

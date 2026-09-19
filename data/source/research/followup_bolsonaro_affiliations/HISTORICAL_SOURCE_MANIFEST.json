@@ -1,0 +1,78 @@
+{
+  "files": [
+    {
+      "path": "HISTORICAL_SNAPSHOT_FINDINGS.md",
+      "sha256": "9ceb98e52419650f6dfc908b2496026aef6101b99e9dc2dd4bee78b6d08afe3e",
+      "bytes": 2537
+    },
+    {
+      "path": "HISTORICAL_SNAPSHOT_SUMMARY.json",
+      "sha256": "e40b1284ea0a581fd78c20564c1b56e354aada751f0f9a368b888c7472449fd9",
+      "bytes": 475
+    },
+    {
+      "path": "filiaweb_2016_bolsonaro_names.json",
+      "sha256": "7df074d5cd163660eab84c37710dae45fe14bfd76a66c719b66fa425fdafab86",
+      "bytes": 4475
+    },
+    {
+      "path": "filiaweb_2016_df_party_metadata.json",
+      "sha256": "4b78f5ce07fdc8124f844c93c6d1c0dc592c35df8c56f2e686782921401dac82",
+      "bytes": 1891
+    },
+    {
+      "path": "filiaweb_2016_names.json",
+      "sha256": "d9ad2bd8e11473f6b4d27805e2cb6b2f8df3e6d05065c6403d2518246560aece",
+      "bytes": 929
+    },
+    {
+      "path": "filiaweb_2016_other_df_scoped.json",
+      "sha256": "5a626388facc9f19f51727bb76c306d030356f601cfe6f7ffc8bc4cd55272626",
+      "bytes": 63421
+    },
+    {
+      "path": "filiaweb_2016_pmdb_df_scoped.json",
+      "sha256": "e41fbe4a78c11a90162811a001757f0d17ff303f9ac09834a08b31242f566cf7",
+      "bytes": 8898
+    },
+    {
+      "path": "scan_filiaweb_2016_other_df.py",
+      "sha256": "9a061981071c74a0deb952d54cea5385bfd24bcf50d7a2ba28f4f90fb8216110",
+      "bytes": 2631
+    },
+    {
+      "path": "scan_filiaweb_2016_pmdb_df.py",
+      "sha256": "dae3a80adb96bbacc831bca706b535e0f0eadabd91c5e83538e866d0c98bd27d",
+      "bytes": 1732
+    },
+    {
+      "path": "web_historical_snapshot_1.txt",
+      "sha256": "b813ef236368adefe5eaa080dd8954c665e65cc66c1f5967fc129e6df91c0756",
+      "bytes": 28311
+    },
+    {
+      "path": "web_historical_snapshot_2.txt",
+      "sha256": "ea7795a8c7e6af0d87c95da043c0926a9a118838b0d13f2d12b1bda40ed82794",
+      "bytes": 235
+    },
+    {
+      "path": "web_historical_snapshot_3.txt",
+      "sha256": "e66f41f93a07bec6bdec505f5d3a59419319d80d62e631463db6d7e9da0ee214",
+      "bytes": 33479
+    },
+    {
+      "path": "web_historical_snapshot_4.txt",
+      "sha256": "3fcad89b0d0747cabfcff49cf64076ad53dd888159c430b98e637da7db5a132b",
+      "bytes": 22900
+    }
+  ],
+  "source_urls": [
+    "https://brasilia-df.filiaweb.com/",
+    "https://brasilia-df.filiaweb.com/filiados/pmdb",
+    "https://www.filiaweb.com/filiacaos/busca",
+    "https://perfilpolitico.serenata.ai/"
+  ],
+  "snapshot_date": "2016-07-27",
+  "retrieved": "2026-09-10",
+  "scope": "Affiliation evidence for named cabinet officeholders only. No negative inference and no non-target raw registry lists retained."
+}

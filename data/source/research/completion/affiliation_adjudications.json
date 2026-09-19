@@ -1,0 +1,62 @@
+[
+  {
+    "id": "C001",
+    "person": "Valter Casimiro Silveira",
+    "state": "UNAFFILIATED",
+    "party": "",
+    "source": "https://odia.ig.com.br/brasil/2018/04/5527694-casimiro-avaliaremos-pedidos-de-prorrogacao-de-contratos-do-decreto-dos-portos.html",
+    "publisher": "O Dia / Estadão Conteúdo",
+    "publication": "2018-04-02",
+    "access": "retrieved_full_html",
+    "fact": "Accession report explicitly says Casimiro has no party affiliation, while separately describing PR sponsorship.",
+    "rationale": "Specific personal membership statement at accession outweighs Atlas PR and the HiperNoticias shorthand PR label; no evidence of joining or leaving PR was found. July 2018 explicit no-party roster corroborates forward continuity. Not an inferred disaffiliation event."
+  },
+  {
+    "id": "C002",
+    "person": "Marcos Antonio Amaro dos Santos",
+    "state": "UNAFFILIATED",
+    "party": "",
+    "source": "prior/scraping/data/wikipedia_pinned/lula_2023_presente_71991733.json",
+    "publisher": "Wikipedia pinned revision 71991733",
+    "publication": "",
+    "access": "pinned_historical_row_inspected",
+    "fact": "The GSI service row beginning 4 May 2023 explicitly identifies Amaro as Sem partido/SP.",
+    "rationale": "Historical cabinet service-table assertion, not a blank or a generic current biography. September 2023 reporting corroborates status. Targeted searches found no dated contrary personal affiliation; accept historical compilation with declared continuity, without claiming an entry-day certificate."
+  },
+  {
+    "id": "C003",
+    "person": "Sônia Faustino Mendes",
+    "state": "UNAFFILIATED",
+    "party": "",
+    "source": "prior/scraping/data/wikipedia_pinned/lula_2023_presente_71991733.json",
+    "publisher": "Wikipedia pinned revision 71991733",
+    "publication": "",
+    "access": "pinned_historical_row_inspected",
+    "fact": "The concluded 9–24 April 2025 interim service row explicitly states Sem partido.",
+    "rationale": "This explicit historical label covers the recorded service, unlike a blank or later current status. SouGov confirms identity and service career only. Targeted full-name affiliation searches found no contradiction; no inference from the technical career."
+  },
+  {
+    "id": "C004",
+    "person": "Manoel Carlos de Almeida Neto",
+    "state": "UNAFFILIATED",
+    "party": "",
+    "source": "prior/scraping/data/wikipedia_pinned/lula_2023_presente_71991733.json",
+    "publisher": "Wikipedia pinned revision 71991733",
+    "publication": "",
+    "access": "pinned_historical_row_inspected",
+    "fact": "The January 2026 interim Justice service row explicitly states Sem partido.",
+    "rationale": "Accept explicit completed historical service label; endpoint remains separately adjudicated by succession evidence. Searches for membership and affiliation found career/patronage reports but no contrary personal membership."
+  },
+  {
+    "id": "C005",
+    "person": "Maria Fernanda Ramos Coelho",
+    "state": "PARTY",
+    "party": "PT",
+    "source": "https://www1.folha.uol.com.br/fsp/brasil/fc2410200702.htm | https://www.correiobraziliense.com.br/app/noticia/economia/2011/03/25/internas_economia,244489/para-acalmar-pt-e-pmdb-dilma-rousseff-muda-comando-da-caixa.shtml",
+    "publisher": "Folha de S.Paulo; Correio Braziliense",
+    "publication": "2007-10-24;2011-03-25",
+    "access": "inherited_specific_affiliation_assertion_reexamined",
+    "fact": "Prior evidence LEG-4e35512833d0 records explicit PT membership before the April 2016 acting tenure.",
+    "rationale": "Apply the same forward-continuity rule used for affiliated incumbents after targeted departure/expulsion searches. No documented departure was found. Retain conflicting Spanish cabinet compilation no-party label as person-level alternative; PT has independent witnesses throughout, so uncertainty is composition-neutral."
+  }
+]

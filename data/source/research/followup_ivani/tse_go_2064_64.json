@@ -1,0 +1,16 @@
+{
+  "party": "REDE",
+  "id": 64,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=64&currentPage=0&pageSize=10000",
+      "records": 45,
+      "totalElements": 45,
+      "response_sha256": "2fd5b4b0d0058cf1764c81fe7d2fdfb5bf69d561f1b9905a43511d957bc5ee4d",
+      "retrieved_utc": "2026-09-10T23:35:50Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "case_id": "LUL-B01",
+    "person": "Sidônio Palmeira",
+    "disposition": "adjudicated_no_party_at_possession",
+    "evidence_ids": [
+      "BOL-L01"
+    ],
+    "source_urls": [
+      "https://www.em.com.br/colunistas/luiz-carlos-azedo/2025/01/7034810-missao-de-sidonio-e-alavancar-a-lideranca-moral.html"
+    ],
+    "rationale": "Contemporaneous January 15, 2025 report explicitly attributes to the January 14 possession speech an assertion of no party affiliation. This is a person-specific formal no-party assertion, not an inference from advertising work for PT. Targeted subsequent affiliation/change searches found no supported event through the March 20, 2026 cutoff; carry the observed state forward. The 2014 direct interview independently records no party affiliation, but is not used alone to bridge the long gap.",
+    "affiliation_segments": [
+      {
+        "start": "2025-01-14",
+        "end": "2026-03-20",
+        "state": "UNAFFILIATED",
+        "party_id": "",
+        "support": "contemporaneous report of direct possession assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [],
+    "rejected_alternatives": [
+      "PT inferred from campaign employment and political proximity."
+    ],
+    "remaining_limitation": "No electoral-register negative certificate retrieved; decision rests on explicit attributed no-party statement and forward continuity."
+  }
+]

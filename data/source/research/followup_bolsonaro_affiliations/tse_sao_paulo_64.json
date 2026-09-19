@@ -1,0 +1,14 @@
+{
+  "party": "REDE",
+  "id": 64,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=64&currentPage=0&pageSize=10000",
+      "records": 705,
+      "totalElements": 705,
+      "response_sha256": "5f254d0b3867122d667ddc21028c6ee586bac8139b53292c45e19573050d20fd",
+      "retrieved_utc": "2026-09-10T23:48:25Z"
+    }
+  ],
+  "matches": []
+}

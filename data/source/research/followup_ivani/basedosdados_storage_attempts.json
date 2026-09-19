@@ -1,0 +1,62 @@
+[
+  [
+    "basedosdados",
+    400,
+    {
+      "error": {
+        "code": 400,
+        "message": "Bucket is a requester pays bucket but no user project provided.",
+        "errors": [
+          {
+            "message": "Bucket is a requester pays bucket but no user project provided.",
+            "domain": "global",
+            "reason": "required"
+          }
+        ]
+      }
+    }
+  ],
+  [
+    "basedosdados-staging",
+    401,
+    {
+      "error": {
+        "code": 401,
+        "message": "Anonymous caller does not have storage.objects.list access to the Google Cloud Storage bucket. Permission 'storage.objects.list' denied on resource '//storage.googleapis.com/projects/_/buckets/basedosdados-staging' (or it may not exist).",
+        "errors": [
+          {
+            "message": "Anonymous caller does not have storage.objects.list access to the Google Cloud Storage bucket. Permission 'storage.objects.list' denied on resource '//storage.googleapis.com/projects/_/buckets/basedosdados-staging' (or it may not exist).",
+            "domain": "global",
+            "reason": "required",
+            "locationType": "header",
+            "location": "Authorization"
+          }
+        ]
+      }
+    }
+  ],
+  [
+    "basedosdados-public",
+    200,
+    {
+      "kind": "storage#objects"
+    }
+  ],
+  [
+    "basedosdados-dev",
+    400,
+    {
+      "error": {
+        "code": 400,
+        "message": "Bucket is a requester pays bucket but no user project provided.",
+        "errors": [
+          {
+            "message": "Bucket is a requester pays bucket but no user project provided.",
+            "domain": "global",
+            "reason": "required"
+          }
+        ]
+      }
+    }
+  ]
+]

@@ -1,0 +1,14 @@
+{
+  "party": "PSDB",
+  "id": 56,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=56&currentPage=0&pageSize=10000",
+      "records": 686,
+      "totalElements": 686,
+      "response_sha256": "a8e05b0b24274b53f7430c78b14a9b02424603163b20b2c2bc38533876a1707d",
+      "retrieved_utc": "2026-09-11T00:08:35Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,14 @@
+{
+  "party": "AGIR",
+  "id": 57,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 308,
+      "totalElements": 308,
+      "response_sha256": "dd8587cd55c9c0a1c633f439b74fb8cf0d49abcc0550691e86b2db10285f69be",
+      "retrieved_utc": "2026-09-11T00:08:22Z"
+    }
+  ],
+  "matches": []
+}

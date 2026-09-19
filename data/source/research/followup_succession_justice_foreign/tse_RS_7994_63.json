@@ -1,0 +1,17 @@
+{
+  "party": "PSOL",
+  "id": 63,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 5993,
+      "totalElements": 5993,
+      "response_sha256": "680c4665b89d7ea1cb22ff3d1e01961acb6cdc25e3b1a7ac360cbe1a633cabfb",
+      "retrieved_utc": "2026-09-10T23:38:59Z"
+    }
+  ],
+  "matches": []
+}

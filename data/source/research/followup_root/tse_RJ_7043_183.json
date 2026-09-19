@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "MISSÃO",
+  "id": 183,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 943,
+      "totalElements": 943,
+      "response_sha256": "30554cdf8a7cc4bdcc14732d684ceed967a9889d6534bf7878c8d1a0d667cb63",
+      "retrieved_utc": "2026-09-10T23:41:48Z"
+    }
+  ],
+  "matches": []
+}

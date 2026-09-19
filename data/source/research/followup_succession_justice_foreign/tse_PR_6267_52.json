@@ -1,0 +1,17 @@
+{
+  "party": "PV",
+  "id": 52,
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "Londrina",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=52&currentPage=0&pageSize=10000",
+      "records": 472,
+      "totalElements": 472,
+      "response_sha256": "39992e90339113d14e1a485c50b366a7cd94c53d9be5c2f501e23a9caddf1c56",
+      "retrieved_utc": "2026-09-10T23:40:01Z"
+    }
+  ],
+  "matches": []
+}

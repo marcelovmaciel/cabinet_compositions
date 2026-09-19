@@ -1,0 +1,17 @@
+{
+  "party": "AGIR",
+  "id": 57,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 198,
+      "totalElements": 198,
+      "response_sha256": "77831681845204d60bcabfb50e7bcc2a8ebcd29a58dcb2c0f0b124eb3195590c",
+      "retrieved_utc": "2026-09-10T23:41:04Z"
+    }
+  ],
+  "matches": []
+}

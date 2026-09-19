@@ -1,0 +1,62 @@
+[
+  {
+    "query_name": "OTAVIO BRANDELLI",
+    "url": "https://www.filiaweb.com/filiacaos/busca",
+    "status": 200,
+    "snapshot_date": "2016-07-27",
+    "retrieval_date": "2026-09-10",
+    "response_sha256": "6e04ff7ae374cc5054c383838f36593095c87f27d351da0bd56bf198f3f38ec6",
+    "returned_row_count": 2,
+    "exact_name_matches": []
+  },
+  {
+    "query_name": "LUIZ PONTEL DE SOUZA",
+    "url": "https://www.filiaweb.com/filiacaos/busca",
+    "status": 200,
+    "snapshot_date": "2016-07-27",
+    "retrieval_date": "2026-09-10",
+    "response_sha256": "833acddc612f1431d0ea7b1b0a45bee104f8d75d8b4142a993580b3e13607f09",
+    "returned_row_count": 2,
+    "exact_name_matches": []
+  },
+  {
+    "query_name": "RENATO DE LIMA FRANCA",
+    "url": "https://www.filiaweb.com/filiacaos/busca",
+    "status": 200,
+    "snapshot_date": "2016-07-27",
+    "retrieval_date": "2026-09-10",
+    "response_sha256": "114e01779be9cee6f165aed95b4b25b81bc5c0f89a8db862e5bc05550b0f7970",
+    "returned_row_count": 2,
+    "exact_name_matches": [
+      {
+        "cells": [
+          "RENATO DE LIMA FRANCA",
+          "PT    de \n                ARAUCÁRIA / PR"
+        ],
+        "links": [
+          "http://araucaria.PR.filiaweb.com/filiados/pt   "
+        ]
+      }
+    ]
+  },
+  {
+    "query_name": "ANA CARLA MACHADO LOPES",
+    "url": "https://www.filiaweb.com/filiacaos/busca",
+    "status": 200,
+    "snapshot_date": "2016-07-27",
+    "retrieval_date": "2026-09-10",
+    "response_sha256": "992d20acd23a09aaeec519561dcbf59b9e6e9ea4f6f8e4e0045f274531d74dbb",
+    "returned_row_count": 2,
+    "exact_name_matches": [
+      {
+        "cells": [
+          "ANA CARLA MACHADO LOPES",
+          "PSDB  de \n                BELÉM / PA"
+        ],
+        "links": [
+          "http://belem.PA.filiaweb.com/filiados/psdb "
+        ]
+      }
+    ]
+  }
+]

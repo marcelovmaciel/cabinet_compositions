@@ -1,0 +1,17 @@
+{
+  "party": "CIDADANIA",
+  "id": 46,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 1972,
+      "totalElements": 1972,
+      "response_sha256": "5244d7b9b1f81e63afa0956881de79b041da8051c4ed16794d5c85d248531767",
+      "retrieved_utc": "2026-09-10T23:40:10Z"
+    }
+  ],
+  "matches": []
+}

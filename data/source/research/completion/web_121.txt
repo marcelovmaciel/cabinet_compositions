@@ -1,0 +1,689 @@
+TD 3200 Web | PDF | Burocracia (https://pt.scribd.com/document/1024722968/TD-3200-web)
+citeturn119search0 [wordlim: 200] Crawled: 5 months ago; ## Fonte: Atlas do Estado Brasileiro (disponível em: [Link] ... suscetível à ação de partidos comparativamente à média do serviço público. ... de proporção, uma vez que ambas as variáveis – órgão e filiação – são categóricas
+## Fonte: Atlas do Estado Brasileiro (disponível em: [Link]
+
+BD-MID.
+Nota: 1 NA – Não informado.
+
+27
+3200
+TEXTO para DISCUSSÃO
+
+## 4.2.4 Filiacões partidárias
+
+## A quantidade de filiados(as) a partidos no Mapa é superior à média do conjunto da
+
+administração pública federal a partir de 2003 (tabela 3).
+
+TABELA 3
+Filiados(as) no Mapa em cargos de DAS 5 a 7 (total de servidores)
+Período Total Filiados(as) Filiados(as) (%) Média do governo federal (%)
+Maio 1999 32 0 0 1.6
+Maio 2000 45 0 0 1.1
+Maio 2001 35 0 0 1.4
+Maio 2002 33 0 0 1.1
+Maio 2003 36 3 8.33 4.7
+Maio 2004 46 5 10.9 4.4
+Maio 2005 64 7 10.9 4.5
+Maio 2006 60 6 10 3.8
+Maio 2007 60 8 13.3 4.9
+Maio 2008 60 7 11.7 5.4
+Maio 2009 61 8 13.1 5.0
+Maio 2010 51 6 11.8 6.1
+Maio 2011 50 9 18 6.3
+Maio 2012 45 7 15.6 7.4
+Maio 2013 49 10 20.4 7.5
+Maio 2014 49 11 22.4 7.2
+Maio 2015 50 11 22 8.0
+Maio 2016 54 9 16.7 6.2
+Maio 2017 68 11 16.2 8.6
+Maio 2018 62 8 12.9 7.9
+
+Fonte: BD-MID.
+Obs.: Snapshot de maio de cada ano.
+
+## A tabela mostra, utilizando-se maio como referência, que o percentual de filiados(as)
+Dessa forma, o
+partido predominante no Mapa, no período, refere-se ao partido do(a) presidente no
+comando: PT nos governos de Lula e Rousseff e MDB no governo de Temer. A quan-
+tidade de filiados(as) aumentou a partir de 2003, com algumas oscilações até 2018.
+
+29
+3200
+TEXTO para DISCUSSÃO
+
+FIGURA 4
+Partidos no Mapa, por números de filiados (1999-2018)
+12.5
+
+10.0 Cidadania
+MDB
+PCdoB
+Número de filiados
+
+PDT
+7.5 PP
+PROS
+PSB
+PSC
+5.0 PSD
+PSDB
+PT
+PB
+2.5 PV
+Republicanos
+Solidariedade
+
+0.0
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+
+Ano
+
+Fonte: BD-MID.
+
+De forma geral, os dados quantitativos sugerem que o Mapa é uma pasta mais
+suscetível à ação de partidos comparativamente à média do serviço público. Para testar
+a relação entre partidos e órgãos, recorreu-se a dois testes: qui-quadrado e testes
+de proporção, uma vez que ambas as variáveis – órgão e filiação – são categóricas
+(Kellstedt e Whitten, 2013). O qui-quadrado verificou se há associação significativa entre
+órgão e filiação. O teste indicou que existe uma associação entre órgão e ser filiado
+(p < 0,05). Já o teste de proporções foi utilizado para confirmar se o Mapa apresenta
+realmente uma proporção de filiados acima da média. Esse teste apontou que essa
+relação não é estatisticamente significante tendo em vista que: i) o p-valor é alto
+(0,8552 > 0,05); e ii) o intervalo de confiança (-4,1% a 3,2%) inclui o zero, o que confirma
+que as proporções podem ser equivalentes.
+
+Embora a média de filiados(as) no Mapa tenha sido superior aos demais minis-
+térios no mês de maio, as proporções foram semelhantes quando consideramos
+todo o período.
+
+30
+3200
+TEXTO para DISCUSSÃO
+
+GRÁFICO 5
+Proporção de filiados(as) por órgão (díade servidor-cargo)
+1,00
+
+0,75
+
+0,50
+
+0,25
+
+0,00
+Mapa MC MD MDR ME MEC MinC MJ MMA MS MTUR PR
+
+--------------------------------------------------------------------------------
+(PDF) Distribuição de cargos, contexto político e presidencialismo brasileiro: uma análise institucional do sistema de livre provimento (https://www.researchgate.net/publication/366867588_Distribuicao_de_cargos_contexto_politico_e_presidencialismo_brasileiro_uma_analise_institucional_do_sistema_de_livre_provimento)
+citeturn119search1 [wordlim: 200] Crawled: 3 months ago; Fonte: Elaboração da autora a partir de dados do Atlas do Estado Brasileiro (IPEA). ... Fonte: Atlas do Estado Brasileiro (grifos meus).
+Fonte: Elaboração da autora a partir de dados do Atlas do Estado Brasileiro (IPEA).
+
+Assim, reforça-se a pertinência de separar processos de resultados, conforme
+
+destacado na versão histórica do novo institucionalismo. Ainda que os últimos anos tenham
+
+sido caracterizados, em termos de administração pública, tanto por processos incrementais
+
+quanto de ruptura, os efeitos não foram tão transformativos em termos de quantidade de
+
+servidores de carreira e de filiados ocupando posições de gestão, mesmo havendo um
+
+aumento expressivo no alto escalão (DAS 5 e 6) no recorte temporal mais amplo. Como
+
+se nota no Gráfico 1, houve um pequeno aumento na quantidade de servidores ocupando
+
+cargos a partir de 2005, seguido de redução para os cargos de nível 3. Ademais, já havia
+
+uma tendência de crescimento no período imediatamente anterior. Vale destacar que
+
+houve um aumento substancial na quantidade de servidores de carreira ocupando DAS 5
+
+e 6 desde 2000, possivelmente devido ao fortalecimento dos planos de carreiras estatais.
+
+se houve algum tipo de conversão nos moldes da tipologia de Mahoney e Thelen (2010).
+
+Em vez de gerar efeitos radicalmente transformativos, o decreto aparentemente formalizou
+
+uma prática que já existia. Uma investigação mais detalhista dos dados ainda mostra que,
+
+em alguns momentos, os percentuais obrigatórios sequer foram cumpridos para cada nível
+
+hierárquico separadamente, conforme sinalizado em vermelho na Tabela 3:
+
+Tabela 3
+
+Cargos de DAS ocupados por servidores de carreira (%)
+
+Ano
+
+DAS 1
+
+DAS 2
+
+DAS 3
+
+DAS 4
+
+DAS 5
+
+DAS 6
+
+2004
+
+68,1
+
+70,73
+
+70,83
+
+57,95
+
+53,36
+
+50,26
+
+2005
+
+70,99
+
+72,47
+
+72,69
+
+60,2
+
+55,76
+
+50,26
+
+2006
+
+71,96
+
+73,14
+
+75,1
+
+62,74
+
+58,68
+
+54,82
+
+2007
+
+71,89
+
+74,16
+
+73,76
+
+62,47
+
+62,53
+
+55,12
+
+2008
+
+71,44
+
+74,03
+
+71,6
+
+63,95
+
+61,49
+
+53,55
+
+2009
+
+71,45
+
+72,43
+
+69,15
+
+64,19
+
+62,34
+
+55,09
+
+2010
+
+71,55
+
+72,55
+
+67,98
+
+64,76
+
+62,0
+
+55,87
+
+2011
+
+73,41
+
+73,69
+
+68,29
+
+65,32
+
+65,68
+
+60,18
+
+2012
+
+73,31
+
+73,8
+
+68,05
+
+66,94
+
+68,76
+
+60,0
+
+2013
+
+73,28
+
+73,3
+
+67,84
+
+67,63
+
+68,74
+
+59,64
+
+2014
+
+73,2
+
+73,25
+
+68,19
+
+69,12
+
+70,67
+
+58,9
+
+2015
+
+73,65
+
+73,53
+
+68,73
+
+66,95
+
+68,37
+
+59,91
+
+2016
+
+81,24
+
+79,44
+
+72,88
+
+68,71
+
+69,15
+
+54,84
+
+2017
+
+75,2
+
+72,98
+
+62,21
+
+61,43
+
+67,47
+
+56,31
+
+Fonte: Atlas do Estado Brasileiro (grifos meus).
+
+--------------------------------------------------------------------------------
+Diagnostico Institucional Do Servico Publico Na America Latina Brasil 2024 | PDF | Gestão de recursos humanos | Emenda Constitucional (https://pt.scribd.com/document/929074195/Diagnostico-Institucional-Do-Servico-Publico-Na-America-Latina-Brasil-2024)
+citeturn119search2 [wordlim: 200] Crawled: 11 months ago; Os dados disponibilizados pelo Atlas do Estado Brasileiro (2023) trazem a seleção dos vínculos de “Ativo Permanente”, ... Fonte: Elaboração própria com base nos dados do Atlas do Estado Brasileiro (2023)
+## A ocupação de cargos de nível superior mantém características de iniquidade avaliando
+
+a disponibilidade de profissionais com nível superior no mercado de trabalho.
+Considerando a população com mais de 25 anos de nível superior, segundo o IBGE
+(2022) 62,2% eram brancos e 35,6% negros. Ou seja, no Brasil para cada pessoa negra
+com nível superior, existe 1,76 de pessoas brancas com essa escolaridade. No Governo
+Federal, para cada negro em um cargo de nível superior existem 2,38 pessoas brancas,
+um valor 35,4% maior.
+
+## Trabalhando a dimensão de gênero e da raça conjuntamente, novas análises são
+
+observadas. As mulheres negras ocupam apenas 11,7% dos cargos de nível superior. O
+percentual de homens negros em cargos de nível médio ou fundamental chega a ser
+superior que o de homens brancos (26,6% contra 23,2%), embora seja menos da metade
+que o de cargos de maior escolaridade (15,6% contra 36,3%). (ver Gráfico 28)
+
+28
+Os dados disponibilizados pelo Atlas do Estado Brasileiro (2023) trazem a seleção dos vínculos de “Ativo Permanente”,
+“Cedido/Requisitado”, “Ativo em Outro Órgão”, “Exercício Descentralizado de Carreira” e “Cedido SUS – Lei 8270”. São
+excluídos os profissionais em vínculos relativos a residências e ao Programa Mais Médicos, mesmo recorte feito nas
+análises extraídas do PEP neste trabalho.
+
+39
+Gráfico 28. Divisão de cargos por escolaridade, raça e sexo do Executivo Federal (2020)
+40.0%
+36.3%
+35.0%
+28.8%
+30.0% 26.6%
+25.0% 23.2%
+21.4%
+18.9% Cargos de Nível Médio
+20.0% ou Fundamental
+15.6%
+15.0% 11.7% Cargos de Nível
+Superior
+10.0%
+2.8% 2.2% 3.9% 3.1%
+5.0% 1.4% 1.0% 1.9% 1.3%
+
+0.0%
+Negras Brancas Não Outros Negros Brancos Não Outros
+Informado Informado
+Mulheres Homens
+
+Fonte: Elaboração própria com base nos dados do Atlas do Estado Brasileiro (2023)
+
+## Os dados disponibilizados pela PNAD do IBGE (2022) não apresentam tabelas
+
+desagregadas por sexo e raça de forma conjunta, impedindo a comparação das
+informações desses grupos na sociedade.
+
+## Planejamento integral da gestão de recursos humanos.
+--------------------------------------------------------------------------------
+497 595 PB | PDF (https://www.scribd.com/document/778294939/497-595-PB)
+citeturn119search3 [wordlim: 200] Published: 2.2 years ago; Crawled: 1.9 years ago; O Atlas do Estado Brasileiro, criado em dezembro de 2018, é uma plataforma de dados integrados (de diferentes fontes), sobre
+2
+O concurso público – de provas ou de provas e títulos - foi regulamentado, pela primeira vez, pela Lei n. 284 (Brasil, 1936),
+destinando-se aos cargos técnico-administrativos dos órgãos públicos então existentes.
+3
+Em regra, os vencimentos desse grupo são irredutíveis e a estabilidade funcional é adquirida após um período de três anos de
+estágio probatório (Freire; Palotti, 2015).
+4
+Os cargos em comissão diferenciam-se das funções de confiança ou gratificadas (FG), pois podem ser preenchidos por
+servidores efetivos (a quem se destinam, exclusivamente, as FG) ou por pessoas sem vínculo definitivo com a administração
+pública.
+5
+O Atlas do Estado Brasileiro, criado em dezembro de 2018, é uma plataforma de dados integrados (de diferentes fontes), sobre
+o funcionalismo público, em seus três níveis federativos – federal, estadual e municipal - e dos três Poderes. Link de acesso:
+[Link]
+6
+Vínculos de trabalho não equivalem a pessoas, porque uma mesma pessoa pode ter mais de um. (Ipea, s.d.)
+--------------------------------------------------------------------------------
+Brasil - Reflexões sobre nomeações a cargos públicos no Brasil: a experiência de três secretarias entre 2011 e 2018 Reflexões sobre nomeações a cargos públicos no Brasil: a experiência de três secretarias entre 2011 e 2018 (https://www.scielo.br/j/rbcpol/a/YwHb9JmWH36dNyyjvPtHPjK/?format=html&lang=pt)
+citeturn119search4 [wordlim: 200] Published: 4.9 years ago; Crawled: last month; Além de propor uma nova opção de enquadramento para lidar com os padrões de nomeação, questiono a relação entre distribuição de cargos e presidencialismo de coalizão apontando ainda outros elementos que merecem análise mais detida nesse debate. ... De forma geral, a filiação partidária dos ocupantes dos cargos mais altos não pareceu ter tanta relevância em comparação a outros atributos, tais como vínculos com o setor privado, redes pessoais (com os/as ministros/as), trajetória acadêmica ou ainda relação com blocos parlamentares. ... Em contraste, o MinC é considerado mais político em razão do componente partidário na trajetória dos ministros em comparação a outras pastas cujo papel da qualificação técnica é mais evidente. ... O ministro Calero, por exemplo, era servidor de carreira (diplomata) filiado ao PMDB e hoje é deputado federal pelo partido Cidadania, o que reforça a fluidez das relações partidárias no Brasil.
+### Análise comparativa
+
+De forma geral, a filiação partidária dos ocupantes dos cargos mais altos não pareceu ter tanta relevância em comparação a outros atributos, tais como vínculos com o setor privado, redes pessoais (com os/as ministros/as), trajetória acadêmica ou ainda relação com blocos parlamentares. Dos cargos analisados, poucos/as ocupantes foram filiados a partidos durante o período de exercício e menor quantidade pertencia à base aliada. Além disso, não eram filiados/as aos partidos dos/as ministros/as. Isso confirma os achados da literatura mais recente sobre a importância de outros vínculos, inclusive com os próprios partidos políticos (LOPEZ; PRAÇA, 2018; LOPEZ; SILVA, 2019)^{28}. Em acréscimo, os casos mostram os potenciais impactos das nomeações nas políticas setoriais. O Quadro 1 resume a análise das três secretarias.
+
+Thumbnail
+
+Quadro 1.
+Análise das três secretarias
+
+Nos casos estudados, as evidências mostram proximidade com ministros/as e a atuação de segmentos sociais mobilizados, além da intervenção de parlamentares específicos. As qualificações não eliminam a natureza política da indicação, tendo em vista a presença constante de conflitos ideológicos nos campos. A área de direito autoral, por exemplo, é uma matéria de grande complexidade técnica, mas que não está imune aos conflitos políticos entre as coalizões que fazem parte do meio.
+
+Os detentores do “conhecimento técnico” também apresentam divergências de interesses e de visões de mundo, o que caracteriza a política. Esses valores afetam o posicionamento e os resultados em termos de políticas públicas. Na SDAPI, o cargo foi ocupado por pessoas com experiência em propriedade intelectual, mas com perspectivas e trajetórias diferentes, o que se refletiu, de certa forma, nos posicionamentos adotados pelo setor^{30}. As vinculações expressas dos ocupantes com entidades de defesa de interesses - ABPI, CBL, entre outras - podem trazer luz ao papel político adjacente aos cargos considerados “técnicos” e aos impactos nas políticas.
+
+O vínculo formal com o serviço público tampouco elimina a probabilidade de a indicação ser política. O ingresso no serviço por meio de concurso público não exclui a pré-existência de outras relações políticas, inclusive partidárias. Alguns/mas servidores/as de carreira eram filiados/as a partidos, ainda que isso talvez não tenha apresentado impactos relevantes nas nomeações. No período analisado, o Ministério da Agricultura, Pecuária e Abastecimento (MAPA) demonstrou ser claramente o mais partidarizado devido à predominância de ministros/as e secretários/as com vínculo partidário ou atuação política profissional. Por outro lado, a maioria dos/as nomeados/as pertencia à carreira do Ministério ou de outros órgãos públicos. Isso não excluiu a atuação de entidades representativas, tais como a CNA, que se manifestou publicamente contra a indicação de um dos nomeados, vinculado ao Banco do Brasil e que aparentemente fora indicado por um deputado.
+
+--------------------------------------------------------------------------------
+Atlas Brasileiro - Junho de 2023 - Final | PDF | Luiz Inácio Lula da Silva | Política de esquerda (https://pt.scribd.com/document/1053386891/Atlas-Brasileiro-Junho-de-2023-Final)
+citeturn119search5 [wordlim: 200] Published: 3.3 years ago; Crawled: 2 months ago; A matéria do Estadão destacava que: ministro e também não havia detalhado ... individualmente ou ao lado do ministro ... manterem no poder, mesmo frente a Cidades sob o comando de Jader Filho e ... do governo, a coluna relatava que: “hoje discrepância entre o discurso de ... quem não apoia o governo”. da articulação política do Palácio do
+Filho, despachava no gabinete do genro, da internet no Centro-Oeste e Norte do
+onde recebia empresários, embora não Brasil.
+estivesse nomeado para nenhum cargo O Estadão destacava a fala do
+público. Em registros obtidos pela equipe empresário que dizia: “nessa ocasião, fui
+de reportagem do jornal, constavam apresentar ao ministério soluções
+entradas e saídas do ministério do sogro plausíveis que podem ser adotadas
+de Juscelino, Fernando Fialho, segundo a para melhoria e expansão da
+matéria ele atendia na sede da pasta, conectividade da Região Norte e
+em Brasília, inclusive quando o genro Nordeste do País”. Segundo a matéria, o
+estava cumprindo agenda no empresário não teria explicado por que
+Maranhão. havia despachado com o sogro do
+A matéria do Estadão destacava que: ministro e também não havia detalhado
+“um dos empresários recebidos nas os por menores da reunião.
+Comunicações, no último dia 17 de Os documentos internos do Ministério
+março, afirmou ao Estadão que tratou das Comunicações indicavam que
+Se não com o controle das credenciais emitidas
+tem cargo público, essa atuação dele é pelo GSI. Segundo o Estadão, Lula havia
+irregular”. dito em seu primeiro dia de governo que
+não haveria mais “cercadinho”.
+A turma que fez a reportagem havia
+se posicionado no local em que passaria
+o presidente Lula para questioná-lo se
+houve autorização da Presidência para
+O Estadão questionava em sua
+que o sogro do ministro Juscelino Filho,
+matéria por qual motivo Juscelino
+utilizasse a estrutura do Ministério para
+continuava como ministro, tendo em
+despachar em agendas com
+vista os vários escândalos envolvendo
+empresários, mas segundo a matéria, a
+seu nome, a matéria trazia a opinião do
+tentativa de abordar o chefe do
+cientista político Humberto Dantas e
+executivo e questioná-lo sobre as
+também alguns posicionamentos em
+práticas de seus subordinados acabava
+relação à fidelidade de Lula com o União
+frustrada pelo forte esquema de
+Brasil.
+segurança sem responder aos
+questionamentos feitos em voz alta da
+reportagem.
+
+--------------------------------------------------------------------------------
+(PDF) Nebulosas do Pensamento Urbanístico tomo 1 - Modos de pensar (https://www.researchgate.net/publication/403281436_Nebulosas_do_Pensamento_Urbanistico_tomo_1_-_Modos_de_pensar)
+citeturn119search6 [wordlim: 200] Published: 8.5 years ago; Crawled: 2 weeks ago; rei dos titãs e deus do tempo, aquele que regula e rege o destino de ... delimitação para os projetos da Cronologia e do Atlas, os quais teriam ... ao Atlas Mnemosyne, ou Bilderatlas, ou Atlas de Imagens, de autoria
+
+com as professoras Paola Berenstein e Margareth Pereira?
+
+c ron oS ou a Tla S? m n emoSyne reSp onde!
+
+O presente manipula o passado virtual em seu próprio in-
+
+teresse, para dar crédito a suas mitologias e legitimidade à
+
+imposição da sua vontade. (MITCHELL, 2016)
+
+Priorizar a Cronologia ou investir no Atlas? No afã de responder a
+
+esse dilema empírico, a esse jogo de polaridades – dinamografia
+
+–,
+
+6
+
+recorri aos deuses do Olimpo. Na mitologia grega, Cronos é o
+
+rei dos titãs e deus do tempo, aquele que regula e rege o destino de
+
+todos nós, enquanto Atlas é o titã que a tudo suporta, possuidor de
+
+conhecimento e sabedoria exasperantes.
+
+7
+
+Portanto, cada qual com sua
+
+identidade, cada qual com seus predicados. Desse modo, espelhei tal
+
+delimitação para os projetos da Cronologia e do Atlas, os quais teriam
+
+distintamente função e atribuições claras e determinadas para com
+
+a pesquisa de cidades novas.
+
+Mas se a Cronologia já apresenta uma maturação, um domínio maior
+
+por parte de seus autores e colaboradores, o mesmo não se tem do
+
+Atlas. Diante desse cenário, fez-se necessário compreender o atlas,
+
+entender sua origem, suas atribuições, seus significados, sua aplicação
+
+para essa pesquisa. Foi quando a deusa da memória, a Mnemosyne,
+
+apareceu para revelar um universo até então inexplorado. Em um
+
+primeiro contato com obra Memory, Metaphor, and Aby Warburg’s
+
+Atlas of Images, de Christopher D. Johnson (2012), fui apresentado
+
+ao Atlas Mnemosyne, ou Bilderatlas, ou Atlas de Imagens, de autoria
+
+NEBULOSAS DO PENSAMENTO URBANÍSTICO MODOS DE PENSAR
+
+54
+
+do filósofo e historiador alemão Abraham Moritz Warburg (1866-
+
+1929), notoriamente Aby Warburg, elaborado entre 1927 e 1929.
+
+Obra-prima, inacabada, o atlas warburguiano é considerado seu
+
+testamento metodológico, pois possibilita repensar o modus operandi
+
+de trabalhar e ler a história.
+
+Esse novo percurso desviou-me do anterior, daquele de compreen-
+
+der um atlas aos moldes do gênero epistêmico produzido desde o
+
+--------------------------------------------------------------------------------
+(PDF) CAP EM LIVRO DIGITAL - CRISTIANE - HEITOR ET AL - DIREITO DO ESTADO E SUAS NOVAS DIMENSÕES NO TERCEIRO MILÊNIO - edição de 7 dez 2020 (https://www.researchgate.net/publication/377765943_CAP_EM_LIVRO_DIGITAL_-_CRISTIANE_-_HEITOR_ET_AL_-_DIREITO_DO_ESTADO_E_SUAS_NOVAS_DIMENSOES_NO_TERCEIRO_MILENIO_-_edicao_de_7_dez_2020)
+citeturn119search7 [wordlim: 200] Published: 6.7 years ago; Crawled: last month; Diante de todo o exposto, conclui-se que a filiação se completa quando ...  Direito do Estado e suas Novas Dimensões no Terceiro Milênio  ... quanto ao critério de responsabilidade patrimonial, pensão alimentícia e ... São Paulo, SP: ATLAS, 2017.
+contemplando a dignidade da pessoa humana para com todos os envolvidos,
+
+resolvendo assim os conflitos existentes.
+
+Diante de todo o exposto, conclui-se que a filiação se completa quando
+
+apreciados todos os requisitos, apreciados tanto pela paternidade/maternidade
+
+ Direito do Estado e suas Novas Dimensões no Terceiro Milênio 
+
+41
+
+biológica quanto pela paternidade/maternidade socioafetiva, através do ato
+
+registral, respeitado a dignidade da pessoa humana.
+
+Também para o Direito Brasileiro ainda não existe uma decisão definida
+
+quanto ao critério de responsabilidade patrimonial, pensão alimentícia e
+
+questões sucessórias, o que se sabe é que para parte da doutrina, o
+
+entendimento que se tem a esse respeito é que ambos os pais se
+
+responsabilizam, inclusive pelo direito sucessório inerente ao filho, e através
+
+da força do princípio do melhor interesse da criança e do adolescente.
+
+Contudo, cabe ao judiciário a amplitude dos efeitos da multiparentalidade,
+--------------------------------------------------------------------------------
+Brasil - Reflexões sobre nomeações a cargos públicos no Brasil: a experiência de três secretarias entre 2011 e 2018 Reflexões sobre nomeações a cargos públicos no Brasil: a experiência de três secretarias entre 2011 e 2018 (https://www.scielo.br/j/rbcpol/a/YwHb9JmWH36dNyyjvPtHPjK/?lang=pt)
+citeturn119search8 [wordlim: 200] Published: 4.9 years ago; Crawled: 2 weeks ago; A filiação partidária é relacionada a uma indicação considerada “política” enquanto a vinculação ao serviço público e demais características (nível de instrução, entre outras) são tidas como elementos de natureza “técnica” (BARBERIA; PRAÇA, 2014; LOPEZ, 2015; BORGES; COÊLHO, 2015). ... Nos cargos de nível 6, o percentual de funcionários/as de carreira oscilou entre 50% e 60% na última década, segundo os dados do Atlas. ... Historicamente, os/as ministros/as de Estado desempenharam um papel importante no processo devido à delegação de competência, ainda que as nomeações sejam coordenadas por órgãos da Presidência. ... Ao passo que o posto de ministro/a é um alvo mais evidente da cobiça partidária, é difícil assumir que os partidos possuem tal nível de controle e coesão em relação ao conjunto dos cargos DAS, principalmente os de níveis intermediário e inferior (DAS 1-4).
+Nota-se que a ênfase nas filiações se justifica na premissa de que os cargos são ferramentas de barganha do/a presidente em relação à coalizão. Dessa forma, a vinculação partidária de funcionários/as serviria para identificar as estratégias presidenciais para equilibrar os interesses partidários face ao contexto institucional do presidencialismo brasileiro. No entanto, ao passo que a literatura trata da lógica político-partidária como se fosse possível separá-la da busca por qualificação ou expertise, ambas consistem em elementos difíceis de observar separadamente.
+
+Segundo informações extraídas de entrevistas (LOPEZ; PRAÇA, 2015), os elementos que justificam as nomeações aparecem juntos (formação acadêmica, redes, etc.). Além disso, a filiação partidária não é o único aspecto da politização, nem o critério mais relevante (LOPEZ; PRAÇA, 2018). A fronteira entre técnica e política é, portanto, turva, tendo em vista que as motivações para as nomeações não são distinguíveis (LOPEZ; SILVA, 2019) e tampouco mutuamente excludentes.
+
+Estudos mais recentes (LOPEZ; PRAÇA, 2018; LOPEZ; SILVA, 2019) destacam a insuficiência da filiação partidária como proxy de politização devido à existência de outros tipos de redes e vínculos partidários. No entanto, as pesquisas falham em fornecer uma análise mais detida de informações que ofereçam pistas sobre a atuação de outros agentes além dos partidos. A pesquisa aprofundada dos três casos aqui apresentados visa contribuir para apontar caminhos de investigação. Ao se debruçar sobre três órgãos de forma mais intensiva, a pesquisa fornece pistas sobre possibilidades de analisar os pormenores dos processos decisórios referentes à nomeação a postos burocráticos.
+
+Ainda assim, a quantidade de filiados/as é baixa considerando todo o universo do serviço público. Mesmo o percentual máximo de filiados/as ocupando postos DAS-6 não passou de 32% no período^{11}, diminuindo para 25,7% em 2018. Já o percentual de filiados/as ocupando DAS-5 é próximo à fração correspondente ao conjunto geral de DAS (entre 10 e 20%).
+
+Entre os/as ocupantes dos postos DAS 5 e 6 filiados/as a partidos, a presença da base aliada é maior. No entanto, o percentual representava uma fração pequena em comparação ao conjunto de cargos públicos mesmo antes dos normativos, enquanto a nomeação de funcionários/as de carreira pareceu ser a regra predominante. Nos cargos de nível 6, o percentual de funcionários/as de carreira oscilou entre 50% e 60% na última década, segundo os dados do Atlas. A fração de servidores/as efetivos é ainda maior nos cargos de menor nível hierárquico.
+
+Ademais, é preciso observar, de forma mais detida, as competências relacionadas às nomeações em um recorte temporal estendido. --------------------------------------------------------------------------------
+Atlas Brasileiro - Julho de 2023 | PDF | Luiz Inácio Lula da Silva | Impostos (https://pt.scribd.com/document/1053386567/Atlas-Brasileiro-Julho-de-2023)
+citeturn119search9 [wordlim: 200] Published: 3.2 years ago; Crawled: 2 months ago; interessados em espaço no governo do adesão à base aliada”. ... Marina Silva (Meio Ambiente), Sônia balança da vantagem estava na mão ... Pela inegável importância do estado ... No Instagram, o prefeito de Porto ao projeto: “a rebelião contra o conselho ... Coluna, o ex-ministro de Jair Bolsonaro No Twitter, o perfil oficial no Atlas, ... É de seu espaço de ação, a Folha ... exceções”. convite para palestra do ministro Luis
+Trocando em miúdos, a coluna
+Paulo indica que o movimento está
+explicava que: “ou seja, a sigla não
+sendo avaliado com cuidado, mas não
+assume formalmente fazer parte da
+travado. Uma das possibilidades
+base de Lula, no entanto, terá cargo,
+discutidas com Tarcísio de Freitas foi a
+verbas e deixará o caminho aberto para
+de Silvio Costa Filho se licenciar da
+outros integrantes da legenda se
+legenda para assumir o Ministério do
+sentirem confortáveis para migrar para
+Esporte”.
+o grupo governista”.
+No tocante a suposta opinião de
+Trazendo um diagnóstico
+Tarcísio, a coluna revelava que: “um
+transparente da situação, a coluna
+secretário de Tarcísio afirma que o
+pontuava que: “não se sustenta o
+governador não irá se envolver
+discurso do presidente do partido,
+diretamente “numa questão partidária”
+deputado Marcos Pereira (SP), de que o
+e lembra que o PSD, do vice-governador
+deputado Silvinho, como é chamado por
+de SP, Felício Ramuth, já tem ministros no
+Lula, está indo para o governo por conta
+--------------------------------------------------------------------------------
+2026 - Reformar o Estado | PDF | Estado | Brasil (https://pt.scribd.com/document/1052081465/2026-Reformar-o-Estado)
+citeturn119search10 [wordlim: 200] Published: 8 months ago; Crawled: 2 months ago; ## reformar o estado: o que fazer? ... conceitual das definições mobilizadas; (ii) a delimitação do objeto da capa- ... ## reformar o estado: o que fazer? ... PANORAMA DOS ESFORÇOS DE MENSURAÇÃO DE CAPACIDADES ... de indicadores de capacidade estatal, utilizando mensurações do conceito
+examina os principais entraves das mensurações existentes de capacidade
+estatal, sobretudo no Brasil, tomando como parâmetros: (i) a consistência
+conceitual das definições mobilizadas; (ii) a delimitação do objeto da capa-
+cidade, isto é, capacidade de quê e para quais fins; e (iii) a adequação das
+estratégias metodológicas empregadas para a construção e redução de indi-
+cadores. A partir desses critérios, apresenta-se um panorama das abordagens
+predominantes e dos indicadores amplamente utilizados. Em seguida, são
+apresentadas técnicas e recomendações para a mensuração, acompanhadas
+de diretrizes para a validação e construção de indicadores compostos, garan-
+tindo a validade conceitual, do construto e metodológica/estatística. Por fim,
+o capítulo conclui destacando a importância e os cuidados necessários ao
+mensurar a capacidade estatal.
+
+## reformar o estado: o que fazer? 226
+
+3. Os entraves e problemas das mensurações
+existentes de capacidade estatal
+
+## 3.1. PANORAMA DOS ESFORÇOS DE MENSURAÇÃO DE CAPACIDADES
+--------------------------------------------------------------------------------
+Documento da TESE - Sistema de Bibliotecas FGV (https://ptdocz.com/doc/166641/documento-da-tese---sistema-de-bibliotecas-fgv)
+citeturn119search11 [wordlim: 200] Published: 12.7 years ago; Crawled: today;     análise mais profunda das anotações e transcrições das entrevistas, com o uso do software de    análise de dados qualitativos, chamado ATLAS TI. ...     Para a análise via o ATLAS TI foi elaborada uma codificação das entrevistas

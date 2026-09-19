@@ -1,0 +1,17 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "PSTU",
+  "id": 67,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=67&currentPage=0&pageSize=10000",
+      "records": 92,
+      "totalElements": 92,
+      "response_sha256": "ef0e7fbfbeed3045c511c6e1d63c82a9d20ed86a26976e43ca458c95d9644ede",
+      "retrieved_utc": "2026-09-10T23:38:07Z"
+    }
+  ],
+  "matches": []
+}

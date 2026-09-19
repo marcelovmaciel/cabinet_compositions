@@ -1,0 +1,14 @@
+{
+  "party": "DEMOCRATA",
+  "id": 60,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=60&currentPage=0&pageSize=10000",
+      "records": 114,
+      "totalElements": 114,
+      "response_sha256": "dca6153cfa22ca5de74079de2e112aa2e2fe454f37d470f643c61e3f373c06ab",
+      "retrieved_utc": "2026-09-10T23:43:05Z"
+    }
+  ],
+  "matches": []
+}

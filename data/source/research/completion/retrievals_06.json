@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://repositorio.ipea.gov.br/bitstreams/2469c87b-3082-405d-aba8-13971cabb8f7/download",
+    "file": "cabinet_dataset/research/completion/sources/atlas_nt53_repositorio.html",
+    "status": 200
+  },
+  {
+    "url": "https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/biblioteca-da-pr/galeria-dos-ex-presidentes/michel-miguel-elias-temer-lulia/ministerios-temer.pdf",
+    "file": "cabinet_dataset/research/completion/sources/ministerios_temer.html",
+    "status": 200
+  },
+  {
+    "url": "https://odia.ig.com.br/rio-de-janeiro/2019/11/5821272-mariana-ribas---nunca-vi-o-rio-nessa-situacao--o-grande-problema-e-a-falta-de-gestao.html",
+    "file": "cabinet_dataset/research/completion/sources/maria_ribas_2019.html",
+    "status": 200
+  }
+]

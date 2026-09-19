@@ -1,0 +1,5423 @@
+[
+  {
+    "codLocalidadeTse": 33030,
+    "codObjeto": "327",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ABARÉ"
+  },
+  {
+    "codLocalidadeTse": 33014,
+    "codObjeto": "326",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ABAÍRA"
+  },
+  {
+    "codLocalidadeTse": 33057,
+    "codObjeto": "331",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ACAJUTIBA"
+  },
+  {
+    "codLocalidadeTse": 33065,
+    "codObjeto": "335",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ADUSTINA"
+  },
+  {
+    "codLocalidadeTse": 33111,
+    "codObjeto": "341",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "AIQUARA"
+  },
+  {
+    "codLocalidadeTse": 33138,
+    "codObjeto": "342",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ALAGOINHAS"
+  },
+  {
+    "codLocalidadeTse": 33154,
+    "codObjeto": "343",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ALCOBAÇA"
+  },
+  {
+    "codLocalidadeTse": 33170,
+    "codObjeto": "347",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ALMADINA"
+  },
+  {
+    "codLocalidadeTse": 33197,
+    "codObjeto": "351",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "AMARGOSA"
+  },
+  {
+    "codLocalidadeTse": 33219,
+    "codObjeto": "352",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "AMÉLIA RODRIGUES"
+  },
+  {
+    "codLocalidadeTse": 30716,
+    "codObjeto": "353",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "AMÉRICA DOURADA"
+  },
+  {
+    "codLocalidadeTse": 33235,
+    "codObjeto": "355",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ANAGÉ"
+  },
+  {
+    "codLocalidadeTse": 33251,
+    "codObjeto": "356",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ANDARAÍ"
+  },
+  {
+    "codLocalidadeTse": 33260,
+    "codObjeto": "357",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ANDORINHA"
+  },
+  {
+    "codLocalidadeTse": 33278,
+    "codObjeto": "358",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ANGICAL"
+  },
+  {
+    "codLocalidadeTse": 33294,
+    "codObjeto": "360",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ANGUERA"
+  },
+  {
+    "codLocalidadeTse": 33316,
+    "codObjeto": "361",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ANTAS"
+  },
+  {
+    "codLocalidadeTse": 33332,
+    "codObjeto": "362",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ANTÔNIO CARDOSO"
+  },
+  {
+    "codLocalidadeTse": 33359,
+    "codObjeto": "363",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ANTÔNIO GONÇALVES"
+  },
+  {
+    "codLocalidadeTse": 33375,
+    "codObjeto": "364",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "APORÁ"
+  },
+  {
+    "codLocalidadeTse": 33405,
+    "codObjeto": "365",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "APUAREMA"
+  },
+  {
+    "codLocalidadeTse": 33391,
+    "codObjeto": "367",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ARACATU"
+  },
+  {
+    "codLocalidadeTse": 33413,
+    "codObjeto": "368",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ARACI"
+  },
+  {
+    "codLocalidadeTse": 33430,
+    "codObjeto": "369",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ARAMARI"
+  },
+  {
+    "codLocalidadeTse": 30732,
+    "codObjeto": "371",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ARATACA"
+  },
+  {
+    "codLocalidadeTse": 33456,
+    "codObjeto": "372",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ARATUÍPE"
+  },
+  {
+    "codLocalidadeTse": 33383,
+    "codObjeto": "366",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ARAÇÁS"
+  },
+  {
+    "codLocalidadeTse": 33472,
+    "codObjeto": "379",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "AURELINO LEAL"
+  },
+  {
+    "codLocalidadeTse": 33499,
+    "codObjeto": "380",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BAIANÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 33510,
+    "codObjeto": "382",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BAIXA GRANDE"
+  },
+  {
+    "codLocalidadeTse": 33529,
+    "codObjeto": "391",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BANZAÊ"
+  },
+  {
+    "codLocalidadeTse": 33537,
+    "codObjeto": "394",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BARRA"
+  },
+  {
+    "codLocalidadeTse": 33553,
+    "codObjeto": "395",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BARRA DA ESTIVA"
+  },
+  {
+    "codLocalidadeTse": 33570,
+    "codObjeto": "396",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BARRA DO CHOÇA"
+  },
+  {
+    "codLocalidadeTse": 33596,
+    "codObjeto": "398",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BARRA DO MENDES"
+  },
+  {
+    "codLocalidadeTse": 33618,
+    "codObjeto": "400",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BARRA DO ROCHA"
+  },
+  {
+    "codLocalidadeTse": 33634,
+    "codObjeto": "403",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BARREIRAS"
+  },
+  {
+    "codLocalidadeTse": 30759,
+    "codObjeto": "404",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BARRO ALTO"
+  },
+  {
+    "codLocalidadeTse": 33650,
+    "codObjeto": "10073",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BARRO PRETO"
+  },
+  {
+    "codLocalidadeTse": 30775,
+    "codObjeto": "407",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BARROCAS"
+  },
+  {
+    "codLocalidadeTse": 33677,
+    "codObjeto": "413",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BELMONTE"
+  },
+  {
+    "codLocalidadeTse": 33693,
+    "codObjeto": "414",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BELO CAMPO"
+  },
+  {
+    "codLocalidadeTse": 33715,
+    "codObjeto": "419",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BIRITINGA"
+  },
+  {
+    "codLocalidadeTse": 33731,
+    "codObjeto": "421",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BOA NOVA"
+  },
+  {
+    "codLocalidadeTse": 33758,
+    "codObjeto": "424",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BOA VISTA DO TUPIM"
+  },
+  {
+    "codLocalidadeTse": 33774,
+    "codObjeto": "427",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BOM JESUS DA LAPA"
+  },
+  {
+    "codLocalidadeTse": 33782,
+    "codObjeto": "428",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BOM JESUS DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 33790,
+    "codObjeto": "431",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BONINAL"
+  },
+  {
+    "codLocalidadeTse": 33804,
+    "codObjeto": "432",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BONITO"
+  },
+  {
+    "codLocalidadeTse": 33812,
+    "codObjeto": "433",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BOQUIRA"
+  },
+  {
+    "codLocalidadeTse": 33839,
+    "codObjeto": "434",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BOTUPORÃ"
+  },
+  {
+    "codLocalidadeTse": 33871,
+    "codObjeto": "441",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BREJOLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 33855,
+    "codObjeto": "440",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BREJÕES"
+  },
+  {
+    "codLocalidadeTse": 33898,
+    "codObjeto": "442",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BROTAS DE MACAÚBAS"
+  },
+  {
+    "codLocalidadeTse": 33910,
+    "codObjeto": "443",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BRUMADO"
+  },
+  {
+    "codLocalidadeTse": 33936,
+    "codObjeto": "445",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BUERAREMA"
+  },
+  {
+    "codLocalidadeTse": 30791,
+    "codObjeto": "450",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "BURITIRAMA"
+  },
+  {
+    "codLocalidadeTse": 33952,
+    "codObjeto": "451",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CAATIBA"
+  },
+  {
+    "codLocalidadeTse": 33960,
+    "codObjeto": "452",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CABACEIRAS DO PARAGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 33979,
+    "codObjeto": "455",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CACHOEIRA"
+  },
+  {
+    "codLocalidadeTse": 33995,
+    "codObjeto": "457",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CACULÉ"
+  },
+  {
+    "codLocalidadeTse": 34010,
+    "codObjeto": "10072",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CAEM"
+  },
+  {
+    "codLocalidadeTse": 34029,
+    "codObjeto": "459",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CAETANOS"
+  },
+  {
+    "codLocalidadeTse": 34037,
+    "codObjeto": "461",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CAETITÉ"
+  },
+  {
+    "codLocalidadeTse": 34053,
+    "codObjeto": "462",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CAFARNAUM"
+  },
+  {
+    "codLocalidadeTse": 34070,
+    "codObjeto": "465",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CAIRU"
+  },
+  {
+    "codLocalidadeTse": 34096,
+    "codObjeto": "470",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CALDEIRÃO GRANDE"
+  },
+  {
+    "codLocalidadeTse": 34118,
+    "codObjeto": "472",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CAMACAN"
+  },
+  {
+    "codLocalidadeTse": 34150,
+    "codObjeto": "474",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CAMAMU"
+  },
+  {
+    "codLocalidadeTse": 34134,
+    "codObjeto": "473",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CAMAÇARI"
+  },
+  {
+    "codLocalidadeTse": 34177,
+    "codObjeto": "478",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CAMPO ALEGRE DE LOURDES"
+  },
+  {
+    "codLocalidadeTse": 34193,
+    "codObjeto": "479",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CAMPO FORMOSO"
+  },
+  {
+    "codLocalidadeTse": 34231,
+    "codObjeto": "484",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CANARANA"
+  },
+  {
+    "codLocalidadeTse": 34258,
+    "codObjeto": "486",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CANAVIEIRAS"
+  },
+  {
+    "codLocalidadeTse": 34274,
+    "codObjeto": "488",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CANDEAL"
+  },
+  {
+    "codLocalidadeTse": 34290,
+    "codObjeto": "489",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CANDEIAS"
+  },
+  {
+    "codLocalidadeTse": 34312,
+    "codObjeto": "490",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CANDIBA"
+  },
+  {
+    "codLocalidadeTse": 34355,
+    "codObjeto": "493",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CANSANÇÃO"
+  },
+  {
+    "codLocalidadeTse": 30856,
+    "codObjeto": "495",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CANUDOS"
+  },
+  {
+    "codLocalidadeTse": 34215,
+    "codObjeto": "483",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CANÁPOLIS"
+  },
+  {
+    "codLocalidadeTse": 30813,
+    "codObjeto": "498",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CAPELA DO ALTO ALEGRE"
+  },
+  {
+    "codLocalidadeTse": 30830,
+    "codObjeto": "499",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CAPIM GROSSO"
+  },
+  {
+    "codLocalidadeTse": 34371,
+    "codObjeto": "505",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CARAVELAS"
+  },
+  {
+    "codLocalidadeTse": 34363,
+    "codObjeto": "501",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CARAÍBAS"
+  },
+  {
+    "codLocalidadeTse": 34398,
+    "codObjeto": "506",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CARDEAL DA SILVA"
+  },
+  {
+    "codLocalidadeTse": 34410,
+    "codObjeto": "507",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CARINHANHA"
+  },
+  {
+    "codLocalidadeTse": 34436,
+    "codObjeto": "511",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CASA NOVA"
+  },
+  {
+    "codLocalidadeTse": 34452,
+    "codObjeto": "513",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CASTRO ALVES"
+  },
+  {
+    "codLocalidadeTse": 34479,
+    "codObjeto": "516",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CATOLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 34495,
+    "codObjeto": "519",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CATU"
+  },
+  {
+    "codLocalidadeTse": 34509,
+    "codObjeto": "521",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CATURAMA"
+  },
+  {
+    "codLocalidadeTse": 34517,
+    "codObjeto": "523",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CENTRAL"
+  },
+  {
+    "codLocalidadeTse": 34533,
+    "codObjeto": "525",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CHORROCHÓ"
+  },
+  {
+    "codLocalidadeTse": 34576,
+    "codObjeto": "528",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CIPÓ"
+  },
+  {
+    "codLocalidadeTse": 34592,
+    "codObjeto": "529",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "COARACI"
+  },
+  {
+    "codLocalidadeTse": 34614,
+    "codObjeto": "530",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "COCOS"
+  },
+  {
+    "codLocalidadeTse": 34630,
+    "codObjeto": "533",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CONCEIÇÃO DA FEIRA"
+  },
+  {
+    "codLocalidadeTse": 34657,
+    "codObjeto": "534",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CONCEIÇÃO DO ALMEIDA"
+  },
+  {
+    "codLocalidadeTse": 34673,
+    "codObjeto": "535",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CONCEIÇÃO DO COITÉ"
+  },
+  {
+    "codLocalidadeTse": 34690,
+    "codObjeto": "536",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CONCEIÇÃO DO JACUÍPE"
+  },
+  {
+    "codLocalidadeTse": 34711,
+    "codObjeto": "537",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CONDE"
+  },
+  {
+    "codLocalidadeTse": 34738,
+    "codObjeto": "538",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CONDEÚBA"
+  },
+  {
+    "codLocalidadeTse": 34754,
+    "codObjeto": "539",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CONTENDAS DO SINCORÁ"
+  },
+  {
+    "codLocalidadeTse": 34770,
+    "codObjeto": "543",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CORAÇÃO DE MARIA"
+  },
+  {
+    "codLocalidadeTse": 34797,
+    "codObjeto": "544",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CORDEIROS"
+  },
+  {
+    "codLocalidadeTse": 34819,
+    "codObjeto": "545",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CORIBE"
+  },
+  {
+    "codLocalidadeTse": 34835,
+    "codObjeto": "546",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CORONEL JOÃO SÁ"
+  },
+  {
+    "codLocalidadeTse": 34851,
+    "codObjeto": "547",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CORRENTINA"
+  },
+  {
+    "codLocalidadeTse": 34878,
+    "codObjeto": "549",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "COTEGIPE"
+  },
+  {
+    "codLocalidadeTse": 34894,
+    "codObjeto": "551",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CRAVOLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 34932,
+    "codObjeto": "554",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CRISTÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 34916,
+    "codObjeto": "552",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CRISÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 34959,
+    "codObjeto": "556",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CRUZ DAS ALMAS"
+  },
+  {
+    "codLocalidadeTse": 34975,
+    "codObjeto": "559",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CURAÇÁ"
+  },
+  {
+    "codLocalidadeTse": 34339,
+    "codObjeto": "491",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CÂNDIDO SALES"
+  },
+  {
+    "codLocalidadeTse": 34550,
+    "codObjeto": "526",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "CÍCERO DANTAS"
+  },
+  {
+    "codLocalidadeTse": 30872,
+    "codObjeto": "565",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "DIAS D'ÁVILA"
+  },
+  {
+    "codLocalidadeTse": 35017,
+    "codObjeto": "567",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "DOM BASÍLIO"
+  },
+  {
+    "codLocalidadeTse": 35033,
+    "codObjeto": "568",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "DOM MACEDO COSTA"
+  },
+  {
+    "codLocalidadeTse": 34991,
+    "codObjeto": "561",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "DÁRIO MEIRA"
+  },
+  {
+    "codLocalidadeTse": 35050,
+    "codObjeto": "571",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ELÍSIO MEDRADO"
+  },
+  {
+    "codLocalidadeTse": 35076,
+    "codObjeto": "572",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ENCRUZILHADA"
+  },
+  {
+    "codLocalidadeTse": 35092,
+    "codObjeto": "575",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ENTRE RIOS"
+  },
+  {
+    "codLocalidadeTse": 35114,
+    "codObjeto": "577",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ESPLANADA"
+  },
+  {
+    "codLocalidadeTse": 35130,
+    "codObjeto": "578",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "EUCLIDES DA CUNHA"
+  },
+  {
+    "codLocalidadeTse": 30058,
+    "codObjeto": "579",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "EUNÁPOLIS"
+  },
+  {
+    "codLocalidadeTse": 35149,
+    "codObjeto": "581",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "FEIRA DA MATA"
+  },
+  {
+    "codLocalidadeTse": 35157,
+    "codObjeto": "582",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "FEIRA DE SANTANA"
+  },
+  {
+    "codLocalidadeTse": 30910,
+    "codObjeto": "584",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "FILADÉLFIA"
+  },
+  {
+    "codLocalidadeTse": 35173,
+    "codObjeto": "586",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "FIRMINO ALVES"
+  },
+  {
+    "codLocalidadeTse": 35190,
+    "codObjeto": "587",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "FLORESTA AZUL"
+  },
+  {
+    "codLocalidadeTse": 35211,
+    "codObjeto": "588",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "FORMOSA DO RIO PRETO"
+  },
+  {
+    "codLocalidadeTse": 30899,
+    "codObjeto": "580",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "FÁTIMA"
+  },
+  {
+    "codLocalidadeTse": 35238,
+    "codObjeto": "595",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "GANDU"
+  },
+  {
+    "codLocalidadeTse": 30937,
+    "codObjeto": "596",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "GAVIÃO"
+  },
+  {
+    "codLocalidadeTse": 35254,
+    "codObjeto": "597",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "GENTIO DO OURO"
+  },
+  {
+    "codLocalidadeTse": 35270,
+    "codObjeto": "599",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "GLÓRIA"
+  },
+  {
+    "codLocalidadeTse": 35297,
+    "codObjeto": "600",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "GONGOGI"
+  },
+  {
+    "codLocalidadeTse": 35319,
+    "codObjeto": "602",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "GOVERNADOR MANGABEIRA"
+  },
+  {
+    "codLocalidadeTse": 30953,
+    "codObjeto": "605",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "GUAJERU"
+  },
+  {
+    "codLocalidadeTse": 35335,
+    "codObjeto": "606",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "GUANAMBI"
+  },
+  {
+    "codLocalidadeTse": 35351,
+    "codObjeto": "609",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "GUARATINGA"
+  },
+  {
+    "codLocalidadeTse": 30970,
+    "codObjeto": "614",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "HELIÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 35378,
+    "codObjeto": "618",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IAÇU"
+  },
+  {
+    "codLocalidadeTse": 35394,
+    "codObjeto": "623",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IBIASSUCÊ"
+  },
+  {
+    "codLocalidadeTse": 35416,
+    "codObjeto": "624",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IBICARAÍ"
+  },
+  {
+    "codLocalidadeTse": 35432,
+    "codObjeto": "625",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IBICOARA"
+  },
+  {
+    "codLocalidadeTse": 35459,
+    "codObjeto": "626",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IBICUÍ"
+  },
+  {
+    "codLocalidadeTse": 35475,
+    "codObjeto": "627",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IBIPEBA"
+  },
+  {
+    "codLocalidadeTse": 35513,
+    "codObjeto": "629",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IBIPITANGA"
+  },
+  {
+    "codLocalidadeTse": 35530,
+    "codObjeto": "630",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IBIQUERA"
+  },
+  {
+    "codLocalidadeTse": 35556,
+    "codObjeto": "634",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IBIRAPITANGA"
+  },
+  {
+    "codLocalidadeTse": 35572,
+    "codObjeto": "635",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IBIRAPUÃ"
+  },
+  {
+    "codLocalidadeTse": 35599,
+    "codObjeto": "636",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IBIRATAIA"
+  },
+  {
+    "codLocalidadeTse": 35610,
+    "codObjeto": "637",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IBITIARA"
+  },
+  {
+    "codLocalidadeTse": 35637,
+    "codObjeto": "640",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IBITITÁ"
+  },
+  {
+    "codLocalidadeTse": 35653,
+    "codObjeto": "644",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IBOTIRAMA"
+  },
+  {
+    "codLocalidadeTse": 35670,
+    "codObjeto": "645",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ICHU"
+  },
+  {
+    "codLocalidadeTse": 35696,
+    "codObjeto": "647",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IGAPORÃ"
+  },
+  {
+    "codLocalidadeTse": 35700,
+    "codObjeto": "651",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IGRAPIÚNA"
+  },
+  {
+    "codLocalidadeTse": 35718,
+    "codObjeto": "653",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IGUAÍ"
+  },
+  {
+    "codLocalidadeTse": 35734,
+    "codObjeto": "659",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ILHÉUS"
+  },
+  {
+    "codLocalidadeTse": 35750,
+    "codObjeto": "662",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "INHAMBUPE"
+  },
+  {
+    "codLocalidadeTse": 35777,
+    "codObjeto": "667",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IPECAETÁ"
+  },
+  {
+    "codLocalidadeTse": 35793,
+    "codObjeto": "668",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IPIAÚ"
+  },
+  {
+    "codLocalidadeTse": 35815,
+    "codObjeto": "669",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IPIRÁ"
+  },
+  {
+    "codLocalidadeTse": 35831,
+    "codObjeto": "672",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IPUPIARA"
+  },
+  {
+    "codLocalidadeTse": 35858,
+    "codObjeto": "673",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IRAJUBA"
+  },
+  {
+    "codLocalidadeTse": 35874,
+    "codObjeto": "674",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IRAMAIA"
+  },
+  {
+    "codLocalidadeTse": 35890,
+    "codObjeto": "676",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IRAQUARA"
+  },
+  {
+    "codLocalidadeTse": 35912,
+    "codObjeto": "677",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IRARÁ"
+  },
+  {
+    "codLocalidadeTse": 35939,
+    "codObjeto": "678",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IRECÊ"
+  },
+  {
+    "codLocalidadeTse": 35947,
+    "codObjeto": "681",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITABELA"
+  },
+  {
+    "codLocalidadeTse": 35955,
+    "codObjeto": "682",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITABERABA"
+  },
+  {
+    "codLocalidadeTse": 35971,
+    "codObjeto": "683",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITABUNA"
+  },
+  {
+    "codLocalidadeTse": 35998,
+    "codObjeto": "684",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITACARÉ"
+  },
+  {
+    "codLocalidadeTse": 36013,
+    "codObjeto": "688",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAETÉ"
+  },
+  {
+    "codLocalidadeTse": 36030,
+    "codObjeto": "689",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAGI"
+  },
+  {
+    "codLocalidadeTse": 36056,
+    "codObjeto": "690",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAGIBÁ"
+  },
+  {
+    "codLocalidadeTse": 36072,
+    "codObjeto": "691",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAGIMIRIM"
+  },
+  {
+    "codLocalidadeTse": 36080,
+    "codObjeto": "692",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAGUAÇU DA BAHIA"
+  },
+  {
+    "codLocalidadeTse": 36099,
+    "codObjeto": "698",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAJU DO COLÔNIA"
+  },
+  {
+    "codLocalidadeTse": 36110,
+    "codObjeto": "700",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAJUÍPE"
+  },
+  {
+    "codLocalidadeTse": 36137,
+    "codObjeto": "702",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAMARAJU"
+  },
+  {
+    "codLocalidadeTse": 36153,
+    "codObjeto": "703",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAMARI"
+  },
+  {
+    "codLocalidadeTse": 36170,
+    "codObjeto": "704",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAMBÉ"
+  },
+  {
+    "codLocalidadeTse": 36196,
+    "codObjeto": "708",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITANAGRA"
+  },
+  {
+    "codLocalidadeTse": 36218,
+    "codObjeto": "709",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITANHÉM"
+  },
+  {
+    "codLocalidadeTse": 36234,
+    "codObjeto": "711",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAPARICA"
+  },
+  {
+    "codLocalidadeTse": 36277,
+    "codObjeto": "713",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAPEBI"
+  },
+  {
+    "codLocalidadeTse": 36293,
+    "codObjeto": "715",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAPETINGA"
+  },
+  {
+    "codLocalidadeTse": 36315,
+    "codObjeto": "716",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAPICURU"
+  },
+  {
+    "codLocalidadeTse": 36331,
+    "codObjeto": "718",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAPITANGA"
+  },
+  {
+    "codLocalidadeTse": 36250,
+    "codObjeto": "712",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAPÉ"
+  },
+  {
+    "codLocalidadeTse": 36358,
+    "codObjeto": "721",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITAQUARA"
+  },
+  {
+    "codLocalidadeTse": 36374,
+    "codObjeto": "723",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITARANTIM"
+  },
+  {
+    "codLocalidadeTse": 36382,
+    "codObjeto": "725",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITATIM"
+  },
+  {
+    "codLocalidadeTse": 36390,
+    "codObjeto": "727",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITIRUÇU"
+  },
+  {
+    "codLocalidadeTse": 36412,
+    "codObjeto": "728",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITIÚBA"
+  },
+  {
+    "codLocalidadeTse": 36439,
+    "codObjeto": "729",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITORORÓ"
+  },
+  {
+    "codLocalidadeTse": 36455,
+    "codObjeto": "730",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITUAÇU"
+  },
+  {
+    "codLocalidadeTse": 36471,
+    "codObjeto": "731",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ITUBERÁ"
+  },
+  {
+    "codLocalidadeTse": 30660,
+    "codObjeto": "733",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "IUIU"
+  },
+  {
+    "codLocalidadeTse": 30678,
+    "codObjeto": "734",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JABORANDI"
+  },
+  {
+    "codLocalidadeTse": 36498,
+    "codObjeto": "735",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JACARACI"
+  },
+  {
+    "codLocalidadeTse": 36510,
+    "codObjeto": "736",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JACOBINA"
+  },
+  {
+    "codLocalidadeTse": 36536,
+    "codObjeto": "740",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JAGUAQUARA"
+  },
+  {
+    "codLocalidadeTse": 36552,
+    "codObjeto": "742",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JAGUARARI"
+  },
+  {
+    "codLocalidadeTse": 36579,
+    "codObjeto": "743",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JAGUARIPE"
+  },
+  {
+    "codLocalidadeTse": 36595,
+    "codObjeto": "745",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JANDAÍRA"
+  },
+  {
+    "codLocalidadeTse": 36617,
+    "codObjeto": "749",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JEQUIÉ"
+  },
+  {
+    "codLocalidadeTse": 36633,
+    "codObjeto": "751",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JEREMOABO"
+  },
+  {
+    "codLocalidadeTse": 36650,
+    "codObjeto": "750",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JIQUIRIÇÁ"
+  },
+  {
+    "codLocalidadeTse": 36676,
+    "codObjeto": "753",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JITAÚNA"
+  },
+  {
+    "codLocalidadeTse": 30996,
+    "codObjeto": "756",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JOÃO DOURADO"
+  },
+  {
+    "codLocalidadeTse": 36692,
+    "codObjeto": "759",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JUAZEIRO"
+  },
+  {
+    "codLocalidadeTse": 36706,
+    "codObjeto": "760",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JUCURUÇU"
+  },
+  {
+    "codLocalidadeTse": 36714,
+    "codObjeto": "766",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JUSSARA"
+  },
+  {
+    "codLocalidadeTse": 30694,
+    "codObjeto": "767",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JUSSARI"
+  },
+  {
+    "codLocalidadeTse": 36730,
+    "codObjeto": "768",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "JUSSIAPE"
+  },
+  {
+    "codLocalidadeTse": 36757,
+    "codObjeto": "770",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "LAFAIETE COUTINHO"
+  },
+  {
+    "codLocalidadeTse": 36765,
+    "codObjeto": "778",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "LAGOA REAL"
+  },
+  {
+    "codLocalidadeTse": 36773,
+    "codObjeto": "779",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "LAJE"
+  },
+  {
+    "codLocalidadeTse": 36811,
+    "codObjeto": "782",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "LAJEDINHO"
+  },
+  {
+    "codLocalidadeTse": 36820,
+    "codObjeto": "784",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "LAJEDO DO TABOCAL"
+  },
+  {
+    "codLocalidadeTse": 36790,
+    "codObjeto": "781",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "LAJEDÃO"
+  },
+  {
+    "codLocalidadeTse": 36838,
+    "codObjeto": "785",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "LAMARÃO"
+  },
+  {
+    "codLocalidadeTse": 39730,
+    "codObjeto": "787",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "LAPÃO"
+  },
+  {
+    "codLocalidadeTse": 36854,
+    "codObjeto": "789",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "LAURO DE FREITAS"
+  },
+  {
+    "codLocalidadeTse": 36870,
+    "codObjeto": "790",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "LENÇÓIS"
+  },
+  {
+    "codLocalidadeTse": 36897,
+    "codObjeto": "791",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "LICÍNIO DE ALMEIDA"
+  },
+  {
+    "codLocalidadeTse": 36919,
+    "codObjeto": "10074",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "LIVRAMENTO DE NOSSA SENHORA"
+  },
+  {
+    "codLocalidadeTse": 30007,
+    "codObjeto": "9918500118894",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "LUÍS EDUARDO MAGALHÃES"
+  },
+  {
+    "codLocalidadeTse": 36935,
+    "codObjeto": "797",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MACAJUBA"
+  },
+  {
+    "codLocalidadeTse": 36951,
+    "codObjeto": "798",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MACARANI"
+  },
+  {
+    "codLocalidadeTse": 36978,
+    "codObjeto": "799",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MACAÚBAS"
+  },
+  {
+    "codLocalidadeTse": 36994,
+    "codObjeto": "800",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MACURURÉ"
+  },
+  {
+    "codLocalidadeTse": 39748,
+    "codObjeto": "801",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MADRE DE DEUS"
+  },
+  {
+    "codLocalidadeTse": 39756,
+    "codObjeto": "802",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MAETINGA"
+  },
+  {
+    "codLocalidadeTse": 37010,
+    "codObjeto": "803",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MAIQUINIQUE"
+  },
+  {
+    "codLocalidadeTse": 37036,
+    "codObjeto": "804",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MAIRI"
+  },
+  {
+    "codLocalidadeTse": 37052,
+    "codObjeto": "805",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MALHADA"
+  },
+  {
+    "codLocalidadeTse": 37079,
+    "codObjeto": "806",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MALHADA DE PEDRAS"
+  },
+  {
+    "codLocalidadeTse": 37095,
+    "codObjeto": "810",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MANOEL VITORINO"
+  },
+  {
+    "codLocalidadeTse": 39772,
+    "codObjeto": "811",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MANSIDÃO"
+  },
+  {
+    "codLocalidadeTse": 37117,
+    "codObjeto": "814",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MARACÁS"
+  },
+  {
+    "codLocalidadeTse": 37133,
+    "codObjeto": "815",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MARAGOGIPE"
+  },
+  {
+    "codLocalidadeTse": 37150,
+    "codObjeto": "817",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MARAÚ"
+  },
+  {
+    "codLocalidadeTse": 37176,
+    "codObjeto": "818",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MARCIONÍLIO SOUZA"
+  },
+  {
+    "codLocalidadeTse": 37192,
+    "codObjeto": "823",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MASCOTE"
+  },
+  {
+    "codLocalidadeTse": 37214,
+    "codObjeto": "827",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MATA DE SÃO JOÃO"
+  },
+  {
+    "codLocalidadeTse": 37222,
+    "codObjeto": "829",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MATINA"
+  },
+  {
+    "codLocalidadeTse": 37230,
+    "codObjeto": "831",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MEDEIROS NETO"
+  },
+  {
+    "codLocalidadeTse": 37257,
+    "codObjeto": "832",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MIGUEL CALMON"
+  },
+  {
+    "codLocalidadeTse": 37273,
+    "codObjeto": "833",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MILAGRES"
+  },
+  {
+    "codLocalidadeTse": 37290,
+    "codObjeto": "839",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MIRANGABA"
+  },
+  {
+    "codLocalidadeTse": 37303,
+    "codObjeto": "840",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MIRANTE"
+  },
+  {
+    "codLocalidadeTse": 37311,
+    "codObjeto": "846",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MONTE SANTO"
+  },
+  {
+    "codLocalidadeTse": 37338,
+    "codObjeto": "847",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MORPARÁ"
+  },
+  {
+    "codLocalidadeTse": 37354,
+    "codObjeto": "851",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MORRO DO CHAPÉU"
+  },
+  {
+    "codLocalidadeTse": 37370,
+    "codObjeto": "852",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MORTUGABA"
+  },
+  {
+    "codLocalidadeTse": 37397,
+    "codObjeto": "853",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MUCUGÊ"
+  },
+  {
+    "codLocalidadeTse": 37419,
+    "codObjeto": "854",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MUCURI"
+  },
+  {
+    "codLocalidadeTse": 37427,
+    "codObjeto": "855",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MULUNGU DO MORRO"
+  },
+  {
+    "codLocalidadeTse": 37435,
+    "codObjeto": "856",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MUNDO NOVO"
+  },
+  {
+    "codLocalidadeTse": 37451,
+    "codObjeto": "857",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MUNIZ FERREIRA"
+  },
+  {
+    "codLocalidadeTse": 37460,
+    "codObjeto": "858",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MUQUÉM DO SÃO FRANCISCO"
+  },
+  {
+    "codLocalidadeTse": 37478,
+    "codObjeto": "859",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MURITIBA"
+  },
+  {
+    "codLocalidadeTse": 37494,
+    "codObjeto": "861",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "MUTUÍPE"
+  },
+  {
+    "codLocalidadeTse": 37516,
+    "codObjeto": "864",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "NAZARÉ"
+  },
+  {
+    "codLocalidadeTse": 37532,
+    "codObjeto": "865",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "NILO PEÇANHA"
+  },
+  {
+    "codLocalidadeTse": 39799,
+    "codObjeto": "866",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "NORDESTINA"
+  },
+  {
+    "codLocalidadeTse": 37559,
+    "codObjeto": "869",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "NOVA CANAÃ"
+  },
+  {
+    "codLocalidadeTse": 37567,
+    "codObjeto": "870",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "NOVA FÁTIMA"
+  },
+  {
+    "codLocalidadeTse": 39969,
+    "codObjeto": "871",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "NOVA IBIÁ"
+  },
+  {
+    "codLocalidadeTse": 37575,
+    "codObjeto": "873",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "NOVA ITARANA"
+  },
+  {
+    "codLocalidadeTse": 37583,
+    "codObjeto": "875",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "NOVA REDENÇÃO"
+  },
+  {
+    "codLocalidadeTse": 37591,
+    "codObjeto": "876",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "NOVA SOURE"
+  },
+  {
+    "codLocalidadeTse": 37613,
+    "codObjeto": "877",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "NOVA VIÇOSA"
+  },
+  {
+    "codLocalidadeTse": 39942,
+    "codObjeto": "879",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "NOVO HORIZONTE"
+  },
+  {
+    "codLocalidadeTse": 37621,
+    "codObjeto": "880",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "NOVO TRIUNFO"
+  },
+  {
+    "codLocalidadeTse": 37630,
+    "codObjeto": "885",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "OLINDINA"
+  },
+  {
+    "codLocalidadeTse": 37656,
+    "codObjeto": "886",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "OLIVEIRA DOS BREJINHOS"
+  },
+  {
+    "codLocalidadeTse": 37672,
+    "codObjeto": "891",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "OURIÇANGAS"
+  },
+  {
+    "codLocalidadeTse": 37680,
+    "codObjeto": "893",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "OUROLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 37699,
+    "codObjeto": "898",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PALMAS DE MONTE ALTO"
+  },
+  {
+    "codLocalidadeTse": 37710,
+    "codObjeto": "899",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PALMEIRAS"
+  },
+  {
+    "codLocalidadeTse": 37737,
+    "codObjeto": "901",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PARAMIRIM"
+  },
+  {
+    "codLocalidadeTse": 37753,
+    "codObjeto": "903",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PARATINGA"
+  },
+  {
+    "codLocalidadeTse": 37770,
+    "codObjeto": "904",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PARIPIRANGA"
+  },
+  {
+    "codLocalidadeTse": 37796,
+    "codObjeto": "908",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PAU BRASIL"
+  },
+  {
+    "codLocalidadeTse": 37818,
+    "codObjeto": "909",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PAULO AFONSO"
+  },
+  {
+    "codLocalidadeTse": 37850,
+    "codObjeto": "913",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PEDRO ALEXANDRE"
+  },
+  {
+    "codLocalidadeTse": 37834,
+    "codObjeto": "911",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PEDRÃO"
+  },
+  {
+    "codLocalidadeTse": 37877,
+    "codObjeto": "917",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PIATÃ"
+  },
+  {
+    "codLocalidadeTse": 37893,
+    "codObjeto": "919",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PILÃO ARCADO"
+  },
+  {
+    "codLocalidadeTse": 37915,
+    "codObjeto": "10075",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PINDAÍ"
+  },
+  {
+    "codLocalidadeTse": 37931,
+    "codObjeto": "922",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PINDOBAÇU"
+  },
+  {
+    "codLocalidadeTse": 39837,
+    "codObjeto": "924",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PINTADAS"
+  },
+  {
+    "codLocalidadeTse": 37940,
+    "codObjeto": "926",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PIRAÍ DO NORTE"
+  },
+  {
+    "codLocalidadeTse": 37958,
+    "codObjeto": "930",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PIRIPÁ"
+  },
+  {
+    "codLocalidadeTse": 37974,
+    "codObjeto": "931",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PIRITIBA"
+  },
+  {
+    "codLocalidadeTse": 37990,
+    "codObjeto": "933",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PLANALTINO"
+  },
+  {
+    "codLocalidadeTse": 38016,
+    "codObjeto": "934",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PLANALTO"
+  },
+  {
+    "codLocalidadeTse": 38059,
+    "codObjeto": "939",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "POJUCA"
+  },
+  {
+    "codLocalidadeTse": 38067,
+    "codObjeto": "942",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PONTO NOVO"
+  },
+  {
+    "codLocalidadeTse": 38075,
+    "codObjeto": "944",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PORTO SEGURO"
+  },
+  {
+    "codLocalidadeTse": 38091,
+    "codObjeto": "946",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "POTIRAGUÁ"
+  },
+  {
+    "codLocalidadeTse": 38032,
+    "codObjeto": "937",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "POÇÕES"
+  },
+  {
+    "codLocalidadeTse": 38113,
+    "codObjeto": "948",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PRADO"
+  },
+  {
+    "codLocalidadeTse": 38130,
+    "codObjeto": "949",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PRESIDENTE DUTRA"
+  },
+  {
+    "codLocalidadeTse": 38156,
+    "codObjeto": "950",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PRESIDENTE JÂNIO QUADROS"
+  },
+  {
+    "codLocalidadeTse": 38164,
+    "codObjeto": "951",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PRESIDENTE TANCREDO NEVES"
+  },
+  {
+    "codLocalidadeTse": 39810,
+    "codObjeto": "910",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "PÉ DE SERRA"
+  },
+  {
+    "codLocalidadeTse": 38172,
+    "codObjeto": "954",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "QUEIMADAS"
+  },
+  {
+    "codLocalidadeTse": 38199,
+    "codObjeto": "955",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "QUIJINGUE"
+  },
+  {
+    "codLocalidadeTse": 39845,
+    "codObjeto": "957",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "QUIXABEIRA"
+  },
+  {
+    "codLocalidadeTse": 39853,
+    "codObjeto": "958",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RAFAEL JAMBEIRO"
+  },
+  {
+    "codLocalidadeTse": 38210,
+    "codObjeto": "960",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "REMANSO"
+  },
+  {
+    "codLocalidadeTse": 38237,
+    "codObjeto": "962",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RETIROLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 38296,
+    "codObjeto": "967",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RIACHO DE SANTANA"
+  },
+  {
+    "codLocalidadeTse": 38253,
+    "codObjeto": "963",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RIACHÃO DAS NEVES"
+  },
+  {
+    "codLocalidadeTse": 38270,
+    "codObjeto": "964",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RIACHÃO DO JACUÍPE"
+  },
+  {
+    "codLocalidadeTse": 38318,
+    "codObjeto": "969",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RIBEIRA DO AMPARO"
+  },
+  {
+    "codLocalidadeTse": 38334,
+    "codObjeto": "970",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RIBEIRA DO POMBAL"
+  },
+  {
+    "codLocalidadeTse": 38342,
+    "codObjeto": "971",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RIBEIRÃO DO LARGO"
+  },
+  {
+    "codLocalidadeTse": 38350,
+    "codObjeto": "974",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RIO DE CONTAS"
+  },
+  {
+    "codLocalidadeTse": 38377,
+    "codObjeto": "975",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RIO DO ANTÔNIO"
+  },
+  {
+    "codLocalidadeTse": 38393,
+    "codObjeto": "978",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RIO DO PIRES"
+  },
+  {
+    "codLocalidadeTse": 38415,
+    "codObjeto": "980",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RIO REAL"
+  },
+  {
+    "codLocalidadeTse": 38431,
+    "codObjeto": "981",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RODELAS"
+  },
+  {
+    "codLocalidadeTse": 38458,
+    "codObjeto": "982",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "RUY BARBOSA"
+  },
+  {
+    "codLocalidadeTse": 38474,
+    "codObjeto": "985",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SALINAS DA MARGARIDA"
+  },
+  {
+    "codLocalidadeTse": 38490,
+    "codObjeto": "988",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SALVADOR"
+  },
+  {
+    "codLocalidadeTse": 38539,
+    "codObjeto": "991",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTA BRÍGIDA"
+  },
+  {
+    "codLocalidadeTse": 38512,
+    "codObjeto": "990",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTA BÁRBARA"
+  },
+  {
+    "codLocalidadeTse": 38555,
+    "codObjeto": "992",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTA CRUZ CABRÁLIA"
+  },
+  {
+    "codLocalidadeTse": 38571,
+    "codObjeto": "993",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTA CRUZ DA VITÓRIA"
+  },
+  {
+    "codLocalidadeTse": 38598,
+    "codObjeto": "994",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTA INÊS"
+  },
+  {
+    "codLocalidadeTse": 39870,
+    "codObjeto": "995",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTA LUZIA"
+  },
+  {
+    "codLocalidadeTse": 38636,
+    "codObjeto": "996",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTA MARIA DA VITÓRIA"
+  },
+  {
+    "codLocalidadeTse": 35491,
+    "codObjeto": "997",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTA RITA DE CÁSSIA"
+  },
+  {
+    "codLocalidadeTse": 38695,
+    "codObjeto": "998",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTA TEREZINHA"
+  },
+  {
+    "codLocalidadeTse": 38610,
+    "codObjeto": "999",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTALUZ"
+  },
+  {
+    "codLocalidadeTse": 38652,
+    "codObjeto": "1000",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTANA"
+  },
+  {
+    "codLocalidadeTse": 38679,
+    "codObjeto": "1002",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTANÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 38717,
+    "codObjeto": "1004",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTO AMARO"
+  },
+  {
+    "codLocalidadeTse": 38733,
+    "codObjeto": "1006",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DE JESUS"
+  },
+  {
+    "codLocalidadeTse": 38750,
+    "codObjeto": "1007",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SANTO ESTEVÃO"
+  },
+  {
+    "codLocalidadeTse": 38911,
+    "codObjeto": "1029",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SAPEAÇU"
+  },
+  {
+    "codLocalidadeTse": 38946,
+    "codObjeto": "1031",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SAUBARA"
+  },
+  {
+    "codLocalidadeTse": 38954,
+    "codObjeto": "1033",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SAÚDE"
+  },
+  {
+    "codLocalidadeTse": 38970,
+    "codObjeto": "1034",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SEABRA"
+  },
+  {
+    "codLocalidadeTse": 38997,
+    "codObjeto": "1035",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SEBASTIÃO LARANJEIRAS"
+  },
+  {
+    "codLocalidadeTse": 39012,
+    "codObjeto": "1036",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SENHOR DO BONFIM"
+  },
+  {
+    "codLocalidadeTse": 39039,
+    "codObjeto": "1037",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SENTO SÉ"
+  },
+  {
+    "codLocalidadeTse": 39047,
+    "codObjeto": "1040",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SERRA DO RAMALHO"
+  },
+  {
+    "codLocalidadeTse": 39055,
+    "codObjeto": "1041",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SERRA DOURADA"
+  },
+  {
+    "codLocalidadeTse": 39071,
+    "codObjeto": "1044",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SERRA PRETA"
+  },
+  {
+    "codLocalidadeTse": 39098,
+    "codObjeto": "1045",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SERRINHA"
+  },
+  {
+    "codLocalidadeTse": 39110,
+    "codObjeto": "1046",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SERROLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 39136,
+    "codObjeto": "1047",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SIMÕES FILHO"
+  },
+  {
+    "codLocalidadeTse": 39985,
+    "codObjeto": "1055",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SOBRADINHO"
+  },
+  {
+    "codLocalidadeTse": 39152,
+    "codObjeto": "1056",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SOUTO SOARES"
+  },
+  {
+    "codLocalidadeTse": 38938,
+    "codObjeto": "1030",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÁTIRO DIAS"
+  },
+  {
+    "codLocalidadeTse": 38776,
+    "codObjeto": "1009",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÃO DESIDÉRIO"
+  },
+  {
+    "codLocalidadeTse": 38806,
+    "codObjeto": "1010",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÃO DOMINGOS"
+  },
+  {
+    "codLocalidadeTse": 38814,
+    "codObjeto": "1011",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÃO FELIPE"
+  },
+  {
+    "codLocalidadeTse": 38830,
+    "codObjeto": "1014",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÃO FRANCISCO DO CONDE"
+  },
+  {
+    "codLocalidadeTse": 38792,
+    "codObjeto": "1012",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÃO FÉLIX"
+  },
+  {
+    "codLocalidadeTse": 38822,
+    "codObjeto": "1013",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÃO FÉLIX DO CORIBE"
+  },
+  {
+    "codLocalidadeTse": 39896,
+    "codObjeto": "1015",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÃO GABRIEL"
+  },
+  {
+    "codLocalidadeTse": 38857,
+    "codObjeto": "1016",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÃO GONÇALO DOS CAMPOS"
+  },
+  {
+    "codLocalidadeTse": 39926,
+    "codObjeto": "1019",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÃO JOSÉ DA VITÓRIA"
+  },
+  {
+    "codLocalidadeTse": 38865,
+    "codObjeto": "1021",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÃO JOSÉ DO JACUÍPE"
+  },
+  {
+    "codLocalidadeTse": 38873,
+    "codObjeto": "1024",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÃO MIGUEL DAS MATAS"
+  },
+  {
+    "codLocalidadeTse": 38890,
+    "codObjeto": "1027",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÃO SEBASTIÃO DO PASSÉ"
+  },
+  {
+    "codLocalidadeTse": 39144,
+    "codObjeto": "1049",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÍTIO DO MATO"
+  },
+  {
+    "codLocalidadeTse": 39900,
+    "codObjeto": "1051",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "SÍTIO DO QUINTO"
+  },
+  {
+    "codLocalidadeTse": 39179,
+    "codObjeto": "1059",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "TABOCAS DO BREJO VELHO"
+  },
+  {
+    "codLocalidadeTse": 39195,
+    "codObjeto": "1064",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "TANHAÇU"
+  },
+  {
+    "codLocalidadeTse": 39918,
+    "codObjeto": "1065",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "TANQUE NOVO"
+  },
+  {
+    "codLocalidadeTse": 39217,
+    "codObjeto": "1066",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "TANQUINHO"
+  },
+  {
+    "codLocalidadeTse": 39233,
+    "codObjeto": "1068",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "TAPEROÁ"
+  },
+  {
+    "codLocalidadeTse": 39250,
+    "codObjeto": "1071",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "TAPIRAMUTÁ"
+  },
+  {
+    "codLocalidadeTse": 39934,
+    "codObjeto": "1078",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "TEIXEIRA DE FREITAS"
+  },
+  {
+    "codLocalidadeTse": 39276,
+    "codObjeto": "1079",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "TEODORO SAMPAIO"
+  },
+  {
+    "codLocalidadeTse": 39292,
+    "codObjeto": "1080",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "TEOFILÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 39314,
+    "codObjeto": "1081",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "TEOLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 39330,
+    "codObjeto": "1082",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "TERRA NOVA"
+  },
+  {
+    "codLocalidadeTse": 39357,
+    "codObjeto": "1085",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "TREMEDAL"
+  },
+  {
+    "codLocalidadeTse": 39373,
+    "codObjeto": "1087",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "TUCANO"
+  },
+  {
+    "codLocalidadeTse": 39390,
+    "codObjeto": "1088",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "UAUÁ"
+  },
+  {
+    "codLocalidadeTse": 39438,
+    "codObjeto": "1090",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "UBAITABA"
+  },
+  {
+    "codLocalidadeTse": 39454,
+    "codObjeto": "1091",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "UBATÃ"
+  },
+  {
+    "codLocalidadeTse": 39411,
+    "codObjeto": "1089",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "UBAÍRA"
+  },
+  {
+    "codLocalidadeTse": 39470,
+    "codObjeto": "1094",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "UIBAÍ"
+  },
+  {
+    "codLocalidadeTse": 39489,
+    "codObjeto": "1095",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "UMBURANAS"
+  },
+  {
+    "codLocalidadeTse": 39497,
+    "codObjeto": "1097",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "UNA"
+  },
+  {
+    "codLocalidadeTse": 39519,
+    "codObjeto": "1098",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "URANDI"
+  },
+  {
+    "codLocalidadeTse": 39535,
+    "codObjeto": "1099",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "URUÇUCA"
+  },
+  {
+    "codLocalidadeTse": 39551,
+    "codObjeto": "1100",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "UTINGA"
+  },
+  {
+    "codLocalidadeTse": 39594,
+    "codObjeto": "1103",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "VALENTE"
+  },
+  {
+    "codLocalidadeTse": 39578,
+    "codObjeto": "1102",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "VALENÇA"
+  },
+  {
+    "codLocalidadeTse": 39624,
+    "codObjeto": "1110",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "VARZEDO"
+  },
+  {
+    "codLocalidadeTse": 39632,
+    "codObjeto": "1113",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "VERA CRUZ"
+  },
+  {
+    "codLocalidadeTse": 39640,
+    "codObjeto": "1114",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "VEREDA"
+  },
+  {
+    "codLocalidadeTse": 39659,
+    "codObjeto": "1116",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "VITÓRIA DA CONQUISTA"
+  },
+  {
+    "codLocalidadeTse": 39977,
+    "codObjeto": "1104",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "VÁRZEA DA ROÇA"
+  },
+  {
+    "codLocalidadeTse": 39616,
+    "codObjeto": "1107",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "VÁRZEA DO POÇO"
+  },
+  {
+    "codLocalidadeTse": 39950,
+    "codObjeto": "1108",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "VÁRZEA NOVA"
+  },
+  {
+    "codLocalidadeTse": 39675,
+    "codObjeto": "1118",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "WAGNER"
+  },
+  {
+    "codLocalidadeTse": 39993,
+    "codObjeto": "1119",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "WANDERLEY"
+  },
+  {
+    "codLocalidadeTse": 39691,
+    "codObjeto": "1120",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "WENCESLAU GUIMARÃES"
+  },
+  {
+    "codLocalidadeTse": 39713,
+    "codObjeto": "1121",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "XIQUE-XIQUE"
+  },
+  {
+    "codLocalidadeTse": 33073,
+    "codObjeto": "339",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ÁGUA FRIA"
+  },
+  {
+    "codLocalidadeTse": 33090,
+    "codObjeto": "10071",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "5",
+      "codObjetoMunicCapital": "988",
+      "codUf": 5,
+      "nomUf": "BAHIA",
+      "sglUf": "BA"
+    },
+    "nomLocalidade": "ÉRICO CARDOSO"
+  }
+]

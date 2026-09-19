@@ -1,0 +1,16 @@
+{
+  "party": "PRD",
+  "id": 182,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=182&currentPage=0&pageSize=10000",
+      "records": 1619,
+      "totalElements": 1619,
+      "response_sha256": "d5894ae94ec8bb80f45264a9f0c3da316fbd4a50a298812ccece90eb472dff05",
+      "retrieved_utc": "2026-09-10T23:35:42Z"
+    }
+  ],
+  "matches": []
+}

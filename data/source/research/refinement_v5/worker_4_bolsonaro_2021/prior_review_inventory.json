@@ -1,0 +1,248 @@
+[
+  {
+    "path": "research/completion/web_033.txt",
+    "sha256": "8bc6316d0b9f9edb6e91d4e3d3d501fdc3f6f148418c8570796c332ed44799bf",
+    "reviewed_bytes": 31018,
+    "target_blocks": 2
+  },
+  {
+    "path": "research/completion/web_078.txt",
+    "sha256": "af6b8b4cbcde9d582659e70ace0007e6f2dd0972a9d8f20df1b9a8126a637695",
+    "reviewed_bytes": 30585,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_081.txt",
+    "sha256": "ebaebdfdcb0e0d8f72a277831f69651b475139e68b018743b1727f9295dab006",
+    "reviewed_bytes": 29566,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_082.txt",
+    "sha256": "71772d626eeecbb0c1e09f1b806ef2fc96d6e0a92b3d96dac9f5e0b5764dba83",
+    "reviewed_bytes": 28639,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_083.txt",
+    "sha256": "8843c2c865c0381280f9eec3cbc670fdb24b56f82d2fb758619a2291b3fd8ea1",
+    "reviewed_bytes": 13980,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_084.txt",
+    "sha256": "405428558bee136f86303ee5fd2edf23bd056a3106a25ce55ca3bb24ce3af9c9",
+    "reviewed_bytes": 10736,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_086.txt",
+    "sha256": "96c2b4696a3594255397326d26b931c3968f51131f346e58a23da0f7ce005aac",
+    "reviewed_bytes": 9985,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_088.txt",
+    "sha256": "c54efd539aa4bc2e7a6e4ca19404c9cb8dfd2fd58b95c39207daf126adfae115",
+    "reviewed_bytes": 12688,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_089.txt",
+    "sha256": "f705a3b44b411c1ef3eaa0bfd42cb380988d5df9d2e4ed36c49df1d2ca0baa6e",
+    "reviewed_bytes": 11576,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_112.txt",
+    "sha256": "f382462f9b48e917d776d70f27c9d6e909cd11fba90efb63cec7b23bd0ed9792",
+    "reviewed_bytes": 31316,
+    "target_blocks": 6
+  },
+  {
+    "path": "research/completion/web_113.txt",
+    "sha256": "417a45e6b736f329895908d888f2036aa601caad03e1c0680038d6fb71f0e2c5",
+    "reviewed_bytes": 30681,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_138.txt",
+    "sha256": "93d3ab424f9b23fdf4bae4d0716073b6f8af6d6415bba18bcab488dc5a446bc7",
+    "reviewed_bytes": 28164,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_159.txt",
+    "sha256": "c3b9ea4a0da85b370249c73b6d4ddd91ed4b4506069aa21ac47106cdb201b9ba",
+    "reviewed_bytes": 29794,
+    "target_blocks": 2
+  },
+  {
+    "path": "research/completion/web_164.txt",
+    "sha256": "5a483657aa8b6e7ac3052be24e60ad9dd375ff23296b5cfc4806faf614928072",
+    "reviewed_bytes": 27709,
+    "target_blocks": 2
+  },
+  {
+    "path": "research/completion/web_168.txt",
+    "sha256": "ee304068cec9c1fffd8d46459c98e59560a5878ec84d42120cae7111a24abbf1",
+    "reviewed_bytes": 26643,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_171.txt",
+    "sha256": "5b562cbd35bc5749a048fce11a1de56de887324db9ee7ca0025dabdc34f752fb",
+    "reviewed_bytes": 30628,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_172.txt",
+    "sha256": "a627126002dd119e36c3c9f85bb315289008164d17aa48eb1b833c2d8f45d2ea",
+    "reviewed_bytes": 33897,
+    "target_blocks": 19
+  },
+  {
+    "path": "research/completion/web_191.txt",
+    "sha256": "e294267fb3121edd2cb8c1b2f2e6dc4ceec3923b45feedab7d9a64b98c7b98cc",
+    "reviewed_bytes": 29600,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_201.txt",
+    "sha256": "cb0481fdd3cd71076a06f40574f5f93e1542ce6440b7f0227b9d5e413f9b75b9",
+    "reviewed_bytes": 29382,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_216.txt",
+    "sha256": "594861118c54685cb76a4864cd72b6d20ab48e6dfe837fe3e8827b83bddb2701",
+    "reviewed_bytes": 28482,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_217.txt",
+    "sha256": "106a82ec512933aa012dc8f22e5cfb131c826d92e1e7526023e62e1dc840af6a",
+    "reviewed_bytes": 27665,
+    "target_blocks": 15
+  },
+  {
+    "path": "research/completion/web_221.txt",
+    "sha256": "6578ac5671182e0b9064d4a19c69ce0729de109a1c80e3152ea1fca68f24864e",
+    "reviewed_bytes": 28743,
+    "target_blocks": 6
+  },
+  {
+    "path": "research/completion/web_222.txt",
+    "sha256": "0e3de790affac35b92a8b5b91d08f56de84071b4d5027ef6fbae0aa9dce8dc6f",
+    "reviewed_bytes": 32457,
+    "target_blocks": 20
+  },
+  {
+    "path": "research/completion/web_226.txt",
+    "sha256": "71e9761447f6e6da2cac1bf8fb14e104ebe47f767e07e909a95a901bded59bf7",
+    "reviewed_bytes": 29898,
+    "target_blocks": 18
+  },
+  {
+    "path": "research/completion/web_230.txt",
+    "sha256": "eb7db66dcfbef257bbeac4d418331a11dcfb62f081a8574f3f228cef5f066bee",
+    "reviewed_bytes": 26672,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_231.txt",
+    "sha256": "69a4e707e07f151449e8086152c4828864961ef64937d2215fdb556348e59264",
+    "reviewed_bytes": 25233,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_240.txt",
+    "sha256": "8459e2402ac24818e5cad7e7e45cbf1c404655bc687eb860f2d1cb25b3f7132c",
+    "reviewed_bytes": 27367,
+    "target_blocks": 13
+  },
+  {
+    "path": "research/completion/web_250.txt",
+    "sha256": "409c138ff0b4b73ec62f936b45e8b73b7696f26854cd2675b2157dbcd0dba194",
+    "reviewed_bytes": 29632,
+    "target_blocks": 8
+  },
+  {
+    "path": "research/completion/web_251.txt",
+    "sha256": "b6b65f77f2b415b8ef4643044611a905f2675870d0de3f45a6049d7c025be280",
+    "reviewed_bytes": 33441,
+    "target_blocks": 26
+  },
+  {
+    "path": "research/completion/web_258.txt",
+    "sha256": "5f95d76bdf116671f964490baf265b90a6866d49227a067c1572938b5b5ebb90",
+    "reviewed_bytes": 27296,
+    "target_blocks": 5
+  },
+  {
+    "path": "research/completion/web_262.txt",
+    "sha256": "f8fc7bf647b2e748367799e25586c427fe3ec39a391b1c3716f4105a544333b4",
+    "reviewed_bytes": 25803,
+    "target_blocks": 2
+  },
+  {
+    "path": "research/completion/web_265.txt",
+    "sha256": "171cf7aaad968ddb158b4f3fa9e32422fe605e1ba6d4db01deeda2e3c8caedee",
+    "reviewed_bytes": 32486,
+    "target_blocks": 18
+  },
+  {
+    "path": "research/completion/web_276.txt",
+    "sha256": "d12a2de1fcf9eb521ab73591ed1444bc8b308c298c96f0230de0773beb05ef8a",
+    "reviewed_bytes": 33394,
+    "target_blocks": 36
+  },
+  {
+    "path": "research/completion/web_282.txt",
+    "sha256": "05f83e8645e47ae0c2b749417144002990bb443553643b642ea87e4503b21bb1",
+    "reviewed_bytes": 30500,
+    "target_blocks": 11
+  },
+  {
+    "path": "research/completion/web_287.txt",
+    "sha256": "f8f675802add4410e8382e827a8525a08b6b22c6fc85221f1aee039855b6da60",
+    "reviewed_bytes": 28998,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/completion/web_288.txt",
+    "sha256": "3e436e831c276f65001754406227397b263be169659a44a357c6a9d5649f1ab3",
+    "reviewed_bytes": 26721,
+    "target_blocks": 2
+  },
+  {
+    "path": "research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md",
+    "sha256": "9ceb98e52419650f6dfc908b2496026aef6101b99e9dc2dd4bee78b6d08afe3e",
+    "reviewed_bytes": 2537,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/followup_bolsonaro_affiliations/sergio_official_identity_reference.json",
+    "sha256": "0ef3f41184d026f52de631d4ed6bc66ee2f6220523bd41e5543a4fcd9ba69991",
+    "reviewed_bytes": 776,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/followup_bolsonaro_affiliations/sergio_twelve_current_checks.json",
+    "sha256": "7ddf4d1b2d7fb2239d89ab0dd21cac731b83a044233297d5ca06fe40b53b64f0",
+    "reviewed_bytes": 10119,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/followup_root/filiaweb_2016_names.json",
+    "sha256": "aa278cbe9c324b794fd45788f7605bd949903234b00063805c6e31daae886501",
+    "reviewed_bytes": 1837,
+    "target_blocks": 1
+  },
+  {
+    "path": "research/followup_root/web_registry_05.json",
+    "sha256": "8bc57ad67adb3bb9b9bd3cc251f62a6b794e7f49a90dd326c6c6cf02c149d3a2",
+    "reviewed_bytes": 32056,
+    "target_blocks": 1
+  }
+]

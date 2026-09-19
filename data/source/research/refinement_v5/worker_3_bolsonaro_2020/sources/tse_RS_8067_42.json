@@ -1,0 +1,17 @@
+{
+  "uf": "RS",
+  "municipio": "8067",
+  "city": "SANANDUVA",
+  "party": "MDB",
+  "id": 42,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 562,
+      "totalElements": 562,
+      "response_sha256": "a478ecf53d4b2a6a363ce93a38282e733e982b40f0a21fb12a99ec3dad898dc9",
+      "retrieved_utc": "2026-09-11T00:59:44Z"
+    }
+  ],
+  "matches": []
+}

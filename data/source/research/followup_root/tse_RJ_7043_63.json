@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "PSOL",
+  "id": 63,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 8062,
+      "totalElements": 8062,
+      "response_sha256": "23d2ac6c53140eb514c4799e1757930a111e908b87d4d68dfd1751fa8431ab02",
+      "retrieved_utc": "2026-09-10T23:43:43Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,448 @@
+Nota
+Técnica
+GABINETES 
+MINISTERIAIS DA NOVA 
+REPÚ (https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/nota_tecnica/211026_nt_diest_n53.pdf)
+citeturn113search12 [wordlim: 200] Published: 9 months ago; © Instituto de Pesquisa Econômica Aplicada – ipea 2021 ... E-mail: <acir.almeida@ipea.gov.br>. ... DOI: http://dx.doi.org/10.38116/ntdiest53
+Governo Federal
+Ministério da Economia  
+Ministro Paulo Guedes
+© Instituto de Pesquisa Econômica Aplicada – ipea 2021
+EQUIPE TÉCNICA
+Acir Almeida
+Técnico de planejamento e pesquisa na Diretoria de Estudos e Políticas do Estado, 
+das Instituições e da Democracia (Diest) do Ipea. E-mail: <acir.almeida@ipea.gov.br>.
+Fundação pública vinculada ao Ministério da Economia, 
+o Ipea fornece suporte técnico e institucional às ações 
+governamentais – possibilitando a formulação de inúmeras 
+políticas públicas e programas de desenvolvimento 
+brasileiros – e disponibiliza, para a sociedade, pesquisas e 
+estudos realizados por seus técnicos.
+Presidente
+Carlos von Doellinger
+Diretor de Desenvolvimento Institucional
+Manoel Rodrigues Junior
+Diretora de Estudos e Políticas do Estado,  
+das Instituições e da Democracia
+Flávia de Holanda Schmidt
+Diretor de Estudos e Políticas
+Macroeconômicas
+José Ronaldo de Castro Souza Júnior
+Diretor de Estudos e Políticas Regionais,  
+Urbanas e Ambientais
+Nilo Luiz Saccaro Júnior
+Diretor de Estudos e Políticas Setoriais de Inovação
+e Infraestrutura
+André Tortato Rauen
+Diretora de Estudos e Políticas Sociais
+Lenita Maria Turchi
+Diretor de Estudos e Relações Econômicas  
+e Políticas Internacionais
+Ivan Tiago Machado Oliveira
+Assessor-chefe de Imprensa e Comunicação 
+André Reis Diniz
+Ouvidoria: http://www.ipea.gov.br/ouvidoria
+URL: http://www.ipea.gov.br
+DOI: http://dx.doi.org/10.38116/ntdiest53
+As publicações do Ipea estão disponíveis para download gratuito nos formatos PDF (todas) e EPUB (livros e periódicos). Acesse: <http://www.ipea.gov.br/
+portal/publicacoes>.
+As opiniões emitidas nesta publicação são de exclusiva e inteira responsabilidade dos autores, não exprimindo, necessariamente, o ponto de vista do Instituto 
+de Pesquisa Econômica Aplicada ou do Ministério da Economia.
+É permitida a reprodução deste texto e dos dados nele contidos, desde que citada a fonte.
+Reproduções para fins comerciais são proibidas.--------------------------------------------------------------------------------
+(PDF) Nota Técnica Nº 53 - Gabinetes Ministeriais da Nova República (1985-2020): Cargos, Composição Partidária e Mudança (https://www.researchgate.net/publication/361753585_Nota_Tecnica_N_53_-_Gabinetes_Ministeriais_da_Nova_Republica_1985-2020_Cargos_Composicao_Partidaria_e_Mudanca)
+citeturn113search0 [wordlim: 200] Crawled: last month; DOI:10.38116/ntdiest53 ... DOI: http://dx.doi.org/10.38116/ntdiest53 ... E-mail: <acir.almeida@ipea.gov.br>. ... cada uma das variáveis descritas anteriormente, na forma do desvio-padrão, na população total de gabinetes e decom-
+
+Technical Report PDF Available
+
+# Nota Técnica Nº 53 - Gabinetes Ministeriais da Nova República (1985-2020): Cargos, Composição Partidária e Mudança
+
+  * October 2021
+
+DOI:10.38116/ntdiest53
+
+Authors:
+
+Acir Almeida
+
+Acir Almeida
+
+  * This person is not on ResearchGate, or hasn't claimed this research yet.
+
+Diest - Ipea
+
+  * Instituto de Pesquisa Econômica Aplicada - IPEA
+
+Image
+
+Download full-text PDFRead full-text
+
+## Abstract
+
+O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na construção do módulo do Atlas do Estado Brasileiro denominado Presidentes, partidos e coalizões, que reúne dados a respeito dos gabinetes ministeriais da Nova República, sobretudo a evolução da sua composição partidária. A nota revisita os critérios e as informações utilizados na identificação dos gabinetes ministeriais e da sua composição partidária, no período 1985-2020. Espera-se, assim, solucionar divergências de natureza descritiva, de maneira a contribuir para caracterizações mais precisas do fenômeno. Naturalmente, esse tipo de aporte tem potenciais desdobramentos para outras análises, acerca seja dos condicionantes, seja dos impactos da composição partidária do gabinete, no sentido de tornar seus resultados mais precisos e confiáveis.
+
+Content uploaded by Diest - Ipea
+
+Author content
+
+All content in this area was uploaded by Diest - Ipea on Jul 05, 2022
+
+Content may be subject to copyright.
+
+Nota
+
+Técnica
+
+Outubro de 2021
+
+N O 53
+
+Diest
+
+Diretoria de Estudos e Políticas do
+
+Estado, das Instituições e da Democracia
+
+GABINETES
+
+MINISTERIAIS DA NOVA
+
+REPÚBLICA (1985-2020):
+
+CARGOS, COMPOSIÇÃO
+
+PARTIDÁRIA E MUDANÇA
+
+Acir Almeida
+
+DOI: http://dx.doi.org/10.38116/ntdiest53
+
+As publicações do Ipea estão disponíveis para download gratuito nos formatos PDF (todas) e EPUB (livros e periódicos). Acesse: <http://www.ipea.gov.br/
+
+portal/publicacoes>.
+--------------------------------------------------------------------------------
+SERVIÇO PÚBLICO FEDERAL (https://www.gov.br/sudene/pt-br/centrais-de-conteudo/resolucao2972018-pdf)
+citeturn113search13 [wordlim: 200] Published: 6 months ago; MINISTÉRIO DA INTEGRAÇÃO NACIONAL ... para o funcionamento do que estabelece a Resolução nº 293, de 11 de abril de 2018. ... Magalhães Ribeiro ... POLÍTICAS interino
+2 
+ 
+SERVIÇO PÚBLICO FEDERAL 
+MINISTÉRIO DA INTEGRAÇÃO NACIONAL 
+SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE  
+ 
+RESOLUÇÃO Nº 297/2018 
+ 
+Dispõe sobre a aprovação do Regimento Interno 
+Comitê de Governança, Riscos e Controles 
+(CGRC) da SUDENE. 
+ 
+ 
+A Diretoria Colegiada da Superintendência do Desenvolvimento do Nordeste no uso 
+das atribuições que lhe confere o inciso III, art. 6º, Anexo I do Decreto n° 8.276, de 27 de junho 
+de 2014, e considerando o disposto na Instrução Normativa Conjunta MP/CGU nº 01/2016, o 
+art. 14 do Decreto nº 9.203, de 22 de novembro de 2017, bem como as condições necessárias 
+para o funcionamento do que estabelece a Resolução nº 293, de 11 de abril de 2018. 
+ 
+Resolve:  
+ 
+Art. 1º Aprovar a proposta de Regimento Interno do Comitê de Governança, Riscos e 
+Controles da SUDENE, na forma do anexo a esta Resolução. 
+ 
+ 
+Art. 2º Esta Resolução entra em vigor na data de sua publicação. 
+ 
+ 
+Recife, 13 de junho de 2018 
+ 
+ 
+ 
+MARCELO JOSÉ ALMEIDA DAS NEVES 
+Superintendente 
+ 
+ 
+ 
+ 
+ 
+Antonio S. Magalhães Ribeiro 
+DIRETOR DE PLANEJAMENTO 
+E ARTICULAÇÃO DE 
+ 
+Sérgio Wanderley Silva 
+DIRETOR DE GESTÃO DE 
+FUNDOS, INCENTIVOS E DE 
+ATRAÇÃO DE INVESTIMENTOS 
+POLÍTICAS interino 
+ 
+ORIGINAL ASSINADO--------------------------------------------------------------------------------
+Câmara Municipal de João Pessoa (https://sapl.joaopessoa.pb.leg.br/media/sapl/public/materialegislativa/2021/133784/pdl_-_concede_titulo_cidadao_pessoense_ao_senhor_dr._paulo_cesar_silva_matheuspaulo_roberto_vanderlei_rebello_filho.pdf)
+citeturn113search14 [wordlim: 200] Published: 2.0 years ago; Darcy ribeiro ... Cargo: Gerente de projetos até abril de 2014.Assessor Especial do Ministro até janeiro de ... 2016 - 2018 Ministerio da Saúde ... Normas e Habilitação dos Produtos, interino.
+Câmara Municipal de João Pessoa
+Casa de Napoleão Laureano
+Gabinete do Vereador Valdir Dowsley  (Dinho) - AVANTE
+Paulo Roberto Vanderlei Rebello Filho
+Brasileiro, casado, 43 anos
+Sqn 212, bloco f, apto 307 – edf. Darcy ribeiro
+Brasília – DF
+Telefone: (61) 99381.9099 
+FORMAÇÃO
+
+Graduado em Direito. Centro Universitário de João Pessoa - UNIPÊ - PB, conclusão em 2003.
+
+Curso de Capacitação em Gestão e Direito da Saúde 
+EXPERIÊNCIA PROFISSIONAL
+
+1999-2012 – Nobrega Farias & Trajano Advogados Associados 
+Cargo: advogado.
+
+2003-2009 – Fundação de Ação Comunitária 
+Cargo: Assessor Jurídico, com atividade perante as comarcas cíveis e trabalhistas.
+
+2009-2010 – Prefeitura Municipal de Esperança – PB
+    Cargo: Procurador Geral do Municipio
+
+2009-2011 – Companhia de Águas da Paraíba - CAGEPA
+Cargo: Assessor Jurídico na Diretoria Comercial.
+
+2012-2015 – Ministerio das Cidades
+Cargo: Gerente de projetos até abril de 2014. Assessor Especial do Ministro até janeiro de 
+2015. Substituto na Chefia de Gabinete do Ministro.
+
+2015-2016 – Ministerio da Integração Nacional
+Cargo: Assessor Especial do Ministro. Substituto da Chefia de Gabinete.
+
+2016 - 2018 Ministerio da Saúde
+    Chefe de Gabinete do Ministro.
+
+2018 – 2019 – Diretor de Gestão na Agencia Nacional de Saúde Suplementar.
+
+2019 – 2021 – Diretor de Normas e Habilitação das Operadoras na Agência 
+Nacional de Saúde Suplementar. 
+
+2021 – Diretor Presidente da Agência Nacional de Saúde Suplementar e Diretor de
+Normas e Habilitação dos Produtos, interino.
+CONSELHOS
+                                            R. das Trincheiras, 43 – Centro 
+                                                    Fone – (83) 3218-6375--------------------------------------------------------------------------------
+MINISTÉRIO DA EDUCAÇÃO (https://www.unilab.edu.br/wp-content/uploads/2018/08/ATA-DA-48%C2%AA-SESS%C3%83O-EXTRAORDIN%C3%81RIA-DO-CONSUNI.pdf)
+citeturn113search15 [wordlim: 200] Published: 9 months ago; MINISTÉRIO DA EDUCAÇÃOUNIVERSIDADE DA INTEGRAÇÃO INTERNACIONAL DA LUSOFONIA AFRO-BRASILEIRA – UNILAB ... Aos dezessete dias do mês de abril de 2018, às dez horas e três minutos, no Campus das Auroras, ... Desenvolvimento Sustentável); Lívia Paulia Dias Ribeiro (Diretora do Instituto de Ciências ... Letras); Alexandre Oliveira Lima (Diretor Interino do Instituto de Ciências Sociais Aplicadas);
+MINISTÉRIO DA EDUCAÇÃO 
+UNIVERSIDADE DA INTEGRAÇÃO INTERNACIONAL DA LUSOFONIA AFRO-BRASILEIRA – UNILAB 
+ATA DA 48ª SESSÃO EXTRAORDINÁRIA DO CONSELHO UNIVERSITÁRIO 
+1 
+Aos dezessete dias do mês de abril de 2018, às dez horas e três minutos, no Campus das Auroras, 
+2 
+em Redenção/CE, mediante prévia convocação, realizou-se a 48ª sessão extraordinária do 
+3 
+Conselho Universitário, sob a presidência da Vice-Reitora, Lorita Marlena Freitag Pagliuca, e 
+4 
+com a presença dos seguintes Conselheiros: Thiago Moura de Araújo (Diretor do Instituto de 
+5 
+Ciências da Saúde); George Leite Mamede (Diretor do Instituto de Engenharias e 
+6 
+Desenvolvimento Sustentável); Lívia Paulia Dias Ribeiro (Diretora do Instituto de Ciências 
+7 
+Exatas e da Natureza); Maurílio Machado Lima Junior (Diretor do Instituto de Humanidades e 
+8 
+Letras); Alexandre Oliveira Lima (Diretor Interino do Instituto de Ciências Sociais Aplicadas); 
+9 
+Francisco Nildo da Silva (Diretor do Instituto de Desenvolvimento Rural); Maria Cristiane 
+--------------------------------------------------------------------------------
+38
+ISSN 1677-7050
+2
+Nº 68, terça-feira, 10 de abri (https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=10%2F04%2F2018&jornal=529&pagina=38)
+citeturn113search16 [wordlim: 200] Published: 1.2 years ago; Nº 68, terça-feira, 10 de abril de 2018 ... RIBEIRO, Auditor Fiscal da Receita Federal do Brasil, matrícula ... Ministério da Integração Nacional ... acompanhar o Senhor Ministro de Estado Interino desta Pasta no
+Função Gratificada de Chefe de Equipe de Logística - ELG/1, da
+Alfândega da Receita Federal do Brasil em Santana do Livramento
+(RS), Código FG-3.
+Nº 102 - Dispensar o servidor CARLOS RENAN FERREIRA
+RIBEIRO, Auditor Fiscal da Receita Federal do Brasil, matrícula
+Siapecad nº 1220586, da Função Comissionada do Poder Executivo
+de Chefe da Equipe de Arrecadação e Cobrança - EAC/5, da
+Delegacia Especial da Receita Federal do Brasil de Administração
+Tributária em São Paulo (SP), Código FCPE-101.1.
+A 
+COORDENADORA-GERAL
+DE 
+GESTÃO
+DE
+PESSOAS DO MINISTÉRIO
+DA INDÚSTRIA, COMÉRCIO
+EXTERIOR E SERVIÇOS, no uso da competência que lhe foi
+subdelegada pela Portaria/SPOA nº 26, de 13 de julho de 2016,
+publicada no Diário Oficial da União de 19 de julho de 2016, e tendo
+em vista o que consta do Processo nº 52007.100376/2018-94,
+resolve:
+Art. 1º Declarar
+vago o cargo de
+Analista Técnico-
+Administrativo, código 480.042, Classe A, Padrão II, ocupado por
+LEANDRO FÉLIX DA SILVA ALENCAR, matrícula Siape nº
+2163908, por motivo de posse em outro cargo inacumulável, com
+fundamento no inciso VIII do art. 33 da Lei nº 8.112, de 11 de
+dezembro de 1990, a partir de 3 de abril de 2018.
+Art. 2º Esta Portaria entra em vigor na data de sua
+publicação.
+Nº
+308
+Designar AGUSTIN
+ANTONIO
+GUEDES
+ARGILES,
+Assistente Técnico-Administrativo, matrícula Siapecad nº 1971229,
+para exercer a Função Gratificada de Chefe de Equipe de Logística -
+ELG/1, da Alfândega da Receita Federal do Brasil em Santana do
+Livramento (RS), Código FG-3.
+MARCELLI KANYO DE QUEIROZ
+LUIZ FERNANDO LORENZI
+PORTARIA Nº 336, DE 5 DE ABRIL DE 2018
+DESPACHOS DE 6 DE ABRIL DE 2018
+Nº 107 - Designar a servidora ANA PAULA LAMON SAVINO,
+Analista Tributário da Receita Federal do Brasil, matrícula Siapecad
+nº 01293887, para exercer a Função Gratificada de Chefe da Equipe
+de Arrecadação e Cobrança - EAC/8, da Delegacia Especial da
+Receita Federal do Brasil de Administração Tributária em São Paulo
+(SP), Código FG-1.
+Ministério da Integração Nacional
+Nº 108 - Designar a servidora NEIDE CUNHA DE ALENCAR,
+Analista Tributário da Receita Federal do Brasil, matrícula Siapecad
+nº 01294386, para exercer a Função Gratificada de Assistente, da
+Delegacia Especial da Receita Federal do Brasil de Administração
+Tributária em São Paulo (SP), Código FG-3.
+DEPARTAMENTO NACIONAL DE OBRAS
+CONTRA AS SECAS
+COORDENADORIA ESTADUAL NA PARAÍBA
+SERVIÇO ADMINISTRATIVO
+GUILHERME BIBIANI NETO
+SUPERINTENDÊNCIA REGIONAL
+DA 9ª REGIÃO FISCAL
+PORTARIAS Nº 10, DE 9 DE ABRIL DE 2018
+PORTARIAS DE 6 DE ABRIL DE 2018
+O SUPERINTENDENTE SUBSTITUTO DA RECEITA
+FEDERAL DO BRASIL DA 9ª REGIÃO FISCAL, designado pela
+Portaria RFB n° 1882/2014, e no uso da atribuição que lhe foi
+subdelegada pelo artigo 2º, Inciso II, alínea b, da Portaria RFB nº
+4.338, de 9 de setembro de 2005 e convalidada pela Portaria RFB
+nº 4.071, de 2 de maio de 2007,
+Nº 326 DISPENSAR LETICIA DE SOUZA, ocupante do cargo
+efetivo de Auditor-Fiscal da Receita Federal do Brasil, matrícula
+SiapeCad nº 1400807, da Função Gratificada de Chefe da Equipe
+de Arrecadação e Cobrança (EAC2) da Delegacia da Receita
+Federal do Brasil em Joaçaba (SC), código FG- 2.
+--------------------------------------------------------------------------------
+Nº 20, segunda-feira, 29 de janeiro de 2024 (https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=29%2F01%2F2024&jornal=529&pagina=45)
+citeturn113search17 [wordlim: 200] Published: 8 months ago; de 1º de janeiro de 2023 c/c a Portaria MIDR n.º 1.417, de 10 de abril de 2023, publicada ... ocupante o cargo e Diretor Interino, código CD II, para participação no Workshop da ... Quadro de Pessoal Permanente do Ministério da Integração e do Desenvolvimento ... VALDER RIBEIRO DE MOURA ... GABINETE DO MINISTRO ... de 2022, à vista do que consta do Processo nº 08500.055578/2018-10 e pelos fundamentos
+Comissionado Executivo de Chefe do Serviço Administrativo da Coordenadoria Estadual do
+DNOCS na Bahia, código CCE 1.05.
+Nº 54 - Nomear o servidor ANTONIO CARLOS ROCHA DE JESUS, SIAPE Nº 0737259, para
+exercer
+o Cargo
+Comissionado Executivo
+de
+Chefe do
+Serviço Administrativo
+da
+Coordenadoria Estadual do DNOCS na Bahia, código CCE 1.05, ficando dispensado da
+Função que ocupa atualmente.
+O 
+SECRETÁRIO-EXECUTIVO 
+DO 
+MINISTÉRIO
+DA 
+INTEGRAÇÃO 
+E 
+DO
+DESENVOLVIMENTO REGIONAL, no uso da competência que lhe foi subdelegada pelo inciso
+I do art. 23 da Portaria MIDR nº 2.191, de 27 de junho de 2023, considerando o disposto
+no art. 93 da Lei nº 8.112, de 11 de dezembro de 1990, regulamentado pelo Decreto nº
+10.835, de 14 de outubro de 2021, na Portaria SEDGG/ME nº 6.066, de 11 de julho de
+2022, e demais informações constantes do Processo nº 59000.020036/2023-57, resolve:
+Art. 1º Ceder o servidor RICARDO LUIS NEVES CARDOSO, pertencente ao
+Quadro de Pessoal Permanente do Ministério da Integração e do Desenvolvimento
+Regional, para exercício na Controladoria-Geral da Prefeitura Municipal de Recife/PE
+Art. 2º O ônus pela remuneração ou salário é do órgão cessionário.
+Art. 3º O servidor deverá apresentar-se imediatamente ao órgão cedente ao
+término da cessão, observado o disposto no art. 8º do Decreto nº 10.835, de 14 de
+outubro de 2021.
+Art. 4º Torna-se sem efeito o disposto nesta Portaria caso o servidor não se
+apresente ao órgão cessionário no prazo de trinta dias.
+Art. 5º Esta Portaria entra em vigor na data da sua publicação.
+FERNANDO MARCONDES DE ARAÚJO LEÃO
+Ministério da Justiça e Segurança Pública
+VALDER RIBEIRO DE MOURA
+PORTARIA MIDR N° 393, DE 26 DE JANEIRO DE 2024
+Art. 2º A participação na referida comissão será considerada prestação de
+serviço público relevante, não remunerada.
+Art. 3º A Conportos deverá providenciar a atualização das informações sobre
+sua composição e demais dados informativos nas respectivas páginas eletrônicas.
+Art. 4º Fica revogada a Portaria MJSP nº 208, de 1º de setembro de 2022.
+Art. 5º Esta Portaria entra em vigor na data de sua publicação.
+FLÁVIO DINO
+PORTARIA DE PESSOAL Nº 11, DE 26 DE JANEIRO DE 2024
+O SECRETÁRIO-EXECUTIVO DO MINISTÉRIO DA INTEGRAÇÃO E DO
+DESENVOLVIMENTO
+REGIONAL,
+em
+conformidade 
+com
+a
+delegação
+de
+competência outorgada pelo art. 11 da Portaria nº 2.191, de 27 de junho de
+2023, considerando o disposto no art. 38 da Lei nº 8.112, de 11 de dezembro
+de 1990, tendo em vista o disposto no Decreto nº 11.830, de 14 de dezembro
+de 2023, e o constante no processo nº 59000.001038/2024-28, resolve:
+DESIGNAR MARIANA ALBERTO CASTRO BRITO LOGRADO para exercer
+o encargo de substituta eventual da função comissionada de Coordenador da
+Coordenação de Apoio à Produção dos Polos e Projetos de Irrigação da
+Coordenação-Geral de Sustentabilidade de Polos e Projetos de Irrigação do
+Departamento de Irrigação da Secretaria Nacional de Segurança Hídrica, código
+FCE 1.10, deste Ministério, sem prejuízo do cargo que ocupa.
+VALDER RIBEIRO DE MOURA
+O MINISTRO DE ESTADO DA JUSTIÇA E SEGURANÇA PÚBLICA, no exercício da
+competência delegada pelo artigo 2º, inciso I, alínea a, do Decreto nº 11.123, de 7 de julho
+de 2022, à vista do que consta do Processo nº 08500.055578/2018-10 e pelos fundamentos
+de fato e de direito manifestados pela Consultoria Jurídica, conforme PARECER nº
+00867/2023/CONJUR-MJSP/CGU/AGU, DESPACHO DE APROVAÇÃO nº 02094/2023/CONJUR-
+--------------------------------------------------------------------------------
+UNAIENSES: 04/10/18 (https://unaiensesnoticias.blogspot.com/2018_04_10_archive.html?hl=pt_BR)
+citeturn113search1 [wordlim: 200] Published: 8.4 years ago; Crawled: 3 months ago;                 O nome de Eduardo Guardia como novo titular da Fazenda foi indicação do próprio Meirelles, que deixou a pasta para concorrer ao Palácio do Planalto em 2018. ... Embora o partido tenha indicado o atual ministro Helton Yomura após o fracasso da nomeação da Deputada Federal Cristiane Brasil (RJ) ao cargo, a sua permanência no cargo até o fim do governo não está confirmada pelo Palácio do Planalto. ...                 Entra: Marcos Jorge, ministro interinoMinistério da Integração Nacional
+--------------------------------------------------------------------------------
+Conheça a equipe de transição de Jair Bolsonaro | Agência Brasil (https://agenciabrasil.ebc.com.br/politica/noticia/2018-11/conheca-equipe-de-transicao-de-jair-bolsonaro)
+citeturn113search2 [wordlim: 200] Published: 7.8 years ago; Crawled: 4 days ago; Augusto Heleno Ribeiro PereiraGeneral da reserva do Exército Brasileiro, cotado para assumir o Ministério da Defesa no governo de Jair Bolsonaro ou o Gabinete de Segurança Institucional. ... Ele também foi membro do conselho de diversas empresas como Localiza, PDG, Abril Educação e Anima Educação. ... Advogado, foi presidente interino do PSL e um dos principais coordenadores de campanha de Jair Bolsonaro. ... Foi assessor no Ministério da Integração Nacional no processo de reestruturação do Cenad.
+--------------------------------------------------------------------------------
+Um general, dois bombeiros e muitos economistas: conheça a equipe de transição de Bolsonaro - 06/11/2018 - UOL Notícias (https://noticias.uol.com.br/ultimas-noticias/bbc/2018/11/06/governo-bolsonaro-conheca-os-integrantes-da-equipe-de-transicao-comandada-por-onyx-lorenzoni.amp.htm)
+citeturn113search3 [wordlim: 200] Published: 7.8 years ago; Crawled: 2 weeks ago; Augusto Heleno Ribeiro PereiraÉ general da reserva do Exército e um dos principais nomes da equipe de Bolsonaro, indicado pelo presidente eleito como o próximo ministro da Defesa. ... Na reserva desde 2011, nunca deixou de expressar opiniões críticas aos governos do PT. ... Doutor em Engenharia Civil pela Universidade de Brasília (UnB), já trabalhou no Ministério do Meio Ambiente.
+--------------------------------------------------------------------------------
+Tomo II - Programas de Infraestrutura.indd (https://manualzilla.com/doc/6079571/tomo-ii---programas-de-infraestrutura.indd)
+citeturn113search4 [wordlim: 200] Published: 11.7 years ago; Crawled: 2 days ago;     Renato Janine Ribeiro ...     Ministro de Estado da Integração Nacional – Interino ...     RELATÓRIO ANUAL DE AVALIAÇÃO DO PPA 2012-2015
+--------------------------------------------------------------------------------
+Nomeações e Exonerações de 2018 | PDF | Ministério (departamento governamental) | Promotor (https://pt.scribd.com/document/434013926/2018-09-20-ASSINADO-do2)
+citeturn113search5 [wordlim: 200] Published: 8.0 years ago; Crawled: 6.8 years ago; 37 Brasília, 19 de setembro de 2018; 197º da Independência e 130º código DAS 102.5. ... 53 Processo nº 08000.033995/2018-34 do Ministério da Justiça, resolve ... 56 NOMEAR Consultor Jurídico do Ministério da Integração Nacional, código
+--------------------------------------------------------------------------------
+Conheça a equipe de transição de Jair Bolsonaro - Cruzeiro FM (https://www.cruzeirofm.com.br/2018/11/07/noticias/jornalismo/conheca-a-equipe-de-transicao-de-jair-bolsonaro/)
+citeturn113search6 [wordlim: 200] Published: 7.8 years ago; Crawled: 3 weeks ago; Foi assessor no Ministério da Integração Nacional no processo de reestruturação do Cenad. ... Foi assessor técnico do Senado Federal por mais de 35 anos e diretor do Interlegis. ... Analista de infraestrutura do Ministério do Planejamento, já ocupou cargos de chefia e assessoria também no Ministério da Integração Nacional.
+--------------------------------------------------------------------------------
+Atos do Poder Executivo - 1/11/2018 | PDF | República | Ministério (departamento governamental) (https://pt.scribd.com/document/724814070/do-01-11-2018-s2)
+citeturn113search7 [wordlim: 200] Published: 7.9 years ago; Crawled: 2.4 years ago; LEONARDO SALEMA GARÇÃO RIBEIRO CABRAL, para exercer o ... Ministério da Integração Nacional .................................................... ... O DIRETOR DO INSTITUTO NACIONAL DE MinC nº 46, de 11 de abril de 2018, e tendo em vista o Decreto nº ... MinC nº 46, de 11 de abril de 2018, e tendo em vista o Decreto nº regulamentares do titular e na vacância do cargo.
+--------------------------------------------------------------------------------
+BILL NOTICIAS: 04/11/18 (https://billnoticias.blogspot.com/2018_04_11_archive.html?m=0)
+citeturn113search8 [wordlim: 200] Published: 8.4 years ago; Crawled: 2 months ago; A expectativa é de que o secretário-executivo do Ministério do Meio Ambiente, Edson Duarte, fique como interino. ... às abril 11, 2018 (2018-04-11T06:55:00-03:00)
+--------------------------------------------------------------------------------
+Conheça a equipe de transição de Jair Bolsonaro - O Nacional (https://www.onacional.com.br/politica%2C8/2018/11/07/conheca-a-equipe-de-transicao-de%2C87567)
+citeturn113search9 [wordlim: 200] Published: 7.8 years ago; Crawled: last week; Foi assessor no Ministério da Integração Nacional no processo de reestruturação do Cenad. ... Foi assessor técnico do Senado Federal por mais de 35 anos e diretor do Interlegis. ... Analista de infraestrutura do Ministério do Planejamento, já ocupou cargos de chefia e assessoria também no Ministério da Integração Nacional.
+--------------------------------------------------------------------------------
+ (https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1677854)
+citeturn113search10 [wordlim: 200] Published: 7.9 years ago; Crawled: 2 months ago; Neste período foi registrado o comparecimento dos membros: - Deputados titulares: Afonso Florence, Alceu Moreira, Alex Canziani, Aluisio Mendes, Aureo, Bebeto, Celso Maldaner, Cleber Verde, Covatti Filho, Dagoberto Nogueira, Efraim Filho, Enio Verri, Fausto Pinato, Geraldo Resende, Gilberto Nascimento, José Mentor, Júlio Cesar, Leandre, Luciano Ducci, Marcelo Castro, Marcos Abrão, Mário Negromonte Jr., Milton Monti, Paulo Azi, Rodrigo de Castro, Rogério Marinho, Vicentinho Júnior, Waldenor Pereira e Wilson Filho; - Senadores titulares: Ana Amélia, Dalirio Beber, Fátima Bezerra, Flexa Ribeiro, João Capiberibe, Regina Sousa, Romero Jucá, Sérgio Petecão, Waldemir Moka e Wellington Fagundes;  - Deputados suplentes: Aelton Freitas, Alfredo Kaefer, Beto Faro, Cabo Sabino, Capitão Augusto, Carlos Melles, Elcione Barbalho, Evair Vieira de Melo, Fábio Mitidieri, Hiran Gonçalves, Izalci Lucas, Junior Marreca, Luana Costa, Marcus Vicente, Miguel Haddad, Moses Rodrigues, Pedro Cunha Lima, Roberto Alves, Rubens Pereira Júnior, Sóstenes Cavalcante, Valmir Assunção e Weliton Prado; e - Senadores suplentes: Marta Suplicy e Wilder Morais. ... Logo após, fizeram uso da palavra os  Deputados Afonso Florence (PT/BA), Edmilson Rodrigues (PSOL/PA), Milton Monti (PR/SP), Paulo Azi (DEM/BA), e os Senadores Waldemir Moka (MDB/MS), Relator-Geral do Projeto de Lei Orçamentária Anual para 2019; Dalírio Beber (PSDB/SC), Relator do Projeto de Lei de Diretrizes Orçamentárias para 2019; Flexa Ribeiro (PSDB/PA) e Fátima Bezerra (PT/RN), e não houve consenso para apreciação do Relatório Preliminar com Emendas apresentado ao Projeto de Lei nº 02/2018-CN.
+--------------------------------------------------------------------------------
+Ex-nº 2 da Integração levanta irregularidades em licitações (https://www.bemparana.com.br/noticias/politica/ex-no-2-da-integracao-levanta-irregularidades-em-licitacoes/)
+citeturn113view0 [wordlim: 200] Crawled: 4 months ago; Content type: text/html; Source: open({"ref_id":"turn111view1","lineno":60}); Total lines: 157
+L38:   * cite27†Publicidade Legal L39:   * cite26†Edição Impressa L40:   * Buscar
+L41:   * cite33† Entrar L42: 
+L43: cite47†Image: Bem Paraná L44: 
+L45:   * cite0†Notícias L46:   * cite9†Esportes L47:   * cite13†Diversão e arte L48:   * cite3†Política L49:   * cite1†Paraná L50: 
+L51: Mais
+L52: 
+L53:   * cite27†Publicidade Legal L54:   * cite26†Edição Impressa L55:   * Buscar
+L56:   * cite33† Entrar L57: 
+L58: cite34†Notícias / cite3†Política L59: 
+L60: cite3†Política Política

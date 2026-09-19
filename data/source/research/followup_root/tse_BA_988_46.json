@@ -1,0 +1,17 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "CIDADANIA",
+  "id": 46,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 840,
+      "totalElements": 840,
+      "response_sha256": "6e9fcdcb38bf30f47b383aa394b4dbcfcd844a52d8d3bd157487890d5cc52c34",
+      "retrieved_utc": "2026-09-10T23:37:28Z"
+    }
+  ],
+  "matches": []
+}

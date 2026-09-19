@@ -1,0 +1,17 @@
+{
+  "party": "PSOL",
+  "id": 63,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 632,
+      "totalElements": 632,
+      "response_sha256": "eaa89258a8934efb6f5b5c9ef29523f0ea4ea6b2efd9123d2d25dc74629c268b",
+      "retrieved_utc": "2026-09-10T23:41:29Z"
+    }
+  ],
+  "matches": []
+}

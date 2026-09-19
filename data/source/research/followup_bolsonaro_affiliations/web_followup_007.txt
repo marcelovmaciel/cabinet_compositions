@@ -1,0 +1,41 @@
+Internal Error ()
+citeturn346view0 [wordlim: 200] Source: open({"ref_id":"https://brasil.io/dataset/eleicoes-brasil/filiados/?search=MARIA%20ESTELLA%20DANTAS","lineno":null}); Total lines: 1
+L0: URL https://brasil.io/dataset/eleicoes-brasil/filiados/?search=MARIA+ESTELLA+DANTAS is not safe to open (non-retryable error)
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn346view1 [wordlim: 200] Source: open({"ref_id":"https://brasil.io/dataset/eleicoes-brasil/filiados/?nome_do_filiado=HELDER%20MELILLO%20LOPES%20CUNHA%20SILVA","lineno":null}); Total lines: 1
+L0: URL https://brasil.io/dataset/eleicoes-brasil/filiados/?nome_do_filiado=HELDER+MELILLO+LOPES+CUNHA+SILVA is not safe to open (non-retryable error)
+--------------------------------------------------------------------------------
+Filiação Partidária – Base dos Dados (https://basedosdados.org/dataset/e68b1cfd-ca29-4bdc-b687-424d9c59760e?table=9a2e8ce4-6919-437c-b32e-b8fc048db296)
+citeturn346view2 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({"ref_id":"https://basedosdados.org/dataset/e68b1cfd-ca29-4bdc-b687-424d9c59760e?table=9a2e8ce4-6919-437c-b32e-b8fc048db296","lineno":null}); Total lines: 35
+L0: cite0†Dados L1: 
+L2: /
+L3: 
+L4: Filiação Partidária
+L5: 
+L6: cite1†Image†storage.googleapis.com L7: 
+L8: Filiação Partidária
+L9: 
+L10: Relação de pessoas filiadas a partidos políticos no Brasil.
+L11: 
+L12: Organização
+L13: 
+L14: cite2†Tribunal Superior Eleitoral (TSE) L15: 
+L16: Cobertura temporal
+L17: 
+L18: 1980-01-01 - 2026-04-01
+L19: 
+L20: Dados
+L21: 
+L22: Guia de uso
+L23: 
+L24: Loading...
+L25: 
+L26: Selecione uma tabela ou fonte original
+L27: 
+L28: ® 2026 Base dos Dados
+L29: 
+L30: Português
+L31: 
+L32: cite3†Termos de uso cite4†Política de privacidade cite5†Contato L33: 
+L34: cite6†iframe†www.googletagmanager.com cite7†Image†www.facebook.com 

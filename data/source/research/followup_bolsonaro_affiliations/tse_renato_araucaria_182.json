@@ -1,0 +1,14 @@
+{
+  "party": "PRD",
+  "id": 182,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=182&currentPage=0&pageSize=10000",
+      "records": 1359,
+      "totalElements": 1359,
+      "response_sha256": "3dda5bd7121a1601ac9442b2a070af2fbc5e465c36480847ad90ac9e53fc2daa",
+      "retrieved_utc": "2026-09-11T00:08:34Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,52 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "PDT",
+  "id": 70,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 54627,
+      "response_sha256": "d8c2dbd1cf951e7d319070756c1feb0423406cfeb1eacedd7ae57b9827f44583",
+      "retrieved_utc": "2026-09-10T23:42:40Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=70&currentPage=1&pageSize=10000",
+      "records": 10000,
+      "totalElements": 54627,
+      "response_sha256": "8e465e7f50f8b8c9882695cb56262dfc59f2550973e75530a7788f6820d3af50",
+      "retrieved_utc": "2026-09-10T23:43:00Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=70&currentPage=2&pageSize=10000",
+      "records": 10000,
+      "totalElements": 54627,
+      "response_sha256": "47224a0eb3808773ae3dc935ac131741f22cc6281f9055b59ab36f2f10a9dcac",
+      "retrieved_utc": "2026-09-10T23:43:17Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=70&currentPage=3&pageSize=10000",
+      "records": 10000,
+      "totalElements": 54627,
+      "response_sha256": "9ab330145b5fbc061b50056afdff54fd9024e24cd0d6bcd211b4420fd73a7f3a",
+      "retrieved_utc": "2026-09-10T23:43:37Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=70&currentPage=4&pageSize=10000",
+      "records": 10000,
+      "totalElements": 54627,
+      "response_sha256": "016e7b2fbab6413e62bb8010a37b48c70dbd14d929f95990be914156a15d1584",
+      "retrieved_utc": "2026-09-10T23:43:57Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=70&currentPage=5&pageSize=10000",
+      "records": 4627,
+      "totalElements": 54627,
+      "response_sha256": "6799805274dc086018c9108e99b19a5941f0059a973138ea8425cae2c3e89a72",
+      "retrieved_utc": "2026-09-10T23:44:05Z"
+    }
+  ],
+  "matches": []
+}

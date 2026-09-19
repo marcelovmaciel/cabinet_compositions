@@ -1,0 +1,21 @@
+{
+  "party": "CIDADANIA",
+  "id": 46,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 10145,
+      "response_sha256": "7ad6c299245fd788874e6bf4e1437a0a8cf88e2881d9928ce8801757110ee796",
+      "retrieved_utc": "2026-09-10T23:44:15Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=46&currentPage=1&pageSize=10000",
+      "records": 145,
+      "totalElements": 10145,
+      "response_sha256": "be5ef9da9b0150f12c622f4a37983e5a49afd42b3128b8dd5faae43bc8ddc930",
+      "retrieved_utc": "2026-09-10T23:44:17Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "city": "LONDRINA",
+    "parties": 39,
+    "pages": 39,
+    "rows_inspected": 37726,
+    "errors": [],
+    "matches": []
+  },
+  {
+    "city": "SANANDUVA",
+    "parties": 39,
+    "pages": 39,
+    "rows_inspected": 2034,
+    "errors": [],
+    "matches": []
+  },
+  {
+    "city": "PRESIDENTE PRUDENTE",
+    "parties": 39,
+    "pages": 39,
+    "rows_inspected": 14473,
+    "errors": [],
+    "matches": []
+  }
+]

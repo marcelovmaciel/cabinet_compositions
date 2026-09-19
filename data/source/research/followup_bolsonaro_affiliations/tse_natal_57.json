@@ -1,0 +1,14 @@
+{
+  "party": "AGIR",
+  "id": 57,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 138,
+      "totalElements": 138,
+      "response_sha256": "fae6fc324e861616ce22c37dc6a1726f064027e6ed09734dcef430b1cb45206d",
+      "retrieved_utc": "2026-09-10T23:43:03Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,14 @@
+{
+  "party": "PCDOB",
+  "id": 45,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 2992,
+      "totalElements": 2992,
+      "response_sha256": "df96a4e4902f1cf0f5c56da5ecddf96d4db6df78865006e774f12dea14ce6b93",
+      "retrieved_utc": "2026-09-10T23:46:48Z"
+    }
+  ],
+  "matches": []
+}

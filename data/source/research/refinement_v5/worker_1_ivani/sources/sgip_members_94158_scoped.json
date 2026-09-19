@@ -1,0 +1,33 @@
+{
+  "url": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+  "status": 200,
+  "retrieved_at": "2026-09-11T00:48:59.148591+00:00",
+  "response_sha256": "5e7a78d2cf5bf6abccd840b9e1591bcc3309ae25648ebf761a5ecb1785181ba7",
+  "organ": {
+    "sqOrgaoPartidario": 94158,
+    "numero": 15,
+    "sigla": "MDB",
+    "nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+    "tipoOrgao": "Órgão definitivo",
+    "dataInicioVigencia": "31/10/2015",
+    "dataFimVigencia": "31/05/2019",
+    "protocolo": "624682686642",
+    "situacaoiVigencia": "Não Vigente",
+    "abrangencia": "Regional (DF)",
+    "qtdeRegistros": null,
+    "orgaoPartidario": null,
+    "membros": null,
+    "anotacaoOrgaoPartidarioInfo": null,
+    "uf": "DF",
+    "sgUeSede": "DF",
+    "municipio": "",
+    "zona": "",
+    "situacoes": [
+      "Anotado; "
+    ],
+    "emitirComissaoExecutiva": true
+  },
+  "member_count": 127,
+  "matches": [],
+  "scope": "All returned members of selected governing organ, including inactive members. Not an exhaustive party-affiliation list."
+}

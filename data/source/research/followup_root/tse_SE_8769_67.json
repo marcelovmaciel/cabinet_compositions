@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "PSTU",
+  "id": 67,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=67&currentPage=0&pageSize=10000",
+      "records": 175,
+      "totalElements": 175,
+      "response_sha256": "1d4e59a9745a2d1b5ed79efb9aa53ba19d0af26a85b01bcce5397a4a9e4922cc",
+      "retrieved_utc": "2026-09-10T23:44:48Z"
+    }
+  ],
+  "matches": []
+}

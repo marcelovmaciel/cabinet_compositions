@@ -1,0 +1,8 @@
+{
+  "name": "WALLACE NUNES DA SILVA",
+  "registry_path": "tse_RJ_6865_72.json",
+  "official_identity_source": "https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=10%2F02%2F2023&jornal=529&pagina=75",
+  "official_partial_identifier_matches": true,
+  "identity_basis": "Exact full name, six-digit public government identifier segment, Belford Roxo/RJ locality consistent with parliamentary employment; full registry identifier not reproduced.",
+  "registry_identity_sha256": "b772f82de18380527d23f5be9f44bc4581147db236afedc6b23f8f9448d2f70e"
+}

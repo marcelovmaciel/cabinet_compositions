@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "PRTB",
+  "id": 39,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=39&currentPage=0&pageSize=10000",
+      "records": 2134,
+      "totalElements": 2134,
+      "response_sha256": "2fb2eb50654dc747e76309e51fffb5548775f74f850644a0b8c3674d68ba1a1d",
+      "retrieved_utc": "2026-09-10T23:43:07Z"
+    }
+  ],
+  "matches": []
+}

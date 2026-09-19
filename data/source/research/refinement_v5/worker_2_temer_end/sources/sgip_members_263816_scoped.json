@@ -1,0 +1,70 @@
+{
+  "url": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=263816&isMembrosAtivos=false",
+  "status": 200,
+  "retrieved_at": "2026-09-11T01:07:03.724283+00:00",
+  "response_sha256": "ff838fbfccfd05f0666dc0cac1569c0fc7d42200c1c5bdb3e9946003ca80dfb4",
+  "member_count": 19,
+  "keys": [
+    "sqOrgaoPartidario",
+    "numero",
+    "sigla",
+    "nome",
+    "tipoOrgao",
+    "dataInicioVigencia",
+    "dataFimVigencia",
+    "protocolo",
+    "situacaoiVigencia",
+    "abrangencia",
+    "qtdeRegistros",
+    "orgaoPartidario",
+    "membros",
+    "anotacaoOrgaoPartidarioInfo",
+    "uf",
+    "sgUeSede",
+    "municipio",
+    "zona",
+    "situacoes",
+    "emitirComissaoExecutiva"
+  ],
+  "members_keys": [
+    "id",
+    "nomeMembro",
+    "nomeCargo",
+    "dataInicioExercicio",
+    "dataFimExercicio",
+    "situacao",
+    "respAdministrativo",
+    "respFinanceiro",
+    "nrTitulo",
+    "cpf",
+    "des_raca_cor",
+    "des_genero"
+  ],
+  "matches": [
+    {
+      "id": 4749134,
+      "nomeMembro": "HELIO SOBRAL LEITE",
+      "nomeCargo": "3º - VICE-PRESIDENTE",
+      "dataInicioExercicio": "01/11/2018",
+      "dataFimExercicio": "31/01/2019",
+      "situacao": "Inativo",
+      "respAdministrativo": "NÃO",
+      "respFinanceiro": "NÃO",
+      "des_raca_cor": null,
+      "des_genero": "MASCULINO"
+    },
+    {
+      "id": 4749147,
+      "nomeMembro": "JOSÉ MACEDO SOBRAL",
+      "nomeCargo": "TESOUREIRO - ADJUNTO",
+      "dataInicioExercicio": "01/11/2018",
+      "dataFimExercicio": "31/01/2019",
+      "situacao": "Inativo",
+      "respAdministrativo": "NÃO",
+      "respFinanceiro": "NÃO",
+      "des_raca_cor": null,
+      "des_genero": "MASCULINO"
+    }
+  ],
+  "scope": "Governing members returned by public historical body endpoint, not exhaustive party affiliation."
+}

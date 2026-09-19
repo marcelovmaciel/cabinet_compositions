@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6912",
+  "city": "DUQUE DE CAXIAS",
+  "party": "AVANTE",
+  "id": 50,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6912&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 819,
+      "totalElements": 819,
+      "response_sha256": "037c77966535a364d6274d61929d84958612aaa4cbfaecb87c85e033a1b647c8",
+      "retrieved_utc": "2026-09-10T23:40:24Z"
+    }
+  ],
+  "matches": []
+}

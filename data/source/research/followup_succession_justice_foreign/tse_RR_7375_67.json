@@ -1,0 +1,17 @@
+{
+  "party": "PSTU",
+  "id": 67,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=67&currentPage=0&pageSize=10000",
+      "records": 15,
+      "totalElements": 15,
+      "response_sha256": "4d9cf22eb89bac7f3258bd71ec9c4bbf0efc4fc19b5a54f1569de05c633be447",
+      "retrieved_utc": "2026-09-10T23:41:30Z"
+    }
+  ],
+  "matches": []
+}

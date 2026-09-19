@@ -1,0 +1,17 @@
+{
+  "party": "PV",
+  "id": 52,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=52&currentPage=0&pageSize=10000",
+      "records": 592,
+      "totalElements": 592,
+      "response_sha256": "31216e0f5bbb1d3aa6dbb6792a04eb83388b6deea9ef7b4f78fe3510704e75ae",
+      "retrieved_utc": "2026-09-10T23:39:02Z"
+    }
+  ],
+  "matches": []
+}

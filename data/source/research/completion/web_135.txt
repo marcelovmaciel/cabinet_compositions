@@ -1,0 +1,394 @@
+2597
+O CARROSSEL BUROCRÁTICO NOS 
+CARGOS DE CONFIA (https://repositorio.ipea.gov.br/bitstreams/847e3f46-b190-4a4e-939d-89484fc0fb9c/download)
+citeturn137search12 [wordlim: 200] Published: 8 months ago; Fontes: Siape (disponível em: <http://www.siapenet.gov.br>); e Atlas do Estado Brasileiro (disponível em: <https://www.ipea.gov.br/atlasestado>). ... No alto escalão (DAS 5 e 6), o efeito de permanência do ministro é significati- ... Filiação partidária, sexo e
+B r a s í l i a ,  s e t e m b r o  d e  2 0 2 0
+chances de serem exonerados do que seus correlatos em outros estados. Por fim, como 
+controles, vemos que homens permanecem mais tempo em suas funções e servidores 
+com ensino superior sobrevivem menos em cargos comissionados. 
+GRÁFICO 3 
+Probabilidade média de sobrevivência dos DAS 1 a 4, em função do tempo de 
+permanência dos ministros
+0,15
+0,10
+0,05
+%
+0,00
+-0,05
+-0,10
+20
+30
+40
+50
+Tempo médio de sobrevivência (meses)
+Fontes: Siape (disponível em: <http://www.siapenet.gov.br>); e Atlas do Estado Brasileiro (disponível em: <https://www.ipea.gov.br/atlasestado>). 
+Elaboração dos autores.
+No alto escalão (DAS 5 e 6), o efeito de permanência do ministro é significati-
+vamente maior. Ministros com quarenta meses na pasta ampliam a probabilidade de 
+sobrevivência dos funcionários em quase 30%, se comparados aos ministros com vinte 
+meses em suas funções (gráfico 4). A chance de concursados permanecerem no cargo 
+é 23% superior à dos não concursados (de fora do setor público). Tal como se observa 
+no médio escalão, os funcionários de alto escalão lotados em Brasília estão mais sujeitos 
+à exoneração: há 27% mais chance de serem substituídos. Filiação partidária, sexo e 
+escolaridade não apresentaram coeficientes estatisticamente significativos. 
+26--------------------------------------------------------------------------------
+Publicação (https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/pubpreliminar/211210_publicacao_preliminar_td_quao_fechados_sao_as_porteiras.pdf)
+citeturn137search13 [wordlim: 200] Published: 9 months ago; apenas os partidos do ministro -- durante o exercício de seus mandatos -- , a média de filiados é de ... Em outros termos, 21% e 36% estão em partidos de fora da coalizão. ... Sabemos que apenas a filiação formal é uma aproximação imperfeita para compreender o
+que mencionamos na seção anterior: o número de cargos de médio escalão é muito superior ao alto 
+escalão e o controle político do acesso dos partidos é mais rigoroso no alto escalão.  
+ 
+A diferença entre o alto e médio escalão se manifesta, pelo seguinte dado: considerando 
+apenas os partidos do ministro -- durante o exercício de seus mandatos -- , a média de filiados é de 
+44% e 21% no alto e médio escalão, respectivamente. O máximo observado para o alto escalão é 
+92%, no MDA e o mínimo, 7%, no MRE. No médio escalão, o maior percentual de filiados ao 
+partido do ministro é 68%, no MDA e o menor, 2%, no MRE. Considerando todos os partidos da 
+coalizão - inclusive do ministro --, as médias entre filiados aumentam para 79% e 64%, no alto e 
+médio escalão. Em outros termos, 21% e 36% estão em partidos de fora da coalizão. O percentual 
+máximo de filiados, 100%, é o MDA e o mínimo, 55%, está no Ministério da Previdência Social.  
+ 
+Uma última nota sobre as evidências acima apresentadas diz respeito não aos aspectos 
+político-partidários distintos. Também em custos orçamentários, trata-se de um desperdício 
+potencial de recursos públicos. Uma análise zelosa dos efeitos da combinação entre fragmentação 
+político-partidária e instabilidade da burocracia dirigente é uma agenda a implementar, e de grande 
+relevância, ainda mais porque vislumbramos cenário similar nas administrações subnacionais.  
+ 
+7. PARA ALÉM DOS MINISTROS: PARTIDOS, FACÇÕES E OS ARRANJOS DE PODER NO 
+INTERIOR DOS MINISTÉRIOS  
+ 
+Sabemos que apenas a filiação formal é uma aproximação imperfeita para compreender o 
+espaço relativo dos partidos em setores da administração. Mas parece-nos suficiente, ou pelo menos 
+promissora, para discutir novas dimensões da divisão de poder político no interior dos ministérios. 
+Ao discuti-las, dialogamos com duas abordagens.  
+A primeira abordagem se baseia na norma da proporcionalidade. Nesta, argumenta-se que 
+os partidos recebem pastas ministeriais proporcionais a seu tamanho na coalizão. Na segunda 
+abordagem, o número de pastas ou o volume de cargos da alta burocracia equivale ao poder de 
+barganha de cada agremiação. O poder destinado a um partido não reflete, necessariamente, seu 
+tamanho no legislativo, mas sua capacidade de ameaçar politicamente o êxito do governo ou, de 
+modo mais preciso, o êxito dos Presidentes. Manter o apoio de um partido pequeno pode ser 
+decisivo para o governo, por exemplo, conservar maioria legislativa (Mershon, 2001, p.278; 
+Schofield e Laver, 1985).--------------------------------------------------------------------------------
+Brasil - Federalismo e Coalizão: A Representatividade dos Estados nos Gabinetes Ministeriais Brasileiros Federalismo e Coalizão: A Representatividade dos Estados nos Gabinetes Ministeriais Brasileiros (https://doi.org/10.1590/dados.2025.68.2.362)
+citeturn137search0 [wordlim: 200] Published: 1.8 years ago; Crawled: 2 weeks ago; Número de casos: FHC I = 30; FHC = 33; Lula I = 54; Lula II = 51; Dilma I = 58; Dilma II = 39 ... Gráfico 3 : Região de origem dos ministros por filiação partidária (PSDB e PT) (1995-2016) ... Figura 1 : Mediana da Taxa de Coalescência Federativa por estado: Câmara dos
+##### Figuras | Tabelas | Fórmulas
+
+Image Thumbnail
+
+Gráfico 1 : Regiões de origem política dos ministros de Estado por governo (1995-2016)
+
+Número de casos: FHC I = 30; FHC = 33; Lula I = 54; Lula II = 51; Dilma I = 58; Dilma II = 39
+
+Image Thumbnail
+
+Gráfico 2 : Estado de origem política dos ministros brasileiros, em % (1995-2016)
+
+Número de casos: 265 ministros.
+
+Image Thumbnail
+
+Gráfico 3 : Região de origem dos ministros por filiação partidária (PSDB e PT) (1995-2016)
+
+Thumbnail
+
+Gráfico 4 : Taxas de Coalescência partidária e federativa comparadas por presidente ano a ano (1995-2016)
+
+Gabinete=1−1/2∑n i=1(|S i−M i|)$\text{Gabinete}=1-1/2\sum _{i=1}^{n}\left(\left|{S}_{i-}{M}_{i}\right|\right)$
+
+Gabinete Câmara por Estado=C=1−1/2∑k j=1 α j$\text{Gabinete Câmara por Estado}=C=1-1/2\sum _{j=1}^{k}\alpha j$
+
+Gabinete Senado por estado=T=1−1/2∑k j=1 β j$\text{Gabinete Senado por estado}=T=1-1/2\sum _{j=1}^{k}\beta j$
+
+Image Thumbnail
+
+Figura 1 : Mediana da Taxa de Coalescência Federativa por estado: Câmara dos
+
+Image Thumbnail
+
+Figura 2 : Mediana da Taxa de Coalescência Federativa por estado: Senado Federal (1995-2016)
+
+Thumbnail
+
+Tabela 1 : Total de ministérios e de ministros de Estado filiados por presidente (1995-2016)
+
+Thumbnail
+
+Tabela 2 : Taxa de coalescência partidária e federativa para a Câmara dos Deputados e para o Senado Federal por ano (de 1995 a 2016)
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+Thumbnail
+
+##### image Gráfico 1   : Regiões de origem política dos ministros de Estado por governo (1995-2016)
+
+Número de casos: FHC I = 30; FHC = 33; Lula I = 54; Lula II = 51; Dilma I = 58; Dilma II = 39
+
+open_in_new
+
+ImageFonte: os autores.
+
+##### image Gráfico 2   : Estado de origem política dos ministros brasileiros, em % (1995-2016)
+
+Número de casos: 265 ministros.
+
+open_in_new
+
+ImageFonte: os autores.
+
+##### image Gráfico 3   : Região de origem dos ministros por filiação partidária (PSDB e PT) (1995-2016) open_in_new
+
+ImageFonte: os autores.
+
+##### image Gráfico 4   : Taxas de Coalescência partidária e federativa comparadas por presidente ano a ano (1995-2016)
+
+Gabinete=1−1/2∑n i=1(|S i−M i|)$\text{Gabinete}=1-1/2\sum _{i=1}^{n}\left(\left|{S}_{i-}{M}_{i}\right|\right)$
+
+Gabinete Câmara por Estado=C=1−1/2∑k j=1 α j$\text{Gabinete Câmara por Estado}=C=1-1/2\sum _{j=1}^{k}\alpha j$
+
+Gabinete Senado por estado=T=1−1/2∑k j=1 β j$\text{Gabinete Senado por estado}=T=1-1/2\sum _{j=1}^{k}\beta j$
+
+Fonte: os autores.
+
+##### image Figura 1   : Mediana da Taxa de Coalescência Federativa por estado: Câmara dos open_in_new
+
+ImageFonte: os autores.
+
+##### image Figura 2   : Mediana da Taxa de Coalescência Federativa por estado: Senado Federal (1995-2016) open_in_new
+
+ImageFonte: os autores.
+
+--------------------------------------------------------------------------------
+ECONSTORA Service ofZBWLeibniz-Informationszentrum (https://www.econstor.eu/bitstream/10419/240791/1/td-2597.pdf)
+citeturn137search14 [wordlim: 200] Published: 5 months ago; com ensino superior sobrevivem menos em cargos comissionados.Fontes: Siape (disponível em: <http://www.siapenet.gov.br>); e Atlas do Estado Brasileiro (disponível em: <https://www.ipea.gov.br/atlasestado>).Elaboração dos autores.No alto escalão (DAS 5 e 6), o efeito de permanência do ministro é significantemente maior. ... Filiação partidária, sexo e escolaridade não apresentaram coeficientes estatisticamente significativos.26
+Brasília, setembro de 2020chances de serem exonerados do que seus correlatos em outros estados. Por fim, como
+controles, vemos que homens permanecem mais tempo em suas funções e servidores
+com ensino superior sobrevivem menos em cargos comissionados.Fontes: Siape (disponível em: <http://www.siapenet.gov.br>); e Atlas do Estado Brasileiro (disponível em: <https://www.ipea.gov.br/atlasestado>).  
+Elaboração dos autores.No alto escalão (DAS 5 e 6), o efeito de permanência do ministro é significantemente maior. Ministros com quarenta meses na pasta ampliam a probabilidade de sobrevivência dos funcionários em quase 30%, se comparados aos ministros com vinte meses em suas funções (gráfico 4). A chance de concursados permanecerem no cargo é 23% superior à dos não concursados (de fora do setor público). Tal como se observa no médio escalão, os funcionários de alto escalão lotados em Brasília estão mais sujeitos à exoneração: há 27% mais chance de serem substituídos. Filiação partidária, sexo e escolaridade não apresentaram coeficientes estatisticamente significativos.26--------------------------------------------------------------------------------
+Estudo Ipea Comissionados | PDF | Burocracia | Serviço civil (https://pt.scribd.com/document/1042247295/estudo-ipea-comissionados)
+citeturn137search1 [wordlim: 200] Published: 6.0 years ago; Crawled: 3 months ago; A filiação a partidos políticos revela com mais clareza a vinculação entre o co- ... a aplicar cota mínima de 60% para os cargos de DAS 5 e 6 (Brasil, 2017a). ... com a nomeação de um novo ministro, ainda mais se houver modificação do partido ... signou-se o rótulo de filiado a todos que tinham registro regular de filiação partidária ... Fontes: S iape (disponível em: <[Link] TSE (disponível em: <[Link] e Atlas do Estado Brasileiro (disponível em: <[Link]
+riores. Assim, se um mesmo funcionário teve seu Cadastro de Pessoa Física (CPF) registrado, por exemplo, em agosto e outubro
+de 2009, concluiu-se pela permanência do servidor no mês faltante.
+
+19
+Brasília, setembro de 2020
+
+Pedro Malan, por exemplo, ocupou a pasta da Fazenda ao longo dos oito anos em que
+FHC comandou a Presidência da República. Retirar sua inscrição anterior a 1999 mi-
+tigaria a estabilidade de suas funções durante a gestão tucana.
+
+## No período analisado, computamos 127.794 casos de servidores que passaram
+
+pelo menos uma vez por cargos de DAS. A tabela 2 detalha as variáveis utilizadas.
+
+TABELA 2
+Variáveis e estatísticas descritivas
+Variável Definição Média (desvio-padrão)
+
+Tempo de permanência dos ocupantes de cargos de DAS, em meses. A mudança de cargo foi
+Tempo de sobrevivência notada em três circunstâncias: a saída de um CPF dos registros públicos, a transferência do
+35,28 (37,12)
+(dependente) servidor para outro ministério ou a alteração do nível da função. A censura ocorre quando os
+servidores continuam no mesmo posto, até maio de 2017.
+Tempo médio de permanência
+Variável contínua. Indica o tempo médio de permanência dos ministros nos órgãos superiores. 26,23 (10,95)
+dos ministros
+
+DAS 5 e 6 Indicador com o valor 1 atribuído aos ocupantes de DAS 5 e 6 e 0 para outros. 0,06
+
+Concursados Preditor binário. 1 para servidores concursados e 0 para não concursados. 0,66
+
+Filiação Preditor binário. 1 para servidores filiados a partidos políticos e 0 para outros. 0,05
+
+Localidade Preditor binário. 1 para nomeados lotados no Distrito Federal e 0 para outras regiões. 0,65
+
+## Sexo Preditor binário. 1 para mulheres e 0 para homens. 0,41
+
+Escolaridade Preditor binário. 1 para nomeados com ensino superior e 0 para outros. 0,76
+
+Fontes: S iape (disponível em: <[Link] TSE (disponível em: <[Link] e Atlas do Estado Brasileiro (disponível em: <[Link]
+[Link]/atlasestado>).
+Elaboração dos autores.
+
+--------------------------------------------------------------------------------
+[Artigos Originais] (https://www.scielo.br/j/dados/a/srw7gH5KVLR5CXNYkK8zZ8s/?format=pdf)
+citeturn137search15 [wordlim: 200] Published: 1.2 years ago; FHC I ... teca da Presidência da República (https://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes). ... lados a partir do local de filiação política e/ou atuação partidária e não ... região de militância política do ministro é mais relevante que seu local ... tação em História Contemporânea do Brasil da Fundação Getulio Vargas, ... 2016 e que possuíam filiação partidária no momento da sua nomeação.
+Os dados relativos aos estados de origem dos ministros foram compi-
+lados a partir do local de filiação política e/ou atuação partidária e não 
+do seu local de nascimento. Dessa forma, o ministro dos Transportes 
+Paulo Sérgio Passos, do Partido da República, por exemplo, está ligado 
+politicamente ao Distrito Federal, apesar de ter nascido na Bahia. Para 
+o cálculo dos pesos estaduais na coalizão assumimos que o local e/ou 
+região de militância política do ministro é mais relevante que seu local 
+ou região de origem.
+Os dados sobre os ministros foram coletados no Dicionário Histórico Bio-
+gráfico-Brasileiro (Abreu et al., 2001), do Centro de Pesquisa e Documen-
+tação em História Contemporânea do Brasil da Fundação Getulio Vargas, 
+e da relação de filiados do Tribunal Superior Eleitoral.
+A Origem Estadual dos Ministros Brasileiros
+A estatística a seguir diz respeito aos ministros recrutados entre 1995 e 
+2016 e que possuíam filiação partidária no momento da sua nomeação.
+O Gráfico 1 mostra a proporção do gabinete ocupado pelos ministros de 
+cada região em cada governo ao longo do tempo:
+16 / 46      
+, Rio de Janeiro  Vol.68  N.2  Ano 2025: e20230017--------------------------------------------------------------------------------
+TD 3200 Web | PDF | Burocracia (https://pt.scribd.com/document/1024722968/TD-3200-web)
+citeturn137search2 [wordlim: 200] Crawled: 5 months ago; ## Fonte: Atlas do Estado Brasileiro (disponível em: [Link] ... de proporção, uma vez que ambas as variáveis – órgão e filiação – são categóricas ... órgão e filiação. ... relação não é estatisticamente significante tendo em vista que: i) o p-valor é alto
+## Fonte: Atlas do Estado Brasileiro (disponível em: [Link]
+
+BD-MID.
+Nota: 1 NA – Não informado.
+
+27
+3200
+TEXTO para DISCUSSÃO
+
+## 4.2.4 Filiacões partidárias
+
+## A quantidade de filiados(as) a partidos no Mapa é superior à média do conjunto da
+
+administração pública federal a partir de 2003 (tabela 3).
+
+TABELA 3
+Filiados(as) no Mapa em cargos de DAS 5 a 7 (total de servidores)
+Período Total Filiados(as) Filiados(as) (%) Média do governo federal (%)
+Maio 1999 32 0 0 1.6
+Maio 2000 45 0 0 1.1
+Maio 2001 35 0 0 1.4
+Maio 2002 33 0 0 1.1
+Maio 2003 36 3 8.33 4.7
+Maio 2004 46 5 10.9 4.4
+Maio 2005 64 7 10.9 4.5
+Maio 2006 60 6 10 3.8
+Maio 2007 60 8 13.3 4.9
+Maio 2008 60 7 11.7 5.4
+Maio 2009 61 8 13.1 5.0
+Maio 2010 51 6 11.8 6.1
+Maio 2011 50 9 18 6.3
+Maio 2012 45 7 15.6 7.4
+Maio 2013 49 10 20.4 7.5
+Maio 2014 49 11 22.4 7.2
+Maio 2015 50 11 22 8.0
+Maio 2016 54 9 16.7 6.2
+Maio 2017 68 11 16.2 8.6
+Maio 2018 62 8 12.9 7.9
+
+Fonte: BD-MID.
+Obs.: Snapshot de maio de cada ano.
+
+## A tabela mostra, utilizando-se maio como referência, que o percentual de filiados(as)
+--------------------------------------------------------------------------------
+TSE suspende sistema de filiação após mudança de partido de Flávio | CNN Brasil (https://www.cnnbrasil.com.br/eleicoes/tse-suspende-sistema-de-filiacao-apos-mudanca-de-partido-de-flavio/)
+citeturn137search3 [wordlim: 200] Published: 4 weeks ago; Crawled: today; Álvaro Augusto, da CNN Brasil, em Brasília 13/08/26 às 21:51 | Atualizado 14/08/26 às 14:21 ... Após o caso, o ministro Nunes Marques atendeu a um pedido de urgência da campanha do PL e determinou o reestabelecimento imediato da filiação do senador e a exclusão do vínculo com o Missão.
+
+# TSE suspende sistema de filiação após mudança de partido de Flávio
+
+## Presidente da Corte eleitoral, ministro Nunes Marques, determinou que o portal "Filia" fique inativo para evitar "novas tentativas indevidas de registro"
+
+Álvaro Augusto, da CNN Brasil, em Brasília 13/08/26 às 21:51 | Atualizado 14/08/26 às 14:21
+
+
+O presidente do TSE (Tribunal Superior Eleitoral), Kássio Nunes Marques, suspendeu, na noite desta quinta-feira (13), o sistema Filia, pelo qual as filiações partidárias são registradas na Justiça Eleitoral.
+
+A suspensão é temporária, e ocorre após casos de alterações dos partidos de candidatos à Presidência da República que estão registrados no TSE. Segundo o Tribunal, o objetivo é "garantir que não haverá novas tentativas indevidas de registro".
+
+A decisão de Nunes Marques vem na esteira da mudança de partido do candidato Flávio Bolsonaro, do PL, que aparecia, na manhã desta quinta-feira (13), como filiado ao Partido Missão. Com isso, a campanha de Flávio não conseguia registrar a candidatura na Justiça Eleitoral.
+--------------------------------------------------------------------------------
+BUROCRACIA e POLÍTICAS (https://h-internet.mprj.mp.br/documents/20184/1330165/Burocracia_e_politicas_publicas_no_Brasil_-_intersecoes_analiticas.pdf)
+citeturn137search16 [wordlim: 200] Published: 1.4 years ago; Nota: 1 A filiação foi mensurada a partir do cruzamento entre o número do título de eleitor dos ocupantes de DAS e da mesma ... que só foi possível pela disponibilização ao Ipea das informações sobre título de eleitor, evitou o problema usual dos ... Ademais, quanto mais politizada é a nomeação do ministro, menor seu tempo de permanência no cargo (Palotti,
+/2015) 1
+(Em %)
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+ | serv (Em  | viço pú %)  | úblico fe  |  | ederal,  | , por níve  |  | el do c  | cargo (de  |  | ez./20  | 015) 1  |  |  |  |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---DAS 1
+DAS 2
+DAS 3
+DAS 4
+DAS 5
+DAS 6
+Filiado
+Não ﬁliado
+Fontes: Siape e Tribunal Superior Eleitoral (TSE).
+Elaboração dos autores.
+Nota: 1 A filiação foi mensurada a partir do cruzamento entre o número do título de eleitor dos ocupantes de DAS e da mesma 
+informação, que está disponível na base de filiados a partidos políticos, disponibilizada pelo TSE. As extrações foram 
+feitas no mês indicado. Portanto, a chave primária do cruzamento foi o número do título de eleitor. Esse procedimento, 
+que só foi possível pela disponibilização ao Ipea das informações sobre título de eleitor, evitou o problema usual dos 
+homônimos, no caso de cruzamentos que utilizaram o nome do filiado e ocupante do DAS, na falta de melhor dado.
+13. Ademais, quanto mais politizada é a nomeação do ministro, menor seu tempo de permanência no cargo (Palotti, 
+2017, p. 128). Em linha com o que discutirmos nesta seção, os vínculos partidários não constituem um aspecto central 
+da explicação das variações na sobrevivência dos ministros, embora o vínculo partidário deva ser diferenciado de 
+politização. Basta ver, por exemplo, que os testes realizados pelo autor, na série entre 1995 e 2014, indicam que “a 
+diferença ideológica aponta para o sentido oposto da causalidade [usualmente] proposta [pela literatura]: ministros 
+mais distantes ideologicamente do presidente tendem a permanecer por mais tempo no gabinete” (op. cit., p. 128).--------------------------------------------------------------------------------
+Nº 241, sexta-feira, 12 de dezembro de 2003 (https://sintse.tse.jus.br/documentos/2003/Dez/12/diario-da-justica-secao-1/resolucao-no-21-574-de-27-de-dezembro-de-2003-dispoe-sobre-o-sistema-de-filiacao-partidaria-e-da-out)
+citeturn137search17 [wordlim: 200] Published: 4.9 years ago; Eventual decisão proferida em sede de ação de impugnação de ... o Sistema de Filiação Partidária e indicará o leiaute do arquivo a ser ... das informações sobre filiação partidária registradas no cadastro elei- ... Ministro Sepúlveda Pertence, presidente - Ministro Barros
+--------------------------------------------------------------------------------
+Acesso ao Filia será facilitado em razão do aumento de filiações durante a janela partidária — Tribunal Superior Eleitoral (https://www.tse.jus.br/comunicacao/noticias/2024/Marco/acesso-ao-filia-sera-facilitado-em-razao-do-aumento-de-filiacoes-durante-a-janela-partidaria)
+citeturn137search4 [wordlim: 200] Published: 2.5 years ago; Crawled: 4 months ago; Acesso ao Filia será facilitado em razão do aumento de filiações durante a janela partidária De 7 de março a 5 de abril, não será necessário o fator de dupla autenticação pelo e-Título para acesso ao sistema https://www.tse.jus.br/comunicacao/noticias/2024/Marco/acesso-ao-filia-sera-facilitado-em-razao-do-aumento-de-filiacoes-durante-a-janela-partidaria https://www.tse.jus.br/@@site-logo/logo.jpg ... O ministro Alexandre de Moraes, presidente do Tribunal Superior Eleitoral (TSE), suspendeu o uso do e-Título para acesso ao Sistema de Filiação Partidária, o Filia, durante o período de janela partidária, que vai de 7 de março a 5 de abril.
+--------------------------------------------------------------------------------
+Brazil - Federalismo e Coalizão: A Representatividade dos Estados nos Gabinetes Ministeriais Brasileiros Federalismo e Coalizão: A Representatividade dos Estados nos Gabinetes Ministeriais Brasileiros (https://www.scielo.br/j/dados/a/srw7gH5KVLR5CXNYkK8zZ8s/?format=html&lang=pt)
+citeturn137search5 [wordlim: 200] Published: 1.8 years ago; Crawled: 3 weeks ago; Portanto, há motivações para além da filiação partidária nas estratégias de nomeação ministerial. ... Para o cálculo dos pesos estaduais na coalizão assumimos que o local e/ou região de militância política do ministro é mais relevante que seu local ou região de origem.Os dados sobre os ministros foram coletados no Dicionário Histórico Biográfico-Brasileiro (Abreu et al., 2001), do Centro de Pesquisa e Documentação em História Contemporânea do Brasil da Fundação Getulio Vargas, e da relação de filiados do Tribunal Superior Eleitoral. ... A região Sul também apresentou aumento na proporção de ministros no gabinete no governo Dilma I, embora tenha sido mais representada no primeiro governo de FHC. ... Um leitor com domínio específico de matemática pode perceber que os resultados de Gabinete e Gabinete por estado são claramente distintos, já que os cálculos em módulo de dentro da fórmula da Taxa de Coalescência por estado, que capturam a informação por estado e fazem um módulo específico para cada estado, formam um resultado diferente ao da fórmula do cálculo em módulo para a União. ... Fonte: os autores, com base em banco de dados próprio compilado a partir da listagem de nomes da Biblioteca da Presidência da República (https://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes).
+--------------------------------------------------------------------------------
+Felix G Lopez - IPEA (https://ipea.academia.edu/FelixLopez/Papers)
+citeturn137search6 [wordlim: 200] Crawled: last week; Instituto de Pesquisa Econômica Aplicada (Ipea), Oct 1, 2015 ... O Carrossel Burocrático dos Cargos de Confiança: Análise de Sobrevivência dos Cargos de Direção (DAS) do Executivo Federal Brasileiro (1999-2017)
+--------------------------------------------------------------------------------
+Brazil - Federalismo e Coalizão: A Representatividade dos Estados nos Gabinetes Ministeriais Brasileiros Federalismo e Coalizão: A Representatividade dos Estados nos Gabinetes Ministeriais Brasileiros (https://www.scielo.br/j/dados/a/srw7gH5KVLR5CXNYkK8zZ8s/?lang=pt)
+citeturn137search7 [wordlim: 200] Published: 1.8 years ago; Crawled: last week; Vasselai (2009), por exemplo, assume que, diferentemente do cálculo de Amorim Neto (2000; 2006; 2007), os ministérios apartidários, ou seja, aqueles que são ocupados por atores sem filiação partidária, devem sair do cálculo da coalizão por serem considerados portfólios fora da cota daqueles que deveriam ser compartilhados com a base parlamentar. ... Nessa interpretação, o principal atributo do ministro e, consequentemente, o único fator a entrar na fórmula de proporcionalidade, é a sua filiação partidária. ... Quando decompomos os dados por estados, vemos que, ao longo do período, houve o que Amorim Neto chamou de “paulistérios”: uma sobrerrepresentação de São Paulo, estado de origem política dos presidentes Fernando Henrique e Lula da Silva. ... E-mail: virginialaurafernandez@yahoo.com.ar;UNILA Brasil Foz do Iguaçu, PR, Brasil Professora adjunta no Curso de Ciências Econômicas e na Pós-Graduação em Economia da Universidade Federal da Integração Latino-Americana (UNILA). ... Número de casos: FHC I = 30; FHC = 33; Lula I = 54; Lula II = 51; Dilma I = 58; Dilma II = 39
+--------------------------------------------------------------------------------
+Brazil - O Carrossel Burocrático dos Cargos de Confiança: Análise de Sobrevivência dos Cargos de Direção (DAS) do Executivo Federal Brasileiro (1999-2017) O Carrossel Burocrático dos Cargos de Confiança: Análise de Sobrevivência dos Cargos de Direção (DAS) do Executivo Federal Brasileiro (1999-2017) (https://www.scielo.br/j/dados/a/S58Z5hqbGg38k4C4jMrSkMz/?lang=pt)
+citeturn137search8 [wordlim: 200] Published: 4.6 years ago; Crawled: last week; Disponível em https://www.ipea.gov.br/atlasestado/filtros-series/42/presidentes-partidos-e-coalizoes
+--------------------------------------------------------------------------------
+ (https://www.camara.leg.br/proposicoesWeb/prop_imp?idProposicao=2373285&ord=1&tp=reduzida)
+citeturn137search9 [wordlim: 200] Published: 3.2 years ago; Crawled: 3 months ago;  | Requer aprovação de Moção de Repúdio ao Diretor-Geral da Polícia Federal Sr, Andrei Augusto Passos Rodrigues por entrevista ao Globo divulgada pelo site Antagonista “onde irá propor ao Ministro da Justiça e Segurança Pública, Flávio Dino projeto para  proibir filiação partidária de Policiais Federais. ... 215/2023 (Requerimento de Moção), pelo Deputado Gilvan da Federal (PL/ES), que "Requer aprovação de Moção de Repúdio ao Diretor-Geral da Polícia Federal Sr, Andrei Augusto Passos Rodrigues por entrevista ao Globo divulgada pelo site Antagonista “onde irá propor ao Ministro da Justiça e Segurança Pública, Flávio Dino projeto para  proibir filiação partidária de Policiais Federais.
+--------------------------------------------------------------------------------
+(PDF) O Carrossel Burocrático dos Cargos de Confiança: Análise de Sobrevivência dos Cargos de Direção (DAS) do Executivo Federal Brasileiro (1999-2017) (https://www.researchgate.net/publication/358715329_O_Carrossel_Burocratico_dos_Cargos_de_Confianca_Analise_de_Sobrevivencia_dos_Cargos_de_Direcao_DAS_do_Executivo_Federal_Brasileiro_1999-2017)
+citeturn137search10 [wordlim: 200] Published: 4.6 years ago; Crawled: 3 weeks ago; # O Carrossel Burocrático dos Cargos de Confiança: Análise de Sobrevivência dos Cargos de Direção (DAS) do Executivo Federal Brasileiro (1999-2017) ...   * Instituto de Pesquisa Econômica Aplicada - IPEA
+--------------------------------------------------------------------------------
+Como foi a filiação da ministra Damares Alves ao Republicanos (https://www.uol.com.br/universa/colunas/nina-lemos/2022/03/29/damares-transforma-filiacao-partidaria-em-festa-infantil-de-mau-gosto.htm)
+citeturn137search11 [wordlim: 200] Published: 4.5 years ago; Crawled: 2 weeks ago; Image: A Ministra Damares Alves durnate filiação do Ministro Tarcísio de Freitas ao Partido Republicanos, na cidade de Brasília, DF, nesta segunda feira, 28 - FáTIMA MEIRA/ESTADÃO CONTEÚDOA Ministra Damares Alves durnate filiação do Ministro Tarcísio de Freitas ao Partido Republicanos, na cidade de Brasília, DF, nesta segunda feira, 28 Imagem: FáTIMA MEIRA/ESTADÃO CONTEÚDO

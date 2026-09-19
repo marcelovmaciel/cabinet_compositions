@@ -1,0 +1,14 @@
+{
+  "party": "PRTB",
+  "id": 39,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=39&currentPage=0&pageSize=10000",
+      "records": 3578,
+      "totalElements": 3578,
+      "response_sha256": "39150b7c549bccc22215af009dad8434d94bb18bb0269728b9fcaecbdab7a535",
+      "retrieved_utc": "2026-09-10T23:47:46Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "path": "SERGIO_TWELVE_LEADS_FINDINGS.md",
+    "sha256": "b69b5bfe0be07aa443b93c669cef959f279f35b0f8a4d47792130e0e84549949",
+    "bytes": 2040
+  },
+  {
+    "path": "SERGIO_TWELVE_LEADS_SUMMARY.json",
+    "sha256": "8e60a6fb64a0e45ec750057784d2860579c41ef8fc2c5cd552180cf0f4ff12d2",
+    "bytes": 257
+  },
+  {
+    "path": "sergio_official_identity_reference.json",
+    "sha256": "0ef3f41184d026f52de631d4ed6bc66ee2f6220523bd41e5543a4fcd9ba69991",
+    "bytes": 776
+  },
+  {
+    "path": "sergio_twelve_current_checks.json",
+    "sha256": "7ddf4d1b2d7fb2239d89ab0dd21cac731b83a044233297d5ca06fe40b53b64f0",
+    "bytes": 10119
+  },
+  {
+    "path": "scan_sergio_historical_leads.py",
+    "sha256": "ef60b65a76c54bc2a2685384d6372b8425f916b18de32b9e3c5ad770a7bcccf8",
+    "bytes": 2549
+  },
+  {
+    "path": "verify_sergio_identity.py",
+    "sha256": "4c7ba7c1b865b396412327f2142d0b4bee8ee06bea3fdc0bccaebc74e14ec6b7",
+    "bytes": 2339
+  },
+  {
+    "path": "filiaweb_2016_bolsonaro_names.json",
+    "sha256": "7df074d5cd163660eab84c37710dae45fe14bfd76a66c719b66fa425fdafab86",
+    "bytes": 4475
+  }
+]

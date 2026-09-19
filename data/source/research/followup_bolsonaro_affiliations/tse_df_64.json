@@ -1,0 +1,14 @@
+{
+  "party": "REDE",
+  "id": 64,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=64&currentPage=0&pageSize=10000",
+      "records": 877,
+      "totalElements": 877,
+      "response_sha256": "8f09d5af7cf968c794ee7f2ea2b5a92c824c820ede623514bb19b565ba7fe687",
+      "retrieved_utc": "2026-09-10T23:36:33Z"
+    }
+  ],
+  "matches": []
+}

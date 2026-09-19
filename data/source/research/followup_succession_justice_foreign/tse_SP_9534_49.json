@@ -1,0 +1,17 @@
+{
+  "party": "PSB",
+  "id": 49,
+  "uf": "SP",
+  "municipio": "9534",
+  "city": "Presidente Prudente",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=49&currentPage=0&pageSize=10000",
+      "records": 482,
+      "totalElements": 482,
+      "response_sha256": "bc9b6a827a5fddd9a340bc8af579c584e1c4f48a482dff5432b393118311e794",
+      "retrieved_utc": "2026-09-10T23:39:32Z"
+    }
+  ],
+  "matches": []
+}

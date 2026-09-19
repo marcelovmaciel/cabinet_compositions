@@ -1,0 +1,14 @@
+{
+  "party": "PRTB",
+  "id": 39,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=39&currentPage=0&pageSize=10000",
+      "records": 194,
+      "totalElements": 194,
+      "response_sha256": "ee06063fc267b2b83663fa8c37e8ca2424acf1b81aad71e8c61869ab09fe2a60",
+      "retrieved_utc": "2026-09-10T23:43:16Z"
+    }
+  ],
+  "matches": []
+}

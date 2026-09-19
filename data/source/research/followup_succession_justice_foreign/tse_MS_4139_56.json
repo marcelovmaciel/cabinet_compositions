@@ -1,0 +1,17 @@
+{
+  "party": "PSDB",
+  "id": 56,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=56&currentPage=0&pageSize=10000",
+      "records": 6454,
+      "totalElements": 6454,
+      "response_sha256": "18d0daadc0b9f1653337b9d37a23773f493891ee27a5f24e7475ef6b4ce5efcf",
+      "retrieved_utc": "2026-09-10T23:40:47Z"
+    }
+  ],
+  "matches": []
+}

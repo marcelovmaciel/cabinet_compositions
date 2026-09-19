@@ -1,0 +1,55 @@
+{
+  "uf": "DF",
+  "municipio": "1778",
+  "party": "UNIÃO",
+  "id": 72,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=72&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 20604,
+      "response_sha256": "f646bab76da1a97574cc095859ab7bc63bc995b0c2435cfd81d749e40fef30b7",
+      "retrieved_utc": "2026-09-11T00:43:56Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=72&currentPage=1&pageSize=10000",
+      "records": 10000,
+      "totalElements": 20604,
+      "response_sha256": "57ceb69b2eafee6f240a614ab1df7d0a186d4f950784bc9cab96ec9e48b0c915",
+      "retrieved_utc": "2026-09-11T00:44:20Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=72&currentPage=2&pageSize=10000",
+      "records": 604,
+      "totalElements": 20604,
+      "response_sha256": "42e34d78390445bb0664ad22b95e3441224e9448c51aaa9041055a5229552016",
+      "retrieved_utc": "2026-09-11T00:44:22Z"
+    }
+  ],
+  "matches": [
+    {
+      "sqRegistroFiliacao": 6720678,
+      "cdMotivoCancelamento": null,
+      "cdMotivoDesfiliacao": null,
+      "desSituacaoEleitor": "REGULAR",
+      "dtCancelamento": null,
+      "dtDesfiliacao": null,
+      "dtExclusao": null,
+      "dtFiliacao": [
+        2013,
+        5,
+        27
+      ],
+      "tsCadastroDesfiliacao": null,
+      "nmEleitor": "ADOLFO SACHSIDA",
+      "nomLocalidade": "BRASÍLIA",
+      "sgPartido": "UNIÃO",
+      "sgUe": "DF",
+      "stRegistroFiliacao": 1,
+      "tpSexo": 2,
+      "indPendencia": 0,
+      "indOrigem": 0,
+      "public_registry_identity_sha256": "280510161b8c9cef2e06692266ebc79fcb8293eed774f8b12583b2f18ca78319"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "evidence_id": "BOL-L01",
+    "person": "Sidônio Palmeira",
+    "source_url": "https://www.em.com.br/colunistas/luiz-carlos-azedo/2025/01/7034810-missao-de-sidonio-e-alavancar-a-lideranca-moral.html",
+    "publisher": "Estado de Minas / Luiz Carlos Azedo",
+    "publication_date": "2025-01-15",
+    "retrieval_date": "2026-09-10",
+    "asserted_fact": "Reporting his possession the previous day, the columnist explicitly says Sidônio declared that he had no party affiliation and would serve the whole government.",
+    "locator": "Publication timestamp 15/01/2025; paragraphs contrasting Pimenta farewell and Sidônio possession speech (web open lines 110,130–131).",
+    "access_status": "direct web open: full article text retrieved",
+    "treatment": "Accepted as contemporary person-specific no-party assertion dated to January 14 possession."
+  },
+  {
+    "evidence_id": "BOL-L02",
+    "person": "Marcos Antonio Amaro dos Santos",
+    "source_url": "https://www.cnnbrasil.com.br/politica/com-filiacao-de-anielle-governo-lula-fica-com-9-ministros-sem-partido-veja-lista/",
+    "publisher": "CNN Brasil / Lucas Schroeder",
+    "publication_date": "2024-04-04",
+    "retrieval_date": "2026-09-10",
+    "asserted_fact": "A contemporary cabinet roster explicitly names GSI minister Marcos Antonio Amaro among ministers without party affiliation.",
+    "locator": "Opening list of nine unaffiliated ministers and numbered roster item 22.",
+    "access_status": "search result full article text retrieved",
+    "treatment": "Corroborates later no-party continuity; does not establish May 2023 entry state. Dataset agent independently found earlier September 6, 2023 CartaCapital observation."
+  },
+  {
+    "evidence_id": "BOL-L03",
+    "person": "Marcos Antonio Amaro dos Santos",
+    "source_url": "https://noticias.uol.com.br/politica/ultimas-noticias/2025/12/23/ministros-lula-quem-sai-quem-fica-eleicoes.htm",
+    "publisher": "UOL",
+    "publication_date": "2025-12-23",
+    "retrieval_date": "2026-09-10",
+    "asserted_fact": "The report lists Amaro in a named group of eight ministers and states only Esther Dweck and Márcia Lopes among them are party affiliated.",
+    "locator": "Section Os que não vão, paragraph beginning Dez já descartam a candidatura.",
+    "access_status": "search full text retrieved; direct open body not fully exposed",
+    "treatment": "Corroborates late no-party continuity; not used to infer earlier affiliation or service ends from candidacy speculation."
+  }
+]

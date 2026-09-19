@@ -1,0 +1,14 @@
+{
+  "party": "PCO",
+  "id": 37,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 185,
+      "totalElements": 185,
+      "response_sha256": "8902fea14b6d03962ea498d9d581111946af76b0fe8a7d2e7eed207032101aea",
+      "retrieved_utc": "2026-09-10T23:34:50Z"
+    }
+  ],
+  "matches": []
+}

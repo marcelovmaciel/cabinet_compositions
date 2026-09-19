@@ -1,0 +1,17 @@
+{
+  "uf": "PA",
+  "municipio": "4563",
+  "city": "BELÉM",
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 2440,
+      "totalElements": 2440,
+      "response_sha256": "ee7aea6db939a62b5c25fd4c66a51504c6d4620651d8e6a4b557d7940de1e824",
+      "retrieved_utc": "2026-09-10T23:39:35Z"
+    }
+  ],
+  "matches": []
+}

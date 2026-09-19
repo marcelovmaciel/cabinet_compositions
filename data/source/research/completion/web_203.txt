@@ -1,0 +1,191 @@
+ (https://tede2.pucrs.br/tede2/bitstream/tede/10392/2/Rafael_da_Silveira_Velho_Dis.pdf)
+citeturn203view0 [wordlim: 200] Crawled: last week; Content type: application/pdf; Number of pages: 97; Source: open({"ref_id":"https://tede2.pucrs.br/tede2/bitstream/tede/10392/2/Rafael_da_Silveira_Velho_Dis.pdf","lineno":null}); Total lines: 3204
+L0@P0: ESCOLA DE HUMANIDADES
+L1@P0: PROGRAMA DE PÓS-GRADUAÇÃO EM CIÊNCIAS SOCIAIS
+L2@P0: MESTRADO EM CIÊNCIAS SOCIAIS
+L3@P0: RAFAEL DA SILVEIRA VELHO
+L4@P0: REFORMA DO ESTADO NA ESFERA SUBNACIONAL: A RELAÇÃO EXECUTIVOLEGISLATIVO NO GOVERNO PEEMEDEBISTA DE JOSÉ IVO SARTORI (2015-2018)
+L5@P0: Porto Alegre
+L6@P0-1: 2021 RAFAEL DA SILVEIRA VELHO
+L7@P1: REFORMA DO ESTADO NA ESFERA SUBNACIONAL: A RELAÇÃO EXECUTIVOLEGISLATIVO NO GOVERNO PEEMEDEBISTA DE JOSÉ IVO SARTORI (2015-2018)
+L8@P1: Dissertação de mestrado apresentada ao
+L9@P1: Programa de Pós-Graduação em Ciências
+L10@P1: Sociais da Pontifícia Universidade Católica do
+L11@P1: Rio Grande do Sul (PUCRS), como parte dos
+L12@P1: requisitos para obtenção de título de Mestre
+L13@P1: em Ciências Sociais.
+L14@P1: Orientador: Prof. Dr. Augusto Neftali Corte de
+L15@P1: Oliveira
+L16@P1: Porto Alegre
+L17@P1-3: 2021 RAFAEL DA SILVEIRA VELHO
+L18@P3: REFORMA DO ESTADO NA ESFERA SUBNACIONAL: A RELAÇÃO EXECUTIVO
+L19@P3: – LEGISLATIVO NO GOVERNO PEEMEDEBISTA DE JOSÉ IVO SARTORI
+L20@P3: (2015-2018)
+L21@P3: Dissertação de mestrado apresentada ao
+L22@P3: Programa de Pós-Graduação em Ciências
+L23@P3: Sociais da Pontifícia Universidade Católica do
+L24@P3: Rio Grande do Sul (PUCRS), como parte dos
+L25@P3: requisitos para obtenção de título de Mestre
+L26@P3: em Ciências Sociais.
+L27@P3: Orientador: Prof. Dr. Augusto Neftali Corte de
+L28@P3: Oliveira
+L29@P3: Conceito final:
+L30@P3: Aprovado em: 24/03/2021
+L31@P3: Banca Examinadora:
+L32@P3: Augusto Neftali Corte de Oliveira
+L33@P3: Orientador
+L34@P3: (PPGCS - PUCRS)
+L35@P3: Marcos Paulo dos Reis Quadros
+L36@P3: (PPGCS - PUCRS)
+L37@P3: Paulo Sergio Peres
+L38@P3-4: (PPGCP - UFRGS)Dedico este trabalho à minha avó materna
+L39@P4: Maria Oliveira da Silveira que foi a pessoa
+L40@P4: responsável por tornar-me quem sou, bem
+L41@P4: como, aos meus familiares e amigos que
+L42@P4: sempre torceram pelo alcance de mais essa
+L43@P4-5: conquista. AGRADECIMENTOS
+L44@P5: À minha família e aos amigos por todo o apoio e compreensão dispendidos para
+L45@P5: comigo.
+L46@P5: Ao Prof. Dr. Augusto Neftali Corte de Oliveira, meu orientador, que me incentivou
+L47@P5: através de conselhos e contribuições para o bom andamento desta pesquisa e por estar
+L48@P5: presente durante o tempo dispendido para o desenvolvimento deste estudo.
+L49@P5: Aos professores do Programa de Pós-graduação em Ciências Sociais da PUCRS que
+L50@P5: exercem com maestria a construção do exercício do pensamento crítico e do dever de
+L51@P5: cidadania dos alunos.
+L52@P5: A todos os colegas de curso que buscam se aprofundar e se aperfeiçoar no exercício
+L53@P5: das Ciências Sociais no que tange a compreensão dos fenômenos sociais e políticos que
+L54@P5: enfrentamos e a luta travada pela valorização da pesquisa científica no Brasil.
+L55@P5: A Deus, por ter me guiado até aqui, para que eu pudesse seguir no caminho das lutas
+L56@P5: coletivas e lutando contra toda e qualquer forma de injustiça social.
+L57@P5: O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de
+L58@P5-6: Pessoal Nível Superior – Brasil (CAPES) – Código de Financiamento 001.RESUMO
+L59@P6: A presente pesquisa tem como objetivo geral compreender os fatores institucionais que estão
+L60@P6: vinculados à aprovação da agenda de reformas do Governo Sartori. Para alcançar o objetivo
+L61@P6: proposto, buscou-se: (I) identificar a forma através da qual o Executivo construiu a sua base
+L62@P6: de sustentação no Legislativo através da formação da coalizão de governo; (II) compreender
+L63@P6: como a coesão partidária impacta o nível de apoio legislativo obtido pelo Executivo em
+L64@P6: relação à agenda de reformas; e (III) investigar os instrumentos regimentais utilizados pelo
+L65@P6: Executivo para o sucesso da aprovação de sua agenda. Dessa forma, escolheu-se estudar o
+L66@P6: Governo Sartori por ser a gestão mais recente a implementar uma agenda de reformas a fim
+L67@P6: de equacionar as contas públicas e, também, por ter uma visão antagônica do papel do Estado
+L68@P6: em relação ao governo que foi o seu antecessor, cuja visão era a de um Estado provedor. O
+L69@P6: estudo realizado apresenta características descritivas, nas quais partindo da análise
+L70@P6: documental e bibliográfica analisou-se o Regimento Interno da Assembleia Legislativa do RS,
+L71@P6: a Constituição EstadualRS, as matérias veiculadas nos meios de comunicação que abordaram
+L72@P6: sobre o tema pesquisado, bem como, criou-se uma amostra contendo 39 iniciativas de autoria
+L73@P6: do Governador que foi buscada no Portal do Departamento de Assessoria Legislativa da
+L74@P6: Alergs. Através dos resultados obtidos, considerou-se que, não contrariando os resultados
+L75@P6: encontrados pela literatura, o Governo Sartori obteve sucesso na aprovação da sua agenda
+L76@P6: reformista através de elementos que caracterizam o Presidencialismo de Coalizão e a
+L77@P6: Governabilidade presente nas esferas subnacionais, contudo obteve dificuldades no que tange
+L78@P6: à coesão partidária, fazendo com que determinados partidos que integraram a sua base de
+L79@P6: Governo não fossem fieis à sua agenda.
+L80@P6-7: Palavras-Chave: Alergs. Poder Executivo. Reforma do Estado. Relação ExecutivoLegislativo. Sistema Subnacional. ABSTRACT
+L81@P7: The present research has as general objective to understand the institutional factors that are
+L82@P7: linked to the approval of the reform agenda of the Sartori Government. To achieve the
+L83@P7: proposed objective, we sought to: (I) identify the way in which the Executive built its support
+L84@P7: base in the Legislative through the formation of the government coalition; (II) understand how
+L85@P7: party cohesion impacts the level of legislative support obtained by the Executive in relation to
+L86@P7: the reform agenda; and (III) to investigate the regulatory instruments used by the Executive
+L87@P7: for the successful approval of its agenda. Thus, it was chosen to study the Sartori Government
+L88@P7: because it is the most recent management to implement a reform agenda in order to settle the
+L89@P7: public accounts and, also, for having an antagonistic view of the role of the State in relation to
+L90@P7: the government that was its predecessor, whose vision was that of a provider state. The study
+L91@P7: carried out presents descriptive characteristics, in which, starting from the documentary and
+L92@P7: bibliographic analysis, the Internal Regulations of the Legislative Assembly of RS, the State
+L93@P7: ConstitutionRS were analyzed, the materials published in the media that addressed the
+L94@P7: researched topic, as well as, a sample was created containing 39 initiatives authored by the
+L95@P7: Governor that was searched on the Portal of the Department of Legislative Assistance of
+L96@P7: Alergs. Through the results obtained, it was considered that, not contradicting the results
+L97@P7: found in the literature, the Sartori Government was successful in approving its reformist
+L98@P7: agenda through elements that characterize the Coalition Presidentialism and the Governance
+L99@P7: present in the subnational spheres, however it had difficulties in the with regard to party
+L100@P7: cohesion, making certain parties that were part of its government base not be faithful to its
+L101@P7: agenda.
+L102@P7: Keywords: Alergs. Executive power. State reform. Executive-Legislative Relationship.
+L103@P7-8: Subnational System.LISTAS DE APÊNDICES
+L104@P8: Apêndice 1 - Secretariado do Governo Sartori.............................................................83-84
+L105@P8: Apêndice 2 - Iniciativas propostas pelo Executivo no que tange à Reforma de
+L106@P8: Estado...........................................................................................................................85-93
+L107@P8: Apêndice 3 - Votações dos projetos enviados pelo Governo Sartori à Alergs.............94-95
+L108@P8: Apêndice 4 - Tempo de tramitação das propostas enviadas pelo Executivo ao
+L109@P8-9: Legislativo..........................................................................................................................96LISTA DE QUADROS
+L110@P9: Quadro 1 - Etapas do Ajuste Fiscal proposto pelo Governo Sartori.............................17-18
+L111@P9: Quadro 2 - Coligações para as Eleições do Governo do Estado do RS (2014)............34-35
+L112@P9: Quadro 3 – Processo Legislativo previsto pela Constituição Federal e Estadual..............46
+L113@P9: Quadro 4 - Atos finais do Processo Legislativo.................................................................50
+L114@P9: Quadro 5 - Agenda de Reforma do Estado: Temas e Pautas........................................51-52
+L115@P9: Quadro 6 - Conteúdos das iniciativas não aprovadas da agenda da Reforma de Estado –
+L116@P9-10: PECs, PLs e PLCs........................................................................................................57-58LISTA DE TABELAS
+L117@P10: Tabela 1 – Resultados das eleições para o Governo do Estado do RS – 1º turno
+L118@P10: (2014).................................................................................................................................35
+L119@P10: Tabela 2 – Resultados das eleições para o Governo do Estado do RS – 2º turno
+L120@P10: (2014)............................................................................................................................35-36
+L121@P10: Tabela 3 – Duração, composição partidária, apoio parlamentar e percentual de secretários
+L122@P10: sem filiações partidárias do secretariado formado (2015-2018)........................................38
+L123@P10: Tabela 4 – Base de apoio e Coalizões do Governo Sartori (2015-2018)...........................39
+L124@P10: Tabela 5 – Gabinete estadual e Coalizões do Governo Sartori (2015-2018).....................40
+L125@P10: Tabela 6 – Taxa de Coalescência dos Gabinetes Sartori (1, 2, 3 e 4)...........................42-43
+L126@P10: Tabela 7 – Tipo de matéria, quantidade enviada e aprovada e % de aprovação quantitativa
+L127@P10: – Iniciativas da Agenda da Reforma de Estado.................................................................53
+L128@P10: Tabela 8 – Iniciativas aprovadas por votação nominal (%) sobre o total de iniciativas de
+L129@P10: cada tema......................................................................................................................54-55
+L130@P10: Tabela 9 – Tempo de Tramitação das Iniciativas enviadas pelo Governo Sartori à
+L131@P10: Alergs.................................................................................................................................59
+L132@P10: Tabela 10 – Taxa Média de Coesão Partidária (%) – 54ª legislatura (Iniciativas referentes
+L133@P10: à Reforma de Estado).........................................................................................................64
+L134@P10: Tabela 11 – Taxa Média de Apoio (%) à Reforma de Estado apresentada pelo Governo
+L135@P10: Sartori.................................................................................................................................66
+L136@P10: Tabela 12 – Taxa Média de Apoio (%) da Base Governista à Reforma de Estado por
+L137@P10: coalizões.............................................................................................................................68
+L138@P10: Tabela 13 – Taxa Média de Apoio (%) do Plenário à Reforma de Estado por
+L139@P10: temas..................................................................................................................................69
+L140@P10: Tabela 14 – Taxa Média de Apoio (%) do PDT à Reforma de Estado: Temas da Agenda
+L141@P10: de Reformas e Coalizões de Governo................................................................................70
+L142@P10: Tabela 15 – Taxa Média de Apoio (%) do PTB à Reforma de Estado: Temas da Agenda
+L143@P10: de Reformas e Coalizões de Governo................................................................................71
+L144@P10-11: Tabela 16 – Coalizão, Coesão Partidária, Bancada e Apoio ao Governo Sartori (%).......71LISTA DE ABREVIATURAS E SIGLAS
+L145@P11: Partidos políticos
+L146@P11: MDB: Movimento Democrático Brasileiro
+L147@P11: PC do B: Partido Comunista do Brasil
+L148@P11: PCB: Partido Comunista Brasileiro
+L149@P11: PDT: Partido Democrático Trabalhista
+L150@P11: PEN: Partido Ecológico Nacional
+L151@P11: PHS: Partido Humanista da Solidariedade
+L152@P11: PL: Partido Liberal
+L153@P11: PMDB: Partido do Movimento Democrático Brasileiro
+L154@P11: PMN: Partido da Mobilização Nacional
+L155@P11: PP: Partido Progressista
+L156@P11: PPL: Partido Pátria Livre
+L157@P11: PPS: Partido Popular Socialista
+L158@P11: PR: Partido da República
+L159@P11: PRB: Partido Republicano Brasileiro
+L160@P11: Pros: Partido Republicano da Ordem Social
+L161@P11: PRTB: Partido Renovador Trabalhista Brasileiro
+L162@P11: PSB: Partido Socialista Brasileiro
+L163@P11: PSC: Partido Social Cristão
+L164@P11: PSD: Partido Social Democrático
+L165@P11: PSDB: Partido da Social Democracia Brasileira
+L166@P11: PSDC: Partido Social Democrata Cristão
+L167@P11: PSL: Partido Social Liberal
+L168@P11: Psol: Partido Socialismo e Liberdade
+L169@P11: PSTU: Partido Socialista dos Trabalhadores Unificados
+L170@P11: PT: Partido dos Trabalhadores
+L171@P11: PT do B: Partido Trabalhista do Brasil
+L172@P11: PTB: Partido Trabalhista Brasileiro
+L173@P11: PTC: Partido Trabalhista Cristão
+L174@P11: PV: Partido Verde
+L175@P11: Rede: Rede Sustentabilidade
+L176@P11-12: SD: SolidariedadeÓrgãos institucionais
+L177@P12: Alep: Assembleia Legislativa do Estado do Paraná
+L178@P12: Alerj: Assembleia Legislativa do Estado do Rio de Janeiro
+L179@P12: Alergs: Assembleia Legislativa do Estado do Rio Grande do Sul
+L180@P12: Banrisul: Banco do Estado do Rio Grande do Sul
+L181@P12: CEEE: Companhia Estadual de Energia Elétrica
+L182@P12: CRM: Companhia Rio-grandense de Mineração
+L183@P12: Cesa: Companhia Estadual de Silos e Armazéns
+L184@P12: Cientec: Fundação de Ciência e Tecnologia
+L185@P12: Corag: Companhia Rio-grandense de Artes Gráficas
+L186@P12: Corsan: Companhia Rio-grandense de Saneamento
+L187@P12: DAL: Departamento de Assessoramento Legislativo
+L188@P12: Dasp: Departamento Administrativo do Serviço Público

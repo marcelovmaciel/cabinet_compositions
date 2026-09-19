@@ -1,0 +1,14 @@
+{
+  "party": "PODE",
+  "id": 43,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=43&currentPage=0&pageSize=10000",
+      "records": 2099,
+      "totalElements": 2099,
+      "response_sha256": "eb00bd1929f49895f51bf7dc91cce8e8b9a32fb1ae01ba63ae557e287fa505b8",
+      "retrieved_utc": "2026-09-10T23:43:15Z"
+    }
+  ],
+  "matches": []
+}

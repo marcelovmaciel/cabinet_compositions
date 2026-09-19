@@ -1,0 +1,319 @@
+DSpace Repository :: Login (https://repositorio.ipea.gov.br/bitstreams/2469c87b-3082-405d-aba8-13971cabb8f7/download)
+citeturn283view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://repositorio.ipea.gov.br/bitstreams/2469c87b-3082-405d-aba8-13971cabb8f7/download","lineno":null}); Total lines: 23
+--------------------------------------------------------------------------------
+ (https://tede2.pucrs.br/tede2/bitstream/tede/10392/2/Rafael_da_Silveira_Velho_Dis.pdf)
+citeturn283view1 [wordlim: 200] Crawled: last week; Content type: application/pdf; Number of pages: 97; Source: find({"ref_id":"https://tede2.pucrs.br/tede2/bitstream/tede/10392/2/Rafael_da_Silveira_Velho_Dis.pdf","pattern":"filiados"}); Total lines: 3204
+L1224@P43: Independente 0 0,05 0,05 Independente 0 0,05 0,05
+L1225@P43: Independente 0 0,05 0,05
+L1226@P43: Total = 40 20 pastas 1 0,7 Total = 39 20 pastas 1 0,68
+L1227@P43: Taxa de Coalescência do Gabinete = 0,65 Taxa de Coalescência do Gabinete = 0,67
+L1228@P43: SARTORI 3 SARTORI 4
+L1249@P43: PR(PL) = 1 PSD = 1 1 0,071 0,059 0,012
+L1250@P43: PRB = 1 Independente 0 0,059 0,059
+L1251@P43: PSB = 3 2 0,08 0,118 0,043 Independente 0 0,059 0,059
+L1252@P43: PSD = 1 1 0,03 0,059 0,034 Independente 0 0,059 0,059
+L1253@P43: PSDB = 4 1 0,1 0,059 0,041 Independente 0 0,059 0,059
+L1254@P43: PV = 1 Independente 0 0,059 0,059
+L1255@P43: Independente 0 0,059 0,059 Independente 0 0,059 0,059
+L1256@P43: Independente 0 0,059 0,059 Independente 0 0,059 0,059
+L1257@P43: Independente 0 0,059 0,059 Independente 0 0,059 0,059
+L1258@P43: Total = 27 17 pastas 1 0,62 Total = 14 17 pastas 1 0,74
+L1259@P43: Taxa de Coalescência do Gabinete = 0,69 Taxa de Coalescência do Gabinete = 0,63
+L1260@P43: Fonte: elaboração própria, com base em dados obtidos pelo portal eletrônico da Alergs e em matérias publicadas
+L1261@P43: pelos meios de comunicação.
+L1262@P43: Ao observar os dados trazidos pela tabela acima, nota-se nas quatro coalizões que
+L1263@P43: formaram o Governo Sartori os índices de coalescência não chegaram próximos da
+L1264@P43: proporcionalidade perfeita, embora a correspondência entre as pastas do secretariado e as
+L1265@P43: cadeiras pertencentes aos partidos da base governista no Plenário são relevantes mesmo
+L1266@P43: havendo certos desvios de proporcionalidade encontrados.
+L1267@P43: Percebe-se que dentre as quatro coalizões, a que gerou um maior grau de coalescência
+L1268@P43: foi à coalizão “Sartori 3” que se aproximou de 0,7, contudo conforme já visto anteriormente,
+L1269@P43: essa coalizão foi a que sofreu maior abalo na base de Governo, já que dois partidos que
+L1270@P43: representavam quase 30% da base situacionista decidiram romper com o Executivo.
+L1271@P43: Prosseguindo, no tocante à proporção da representatividade legislativa da coalizão e
+L1272@P43: da participação no gabinete estadual através das secretarias comandadas, é possível perceber
+L1273@P43: que o PSB e PSD mantiveram o mesmo índice de proporcionalidade, enquanto que os demais
+L1274@P43: partidos tiveram uma desproporcionalidade entre as suas representações legislativas e
+L1275@P43-44: indicações de secretários estaduais. 44
+L1276@P44: Cabe salientar que, dentre as desproporcionalidades aqui citadas, PMDB e PSD, por
+L1277@P44: serem os partidos que elegeram o Governador e Vice-governador, tiveram uma maior
+L1278@P44: proporcionalidade no comando de pastas, em torno de duas vezes mais representatividade na
+L1279@P44: formação do gabinete estadual do que a representação parlamentar que possuíam. Todavia, os
+L1280@P44: partidos que detinham em torno de 10% a 15% de representação parlamentar acabaram tendo
+L1281@P44: de 5% a 10% de representação no secretariado como o PDT, PP, PSDB e o PTB.
+L1282@P44: Cabe ressaltar que o Governo Sartori buscou garantir uma ampla coalizão ou um
+L1283@P44: governo de maioria a fim de que tivesse condições de implementar a sua agenda, cujo tema
+L1284@P44: central baseava-se na reforma fiscal e administrativa do estado. Até aqui, tratou-se apenas da
+L1285@P44: etapa inicial de formação do governo. Abaixo, serão abordadas as demais etapas políticas que
+L1286@P44: formaram o governo através de mudanças na composição do secretariado nos anos de 2016,
+L1287@P44: 2017 e 2018, períodos que antecederam as eleições municipais e estaduais.
+L1288@P44: Devido às eleições municipais de 2016, o governador Sartori anunciou mudanças em
+L1289@P44: seu secretariado, anunciando seis novos titulares, já que três11 desses seis titulares deixaram
+L1290@P44: seus cargos para concorrer em seus respectivos municípios. Cabe ressaltar que, dentro dessas
+L1291@P44: alterações, a composição partidária no secretariado estadual manteve-se a mesma, apesar da
+L1292@P44: substituição de alguns titulares que deixaram as suas pastas para concorrer às eleições
+L1293@P44: municipais de 2016. Ressalta-se uma alteração na composição partidária no parlamento
+L1294@P44: gaúcho que foi a transferência de uma parlamentar do PDT para a Rede no final de 201512,
+L1295@P44: que ganhou mais um partido de oposição ao governo estadual.
+L1296@P44: Diante das alterações da terceira fase do secretariado gaúcho, nota-se que PDT e PTB,
+L1297@P44: que detinham três pastas, acabaram deixando as secretarias que ocupavam. Ambos os partidos
+L1298@P44: gerenciavam pastas que correspondiam às áreas finalísticas do Governo, nas quais as
+L1299@P44: prestações de serviços são dadas de forma direta ao cidadão.
+L1300@P44: Dentre os motivos para as saídas do Governo dos dois partidos abordados acima, os
+L1301@P44: principais deles passam por questões de falta de espaço aquém do que os respectivos partidos
+L1302@P44: pretendiam ocupar dentro do governo, bem como, por votações de pautas polêmicas advindas
+L1303@P44: do pacote de reformas administrativas e fiscais propostas pelo governo estadual13 14. Desta
+L1304@P44: 
+L1305@P44: 11 G1. Sartori empossa no RS três novos secretário e pede energia redobrada. Porto Alegre, 06 jun. 2016.
+L1306@P44: Disponível em: http://g1.globo.com/rs/rio-grande-do-sul/noticia/2016/06/sartori-empossa-no-rs-tres-novossecretarios-e-pede-energia-redobrada.html. Acessado em 08 dez. 2020.
+L1307@P44: 12 GAUCHAZH. Deputada Regina Becker troca PDT pela Rede Sustentabilidade. Porto Alegre, 09 dez. 2015.
+L1308@P44: Disponível em: https://gauchazh.clicrbs.com.br/colunistas/rosane-de-oliveira/noticia/2015/12/deputada-reginabecker-troca-pdt-pela-rede-sustentabilidade-4926718.html. Acessado em 08 dez. 2020.
+L1309@P44: 13 CORREIO DO POVO. PTB diz que seguirá fora da base do governo Sartori. Porto Alegre, 24 nov. 2016.
+L1310@P44-45: Disponível em: https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/ptb-diz-queseguir%C3%A1-fora-da-base-do-governo-sartori-1.217827. Acessado em 08 dez. 2020.45
+L1311@P45: forma, pode se considerar que em relação às pastas que tanto o PDT quanto o PTB
+L1312@P45: comandavam, principalmente a da Educação e da Segurança, o conjunto de medidas que
+L1313@P45: afetava diretamente os servidores públicos dessas áreas, através das alterações nos planos de
+L1314@P45: carreira e de previdência, foi um elemento determinante para que esses partidos deixassem a
+L1315@P45: base de Governo, já que essas mudanças envolviam diretamente os servidores pertencentes às
+L1316@P45: pastas nas quais gerenciavam.
+L1317@P45: Tendo em vista as alterações abordadas acima referentes à composição da terceira
+L1318@P45: coalizão de Governo, salienta-se que a oposição que contava com o número de quinze
+L1319@P45: parlamentares, após a saída do PTB e do PDT da base de apoio ao Governo, passou a contar
+L1320@P45: com 27 deputados estaduais, o que representa quase 50% do Plenário.
+L1321@P45: Na quarta e última fase da composição do secretariado, nota-se mais alterações em
+L1322@P45: relação aos titulares que se desvencilharam de suas pastas a fim de concorrer às eleições
+L1323@P45: gerais de 2018, bem como, da composição partidária, já que partidos como PSDB e PP que
+L1324@P45: detinham espaços políticos no governo acabaram deixando-os devido às novas composições
+L1325@P45: eleitorais surgidas na disputa pelo governo estadual.
+L1326@P45: Também nota-se que devido ao fato de que alguns partidos deixaram a base de
+L1327@P45: sustentação política estadual visualizando as eleições para o governo do Estado, o governador
+L1328@P45: para suprir essas lacunas acabou alterando a proporção da representação política de partidos
+L1329@P45: que compôs a sua coalizão eleitoral e política, incluindo o próprio PMDB, partido do qual foi
+L1330@P45: eleito, para indicar titulares sem filiação partidária.
+L1331@P45: A única proporção que se manteve a mesma foi a do PSD que ocupou uma pasta
+L1332@P45: durante todo o governo. Já, o PSB que detinha duas secretarias, passou a ter apenas uma.
+L1333@P45: Contudo, o PMDB que durante o governo chegou a ocupar oito pastas passou a ocupar duas a
+L1334@P45: menos.
+L1335@P45: Cabe salientar que dentre as indicações técnicas, por assim dizer, sem vínculos
+L1336@P45: partidários, alguns nomes possuem ligações políticas com o próprio partido em questão,
+L1337@P45: apesar de não serem filiados ao mesmo. A composição partidária no parlamento gaúcho
+L1338@P45: também sofreu alterações devido à troca de partidos permitida pela janela eleitoral vigente de
+L1339@P45: março a abril de 2018 com fins de disputa eleitoral.
+L1340@P45: Com isso, além das alterações de representação partidária parlamentar, o número de
+L1341@P45: parlamentares que deixaram oficialmente o governo para a disputa eleitoral chegou a treze,
+L1342@P45: 14 CORREIO DO POVO. PDT aprova saída do governo Sartori. Porto Alegre, 10 abr. 2017. Disponível em:
+L1343@P45-46: https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/pdt-aprova-sa%C3%ADda-do-governosartori-1.228327. Acessado em 08 dez. 2020.46
+L1344@P46: visto que PSDB, PP, PRB, PPS, além do PTB que já havia anunciado saída da base de
+L1345@P46: sustentação do governo, compuseram a coalizão eleitoral do então candidato ao Governo do
+L1346@P46: Estado do RS, Eduardo Leite. Desta forma, a situação passou a contar com um número muito
+L1347@P46: aquém de parlamentares do que teve ao longo do Governo.
+L1348@P46: Tendo compreendido o processo de formação das coalizões eleitorais e legislativas,
+L1349@P46: bem como a formação dos gabinetes estaduais, a seguir será abordado elementos no que tange
+L1350@P46: ao processo legislativo a fim de compreender a forma e os dispositivos constitucionais que o
+L1351@P46: Governador Sartori utilizou para desenvolver a sua agenda reformista e qual meio utilizou
+L1352@P46: para que as suas iniciativas tramitassem no parlamento gaúcho.
+L1353@P46: 4.3 PROCESSO LEGISLATIVO
+L1354@P46: No Estado Democrático de Direito, os Poderes Executivo e Legislativo são exercidos
+L1355@P46: por meio de funções estatais que são encarregadas de administrar e legislar. Essas funções se
+L1356@P46: utilizam de processos próprios que estão sujeitos a regramentos e princípios específicos em
+L1357@P46: que há o processo legislativo que se dá através da elaboração de normas pelo Estado. Esse
+L1358@P46: processo é estabelecido pela Constituição Federal de 1988 e pela Constituição Estadual
+L1359@P46: através das seguintes formas:
+L1360@P46: Quadro 3 – Processo Legislativo previsto pela Constituição Federal e Estadual
+L1361@P46: Constituição Federal1988 Constituição Estadual
+L1362@P46: Emendas à Constituição; Emendas à Constituição;
+L1363@P46: Leis complementares, ordinárias e delegadas15; Leis complementares e ordinárias;
+L1364@P46: Medidas Provisórias16; -------------------------------------------------------
+L1365@P46: Decretos Legislativos; Decretos Legislativos;
+L1366@P46: Resoluções. Resoluções.
+L1367@P46: Fonte: elaboração própria baseada no art. 59 da CF1988 e no art. 57 da Constituição Estadual.
+L1368@P46: O controle para aplicação correta dos atos pode ser realizado pelo Poder Legislativo
+L1369@P46: (através da Comissão de Constituição e Justiça (CCJ)) e pelo Poder Executivo (por meio do
+L1370@P46: veto jurídico). O Regimento Interno da Alergs (Resolução nº 2.28891) dita às regras a serem
+L1371@P46: aplicadas ao processo legislativo através dos arts. 179 - 228-A. No art. 159 a proposição é
+L1372@P46: 
+L1373@P46: 15 Dispositivo não previsto na Constituição do Estado do RS.
+L1374@P46-47: 16 Dispositivo não previsto na Constituição do Estado do RS.47
+L1375@P47: normatizada como “toda matéria sujeita à deliberação da Assembleia, seja qual forma de que
+L1376@P47: se revista”. No art. 160, as proposições17 são estabelecidas por meio de:
+L1377@P47: a) Proposta de Emenda à Constituição (PEC);
+L1378@P47: b) Projeto de Lei Complementar (PLC);
+L1379@P47: c) Projeto de Lei Ordinária (PL);
+L1380@P47: O caminho para o andamento das proposições legislativas se dá através dos seus
+L1381@P47: recebimentos pelo Departamento de Assessoramento Legislativo (DAL) e seguem as suas
+L1382@P47: tramitações no período estabelecido pela sessão legislativa ordinária que ocorre anualmente
+L1383@P47: (1º02 - 1607 e 1º08 - 2212), salvo as convocações extraordinárias que ocorrem quando o
+L1384@P47: parlamento gaúcho delibera sobre matéria específica da convocação.
+L1385@P47: Cabe salientar que, estabelecido pelo art. 60 da CE, o Governador tem iniciativa
+L1386@P47: privativa em relação às leis que fixem ou modifiquem os efetivos da Brigada Militar e do
+L1387@P47: Corpo de Bombeiros; e, disponham sobre criaçãoaumento de remuneração de
+L1388@P47: cargosfunçõesempregos públicos na administração direta ou de autarquias; servidores
+L1389@P47: públicos do Estado, seu regime jurídico, provimento de cargos, estabilidade e aposentadoria
+L1390@P47: de civis, e reforma ou transferência de militares para a inatividade; organização da Defensoria
+L1391@P47: Pública Estadual; criaçãoestruturaçãoatribuições das secretarias e órgãos pertencentes à
+L1392@P47: administração pública.
+L1393@P47: No tocante à tramitação das iniciativas (PEC, PL e PLC), são estabelecidos sete
+L1394@P47: caminhos para o andamento das mesmas até a sua promulgação, conforme se vê a seguir:
+L1395@P47: a) Autuação;
+L1396@P47: b) Período de pauta;
+L1397@P47: c) Distribuição para parecer das Comissões Parlamentares;
+L1398@P47: d) Ordem do Dia (discussão e deliberação);
+L1399@P47: e) Redação final e remessa de assinaturas;
+L1400@P47: f) Sanção ou Veto;
+L1401@P47: g) Promulgação e Publicação.
+L1402@P47: A Autuação corresponde à fase preliminar de recebimento das iniciativas pelo DAL
+L1403@P47: que são cadastradas no Sistema de Proposições conforme a forma (PL ou PLC).
+L1404@P47: O Período de pauta estabelece a duração de dez dias úteis no qual as iniciativas
+L1405@P47: deverão ser publicadas no Diário Oficial da Alergs, com exceção das PECs e Projetos de Leis
+L1406@P47: 
+L1407@P47: 17 Abre-se um parêntese para salientar que foram apresentadas apenas as proposições contidas no banco de dados
+L1408@P47: coletado para o desenvolvimento da presente pesquisa, sendo assim, frisa-se que há outros tipos de proposições
+L1409@P47-48: legislativas inclusas no regimento interno da Alergs que não foram elencadas.48
+L1410@P48: Orçamentárias que correspondem a um período de quinze dias úteis. No primeiro dia de
+L1411@P48: pauta, as iniciativas deverão ser publicadas na íntegra (art. 108 do Regimento Interno). Já,
+L1412@P48: durante o período de pauta, as mesmas poderão ser discutidas e receber emendas18 (art. 109 do
+L1413@P48: Regimento Interno).
+L1414@P48: Decorrente o tempo de pauta, as iniciativas serão submetidas à CCJ a fim de emitir
+L1415@P48: parecer quanto a sua legalidade (exceto projetos de leis orçamentárias e de créditos adicionais
+L1416@P48: que são encaminhados à Comissão de Finanças, Planejamento, Fiscalização e Controle), de
+L1417@P48: acordo com o art. 169 do Regimento Interno.
+L1418@P48: Sendo favorável o parecer da CCJ ou contrário e rejeitado pelo Plenário da Alergs, a
+L1419@P48: iniciativa será encaminhada ao DAL para que determine a competência para exame e faça a
+L1420@P48: distribuição às Comissões Técnicas Permanentes (CTP), correspondentes a cada área
+L1421@P48: correspondente a determinada iniciativa a fim de debaterem sobre o mérito.
+L1422@P48: Após tramitarem pelas CTPs, as iniciativas estarão com os seus períodos de
+L1423@P48: tramitações conclusas e estarão aptas a serem inclusas na Ordem do Dia. Todavia, existem
+L1424@P48: situações especiais que podem abreviar o tempo de tramitação das inciativas legislativas
+L1425@P48: fazendo com que as mesmas sejam inclusas na Ordem do Dia sem passar pelas análises das
+L1426@P48: comissões competentes, como é o caso do regime de urgência, dispositivo que está à
+L1427@P48: disposição do Governador para acelerar a tramitação das iniciativas de sua autoria como pode
+L1428@P48: ser observado a seguir:
+L1429@P48: a) Regime de Urgência (trancamento de pauta) solicitado pelo Governador (art.
+L1430@P48: 62 da CE): Recebida à solicitação do Governador, a Alergs terá o prazo de até
+L1431@P48: trinta dias para que deliberem sobre a iniciativa, contudo se não houver
+L1432@P48: deliberação durante o período previsto, a iniciativa será incluída na Ordem do
+L1433@P48: Dia tendo prioridade de deliberação às quaisquer outras iniciativas contidas em
+L1434@P48: pauta;
+L1435@P48: Para a iniciativa estar apta a ser inclusa na Ordem do Dia, é necessário que seja
+L1436@P48: enviada com 48 horas de antecedência em relação à data de votação. Conforme determina o
+L1437@P48: art. 172, I, do Regimento Interno, as iniciativas aptas a serem inclusas na Ordem do Dia são,
+L1438@P48: dentre elas a e iniciativa do Governador, em regime de urgência, conforme abordado
+L1439@P48: anteriormente (art. 62 da CE).
+L1440@P48: 18 São as proposições apresentadas como complemento eou modificação às iniciativas correspondentes e podem
+L1441@P48: ser apresentadas pela Mesa, pelo Líder, pelo Deputado e pela Comissão Temática quando incorporadas ao
+L1442@P48-49: parecer (art. 185 do Regimento Interno).49
+L1443@P49: No entanto, para que a Alergs autorize a abertura das sessões é necessário contar com
+L1444@P49: um quórum deliberativo (número de parlamentares presentes na sessão que inaugura a Ordem
+L1445@P49: do Dia) 19. Para a deliberação de PLs é necessário contar com a presença de 28 parlamentares
+L1446@P49: (27 deputados estaduais mais o Presidente da Assembleia Legislativa), já para a deliberação
+L1447@P49: de PLCs se faz necessário contar com a presença de 29 parlamentares (sendo 28 deputados
+L1448@P49: estaduais mais o Presidente da Assembleia Legislativa).
+L1449@P49: Além do número necessário de parlamentares presentes para abrir uma sessão, o
+L1450@P49: Regimento Interno também exige um número de votos para que determinada iniciativa seja
+L1451@P49: aprovada. Com isso, para a aprovação de PLs é necessário ter quinze votos favoráveis e para a
+L1452@P49: aprovação de PLCs é necessário que a maioria absoluta (50% mais um (28 votos favoráveis))
+L1453@P49: aprove.
+L1454@P49: Após essa etapa, há a redação e final e a remessa de assinaturas das iniciativas
+L1455@P49: aprovados ao Governador. Na redação final, é efetuada a compatibilização da iniciativa
+L1456@P49: através do texto do projeto juntamente com as emendas aprovadas que alteraram parte do
+L1457@P49: texto, bem como, também é realizada correções de linguagem. Superada essa fase, a redação
+L1458@P49: final da iniciativa aprovada deverá conter a assinatura do Presidente do Legislativo e enviada
+L1459@P49: para o Governador a fim de que sancione ou vete o projeto, conforme determina o art. 66 da
+L1460@P49: CE.
+L1461@P49: Contendo a assinatura do Governador, a iniciativa será sancionada. Contudo, se
+L1462@P49: houver um silêncio do mesmo pelo período de quinze dias úteis do recebimento,
+L1463@P49: automaticamente implicará em sanção ou veto. Desse modo, se a lei não for sancionada no
+L1464@P49: prazo de 48 horas, transcorridos o período de quinze dias úteis do recebimento da iniciativa,
+L1465@P49: deverá o Presidente da Alergs promulgar, e, se o mesmo não o assim fizer em igual prazo,
+L1466@P49: deverá o Vice-presidente promulgá-la.
+L1467@P49: O veto nada mais é do que a contrariedade do Chefe do Poder Executivo de forma
+L1468@P49: integral ou parcial ao conteúdo da lei aprovada, através das justificativas de
+L1469@P49: inconstitucionalidade ou contrariedade ao interesse público.
+L1470@P49: Dessa forma, o prazo para vetar determinada iniciativa é de quinze dias úteis contadas
+L1471@P49: do seu recebimento, devendo assim, ser publicada no Diário Oficial do Estado (DOE) a
+L1472@P49: motivação para o veto, além de, devolver a parte do projeto vetada (parcial ou integral) à
+L1473@P49: Assembleia para que as Comissões Parlamentares apreciem, bem como, a deliberação do
+L1474@P49: Plenário.
+L1475@P49: 
+L1476@P49-50: 19 Art. 112 do Regimento Interno da ALERGS.50
+L1477@P50: O veto sendo aceito, a iniciativa é arquivada, não se constituindo em forma de lei.
+L1478@P50: Todavia, se for rejeitado deverá ser pela maioria absoluta dos membros do parlamento (28
+L1479@P50: deputados). A rejeição do veto deverá automaticamente ser comunicada ao Governador para
+L1480@P50: promulgação. Entretanto, se a lei não for promulgada no prazo de até 48 horas após o
+L1481@P50: recebimento da comunicação, o Presidente da Alergs, assim o deve fazer, e se não fizer,
+L1482@P50: deverá o primeiro Vice-Presidente seguir o caminho da promulgação.
+L1483@P50: Por fim, os atos finais do processo legislativo são a promulgação, publicação e
+L1484@P50: vigência da lei, conforme se nota na tabela a seguir.
+L1485@P50: Quadro 4 – Atos finais do Processo Legislativo
+L1486@P50: Atos Caminhos
+L1487@P50: Promulgação Comunicação aos destinatários da lei da sua criação. De caráter obrigatório.
+L1488@P50: Publicação Será feita no Diário Oficial do Estado ou no Diário Oficial da Alergs (sendo promulgada
+L1489@P50: pelo seu Presidente, com comunicação ao Chefe do Poder Executivo).
+L1490@P50: Vigência da lei A partir do décimo dia da sua publicação oficial, a não ser, que seja estabelecido outro
+L1491@P50: prazo (art. 67 da CE).
+L1492@P50: Fonte: elaboração própria baseada no Regimento Interno da Alergs e na Constituição Estadual do RS.
+L1493@P50: Passando a análise sobre o regramento constitucional que compõe o processo
+L1494@P50: legislativo, serão abordadas a seguir as iniciativas que englobam a agenda da reforma de
+L1495@P50: Estado.
+L1496@P50: 4.4 A AGENDA DE REFORMA DO ESTADO
+L1497@P50: Visando atenuar a crise fiscal, o Poder Executivo enviou à Assembleia Legislativa um
+L1498@P50: conjunto de iniciativas em formas de Projetos de Lei (PL), Projetos de Lei Complementar
+L1499@P50: (PLC) e Propostas de Emenda à Constituição (PEC). A economia projetada pelo Governo
+L1500@P50: estadual através da implementação das iniciativas propostas gira em torno de R$ 6,7 bilhões
+L1501@P50: em quatro anos
+L1502@P50: 20
+L1503@P50: .
+L1504@P50: Tendo em vista o que fora apresentado na subseção 4.1 referente ao programa de
+L1505@P50: governo, uma das diretrizes econômicas traçadas para a retomada da capacidade de
+L1506@P50: 
+L1507@P50: 20 GAUCHAZH. Com pacote, Governo Sartori prevê economia de R$ 6,7 bilhões em quatro anos. Porto Alegre,
+L1508@P50-51: 21 nov. 2016. Disponível em: https://gauchazh.clicrbs.com.br/geral/noticia/2016/11/com-pacote-governo-sartoripreve-economia-de-r-6-7-bilhoes-em-quatro-anos-8425042.html. Acessado em 09 dez. 2020.51
+L1509@P51: investimento e da redução do déficit fiscal era a de criar uma regra que vinculasse o
+L1510@P51: crescimento da despesa pública ao crescimento da economia e da produtividade.
+L1511@P51: Todavia, para que essa regra surtisse o efeito desejado, o então candidato José Ivo
+L1512@P51: Sartori estabeleceu determinadas condicionantes para não haver o aumento da carga tributária,
+L1513@P51: tais como: aumentar a eficiência da gestão da arrecadação tributária (compreende-se por
+L1514@P51: revisar as isenções fiscais, estabelecer a progressividade tributária e criar condições para que
+L1515@P51: os devedores pudessem quitar eou parcelar os débitos tributários existentes), estabelecer
+L1516@P51: mecanismo para fomentar a economia, além de diversificar a base produtiva do estado.
+L1517@P51: Contudo, conforme apresentado no Apêndice 2, as principais medidas para equacionar
+L1518@P51: a crise fiscal passaram pela redução e fusão de secretarias, extinção de fundações, autarquias e
+L1519@P51: companhias, alterações no serviço público e na segurança pública e ampliação do ajuste fiscal
+L1520@P51: através do aumento de tributos, concessões e alienação de bens móveis.
+L1521@P51: Na tabela abaixo, será possível visualizar uma síntese das iniciativas propostas pela
+L1522@P51: agenda de reformas pautadas por temas.
+L1523@P51: Quadro 5 – Agenda de Reforma do Estado: Temas e Pautas
+L1524@P51: Temas Pautas
+L1525@P51: Extinção de Fundações e
+L1526@P51: Autarquias
+L1527@P51: Retira a Companhia Estadual de Silos e Armazéns (Cesa) da necessidade de
+L1528@P51: convocar a realização de plebiscito para a sua privatização e/ou extinção;
+L1529@P51: Extingue as seguintes fundações e autarquias: Fundergs, Fepps, Figtf, Fepagro,
+L1530@P51: Corag e SPH;
+L1531@P51: Retira o dispositivo de convocar a realização de plebiscitos para privatizações;
+L1532@P51: Alienação e Permuta de
+L1533@P51: Bens Imóveis das
+L1534@P51: Fundações
+L1535@P51: Cria o Programa de Aproveitamento e Gestão dos Imóveis no âmbito do Estado do
+L1536@P51: Rio Grande do Sul;
+L1537@P51: Autoriza a permuta de bem imóvel da Fundação para o Desenvolvimento de
+L1538@P51: Recursos Humanos (FDRH);
+L1539@P51: Funcionalismo Público
+L1540@P51: Extinção de licença-prêmio;
+L1541@P51: Ampliação do prazo de prescrição de penas disciplinares;
+L1542@P51: Modifica o Estatuto da Policia Civil;
+L1543@P51: Retira a Brigada Militar da vigilância dos presídios;
+L1544@P51: Altera a licença para representação sindical que passa a ser sem remuneração;
+L1545@P51: Altera as datas de pagamentos dos salários e dos décimos-terceiros salários;
+L1546@P51: Extingue os adicionais por tempo de serviço;
+L1547@P51: Altera a forma como o Governo conta o tempo de carreira do servidor (tempo
+L1548@P51: ficto);
+L1549@P51: Altera o benefício aos servidores integrantes dos órgãos relacionados à Secretaria
+L1550@P51: de Justiça e Segurança em casos de invalidez ou morte;
+L1551@P51: Cria a gratificação por desempenho de atividade prisional (Gdap) para os militares
+L1552@P51-52: estaduais que prestam serviços no Estado;52
+L1553@P52: Estabelece modificações nas cedências dos servidores da segurança;
+L1554@P52: Modifica o Estatuto dos Militares;
+L1555@P52: Elimina o regime de plantão da Susepe de 24 horas de trabalho por 72 ou 96 horas
+L1556@P52: de folga nos presídios;
+L1557@P52: Regime de Previdência

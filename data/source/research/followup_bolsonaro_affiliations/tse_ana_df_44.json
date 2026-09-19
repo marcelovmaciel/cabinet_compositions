@@ -1,0 +1,14 @@
+{
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 7577,
+      "totalElements": 7577,
+      "response_sha256": "787fe3d7ff9abb41038f02f8e7ba36e599fe33f90851087647e0f1410e49eb21",
+      "retrieved_utc": "2026-09-10T23:49:08Z"
+    }
+  ],
+  "matches": []
+}

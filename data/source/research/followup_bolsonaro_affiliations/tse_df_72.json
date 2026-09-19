@@ -1,0 +1,28 @@
+{
+  "party": "UNIÃO",
+  "id": 72,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=72&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 20604,
+      "response_sha256": "f646bab76da1a97574cc095859ab7bc63bc995b0c2435cfd81d749e40fef30b7",
+      "retrieved_utc": "2026-09-10T23:37:19Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=72&currentPage=1&pageSize=10000",
+      "records": 10000,
+      "totalElements": 20604,
+      "response_sha256": "eda6031bce76493b390b3288805d60e70e9d794a2795aff0bcf0ca269f7fa5a7",
+      "retrieved_utc": "2026-09-10T23:37:39Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=72&currentPage=2&pageSize=10000",
+      "records": 604,
+      "totalElements": 20604,
+      "response_sha256": "42e34d78390445bb0664ad22b95e3441224e9448c51aaa9041055a5229552016",
+      "retrieved_utc": "2026-09-10T23:37:41Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,8 @@
+{
+  "person": "Ivani dos Santos",
+  "official_identity_source": "https://www.tcu.gov.br/atas/2020/2a-camara/TCU_ATA_2_N_2020_07.pdf",
+  "official_identity_sha256": "37215420f057a44b7f7b131e95643481d74e0775d1f5cec2d62555ffdf375e33",
+  "sao_paulo_mdb_registry_identity_sha256": "747c3ebcbe6c78ad6f3ebd0e142928332a18b4f3b7e4b0c92cb43e2ccf391156",
+  "identity_matches": false,
+  "adjudication": "Reject Sao Paulo MDB exact-name registry record as different identified person; do not infer minister affiliation"
+}

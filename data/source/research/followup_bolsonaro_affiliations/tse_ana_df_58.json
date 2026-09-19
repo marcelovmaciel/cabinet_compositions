@@ -1,0 +1,14 @@
+{
+  "party": "NOVO",
+  "id": 58,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 1780,
+      "totalElements": 1780,
+      "response_sha256": "3ba852c7cf751da6e7dca1b2381d9d595bde8ab5aa4b51c7d3ef0a89920eff35",
+      "retrieved_utc": "2026-09-10T23:46:42Z"
+    }
+  ],
+  "matches": []
+}

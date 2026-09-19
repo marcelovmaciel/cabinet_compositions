@@ -1,0 +1,16 @@
+{
+  "party": "DC",
+  "id": 59,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=59&currentPage=0&pageSize=10000",
+      "records": 962,
+      "totalElements": 962,
+      "response_sha256": "01b5c5e716ace6753d4950e40a81fce3c66659edf31a0b9fef0c9de203505bb1",
+      "retrieved_utc": "2026-09-10T23:36:03Z"
+    }
+  ],
+  "matches": []
+}

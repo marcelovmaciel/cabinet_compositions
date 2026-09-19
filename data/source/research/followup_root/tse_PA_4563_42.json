@@ -1,0 +1,17 @@
+{
+  "uf": "PA",
+  "municipio": "4563",
+  "city": "BELÉM",
+  "party": "MDB",
+  "id": 42,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 5448,
+      "totalElements": 5448,
+      "response_sha256": "967edd5947473d4381aa35f135444117d75fe1d77fe9674de524bb044346efe3",
+      "retrieved_utc": "2026-09-10T23:38:46Z"
+    }
+  ],
+  "matches": []
+}

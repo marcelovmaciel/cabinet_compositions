@@ -1,0 +1,55 @@
+{
+  "url": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/consulta?sqPartido=15&tpAbrangencia=81&isComposicoesHistoricas=true&dataInicioVigencia=31%2F12%2F2018&dataFimVigencia=31%2F12%2F2018",
+  "status": 200,
+  "retrieved_at": "2026-09-11T01:06:33.473801+00:00",
+  "response": [
+    {
+      "sqOrgaoPartidario": 70945,
+      "numero": 15,
+      "sigla": "MDB",
+      "nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "tipoOrgao": "Comissão executiva",
+      "dataInicioVigencia": "11/03/2013",
+      "dataFimVigencia": "06/10/2019",
+      "protocolo": null,
+      "situacaoiVigencia": "Não Vigente",
+      "abrangencia": "Nacional",
+      "qtdeRegistros": null,
+      "orgaoPartidario": null,
+      "membros": null,
+      "anotacaoOrgaoPartidarioInfo": null,
+      "uf": "",
+      "sgUeSede": "",
+      "municipio": "",
+      "zona": "",
+      "situacoes": [
+        "Anotado; "
+      ],
+      "emitirComissaoExecutiva": true
+    },
+    {
+      "sqOrgaoPartidario": 70946,
+      "numero": 15,
+      "sigla": "MDB",
+      "nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "tipoOrgao": "Órgão definitivo",
+      "dataInicioVigencia": "11/03/2013",
+      "dataFimVigencia": "06/10/2019",
+      "protocolo": null,
+      "situacaoiVigencia": "Não Vigente",
+      "abrangencia": "Nacional",
+      "qtdeRegistros": null,
+      "orgaoPartidario": null,
+      "membros": null,
+      "anotacaoOrgaoPartidarioInfo": null,
+      "uf": "",
+      "sgUeSede": "",
+      "municipio": "",
+      "zona": "",
+      "situacoes": [
+        "Anotado; "
+      ],
+      "emitirComissaoExecutiva": true
+    }
+  ]
+}

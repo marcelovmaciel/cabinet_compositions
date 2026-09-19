@@ -1,0 +1,14 @@
+{
+  "party": "NOVO",
+  "id": 58,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 539,
+      "totalElements": 539,
+      "response_sha256": "f6ab3a77e052acf70f10949a9d51dcd4ea6ad533df6d945aa8780a106a24f942",
+      "retrieved_utc": "2026-09-10T23:48:28Z"
+    }
+  ],
+  "matches": []
+}

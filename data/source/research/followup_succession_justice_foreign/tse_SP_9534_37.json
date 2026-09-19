@@ -1,0 +1,17 @@
+{
+  "party": "PCO",
+  "id": 37,
+  "uf": "SP",
+  "municipio": "9534",
+  "city": "Presidente Prudente",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 3,
+      "totalElements": 3,
+      "response_sha256": "aa7b375ec3f571f0f22a234f1e1a804a178be691291562d83cdd549b384dd821",
+      "retrieved_utc": "2026-09-10T23:39:22Z"
+    }
+  ],
+  "matches": []
+}

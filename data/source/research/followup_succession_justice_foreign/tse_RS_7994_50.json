@@ -1,0 +1,17 @@
+{
+  "party": "AVANTE",
+  "id": 50,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 221,
+      "totalElements": 221,
+      "response_sha256": "590b36e68fda873ea45a035a96dcdb2c651563ebf0f5ee70f1e325b4c0d58201",
+      "retrieved_utc": "2026-09-10T23:37:58Z"
+    }
+  ],
+  "matches": []
+}

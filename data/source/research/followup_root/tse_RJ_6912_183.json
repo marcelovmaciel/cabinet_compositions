@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6912",
+  "city": "DUQUE DE CAXIAS",
+  "party": "MISSÃO",
+  "id": 183,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6912&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 92,
+      "totalElements": 92,
+      "response_sha256": "d0d607355c6d655b51dec17487b3fb54fa367a413c81314234cd014bcad3a922",
+      "retrieved_utc": "2026-09-10T23:40:24Z"
+    }
+  ],
+  "matches": []
+}

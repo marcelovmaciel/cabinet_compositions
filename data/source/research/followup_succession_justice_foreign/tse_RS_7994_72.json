@@ -1,0 +1,17 @@
+{
+  "party": "UNIÃO",
+  "id": 72,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=72&currentPage=0&pageSize=10000",
+      "records": 6515,
+      "totalElements": 6515,
+      "response_sha256": "fb246bfd246ab9fcbedcf819e9f2ba9348b51557e5e4e1cf3b292f666eb14410",
+      "retrieved_utc": "2026-09-10T23:39:19Z"
+    }
+  ],
+  "matches": []
+}

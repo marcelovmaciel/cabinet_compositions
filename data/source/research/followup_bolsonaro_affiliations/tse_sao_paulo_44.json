@@ -1,0 +1,14 @@
+{
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 8911,
+      "totalElements": 8911,
+      "response_sha256": "261a643815cb2969327d2742fd3ac6c7a2f604e82835752cf51949de843d806e",
+      "retrieved_utc": "2026-09-10T23:49:05Z"
+    }
+  ],
+  "matches": []
+}

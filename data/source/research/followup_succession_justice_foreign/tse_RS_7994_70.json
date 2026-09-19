@@ -1,0 +1,24 @@
+{
+  "party": "PDT",
+  "id": 70,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 18390,
+      "response_sha256": "fbe32034cfbad397fa0b36c531e7045a7ffe5a1db5866f61d59368953fe93cef",
+      "retrieved_utc": "2026-09-10T23:38:23Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=70&currentPage=1&pageSize=10000",
+      "records": 8390,
+      "totalElements": 18390,
+      "response_sha256": "47b0fc6b3643f6c81c45fc67e3dec0c82ed75f71f0088386fcc9353850d943e2",
+      "retrieved_utc": "2026-09-10T23:38:39Z"
+    }
+  ],
+  "matches": []
+}

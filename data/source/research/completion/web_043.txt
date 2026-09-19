@@ -1,0 +1,203 @@
+Bruno Bianco - Wikipedia (https://en.wikipedia.org/wiki/Bruno_Bianco)
+citeturn42view0 [wordlim: 200] Crawled: 4 weeks ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Bruno_Bianco","lineno":null}); Total lines: 178
+L0: cite0†Jump to content L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * cite1†Main page L11:   * cite2†Contents L12:   * cite3†Current events L13:   * cite4†Random article L14:   * cite5†About Wikipedia L15:   * cite6†Contact us L16: 
+L17: Contribute
+L18: 
+L19:   * cite7†Help L20:   * cite8†Learn to edit L21:   * cite9†Community portal L22:   * cite10†Recent changes L23:   * cite11†Upload file L24:   * cite12†Special pages L25: 
+L26: cite13†Search L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * cite14†Donate†donate.wikimedia.org L36:   * cite15†Create account L37:   * cite16†Log in L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * cite14†Donate†donate.wikimedia.org L42:   * cite15†Create account L43:   * cite16†Log in L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * cite17†(Top) L49:   * cite18†1 References L50: 
+L51: [Input] Toggle the table of contents
+L52: # Bruno Bianco
+L53: 
+L54: [Input] 5 languages
+L55: 
+L56:   * cite19†Български†bg.wikipedia.org L57:   * cite20†Português†pt.wikipedia.org L58:   * cite21†Русский†ru.wikipedia.org L59:   * cite22†Kiswahili†sw.wikipedia.org L60:   * cite23†اردو†ur.wikipedia.org L61: 
+L62: cite24†Edit links†www.wikidata.org L63: 
+L64:   * cite25†Article L65:   * cite26†Talk L66: 
+L67: [Input] English
+L68: 
+L69:   * cite25†Read L70:   * cite27†Edit L71:   * cite28†View history L72: 
+L73: [Input] Tools
+L74: 
+L75: Tools
+L76: 
+L77: [Button: move to sidebar] [Button: hide]
+L78: 
+L79: Actions
+L80: 
+L81:   * cite25†Read L82:   * cite27†Edit L83:   * cite28†View history L84: 
+L85: General
+L86:   * cite29†What links here L87:   * cite30†Related changes L88:   * cite31†Upload file L89:   * cite32†Permanent link L90:   * cite33†Page information L91:   * cite34†Cite this page L92:   * cite35†Get shortened URL L93:   * cite36†Switch to legacy parser L94: 
+L95: Print/export
+L96: 
+L97:   * cite37†Download as PDF L98:   * cite38†Printable version L99: 
+L100: In other projects
+L101: 
+L102:   * cite39†Wikimedia Commons†commons.wikimedia.org L103:   * cite40†Wikidata item†www.wikidata.org L104: 
+L105: Appearance
+L106: 
+L107: [Button: move to sidebar] [Button: hide]
+L108: Bruno Bianco
+L109: ---
+L110: cite41†Attorney General of the Union L111: ---
+L112: In office
+L113: 6 August 2021 – 31 December 2022
+L114: President  | cite42†Jair Bolsonaro L115: Preceded by  | cite43†André Mendonça L116: Succeeded by  | cite44†Jorge Messias L117: Personal details
+L118: ---
+L119: Born  | Bruno Bianco Leal
+L120: (1982-01-09) 9 January 1982^{cite45†[1] }
+L121: cite46†São Paulo , Brazil
+L122: Occupation  | Senior relationship manager at cite47†BTG Pactual L123: Bruno Bianco Leal (born 9 January 1982)^{cite45†[1] } is a Brazilian attorney and politician who served as the deputy special secretary for Social Security and Labor at the cite48†Ministry of Economy , from January 2019 to August 2021, and as the cite41†Attorney General of Brazil in the cite49†Bolsonaro administration , from August 2021 to December 2022.^{cite50†[2] }^{cite51†[3] } Following the end of Bolsonaro's government, he was hired as a senior relationship manager at cite47†BTG Pactual bank in January 2023.^{cite52†[4] } Bianco also served as an advisor to the Civil House during cite53†Michel Temer 's government, where he provided assistance in the development of the pension reform.^{cite54†[5] }
+L124: ## References
+L125: 
+L126: [cite55†edit ]
+L127:   1. cite56†1 cite57†2 cite58†"Bruno Bianco é confirmado como novo advogado-geral da União"†noticias.r7.com . R7. 6 August 2021.
+L128:   2. cite59†↑ cite60†"Indicado para o STF, Mendonça deixa AGU; Bruno Bianco assume o cargo"†g1.globo.com . G1. 6 August 2021.
+L129:   3. cite61†↑ cite62†"Bolsonaro confirma que nomeará Bruno Bianco como ministro da AGU"†www.cnnbrasil.com.br . CNN. 6 August 2021.
+L130:   4. cite63†↑ Junqueira, Caio. cite64†"BTG contrata Bruno Bianco, ex-AGU de Bolsonaro"†www.cnnbrasil.com.br . CNN Brasil (in Brazilian Portuguese). Retrieved 2023-03-27.
+L131:   5. cite65†↑ cite66†"Secretário Bruno Bianco é indicado para a AGU"†agenciabrasil.ebc.com.br . Agência Brasil (in Brazilian Portuguese). 2021-08-05. Retrieved 2023-03-27.
+L132:  | This article about a Brazilian politician is a cite67†stub . You can help Wikipedia by cite27†adding missing information .
+L133: 
+L134: cite68†Image L135: 
+L136: Retrieved from "cite32†https://en.wikipedia.org/w/index.php?title=Bruno_Bianco&oldid=1255160164 "
+L137: 
+L138: cite69†Categories :
+L139: 
+L140:   * cite70†1982 births L141:   * cite71†Living people L142:   * cite72†People from São Paulo L143:   * cite73†21st-century Brazilian lawyers L144:   * cite74†Attorneys general of Brazil L145:   * cite75†21st-century Brazilian politicians L146:   * cite76†Brazilian politician stubs L147: 
+L148: Hidden categories:
+L149:   * cite77†Articles with short description L150:   * cite78†Short description is different from Wikidata L151:   * cite79†CS1 Brazilian Portuguese-language sources (pt-br) L152:   * cite80†All stub articles L153:   * This page was last edited on 3 November 2024, at 13:26 (UTC).
+L154:   * Page was rendered with cite81†Parsoid†www.mediawiki.org .
+L155:   * Text is available under the cite82†Creative Commons Attribution-ShareAlike 4.0 License ; additional terms may apply. By using this site, you agree to the cite83†Terms of Use†foundation.wikimedia.org and cite84†Privacy Policy†foundation.wikimedia.org . Wikipedia® is a registered trademark of the cite85†Wikimedia Foundation, Inc.†wikimediafoundation.org , a non-profit organization.
+L156:   * cite84†Privacy policy†foundation.wikimedia.org L157:   * cite5†About Wikipedia L158:   * cite86†Disclaimers L159:   * cite6†Contact Wikipedia L160:   * cite87†Legal & safety contacts†foundation.wikimedia.org L161:   * cite88†Code of Conduct†foundation.wikimedia.org L162:   * cite89†Developers†developer.wikimedia.org L163:   * cite90†Statistics†stats.wikimedia.org L164:   * cite91†Cookie statement†foundation.wikimedia.org L165:   * Search
+L166: 
+L167: [Input: Search Wikipedia]
+L168: 
+L169: [Input]
+L170: 
+L171: [Button: Search]
+L172: 
+L173: [Input] Toggle the table of contents
+L174: 
+L175: Bruno Bianco
+L176: 
+L177: 5 languages cite17†Add topic --------------------------------------------------------------------------------
+José Levi do Amaral - Wikipedia (https://en.wikipedia.org/wiki/Jos%C3%A9_Levi_do_Amaral)
+citeturn42view1 [wordlim: 200] Crawled: 3 weeks ago; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/Jos%C3%A9_Levi_do_Amaral","lineno":null}); Total lines: 221
+L0: cite0†Jump to content L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * cite1†Main page L11:   * cite2†Contents L12:   * cite3†Current events L13:   * cite4†Random article L14:   * cite5†About Wikipedia L15:   * cite6†Contact us L16: 
+L17: Contribute
+L18: 
+L19:   * cite7†Help L20:   * cite8†Learn to edit L21:   * cite9†Community portal L22:   * cite10†Recent changes L23:   * cite11†Upload file L24:   * cite12†Special pages L25: 
+L26: cite13†Search L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * cite14†Donate†donate.wikimedia.org L36:   * cite15†Create account L37:   * cite16†Log in L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * cite14†Donate†donate.wikimedia.org L42:   * cite15†Create account L43:   * cite16†Log in L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * cite17†(Top) L49:   * cite18†1 Biography Toggle Biography subsection
+L50:     * cite19†1.1 Academic life L51:     * cite20†1.2 Public career L52:   * cite21†2 References L53: 
+L54: [Input] Toggle the table of contents
+L55: # José Levi do Amaral
+L56: 
+L57: [Input] 2 languages
+L58: 
+L59:   * cite22†Português†pt.wikipedia.org L60:   * cite23†Русский†ru.wikipedia.org L61: 
+L62: cite24†Edit links†www.wikidata.org L63: 
+L64:   * cite25†Article L65:   * cite26†Talk L66: 
+L67: [Input] English
+L68: 
+L69:   * cite25†Read L70:   * cite27†Edit L71:   * cite28†View history L72: 
+L73: [Input] Tools
+L74: 
+L75: Tools
+L76: 
+L77: [Button: move to sidebar] [Button: hide]
+L78: 
+L79: Actions
+L80: 
+L81:   * cite25†Read L82:   * cite27†Edit L83:   * cite28†View history L84: 
+L85: General
+L86:   * cite29†What links here L87:   * cite30†Related changes L88:   * cite31†Upload file L89:   * cite32†Permanent link L90:   * cite33†Page information L91:   * cite34†Cite this page L92:   * cite35†Get shortened URL L93:   * cite36†Switch to legacy parser L94: 
+L95: Print/export
+L96: 
+L97:   * cite37†Download as PDF L98:   * cite38†Printable version L99: 
+L100: In other projects
+L101: 
+L102:   * cite39†Wikimedia Commons†commons.wikimedia.org L103:   * cite40†Wikidata item†www.wikidata.org L104: 
+L105: Appearance
+L106: 
+L107: [Button: move to sidebar] [Button: hide]
+L108: José Levi do Amaral
+L109: ---
+L110: cite41†Attorney General for Brazil L111: ---
+L112: In office
+L113: 29 April 2020 – 29 March 2021
+L114: President  | cite42†Jair Bolsonaro L115: Preceded by  | cite43†André Luiz Mendonça L116: Succeeded by  | cite43†André Luiz Mendonça L117: Attorney General for the National Treasury
+L118: ---
+L119: In office
+L120: 3 January 2019 – 28 April 2020
+L121: President  | cite42†Jair Bolsonaro L122: Minister  | cite44†Paulo Guedes L123: Preceded by  | Fabrício da Soller
+L124: Succeeded by  | Ricardo Soriano de Alencar
+L125: cite45†Minister of Justice L126: Acting
+L127: ---
+L128: In office
+L129: 7 February 2017 – 7 March 2017
+L130: President  | cite46†Michel Temer L131: Preceded by  | cite47†Alexandre de Moraes L132: Succeeded by  | cite48†Osmar Serraglio L133: Personal details
+L134: ---
+L135: Born  | José Levi Mello do Amaral Júnior
+L136: (1976-06-22) 22 June 1976
+L137: cite49†São Gabriel , cite50†Rio Grande do Sul , Brazil
+L138: cite51†Alma mater |
+L139:   * cite52†Federal University of Rio Grande do Sul (2001)
+L140:   * cite53†University of São Paulo (2003)
+L141: Occupation  | Attorney for the National Treasury
+L142: José Levi Mello do Amaral Júnior (born 22 June 1976) is a Brazilian jurist.
+L143: He has a career as Attorney for the National Treasury, as an acclaimed legal expert and professor and held the office of Attorney General for Brazil and Acting cite54†Minister of Justice and Public Security between February and March 2017, after the nomination of former minister cite47†Alexandre de Moraes to the cite55†Supreme Federal Court .^{cite56†[1] }^{cite57†[2] } He was also Attorney General for the National Treasury and is a licensed professor at the cite58†Law School of the cite53†University of São Paulo (USP).
+L144: ## Biography
+L145: 
+L146: [cite59†edit ]
+L147: 
+L148: ### Academic life
+L149: 
+L150: [cite60†edit ]
+L151: 

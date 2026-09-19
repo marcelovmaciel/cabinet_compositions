@@ -1,0 +1,5 @@
+Historical NOVO statute approved partially by TSE 26 April 2018. Source mirror: https://static.poder360.com.br/2023/09/Estatuo-Partido-Novo.pdf
+Party locator: https://novo.org.br/wp-content/uploads/2025/02/estatuto-do-NOVO.pdf (HTTP403 direct retrieval).
+PDF SHA256: f66f9225f8642812adfa6f6adca2fc2ce4d8d6e10f01c4fb559bc6fdd382c907
+
+Review summary of PDF pp12–13: art21 III suspends affiliate rights; art21 VII expels with cancellation; art23 V grants suspensive effect only if the rapporteur admits it for stated grounds. Article21 §2 permits interim suspension. Source is historical primary text reproduced in mirror; not a current-law substitution. OCR excerpts reviewed; image-view sandbox failed (bwrap RTM_NEWADDR), so no visual-verification claim.

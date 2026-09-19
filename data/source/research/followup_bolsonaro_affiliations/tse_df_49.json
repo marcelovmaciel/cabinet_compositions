@@ -1,0 +1,14 @@
+{
+  "party": "PSB",
+  "id": 49,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=49&currentPage=0&pageSize=10000",
+      "records": 6401,
+      "totalElements": 6401,
+      "response_sha256": "126b4e3e68ca7c8b64996bb916df1f322485a32b78dc21997ffa1fbb561849cd",
+      "retrieved_utc": "2026-09-10T23:36:10Z"
+    }
+  ],
+  "matches": []
+}

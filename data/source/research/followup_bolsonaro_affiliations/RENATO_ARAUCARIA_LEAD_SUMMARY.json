@@ -1,0 +1,12 @@
+{
+  "party_queries": 39,
+  "rows_inspected": 11994,
+  "errors": [],
+  "matches": [],
+  "historical_party": "PT",
+  "historical_locality": "Araucaria/PR",
+  "historical_affiliation_date": "2008-07-07",
+  "source_snapshot_date": "2016-07-27",
+  "historical_masked_voter_number": "0860920***98",
+  "disposition": "Identity unconfirmed. Do not apply historical PT membership to cabinet officeholder. Current no-match does not prove non-affiliation or establish a departure date."
+}

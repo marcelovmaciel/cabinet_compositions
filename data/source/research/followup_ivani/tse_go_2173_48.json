@@ -1,0 +1,16 @@
+{
+  "party": "MOBILIZA",
+  "id": 48,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 1396,
+      "totalElements": 1396,
+      "response_sha256": "110acc62036b4590f312e280d075e5dea2b07460b2493841c568a87429e834ba",
+      "retrieved_utc": "2026-09-10T23:36:07Z"
+    }
+  ],
+  "matches": []
+}

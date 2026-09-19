@@ -1,0 +1,16 @@
+{
+  "uf": "RS",
+  "municipio": "7733",
+  "party": "AVANTE",
+  "id": 50,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 1,
+      "totalElements": 1,
+      "response_sha256": "387960b1ff989282a8c508e0b800cbe9a7beda4bcf18e6d1939de8793b4e55e2",
+      "retrieved_utc": "2026-09-11T01:11:58Z"
+    }
+  ],
+  "matches": []
+}

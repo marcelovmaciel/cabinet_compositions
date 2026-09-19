@@ -1,0 +1,17 @@
+{
+  "party": "AVANTE",
+  "id": 50,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 775,
+      "totalElements": 775,
+      "response_sha256": "f14fa1beb9a0c7c1f36f2865834fb81fafe34e9d8fc0490ba694891b85041482",
+      "retrieved_utc": "2026-09-10T23:40:08Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6912",
+  "city": "DUQUE DE CAXIAS",
+  "party": "PCO",
+  "id": 37,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6912&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 37,
+      "totalElements": 37,
+      "response_sha256": "46552694d6db200b054a6acc55bd96ffa4eeec4c040163030e142b3c99bdff4b",
+      "retrieved_utc": "2026-09-10T23:40:26Z"
+    }
+  ],
+  "matches": []
+}

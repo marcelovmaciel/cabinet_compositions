@@ -1,0 +1,19 @@
+# Independent historical implementation review
+
+Reviewed `cabinet_dataset/build.py`, reviewed inputs/importer and `cabinet_dataset/tests/test_build.py` on 2026-09-10, before coding freeze. No electoral outputs, votes, seats or computed inversion results were accessed. This is a record of findings at review time; the dataset owner may subsequently correct them.
+
+## Findings sent to dataset owner and root
+
+1. **Office eligibility must not be inferred from observed service envelopes.** The importer generated each office start/end as min/max included incumbent dates and searched only interior gaps. Pinned legal-scope evidence instead gives: Temer Secretaria de Governo through 2019-01-01 (OFFINV-133), while observed Marun ends 2018-12-28; Bolsonaro Comunicações begins 2020-06-10 (OFFINV-081/OFF-048), while observed Faria begins June 17; Dilma Relações Institucionais persists through 2015-10-05 (OFFINV-038), while the observed service envelope ends April 7. Unresolved edges require explicit UNKNOWN_OCCUPANCY, not implicit abolition. Several October 2015 extinctions also used source October 2 instead of legal October 5 (OFF-005/006).
+2. **Overlapping capacity histories need adjudication.** At review time Temer Justiça includes Alexandre de Moraes through February 22, 2017 and José Levi from February 7, both titular; ordinary delegation must not count independently while the titular is retained. Temer Defesa includes Jungmann through February 27, 2018 and Silva e Luna from February 26. These should not silently be treated as two simultaneous titular holders.
+3. **Bounded service transition missing from uncertainty export.** Wellington César service start is convention-coded January 15, 2026, bounded January 13–15, but `sensitivity_constraints.csv` initially had affiliation changes only. Its start must be linked to Manoel Carlos acting end on the same selected candidate date. `aggregate()` only flagged affiliation bounds, so service-bound uncertainty was absent from uncertainty rows and bounded-day metadata.
+4. **Provenance foreign keys and named case linkage.** All affiliation rows initially used the missing decision PERSON-CONTINUITY-REVIEW, dropping named R20/R21/R26 traceability from witnesses/periods. Several service decision IDs and evidence IDs OCC-005, R13, OFFICE-COVERAGE-SCREEN had no corresponding record. Importing service corrections replaced dates/decision IDs without unioning the relevant new correction evidence IDs. Owner acknowledged and is fixing.
+5. **Tests need executable sensitivity transformation coverage.** Existing bounded-date test counts Damares candidate dates. It does not exercise moving both before/after spell boundaries, fragmented pre-transition spells (Coelho), linked vacancy succession, or an intermediate admissible date. Synthetic UNKNOWN versus UNAFFILIATED, masking, same-day succession, witness coverage, merger timing, non-entry, scope and reordered deterministic build tests are present.
+
+## Successful integration checks
+
+The supplied R14–R26 party histories and service corrections are present: Pontes PSL/UNIAO/PL; Salles NOVO to May 7, 2020; Marinho and Damares bounded exits; Tarcísio Republicanos; Torres and Heleno explicit no-party histories; Faria PP; Flávia March 31, 2021 entry; Roma PL; Gilson March 30, 2022 PL with March 31 departure; Montes PSD and Britto Republicanos from March 31; Sachsida UNIAO under adjudicated continuity. BCB office service ends February 25, 2021. The four affiliation constraints preserve daily candidate dates and identify linked person/service/affiliation rows.
+
+## Limits
+
+This review did not adjudicate all remaining legal service dates afresh. No shared production inputs were mutated by the reviewer. Findings were sent before freeze so corrections can precede downstream regeneration.

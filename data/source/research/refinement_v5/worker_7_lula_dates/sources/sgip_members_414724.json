@@ -1,0 +1,33 @@
+{
+  "url": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=414724&isMembrosAtivos=false",
+  "status": 200,
+  "retrieved_utc": "2026-09-11T01:03:44.225758+00:00",
+  "sha256_response": "e7de87e4f755ec96205b90a9b812ad48c1382d1741415b733902f62926bdf77f",
+  "governing_body": {
+    "sqOrgaoPartidario": 414724,
+    "numero": 45,
+    "sigla": "PSDB",
+    "nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+    "tipoOrgao": "Órgão definitivo",
+    "dataInicioVigencia": "25/04/2022",
+    "dataFimVigencia": "31/07/2023",
+    "protocolo": "784547058437",
+    "situacaoiVigencia": "Não Vigente",
+    "abrangencia": "Municipal",
+    "qtdeRegistros": null,
+    "orgaoPartidario": null,
+    "membros": null,
+    "anotacaoOrgaoPartidarioInfo": null,
+    "uf": "PA",
+    "sgUeSede": "PA",
+    "municipio": "BELÉM",
+    "zona": "",
+    "situacoes": [
+      "Anotado; "
+    ],
+    "emitirComissaoExecutiva": true
+  },
+  "returned_member_count": 14,
+  "scope": "Returned governing-body members, including inactive entries. Not an exhaustive affiliate list.",
+  "target_matches": []
+}

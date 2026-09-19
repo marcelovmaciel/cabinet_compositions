@@ -1,0 +1,17 @@
+{
+  "uf": "SP",
+  "municipio": "9534",
+  "city": "PRESIDENTE PRUDENTE",
+  "party": "DC",
+  "id": 59,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=59&currentPage=0&pageSize=10000",
+      "records": 75,
+      "totalElements": 75,
+      "response_sha256": "b982d1956a0cdacf3c3c7a86d62f33b40d72a84ddb5e10499a1d4dc8bdc1713b",
+      "retrieved_utc": "2026-09-11T00:59:57Z"
+    }
+  ],
+  "matches": []
+}

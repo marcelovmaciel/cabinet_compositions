@@ -1,0 +1,1149 @@
+                          Guia do usuário
+       Sistema de Filiação Partidária–Filia
+                                              Módulo Externo
+
+Este documento apresenta o Filia e traz um manual básico para
+                                         utilização do sistema.
+
+                                                   Versão: 1.5
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                 Guia do usuário
+                                                          Sistema de Filiação Partidária – FILIA
+                                                                    Módulo Externo
+
+
+Este manual foi elaborado pela Secretaria de Tecnologia da Informação.
+
+Elaboração
+Assessoria de Planejamento/STI
+Seção de Candidaturas e Informações Partidárias/STI
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                              Página 2 de 37
+               Tribunal Superior Eleitoral
+               Secretaria de Tecnologia da Informação                                                              Guia do usuário
+                                                                                                         Sistema de Filiação Partidária – FILIA
+                                                                                                                   Módulo Externo
+
+
+
+
+                                                                       Conteúdo
+
+1       INTRODUÇÃO............................................................................................................................................................... 5
+2       APRESENTAÇÃO ........................................................................................................................................................... 5
+3       INFORMAÇÕES PARA USO DO SISTEMA ....................................................................................................................... 5
+3.1     PERFIS .......................................................................................................................................................................... 5
+4       ACESSAR O SISTEMA .................................................................................................................................................... 7
+5       ALTERAR SENHA DE USUÁRIO AUTENTICADO EM MÓDULO EXTERNO ...................................................................... 11
+6       ALTERAR DADOS DO USUÁRIO EM MÓDULO EXTERNO ............................................................................................. 11
+7       MENU FILIAÇÃO ......................................................................................................................................................... 12
+8       AUTORIZAÇÃO DE PROCESSAMENTO......................................................................................................................... 13
+8.1     CONSULTAR AUTORIZAÇÃO DE PROCESSAMENTO .................................................................................................... 13
+8.2     DETALHAR AUTORIZAÇÃO DE PROCESSAMENTO ....................................................................................................... 14
+9       REGISTRO................................................................................................................................................................... 15
+9.1     CONSULTAR REGISTRO DE FILIAÇÃO .......................................................................................................................... 15
+9.2     CADASTRAR REGISTRO DE FILIAÇÃO .......................................................................................................................... 16
+9.3     ALTERAR REGISTRO DE FILIAÇÃO ............................................................................................................................... 17
+9.4     DETALHAR REGISTRO DE FILIAÇÃO ............................................................................................................................ 18
+9.5     .EXCLUIR REGISTRO DE FILIAÇÃO ............................................................................................................................... 18
+9.6     DESFILIAR REGISTRO DE FILIAÇÃO ............................................................................................................................. 19
+9.7     REVERTER REGISTRO DE FILIAÇÃO ............................................................................................................................. 19
+10      HISTÓRICO ................................................................................................................................................................. 20
+10.1    CONSULTAR HISTÓRICO ............................................................................................................................................. 20
+10.2    DETALHAR REGISTRO AFETADO ................................................................................................................................. 21
+10.3    DETALHAR RELAÇÃO AFETADA .................................................................................................................................. 22
+11      RELAÇÃO.................................................................................................................................................................... 23
+11.1    CONSULTAR RELAÇÃO................................................................................................................................................ 23
+11.2    DETALHAR RELAÇÃO .................................................................................................................................................. 24
+11.3    SUBMETER RELAÇÃO ................................................................................................................................................. 25
+12      CERTIDÃO .................................................................................................................................................................. 25
+12.1    GERAR CERTIDÃO....................................................................................................................................................... 25
+12.2    VALIDAR CERTIDÃO ................................................................................................................................................... 27
+13      USUÁRIOS .................................................................................................................................................................. 28
+13.1    CONSULTAR USUÁRIO................................................................................................................................................ 28
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                                                                                      Página 3 de 37
+               Tribunal Superior Eleitoral
+               Secretaria de Tecnologia da Informação                                                             Guia do usuário
+                                                                                                        Sistema de Filiação Partidária – FILIA
+                                                                                                                  Módulo Externo
+
+
+13.2    CADASTRAR USUÁRIO................................................................................................................................................ 29
+13.3    DETALHAR USUÁRIO .................................................................................................................................................. 32
+13.4    EXCLUIR USUÁRIO...................................................................................................................................................... 32
+13.5    BLOQUEAR USUÁRIO ................................................................................................................................................. 33
+13.6    DESBLOQUEAR USUÁRIO ........................................................................................................................................... 34
+13.7    ENVIAR NOVA SENHA ................................................................................................................................................ 34
+14      RELATÓRIOS............................................................................................................................................................... 35
+14.1    FILIAÇÃO .................................................................................................................................................................... 35
+14.2    REZONEAMENTO ....................................................................................................................................................... 36
+14.3    SUB JUDICES .............................................................................................................................................................. 37
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                                                                                    Página 4 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                     Guia do usuário
+                                                              Sistema de Filiação Partidária – FILIA
+                                                                        Módulo Externo
+
+
+
+
+1 Introdução
+          A filiação partidária é o ato pelo qual um eleitor aceita, adota o programa e passa a integrar um
+partido político. Esse vínculo que se estabelece entre o cidadão e o partido é condição de elegibilidade,
+conforme disposto no art. 14, § 3º, V, da Constituição Federal.
+          A filiação partidária é um vínculo estabelecido entre o filiado e o partido político.
+
+          A Justiça Eleitoral recebe as informações encaminhadas pelos partidos políticos para os fins de
+arquivamento, a publicação e a verificação do cumprimento dos prazos de filiação para efeito de registro de
+candidaturas (Lei nº 9.096/95, art. 19).
+
+            Assim, o interessado se filia diretamente no partido político de sua preferência, atendidas as
+         respectivas regras estatutárias.
+
+            Nos termos do art. 16 da Lei dos Partidos Políticos (Lei nº 9.096, de 19 de setembro de 1995), só
+pode filiar-se a partido o eleitor que estiver no pleno gozo de seus direitos políticos.
+
+          Para concorrer a cargo eletivo, o eleitor, entre outros requisitos, deve estar filiado ao partido no
+mínimo 6 (seis) meses antes da data fixada para as eleições, sendo facultado ao partido político
+estabelecer, em seu estatuto, prazos de filiação partidária superiores, conforme dispõem os arts. 9º da Lei
+nº 9.504/1997 e 20 da Lei nº 9.096, de 1995.
+
+         De acordo com o art. 8º da Res.-TSE nº 23.596/2019, os partidos podem cadastrar seus
+representantes para utilização de ferramenta própria da Justiça Eleitoral (FILIA) com o objetivo de gerenciar
+suas relações internas de filiados (inclusões, alterações e exclusões de registros de filiações), em
+cumprimento ao art. 19 da Lei nº 9.096, de 1995.
+
+
+2 Apresentação
+
+         O módulo externo do Sistema de Filiação Partidária é utilizado pelos partidos políticos, de modo
+que possam cadastrar seus representantes com o objetivo de gerenciar suas relações de filiados.
+
+             A SECINP é a unidade responsável, na STI/TSE, pelo desenvolvimento e pela manutenção do
+sistema.
+
+3 Informações para uso do sistema
+      3.1 Perfis
+             O sistema possui 3 perfis de acesso, são eles:
+            Administrador – o sistema deve permitir o acesso do Presidente, Delegado ou Vice Presidente
+           do partido ao sistema FILIA módulo externo quando o mesmo for identificado com “Ativo” em
+           cadastro de usuários do módulo externo. Deve-se atribuir acesso relacionado ao escopo
+           (Abrangência) correspondente.
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                     Página 5 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                      Guia do usuário
+                                                               Sistema de Filiação Partidária – FILIA
+                                                                         Módulo Externo
+
+
+            Operador – o sistema deve permitir o acesso do Operador do partido ao sistema FILIA módulo
+           externo quando o mesmo for identificado com “Ativo” em cadastro de usuários do módulo externo.
+           Deve-se atribuir acesso relacionado ao escopo (Abrangência) correspondente.
+           Consulta – o sistema deve permitir o acesso do Consulta de dados do partido ao sistema FILIA
+           módulo externo quando o mesmo for identificado com “Ativo” em cadastro de usuários do módulo
+           externo. Deve-se atribuir acesso relacionado ao escopo (Abrangência) correspondente.
+
+Cada perfil possui habilidades específicas, conforme tabela abaixo:
+
+
+         Funcionalidades                       Administrador            Operador          Consulta
+
+
+        Alterar senha de usuário autenticado
+        em módulo externo
+                                                      x                     x                    -
+        Alterar dados do usuário autenticado
+        em módulo externo
+                                                      x                     x                    -
+        Autorização de Processamento
+        Consultar                                     x                     x                   x
+        Detalhar                                      x                     x                   x
+        Registro
+        Consultar                                     x                     x                   x
+        Cadastrar                                     x                     x                   -
+        Detalhar                                      x                     x                   x
+        Alterar                                       x                     x                   -
+        Desfiliar                                     x                     x                   -
+        Excluir                                       x                     x                   -
+        Reverter                                      x                     x                   -
+        Histórico
+        Consultar                                     x                     x                   x
+        Detalhar Registro Afetado                     x                     x                   x
+        Detalhar Relação Afetada                      x                     x                   x
+        Relação
+        Consultar                                     x                     x                   x
+        Detalhar                                      x                     x                   x
+        Submeter                                      x                     x                   -
+        Certidão
+        Gerar Certidão                                x                     x                   x
+        Validar Certidão                              x                     x                   x
+        Usuários
+        Consultar usuário                             x                     -                    -
+        Cadastrar usuário                             x                     -                    -
+        Alterar usuário                               x                     -                    -
+        Excluir usuário                               x                     -                    -
+        Bloquear usuário                              x                     -                    -
+        Desbloquear usuário                           x                     -                    -
+        Detalhar usuário                              x                     -                    -
+        Enviar nova senha                             x                     -                    -
+        Relatórios
+        Filiados                                      x                     x                   x
+        Sub Judice                                    x                     x                   x
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                   Página 6 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                    Guia do usuário
+                                                             Sistema de Filiação Partidária – FILIA
+                                                                       Módulo Externo
+
+
+
+
+                                      Possui permissão: (X) Sim / (-) Não
+
+4 Acessar o sistema
+
+O acesso ao FILIA – Módulo Externo é concedido através do sítio do Tribunal Superior Eleitoral:
+http://www.tse.jus.br/ clicar em “Partidos”, em seguida clique em “Filiação Partidária”:
+
+
+
+
+Na tela seguinte, clicar no link “FILIA”
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                 Página 7 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação             Guia do usuário
+                                                      Sistema de Filiação Partidária – FILIA
+                                                                Módulo Externo
+
+
+
+
+Para acesso ao sistema FILIA Externo clique no link “Acesse o sistema”:
+
+
+
+
+O sistema apresenta a tela de login do FILIA.
+O usuário deve digitar sua inscrição eleitoral e a senha que obteve no momento da habilitação na
+Justiça Eleitoral. Clicar em Enviar.
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                            Página 8 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação             Guia do usuário
+                                                      Sistema de Filiação Partidária – FILIA
+                                                                Módulo Externo
+
+
+
+
+O sistema apresenta a tela de “Perfis de Acesso.
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                          Página 9 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                       Guia do usuário
+                                                                Sistema de Filiação Partidária – FILIA
+                                                                          Módulo Externo
+
+
+
+   Selecione o perfil e clique em “Acessar”.
+
+Observações:
+O usuário poderá possuir acesso a um partido ou mais partidos. O acesso aos dados de cada partido deve ser
+particularizado, de acordo com o partido, perfil de acesso, abrangência, UF e Município cadastrado para o usuário.
+
+
+O sistema apresenta a tela inicial do sistema.
+
+
+
+
+Onde:
+A. Filiação: Opção para Consultar autorização de processamentos, cadastrar, consultar os
+    registros, consultar histórico de operações, consultar relação e gerar/validar certidões;
+B. Usuários: Opção para consultar, cadastrar, alterar, visualizar, excluir, bloquear usuários e
+    enviar nova senha.
+C. Relatórios: Opção para realizar a emissão de relatórios.
+
+D. Ajuda: Opção para acessar o manual do Sistema;
+E. Usuário
+F. Sair: Opção para sair com segurança do sistema
+G. Expande a tela
+H. Informativo: Apresenta texto do informativo cadastrado.
+
+1. Partido: Apresenta o partido do perfil do usuário;
+2. Usuário: Apresenta o nome do usuário;
+3. Título Eleitoral: Apresenta o Título Eleitoral do usuário;
+4. Abrangência: Apresenta a abrangência do perfil do usuário
+5. Perfil: Apresenta o perfil do usuário;
+6. Versão: Apresenta a versão do sistema.
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                        Página 10 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                              Guia do usuário
+                                                                       Sistema de Filiação Partidária – FILIA
+                                                                                 Módulo Externo
+
+
+5 Alterar senha de usuário autenticado em módulo externo
+Para detalhar alterar senha do usuário, selecione a opção               , em seguida clique em “Alterar Senha”.
+
+
+
+
+O sistema apresenta a seguinte tela:
+
+
+
+
+Observações:
+Para acessar o FILIA no módulo externo, o título de eleitor informado deve ser válido e estar previamente cadastrado na base de
+dados do sistema.
+Ao redefinir a senha, o sistema deve gravar a nova composição de Título de eleitor e senha para acessar o sistema.
+A nova senha para acesso ao FILIA externo deve conter no mínimo 8 (oito) e máximo 10 (dez) posições. A senha informada deve
+conter um caractere alfanumérico maiúsculo e minúsculo e um caractere numérico e deve ser diferente da última senha utilizada.
+
+
+6 Alterar dados do usuário em módulo externo
+Para alterar dados do usuário, selecione a opção              , em seguida clique em “Alterar Dados”.
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                                   Página 11 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação             Guia do usuário
+                                                      Sistema de Filiação Partidária – FILIA
+                                                                Módulo Externo
+
+
+
+
+O sistema apresenta a tela Alterar Dados do Usuário, com apenas os campos Email e Confirmação
+de Email editáveis. Altere os dados e clique em “Confirmar”:
+
+
+
+
+7 Menu Filiação
+Ao selecionar o menu filiação, o sistema apresenta os submenus abaixo:
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                         Página 12 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação              Guia do usuário
+                                                       Sistema de Filiação Partidária – FILIA
+                                                                 Módulo Externo
+
+
+
+
+8 Autorização de Processamento
+Esta funcionalidade possibilita ao usuário as operações de consultar e detalhar as autorizações de
+processamentos especiais e extemporâneas:
+
+Ao acionar a opção de menu “Autorização de Processamento”, o sistema apresenta a seguinte
+tela:
+
+
+
+
+     8.1 Consultar Autorização de Processamento
+Para realizar a consulta de autorização de processamento, selecione os campos obrigatórios “UF” e
+“Município” e clique em “Consultar”, o sistema apresenta a seguinte tela:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                            Página 13 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                           Guia do usuário
+                                                                    Sistema de Filiação Partidária – FILIA
+                                                                              Módulo Externo
+
+
+
+
+Observações:
+Situação da autorização de processamento
+1 - Autorizada - estado da relação após o cadastro de autorização do processamento pela ZE. Nessa situação a relação fica
+aguardando o processamento;
+2 - Atendida - autorização que teve a relação interna de trabalho correspondente processada;
+3 - Não atendida - autorização que não teve uma relação interna processada.
+4 - Excluída - autorização que foi removida do sistema e do processo de autorizações.
+
+
+     8.2 Detalhar Autorização de Processamento
+Para detalhar a autorização de processamento, selecione a opção              , o sistema apresenta a seguinte tela:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                              Página 14 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                   Guia do usuário
+                                                            Sistema de Filiação Partidária – FILIA
+                                                                      Módulo Externo
+
+
+9 Registro
+Esta funcionalidade possibilita ao usuário as operações de consultar, cadastrar, alterar, detalhar, excluir,
+reverter exclusão do registro de filiação, desfiliar e reverter desfiliação.
+
+Ao acionar a opção de menu “Registro”, o sistema apresenta a seguinte tela.
+
+
+
+
+     Onde:
+     1 – Partido – apresenta o partido do usuário autenticado no sistema;
+     2 – Título de Eleitor – campo para informar o número de inscrição do eleitor;
+     3 – Tipo de Registro – campo para selecionar o tipo dos registros de filiação;
+     4 – Consulta – ao ser acionado apresenta o resultado da consulta;
+     5 – Limpar – ao ser acionado limpa todos os campos;
+     6 – Cadastrar Registro – ao ser acionado apresenta tela para cadastro do registro de filiação.
+
+      9.1 Consultar Registro de Filiação
+Para realizar a consulta de registro, informe os parâmetros obrigatórios e clique em “Consultar”, o sistema
+apresenta o resultado da consulta:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                   Página 15 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                  Guia do usuário
+                                                           Sistema de Filiação Partidária – FILIA
+                                                                     Módulo Externo
+
+
+
+
+     O sistema apresenta o resultado da consulta.
+
+     Onde:
+     A – Apresenta o nome do eleitor;
+     B – Apresenta a data de filiação do eleitor;
+     C – Se filiação cancelada, apresenta a data de cancelamento;
+     D – Apresenta a UF do filiado;
+     E – Apresenta a Zona Eleitoral do filiado;
+     F – Apresenta a situação do filiado;
+     G – Apresenta o tipo do registro de filiação;
+     H – Apresenta as ações operacionais de acordo com o perfil.
+
+      9.2 Cadastrar Registro de Filiação
+          Para realizar a inclusão de relação, selecione a opção “Cadastrar Registro” , o sistema apresenta
+a seguinte tela:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                  Página 16 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                               Guia do usuário
+                                                                        Sistema de Filiação Partidária – FILIA
+                                                                                  Módulo Externo
+
+
+
+
+     Observações:
+     Ao informar a inscrição, caso o filiado possua nome social no Cadastro Eleitoral, o sistema apresentará o nome no campo
+     Nome do Eleitor.
+     No cadastro de registro filiação, serão aceitos pelo sistema somente títulos de eleitores cadastrados no sistema Cadastro de
+     Eleitores – ELO com situação “Regular”.
+     Os dados “Título de eleitor”, “Nome Civil”, “UF”, “Município”, “Zona” e “Seção” devem ser iguais aos dados cadastrados no
+     sistema Cadastro de Eleitores – ELO, caso contrário o cadastro não será permitido.
+
+
+      9.3 Alterar Registro de Filiação
+Para realizar a alteração do registro, selecione a opção             , o sistema apresenta a seguinte tela:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                                   Página 17 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                              Guia do usuário
+                                                                       Sistema de Filiação Partidária – FILIA
+                                                                                 Módulo Externo
+
+
+
+Altere os dados desejados e clique em “Salvar”.
+Ao clicar em “Voltar” o sistema retorna a tela de “Consultar Registro de Filiação”.
+
+Observações:
+Somente registros de filiação do tipo “Interno” que estejam na situação “Regular” poderão ter seus dados alterados. A opção não
+deve ser apresentada para registros de filiação do tipo “Oficial” ou do “Interno” em outras situações que não “Regular”.
+Somente a data de filiação, dados de endereço e telefone poderão ser alterados.
+
+
+      9.4 Detalhar Registro de Filiação
+Para realizar o detalhamento do registro, selecione a opção               , o sistema apresenta a seguinte tela:
+
+
+
+
+Observações:
+Para filiados que possuam nome social, o sistema apresentará o Nome do Eleitor e abaixo o Nome Civil.
+
+      9.5 .Excluir Registro de Filiação
+Para realizar a exclusão de relação, selecione a opção              , o sistema apresenta a seguinte tela:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                                      Página 18 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                                 Guia do usuário
+                                                                          Sistema de Filiação Partidária – FILIA
+                                                                                    Módulo Externo
+
+
+Observações:
+A opção para exclusão dos registros de filiação estará disponível em duas situações no módulo externo:
+1 - Para registros de filiação vinculados a uma relação do tipo “Interno” submetida ou não submetida que ainda não foram
+processados pela Justiça eleitoral no módulo interno, ou seja, registros de filiação que não possuem seus correspondentes na
+relação oficial poderão ser excluídos.
+2 – Para registros de filiação vinculados a uma relação do tipo “Interno” submetida ou não submetida, que tiveram seus
+correspondentes excluídos na relação oficial.
+A opção exclusão deve ser utilizada, em especial, para registros de filiação equivocados. Em caso de desfiliação partidária, utilizar
+da próxima opção.
+
+
+      9.6 Desfiliar registro de Filiação
+Para realizar a desfiliação de registro de filiação, selecione a opção                     , o sistema apresenta a seguinte
+tela:
+
+
+
+
+             Preencha os campos de Data Desfiliação e Motivo da desfiliação e clique em “Sim”.
+
+Observações:
+Somente registros de filiação do tipo “Interno” que estejam na situação “Regular” poderão ser desfiliados. A opção não deve ser
+apresentada para registros de filiação do tipo “Oficial” ou do “Interno” em outras situações que não a “Regular”.
+
+
+      9.7 Reverter Registro de Filiação
+Para realizar a reversão de registro de filiação, selecione a opção                   , o sistema apresenta a seguinte tela:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                                       Página 19 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                                 Guia do usuário
+                                                                          Sistema de Filiação Partidária – FILIA
+                                                                                    Módulo Externo
+
+
+Observações:
+Somente registros de filiação do tipo “Interno” que estejam na situação “Desfiliado” ou “Excluído” poderão ter sua situação revertida
+para a sua situação anterior (Regular). A opção não deve ser apresentada para registros de filiação do tipo “Oficial” ou do “Interno”
+em outras situações que não a “Regular”.
+
+
+10 Histórico
+Esta funcionalidade possibilita ao usuário consultar o histórico dos registros de filiação, detalhar o registro
+de filiação afetado e detalhar a relação afetada.
+
+Ao acionar a opção de menu “Consultar Histórico”, o sistema apresenta a seguinte tela:
+
+
+
+
+Onde:
+1 – Partido – apresenta o partido do usuário autenticado no sistema;
+2 – Tipo Histórico – lista os tipos de históricos;
+3 – Título de Eleitor – campo para informar o número de inscrição do eleitor;
+4 – Período inicial – campo para informar a data inicial da consulta;
+5 – Até – campo para informar a data final da consulta;
+6 – Consulta – ao ser acionado apresenta o resultado da consulta;
+7 – Limpar – ao ser acionado limpa todos os campos.
+
+
+Observações:
+O histórico tem como objetivo apresentar todos os eventos realizados no registro de filiação
+automaticamente pelo sistema e/ou através de uma das ações disponibilizadas.
+
+      10.1 Consultar Histórico
+Para realizar a consulta de histórico, informe os parâmetros obrigatórios (Tipo Histórico, Título de eleitor,
+Período Inicial e Até) e clique em “Consultar”, o sistema apresenta o resultado da consulta:
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                                       Página 20 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                   Guia do usuário
+                                                            Sistema de Filiação Partidária – FILIA
+                                                                      Módulo Externo
+
+
+
+
+     O sistema apresenta o resultado da consulta.
+
+     Onde:
+     A – Apresenta o tipo de operação;
+     B – Apresenta o título de eleitor que sofreu a operação no sistema;
+     C – Apresenta o nome do eleitor que sofreu a operação no sistema;
+     D – Apresenta a data que o registro sofreu a operação no sistema;
+     E – Apresenta o número do processo vinculado ao registro que sofreu a operação no
+     sistema;
+     F – Apresenta o tipo da relação vinculada ao registro que sofreu a operação no sistema;
+     G – Apresenta a situação da relação vinculada ao registro que sofreu a operação no
+     sistema;
+     H – Apresenta as ações operacionais de acordo com o perfil.
+
+      10.2 Detalhar Registro Afetado
+Para detalhar o registro afetado, selecione a opção   , o sistema apresenta a seguinte tela:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                    Página 21 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                   Guia do usuário
+                                                            Sistema de Filiação Partidária – FILIA
+                                                                      Módulo Externo
+
+
+
+
+      10.3 Detalhar Relação Afetada
+
+Para detalhar a relação afetada, selecione a opção    , o sistema apresenta a seguinte tela:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                   Página 22 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                   Guia do usuário
+                                                            Sistema de Filiação Partidária – FILIA
+                                                                      Módulo Externo
+
+
+11 Relação
+Esta funcionalidade possibilita ao usuário as operações de consultar, detalhar e excluir relação
+de filiados.
+
+Ao acionar a opção de menu “Relação”, o sistema apresenta a seguinte tela:
+
+
+
+
+      11.1 Consultar Relação
+          Para realizar a consulta de relação, informe os parâmetros obrigatórios (Tipo de relação, UF e
+Município) e clique em “Consultar”, o sistema apresenta o resultado da consulta.
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                  Página 23 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                                Guia do usuário
+                                                                         Sistema de Filiação Partidária – FILIA
+                                                                                   Módulo Externo
+
+
+Observações:
+Relação Interna:
+Relação na qual o partido age diretamente, cadastrando, alterando e excluindo registros de filiação (registros internos).
+Relação Oficial:
+Relação gerada após o processamento onde os registros internos são oficializados para um determinado partido, município e zona.
+No módulo externo, as relações oficiais somente estarão disponíveis para consulta.
+Situações da Relação Interna:
+Não submetida – Relação na qual o partido age diretamente, gerenciando seus registros internos, mas que ainda não foi
+submetida, ou seja, não está apta a ser processada pela Justiça Eleitoral.
+Submetida – Relação autorizada pelo partido a ser processada pela Justiça Eleitoral. A submissão não impede que o partido
+continue a gerenciar a relação.
+Fechada – Relação interna submetida que deu origem a uma relação oficial. Quando uma relação submetida é fechada, uma nova
+relação interna é criada com situação “Não submetida” para que o partido possa continuar a gerenciar seus filiados.
+
+Situações da Relação Oficial:
+Ativa – Relação oficial atual. É gerada após o processamento que ocorre duas vezes por ano por força de lei. É a última relação
+processada.
+Inativa – Relação oficial que já foi ativa, mas que foi substituída por uma mais recente.
+Excluída – Relação que não deve ser mais considerada, passando a valer a sua antecessora.
+
+
+      11.2 Detalhar Relação
+Para realizar o detalhamento da relação, selecione a opção                   , o sistema apresenta a seguinte tela:
+
+
+
+
+Observações:
+O detalhamento das relações “Interna” e “Oficial” poderá ser realizado para todos os registros independente da situação da relação.
+As ações serão apresentadas somente para os registros de filiação vinculados a uma relação do tipo “Interna” com situação “Não
+submetida” ou “Submetida”.
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                                      Página 24 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                                Guia do usuário
+                                                                         Sistema de Filiação Partidária – FILIA
+                                                                                   Módulo Externo
+
+
+      11.3 Submeter Relação
+             Para realizar a submissão da relação, selecione a opção                , o sistema apresenta a seguinte tela:
+
+
+
+
+Clique em “Sim” para concluir a operação com sucesso.
+Ao clicar em “Não” o sistema retorna para tela de “Consultar Relação”.
+
+Observações:
+A Submissão de uma relação de filiados acontecerá somente para uma relação Interna com situação “Não Submetida”.
+Uma relação interna só está apta a ser processada após a sua submissão.
+A submissão de relação interna pode ser realizada até às 23 horas e 59 minutos (horário de Brasília) do prazo final. Uma vez
+submetida a relação interna, a qualquer tempo, o partido pode continuar trabalhando até às 23 horas e 59 minutos (horário de
+Brasília) da data limite para submissão de relações internas. Todas as modificações e inclusões de filiados feitas após a
+submissão, já estarão na relação interna submetida para processamento (não é necessário submeter novamente).
+
+12 Certidão
+Esta funcionalidade possibilita ao usuário as operações de Gerar e Validar certidão.
+       12.1 Gerar Certidão
+Ao acionar a opção de menu “Gerar Certidão”, o sistema apresenta a seguinte tela:
+
+
+
+
+Para gerar a certidão informe os parâmetros obrigatórios e clique em “Gerar Certidão”.
+O sistema apresenta a certidão gerada, conforme abaixo:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                                     Página 25 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                                 Guia do usuário
+                                                                          Sistema de Filiação Partidária – FILIA
+                                                                                    Módulo Externo
+
+
+
+
+Observações:
+O sistema emite a certidão com o número do código de autenticação, utilizado para validar a autenticidade da certidão.
+O sistema deve gerar a certidão de filiação somente para título de eleitor válido e cadastrado na base de dados do sistema ELO.
+Estando o título de eleitor informado de acordo com a validação acima, o sistema deve verificar a situação do registro de filiação
+para o mesmo e gerar a certidão de filiação conforme descrito abaixo:
+Caso o título de eleitor não possua registro de filiação, o sistema deve gerar a certidão de filiação com a situação do filiado “NÃO
+ESTÁ FILIADO A PARTIDO POLÍTICO”;
+Caso o título de eleitor possua registro de filiação com situação “Regular” em um único diretório partidário, o sistema deve gerar a
+certidão de filiação com a situação do filiado “ESTÁ REGULARMENTE FILIADO”;
+Caso o título de eleitor possua registro de filiação com situação “Regular” em um único diretório partidário, porém, o filiado não
+encontra-se na última relação oficial entregue pelo partido, o sistema deve gerar a certidão de filiação com a situação do filiado
+“ESTÁ FILIADO EMBORA NÃO CONSTE REGISTRO NA ÚLTIMA RELAÇÃO OFICIAL ENTREGUE PELO PARTIDO”;
+Caso o título de eleitor possua registro de filiação com situação “Cancelado” ou “Excluído”, o sistema deve gerar a certidão de
+filiação com a situação do filiado “NÃO ESTÁ FILIADO A PARTIDO POLÍTICO”;
+Caso o título de eleitor possua registro de filiação com situação “Desfiliado”, o sistema deve gerar a certidão de filiação com a
+situação do filiado “CONSTA COM PENDÊNCIA DE CANCELAMENTO” (Obs.: essa situação ocorre quando o cidadão pediu a
+desfiliação no partido, mas não comunicou à Justiça Eleitoral. Só passará a constar na situação “não filiado” após o comando, no
+sistema, pelo respectivo Cartório Eleitoral);
+Caso o título de eleitor possua registro de filiação com situação “SUB JUDICE” (registro envolvido em duplicidade de filiação
+partidária), o sistema deve gerar a certidão de filiação com a situação do filiado “CONSTA NA SITUAÇÃO SUB JUDICE”.
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                                       Página 26 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                   Guia do usuário
+                                                            Sistema de Filiação Partidária – FILIA
+                                                                      Módulo Externo
+
+
+       12.2 Validar Certidão
+Para validar a certidão informe o código de autenticação e clique em “Validar Certidão”.
+
+
+
+
+Após confirmar a autenticidade da certidão o sistema apresenta a seguinte tela:
+
+
+
+
+Para imprimir a certidão clique em “Certidão Autêntica”, o sistema apresenta certidão para impressão:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                   Página 27 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                               Guia do usuário
+                                                                        Sistema de Filiação Partidária – FILIA
+                                                                                  Módulo Externo
+
+
+
+Observações:
+Para ser considerada uma certidão válida o sistema deve verificar se o código de autenticação informado é igual a de uma certidão
+gerada pelo sistema.
+
+  13 Usuários
+ Esta funcionalidade possibilita ao usuário do sistema as operações de consultar, cadastrar, visualizar
+excluir, bloquear, desbloquear, detalhar e enviar nova senha de usuário.
+
+ Ao acionar a opção de menu “Usuário”, o sistema apresenta a seguinte tela:
+
+
+
+
+          13.1 Consultar usuário
+Para realizar a consulta de usuário clique em “Consultar”, ou para uma consulta mais específica, informe os
+parâmetros desejados e clique em “Consultar”, o sistema apresenta o resultado da consulta:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                                    Página 28 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                        Guia do usuário
+                                                                 Sistema de Filiação Partidária – FILIA
+                                                                           Módulo Externo
+
+
+
+
+          13.2 Cadastrar usuário
+Para realizar o cadastro de usuário, clique em “Cadastrar Usuário”, o sistema apresenta a seguinte tela:
+
+
+
+
+Preencha os parâmetros obrigatórios e clique em “Confirmar”.
+Ao clicar em “Voltar” o sistema retorna a tela de “Consultar Usuário”.
+
+Observações:
+
+O usuário poderá possuir acesso a um partido ou mais partidos. O acesso aos dados de cada partido deve ser
+particularizado, de acordo com o partido, perfil de acesso, abrangência, UF e Município cadastrado para o usuário.
+
+Para cada partido, o sistema deve tratar os dados básicos do cadastro do usuário com unicidade, não permitindo que
+usuários com as mesmas informações de “Título de eleitor”, “Nome”, “Abrangência” sejam cadastradas no mesmo
+partido.
+Os dados Perfis de acesso, Abrangência, UF, Município /Zona e seus dados de configuração estarão relacionados ao
+partido responsável pelo seu cadastro.
+Os usuários cadastrados como Administrador do módulo externo será o responsável por manter o cadastro dos
+demais usuários do partido político.
+
+A Justiça Eleitoral cadastrará apenas o Presidente Nacional como administrador, os demais usuários podem ser
+cadastrados pelo próprio partido, desde que obedecidos os requisitos do art. 8º a 10º da Resolução TSE n.º
+23.596/2019.
+
+O cadastro de um determinado usuário no módulo externo deve ser realizado de acordo com validações no SGIP3 e
+perfil do usuário autenticado conforme abaixo:
+             Perfil do usuário Autenticado no FILIA: Administrador Nacional (Usuário cadastrado pela Justiça
+                                                        Eleitoral)
+              o Poderá cadastrar usuários com perfil “Administrador” da abrangência “Nacional” ou de uma das
+                 abrangências hierarquicamente inferiores (Estadual/Regional, Municipal/Zonal), desde que no SGIP3
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                         Página 29 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                           Guia do usuário
+                                                                    Sistema de Filiação Partidária – FILIA
+                                                                              Módulo Externo
+
+
+                   o usuário:
+                        Seja um membro ativo e vigente do partido informado;
+                        Esteja “Anotado”;
+                        Possua cargo igual a “Presidente”, “Delegado” ou “Vice Presidente”;
+                        Possua abrangência equivalente à informada no FILIA (A abrangência nos dois sistemas FILIA
+                          e SGIP3 devem ser iguais).
+              o Poderá cadastrar e manter os usuários com perfil “Operador” somente da abrangência “Nacional”;
+              o Poderá cadastrar e manter os usuários com perfil “Consulta” somente da abrangência “Nacional”.
+
+
+
+
+               Perfil do usuário Autenticado no FILIA: Administrador Nacional (Usuário cadastrado por outro
+                                   Administrador Nacional no módulo externo do sistema)
+              o Poderá cadastrar usuários com perfil “Administrador” de uma das abrangências hierarquicamente
+                 inferiores (Estadual/Regional, Municipal/Zonal), desde que no SGIP3 o usuário:
+                        Seja um membro ativo e vigente do partido informado;
+                        Esteja “Anotado”;
+                        Possua cargo igual a “Presidente”, “Delegado” ou “Vice Presidente”;
+                        Possua abrangência equivalente à informada no FILIA (A abrangência nos dois sistemas FILIA
+                          e SGIP3 devem ser iguais).
+              o Poderá cadastrar usuários e manter os com perfil “Operador” somente da abrangência “Nacional”;
+              o Poderá cadastrar usuários e manter os com perfil “Consulta” somente da abrangência “Nacional”.
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                             Página 30 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                           Guia do usuário
+                                                                    Sistema de Filiação Partidária – FILIA
+                                                                              Módulo Externo
+
+
+                            Perfil do usuário Autenticado no FILIA: Administrador Estadual/Regional
+              o Poderá cadastrar usuários com perfil “Administrador” da abrangência “Estadual/Regional” ou de uma
+                 das abrangências hierarquicamente inferiores (Municipal/Zonal), desde que no SGIP3 o usuário:
+                        Seja um membro ativo e vigente do partido informado;
+                        Esteja “Anotado”;
+                        Possua cargo igual a “Presidente”, “Delegado” ou “Vice Presidente”;
+                        Possua abrangência equivalente à informada no FILIA (A abrangência nos dois sistemas FILIA
+                            e SGIP3 devem ser iguais).
+              o Poderá cadastrar e manter os usuários com perfil “Operador” somente da abrangência “Estadual”;
+              o Poderá cadastrar e manter os usuários com perfil “Consulta” somente da abrangência “Estadual”.
+
+
+
+
+                              Perfil do usuário Autenticado no FILIA: Administrador Municipal/Zonal
+              o Poderá cadastrar usuários com perfil “Administrador” da abrangência “Municipal/Zonal”, desde que no
+                 SGIP3 o usuário:
+                        Seja um membro ativo e vigente do partido informado;
+                        Esteja “Anotado”;
+                        Possua cargo igual a “Presidente”, “Delegado” ou “Vice Presidente”;
+                        Possua abrangência equivalente à informada no FILIA (A abrangência nos dois sistemas FILIA
+                          e SGIP3 devem ser iguais).
+              o Poderá cadastrar e manter os usuários com perfil “Operador” somente da abrangência
+                 “Municipal/Zonal”;
+              o Poderá cadastrar e manter os usuários com perfil “Consulta” somente da abrangência
+                 “Municipal/Zonal”.
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                             Página 31 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                        Guia do usuário
+                                                                 Sistema de Filiação Partidária – FILIA
+                                                                           Módulo Externo
+
+
+
+
+       13.3 Detalhar usuário
+Para detalhar usuário, selecione a opção              , o sistema apresenta a seguinte tela:
+
+
+
+
+Ao clicar em “Voltar” o sistema retorna para tela de “Consultar Usuário”.
+
+          13.4 Excluir usuário
+
+Para realizar a exclusão de acesso do usuário, selecione a opção        , o sistema apresenta a seguinte tela:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                       Página 32 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                      Guia do usuário
+                                                               Sistema de Filiação Partidária – FILIA
+                                                                         Módulo Externo
+
+
+
+
+Clique em “Sim” para concluir a operação com sucesso.
+Ao clicar em “Não” o sistema retorna para tela de “Consultar Usuário”.
+
+          13.5 Bloquear usuário
+
+Para realizar o bloqueio de usuário, selecione a opção     , o sistema apresenta a seguinte tela:
+
+
+
+
+Clique em “Sim” para concluir a operação com sucesso.
+Ao clicar em “Não” o sistema retorna para tela de “Consultar Usuário”.
+
+Observações
+Em caso de bloqueio, diferentemente da exclusão, o usuário continua cadastrado na base de dados do sistema,
+podendo ser desbloqueado a qualquer momento.
+O bloqueio será realizado para todos os perfis do usuário na abrangência selecionada.
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                        Página 33 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                     Guia do usuário
+                                                              Sistema de Filiação Partidária – FILIA
+                                                                        Módulo Externo
+
+
+          13.6 Desbloquear usuário
+Para realizar o desbloqueio de usuário, selecione a opção     , o sistema apresenta a seguinte tela:
+
+
+
+
+Clique em “Sim” para concluir a operação com sucesso.
+Ao clicar em “Não” o sistema retorna para tela de “Consultar Usuário”.
+
+          13.7 Enviar nova senha
+
+Para solicitar uma nova senha, selecione a opção      , o sistema apresenta a seguinte tela:
+
+
+
+
+Clique em “Sim” para concluir a operação com sucesso.
+Ao clicar em “Não” o sistema retorna para tela de “Consultar Usuário”.
+
+Observações:
+Ao confirmar o reenvio da nova senha, o sistema deve encaminhar e-mail ao usuário contendo uma nova senha com
+até 10 caracteres aleatórios.
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                     Página 34 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                   Guia do usuário
+                                                            Sistema de Filiação Partidária – FILIA
+                                                                      Módulo Externo
+
+
+  14 Relatórios
+
+           14.1 Filiação
+           Para gerar relatório de Filiados, selecione a opção Relatórios, o sistema apresenta o submenu de
+relatórios, selecione a opção “Filiação”.
+           O sistema apresenta a tela para gerar o relatório, informe os parâmetros obrigatórios e clique em
+“Gerar”.
+
+
+
+
+     Para Tipo igual a Nominal, o sistema apresenta o relatório conforme imagem:
+
+
+
+
+     Para Tipo igual a Quantitativo, o sistema apresenta o relatório conforme imagem:
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                   Página 35 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                  Guia do usuário
+                                                           Sistema de Filiação Partidária – FILIA
+                                                                     Módulo Externo
+
+
+
+
+           14.2 Rezoneamento
+         Para gerar relatório de Rezoneamento, selecione a opção Relatórios, o sistema apresenta o
+submenu de relatórios, selecione a opção “Rezoneamento”.
+         O sistema apresenta a tela para gerar o relatório, informe os parâmetros obrigatórios e clique em
+“Gerar”.
+
+
+
+
+     O sistema apresenta o relatório conforme imagem:
+
+
+
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                 Página 36 de 37
+             Tribunal Superior Eleitoral
+             Secretaria de Tecnologia da Informação                   Guia do usuário
+                                                            Sistema de Filiação Partidária – FILIA
+                                                                      Módulo Externo
+
+
+
+
+           14.3 Sub Judices
+         Para gerar relatório de Sub Judices, selecione a opção Relatórios, o sistema apresenta o
+submenu de relatórios, selecione a opção “Sub Judices”.
+         O sistema apresenta a tela para gerar o relatório, informe os parâmetros obrigatórios e clique em
+“Gerar”.
+
+
+
+
+     O sistema apresenta o relatório conforme imagem:
+
+
+
+
+                                                      Fim
+
+Arquivo: gus_filia_externo_final
+Versão do modelo: 1.1 – 17/08/2016                                                 Página 37 de 37
+

@@ -1,0 +1,14 @@
+{
+  "party": "REDE",
+  "id": 64,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=64&currentPage=0&pageSize=10000",
+      "records": 275,
+      "totalElements": 275,
+      "response_sha256": "358f8312acdef9900ace30a8e85f31b3493fe7a4c2c540f5084846a5f61a7831",
+      "retrieved_utc": "2026-09-10T23:43:27Z"
+    }
+  ],
+  "matches": []
+}

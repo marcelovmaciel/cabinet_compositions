@@ -1,0 +1,17 @@
+{
+  "party": "PSDB",
+  "id": 56,
+  "uf": "RS",
+  "municipio": "7733",
+  "city": "Garibaldi",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=56&currentPage=0&pageSize=10000",
+      "records": 148,
+      "totalElements": 148,
+      "response_sha256": "00426a290072acd30c2e6deb2d5462fb9eb44682648fe87db4a742a871db0916",
+      "retrieved_utc": "2026-09-10T23:37:47Z"
+    }
+  ],
+  "matches": []
+}

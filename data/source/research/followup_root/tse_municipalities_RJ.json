@@ -1,0 +1,1198 @@
+[
+  {
+    "codLocalidadeTse": 58017,
+    "codObjeto": "6845",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "ANGRA DOS REIS"
+  },
+  {
+    "codLocalidadeTse": 58181,
+    "codObjeto": "6847",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "APERIBÉ"
+  },
+  {
+    "codLocalidadeTse": 58033,
+    "codObjeto": "6848",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "ARARUAMA"
+  },
+  {
+    "codLocalidadeTse": 58220,
+    "codObjeto": "6849",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "AREAL"
+  },
+  {
+    "codLocalidadeTse": 58408,
+    "codObjeto": "6850",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "ARMAÇÃO DOS BÚZIOS"
+  },
+  {
+    "codLocalidadeTse": 59277,
+    "codObjeto": "6851",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "ARRAIAL DO CABO"
+  },
+  {
+    "codLocalidadeTse": 58050,
+    "codObjeto": "6862",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "BARRA DO PIRAÍ"
+  },
+  {
+    "codLocalidadeTse": 58076,
+    "codObjeto": "6863",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "BARRA MANSA"
+  },
+  {
+    "codLocalidadeTse": 58041,
+    "codObjeto": "6865",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "BELFORD ROXO"
+  },
+  {
+    "codLocalidadeTse": 58092,
+    "codObjeto": "6870",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "BOM JARDIM"
+  },
+  {
+    "codLocalidadeTse": 58114,
+    "codObjeto": "6871",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "BOM JESUS DO ITABAPOANA"
+  },
+  {
+    "codLocalidadeTse": 58130,
+    "codObjeto": "6873",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "CABO FRIO"
+  },
+  {
+    "codLocalidadeTse": 58157,
+    "codObjeto": "6875",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "CACHOEIRAS DE MACACU"
+  },
+  {
+    "codLocalidadeTse": 58173,
+    "codObjeto": "6879",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "CAMBUCI"
+  },
+  {
+    "codLocalidadeTse": 58190,
+    "codObjeto": "6881",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "CAMPOS DOS GOYTACAZES"
+  },
+  {
+    "codLocalidadeTse": 58211,
+    "codObjeto": "6883",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "CANTAGALO"
+  },
+  {
+    "codLocalidadeTse": 58300,
+    "codObjeto": "6885",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "CARAPEBUS"
+  },
+  {
+    "codLocalidadeTse": 58068,
+    "codObjeto": "6886",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "CARDOSO MOREIRA"
+  },
+  {
+    "codLocalidadeTse": 58238,
+    "codObjeto": "6887",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "CARMO"
+  },
+  {
+    "codLocalidadeTse": 58254,
+    "codObjeto": "6889",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "CASIMIRO DE ABREU"
+  },
+  {
+    "codLocalidadeTse": 58165,
+    "codObjeto": "6893",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "COMENDADOR LEVY GASPARIAN"
+  },
+  {
+    "codLocalidadeTse": 58270,
+    "codObjeto": "6896",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "CONCEIÇÃO DE MACABU"
+  },
+  {
+    "codLocalidadeTse": 58297,
+    "codObjeto": "6900",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "CORDEIRO"
+  },
+  {
+    "codLocalidadeTse": 58319,
+    "codObjeto": "6911",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "DUAS BARRAS"
+  },
+  {
+    "codLocalidadeTse": 58335,
+    "codObjeto": "6912",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "DUQUE DE CAXIAS"
+  },
+  {
+    "codLocalidadeTse": 58351,
+    "codObjeto": "6914",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "ENGENHEIRO PAULO DE FRONTIN"
+  },
+  {
+    "codLocalidadeTse": 58106,
+    "codObjeto": "6927",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "GUAPIMIRIM"
+  },
+  {
+    "codLocalidadeTse": 58262,
+    "codObjeto": "6932",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "IGUABA GRANDE"
+  },
+  {
+    "codLocalidadeTse": 58378,
+    "codObjeto": "6941",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "ITABORAÍ"
+  },
+  {
+    "codLocalidadeTse": 58394,
+    "codObjeto": "6943",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "ITAGUAÍ"
+  },
+  {
+    "codLocalidadeTse": 59293,
+    "codObjeto": "6947",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "ITALVA"
+  },
+  {
+    "codLocalidadeTse": 58416,
+    "codObjeto": "6949",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "ITAOCARA"
+  },
+  {
+    "codLocalidadeTse": 58432,
+    "codObjeto": "6950",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "ITAPERUNA"
+  },
+  {
+    "codLocalidadeTse": 58440,
+    "codObjeto": "6951",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "ITATIAIA"
+  },
+  {
+    "codLocalidadeTse": 58149,
+    "codObjeto": "6955",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "JAPERI"
+  },
+  {
+    "codLocalidadeTse": 58459,
+    "codObjeto": "6957",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "LAJE DO MURIAÉ"
+  },
+  {
+    "codLocalidadeTse": 58475,
+    "codObjeto": "6962",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "MACAÉ"
+  },
+  {
+    "codLocalidadeTse": 58386,
+    "codObjeto": "6963",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "MACUCO"
+  },
+  {
+    "codLocalidadeTse": 58491,
+    "codObjeto": "6964",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "MAGÉ"
+  },
+  {
+    "codLocalidadeTse": 58513,
+    "codObjeto": "6966",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "MANGARATIBA"
+  },
+  {
+    "codLocalidadeTse": 58530,
+    "codObjeto": "6971",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "MARICÁ"
+  },
+  {
+    "codLocalidadeTse": 58556,
+    "codObjeto": "6972",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "MENDES"
+  },
+  {
+    "codLocalidadeTse": 58467,
+    "codObjeto": "9908500118883",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "MESQUITA"
+  },
+  {
+    "codLocalidadeTse": 58572,
+    "codObjeto": "6974",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "MIGUEL PEREIRA"
+  },
+  {
+    "codLocalidadeTse": 58599,
+    "codObjeto": "6975",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "MIRACEMA"
+  },
+  {
+    "codLocalidadeTse": 58610,
+    "codObjeto": "6985",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "NATIVIDADE"
+  },
+  {
+    "codLocalidadeTse": 58637,
+    "codObjeto": "6988",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "NILÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 58653,
+    "codObjeto": "6989",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "NITERÓI"
+  },
+  {
+    "codLocalidadeTse": 58670,
+    "codObjeto": "6993",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "NOVA FRIBURGO"
+  },
+  {
+    "codLocalidadeTse": 58696,
+    "codObjeto": "6994",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "NOVA IGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 58718,
+    "codObjeto": "6999",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "PARACAMBI"
+  },
+  {
+    "codLocalidadeTse": 58750,
+    "codObjeto": "7004",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "PARATY"
+  },
+  {
+    "codLocalidadeTse": 58734,
+    "codObjeto": "7000",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "PARAÍBA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 59315,
+    "codObjeto": "7007",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "PATY DO ALFERES"
+  },
+  {
+    "codLocalidadeTse": 58777,
+    "codObjeto": "7012",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "PETRÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 58246,
+    "codObjeto": "7015",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "PINHEIRAL"
+  },
+  {
+    "codLocalidadeTse": 58793,
+    "codObjeto": "7017",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "PIRAÍ"
+  },
+  {
+    "codLocalidadeTse": 58815,
+    "codObjeto": "7020",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "PORCIÚNCULA"
+  },
+  {
+    "codLocalidadeTse": 58327,
+    "codObjeto": "7023",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "PORTO REAL"
+  },
+  {
+    "codLocalidadeTse": 58025,
+    "codObjeto": "7030",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "QUATIS"
+  },
+  {
+    "codLocalidadeTse": 58122,
+    "codObjeto": "7031",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "QUEIMADOS"
+  },
+  {
+    "codLocalidadeTse": 58009,
+    "codObjeto": "7032",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "QUISSAMÃ"
+  },
+  {
+    "codLocalidadeTse": 58831,
+    "codObjeto": "7035",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "RESENDE"
+  },
+  {
+    "codLocalidadeTse": 58858,
+    "codObjeto": "7039",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "RIO BONITO"
+  },
+  {
+    "codLocalidadeTse": 58874,
+    "codObjeto": "7040",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "RIO CLARO"
+  },
+  {
+    "codLocalidadeTse": 58890,
+    "codObjeto": "7041",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "RIO DAS FLORES"
+  },
+  {
+    "codLocalidadeTse": 58203,
+    "codObjeto": "7042",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "RIO DAS OSTRAS"
+  },
+  {
+    "codLocalidadeTse": 60011,
+    "codObjeto": "7043",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "RIO DE JANEIRO"
+  },
+  {
+    "codLocalidadeTse": 58912,
+    "codObjeto": "7057",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SANTA MARIA MADALENA"
+  },
+  {
+    "codLocalidadeTse": 58939,
+    "codObjeto": "7062",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DE PÁDUA"
+  },
+  {
+    "codLocalidadeTse": 59072,
+    "codObjeto": "7084",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SAPUCAIA"
+  },
+  {
+    "codLocalidadeTse": 59099,
+    "codObjeto": "7085",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SAQUAREMA"
+  },
+  {
+    "codLocalidadeTse": 58424,
+    "codObjeto": "7088",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SEROPÉDICA"
+  },
+  {
+    "codLocalidadeTse": 59110,
+    "codObjeto": "7091",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SILVA JARDIM"
+  },
+  {
+    "codLocalidadeTse": 59137,
+    "codObjeto": "7095",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SUMIDOURO"
+  },
+  {
+    "codLocalidadeTse": 58955,
+    "codObjeto": "7065",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SÃO FIDÉLIS"
+  },
+  {
+    "codLocalidadeTse": 58289,
+    "codObjeto": "7066",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SÃO FRANCISCO DE ITABAPOANA"
+  },
+  {
+    "codLocalidadeTse": 58971,
+    "codObjeto": "7067",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SÃO GONÇALO"
+  },
+  {
+    "codLocalidadeTse": 58343,
+    "codObjeto": "7073",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SÃO JOSÉ DE UBÁ"
+  },
+  {
+    "codLocalidadeTse": 59331,
+    "codObjeto": "7076",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SÃO JOSÉ DO VALE DO RIO PRETO"
+  },
+  {
+    "codLocalidadeTse": 58998,
+    "codObjeto": "7068",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SÃO JOÃO DA BARRA"
+  },
+  {
+    "codLocalidadeTse": 59013,
+    "codObjeto": "7069",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SÃO JOÃO DE MERITI"
+  },
+  {
+    "codLocalidadeTse": 59030,
+    "codObjeto": "7078",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SÃO PEDRO DA ALDEIA"
+  },
+  {
+    "codLocalidadeTse": 59056,
+    "codObjeto": "7080",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "SÃO SEBASTIÃO DO ALTO"
+  },
+  {
+    "codLocalidadeTse": 58360,
+    "codObjeto": "7099",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "TANGUÁ"
+  },
+  {
+    "codLocalidadeTse": 59153,
+    "codObjeto": "7102",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "TERESÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 59170,
+    "codObjeto": "7104",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "TRAJANO DE MORAES"
+  },
+  {
+    "codLocalidadeTse": 59196,
+    "codObjeto": "7107",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "TRÊS RIOS"
+  },
+  {
+    "codLocalidadeTse": 59218,
+    "codObjeto": "7110",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "VALENÇA"
+  },
+  {
+    "codLocalidadeTse": 58084,
+    "codObjeto": "7112",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "VARRE-SAI"
+  },
+  {
+    "codLocalidadeTse": 59234,
+    "codObjeto": "7113",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "VASSOURAS"
+  },
+  {
+    "codLocalidadeTse": 59250,
+    "codObjeto": "7121",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "3",
+      "codObjetoMunicCapital": "7043",
+      "codUf": 3,
+      "nomUf": "RIO DE JANEIRO",
+      "sglUf": "RJ"
+    },
+    "nomLocalidade": "VOLTA REDONDA"
+  }
+]

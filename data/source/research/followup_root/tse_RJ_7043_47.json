@@ -1,0 +1,70 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "PT",
+  "id": 47,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=47&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 48943,
+      "response_sha256": "cf950d620b71baf3d78a92cff810d1f3ea5b900b21a971af692d2016472f9bca",
+      "retrieved_utc": "2026-09-10T23:43:57Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=47&currentPage=1&pageSize=10000",
+      "records": 10000,
+      "totalElements": 48943,
+      "response_sha256": "c3225bb8b53a4620e1f701d888929191b382fbc7dd0a34204fbfd006d303988c",
+      "retrieved_utc": "2026-09-10T23:44:16Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=47&currentPage=2&pageSize=10000",
+      "records": 10000,
+      "totalElements": 48943,
+      "response_sha256": "44bac75e6f3b2e19b9d5f721818b3a8a81dae3f68ac10488be64aba64826579c",
+      "retrieved_utc": "2026-09-10T23:44:36Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=47&currentPage=3&pageSize=10000",
+      "records": 10000,
+      "totalElements": 48943,
+      "response_sha256": "31fce323b7edcaa39eca2a616aa98f544fa02b614b462e96f44cc10ee6e0895d",
+      "retrieved_utc": "2026-09-10T23:44:53Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=47&currentPage=4&pageSize=10000",
+      "records": 8943,
+      "totalElements": 48943,
+      "response_sha256": "5bd877ba67edc136dd5660f373efb1acb632fc30a2338ef3c67db57ab86158b4",
+      "retrieved_utc": "2026-09-10T23:45:15Z"
+    }
+  ],
+  "matches": [
+    {
+      "sqRegistroFiliacao": 36835824,
+      "cdMotivoCancelamento": null,
+      "cdMotivoDesfiliacao": null,
+      "desSituacaoEleitor": "REGULAR",
+      "dtCancelamento": null,
+      "dtDesfiliacao": null,
+      "dtExclusao": null,
+      "dtFiliacao": [
+        2011,
+        3,
+        29
+      ],
+      "tsCadastroDesfiliacao": null,
+      "nmEleitor": "WALLACE NUNES DA SILVA",
+      "nomLocalidade": "RIO DE JANEIRO",
+      "sgPartido": "PT",
+      "sgUe": "RJ",
+      "stRegistroFiliacao": 1,
+      "tpSexo": 2,
+      "indPendencia": 0,
+      "indOrigem": 0,
+      "public_registry_identity_sha256": "76c6ad45176a41fcc1fc6695bbd5212c13d0ad814fd6669553c6ea08f7720f86"
+    }
+  ]
+}

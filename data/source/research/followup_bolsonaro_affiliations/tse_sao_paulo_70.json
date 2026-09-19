@@ -1,0 +1,28 @@
+{
+  "party": "PDT",
+  "id": 70,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 22791,
+      "response_sha256": "75362eb5b60c307fbcd993f9f5a077ec9ea5925fac92bc162550cbe1b40bf3ae",
+      "retrieved_utc": "2026-09-10T23:45:08Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=70&currentPage=1&pageSize=10000",
+      "records": 10000,
+      "totalElements": 22791,
+      "response_sha256": "02904f9b00d3efa6a6bb62126728e1fff3685094bac3278de46701d994369ff4",
+      "retrieved_utc": "2026-09-10T23:45:30Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=70&currentPage=2&pageSize=10000",
+      "records": 2791,
+      "totalElements": 22791,
+      "response_sha256": "aa4cfe6da89e816a96893898a5c6965ae9c1f87f14303af516b3cab8a69fd982",
+      "retrieved_utc": "2026-09-10T23:45:36Z"
+    }
+  ],
+  "matches": []
+}

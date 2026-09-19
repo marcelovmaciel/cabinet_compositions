@@ -1,0 +1,14 @@
+{
+  "party": "UNIÃO",
+  "id": 72,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=72&currentPage=0&pageSize=10000",
+      "records": 1056,
+      "totalElements": 1056,
+      "response_sha256": "4e6b5c056f3155ac06cbcc611e111501cf3b0b6fa64bc65895dbfd29ffbb8932",
+      "retrieved_utc": "2026-09-11T00:08:44Z"
+    }
+  ],
+  "matches": []
+}

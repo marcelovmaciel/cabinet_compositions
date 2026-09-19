@@ -1,0 +1,17 @@
+{
+  "party": "AGIR",
+  "id": 57,
+  "uf": "RS",
+  "municipio": "8067",
+  "city": "Sananduva",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 1,
+      "totalElements": 1,
+      "response_sha256": "88611e64c743464bab953d339b30cc4910066e8cb236e2e512ef8c9c069e8ee1",
+      "retrieved_utc": "2026-09-10T23:37:49Z"
+    }
+  ],
+  "matches": []
+}

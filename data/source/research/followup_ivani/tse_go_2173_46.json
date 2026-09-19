@@ -1,0 +1,16 @@
+{
+  "party": "CIDADANIA",
+  "id": 46,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 1803,
+      "totalElements": 1803,
+      "response_sha256": "b17eba1333aadc3acc70c6b1b47f5c9509c93c726bda4ce85a216aef0d49c9f0",
+      "retrieved_utc": "2026-09-10T23:36:04Z"
+    }
+  ],
+  "matches": []
+}

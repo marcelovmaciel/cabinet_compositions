@@ -1,0 +1,16 @@
+{
+  "party": "CIDADANIA",
+  "id": 46,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 783,
+      "totalElements": 783,
+      "response_sha256": "a35bf37e346547fe16e849294ea3c0eefe728dcb33c636e559c65c8385f9b0e5",
+      "retrieved_utc": "2026-09-10T23:35:29Z"
+    }
+  ],
+  "matches": []
+}

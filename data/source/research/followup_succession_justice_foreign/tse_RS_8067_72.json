@@ -1,0 +1,17 @@
+{
+  "party": "UNIÃO",
+  "id": 72,
+  "uf": "RS",
+  "municipio": "8067",
+  "city": "Sananduva",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=72&currentPage=0&pageSize=10000",
+      "records": 59,
+      "totalElements": 59,
+      "response_sha256": "663005df9053b6773cbda37f15976e292b13ea45016b6e62f141e4c6ed94cf06",
+      "retrieved_utc": "2026-09-10T23:37:57Z"
+    }
+  ],
+  "matches": []
+}

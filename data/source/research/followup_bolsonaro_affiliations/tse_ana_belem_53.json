@@ -1,0 +1,14 @@
+{
+  "party": "PSD",
+  "id": 53,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=53&currentPage=0&pageSize=10000",
+      "records": 545,
+      "totalElements": 545,
+      "response_sha256": "20fc459dc4c2c29adf0f0bb6750ec14aa20fa7397f579c365e1047d2fbfb6d9e",
+      "retrieved_utc": "2026-09-10T23:49:02Z"
+    }
+  ],
+  "matches": []
+}

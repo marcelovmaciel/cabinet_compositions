@@ -1,0 +1,16 @@
+{
+  "party": "PCB",
+  "id": 68,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=68&currentPage=0&pageSize=10000",
+      "records": 35,
+      "totalElements": 35,
+      "response_sha256": "9e4a92073d9bb4e2934b54b4c088c841d6e839780318edc17654ca78511e42f9",
+      "retrieved_utc": "2026-09-10T23:36:07Z"
+    }
+  ],
+  "matches": []
+}

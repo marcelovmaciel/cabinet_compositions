@@ -1,0 +1,852 @@
+[
+  {
+    "case_id": "R14",
+    "person": "Marcos Pontes",
+    "disposition": "selected_contemporaneous_affiliations",
+    "evidence_ids": [
+      "AFF-012",
+      "AFF-044",
+      "BOL-E10",
+      "BOL-E22"
+    ],
+    "source_urls": [
+      "https://www.diariodepernambuco.com.br/noticia/politica/2018/11/proximos-cinco-dias-sao-decisivos-para-jair-bolsonaro-definir-ministro.html",
+      "https://www.poder360.com.br/governo/bolsonaro-nomeia-ministros-substitutos-para-9-ministerios/"
+    ],
+    "rationale": "PSL persists after Bolsonaro political departure; organizational merger and subsequent personal PL entry are distinct events.",
+    "affiliation_segments": [
+      {
+        "start": "2019-01-01",
+        "end": "2022-02-08",
+        "state": "PARTY",
+        "party_id": "PSL",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      },
+      {
+        "start": "2022-02-08",
+        "end": "2022-03-27",
+        "state": "PARTY",
+        "party_id": "UNIAO",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      },
+      {
+        "start": "2022-03-27",
+        "end": "2023-01-01",
+        "state": "PARTY",
+        "party_id": "PL",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [
+      {
+        "person": "Marcos Pontes",
+        "office": "Ciência, Tecnologia e Inovações",
+        "operation": "set_end",
+        "end": "2022-03-31",
+        "date_status": "adjudicated_effective_publication_and_entry",
+        "rationale": "March30 signature published March31 with no retroactive clause; contemporary actual possession supports March31 daily-close succession."
+      }
+    ],
+    "rejected_alternatives": [
+      "PSL ending in 2020 has no personal-departure evidence.",
+      "Full tenure PL back-projection rejected."
+    ],
+    "remaining_limitation": ""
+  },
+  {
+    "case_id": "R15",
+    "person": "Ricardo Salles",
+    "disposition": "adjudicated_suspension_and_expulsion",
+    "evidence_ids": [
+      "AFF-020",
+      "AFF-021",
+      "AFF-023",
+      "AFF-054",
+      "BOL-E03",
+      "BOL-E04",
+      "BOL-E05",
+      "BOL-E06",
+      "BOL-E23"
+    ],
+    "source_urls": [
+      "https://static.poder360.com.br/2023/09/Estatuo-Partido-Novo.pdf",
+      "https://novo.org.br/noticias/nota-do-novo-sobre-a-decisao-da-cep-de-expulsao-de-ricardo-salles/",
+      "https://exame.com/brasil/ricardo-salles-diz-que-foi-expulso-do-partido-novo/",
+      "https://www1.folha.uol.com.br/ambiente/2021/06/gestao-salles-teve-desmate-e-queimada-recordes-fim-do-fundo-amazonia-e-ataques-a-ongs.shtml",
+      "https://novo.org.br/wp-content/uploads/2025/02/estatuto-do-NOVO.pdf"
+    ],
+    "rationale": "Retain formal membership during suspension of affiliate rights from2019-10-31 under art21III/§2. End NOVO on notified expulsion May7 under art21VII. Art23V requires express stay; targeted research found no filed appeal or granted stay; later accounts confirm completed expulsion. Public description and governing rule support primary decision without claiming cancellation-register verification.",
+    "affiliation_segments": [
+      {
+        "start": "2019-01-01",
+        "end": "2020-05-07",
+        "state": "PARTY",
+        "party_id": "NOVO",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "adjudicated_formal_status",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      },
+      {
+        "start": "2020-05-07",
+        "end": "2021-06-23",
+        "state": "UNAFFILIATED",
+        "party_id": "",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "adjudicated_formal_status",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [
+      {
+        "person": "Ricardo Salles",
+        "office": "Meio Ambiente",
+        "operation": "set_end",
+        "end": "2021-06-23",
+        "date_status": "inherited_effective_succession"
+      }
+    ],
+    "rejected_alternatives": [
+      "2019-10-31 cancellation confuses suspension of rights with expulsion.",
+      "NOVO through2021 service end contradicted by notified expulsion and later report.",
+      "Automatic suspensive appeal rejected: statute makes it conditional."
+    ],
+    "remaining_limitation": "No individual cancellation register or confidential appeal file retrieved; formal-effect point is adjudicated."
+  },
+  {
+    "case_id": "R16",
+    "person": "Rogério Marinho",
+    "disposition": "bounded_date_convention",
+    "evidence_ids": [
+      "AFF-024",
+      "AFF-025",
+      "BOL-E12",
+      "BOL-E13"
+    ],
+    "source_urls": [
+      "https://www.cnnbrasil.com.br/politica/ministro-de-bolsonaro-marinho-deixa-o-psdb/",
+      "https://blog.tribunadonorte.com.br/territoriolivre/pequenas-notas-de-domingo-da-roda-viva-2/"
+    ],
+    "rationale": "PSDB at entry. CNN report explicitly places exit earlier than June19 and reproduces personal confirmation; broad lower bound remains day after supported entry because a contemporaneous local column says March. Use latest admissible June18, not reporting day, as uniform convention; do not claim exact duration.",
+    "affiliation_segments": [
+      {
+        "start": "2020-02-11",
+        "end": "2020-06-18",
+        "state": "PARTY",
+        "party_id": "PSDB",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "bounded_date_convention",
+        "earliest": "2020-02-12",
+        "latest": "2020-06-18",
+        "alternatives": [
+          "PSDB",
+          "UNAFFILIATED"
+        ]
+      },
+      {
+        "start": "2020-06-18",
+        "end": "2021-11-30",
+        "state": "UNAFFILIATED",
+        "party_id": "",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "bounded_date_convention",
+        "earliest": "2020-02-12",
+        "latest": "2020-06-18",
+        "alternatives": [
+          "PSDB",
+          "UNAFFILIATED"
+        ]
+      },
+      {
+        "start": "2021-11-30",
+        "end": "2023-01-01",
+        "state": "PARTY",
+        "party_id": "PL",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [
+      {
+        "person": "Rogério Marinho",
+        "office": "Desenvolvimento Regional",
+        "operation": "set_end",
+        "end": "2022-03-31",
+        "date_status": "adjudicated_effective_publication_and_entry",
+        "rationale": "March30 signature published March31 with no retroactive clause; contemporary actual possession supports March31 daily-close succession."
+      }
+    ],
+    "rejected_alternatives": [
+      "2021 PSDB continuity contradicted by2020 departure.",
+      "June19 exact event rejected; announcement says earlier."
+    ],
+    "remaining_limitation": "Full date sensitivity over every admissible day and intervening events required."
+  },
+  {
+    "case_id": "R17",
+    "person": "Damares Alves",
+    "disposition": "bounded_date_convention_conflict_resolved",
+    "evidence_ids": [
+      "AFF-013",
+      "AFF-014",
+      "AFF-015",
+      "AFF-055",
+      "AFF-056",
+      "BOL-E01",
+      "BOL-E02",
+      "BOL-E18"
+    ],
+    "source_urls": [
+      "https://tribunaonline.com.br/coluna/coluna-do-estadao/guedes-vira-antitese-de-moro-e-de-mandetta-79234",
+      "https://www1.folha.uol.com.br/amp/poder/2020/10/bolsonaro-planeja-disputa-de-2022-com-outro-vice-e-eleicao-no-rs-pode-ser-saida-para-mourao.shtml",
+      "https://static.poder360.com.br/2022/03/dou-familia-31mar2022.pdf"
+    ],
+    "rationale": "Contemporary September2020 completed-departure account and October corroboration outweigh January2022 retrospective2021 year and stale PP roster. Last supported PP observation August26 gives lower August27; September20 report says recent earlier exit, giving latest September19. Choose latter by declared convention; no-party until Republicanos joining.",
+    "affiliation_segments": [
+      {
+        "start": "2019-01-01",
+        "end": "2020-09-19",
+        "state": "PARTY",
+        "party_id": "PP",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "bounded_date_convention",
+        "earliest": "2020-08-27",
+        "latest": "2020-09-19",
+        "alternatives": [
+          "PP",
+          "UNAFFILIATED"
+        ]
+      },
+      {
+        "start": "2020-09-19",
+        "end": "2022-03-28",
+        "state": "UNAFFILIATED",
+        "party_id": "",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "bounded_date_convention",
+        "earliest": "2020-08-27",
+        "latest": "2020-09-19",
+        "alternatives": [
+          "PP",
+          "UNAFFILIATED"
+        ]
+      },
+      {
+        "start": "2022-03-28",
+        "end": "2023-01-01",
+        "state": "PARTY",
+        "party_id": "REPUBLICANOS",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [
+      {
+        "person": "Damares Alves",
+        "office": "Mulher, Família e Direitos Humanos",
+        "operation": "set_end",
+        "end": "2022-03-31",
+        "date_status": "adjudicated_effective_publication_and_entry",
+        "rationale": "March30 signature published March31 with no retroactive clause; contemporary actual possession supports March31 daily-close succession."
+      }
+    ],
+    "rejected_alternatives": [
+      "2021 departure year rejected by stronger contemporaneous2020 observation.",
+      "Full-tenure PP rejected."
+    ],
+    "remaining_limitation": "Effective exit day remains convention-coded; sensitivity within August27–September19."
+  },
+  {
+    "case_id": "R18",
+    "person": "Tarcísio de Freitas",
+    "disposition": "selected_contemporaneous_affiliation",
+    "evidence_ids": [
+      "AFF-015",
+      "AFF-016",
+      "BOL-E19"
+    ],
+    "source_urls": [
+      "https://static.poder360.com.br/2022/03/dou-insfraestrutura-31mar2022.pdf"
+    ],
+    "rationale": "Historical no-prior-affiliation statement supports unaffiliated status until actual March28 Republicanos joining. March30 decree signature is not the departure day; publication/actual succession March31.",
+    "affiliation_segments": [
+      {
+        "start": "2019-01-01",
+        "end": "2022-03-28",
+        "state": "UNAFFILIATED",
+        "party_id": "",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      },
+      {
+        "start": "2022-03-28",
+        "end": "2023-01-01",
+        "state": "PARTY",
+        "party_id": "REPUBLICANOS",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [
+      {
+        "person": "Tarcísio de Freitas",
+        "office": "Infraestrutura",
+        "operation": "set_end",
+        "end": "2022-03-31",
+        "date_status": "adjudicated_effective_publication_and_entry",
+        "rationale": "March30 signature published March31 with no retroactive clause; contemporary actual possession supports March31 daily-close succession."
+      }
+    ],
+    "rejected_alternatives": [
+      "Republicanos back-projected to2019 rejected."
+    ],
+    "remaining_limitation": ""
+  },
+  {
+    "case_id": "R19",
+    "person": "Anderson Torres",
+    "disposition": "adjudicated_no_party",
+    "evidence_ids": [
+      "AFF-017",
+      "AFF-018",
+      "AFF-019",
+      "OFF-051"
+    ],
+    "source_urls": [],
+    "rationale": "May2021 personal denial directly addresses false PSL attribution; January2023 never-affiliated statement explicitly covers prior tenure; official Senate testimony corroborates no União membership. Specific denial beats ungrounded roster labels.",
+    "affiliation_segments": [
+      {
+        "start": "2021-03-30",
+        "end": "2023-01-01",
+        "state": "UNAFFILIATED",
+        "party_id": "",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "adjudicated_conflict_resolution",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [
+      {
+        "person": "Anderson Torres",
+        "office": "Justiça e Segurança Pública",
+        "operation": "set_start",
+        "start": "2021-03-30",
+        "date_status": "adjudicated_actual_entry",
+        "rationale": "Preserved Reuters reports actual closed possession March30; March29 appointment and April6 public ceremony are separate."
+      }
+    ],
+    "rejected_alternatives": [
+      "PSL/UNIAO political association and inherited roster labels rejected."
+    ],
+    "remaining_limitation": ""
+  },
+  {
+    "case_id": "R20",
+    "person": "Augusto Heleno",
+    "disposition": "adjudicated_no_party_continuity",
+    "evidence_ids": [
+      "AFF-010",
+      "AFF-011",
+      "LEG-ba6b7e4f1910",
+      "BOL-E09",
+      "BOL-E10",
+      "BOL-E11"
+    ],
+    "source_urls": [
+      "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/07/18/general-diz-que-vai-se-desfiliar-de-partido.htm",
+      "https://www.diariodepernambuco.com.br/noticia/politica/2018/11/proximos-cinco-dias-sao-decisivos-para-jair-bolsonaro-definir-ministro.html",
+      "https://www.diariodocentrodomundo.com.br/essencial/bolsonaro-rifa-weintraub-e-quer-heleno-senador-e-tarcisio-governador-em-2022/"
+    ],
+    "rationale": "2018 withdrawal announcement followed by express incoming no-party roster establishes completed exit by cabinet entry.2021 contemporaneous no-party quotation corroborates continuity. Targeted rejoining search found no dated event. Later biography organizational-chain labels have no rejoining date and conflict with these personal-status observations; reject mechanical PRP incorporation.",
+    "affiliation_segments": [
+      {
+        "start": "2019-01-01",
+        "end": "2023-01-01",
+        "state": "UNAFFILIATED",
+        "party_id": "",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "adjudicated_conflict_resolution",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [],
+    "rejected_alternatives": [
+      "PATRIOTA/PRD from old PRP membership rejected; organization succession cannot restore departed membership."
+    ],
+    "remaining_limitation": "No later formal register retrieved; no-party history uses explicit continuity and conflicts remain recorded."
+  },
+  {
+    "case_id": "R21",
+    "person": "Fábio Faria",
+    "disposition": "selected_party_change",
+    "evidence_ids": [
+      "AFF-026"
+    ],
+    "source_urls": [],
+    "rationale": "Party itself reports official PP joining onMarch24; use personal membership, separately from portfolio sponsorship.",
+    "affiliation_segments": [
+      {
+        "start": "2020-06-17",
+        "end": "2022-03-24",
+        "state": "PARTY",
+        "party_id": "PSD",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      },
+      {
+        "start": "2022-03-24",
+        "end": "2023-01-01",
+        "state": "PARTY",
+        "party_id": "PP",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [],
+    "rejected_alternatives": [
+      "Full-tenure PSD rejected."
+    ],
+    "remaining_limitation": ""
+  },
+  {
+    "case_id": "R22",
+    "person": "Flávia Arruda",
+    "disposition": "effective_entry_adjudicated",
+    "evidence_ids": [
+      "OFF-026",
+      "OFF-027",
+      "OFF-028"
+    ],
+    "source_urls": [],
+    "rationale": "Official Chamber leave and executive management records support actual entry March31. April6 is public ceremony and March20 is unsupported.",
+    "affiliation_segments": [
+      {
+        "start": "2021-03-31",
+        "end": "2023-01-01",
+        "state": "PARTY",
+        "party_id": "PL",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [
+      {
+        "person": "Flávia Arruda",
+        "office": "Secretaria de Governo",
+        "operation": "set_start",
+        "start": "2021-03-31",
+        "date_status": "evidence_supported"
+      },
+      {
+        "person": "Flávia Arruda",
+        "office": "Secretaria de Governo",
+        "operation": "set_end",
+        "end": "2022-03-31",
+        "date_status": "adjudicated_effective_publication_and_entry",
+        "rationale": "March30 signature published March31 with no retroactive clause; contemporary actual possession supports March31 daily-close succession."
+      }
+    ],
+    "rejected_alternatives": [
+      "March20 start rejected.",
+      "April6 ceremony-only start rejected."
+    ],
+    "remaining_limitation": ""
+  },
+  {
+    "case_id": "R23",
+    "person": "João Roma",
+    "disposition": "selected_party_change",
+    "evidence_ids": [
+      "AFF-012",
+      "BOL-E22"
+    ],
+    "source_urls": [
+      "https://www.poder360.com.br/governo/bolsonaro-nomeia-ministros-substitutos-para-9-ministerios/"
+    ],
+    "rationale": "Completed March27 PL affiliation ends personal Republicanos contribution that day. Any aggregate gap must be determined from all other witnesses, not overlapping inclusive dates.",
+    "affiliation_segments": [
+      {
+        "start": "2021-02-12",
+        "end": "2022-03-27",
+        "state": "PARTY",
+        "party_id": "REPUBLICANOS",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      },
+      {
+        "start": "2022-03-27",
+        "end": "2023-01-01",
+        "state": "PARTY",
+        "party_id": "PL",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [
+      {
+        "person": "João Roma",
+        "office": "Cidadania",
+        "operation": "set_end",
+        "end": "2022-03-31",
+        "date_status": "adjudicated_effective_publication_and_entry",
+        "rationale": "March30 signature published March31 with no retroactive clause; contemporary actual possession supports March31 daily-close succession."
+      }
+    ],
+    "rejected_alternatives": [],
+    "remaining_limitation": ""
+  },
+  {
+    "case_id": "R24",
+    "person": "Gilson Machado Neto",
+    "disposition": "selected_party_change",
+    "evidence_ids": [
+      "AFF-032",
+      "BOL-E20"
+    ],
+    "source_urls": [
+      "https://static.poder360.com.br/2022/03/dou-turismo-31mar2022.pdf"
+    ],
+    "rationale": "PSC at ministerial entry from inherited direct assertion, PL signing March30 evening. March31 published dismissal makes March30 observed PL cabinet service under close-of-day convention.",
+    "affiliation_segments": [
+      {
+        "start": "2020-12-09",
+        "end": "2022-03-30",
+        "state": "PARTY",
+        "party_id": "PSC",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      },
+      {
+        "start": "2022-03-30",
+        "end": "2023-01-01",
+        "state": "PARTY",
+        "party_id": "PL",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [
+      {
+        "person": "Gilson Machado Neto",
+        "office": "Turismo",
+        "operation": "set_end",
+        "end": "2022-03-31",
+        "date_status": "adjudicated_effective_publication_and_entry",
+        "rationale": "March30 signature published March31 with no retroactive clause; contemporary actual possession supports March31 daily-close succession."
+      }
+    ],
+    "rejected_alternatives": [
+      "Atlas whole tenure no-party rejected."
+    ],
+    "remaining_limitation": ""
+  },
+  {
+    "case_id": "R25",
+    "person": "Marcos Montes",
+    "disposition": "selected_affiliation_and_entry",
+    "evidence_ids": [
+      "LEG-342db9e7f38f",
+      "BOL-E17",
+      "BOL-E21"
+    ],
+    "source_urls": [
+      "https://static.poder360.com.br/2022/03/dou-agricultura-31mar2022.pdf",
+      "https://www.gov.br/agricultura/pt-br/acesso-a-informacao/agendas/secretaria-executiva/agenda-do-secretario-executivo/2022-03-31"
+    ],
+    "rationale": "Contemporaneous April roster labels PSD, supported by political history. Published decree and actual possession support March31 entry.",
+    "affiliation_segments": [
+      {
+        "start": "2022-03-31",
+        "end": "2023-01-01",
+        "state": "PARTY",
+        "party_id": "PSD",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [
+      {
+        "person": "Marcos Montes",
+        "office": "Agricultura",
+        "operation": "set_start",
+        "start": "2022-03-31",
+        "date_status": "evidence_supported"
+      }
+    ],
+    "rejected_alternatives": [],
+    "remaining_limitation": ""
+  },
+  {
+    "case_id": "R25",
+    "person": "Cristiane Britto",
+    "disposition": "selected_affiliation_and_entry",
+    "evidence_ids": [
+      "LEG-8c8c4650eaeb",
+      "BOL-E18",
+      "BOL-E22"
+    ],
+    "source_urls": [
+      "https://static.poder360.com.br/2022/03/dou-familia-31mar2022.pdf",
+      "https://www.poder360.com.br/governo/bolsonaro-nomeia-ministros-substitutos-para-9-ministerios/"
+    ],
+    "rationale": "Contemporaneous incoming profile explicitly Republicanos. March30 signature versus March31 publication/possession resolved using effective daily succession March31.",
+    "affiliation_segments": [
+      {
+        "start": "2022-03-31",
+        "end": "2023-01-01",
+        "state": "PARTY",
+        "party_id": "REPUBLICANOS",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [
+      {
+        "person": "Cristiane Britto",
+        "office": "Mulher, Família e Direitos Humanos",
+        "operation": "set_start",
+        "start": "2022-03-31",
+        "date_status": "adjudicated_effective_entry"
+      }
+    ],
+    "rejected_alternatives": [],
+    "remaining_limitation": ""
+  },
+  {
+    "case_id": "R26",
+    "person": "Adolfo Sachsida",
+    "disposition": "adjudicated_positive_continuity",
+    "evidence_ids": [
+      "LEG-5b2c802041f5",
+      "AFF-044",
+      "BOL-E07",
+      "BOL-E08"
+    ],
+    "source_urls": [
+      "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2017/11/07/um-conselheiro-de-jair-bolsonaro.htm",
+      "https://www.teoriaepesquisa.ufscar.br/index.php/tp/article/download/1033/653/2612"
+    ],
+    "rationale": "Directly retrieved contemporary2017 interview expressly asserts DEM membership, independently of old candidacy. Targeted searches for departure, disaffiliation, affiliation, União, PL and no-party status did not find a documented personal change through2022. Apply policy-authorized forward continuity through dated DEM/PSL merger. Reject Atlas no-party label as an unproven compilation conflict, not a dated cancellation. Later academic DEM label is not counted as independent evidence; baseline UNIAO is an adjudication under continuity, not an entry-day certificate.",
+    "affiliation_segments": [
+      {
+        "start": "2022-05-11",
+        "end": "2023-01-01",
+        "state": "PARTY",
+        "party_id": "UNIAO",
+        "support": "explicit historical DEM membership plus targeted-search continuity through merger",
+        "date_status": "adjudicated_continuity",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [],
+    "rejected_alternatives": [
+      "Atlas unaffiliated not selected because no documentary cancellation or dated no-party assertion supports it.",
+      "Literal DEM in2022 rejected because organization ceased2022-02-08."
+    ],
+    "remaining_limitation": "2022 contemporaneous membership not directly verified. Atlas rival remains preserved, but is not established as an exhaustive alternative history."
+  },
+  {
+    "case_id": "BOL-A01",
+    "person": "Tereza Cristina",
+    "disposition": "bounded_change_aggregate_masking",
+    "evidence_ids": [
+      "AFF-028",
+      "AFF-029",
+      "AFF-030",
+      "AFF-044",
+      "BOL-E14",
+      "BOL-E15",
+      "BOL-E16"
+    ],
+    "source_urls": [
+      "https://www.douranews.com.br/politica/bolsonaro-vem-receber-tereza/162779/",
+      "https://www.gp1.com.br/politica/noticia/2022/3/3/ministra-tereza-cristina-troca-uniao-brasil-pelo-progressistas-520864.html",
+      "https://www.campograndenews.com.br/politica/tereza-cristina-oficializa-saida-de-ministerio-para-concorrer-ao-senado-por-ms"
+    ],
+    "rationale": "Douranews directly reports completed membership byMarch4 and separates later ceremony; contemporary March31 report explicitly confirms ceremony remained unheld. Give actual-status report priority over future ceremony plans. Choose latest March4 within documented March change bound beginningMarch1. Pontes provides União untilMarch27 and Ciro PP, so this bounded personal event should be aggregate-masked where those witnesses exist.",
+    "affiliation_segments": [
+      {
+        "start": "2019-01-01",
+        "end": "2022-02-08",
+        "state": "PARTY",
+        "party_id": "DEM",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      },
+      {
+        "start": "2022-02-08",
+        "end": "2022-03-04",
+        "state": "PARTY",
+        "party_id": "UNIAO",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "bounded_date_convention",
+        "earliest": "2022-03-01",
+        "latest": "2022-03-04",
+        "alternatives": [
+          "UNIAO",
+          "PP"
+        ]
+      },
+      {
+        "start": "2022-03-04",
+        "end": "2023-01-01",
+        "state": "PARTY",
+        "party_id": "PP",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "bounded_date_convention",
+        "earliest": "2022-03-01",
+        "latest": "2022-03-04",
+        "alternatives": [
+          "UNIAO",
+          "PP"
+        ]
+      }
+    ],
+    "service_changes": [
+      {
+        "person": "Tereza Cristina",
+        "office": "Agricultura",
+        "operation": "set_end",
+        "end": "2022-03-31",
+        "date_status": "adjudicated_effective_publication_and_entry",
+        "rationale": "March30 signature published March31 with no retroactive clause; contemporary actual possession supports March31 daily-close succession."
+      }
+    ],
+    "rejected_alternatives": [
+      "Planned March20 ceremony as verified affiliation date rejected."
+    ],
+    "remaining_limitation": "Individual effective day is not directly verified; retain source tense conflict and demonstrate aggregate masking."
+  },
+  {
+    "case_id": "BOL-A02",
+    "person": "Luiz Eduardo Ramos",
+    "disposition": "forward_no_party_continuity",
+    "evidence_ids": [
+      "LEG-ce9aa704d046"
+    ],
+    "source_urls": [],
+    "rationale": "Inherited original-entry table explicitly nonparty and documented applicable active-service status corroborate June2019 state. Portfolio transfers do not reset personal history; targeted changes search found no dated affiliation. Retain no-party forward after retirement by continuity, not by military prohibition.",
+    "affiliation_segments": [
+      {
+        "start": "2019-06-13",
+        "end": "2023-01-01",
+        "state": "UNAFFILIATED",
+        "party_id": "",
+        "support": "explicit2019 no-party observation plus forward continuity across offices",
+        "date_status": "adjudicated_continuity",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [],
+    "rejected_alternatives": [
+      "Unknown merely because a later portfolio lacks new affiliation citation rejected under continuity rule."
+    ],
+    "remaining_limitation": ""
+  },
+  {
+    "case_id": "BOL-A03",
+    "person": "Roberto Campos Neto",
+    "disposition": "include_scoped_nonparty_service",
+    "evidence_ids": [
+      "OFF-019",
+      "OFF-020",
+      "OFF-021",
+      "OFF-022",
+      "BOL-E10"
+    ],
+    "source_urls": [
+      "https://www.diariodepernambuco.com.br/noticia/politica/2018/11/proximos-cinco-dias-sao-decisivos-para-jair-bolsonaro-definir-ministro.html"
+    ],
+    "rationale": "Explicit incoming no-party roster supports status, continued after targeted search. Include BCB President only until LC179 effective2021-02-25; office eligibility ending is not personal dismissal.",
+    "affiliation_segments": [
+      {
+        "start": "2019-02-28",
+        "end": "2021-02-25",
+        "state": "UNAFFILIATED",
+        "party_id": "",
+        "support": "dated assertion plus targeted-search continuity",
+        "date_status": "evidence_supported",
+        "earliest": "",
+        "latest": "",
+        "alternatives": []
+      }
+    ],
+    "service_changes": [
+      {
+        "person": "Roberto Campos Neto",
+        "office": "Banco Central",
+        "operation": "scope_interval",
+        "start": "2019-02-28",
+        "end": "2021-02-25",
+        "date_status": "dated_legal_scope"
+      }
+    ],
+    "rejected_alternatives": [],
+    "remaining_limitation": ""
+  }
+]

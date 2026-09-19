@@ -1,0 +1,17 @@
+{
+  "party": "AGIR",
+  "id": 57,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 321,
+      "totalElements": 321,
+      "response_sha256": "e169fa7a1dd9fb67758bd8ac2b781cde3f5b3a7b83a760c623eff8e2be1e2111",
+      "retrieved_utc": "2026-09-10T23:37:58Z"
+    }
+  ],
+  "matches": []
+}

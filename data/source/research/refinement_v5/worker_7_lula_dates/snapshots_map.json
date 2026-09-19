@@ -1,0 +1,477 @@
+[
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/ana_20251115_week_recap.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/ana_20251115_week_recap.html",
+    "sha256": "fede7a249c4505a45d17c9bf3bc5f45d351314ee15ab49b5af3091e5ac1a3b3b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/ana_20251115_week_recap.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/ana_20251115_week_recap.txt",
+    "sha256": "5899d8839f35a6662a0e9ad5fd34deb0dcebde3471b4ce70c246bd5bfb868c31"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20231206_reviewed_dispatches.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20231206_reviewed_dispatches.txt",
+    "sha256": "0ee8c33ab4284a267933517ad04ef09713fc42c9efe25c6eeeb6b1ae7e7bce30"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20231207_reviewed_dispatches.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20231207_reviewed_dispatches.txt",
+    "sha256": "7044799e09ef9b1aae7bbcebe0dc7dd6d1e24de1ba042dd05f103eef1c0296db"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20231208_reviewed_dispatches.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20231208_reviewed_dispatches.txt",
+    "sha256": "34b56d921b70b087664c4ab415769d1c638d5567452c5484bd5f0c79b7642a32"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20231209_reviewed_dispatches.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20231209_reviewed_dispatches.txt",
+    "sha256": "d2478b7db6fe7bdc3c4f265734d98e58e85bcb96196d8286f1505256189e2c4d"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20231212_reviewed_dispatches.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20231212_reviewed_dispatches.txt",
+    "sha256": "06cef5dd2fd8147108f9c9deb0c63531df41fc0525a77d24b1a02d31e5c0bae7"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20231213_reviewed_dispatches.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20231213_reviewed_dispatches.txt",
+    "sha256": "9c801fccbe3a83d920e87a2c4ad4dab26a0b0f9d417d9a7c25cdd93e51c05e4c"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20231214_reviewed_dispatches.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20231214_reviewed_dispatches.txt",
+    "sha256": "740382fa90b1a5cf1a1e8a9a7f813b69d05f81031d5ae1b5dcb180f59376382d"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20231215_index.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20231215_index.html",
+    "sha256": "8d7dc849578b68c4a7ef4a67238b0c525c0f9f069fcbded87d6acb0bc9986d41"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20231215_reviewed_dispatches.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20231215_reviewed_dispatches.txt",
+    "sha256": "8acff9be5e95b9f5f3cef47096aed592ee45f1b30dd1d230bb3451890c2e44fe"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20231216_index.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20231216_index.html",
+    "sha256": "fbeab5922a54faa40bb9d38ee73d2f7d372a3aef915de06eddbd8e192ce86f61"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20231216_reviewed_dispatches.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20231216_reviewed_dispatches.txt",
+    "sha256": "db7bd013e20d7c58bbf0a27b2ca35ffac82ff2d29001dbda50261d818c5a0285"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20251118_index.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20251118_index.html",
+    "sha256": "8e255128377f1e096772ba896aa27accb6d553601ee22992aa2197941dedb4a6"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20251118_p14.ocr.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20251118_p14.ocr.txt",
+    "sha256": "0495a55166421a6d29fc3fc99b61c34cd3b7417d94d0e7214b88a916fed635dc"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20251118_p14.png",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20251118_p14.png",
+    "sha256": "cbbdbbd59eaf1c9742e9b648ed4c3c1c18c96bd28357638b5a4865b19997310f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20251118_reviewed_dispatches.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20251118_reviewed_dispatches.txt",
+    "sha256": "bef78c4a43f2ca70c7b3ed636246660a4b0fb8835055680aabc7c8927759325d"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20251119_index.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20251119_index.html",
+    "sha256": "7c767cfcb9c2fb934f1a15ac705d07c599c6dbf3e813f27b6d6f8b87a7e70b88"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20251119_reviewed_dispatches.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20251119_reviewed_dispatches.txt",
+    "sha256": "bb68c263793f812b9543f7186d0fdb3e2a72571661cb4156a6b938b107ba131f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20251120_index.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20251120_index.html",
+    "sha256": "54d6b623ec091309175e6e5e4d35eafe59f2a3a21b7850c0a74999a31dbe70d8"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd20251120_reviewed_dispatches.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd20251120_reviewed_dispatches.txt",
+    "sha256": "952067e56665deb76869f74fb2439a70057bfbf191ffa5224ab8d1813773db55"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/dcd_index.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/dcd_index.html",
+    "sha256": "815026568927e506b5af435790f25aa0be9f4ec48d1b112a508b13e83e416662"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/diary_calendar.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/diary_calendar.html",
+    "sha256": "5121b14f8c43eea57e6aedd93ce330690e0642c178500e68f70e4bbaf580561e"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/diary_calendar_2025.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/diary_calendar_2025.html",
+    "sha256": "f3d3ed9c14f56ba6618b5c8ea606fec0106ea8f64113c26ed9f7fd5ce14ee025"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/diary_review_manifest.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/diary_review_manifest.json",
+    "sha256": "302ccd208cca72392e86f2eb5ad1ac908d06aa6ffd93e5817258858d1fd35136"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/diary_scan_manifest.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/diary_scan_manifest.json",
+    "sha256": "d9db87e265ea3de5ff9655655db84356fe0f3ffdf8d1d1a132f7925387f1bfba"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/fetch_manifest_1.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/fetch_manifest_1.json",
+    "sha256": "e1a1473f15e197a4f58ba4de4e92d45a5c93eef1e9ff0badef4659a7d3a5a3e2"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/fetch_manifest_2.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/fetch_manifest_2.json",
+    "sha256": "04a67e91940a7fe455ae82ce626c5d16ffd79858e4beb14bee25f1fc34e0c405"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/index_12122023.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/index_12122023.html",
+    "sha256": "e1b0a10649c4b92f828523efc2ebe135ea9488179a2816888d1e84f786202dbf"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/index_18112025.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/index_18112025.html",
+    "sha256": "e1b0a10649c4b92f828523efc2ebe135ea9488179a2816888d1e84f786202dbf"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/index_19112025.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/index_19112025.html",
+    "sha256": "7716b975e5df87aac733746a9f61a8699b4cbe01479f295fa1a24aec17751828"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/nov_index_18.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/nov_index_18.html",
+    "sha256": "8e255128377f1e096772ba896aa27accb6d553601ee22992aa2197941dedb4a6"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/nov_index_19.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/nov_index_19.html",
+    "sha256": "7c767cfcb9c2fb934f1a15ac705d07c599c6dbf3e813f27b6d6f8b87a7e70b88"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/nov_index_20.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/nov_index_20.html",
+    "sha256": "54d6b623ec091309175e6e5e4d35eafe59f2a3a21b7850c0a74999a31dbe70d8"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/orla_official.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/orla_official.html",
+    "sha256": "5b13fb5957b84ef7bb9d0b6cd509c947ff6a37d67efdac2b896ddd3b908aad10"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/orla_reproduction.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/orla_reproduction.html",
+    "sha256": "9a54264f1993798101e15b9275865aa106c676ddedfe97e68fb19dbc51809a28"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/orla_reproduction.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/orla_reproduction.txt",
+    "sha256": "f95e9ef90851f407cd42e478f43f65c0647917cd3bfe3bcb2d6e0cec3f1dad0e"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/prior_source_inventory.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/prior_source_inventory.json",
+    "sha256": "618c1bbc7019a07d4e64b465ccd7d96176cd8c22a8dd069afe48fe63debfcd97"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sabino_20231206_folhapress.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sabino_20231206_folhapress.html",
+    "sha256": "f148b53809839d3fd76dcc79dd1164858dd5c24a134aeadeedc58977d5f34caa"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sabino_20231206_folhapress.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sabino_20231206_folhapress.txt",
+    "sha256": "93b663ef7724f6d512bcc557b8e17f55aad5b08ecd20eb1dc307f5c56347d437"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sabino_20251117_ebc.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sabino_20251117_ebc.html",
+    "sha256": "5d39fdc22a440e49e1db0005e1fd900c76211766f4ab43646db93d2849f0ea95"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sabino_20251117_ebc.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sabino_20251117_ebc.txt",
+    "sha256": "6665a5cb6639af9a20b03b2574e5c71a3a810ad10a44c2cc55c69ecb0d848fe4"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sabino_20251117_secom.html",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sabino_20251117_secom.html",
+    "sha256": "5b13fb5957b84ef7bb9d0b6cd509c947ff6a37d67efdac2b896ddd3b908aad10"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sabino_20251117_secom.txt",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sabino_20251117_secom.txt",
+    "sha256": "fc42bb01193a56d7cb51c8e7135bffd990d68edf9c6c6c990bd79d34f4104e7e"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_belem.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_belem.json",
+    "sha256": "becf9ff6fc8fbd9f2db8a6820ec95dea04d00d15c009b367921683fb64ed867e"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_df.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_df.json",
+    "sha256": "1d0c5c8cad52b9f85311de1633d636d77df302bf4f65d46152660bb9f5745461"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_153377.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_153377.json",
+    "sha256": "75e5d7d84018a480e636a0d0dead482adb11de3ab651dac70cd6edd28f3873b9"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_153381.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_153381.json",
+    "sha256": "723116ad118a341567a4f1e2168fd178e57e5e846ea2b53ed9b910a522525256"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_239349.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_239349.json",
+    "sha256": "b2ba9674b0229728868793c8d4cb96798c7c209ea5def014d0087af3d0d9435e"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_240260.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_240260.json",
+    "sha256": "95c2e1340de62e7da367406fe8a7bee241589ab1193ead579432172250e30fbd"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_241375.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_241375.json",
+    "sha256": "3ee2052bec5515d3ba8f4e5f490e3429d40289d8aa3cc5479f5fc8c9de1cebe8"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_244856.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_244856.json",
+    "sha256": "31b963253a95c8bdfbf6c60a898d96d38e0cca692c3b7806514750845f6d5227"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_255962.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_255962.json",
+    "sha256": "b99e53d00c125f9c01975fcbb0a99872d985d918a16a7d97309d6c8c5c1ef71f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_272494.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_272494.json",
+    "sha256": "d776cf1a9cb9a3cf7a40bb7411c006c928f3e9671835dd72ae97a8b2f5e3d887"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_274194.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_274194.json",
+    "sha256": "7c6415d594d77176523fbab78da53ac2528f034e381c8b7d7c6cfd05387abc69"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_274937.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_274937.json",
+    "sha256": "72dd0a176cc423807195737e8621fff1fe3fe53ce6318dcf085e5fbd8f8e835c"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_276042.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_276042.json",
+    "sha256": "ed0c72a90f1ec48ed1583a40cb3f228445f0c5b6a72b6269d46be48c53e90411"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_383514.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_383514.json",
+    "sha256": "9dfe6b02ea6d664c7fe510b9472439e81b11adce26947caf5405f665f9f436d7"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_414724.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_414724.json",
+    "sha256": "9c1cb4a04b8ddc06667439c7f192a6bc3d49ee4d14dc8e8ddce2536e5060e229"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_439369.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_439369.json",
+    "sha256": "a8738a2e1f2a115e6ac38ef6a2327e64cf00784ee5b24cbd40221a64cd6ded41"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_472737.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_472737.json",
+    "sha256": "7dc4cabb9a0c224f750444aa754998f4c29b7d38a7a97c0a36be514ddffc5027"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_472995.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_472995.json",
+    "sha256": "5acd2e20b361e2213d789a43345b2f245849ae1c08ab37b647de85ccdd7367b0"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_474234.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_474234.json",
+    "sha256": "b4232be7d2820af1693ff7ba5992a2a5705176f08d5b8cb273ddf33030877656"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_477856.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_477856.json",
+    "sha256": "717e4e9cf83cc20e4c9e65082d90f68c6d581a22bdcf7f92a4d1df76c25b4657"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_543279.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_543279.json",
+    "sha256": "59fe21894a0c1f6bbbcff9c05a174050061a68d2471a13d8bd1d3c07f9fc6525"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_575641.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_575641.json",
+    "sha256": "1f491ce34abc3d4107db727deacb2d2fcb755c824004d13acfbdb29756e2285c"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_577422.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_577422.json",
+    "sha256": "508c635bb4521ad16f1308bde09516d5d98f6c429e466f6af9e12e574c107dee"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_578561.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_578561.json",
+    "sha256": "8d0e3d47c9b4d17b76760983764dd730e5138d5b8635c3d026be689779a77c23"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_579560.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_579560.json",
+    "sha256": "8204fb762746db21b49b308523f73092b1724b0f00d012d7d62a810a5cf05080"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_583521.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_583521.json",
+    "sha256": "bec08962da8ebedd445e6492dd04ec14ed1d164cd62c97cb58bc3542986b94e9"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_70971.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_70971.json",
+    "sha256": "8aaddc2530d148e884418f0ac2286bd0fce69ce18fa4563b4e62470d8e9ee8d1"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_70972.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_70972.json",
+    "sha256": "0258c5d39069cebc13088cff170138ff4c59e317534be4dce2055162eec1dbeb"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_members_94150.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_94150.json",
+    "sha256": "3dae38d378298d0c5480058a7effbcf6ca9eb9edbff58448eb2e767609e0be74"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_municipios_pa.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_municipios_pa.json",
+    "sha256": "0e3658b8f4bc0a2587e7a5b12e5ac21246ceb8734e87d737d6b494deb644cc0b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_national.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_national.json",
+    "sha256": "9630ac3e7a9fd7b0301071bd0bdac08a25fa58e69b9e1599e5c53caaeba257ee"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_pa.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_pa.json",
+    "sha256": "4070ce0c27dc18cca0e8d7e5d3b3b1642384aa1108323a3446f3262b919b0ad9"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/sgip_scan_summary.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/sgip_scan_summary.json",
+    "sha256": "0ba00533a2c684f363c43d566242b427cd9a6eaee68da185579fb5a42b3eb818"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_1.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_1.json",
+    "sha256": "54715a9da6c022c97c909b85b779fdddb221410d4fd0c51f149ce3e53e316ad5"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_10.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_10.json",
+    "sha256": "3ec0393c894d33e87e93ab05edb60fc9a4929f431267a33add506a25a6ab0378"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_11.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_11.json",
+    "sha256": "6b3b9c945ad7e464ca0b459f49de3d3e54a1fa78b5f28e02e7ba60fd7fc48667"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_12.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_12.json",
+    "sha256": "f81317a9a50da65a60526fd46242d303913baba94b6e45cd06464e85bf473c1f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_13.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_13.json",
+    "sha256": "1d797e3193bbb602c968260628a3a252f5da75fa3f3121b3f03ebeb2d50da1ea"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_14.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_14.json",
+    "sha256": "8a0ca5215a1073e1c92cdaa67d86ddd909bce74136037970a0ba158e775b2f57"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_15.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_15.json",
+    "sha256": "573374e800c7a66bea3401e02a3ba271d71a076aebd70cf23de4c73b4091407d"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_2.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_2.json",
+    "sha256": "ca91ecf5624d2453fe4ff68de6e91965daa126fac6768deb524b74c7c9962049"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_3.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_3.json",
+    "sha256": "4d65b7b77adb00bac222915f406646d4921150cddf7343b8db050bc12a3eb5d9"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_4.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_4.json",
+    "sha256": "8217c9bbb889d96277bb6145fcdec7e0ce73f6a83bf70b76a787241393c1df00"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_5.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_5.json",
+    "sha256": "1153b8a90a030475629290ee4b5576cd365ebb33e9ad053d19c9f1a0588839d4"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_6.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_6.json",
+    "sha256": "bccf99d7b6db067088e181e93b57dc6b44e23a296c5cbfac8f8a702ba4e88d5c"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_7.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_7.json",
+    "sha256": "317f749310b03ae36683406887a514ee7ca56484889b874a44986c224c318167"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_8.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_8.json",
+    "sha256": "419aac7033386775accce88087e08c5bdf2dc622457e9e3f8f0b84d78f4ba9bb"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/sources/web_9.json",
+    "destination": "research/refinement_v5/worker_7_lula_dates/sources/web_9.json",
+    "sha256": "bbe32831e25cc127ada83b9e194a3e9663820f15e529fac4faa79aa44b6b2938"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/RESEARCH.md",
+    "destination": "research/refinement_v5/worker_7_lula_dates/RESEARCH.md",
+    "sha256": "81f9a86404e2b1c49ff9ec8dd200aaaf2427baa99063b2b323b6f285178f00c6"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/scan_sgip.py",
+    "destination": "research/refinement_v5/worker_7_lula_dates/scan_sgip.py",
+    "sha256": "11da9d3e81f7320a2862f3931bbdb6ab68848f5f89b347ec4462fe5b4a526846"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_7_lula_dates/scan_diaries.py",
+    "destination": "research/refinement_v5/worker_7_lula_dates/scan_diaries.py",
+    "sha256": "2c1c3011f00581cb69e5d53068128ad331b9c0588c9f8899c1b952969399d501"
+  }
+]

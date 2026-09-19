@@ -1,0 +1,17 @@
+{
+  "party": "REPUBLICANOS",
+  "id": 51,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=51&currentPage=0&pageSize=10000",
+      "records": 1638,
+      "totalElements": 1638,
+      "response_sha256": "efa6cf9f04ce1aca8b01e6796928b050d9d56dd5caaccef3981d94b4682ad7e3",
+      "retrieved_utc": "2026-09-10T23:41:34Z"
+    }
+  ],
+  "matches": []
+}

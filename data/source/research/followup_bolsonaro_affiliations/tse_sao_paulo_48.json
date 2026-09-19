@@ -1,0 +1,14 @@
+{
+  "party": "MOBILIZA",
+  "id": 48,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 3882,
+      "totalElements": 3882,
+      "response_sha256": "5254c1504261a0ceedee087ebcc030de9b0d95e51b44929f679e36cfb10211de",
+      "retrieved_utc": "2026-09-10T23:44:24Z"
+    }
+  ],
+  "matches": []
+}

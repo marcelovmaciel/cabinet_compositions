@@ -1,0 +1,42 @@
+{
+  "uf": "RJ",
+  "municipio": "6865",
+  "city": "BELFORD ROXO",
+  "party": "UNIÃO",
+  "id": 72,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6865&sqPartido=72&currentPage=0&pageSize=10000",
+      "records": 1899,
+      "totalElements": 1899,
+      "response_sha256": "b8364536a2919fa00d2c35448aae9224153a6db4a03128d35f112a5b63bba3b3",
+      "retrieved_utc": "2026-09-10T23:40:18Z"
+    }
+  ],
+  "matches": [
+    {
+      "sqRegistroFiliacao": 57278009,
+      "cdMotivoCancelamento": null,
+      "cdMotivoDesfiliacao": null,
+      "desSituacaoEleitor": "REGULAR",
+      "dtCancelamento": null,
+      "dtDesfiliacao": null,
+      "dtExclusao": null,
+      "dtFiliacao": [
+        2022,
+        3,
+        20
+      ],
+      "tsCadastroDesfiliacao": null,
+      "nmEleitor": "WALLACE NUNES DA SILVA",
+      "nomLocalidade": "BELFORD ROXO",
+      "sgPartido": "UNIÃO",
+      "sgUe": "RJ",
+      "stRegistroFiliacao": 1,
+      "tpSexo": 2,
+      "indPendencia": 0,
+      "indOrigem": 0,
+      "public_registry_identity_sha256": "b772f82de18380527d23f5be9f44bc4581147db236afedc6b23f8f9448d2f70e"
+    }
+  ]
+}

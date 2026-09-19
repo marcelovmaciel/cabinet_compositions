@@ -1,0 +1,1304 @@
+Imprimir
+Secretaria Geral da Mesa
+Lista de Votantes 
+					por Partido
+a. LEGISLATURA
+PRIMEIRA SESSÃO LEGISLATIVA ORDINÁRIA
+SESSÃO  EXTRAORDINÁRIA Nº 260 - 05/12/2023
+Abertura da sessão:
+05/12/2023 11:55
+Encerramento da sessão:
+05/12/2023 21:59
+Proposição:
+REQ  Nº 4073/2023    - URGÊNCIA PARA APRECIAÇÃO DO PL Nº 2144/2023 - Nominal Eletrônica
+Início da votação:
+05/12/2023 19:13
+Encerramento da votação:
+05/12/2023 19:23
+Presidiram a Votação:
+Sóstenes Cavalcante
+Resultado da votação
+Sim:
+397
+Total da Votação:
+397
+Art. 17:
+1
+Total Quorum:
+398
+Presidente da Casa:
+Sóstenes Cavalcante - PL        /RJ
+Presidiram a Sessão:
+Flávio Nogueira                          - 12:17
+Gilberto Nascimento                      - 14:00
+José Medeiros                            - 14:41
+Alfredo Gaspar                           - 15:02
+Jorge Goetten                            - 15:18
+Gilberto Nascimento                      - 15:59
+Jorge Goetten                            - 16:12
+Pompeo de Mattos                         - 16:23
+Alberto Fraga                            - 17:05
+Pompeo de Mattos                         - 17:17
+Sóstenes Cavalcante                      - 18:00
+Maria do Rosário                         - 19:32
+Sóstenes Cavalcante                      - 20:19
+Prof. Paulo Fernando                     - 21:38
+Orientação
+Bl UniPpFdrPsdbCid...:
+Sim
+Bl MdbPsdRepPode:
+Sim
+PL:
+Sim
+Fdr PT-PCdoB-PV:
+Sim
+Fdr PSOL-REDE:
+Sim
+Repr.Novo:
+Sim
+Minoria:
+Sim
+Maioria:
+Sim
+Oposição:
+Sim
+Governo:
+Parlamentar
+UF
+Voto
+Avante
+André Janones
+MG
+Sim
+Bruno Farias
+MG
+Sim
+Delegada Ione
+MG
+Sim
+Luis Tibé
+MG
+Sim
+Pastor Sargento Isidório
+BA
+Sim
+Waldemar Oliveira
+PE
+Sim
+Total Avante: 6
+Cidadania
+Any Ortiz
+RS
+Sim
+Arnaldo Jardim
+SP
+Sim
+Total Cidadania: 2
+MDB
+Acácio Favacho
+AP
+Sim
+Alberto Mourão
+SP
+Sim
+Andreia Siqueira
+PA
+Sim
+Antônio Doido
+PA
+Sim
+Augusto Puppio
+AP
+Sim
+Carlos Chiodini
+SC
+Sim
+Cleber Verde
+MA
+Sim
+Cobalchini
+SC
+Sim
+Delegado Palumbo
+SP
+Sim
+Dra. Alessandra Haber
+PA
+Sim
+Duda Ramos
+RR
+Sim
+Emanuel Pinheiro Neto
+MT
+Sim
+Eunício Oliveira
+CE
+Sim
+Fábio Teruel
+SP
+Sim
+Gutemberg Reis
+RJ
+Sim
+Helena Lima
+RR
+Sim
+Henderson Pinto
+PA
+Sim
+Hercílio Coelho Diniz
+MG
+Sim
+Iza Arruda
+PE
+Sim
+Juarez Costa
+MT
+Sim
+Keniston Braga
+PA
+Sim
+Newton Cardoso Jr
+MG
+Sim
+Olival Marques
+PA
+Sim
+Osmar Terra
+RS
+Sim
+Pezenti
+SC
+Sim
+Rafael Brito
+AL
+Sim
+Renilce Nicodemos
+PA
+Sim
+Ricardo Maia
+BA
+Sim
+Roseana Sarney
+MA
+Sim
+Simone Marquetto
+SP
+Sim
+Thiago Flores
+RO
+Sim
+Total MDB: 31
+Novo
+Adriana Ventura
+SP
+Sim
+Gilson Marques
+SC
+Sim
+Total Novo: 2
+Patriota
+Dr. Frederico
+MG
+Sim
+Magda Mofatto
+GO
+Sim
+Marreca Filho
+MA
+Sim
+Pedro Aihara
+MG
+Sim
+Total Patriota: 4
+PCdoB
+Alice Portugal
+BA
+Sim
+Daiana Santos
+RS
+Sim
+Daniel Almeida
+BA
+Sim
+Jandira Feghali
+RJ
+Sim
+Márcio Jerry
+MA
+Sim
+Renildo Calheiros
+PE
+Sim
+Total PCdoB: 6
+PDT
+Afonso Motta
+RS
+Sim
+Eduardo Bismarck
+CE
+Sim
+Félix Mendonça Júnior
+BA
+Sim
+Idilvan Alencar
+CE
+Sim
+Josenildo
+AP
+Sim
+Leo Prates
+BA
+Sim
+Márcio Honaiser
+MA
+Sim
+Marcos Tavares
+RJ
+Sim
+Mário Heringer
+MG
+Sim
+Mauro Benevides Filho
+CE
+Sim
+Max Lemos
+RJ
+Sim
+Pompeo de Mattos
+RS
+Sim
+Professora Goreth
+AP
+Sim
+Robério Monteiro
+CE
+Sim
+Total PDT: 14
+PL
+Adilson Barroso
+SP
+Sim
+Alberto Fraga
+DF
+Sim
+Altineu Côrtes
+RJ
+Sim
+Amália Barros
+MT
+Sim
+André Fernandes
+CE
+Sim
+Antonio Carlos Rodrigues
+SP
+Sim
+Bia Kicis
+DF
+Sim
+Bibo Nunes
+RS
+Sim
+Cabo Gilberto Silva
+PB
+Sim
+Capitão Alberto Neto
+AM
+Sim
+Capitão Alden
+BA
+Sim
+Capitão Augusto
+SP
+Sim
+Carla Zambelli
+SP
+Sim
+Carlos Jordy
+RJ
+Sim
+Caroline de Toni
+SC
+Sim
+Chris Tonietto
+RJ
+Sim
+Coronel Chrisóstomo
+RO
+Sim
+Coronel Fernanda
+MT
+Sim
+Coronel Meira
+PE
+Sim
+Daniel Agrobom
+GO
+Sim
+Daniel Freitas
+SC
+Sim
+Daniela Reinehr
+SC
+Sim
+Delegado Caveira
+PA
+Sim
+Delegado Paulo Bilynskyj
+SP
+Sim
+Delegado Ramagem
+RJ
+Sim
+Domingos Sávio
+MG
+Sim
+Dr. Jaziel
+CE
+Sim
+Eduardo Bolsonaro
+SP
+Sim
+Eli Borges
+TO
+Sim
+Emidinho Madeira
+MG
+Sim
+Filipe Barros
+PR
+Sim
+Filipe Martins
+TO
+Sim
+General Girão
+RN
+Sim
+General Pazuello
+RJ
+Sim
+Gilvan da Federal
+ES
+Sim
+Giovani Cherini
+RS
+Sim
+Gustavo Gayer
+GO
+Sim
+Helio Lopes
+RJ
+Sim
+Icaro de Valmir
+SE
+Sim
+Jefferson Campos
+SP
+Sim
+João Carlos Bacelar
+BA
+Sim
+Joaquim Passarinho
+PA
+Sim
+Jorge Goetten
+SC
+Sim
+José Medeiros
+MT
+Sim
+Julia Zanatta
+SC
+Sim
+Junio Amaral
+MG
+Sim
+Junior Lourenço
+MA
+Sim
+Júnior Mano
+CE
+Sim
+Lincoln Portela
+MG
+Sim
+Luciano Vieira
+RJ
+Sim
+Luiz Carlos Motta
+SP
+Sim
+Luiz Lima
+RJ
+Sim
+Luiz Philippe de Orleans e Bragança
+SP
+Sim
+Marcelo Álvaro Antônio
+MG
+Sim
+Marcelo Moraes
+RS
+Sim
+Marcio Alvino
+SP
+Sim
+Marcos Pollon
+MS
+Sim
+Mauricio do Vôlei
+MG
+Sim
+Miguel Lombardi
+SP
+Sim
+Nikolas Ferreira
+MG
+Sim
+Paulo Freire Costa
+SP
+Sim
+Paulo Marinho Jr
+MA
+Sim
+Pr. Marco Feliciano
+SP
+Sim
+Ricardo Salles
+SP
+Sim
+Roberta Roma
+BA
+Sim
+Roberto Monteiro Pai
+RJ
+Sim
+Robinson Faria
+RN
+Sim
+Rodolfo Nogueira
+MS
+Sim
+Rosana Valle
+SP
+Sim
+Rosângela Reis
+MG
+Sim
+Samuel Viana
+MG
+Sim
+Sanderson
+RS
+Sim
+Silvia Cristina
+RO
+Sim
+Silvia Waiãpi
+AP
+Sim
+Silvio Antonio
+MA
+Sim
+Sonize Barbosa
+AP
+Sim
+Soraya Santos
+RJ
+Sim
+Sóstenes Cavalcante
+RJ
+Art. 17
+Tiririca
+SP
+Sim
+Vermelho
+PR
+Sim
+Vinicius Gurgel
+AP
+Sim
+Wellington Roberto
+PB
+Sim
+Zé Trovão
+SC
+Sim
+Total PL: 83
+Podemos
+Bruno Ganem
+SP
+Sim
+Dr. Victor Linhalis
+ES
+Sim
+Gilson Daniel
+ES
+Sim
+Glaustin da Fokus
+GO
+Sim
+Igor Timo
+MG
+Sim
+Luiz Carlos Hauly
+PR
+Sim
+Nely Aquino
+MG
+Sim
+Raimundo Costa
+BA
+Sim
+Renata Abreu
+SP
+Sim
+Romero Rodrigues
+PB
+Sim
+Ruy Carneiro
+PB
+Sim
+Sargento Portugal
+RJ
+Sim
+Total Podemos: 12
+PP
+Adriano do Baldy
+GO
+Sim
+Amanda Gentil
+MA
+Sim
+Ana Paula Leão
+MG
+Sim
+Átila Lira
+PI
+Sim
+Bebeto
+RJ
+Sim
+Clarissa Tércio
+PE
+Sim
+Coronel Telhada
+SP
+Sim
+Covatti Filho
+RS
+Sim
+Da Vitoria
+ES
+Sim
+Delegado da Cunha
+SP
+Sim
+Delegado Fabio Costa
+AL
+Sim
+Dilceu Sperafico
+PR
+Sim
+Dimas Fabiano
+MG
+Sim
+Doutor Luizinho
+RJ
+Sim
+Dr. Allan Garcês
+MA
+Sim
+Dr. Luiz Ovando
+MS
+Sim
+Eduardo da Fonte
+PE
+Sim
+Fausto Pinato
+SP
+Sim
+Fernando Monteiro
+PE
+Sim
+Gerlen Diniz
+AC
+Sim
+João Leão
+BA
+Sim
+João Maia
+RN
+Sim
+José Nelto
+GO
+Sim
+Julio Arcoverde
+PI
+Sim
+Lázaro Botelho
+TO
+Sim
+Lula da Fonte
+PE
+Sim
+Marcelo Queiroz
+RJ
+Sim
+Marco Brasil
+PR
+Sim
+Mário Negromonte Jr.
+BA
+Sim
+Marx Beltrão
+AL
+Sim
+Mauricio Neves
+SP
+Sim
+Neto Carletto
+BA
+Sim
+Pedro Lupion
+PR
+Sim
+Pedro Westphalen
+RS
+Sim
+Pinheirinho
+MG
+Sim
+Thiago de Joaldo
+SE
+Sim
+Toninho Wandscheer
+PR
+Sim
+Vicentinho Júnior
+TO
+Sim
+Total PP: 38
+PSB
+Duarte Jr.
+MA
+Sim
+Felipe Carreras
+PE
+Sim
+Gervásio Maia
+PB
+Sim
+Guilherme Uchoa
+PE
+Sim
+Heitor Schuch
+RS
+Sim
+Jonas Donizette
+SP
+Sim
+Luciano Ducci
+PR
+Sim
+Paulo Foletto
+ES
+Sim
+Pedro Campos
+PE
+Sim
+Tabata Amaral
+SP
+Sim
+Total PSB: 10
+PSD
+Antonio Brito
+BA
+Sim
+Átila Lins
+AM
+Sim
+Célio Studart
+CE
+Sim
+Cezinha de Madureira
+SP
+Sim
+Darci de Matos
+SC
+Sim
+Delegada Katarina
+SE
+Sim
+Diego Andrade
+MG
+Sim
+Diego Coronel
+BA
+Sim
+Domingos Neto
+CE
+Sim
+Fabio Reis
+SE
+Sim
+Gabriel Nunes
+BA
+Sim
+Gilberto Nascimento
+SP
+Sim
+Ismael Alexandrino
+GO
+Sim
+Josivaldo JP
+MA
+Sim
+Júnior Ferrari
+PA
+Sim
+Laura Carneiro
+RJ
+Sim
+Luisa Canziani
+PR
+Sim
+Luiz Fernando Faria
+MG
+Sim
+Marcelo Calero
+RJ
+Sim
+Marcos Aurélio Sampaio
+PI
+Sim
+Misael Varella
+MG
+Sim
+Otto Alencar Filho
+BA
+Sim
+Paulo Litro
+PR
+Sim
+Paulo Magalhães
+BA
+Sim
+Pedro Paulo
+RJ
+Sim
+Raimundo Santos
+PA
+Sim
+Reinhold Stephanes
+PR
+Sim
+Renan Ferreirinha
+RJ
+Sim
+Ricardo Silva
+SP
+Sim
+Rodrigo Estacho
+PR
+Sim
+Sargento Fahur
+PR
+Sim
+Saulo Pedroso
+SP
+Sim
+Sidney Leite
+AM
+Sim
+Stefano Aguiar
+MG
+Sim
+Zé Haroldo Cathedral
+RR
+Sim
+Total PSD: 35
+PSDB
+Adolfo Viana
+BA
+Sim
+Aécio Neves
+MG
+Sim
+Beto Pereira
+MS
+Sim
+Beto Richa
+PR
+Sim
+Carlos Sampaio
+SP
+Sim
+Daniel Trzeciak
+RS
+Sim
+Geovania de Sá
+SC
+Sim
+Geraldo Resende
+MS
+Sim
+Lêda Borges
+GO
+Sim
+Lucas Redecker
+RS
+Sim
+Paulo Abi-Ackel
+MG
+Sim
+Vitor Lippi
+SP
+Sim
+Total PSDB: 12
+PSOL
+Chico Alencar
+RJ
+Sim
+Fernanda Melchionna
+RS
+Sim
+Guilherme Boulos
+SP
+Sim
+Ivan Valente
+SP
+Sim
+Luiza Erundina
+SP
+Sim
+Pastor Henrique Vieira
+RJ
+Sim
+Professora Luciene Cavalcante
+SP
+Sim
+Sâmia Bomfim
+SP
+Sim
+Tarcísio Motta
+RJ
+Sim
+Total PSOL: 9
+PT
+Alencar Santana
+SP
+Sim
+Alfredinho
+SP
+Sim
+Ana Paula Lima
+SC
+Sim
+Ana Pimentel
+MG
+Sim
+Bohn Gass
+RS
+Sim
+Carlos Veras
+PE
+Sim
+Carol Dartora
+PR
+Sim
+Delegada Adriana Accorsi
+GO
+Sim
+Denise Pessôa
+RS
+Sim
+Dimas Gadelha
+RJ
+Sim
+Dr. Francisco
+PI
+Sim
+Erika Kokay
+DF
+Sim
+Fernando Mineiro
+RN
+Sim
+Flávio Nogueira
+PI
+Sim
+Helder Salomão
+ES
+Sim
+Ivoneide Caetano
+BA
+Sim
+Jack Rocha
+ES
+Sim
+Jilmar Tatto
+SP
+Sim
+Jorge Solla
+BA
+Sim
+José Airton Félix Cirilo
+CE
+Sim
+José Guimarães
+CE
+Sim
+Joseildo Ramos
+BA
+Sim
+Juliana Cardoso
+SP
+Sim
+Kiko Celeguim
+SP
+Sim
+Leonardo Monteiro
+MG
+Sim
+Lindbergh Farias
+RJ
+Sim
+Luiz Couto
+PB
+Sim
+Luizianne Lins
+CE
+Sim
+Marcon
+RS
+Sim
+Maria do Rosário
+RS
+Sim
+Merlong Solano
+PI
+Sim
+Natália Bonavides
+RN
+Sim
+Odair Cunha
+MG
+Sim
+Padre João
+MG
+Sim
+Patrus Ananias
+MG
+Sim
+Paulão
+AL
+Sim
+Paulo Guedes
+MG
+Sim
+Reginete Bispo
+RS
+Sim
+Rogério Correia
+MG
+Sim
+Rubens Pereira Júnior
+MA
+Sim
+Rui Falcão
+SP
+Sim
+Tadeu Veneri
+PR
+Sim
+Vander Loubet
+MS
+Sim
+Vicentinho
+SP
+Sim
+Waldenor Pereira
+BA
+Sim
+Welter
+PR
+Sim
+Zé Neto
+BA
+Sim
+Total PT: 47
+PV
+Clodoaldo Magalhães
+PE
+Sim
+Jadyel Alencar
+PI
+Sim
+Luciano Amaral
+AL
+Sim
+Prof. Reginaldo Veras
+DF
+Sim
+Total PV: 4
+Republican
+Adail Filho
+AM
+Sim
+Albuquerque
+RR
+Sim
+Alex Santana
+BA
+Sim
+Antonio Andrade
+TO
+Sim
+Augusto Coutinho
+PE
+Sim
+Defensor Stélio Dener
+RR
+Sim
+Diego Garcia
+PR
+Sim
+Ely Santos
+SP
+Sim
+Euclydes Pettersen
+MG
+Sim
+Franciane Bayer
+RS
+Sim
+Fred Linhares
+DF
+Sim
+Gabriel Mota
+RR
+Sim
+Gilberto Abramo
+MG
+Sim
+Gilvan Maximo
+DF
+Sim
+Gustinho Ribeiro
+SE
+Sim
+Jeferson Rodrigues
+GO
+Sim
+Jorge Braz
+RJ
+Sim
+Lafayette de Andrada
+MG
+Sim
+Luis Carlos Gomes
+RJ
+Sim
+Marcelo Crivella
+RJ
+Sim
+Márcio Marinho
+BA
+Sim
+Maria Rosas
+SP
+Sim
+Mariana Carvalho
+MA
+Sim
+Messias Donato
+ES
+Sim
+Ossesio Silva
+PE
+Sim
+Prof. Paulo Fernando
+DF
+Sim
+Ricardo Ayres
+TO
+Sim
+Roberto Duarte
+AC
+Sim
+Rogéria Santos
+BA
+Sim
+Silas Câmara
+AM
+Sim
+Vinicius Carvalho
+SP
+Sim
+Wilson Santiago
+PB
+Sim
+Zucco
+RS
+Sim
+Total Republican: 33
+S.Part.
+Yury do Paredão
+CE
+Sim
+Total S.Part.: 1
+Solidaried
+Maria Arraes
+PE
+Sim
+Paulinho da Força
+SP
+Sim
+Weliton Prado
+MG
+Sim
+Zé Silva
+MG
+Sim
+Total Solidaried: 4
+União
+Alexandre Leite
+SP
+Sim
+Alfredo Gaspar
+AL
+Sim
+Benes Leocádio
+RN
+Sim
+Carlos Henrique Gaguim
+TO
+Sim
+Celso Sabino
+PA
+Sim
+Coronel Assis
+MT
+Sim
+Cristiane Lopes
+RO
+Sim
+Dal Barreto
+BA
+Sim
+Damião Feliciano
+PB
+Sim
+Daniela do Waguinho
+RJ
+Sim
+Danilo Forte
+CE
+Sim
+Delegado Marcelo Freitas
+MG
+Sim
+Delegado Matheus Laiola
+PR
+Sim
+Dr. Benjamim
+MA
+Sim
+Dr. Fernando Máximo
+RO
+Sim
+Dr. Zacharias Calil
+GO
+Sim
+Eduardo Velloso
+AC
+Sim
+Fabio Schiochet
+SC
+Sim
+Fausto Santos Jr.
+AM
+Sim
+Felipe Becari
+SP
+Sim
+Felipe Francischini
+PR
+Sim
+Fernanda Pessoa
+CE
+Sim
+Fernando Coelho Filho
+PE
+Sim
+Gisela Simona
+MT
+Sim
+José Rocha
+BA
+Sim
+Kim Kataguiri
+SP
+Sim
+Lebrão
+RO
+Sim
+Leur Lomanto Júnior
+BA
+Sim
+Luiz Carlos Busato
+RS
+Sim
+Maurício Carvalho
+RO
+Sim
+Meire Serafim
+AC
+Sim
+Mendonça Filho
+PE
+Sim
+Moses Rodrigues
+CE
+Sim
+Murillo Gouvea
+RJ
+Sim
+Nicoletti
+RR
+Sim
+Padovani
+PR
+Sim
+Pastor Diniz
+RR
+Sim
+Paulinho Freire
+RN
+Sim
+Paulo Azi
+BA
+Sim
+Pedro Lucas Fernandes
+MA
+Sim
+Rafael Simoes
+MG
+Sim
+Rodrigo de Castro
+MG
+Sim
+Rosângela Moro
+SP
+Sim
+Saullo Vianna
+AM
+Sim
+Silvye Alves
+GO
+Sim
+Total União: 45
+DITEC
+- Coordenação do Sistema Eletrônico de Votação

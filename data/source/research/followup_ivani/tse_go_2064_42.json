@@ -1,0 +1,16 @@
+{
+  "party": "MDB",
+  "id": 42,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 2122,
+      "totalElements": 2122,
+      "response_sha256": "768db24d50a11f5c8d4d0a9255692331dd501c47a9b79a3e69a5ad8d34ce9b98",
+      "retrieved_utc": "2026-09-10T23:35:37Z"
+    }
+  ],
+  "matches": []
+}

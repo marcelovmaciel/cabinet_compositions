@@ -1,0 +1,17 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "PCDOB",
+  "id": 45,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 6103,
+      "totalElements": 6103,
+      "response_sha256": "4d2301f4454d8d720da850428fc2e844d77e91adb2ed673974b6550098c341db",
+      "retrieved_utc": "2026-09-10T23:37:43Z"
+    }
+  ],
+  "matches": []
+}

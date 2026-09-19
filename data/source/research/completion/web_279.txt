@@ -1,0 +1,355 @@
+ (https://tede2.pucrs.br/tede2/bitstream/tede/10392/2/Rafael_da_Silveira_Velho_Dis.pdf)
+citeturn278view0 [wordlim: 200] Crawled: last week; Content type: application/pdf; Number of pages: 97; Source: open({"ref_id":"https://tede2.pucrs.br/tede2/bitstream/tede/10392/2/Rafael_da_Silveira_Velho_Dis.pdf","lineno":1560}); Total lines: 3204
+L1445@P49: do Dia) 19. Para a deliberação de PLs é necessário contar com a presença de 28 parlamentares
+L1446@P49: (27 deputados estaduais mais o Presidente da Assembleia Legislativa), já para a deliberação
+L1447@P49: de PLCs se faz necessário contar com a presença de 29 parlamentares (sendo 28 deputados
+L1448@P49: estaduais mais o Presidente da Assembleia Legislativa).
+L1449@P49: Além do número necessário de parlamentares presentes para abrir uma sessão, o
+L1450@P49: Regimento Interno também exige um número de votos para que determinada iniciativa seja
+L1451@P49: aprovada. Com isso, para a aprovação de PLs é necessário ter quinze votos favoráveis e para a
+L1452@P49: aprovação de PLCs é necessário que a maioria absoluta (50% mais um (28 votos favoráveis))
+L1453@P49: aprove.
+L1454@P49: Após essa etapa, há a redação e final e a remessa de assinaturas das iniciativas
+L1455@P49: aprovados ao Governador. Na redação final, é efetuada a compatibilização da iniciativa
+L1456@P49: através do texto do projeto juntamente com as emendas aprovadas que alteraram parte do
+L1457@P49: texto, bem como, também é realizada correções de linguagem. Superada essa fase, a redação
+L1458@P49: final da iniciativa aprovada deverá conter a assinatura do Presidente do Legislativo e enviada
+L1459@P49: para o Governador a fim de que sancione ou vete o projeto, conforme determina o art. 66 da
+L1460@P49: CE.
+L1461@P49: Contendo a assinatura do Governador, a iniciativa será sancionada. Contudo, se
+L1462@P49: houver um silêncio do mesmo pelo período de quinze dias úteis do recebimento,
+L1463@P49: automaticamente implicará em sanção ou veto. Desse modo, se a lei não for sancionada no
+L1464@P49: prazo de 48 horas, transcorridos o período de quinze dias úteis do recebimento da iniciativa,
+L1465@P49: deverá o Presidente da Alergs promulgar, e, se o mesmo não o assim fizer em igual prazo,
+L1466@P49: deverá o Vice-presidente promulgá-la.
+L1467@P49: O veto nada mais é do que a contrariedade do Chefe do Poder Executivo de forma
+L1468@P49: integral ou parcial ao conteúdo da lei aprovada, através das justificativas de
+L1469@P49: inconstitucionalidade ou contrariedade ao interesse público.
+L1470@P49: Dessa forma, o prazo para vetar determinada iniciativa é de quinze dias úteis contadas
+L1471@P49: do seu recebimento, devendo assim, ser publicada no Diário Oficial do Estado (DOE) a
+L1472@P49: motivação para o veto, além de, devolver a parte do projeto vetada (parcial ou integral) à
+L1473@P49: Assembleia para que as Comissões Parlamentares apreciem, bem como, a deliberação do
+L1474@P49: Plenário.
+L1475@P49: 
+L1476@P49-50: 19 Art. 112 do Regimento Interno da ALERGS.50
+L1477@P50: O veto sendo aceito, a iniciativa é arquivada, não se constituindo em forma de lei.
+L1478@P50: Todavia, se for rejeitado deverá ser pela maioria absoluta dos membros do parlamento (28
+L1479@P50: deputados). A rejeição do veto deverá automaticamente ser comunicada ao Governador para
+L1480@P50: promulgação. Entretanto, se a lei não for promulgada no prazo de até 48 horas após o
+L1481@P50: recebimento da comunicação, o Presidente da Alergs, assim o deve fazer, e se não fizer,
+L1482@P50: deverá o primeiro Vice-Presidente seguir o caminho da promulgação.
+L1483@P50: Por fim, os atos finais do processo legislativo são a promulgação, publicação e
+L1484@P50: vigência da lei, conforme se nota na tabela a seguir.
+L1485@P50: Quadro 4 – Atos finais do Processo Legislativo
+L1486@P50: Atos Caminhos
+L1487@P50: Promulgação Comunicação aos destinatários da lei da sua criação. De caráter obrigatório.
+L1488@P50: Publicação Será feita no Diário Oficial do Estado ou no Diário Oficial da Alergs (sendo promulgada
+L1489@P50: pelo seu Presidente, com comunicação ao Chefe do Poder Executivo).
+L1490@P50: Vigência da lei A partir do décimo dia da sua publicação oficial, a não ser, que seja estabelecido outro
+L1491@P50: prazo (art. 67 da CE).
+L1492@P50: Fonte: elaboração própria baseada no Regimento Interno da Alergs e na Constituição Estadual do RS.
+L1493@P50: Passando a análise sobre o regramento constitucional que compõe o processo
+L1494@P50: legislativo, serão abordadas a seguir as iniciativas que englobam a agenda da reforma de
+L1495@P50: Estado.
+L1496@P50: 4.4 A AGENDA DE REFORMA DO ESTADO
+L1497@P50: Visando atenuar a crise fiscal, o Poder Executivo enviou à Assembleia Legislativa um
+L1498@P50: conjunto de iniciativas em formas de Projetos de Lei (PL), Projetos de Lei Complementar
+L1499@P50: (PLC) e Propostas de Emenda à Constituição (PEC). A economia projetada pelo Governo
+L1500@P50: estadual através da implementação das iniciativas propostas gira em torno de R$ 6,7 bilhões
+L1501@P50: em quatro anos
+L1502@P50: 20
+L1503@P50: .
+L1504@P50: Tendo em vista o que fora apresentado na subseção 4.1 referente ao programa de
+L1505@P50: governo, uma das diretrizes econômicas traçadas para a retomada da capacidade de
+L1506@P50: 
+L1507@P50: 20 GAUCHAZH. Com pacote, Governo Sartori prevê economia de R$ 6,7 bilhões em quatro anos. Porto Alegre,
+L1508@P50-51: 21 nov. 2016. Disponível em: https://gauchazh.clicrbs.com.br/geral/noticia/2016/11/com-pacote-governo-sartoripreve-economia-de-r-6-7-bilhoes-em-quatro-anos-8425042.html. Acessado em 09 dez. 2020.51
+L1509@P51: investimento e da redução do déficit fiscal era a de criar uma regra que vinculasse o
+L1510@P51: crescimento da despesa pública ao crescimento da economia e da produtividade.
+L1511@P51: Todavia, para que essa regra surtisse o efeito desejado, o então candidato José Ivo
+L1512@P51: Sartori estabeleceu determinadas condicionantes para não haver o aumento da carga tributária,
+L1513@P51: tais como: aumentar a eficiência da gestão da arrecadação tributária (compreende-se por
+L1514@P51: revisar as isenções fiscais, estabelecer a progressividade tributária e criar condições para que
+L1515@P51: os devedores pudessem quitar eou parcelar os débitos tributários existentes), estabelecer
+L1516@P51: mecanismo para fomentar a economia, além de diversificar a base produtiva do estado.
+L1517@P51: Contudo, conforme apresentado no Apêndice 2, as principais medidas para equacionar
+L1518@P51: a crise fiscal passaram pela redução e fusão de secretarias, extinção de fundações, autarquias e
+L1519@P51: companhias, alterações no serviço público e na segurança pública e ampliação do ajuste fiscal
+L1520@P51: através do aumento de tributos, concessões e alienação de bens móveis.
+L1521@P51: Na tabela abaixo, será possível visualizar uma síntese das iniciativas propostas pela
+L1522@P51: agenda de reformas pautadas por temas.
+L1523@P51: Quadro 5 – Agenda de Reforma do Estado: Temas e Pautas
+L1524@P51: Temas Pautas
+L1525@P51: Extinção de Fundações e
+L1526@P51: Autarquias
+L1527@P51: Retira a Companhia Estadual de Silos e Armazéns (Cesa) da necessidade de
+L1528@P51: convocar a realização de plebiscito para a sua privatização e/ou extinção;
+L1529@P51: Extingue as seguintes fundações e autarquias: Fundergs, Fepps, Figtf, Fepagro,
+L1530@P51: Corag e SPH;
+L1531@P51: Retira o dispositivo de convocar a realização de plebiscitos para privatizações;
+L1532@P51: Alienação e Permuta de
+L1533@P51: Bens Imóveis das
+L1534@P51: Fundações
+L1535@P51: Cria o Programa de Aproveitamento e Gestão dos Imóveis no âmbito do Estado do
+L1536@P51: Rio Grande do Sul;
+L1537@P51: Autoriza a permuta de bem imóvel da Fundação para o Desenvolvimento de
+L1538@P51: Recursos Humanos (FDRH);
+L1539@P51: Funcionalismo Público
+L1540@P51: Extinção de licença-prêmio;
+L1541@P51: Ampliação do prazo de prescrição de penas disciplinares;
+L1542@P51: Modifica o Estatuto da Policia Civil;
+L1543@P51: Retira a Brigada Militar da vigilância dos presídios;
+L1544@P51: Altera a licença para representação sindical que passa a ser sem remuneração;
+L1545@P51: Altera as datas de pagamentos dos salários e dos décimos-terceiros salários;
+L1546@P51: Extingue os adicionais por tempo de serviço;
+L1547@P51: Altera a forma como o Governo conta o tempo de carreira do servidor (tempo
+L1548@P51: ficto);
+L1549@P51: Altera o benefício aos servidores integrantes dos órgãos relacionados à Secretaria
+L1550@P51: de Justiça e Segurança em casos de invalidez ou morte;
+L1551@P51: Cria a gratificação por desempenho de atividade prisional (Gdap) para os militares
+L1552@P51-52: estaduais que prestam serviços no Estado;52
+L1553@P52: Estabelece modificações nas cedências dos servidores da segurança;
+L1554@P52: Modifica o Estatuto dos Militares;
+L1555@P52: Elimina o regime de plantão da Susepe de 24 horas de trabalho por 72 ou 96 horas
+L1556@P52: de folga nos presídios;
+L1557@P52: Regime de Previdência
+L1558@P52: Institui o regime complementar, fixa o limite de aposentadorias e pensões e cria a
+L1559@P52: Fundação de Previdência Complementar;
+L1560@P52: Institui o Fundo Previdenciário Civil (Fundoprev) e o Fundo Previdenciário dos
+L1561@P52: Servidores Miitares (Fundoprev/Militar);
+L1562@P52: Responsabilidade Fiscal
+L1563@P52: Institui a Lei de Responsabilidade Fiscal Estadual;
+L1564@P52: Institui o Diário Oficial Eletrônico do Estado;
+L1565@P52: Estabelece a Reforma Administrativa (fusão e extinção de secretarias);
+L1566@P52: Cria a Agência Gaúcha de Desenvolvimento e Promoção do Investimento (AGDI);
+L1567@P52: Altera o cálculo do duodécimo dos Poderes Legislativo e Judiciário;
+L1568@P52: Tributos Estabelece aumentos no ICMS, IPVA e ITCD e retira parte dos benefícios fiscais
+L1569@P52: através dos créditos presumidos de ICMS;
+L1570@P52: Concessões
+L1571@P52: Estabelece readequação administrativa na EGR;
+L1572@P52: Concessões em estradas.
+L1573@P52: Fonte: elaboração própria, com base no Portal de Assessoramento Legislativo da Alergs.
+L1574@P52: Considerando que a agenda reformista proposta pelo Executivo foi composta de
+L1575@P52: iniciativas “custosas” e “impopulares” (já que propôs aumento de tributos, alterações nos
+L1576@P52: planos de carreira do funcionalismo público e extinção de fundações e autarquias ligadas às
+L1577@P52: áreas-chaves como saúde, meio-ambiente, pesquisa, esporte, entre outras) perante a opinião
+L1578@P52: pública, além de impactos nas bases eleitorais dos parlamentares, deduz-se que o Governador
+L1579@P52: ao formar uma ampla coalizão de governo alicerçada em uma base suprapartidária detinha
+L1580@P52: condições políticas para implementar a agenda proposta através do número mínimo de votos
+L1581@P52: necessários para a sua aprovação.
+L1582@P52: Contudo, por se tratar de matérias “delicadas” se fez necessário estabelecer um
+L1583@P52: Governo de maioria, já que em determinadas propostas poderiam não obter o cálculo
+L1584@P52: necessário para as suas aprovações em virtude de que, mesmo pertencendo à base governista,
+L1585@P52: alguns parlamentares poderiam optar por aprovar algumas iniciativas e outras não tendo em
+L1586@P52: vista o custo político que impactaria na base eleitoral de cada parlamentar.
+L1587@P52: Na próxima seção serão abordados aspectos pertinentes à relação Executivo –
+L1588@P52-53: Legislativo na 54ª legislatura gaúcha.53
+L1589@P53: 5. RELAÇÃO EXECUTIVO – LEGISLATIVO (54ª LEGISLATURA GAÚCHA)
+L1590@P53: Nesse capítulo será possível compreender de forma sistemática a relação Executivo –
+L1591@P53: Legislativo no Governo Sartori através das votações nominais no Plenário, os conteúdos e
+L1592@P53: fatores das iniciativas que obtiveram maior índice de aprovação e que foram rejeitadas, os
+L1593@P53: tempos de tramitação, a coesão partidária, o sucesso do Executivo na aprovação das
+L1594@P53: iniciativas de sua autoria e os índices de apoio partidário à agenda reformista.
+L1595@P53: 5.1 VOTAÇÕES DAS INICIATIVAS QUE PAUTARAM A REFORMA DE ESTADO
+L1596@P53: Nesse tópico serão analisadas as 35 votações nominais21 de um total de 39 iniciativas
+L1597@P53: que foram ou não aprovadas pelo Plenário gaúcho. Dentre as iniciativas não aprovadas
+L1598@P53: considerou-se àquelas que foram arquivadas, rejeitadas e que não tiveram votações finais
+L1599@P53: (PECs 2422015 e 2612016). Analisando as aprovações e não aprovações das iniciativas
+L1600@P53: enviadas pelo Executivo, a tabela abaixo mostrará os tipos de iniciativas enviadas pelo
+L1601@P53: Governo e os seus resultados finais, estabelecendo, assim, uma correlação para averiguar
+L1602@P53: sobre qual tipo de matéria de sua autoria o Executivo teve maiores condições para aprovação
+L1603@P53: final.
+L1604@P53: Tabela 7 – Tipo de matéria, quantidade enviada e aprovada e % de aprovação
+L1605@P53: quantitativa – Iniciativas da Agenda da Reforma de Estado
+L1606@P53: Tipo de matéria Quantidade enviada Quantidade aprovada % de aprovação
+L1607@P53: quantitativa
+L1608@P53: PEC 9 2 22%
+L1609@P53: PL 22 21 95%
+L1610@P53: PLC 8 7 87%
+L1611@P53: Total 39 30 77%
+L1612@P53: Fonte: elaboração própria, com base no banco de dados extraídos do Portal de Assessoramento Legislativo da
+L1613@P53: Alergs.
+L1614@P53: Analisando os índices de aprovação por quantidade de iniciativas enviadas pelo
+L1615@P53: Governo e por tipo de matéria, analisa-se que o Executivo teve maior dificuldade para a
+L1616@P53: 
+L1617@P53: 21 Como a amostra escolhida para o desenvolvimento da análise de dados dessa pesquisa foi um conjunto de 39
+L1618@P53: iniciativas enviadas pelo Executivo ao Legislativo englobando a pauta da Reforma de Estado, nessa análise
+L1619@P53: específica trabalhou-se com uma subamostra contendo 35 votações nominais, já que do número total de
+L1620@P53: iniciativas escolhidas para a análise, seis delas foram arquivadas, uma foi rejeitada e duas não tiveram votações
+L1621@P53-54: finais (o caso de duas PECs) e, com isso, não foi possível analisar as suas votações, já que não ocorreram.54
+L1622@P54: aprovação de PECs tendo sido aprovadas apenas duas iniciativas de nove enviadas ao
+L1623@P54: Parlamento. Todavia, nesse aspecto evidencia-se que nesse tipo de matéria, duas das sete
+L1624@P54: iniciativas não aprovadas chegaram a ter votações nominais no primeiro turno, conforme
+L1625@P54: estabelecido pela Constituição Estadual, porém as votações nominais em segundo turno foram
+L1626@P54: ocorrer somente no início do próximo governo. Considerando esses aspectos, observou-se
+L1627@P54: também que dentre as outras cinco iniciativas, uma foi rejeitada por falta de quórum
+L1628@P54: deliberativo e as outras quatro foram arquivadas a pedido do Governo. Sobre isso, deduz-se
+L1629@P54: que o arquivamento dessas iniciativas foi motivado pelo fato de que o Executivo
+L1630@P54: provavelmente não teria a quantidade de votos suficientes para as suas aprovações.
+L1631@P54: No que tange aos PLs e PLCs, o primeiro tipo de matéria conteve o maior volume de
+L1632@P54: autoria do Executivo, entretanto, ambos os tipos tiveram índices de aprovações semelhantes
+L1633@P54: contando com apenas uma iniciativa arquivada por tipo de matéria. Considera-se que tanto os
+L1634@P54: PLs quanto os PLCs não obtiveram altos índices não aprovação pelo fato de que seus
+L1635@P54: conteúdos não demandariam um debate maior como as PECs acarretando em um tempo de
+L1636@P54: tramitação maior, bem como, os impactos causados pelas suas implementações não
+L1637@P54: originariam impactos de maiores magnitudes como as PECs ocasionariam ao reformar
+L1638@P54: elementos contidos na Constituição Estadual.
+L1639@P54: Dessa forma, analisando o Apêndice 3 observa-se os status (aprovadas, rejeitadas,
+L1640@P54: arquivadas e sem deliberação final) e índices de aprovações das votações de todas as
+L1641@P54: iniciativas englobadas na agenda analisada que estão classificadas por sete temas, de acordo
+L1642@P54: com o que demonstra a tabela 8.
+L1643@P54: Observando a tabela abaixo, nota-se que as iniciativas com maiores aprovações estão
+L1644@P54: relacionadas às áreas que envolvem o funcionalismo público, a responsabilidade fiscal e as
+L1645@P54: concessões (75%, 72% e 72%, respectivamente). Já, as áreas com menores aprovações
+L1646@P54: (considerando abaixo de 70%) são as relacionadas com as iniciativas que envolvem a extinção
+L1647@P54: de fundações, do aumento de impostos e alterações no regime de previdência (60%, 61% e
+L1648@P54: 65%).
+L1649@P54: Tabela 8 – Iniciativas aprovadas por votação nominal (%) sobre o total de iniciativas de
+L1650@P54: cada tema
+L1651@P54: Temas Taxa de aprovação média (%)
+L1652@P54: Extinção de fundações 60
+L1653@P54: Alienação e permuta de bens imóveis das fundações 71,5
+L1654@P54-55: Funcionalismo público 7555
+L1655@P55: Regime de previdência 65
+L1656@P55: Responsabilidade fiscal 72
+L1657@P55: Tributos 61
+L1658@P55: Concessões 72
+L1659@P55: Fonte: elaboração própria, baseada no banco de dados das iniciativas buscadas ao Portal de Assessoramento
+L1660@P55: Legislativo da Alergs.
+L1661@P55: Salienta-se que os temas que obtiveram maior aprovação são áreas centrais da agenda
+L1662@P55: do governo Sartori que tem como justificativa equacionar a crise financeira, cujo mérito passa
+L1663@P55: pela retirada de benefícios adquiridos pelo funcionalismo público, economia de gastos da
+L1664@P55: máquina pública e geração de receitas através de taxas advindas das concessões de rodovias
+L1665@P55: que o governo pretendia efetuar.
+L1666@P55: O primeiro tema trata sobre a extinção de fundações de áreas com temáticas essenciais
+L1667@P55: para o desenvolvimento do Estado, e, o segundo afeta a aposentadoria dos servidores públicos
+L1668@P55: através do aumento de tempo da contribuição previdenciária e do percentual financeiro a ser
+L1669@P55: contribuído pelo servidor público. Em suma, considera-se que esses temas têm um maior
+L1670@P55: destaque na opinião pública do que os demais, e por isso, obtiveram menores índices de
+L1671@P55: aprovações.
+L1672@P55: Todavia, as áreas com menores índices de aprovações englobam temas cujo impacto
+L1673@P55: das suas implementações afeta o todo da população, como o aumento de tributos e, por isso,
+L1674@P55: há uma maior sensibilidade para aprová-los, já que essa medida é impopular e pode
+L1675@P55: comprometer os redutos eleitorais dos parlamentares.
+L1676@P55: De toda forma, também se faz necessário compreender os motivos das iniciativas não
+L1677@P55: aprovadas, de acordo com a síntese apresentada no quadro 6. Conforme demonstrado nesse
+L1678@P55: quadro, nota-se que o maior volume dessas iniciativas é composto de emendas à constituição
+L1679@P55: estadual (PECs). Das sete PECs não aprovadas, uma foi rejeitada, duas não tiveram votações
+L1680@P55: em segundo turno e quatro foram arquivadas, conforme abordado no início dessa subseção.
+L1681@P55: Isto posto, os temas que englobam essas iniciativas passam majoritariamente por matérias
+L1682@P55: relacionadas ao funcionalismo público e o restante que tratam sobre os temas da extinção de
+L1683@P55: fundações e autarquias e da responsabilidade fiscal, conforme visualiza-se na tabela abaixo.
+L1684@P55: Conforme noticiado por Bublitz (2017) em matéria veiculada no portal de notícias
+L1685@P55: Gaúcha ZH 22 no tocante às dificuldades enfrentadas pelo Governo na aprovação de
+L1686@P55: 
+L1687@P55: 22 BUBLITZ, J. Quais são os projetos de Sartori que serão votados pela Assembleia e a chance de aprovar cada
+L1688@P55: um deles. GAUCHAZH, Porto Alegre, 27 mar. 2017. Disponível em:
+L1689@P55-56: https://gauchazh.clicrbs.com.br/politica/noticia/2017/03/quais-sao-os-projetos-de-sartori-que-serao-votados-pelaassembleia-e-a-chance-de-aprovar-cada-um-deles-9758189.html. Acessado em: 04 mar. 2021.56
+L1690@P56: determinadas iniciativas de sua autoria, analisou-se que as PEC 242/2015 e 261/2016
+L1691@P56: sofreram fortes resistências dos sindicatos e as mesmas necessitavam de no mínimo 33 votos
+L1692@P56: para serem aprovadas, porém obtiveram 35 e 36 votos favoráveis, respectivamente. Contudo,
+L1693@P56: mesmo com as suas aprovações em primeiro turno, ambas as matérias só tiveram votações
+L1694@P56: finais no início do Governo Eduardo Leite. Observa-se que, como as propostas encontraram
+L1695@P56: resistências, também, em Plenário, acabaram arrastando-se quanto ao tempo das suas
+L1696@P56: tramitações.
+L1697@P56: Em relação à PEC 256/2016, conforme observado na matéria citada acima, a mesma
+L1698@P56: também encontrou resistência através das centrais sindicais e, devido à proporção do
+L1699@P56: descontentamento com a matéria proposta, acabou por ser arquivada devido às pressões
+L1700@P56: externas dos sindicatos e pelo fato de que o Governo não obtinha os votos necessários para a
+L1701@P56: sua aprovação.
+L1702@P56: Outrossim, o caso da PEC 257/2016 é semelhante ao anterior. A proposta também
+L1703@P56: sofreu pressão dos sindicatos e contou com um fator-chave que é o fato do PDT ter se
+L1704@P56: posicionado contra a proposta. Sem a aprovação por parte dos deputados pertencentes ao
+L1705@P56: partido, o Governo percebeu que a iniciativa não seria aprovada e acabou arquivando-a.
+L1706@P56: A situação da PEC 258/2016 também se assemelha aos dois casos anteriores que,
+L1707@P56: sofrendo forte pressão externa para a sua não aprovação, acabou sendo arquivada a pedido do
+L1708@P56: Governo.
+L1709@P56: Já, o caso da PEC 259/2016, conforme veiculado em meio de comunicação, além de
+L1710@P56: sofrer rejeição externa por parte das centrais sindicais, também encontrou resistências por dois
+L1711@P56: partidos, cujos votos seriam essenciais para a sua aprovação que foram os casos do PDT e
+L1712@P56: PTB que recentemente haviam deixado à base governista. Com isso, a proposta foi arquivada.
+L1713@P56: Assim sendo, a PEC 261/2016 também se assemelhou aos casos anteriores no que
+L1714@P56: tange às resistências externas e ao fato de não ter votos suficientes para a sua aprovação e, por
+L1715@P56: isso, acabou sendo arquivada.
+L1716@P56: Concluindo as considerações sobre as PECs, tem-se como exemplo de matéria
+L1717@P56: legislativa que contou com fortes pressões interna e externa23 (cabe ser mais bem detalhado
+L1718@P56: pelo contexto político em que se inseriu), tem-se o caso da PEC 260/2016 que foi rejeitada em
+L1719@P56: primeiro turno por não contar com o quórum necessário para a sua deliberação24
+L1720@P56: . Tal
+L1721@P56: desempenho se deu em virtude do seu conteúdo que pretendia alterar a forma de repasse do
+L1722@P56: 
+L1723@P56: 23 Pressões geradas de forma institucional através dos Poderes Legislativo e Judiciário não queriam a sua
+L1724@P56: aprovação.
+L1725@P56: 24 Obteve apenas 29 votos favoráveis, sendo que o necessário seria contar com 33 votos favoráveis, ou 23,
+L1726@P56-57: conforme determina a Constituição Estadual.57
+L1727@P57: duodécimo aos Poderes Legislativo e Judiciário. O Governo propôs alterações na Constituição
+L1728@P57: Estadual para que o repasse fosse vinculado à realização das receitas originalmente orçadas,
+L1729@P57: ou seja, à RCL, e não de acordo com as dotações aprovadas em orçamento, conforme
+L1730@P57: regramento constitucional. A justificativa do Governo para a proposição e aprovação da PEC
+L1731@P57: se deu em virtude da queda estimada do Produto Interno Bruto (PIB) de mais de 7% para os
+L1732@P57: anos de 2015 e 2016 e, com isso, a arrecadação tributária se tornaria aquém das previsões
+L1733@P57: orçamentárias desse período. Assim sendo, o Executivo justificou que tem sido o único Poder
+L1734@P57: a arcar com as consequências da crise financeira acima mencionada, sendo que os demais
+L1735@P57: poderes mantiveram as suas arrecadações inalteradas. Dessa forma, a proposição teve como
+L1736@P57: base dividir o ônus da arrecadação das receitas para com os demais poderes. Observa-se que a
+L1737@P57: iniciativa gerou forte divisão política, já que a mesma afetava diretamente o Poder Legislativo
+L1738@P57: e o Judiciário. Além dos 19 votos contrários oriundos do PC do B, PDT, Psol, PT e Rede, em
+L1739@P57: sua maioria de partidos de oposição ao governo, houve abstenções de 6 parlamentares
+L1740@P57: distribuídos entre PDT, PSD, PSDB e PTB, partidos em sua maioria pertencentes à base do
+L1741@P57: governo.
+L1742@P57: No que concerne aos demais tipos de matérias legislativas, há o caso da PL 214/2015,
+L1743@P57: que tramitou em regime de urgência e sofreu pressão da base de Governo para que se retirasse
+L1744@P57: a urgência do projeto tendo em vista que a iniciativa afetaria o setor primário através da perda
+L1745@P57: de parte dos benefícios fiscais oriundos pelos créditos advindos do ICMS e, com isso, acabou
+L1746@P57: sendo arquivada por pressão interna.
+L1747@P57: Por fim, a PLC 245/2016 teve o mesmo destino que as demais iniciativas abordadas
+L1748@P57: anteriormente, tendo em vista a pressão externa causada pelo sindicato estadual dos agentes
+L1749@P57: penitenciários que foram contra a proposta e, com isso, o Governo decide pelo arquivamento
+L1750@P57: da matéria.
+L1751@P57: Quadro 6 – Conteúdos das iniciativas não aprovadas da agenda da Reforma de Estado –
+L1752@P57: PECs, PLs e PLCs
+L1753@P57: Iniciativas Conteúdos Temas Status final
+L1754@P57: PEC 242/2015 Extinção de licença-prêmio; Funcionalismo
+L1755@P57: Público
+L1756@P57: Sem votação
+L1757@P57: final
+L1758@P57: PEC 256/2016 Altera a licença para representação sindical
+L1759@P57: que passa a ser sem remuneração;
+L1760@P57: Funcionalismo
+L1761@P57: Público Arquivada
+L1762@P57: PEC 257/2016 Altera as datas de pagamentos dos salários
+L1763@P57: e dos décimos-terceiros salários;
+L1764@P57: Funcionalismo
+L1765@P57: Público Arquivada
+L1766@P57: PEC 258/2016 Extingue os adicionais por tempo de
+L1767@P57: serviço;
+L1768@P57: Funcionalismo
+L1769@P57-58: Público Arquivada58
+L1770@P58: PEC 259/2016 Retira o dispositivo de convocar a
+L1771@P58: realização de plebiscitos para privatizações;
+L1772@P58: Extinção de
+L1773@P58: Fundações e
+L1774@P58: Autarquias
+L1775@P58: Arquivada
+L1776@P58: PEC 260/2016 Alterações no repasse do duodécimo dos
+L1777@P58: Poderes Legislativo e Judiciário;
+L1778@P58: Responsabilidade
+L1779@P58: Fiscal Rejeitada
+L1780@P58: PEC 261/2016 Altera a forma como o Governo conta o
+L1781@P58: tempo de carreira do servidor (tempo ficto);
+L1782@P58: Funcionalismo
+L1783@P58: Público
+L1784@P58: Sem votação
+L1785@P58: final
+L1786@P58: PL 214/2015 Retira parte dos benefícios fiscais através
+L1787@P58: dos créditos presumidos de ICMS; Tributos Arquivada
+L1788@P58: PLC 245/2016
+L1789@P58: Elimina o regime de plantão da Susepe de
+L1790@P58: 24 horas de trabalho por 72 ou 96 horas de
+L1791@P58: folga nos presídios.
+L1792@P58: Funcionalismo
+L1793@P58: Público Arquivada
+L1794@P58: Fonte: elaboração própria, com base em banco de dados do Portal de Assessoramento Legislativo da Alergs.
+L1795@P58: Abaixo, serão abordados os tempos de tramitação das trinta iniciativas aprovadas de
+L1796@P58: autoria do Executivo no que tange às PECs, aos PLs e PLCs analisando desde o tempo em que
+L1797@P58: cada iniciativa foi protocolada na ALERS até o período da sua promulgação.

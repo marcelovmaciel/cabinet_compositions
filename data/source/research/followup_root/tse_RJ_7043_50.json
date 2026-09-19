@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "AVANTE",
+  "id": 50,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 5429,
+      "totalElements": 5429,
+      "response_sha256": "2d3128d9e8ad802a9bb0000b57d289fe1fcd1734dc947cc9bf7153d18920d96f",
+      "retrieved_utc": "2026-09-10T23:41:29Z"
+    }
+  ],
+  "matches": []
+}

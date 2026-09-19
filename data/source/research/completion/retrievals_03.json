@@ -1,0 +1,34 @@
+[
+  {
+    "file": "rol_dez2022.pdf",
+    "url": "https://www.gov.br/casacivil/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas-pr/2022/rol-de-responsaveis/rol_de_responsaveis_dez2022.pdf",
+    "status": 200,
+    "bytes": 429142,
+    "valid_pdf": true,
+    "transport": "TLS certificate verification disabled for public-source retrieval due local certificate chain failure"
+  },
+  {
+    "file": "dou2_2018_12_31.pdf",
+    "url": "https://transparencia.mpf.mp.br/conteudo/diarios-e-boletins/diario-oficial-da-uniao-1/2018/dou2_2018_12_31.pdf",
+    "status": 200,
+    "bytes": 421025,
+    "valid_pdf": true,
+    "transport": "TLS certificate verification disabled for public-source retrieval due local certificate chain failure"
+  },
+  {
+    "file": "dou2_2016_03_21.pdf",
+    "url": "https://transparencia.mpf.mp.br/conteudo/diarios-e-boletins/diario-oficial-da-uniao-1/2016/dou2_2016_03_21.pdf",
+    "status": 200,
+    "bytes": 1895227,
+    "valid_pdf": true,
+    "transport": "TLS certificate verification disabled for public-source retrieval due local certificate chain failure"
+  },
+  {
+    "file": "orgaos_temer.pdf",
+    "url": "https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/biblioteca-da-pr/galeria-dos-ex-presidentes/itamar-augusto-cautiero-franco/orgaos-da-pr-itamar-franco.pdf",
+    "status": 200,
+    "bytes": 292465,
+    "valid_pdf": true,
+    "transport": "TLS certificate verification disabled for public-source retrieval due local certificate chain failure"
+  }
+]

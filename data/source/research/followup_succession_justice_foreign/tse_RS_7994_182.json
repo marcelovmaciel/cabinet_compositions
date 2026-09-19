@@ -1,0 +1,17 @@
+{
+  "party": "PRD",
+  "id": 182,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=182&currentPage=0&pageSize=10000",
+      "records": 9202,
+      "totalElements": 9202,
+      "response_sha256": "d45ea696c37d97e2313713c4f010ff45cf620100a20d1e22d406a092f6b6c26a",
+      "retrieved_utc": "2026-09-10T23:38:48Z"
+    }
+  ],
+  "matches": []
+}

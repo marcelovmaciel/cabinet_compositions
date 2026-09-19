@@ -1,0 +1,16 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "party": "PL",
+  "id": 38,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=38&currentPage=0&pageSize=10000",
+      "records": 2889,
+      "totalElements": 2889,
+      "response_sha256": "3258e475bb375685a629a862719d14da24656dbbad8fcc7a7af8add7a63a0de4",
+      "retrieved_utc": "2026-09-11T01:05:08Z"
+    }
+  ],
+  "matches": []
+}

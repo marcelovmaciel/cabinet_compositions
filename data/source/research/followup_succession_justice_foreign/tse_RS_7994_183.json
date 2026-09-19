@@ -1,0 +1,17 @@
+{
+  "party": "MISSÃO",
+  "id": 183,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 324,
+      "totalElements": 324,
+      "response_sha256": "816852e18d91c3630dd2879c75e32583c636053063a1da401902cd41b03c7186",
+      "retrieved_utc": "2026-09-10T23:38:00Z"
+    }
+  ],
+  "matches": []
+}

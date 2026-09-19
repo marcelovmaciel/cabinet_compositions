@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "MDB",
+  "id": 42,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 3820,
+      "totalElements": 3820,
+      "response_sha256": "e00e93f092458810cbceb4a5ece11217e1690ba358baab96529ac5541a8a2c7f",
+      "retrieved_utc": "2026-09-10T23:44:15Z"
+    }
+  ],
+  "matches": []
+}

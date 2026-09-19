@@ -1,0 +1,384 @@
+[
+  {
+    "file": "affiliations.csv",
+    "key": [
+      "affiliation-C056-renato-de-lima-franca-2020-04-28"
+    ],
+    "before": {
+      "affiliation_id": "affiliation-C056-renato-de-lima-franca-2020-04-28",
+      "person_id": "person-renato-de-lima-franca",
+      "start_inclusive": "2020-04-28",
+      "end_exclusive": "2020-04-29",
+      "state": "UNKNOWN",
+      "party_id": "",
+      "support": "Substantive searches did not establish temporally relevant personal affiliation; employer and nomination are not personal affiliation",
+      "date_status": "unresolved_personal_affiliation",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "C056",
+      "decision_ids": "C056"
+    },
+    "after": {
+      "affiliation_id": "affiliation-C056-renato-de-lima-franca-2020-04-28",
+      "person_id": "person-renato-de-lima-franca",
+      "start_inclusive": "2020-04-28",
+      "end_exclusive": "2020-04-29",
+      "state": "UNKNOWN",
+      "party_id": "",
+      "support": "Substantive searches did not establish temporally relevant personal affiliation; employer and nomination are not personal affiliation",
+      "date_status": "unresolved_personal_affiliation",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "C056;V5W3E002",
+      "decision_ids": "C056;V5W3D002"
+    }
+  },
+  {
+    "file": "affiliations.csv",
+    "key": [
+      "affiliation-C057-marcos-paulo-cardoso-coelho-da-silva-2020-02-14"
+    ],
+    "before": {
+      "affiliation_id": "affiliation-C057-marcos-paulo-cardoso-coelho-da-silva-2020-02-14",
+      "person_id": "person-marcos-paulo-cardoso-coelho-da-silva",
+      "start_inclusive": "2020-02-14",
+      "end_exclusive": "2020-02-18",
+      "state": "UNKNOWN",
+      "party_id": "",
+      "support": "Substantive searches did not establish temporally relevant personal affiliation; employer and nomination are not personal affiliation",
+      "date_status": "unresolved_personal_affiliation",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "C057",
+      "decision_ids": "C057"
+    },
+    "after": {
+      "affiliation_id": "affiliation-C057-marcos-paulo-cardoso-coelho-da-silva-2020-02-14",
+      "person_id": "person-marcos-paulo-cardoso-coelho-da-silva",
+      "start_inclusive": "2020-02-14",
+      "end_exclusive": "2020-02-18",
+      "state": "UNKNOWN",
+      "party_id": "",
+      "support": "Substantive searches did not establish temporally relevant personal affiliation; employer and nomination are not personal affiliation",
+      "date_status": "unresolved_personal_affiliation",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "C057;V5W3E003",
+      "decision_ids": "C057;V5W3D003"
+    }
+  },
+  {
+    "file": "affiliations.csv",
+    "key": [
+      "affiliation-C060-luiz-pontel-de-souza-2020-04-24"
+    ],
+    "before": {
+      "affiliation_id": "affiliation-C060-luiz-pontel-de-souza-2020-04-24",
+      "person_id": "person-luiz-pontel-de-souza",
+      "start_inclusive": "2020-04-24",
+      "end_exclusive": "2020-04-29",
+      "state": "UNKNOWN",
+      "party_id": "",
+      "support": "Substantive searches did not establish temporally relevant personal affiliation; employer and nomination are not personal affiliation",
+      "date_status": "unresolved_personal_affiliation",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "C060",
+      "decision_ids": "C060"
+    },
+    "after": {
+      "affiliation_id": "affiliation-C060-luiz-pontel-de-souza-2020-04-24",
+      "person_id": "person-luiz-pontel-de-souza",
+      "start_inclusive": "2020-04-24",
+      "end_exclusive": "2020-04-29",
+      "state": "UNKNOWN",
+      "party_id": "",
+      "support": "Substantive searches did not establish temporally relevant personal affiliation; employer and nomination are not personal affiliation",
+      "date_status": "unresolved_personal_affiliation",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "C060;V5W3E001",
+      "decision_ids": "C060;V5W3D001"
+    }
+  },
+  {
+    "file": "completion_research_register.csv",
+    "key": [
+      "completion-search-luiz-pontel-de-souza"
+    ],
+    "before": {
+      "research_id": "completion-search-luiz-pontel-de-souza",
+      "dependency_id": "person-luiz-pontel-de-souza",
+      "person_name": "Luiz Pontel de Souza",
+      "service_intervals": "2020-04-24/2020-04-29",
+      "name_variants": "Luiz Pontel de Souza;Luiz Pontel",
+      "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches",
+      "saved_result_files": "research/completion/web_102.txt;research/completion/web_103.txt;research/completion/web_104.txt;research/completion/web_179.txt;research/completion/web_228.txt;research/completion/web_292.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md;research/followup_root/filiaweb_2016_names.json",
+      "source_review_finding": "Official April 24 2020 interministerial act confirms interim service. Desfiliação story concerns Guilherme Theophilo, not Pontel; PF career is not a party observation. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation.",
+      "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+      "search_date": "2026-09-10",
+      "completion_status": "blocked"
+    },
+    "after": {
+      "research_id": "completion-search-luiz-pontel-de-souza",
+      "dependency_id": "person-luiz-pontel-de-souza",
+      "person_name": "Luiz Pontel de Souza",
+      "service_intervals": "2020-04-24/2020-04-29",
+      "name_variants": "Luiz Pontel de Souza;Luiz Pontel",
+      "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches; v5 original personnel eligibility/association documents and targeted declaration queries; new scoped official TSE locality lists",
+      "saved_result_files": "research/completion/web_102.txt;research/completion/web_103.txt;research/completion/web_104.txt;research/completion/web_179.txt;research/completion/web_228.txt;research/completion/web_292.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md;research/followup_root/filiaweb_2016_names.json;research/refinement_v5/worker_3_bolsonaro_2020/RESEARCH.md;research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_pontel_all_new_localities.json;research/refinement_v5/worker_3_bolsonaro_2020/sources/TSE_NEW_LOCALITIES_SUMMARY.json",
+      "source_review_finding": "Official April 24 2020 interministerial act confirms interim service. Desfiliação story concerns Guilherme Theophilo, not Pontel; PF career is not a party observation. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation. V5 focused follow-up: The three municipalities follow the prior documented birth/work biography, supplementing already exhausted DF and Sao Paulo queries. All 39 available party identifiers were checked in each municipality; 37726,2034,14473 rows respectively, with no errors. This is not a national historical 2020 registry and does not establish non-affiliation or a bounded set of alternatives. Retain UNKNOWN for 2020-04-24/2020-04-29 and unchanged vacancy service.",
+      "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+      "search_date": "2026-09-10",
+      "completion_status": "blocked"
+    }
+  },
+  {
+    "file": "completion_research_register.csv",
+    "key": [
+      "completion-search-marcos-paulo-cardoso-coelho-da-silva"
+    ],
+    "before": {
+      "research_id": "completion-search-marcos-paulo-cardoso-coelho-da-silva",
+      "dependency_id": "person-marcos-paulo-cardoso-coelho-da-silva",
+      "person_name": "Marcos Paulo Cardoso Coelho da Silva",
+      "service_intervals": "2020-02-14/2020-02-18",
+      "name_variants": "Marcos Paulo Cardoso Coelho",
+      "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches",
+      "saved_result_files": "research/completion/web_138.txt;research/completion/web_168.txt;research/completion/web_171.txt;research/completion/web_172.txt;research/completion/web_181.txt;research/completion/web_200.txt;research/completion/web_201.txt;research/completion/web_214.txt;research/completion/web_221.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md",
+      "source_review_finding": "DOU February 14 extra and contemporaneous March 3 report establish executive-secretary vacancy replacement. Police career does not establish non-affiliation. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation.",
+      "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+      "search_date": "2026-09-10",
+      "completion_status": "blocked"
+    },
+    "after": {
+      "research_id": "completion-search-marcos-paulo-cardoso-coelho-da-silva",
+      "dependency_id": "person-marcos-paulo-cardoso-coelho-da-silva",
+      "person_name": "Marcos Paulo Cardoso Coelho da Silva",
+      "service_intervals": "2020-02-14/2020-02-18",
+      "name_variants": "Marcos Paulo Cardoso Coelho",
+      "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches; v5 original personnel eligibility/association documents and targeted declaration queries",
+      "saved_result_files": "research/completion/web_138.txt;research/completion/web_168.txt;research/completion/web_171.txt;research/completion/web_172.txt;research/completion/web_181.txt;research/completion/web_200.txt;research/completion/web_201.txt;research/completion/web_214.txt;research/completion/web_221.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md;research/refinement_v5/worker_3_bolsonaro_2020/RESEARCH.md;research/refinement_v5/worker_3_bolsonaro_2020/sources/adpf_2021_scoped.json",
+      "source_review_finding": "DOU February 14 extra and contemporaneous March 3 report establish executive-secretary vacancy replacement. Police career does not establish non-affiliation. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation. V5 focused follow-up: The original ADPF directory independently identifies the organization in the prior desfiliação reports as a professional association, not a political party. Neither this role nor police employment, institutional testimony, or the appointing politician supplies personal party status in February 2020. Personnel-declaration searches recovered no qualifying observation or finite alternatives. Preserve UNKNOWN for 2020-02-14/2020-02-18 and unchanged vacancy service.",
+      "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+      "search_date": "2026-09-10",
+      "completion_status": "blocked"
+    }
+  },
+  {
+    "file": "completion_research_register.csv",
+    "key": [
+      "completion-search-renato-de-lima-franca"
+    ],
+    "before": {
+      "research_id": "completion-search-renato-de-lima-franca",
+      "dependency_id": "person-renato-de-lima-franca",
+      "person_name": "Renato de Lima França",
+      "service_intervals": "2020-04-28/2020-04-29",
+      "name_variants": "Renato de Lima França;Renato de Lima Franca",
+      "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches",
+      "saved_result_files": "research/completion/web_003.txt;research/completion/web_036.txt;research/completion/web_084.txt;research/completion/web_086.txt;research/completion/web_206.txt;research/completion/web_210.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md;research/followup_root/filiaweb_2016_names.json;research/followup_bolsonaro_affiliations/RENATO_ARAUCARIA_LEAD_FINDINGS.md",
+      "source_review_finding": "AGU April 2020 bulletin establishes actual replacement. Public legal career and adviser descriptions do not establish party or no-party status. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation. A 2016 historical PT Araucaria record has the same name, but contextual/identifier evidence cannot establish this is the AGU officeholder; all39 current Araucaria party lists have no matching name. Preserve as unconfirmed identity lead, not personal affiliation.",
+      "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+      "search_date": "2026-09-10",
+      "completion_status": "blocked"
+    },
+    "after": {
+      "research_id": "completion-search-renato-de-lima-franca",
+      "dependency_id": "person-renato-de-lima-franca",
+      "person_name": "Renato de Lima França",
+      "service_intervals": "2020-04-28/2020-04-29",
+      "name_variants": "Renato de Lima França;Renato de Lima Franca",
+      "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches; v5 original personnel eligibility/association documents and targeted declaration queries",
+      "saved_result_files": "research/completion/web_003.txt;research/completion/web_036.txt;research/completion/web_084.txt;research/completion/web_086.txt;research/completion/web_206.txt;research/completion/web_210.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md;research/followup_root/filiaweb_2016_names.json;research/followup_bolsonaro_affiliations/RENATO_ARAUCARIA_LEAD_FINDINGS.md;research/refinement_v5/worker_3_bolsonaro_2020/RESEARCH.md;research/refinement_v5/worker_3_bolsonaro_2020/sources/renato_caixa_eligibility_scoped.txt;research/refinement_v5/worker_3_bolsonaro_2020/sources/renato_caixa_eligibility_20220314_retrieval.json",
+      "source_review_finding": "AGU April 2020 bulletin establishes actual replacement. Public legal career and adviser descriptions do not establish party or no-party status. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation. A 2016 historical PT Araucaria record has the same name, but contextual/identifier evidence cannot establish this is the AGU officeholder; all39 current Araucaria party lists have no matching name. Preserve as unconfirmed identity lead, not personal affiliation. V5 focused follow-up: The original two-page minute contains approval and a reference to Opinion 014/2022, not the opinion text or a declaration of non-affiliation. This cannot date a personal affiliation status in April 2020. The prior PT/Araucaria historical same-name row remains identity-unconfirmed; no bridge to its masked voter identifier was recovered. Preserve UNKNOWN for 2020-04-28/2020-04-29 and unchanged vacancy service.",
+      "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+      "search_date": "2026-09-10",
+      "completion_status": "blocked"
+    }
+  },
+  {
+    "file": "decisions.csv",
+    "key": [
+      "V5W3D001"
+    ],
+    "before": null,
+    "after": {
+      "decision_id": "V5W3D001",
+      "disposition": "v5_targeted_affiliation_review_unresolved",
+      "evidence_ids": "V5W3E001",
+      "rationale": "The three municipalities follow the prior documented birth/work biography, supplementing already exhausted DF and Sao Paulo queries. All 39 available party identifiers were checked in each municipality; 37726,2034,14473 rows respectively, with no errors. This is not a national historical 2020 registry and does not establish non-affiliation or a bounded set of alternatives. Retain UNKNOWN for 2020-04-24/2020-04-29 and unchanged vacancy service.",
+      "alternatives": "[]"
+    }
+  },
+  {
+    "file": "decisions.csv",
+    "key": [
+      "V5W3D002"
+    ],
+    "before": null,
+    "after": {
+      "decision_id": "V5W3D002",
+      "disposition": "v5_targeted_affiliation_review_unresolved",
+      "evidence_ids": "V5W3E002",
+      "rationale": "The original two-page minute contains approval and a reference to Opinion 014/2022, not the opinion text or a declaration of non-affiliation. This cannot date a personal affiliation status in April 2020. The prior PT/Araucaria historical same-name row remains identity-unconfirmed; no bridge to its masked voter identifier was recovered. Preserve UNKNOWN for 2020-04-28/2020-04-29 and unchanged vacancy service.",
+      "alternatives": "[]"
+    }
+  },
+  {
+    "file": "decisions.csv",
+    "key": [
+      "V5W3D003"
+    ],
+    "before": null,
+    "after": {
+      "decision_id": "V5W3D003",
+      "disposition": "v5_targeted_affiliation_review_unresolved",
+      "evidence_ids": "V5W3E003",
+      "rationale": "The original ADPF directory independently identifies the organization in the prior desfiliação reports as a professional association, not a political party. Neither this role nor police employment, institutional testimony, or the appointing politician supplies personal party status in February 2020. Personnel-declaration searches recovered no qualifying observation or finite alternatives. Preserve UNKNOWN for 2020-02-14/2020-02-18 and unchanged vacancy service.",
+      "alternatives": "[]"
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W3E001"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W3E001",
+      "asserted_fact": "Official TSE current public lists for Londrina, Sananduva and Presidente Prudente contain no exact Luiz Pontel de Souza match across 117 successful scoped queries and 54233 inspected records.",
+      "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+      "publisher": "Tribunal Superior Eleitoral",
+      "publication_date": "2026-09-10",
+      "retrieval_date": "2026-09-10",
+      "access_status": "scoped_public_api_results_and_response_hashes",
+      "rationale": "The three municipalities follow the prior documented birth/work biography, supplementing already exhausted DF and Sao Paulo queries. All 39 available party identifiers were checked in each municipality; 37726,2034,14473 rows respectively, with no errors. This is not a national historical 2020 registry and does not establish non-affiliation or a bounded set of alternatives. Retain UNKNOWN for 2020-04-24/2020-04-29 and unchanged vacancy service."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W3E002"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W3E002",
+      "asserted_fact": "Caixa Seguridade eligibility minute 104 approves nominee Renato de Lima Franca for an XS3 fiscal-council position; its target item contains no party-membership or nonmembership declaration.",
+      "source_locator": "https://api.mziq.com/mzfilemanager/v2/d/3972906b-e50b-4f74-ab74-4d0d32125d11/4b015055-675f-db8a-8597-81266eb9317a?origin=1",
+      "publisher": "Caixa Seguridade Participacoes S.A.",
+      "publication_date": "2022-03-14",
+      "retrieval_date": "2026-09-10",
+      "access_status": "original_pdf_inspected_target_excerpt_retained_identifier_redacted",
+      "rationale": "The original two-page minute contains approval and a reference to Opinion 014/2022, not the opinion text or a declaration of non-affiliation. This cannot date a personal affiliation status in April 2020. The prior PT/Araucaria historical same-name row remains identity-unconfirmed; no bridge to its masked voter identifier was recovered. Preserve UNKNOWN for 2020-04-28/2020-04-29 and unchanged vacancy service."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W3E003"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W3E003",
+      "asserted_fact": "ADPF original 2021 elected regional-directory publication lists Marcos Paulo Cardoso Coelho da Silva as Distrito Federal treasurer; this is a police professional association role.",
+      "source_locator": "https://web.adpf.org.br/noticia/adpf/eleicoes-2021-diretorias-regionais-da-adpf-sao-empossadas/",
+      "publisher": "Associacao Nacional dos Delegados de Policia Federal",
+      "publication_date": "2021",
+      "retrieval_date": "2026-09-10",
+      "access_status": "original_html_retrieved_scoped_target_context_retained",
+      "rationale": "The original ADPF directory independently identifies the organization in the prior desfiliação reports as a professional association, not a political party. Neither this role nor police employment, institutional testimony, or the appointing politician supplies personal party status in February 2020. Personnel-declaration searches recovered no qualifying observation or finite alternatives. Preserve UNKNOWN for 2020-02-14/2020-02-18 and unchanged vacancy service."
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W3E001",
+      "research/refinement_v5/worker_3_bolsonaro_2020/sources/TSE_NEW_LOCALITIES_SUMMARY.json",
+      "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+      "derived_completeness_summary"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W3E001",
+      "snapshot_path": "research/refinement_v5/worker_3_bolsonaro_2020/sources/TSE_NEW_LOCALITIES_SUMMARY.json",
+      "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+      "snapshot_kind": "derived_completeness_summary",
+      "sha256": "d375316c7e6a6bff17c44ecec32efb63ab73a19c74a442cabb2ebbc26537e6f3"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W3E001",
+      "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_pontel_all_new_localities.json",
+      "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+      "scoped_public_api_results_unrelated_person_rows_discarded"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W3E001",
+      "snapshot_path": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_pontel_all_new_localities.json",
+      "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+      "snapshot_kind": "scoped_public_api_results_unrelated_person_rows_discarded",
+      "sha256": "0913cf791b80cd22e480d88474c711907c55dbb8263fe6710366c6262c02360a"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W3E002",
+      "research/refinement_v5/worker_3_bolsonaro_2020/sources/renato_caixa_eligibility_20220314_retrieval.json",
+      "https://api.mziq.com/mzfilemanager/v2/d/3972906b-e50b-4f74-ab74-4d0d32125d11/4b015055-675f-db8a-8597-81266eb9317a?origin=1",
+      "original_source_retrieval_metadata_and_hash"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W3E002",
+      "snapshot_path": "research/refinement_v5/worker_3_bolsonaro_2020/sources/renato_caixa_eligibility_20220314_retrieval.json",
+      "source_locator": "https://api.mziq.com/mzfilemanager/v2/d/3972906b-e50b-4f74-ab74-4d0d32125d11/4b015055-675f-db8a-8597-81266eb9317a?origin=1",
+      "snapshot_kind": "original_source_retrieval_metadata_and_hash",
+      "sha256": "39f5274461921b06f351d16b282c8f8fedba631d42d008bc2f2becf19306b523"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W3E002",
+      "research/refinement_v5/worker_3_bolsonaro_2020/sources/renato_caixa_eligibility_scoped.txt",
+      "https://api.mziq.com/mzfilemanager/v2/d/3972906b-e50b-4f74-ab74-4d0d32125d11/4b015055-675f-db8a-8597-81266eb9317a?origin=1",
+      "scoped_original_pdf_excerpt_identifier_redacted"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W3E002",
+      "snapshot_path": "research/refinement_v5/worker_3_bolsonaro_2020/sources/renato_caixa_eligibility_scoped.txt",
+      "source_locator": "https://api.mziq.com/mzfilemanager/v2/d/3972906b-e50b-4f74-ab74-4d0d32125d11/4b015055-675f-db8a-8597-81266eb9317a?origin=1",
+      "snapshot_kind": "scoped_original_pdf_excerpt_identifier_redacted",
+      "sha256": "0eb72fa7419bc762a3f62003635aa42bcc7a2e7621b23c2f59572b97ec2831d4"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W3E003",
+      "research/refinement_v5/worker_3_bolsonaro_2020/sources/adpf_2021_scoped.json",
+      "https://web.adpf.org.br/noticia/adpf/eleicoes-2021-diretorias-regionais-da-adpf-sao-empossadas/",
+      "scoped_original_html_target_context_with_response_hash"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W3E003",
+      "snapshot_path": "research/refinement_v5/worker_3_bolsonaro_2020/sources/adpf_2021_scoped.json",
+      "source_locator": "https://web.adpf.org.br/noticia/adpf/eleicoes-2021-diretorias-regionais-da-adpf-sao-empossadas/",
+      "snapshot_kind": "scoped_original_html_target_context_with_response_hash",
+      "sha256": "336e08ecf68b8c25c7c1573c24f75a63bd5fa03bc38d5e204f4ab86e1ce5a4d1"
+    }
+  }
+]

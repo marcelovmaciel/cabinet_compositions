@@ -1,0 +1,24 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "REPUBLICANOS",
+  "id": 51,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=51&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 18174,
+      "response_sha256": "e10917749baf70e0b8f2b6e72b01f6ee84d282097be3f0c2446efda90b16b3bc",
+      "retrieved_utc": "2026-09-10T23:37:25Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=51&currentPage=1&pageSize=10000",
+      "records": 8174,
+      "totalElements": 18174,
+      "response_sha256": "61afb51ff38d9ce3e8cc8d87d33e31285c1396a6ec0a9cbaa6f2eebf65354bd6",
+      "retrieved_utc": "2026-09-10T23:37:42Z"
+    }
+  ],
+  "matches": []
+}

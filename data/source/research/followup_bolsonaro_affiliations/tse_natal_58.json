@@ -1,0 +1,14 @@
+{
+  "party": "NOVO",
+  "id": 58,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 400,
+      "totalElements": 400,
+      "response_sha256": "c52eb89478f9366ac738063cc4891a2bf20677a10748fbdd7eb18a711f9acc68",
+      "retrieved_utc": "2026-09-10T23:43:06Z"
+    }
+  ],
+  "matches": []
+}

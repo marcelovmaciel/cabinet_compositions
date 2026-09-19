@@ -1,0 +1,14 @@
+{
+  "party": "DC",
+  "id": 59,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=59&currentPage=0&pageSize=10000",
+      "records": 376,
+      "totalElements": 376,
+      "response_sha256": "a575590a6e6091d6b18f677776c8c1776f84d363b550a0c9f4638fc01e97a057",
+      "retrieved_utc": "2026-09-10T23:43:04Z"
+    }
+  ],
+  "matches": []
+}

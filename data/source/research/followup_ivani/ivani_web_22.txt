@@ -1,0 +1,31 @@
+Verificação de segurança — Senado Federal (https://www2.senado.leg.br/bdsf/bitstream/handle/id/529366/noticia.html?isAllowed=y&sequence=1)
+citeturn377view0 [wordlim: 200] Crawled: 3 days ago; Content type: text/html; Source: open({"ref_id":"https://www2.senado.leg.br/bdsf/bitstream/handle/id/529366/noticia.html?isAllowed=y&sequence=1","lineno":null}); Total lines: 17
+L0: [Input] [Input] [Input] [Input]
+L1: 
+L2: Verificando sua conexão
+L3: 
+L4: Estamos confirmando que este acesso é legítimo antes de liberar o conteúdo. Isso leva apenas alguns segundos.
+L5: 
+L6: Conexão verificada
+L7: 
+L8: Tudo certo. Você será redirecionado automaticamente em instantes.
+L9: 
+L10: !
+L11: 
+L12: Não foi possível verificar
+L13: 
+L14: Tente novamente ou use outro navegador.
+L15: 
+L16: JavaScript is required to use this page. Senado Federal
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn377view1 [wordlim: 200] Source: open({"ref_id":"https://exame.com/colunistas/brasilia-pauta/pressionado-por-psdb-temer-fara-faxina-na-secretaria-do-governo/","lineno":null}); Total lines: 1
+L0: Failed to fetch https://exame.com/colunistas/brasilia-pauta/pressionado-por-psdb-temer-fara-faxina-na-secretaria-do-governo/: Cache miss
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn377view2 [wordlim: 200] Source: open({"ref_id":"https://www.brasil247.com/poder/pmdb-loteia-secretaria-de-governo-que-temer-dara-ao-psdb","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.brasil247.com/poder/pmdb-loteia-secretaria-de-governo-que-temer-dara-ao-psdb: Cache miss
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn377view3 [wordlim: 200] Source: open({"ref_id":"https://istoe.com.br/ex-ministro-mantem-influencia-na-gestao-temer","lineno":null}); Total lines: 1
+L0: Failed to fetch https://istoe.com.br/ex-ministro-mantem-influencia-na-gestao-temer: Cache miss

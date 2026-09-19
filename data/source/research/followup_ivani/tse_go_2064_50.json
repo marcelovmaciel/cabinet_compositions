@@ -1,0 +1,16 @@
+{
+  "party": "AVANTE",
+  "id": 50,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 266,
+      "totalElements": 266,
+      "response_sha256": "8c77231d682aea0459ce99fedcfcbeee75693206894b6e23ee800e6a344284ed",
+      "retrieved_utc": "2026-09-10T23:35:27Z"
+    }
+  ],
+  "matches": []
+}

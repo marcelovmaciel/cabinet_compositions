@@ -1,0 +1,17 @@
+{
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "LONDRINA",
+  "party": "PCO",
+  "id": 37,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 15,
+      "totalElements": 15,
+      "response_sha256": "b199b2ac6d2d81e4e3c78a372096ab7c04bfc3c9beb49d716e8b795374ccf331",
+      "retrieved_utc": "2026-09-11T00:59:25Z"
+    }
+  ],
+  "matches": []
+}

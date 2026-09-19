@@ -1,0 +1,90 @@
+[
+  {
+    "url": "https://filia-externo.tse.jus.br/",
+    "file": "tse_externo.html",
+    "status": 503,
+    "retrieved_utc": "2026-09-11T00:42:33.350189+00:00",
+    "sha256": "212a2d2e355cec068c4c4f041281aa42b663d3defcb647b11974f362712159fc"
+  },
+  {
+    "url": "https://filia2-externo.tse.jus.br/",
+    "file": "tse2_externo.html",
+    "status": 200,
+    "retrieved_utc": "2026-09-11T00:43:05.155726+00:00",
+    "sha256": "89623edc1a8efeb1d9317b4088a1ff079d2c3efa80892991834da85ff35df243"
+  },
+  {
+    "url": "https://filia2-externo.tse.jus.br/main.655678f4759dcc30.js",
+    "file": "tse2_externo_main.js",
+    "status": 200,
+    "retrieved_utc": "2026-09-11T00:43:08.858145+00:00",
+    "sha256": "6d6617c6e93af57b24f0b8de9609ab01027976733bb8236d73706fa4b753a4e1"
+  },
+  {
+    "url": "https://filia2-externo.tse.jus.br/runtime.89687bbfe8a8e018.js",
+    "file": "tse2_externo_runtime.js",
+    "status": 200,
+    "retrieved_utc": "2026-09-11T00:43:32.605217+00:00",
+    "sha256": "480e172c143e9cf5e55d5d9a77893fb6c38eec5381533f2e33649cfddedfc1b4"
+  },
+  {
+    "url": "https://filia2-externo.tse.jus.br/927.95ca5669143d8c8c.js",
+    "file": "tse2_externo_927.95ca5669143d8c8c.js",
+    "status": 200,
+    "retrieved_utc": "2026-09-11T00:43:51.357119+00:00",
+    "sha256": "c204df6986ebc0e5f159ed52656997f7687e0d893b33bc8854a8204fd81a1713"
+  },
+  {
+    "url": "https://filia2-externo.tse.jus.br/common.1e33272842018984.js",
+    "file": "tse2_externo_common.1e33272842018984.js",
+    "status": 200,
+    "retrieved_utc": "2026-09-11T00:43:51.231529+00:00",
+    "sha256": "62870c0d7f82dbd6e2c1c5e5498b35a8fcb9344fd1531502c386d5603617edbb"
+  },
+  {
+    "url": "https://filia2-externo.tse.jus.br/672.9e4193a1e7e92416.js",
+    "file": "tse2_externo_672.9e4193a1e7e92416.js",
+    "status": 200,
+    "retrieved_utc": "2026-09-11T00:43:51.244404+00:00",
+    "sha256": "a814fdcd7436feeb538ea995fdf3b2886c7e0bf4fb85766ec2c682a00edc6b53"
+  },
+  {
+    "url": "https://www.gov.br/mcom/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/rol-de-responsaveis-1/2022",
+    "file": "mcom_roll_2022.html",
+    "status": 200,
+    "retrieved_utc": "2026-09-11T00:48:12.889345+00:00",
+    "sha256": "b9d81f165265d9812750c3a66bd617414b691d5fb13836e2a240254d80f09800"
+  },
+  {
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8851.htm",
+    "file": "decree_8851.html",
+    "error": "HTTPSConnectionPool(host='www.planalto.gov.br', port=443): Read timed out. (read timeout=30)",
+    "retrieved_utc": "2026-09-11T00:48:42.187605+00:00"
+  },
+  {
+    "url": "https://cgi.br/portarias/ano_numero/2022/6672/",
+    "file": "cgi_order_6672.html",
+    "status": 200,
+    "retrieved_utc": "2026-09-11T00:48:12.148493+00:00",
+    "sha256": "5e97c51a4ea1db3fb8acfa32012814ad4b1099f9718721d15c94ba015a72cb22"
+  },
+  {
+    "url": "https://www.telebras.com.br/transparencia-e-prestacao-de-contas/comite-de-elegibilidade/",
+    "file": "telebras_elegibilidade.html",
+    "status": 404,
+    "retrieved_utc": "2026-09-11T00:44:42.818555+00:00",
+    "sha256": "3383727fba8d5a20b42e41a900af868cf8a3ec51b2fbd503d18dd53c4fc29026"
+  },
+  {
+    "url": "https://www.latibex.com/docs/Documentos/LED/2022/09/21/TRACN_20220920_000000_A99_120659_20220101_DOC001.pdf",
+    "file": "petrobras_2022_fr.pdf",
+    "status": 200,
+    "retrieved_utc": "2026-09-11T00:44:45.000611+00:00",
+    "sha256": "5997f78c9220abfc5831bac5bcef828fa933482a74f48f02be87d9aeff637a67"
+  },
+  {
+    "url": "https://www.investidorpetrobras.com.br/acoes-dividendos-e-dividas/assembleias-e-reunioes/",
+    "error": "DNS name resolution failed; no original retrieved",
+    "retrieval_date": "2026-09-10"
+  }
+]

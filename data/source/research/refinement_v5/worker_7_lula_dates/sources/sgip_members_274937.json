@@ -1,0 +1,33 @@
+{
+  "url": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=274937&isMembrosAtivos=false",
+  "status": 200,
+  "retrieved_utc": "2026-09-11T01:03:37.486554+00:00",
+  "sha256_response": "2b39f1da433909da37c144a5aeb11f48a13b6fb7dd4601ae3812216284dcacd1",
+  "governing_body": {
+    "sqOrgaoPartidario": 274937,
+    "numero": 45,
+    "sigla": "PSDB",
+    "nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+    "tipoOrgao": "Órgão definitivo",
+    "dataInicioVigencia": "07/05/2019",
+    "dataFimVigencia": "15/10/2023",
+    "protocolo": "743712988514",
+    "situacaoiVigencia": "Não Vigente",
+    "abrangencia": "Regional (DF)",
+    "qtdeRegistros": null,
+    "orgaoPartidario": null,
+    "membros": null,
+    "anotacaoOrgaoPartidarioInfo": null,
+    "uf": "DF",
+    "sgUeSede": "DF",
+    "municipio": "",
+    "zona": "",
+    "situacoes": [
+      "Inativado por decisão do partido; "
+    ],
+    "emitirComissaoExecutiva": true
+  },
+  "returned_member_count": 21,
+  "scope": "Returned governing-body members, including inactive entries. Not an exhaustive affiliate list.",
+  "target_matches": []
+}

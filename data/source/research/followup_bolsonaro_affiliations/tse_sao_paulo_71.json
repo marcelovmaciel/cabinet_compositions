@@ -1,0 +1,14 @@
+{
+  "party": "UP",
+  "id": 71,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=71&currentPage=0&pageSize=10000",
+      "records": 1950,
+      "totalElements": 1950,
+      "response_sha256": "b67659806ffad811603d96c302739918556a26024a2183525dcd76db2df3cfbe",
+      "retrieved_utc": "2026-09-10T23:49:09Z"
+    }
+  ],
+  "matches": []
+}

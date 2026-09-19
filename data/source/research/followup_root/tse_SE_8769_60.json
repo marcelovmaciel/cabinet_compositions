@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "DEMOCRATA",
+  "id": 60,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=60&currentPage=0&pageSize=10000",
+      "records": 76,
+      "totalElements": 76,
+      "response_sha256": "32d7cf2d300d327d3d6ce81fb53f7d350b99ee52594643b73df8cac97542298c",
+      "retrieved_utc": "2026-09-10T23:44:29Z"
+    }
+  ],
+  "matches": []
+}

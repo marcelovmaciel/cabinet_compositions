@@ -1,0 +1,11 @@
+{
+  "queries": 12,
+  "successful_queries": 12,
+  "records_inspected": 19891,
+  "pagination_complete": true,
+  "same_name_records": 5,
+  "rejected_homonyms": 5,
+  "identity_matches": 0,
+  "no_current_match_queries": 7,
+  "primary_affiliation_change": false
+}

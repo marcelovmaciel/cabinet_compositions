@@ -1,0 +1,17 @@
+{
+  "party": "PCB",
+  "id": 68,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=68&currentPage=0&pageSize=10000",
+      "records": 32,
+      "totalElements": 32,
+      "response_sha256": "f87f34bc302b6b47a504befa9516887c6762ca1003fa9fc96bcd2fd8f02a3c82",
+      "retrieved_utc": "2026-09-10T23:40:14Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,572 @@
+
+
+    <!doctype html>
+    <html>
+    <head>
+    <base href="https://clicemfoco.com.br/">
+    <meta charset="utf-8">
+    <meta property="og:image" content="https://clicemfoco.com.br/admin/uploads/noticias/f5a71c705500c3329423d6625ed90006.jpg"/>
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="PL DÁ LARGADA NA CAMPANHA DE ONYX AO PIRATINI E CELEBRA FILIAÇÃO DE NOVE DEPUTADOS" />
+    <meta property="og:description" content="O evento celebrou a filiação de Onyx ao partido, formalizada no dia 10, e de outros oito deputados federais e estaduais." />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>PL DÁ LARGADA NA CAMPANHA DE ONYX AO PIRATINI E CELEBRA FILIAÇÃO DE NOVE DEPUTADOS | CLIC EM FOCO</title>
+        
+    <link rel="shortcut icon" href="assets/img/favicon.png"/>
+    <link rel="shortcut icon" href="assets/img/favicon.png"/>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/default.css">
+
+    <!-- DEPENDENCIA PLUGIN-->
+    <script  src="https://code.jquery.com/jquery-3.2.1.min.js"  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="  crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    
+<style>
+    .corpo-noticia, .corpo-noticia p {font-size: 18px !important;}    
+</style>
+	
+<!-- MENU -->
+<!-- NAVBAR -->   
+<div class="container-fluid" style="background: #343434; height: 75px;">
+</div>
+<div class="container-fluid" style="height: 100px;">    
+    <div class="container">
+        <div class="row center-block text-center" style="margin-top:-50px;">
+            
+            <a href="">
+                <div class="col-md-12 center-block text-center">
+                    <img class="img-responsive logo-topo center-block text-center" src="assets/img/logo.png" style="max-height:125px; background: #fff; padding:15px 25px;">
+                </div>               
+            </a>
+        </div>
+
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="container">
+        <div class="row" style="margin-top:5px;">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+             </div>
+            
+            <div class="col-md-6 col-sm-6 col-xs-12">
+             </div>
+        </div>
+    </div>
+</div>
+
+
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand hidden-sm hidden-md hidden-lg" href="#menu" data-toggle="collapse">MENU</a>
+        </div>
+    
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="menu">
+
+            <ul class="nav text-center">
+                <div class="col-md-12" style="border-bottom:1px solid #ccc;">
+                    <ul class="list-inline menu text-center">
+                        <li><a href="">INÍCIO</a></li>
+                         
+                        <li><a href="categoria/coronavirus">#CORONAVIRUS</a></li>
+                        
+                        <li><a href="categoria/agricultura">Agricultura</a></li>
+                        
+                        <li><a href="categoria/an-uacute-ncios-publicit-aacute-rios">Anúncios Publicitários</a></li>
+                        
+                        <li><a href="categoria/ao-vivo">AO VIVO</a></li>
+                        
+                        <li><a href="categoria/colunas">Colunas</a></li>
+                        
+                        <li><a href="categoria/comunicado">Comunicado</a></li>
+                        
+                        <li><a href="categoria/conservando-hist-oacute-ria">Conservando história</a></li>
+                        
+                        <li><a href="categoria/destaques">Destaques</a></li>
+                        
+                        <li><a href="categoria/economia">Economia</a></li>
+                        
+                        <li><a href="categoria/educacao">Educação</a></li>
+                        
+                        <li><a href="categoria/entretenimento">Entretenimento </a></li>
+                        
+                        <li><a href="categoria/entrevistas">Entrevistas</a></li>
+                        
+                        <li><a href="categoria/esportes">Esportes</a></li>
+                        
+                        <li><a href="categoria/eventos">Eventos</a></li>
+                        
+                        <li><a href="categoria/oficiais">Oficiais</a></li>
+                        
+                        <li><a href="categoria/outros">Outros</a></li>
+                        
+                        <li><a href="categoria/policial">Policial</a></li>
+                        
+                        <li><a href="categoria/politica">Política</a></li>
+                        
+                        <li><a href="categoria/promocoes">Promoções</a></li>
+                        
+                        <li><a href="categoria/regiao">Região</a></li>
+                        
+                        <li><a href="categoria/religiao">Religião</a></li>
+                        
+                        <li><a href="categoria/saude">Saúde</a></li>
+                        
+                        <li><a href="categoria/selbach-rs">Selbach/RS</a></li>
+                        
+                        <li><a href="categoria/utilidade-p-uacute-blica">Utilidade Pública</a></li>
+                    </ul>
+                </div>
+
+                
+                <div class="col-md-12" style="margin-top:5px;">
+                    <ul class="list-inline submenu text-center">
+                        <li class="hide"><a href="classificados">CLASSIFICADOS</a></li>
+                        <li><a href="horoscopo">HORÓSCOPO</a></li>
+                        <li><a href="previsao-tempo">PREVISÃO DO TEMPO</a></li>
+                        <li><a href="telefones-uteis">TELEFONES ÚTEIS</a></li>
+                    </ul>
+                </div>
+            </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+        
+
+<!-- LINHA WHATS -->
+<div class="container-fluid" style="background: #df0713;">
+    <div class="container">
+        <a href="https://wa.me/5554991236123" target="_blank"><h5 class="text-center" style="color:#fff;"><i class="fa fa-whatsapp"></i>  Anuncie conosco! Clique aqui e faça sua empresa aparecer!</h5></a>
+    </div>   
+</div>
+
+<!-- PREVISÂO DO TEMPO -->
+<div class="container-fluid" style="box-shadow:0px 0px 5px #000; margin:0px; padding:0px;">
+    <!-- WIDGET TELAS GRANDES -->
+    <a class="weatherwidget-io hidden-xs hidden-sm" href="https://forecast7.com/pt/n28d63n52d95/selbach/" data-label_1="SELBACH" data-label_2="TEMPO" data-theme="pure">SELBACH TEMPO</a>
+  
+    <!-- WIDGET TELAS PEQUENAS -->
+    <a class="weatherwidget-io hidden-md hidden-lg" href="https://forecast7.com/pt/n28d63n52d95/selbach/" data-label_1="SELBACH" data-label_2="TEMPO" data-mode="Current" data-theme="pure" >SELBACH TEMPO</a>
+    
+    <script>
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+    </script>    
+</div>
+	
+   
+<div class="container-fluid" style="padding: 2%;">
+    <div class="container">
+        
+        <div class="col-md-9">
+            
+            <!-- SEÇÃO DESTAQUES -->
+            <div class="row secao-noticia">
+                
+                <div class="col-md-12" style="border-bottom:1px solid #ccc;">
+                    <h3><b>PL DÁ LARGADA NA CAMPANHA DE ONYX AO PIRATINI E CELEBRA FILIAÇÃO DE NOVE DEPUTADOS</b></h3>
+                    <h4>O evento celebrou a filiação de Onyx ao partido, formalizada no dia 10, e de outros oito deputados federais e estaduais.</h4>
+                </div>
+                <div class="col-md-12" style="margin-top:8px; border-bottom:1px solid #ccc;">
+                    <p><i class="fa fa-clock-o"></i> 23/03/2022 18:57 - <a href="categoria/politica">Política</a> </p>
+                </div>
+                
+                <div class="col-md-12 corpo-noticia">
+                    <figure class="image"><img src="https://clicemfoco.com.br/admin/uploads/noticias/f5a71c705500c3329423d6625ed90006.jpg"></figure><figure class="image"><img src="https://clicemfoco.com.br/admin/uploads/noticias/9356a358e9ae4ece7ddb44915f69736a.jpg"></figure><p>Reforçado por egressos do DEM, do PSL e de outros partidos, o PL deu a largada na campanha do ministro Onyx Lorenzoni ao governo do Estado nesta terça-feira (22), em ato realizado no Teatro Dante Barone, da Assembleia Legislativa. O evento celebrou a filiação de Onyx ao partido, formalizada no dia 10, e de outros oito deputados federais e estaduais.</p><p>O palco foi decorado com um painel em que aparecia uma fotografia de Onyx ao lado do presidente Jair Bolsonaro, com os dizeres: “A verdade liberta. A coragem transforma”. Bolsonaro gravou um vídeo saudando o ministro, que foi exibido no telão.</p><p>Em meio aos discursos políticos, o ato teve um momento de fé, conduzido pelo pastor Leandro Lima, no qual Onyx e a esposa, Denise Veberling, ficaram de joelhos.</p><p>No pronunciamento, o pré-candidato disse que “percorreu 28 anos” para viver o desafio de concorrer ao Piratini.</p><p>— Colocaremos o Rio Grande do Sul no lugar de destaque que ele merece no Brasil e no mundo, e daqui quatro anos poderemos olhar pra trás e chegarmos à conclusão de que era possível mudar o Estado — discursou.</p><p>Além do ministro, passaram a fazer parte do PL, mesma sigla do presidente, os deputados federais Bibo Nunes (ex-PSL), Ubiratan Sanderson (ex-PSL), Marcelo Moraes (ex-PTB) e Marlon Santos (ex-PDT).</p><p>Também se filiaram os deputados estaduais Eric Lins (ex-DEM), Kelly Moraes (ex-PTB), Luciano Zucco (ex-PSL) e Aparecido Macedo (ex-PSL).</p><p>O vice-prefeito de Porto Alegre, Ricardo Gomes, e o secretário de Desenvolvimento Econômico da Capital, Rodrigo Lorenzoni, também trocaram o DEM pelo PL. Suplente de deputado, Rodrigo é filho de Onyx deve assumir a cadeira que está vaga na Assembleia com a cassação de Ruy Irigaray (União Brasil).</p><p>Com informações do GZH.</p>                </div>
+                
+                <div class="col-md-12 corpo-noticia">
+                <ul class="list-inline" id="audios">
+               </ul>
+                </div>
+                
+                
+                
+                                        <div class="col-md-12">
+                            <p><b>Fonte:</b>  GZH.</p>
+                        </div>
+                                
+                                
+                <div class="col-md-12" style="border-top:1px solid #ccc;">
+                    <ul class="list-inline">
+                        <li><h4>Compartilhe: </h4></li>
+                        <li><a href="https://wa.me/?text=https%3A%2F%2Fclicemfoco.com.br%2Fnoticia%2F7535-pl-d-aacute-largada-na-campanha-de-onyx-ao-piratini-e-celebra-filia-ccedil-" target="_blank"><h4><i class="fa fa-whatsapp"></i></h4></a></li>
+                        <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://clicemfoco.com.br/noticia/7535-pl-d-aacute-largada-na-campanha-de-onyx-ao-piratini-e-celebra-filia-ccedil-" target="_blank"><h4><i class="fa fa-facebook"></i></h4></a></li>
+                        <li><span class="hide" id="link-noticia">https://clicemfoco.com.br/noticia/7535-pl-d-aacute-largada-na-campanha-de-onyx-ao-piratini-e-celebra-filia-ccedil-</span><a href="javascript:copyToClipboard('#link-noticia')" data-toggle="tooltip" title="Link copiado!"><h4><i class="fa fa-external-link"></i></h4></a></li>
+                    </ul>
+                </div>
+                
+            </div>
+            
+
+                <!-- ANUNCIOS INLINE -->
+                <div class="row" style="padding:15px">
+                    <ul class="list-inline text-center">
+                         
+                      <li class="list-inline-item"><a href="https://www.sicredi.com.br/site/home"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/ff4baad035ac17d5ce5c704d06c4f79b.jpg"></a></li>
+                    </ul>
+                </div>
+            
+                        <!-- SEÇÃO DESTAQUES -->
+            <div class="row secao-noticia">
+                
+                <div class="col-md-12" style="border-bottom:1px solid #ccc;">
+                    <h3><b>VEJA TAMBÉM</b></h3>
+                </div>
+                
+                <div class="col-md-12">
+                    <ul class="list-inline noticias-home">
+                        
+                        
+                        <li class="col-md-3 col-sm-6 col-xs-6">
+                            <a href="noticia/dia-de-campo-em-selbach">
+                                <div class="thumb-noticia" style="background: url(https://clicemfoco.com.br/admin/uploads/noticias/fcb66a60dfea25f83af78a32cb17817a.jfif);"></div>
+                                <h4>Dia de Campo em Selbach</h4>
+                            </a>
+                        </li>
+                        
+                        
+                        <li class="col-md-3 col-sm-6 col-xs-6">
+                            <a href="noticia/selbach-distrito-de-arroio-grande-selbach-recebe-pintura-de-meios-fios-e-faixas-de-seguran-ccedil-a">
+                                <div class="thumb-noticia" style="background: url(https://clicemfoco.com.br/admin/uploads/noticias/999142571fa87f062f52b8b9a7656816.jfif);"></div>
+                                <h4>SELBACH : Distrito de Arroio Grande - Selbach recebe pintura de meios-fios e faixas de segurança</h4>
+                            </a>
+                        </li>
+                        
+                        
+                        <li class="col-md-3 col-sm-6 col-xs-6">
+                            <a href="noticia/selbach-a-revitaliza-ccedil-atilde-o-da-pra-ccedil-a-benno-ely-segue-avan-ccedil-ando">
+                                <div class="thumb-noticia" style="background: url(https://clicemfoco.com.br/admin/uploads/noticias/d1d70b12fb9775a4cf84bd186aa28a4c.jfif);"></div>
+                                <h4>SELBACH : A revitalização da Praça Benno Ely segue avançando</h4>
+                            </a>
+                        </li>
+                        
+                        
+                        <li class="col-md-3 col-sm-6 col-xs-6">
+                            <a href="noticia/terceiro-encontro-do-pme-debate-ensino-m-eacute-dio-superior-e-p-oacute-s-gradua-ccedil-atilde-o">
+                                <div class="thumb-noticia" style="background: url(https://clicemfoco.com.br/admin/uploads/noticias/5e88f10d7bd8632c321161d7e7b3a520.jfif);"></div>
+                                <h4>Terceiro encontro do PME debate Ensino Médio, Superior e Pós-Graduação</h4>
+                            </a>
+                        </li>
+                    
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+        
+        
+        
+        <!-- SIDEBAR -->
+        
+        <div class="col-md-3">
+            
+             
+        <div class="col-md-12 hidden-sm hidden-xs">
+            <a href="categoria/conservando-hist-oacute-ria"><img class="img-responsive" src="assets/img/banner-conservando-historia.jpg"></a>
+        </div>
+        <div class="col-md-12 hidden-sm hidden-xs">
+                <p style="border-bottom: 1px solid #ccc"><b>Cotações agrícolas</b></p>
+                <p style="border-bottom: 1px solid #ccc"><b>Tosagro</b></p>
+                <ul class="list-unstyled">
+                    <li>Soja: R$ 124,00</li>
+                    <li>Trigo: R$ 70,00</li>
+                    <li>Milho: R$ 58,00</li>
+                </ul>
+                <p><small>Atualizado 29/05/2023.</small></p>
+            </div>
+            
+            <div class="col-md-12 hidden-sm hidden-xs">
+                <p style="border-bottom: 1px solid #ccc"><b>Nossos apoiadores</b></p>
+                <ul class="list-unstyled">
+                         
+                      <li class="list-inline-item"><a href="https://www.facebook.com/Padaria-e-Restaurante-Huppes-331451850630070/"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/d685ed63c17f782fbd8fb2e45425e331.jpg"></a></li>
+                        
+                      <li class="list-inline-item"><a href="www.clicemfoco.com.br"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/7d6fb1c54370b24bfe32e0561ddb952d.jpeg"></a></li>
+                        
+                      <li class="list-inline-item"><a href="https://clicemfoco.com.br/noticia/selbach-lavador-do-chico"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/714407864f1efea64a57a6eb2aacfc4a.jpg"></a></li>
+                        
+                      <li class="list-inline-item"><a href="https://clicemfoco.com.br/noticia/6664-c-acirc-mara-de-vereadores-de-selbach-explica-ccedil-otilde-es-pessoais-pro"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/562283d67efc48592ba0da0024b50968.png"></a></li>
+                        
+                      <li class="list-inline-item"><a href="http://www.cotrisoja.com.br/"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/7d0a94a854e4caf6f90ff6da0f7857b9.jpeg"></a></li>
+                        
+                      <li class="list-inline-item"><a href="https://www.facebook.com/pontocom.com.br"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/bff84f2356764428f62e75e623b612f3.jpg"></a></li>
+                        
+                      <li class="list-inline-item"><a href="https://www.facebook.com/tosagro/"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/b5386b873f36a39dba70b7726eb9677b.jpg"></a></li>
+                        
+                      <li class="list-inline-item"><a href="https://clicemfoco.com.br/noticia/selbach-supermercado-dos-amigos-confira-as-ofertas-imperd-iacute-veis"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/4b2d87c8c88ed732a14a1dd2e4c14328.jpg"></a></li>
+                        
+                      <li class="list-inline-item"><a href="www.clicemfoco.com.br"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/5f3202bec6839add92e49753e6dfed15.jpg"></a></li>
+                        
+                      <li class="list-inline-item"><a href="https://www.facebook.com/Willich-Refrigera%C3%A7%C3%A3o-104427685068237"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/8311c3469e5787d1937c8eb7786815e3.png"></a></li>
+                        
+                      <li class="list-inline-item"><a href="https://www.sicredi.com.br/site/home"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/185b00adfe1222db0f27232604d9481b.jpg"></a></li>
+                        
+                      <li class="list-inline-item"><a href="https://www.sicredi.com.br/site/home"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/bea676109581c02c8e80fccecee96587.jpg"></a></li>
+                        
+                      <li class="list-inline-item"><a href="https://clicemfoco.com.br/noticia/casa-das-tintas-grande-variedade-em-lustres-alm-dos-melhores-preos-confira"><img class="img-responsive img-anuncio" src="https://clicemfoco.com.br/admin/uploads/anuncios/34c523fd31a1ced69db88da345a7e2b6.jpg"></a></li>
+                </ul>
+            </div> 
+            
+
+            
+            <div class="col-md-12">
+                <p style="border-bottom: 1px solid #ccc"><b>Veja também</b></p>
+                <ul class="list-unstyled">
+                      
+                    <li>
+                        <a href="noticia/defesa-civil-do-rs-refor-ccedil-a-a-ccedil-otilde-es-de-preven-ccedil-atilde-o-e-atualiza-ccedil-atilde-o-de-planos-em-munic-iacute-pios-ga-uacute-chos">
+                            <p class="titulo-texto">Defesa Civil do RS reforça ações de prevenção e atualização de planos em municípios gaúchos</p>
+                        </a>                       
+                    </li>
+                    
+                    <li>
+                        <a href="noticia/terror-em-chapec-oacute-menino-de-quatro-anos-eacute-morto-por-c-atilde-o-rottweiler-nesta-quinta">
+                            <p class="titulo-texto">TERROR EM CHAPECÓ! MENINO DE QUATRO ANOS É MORTO POR CÃO ROTTWEILER NESTA QUINTA</p>
+                        </a>                       
+                    </li>
+                    
+                    <li>
+                        <a href="noticia/cotrisoja-completa-60-anos-com-trajet-oacute-ria-marcada-pela-uni-atilde-o-dos-produtores-rurais">
+                            <p class="titulo-texto">Cotrisoja completa 60 anos com trajetória marcada pela união dos produtores rurais</p>
+                        </a>                       
+                    </li>
+                    
+                    <li>
+                        <a href="noticia/est-aacute-aberto-o-prazo-para-declara-ccedil-atilde-o-de-rebanho-e-atualiza-ccedil-atilde-o-cadastral">
+                            <p class="titulo-texto">Está aberto o prazo para Declaração de Rebanho e atualização cadastral</p>
+                        </a>                       
+                    </li>
+                </ul>
+            </div>
+            
+            <div class="col-md-12">
+                <p style="border-bottom: 1px solid #ccc"><b>Mais acessadas</b></p>
+                <ul class="list-unstyled">
+                         
+                        
+                        <li>
+                            <a href="noticia/selbach-par-oacute-quia-s-atilde-o-tiago-realiza-a-sua-tradicional-festa-do-colono-e-motorista">
+                                <div class="thumb-noticia-sidebar" style="background: url(https://clicemfoco.com.br/admin/uploads/noticias/a5192c10dbb7ba745bfdac6574c9a3c5.jpeg);"></div>
+                                <h4>SELBACH: Paróquia São Tiago,  realiza a sua Tradicional Festa do Colono e Motorista</h4>
+                            </a>
+                        </li>
+                        
+                        
+                        <li>
+                            <a href="noticia/selbach-mant-eacute-m-investimentos-mas-alerta-para-per-iacute-odo-de-maior-cautela-financeira">
+                                <div class="thumb-noticia-sidebar" style="background: url(https://clicemfoco.com.br/admin/uploads/noticias/ad76f8172ab01cd23582b30fb630f1c3.jpeg);"></div>
+                                <h4>Selbach mantém investimentos, mas alerta para período de maior cautela financeira</h4>
+                            </a>
+                        </li>
+                        
+                        
+                        <li>
+                            <a href="noticia/reuni-atilde-o-mensal-de-setembro-da-acis-selbach-destaca-crescimento-novos-associados-e-pr-oacute-ximas-a-ccedil-otilde-es">
+                                <div class="thumb-noticia-sidebar" style="background: url(https://clicemfoco.com.br/admin/uploads/noticias/2dada3602c49fdd7d2a61f9b47eaad1b.jpeg);"></div>
+                                <h4>Reunião Mensal de Setembro da ACIS Selbach destaca crescimento, novos associados e próximas ações</h4>
+                            </a>
+                        </li>
+                        
+                        
+                        <li>
+                            <a href="noticia/grupo-de-teatro-improvisart-se-destaca-no-festival-de-teatro-de-carazinho-com-sete-premia-ccedil-otilde-es">
+                                <div class="thumb-noticia-sidebar" style="background: url(https://clicemfoco.com.br/admin/uploads/noticias/673b77fb881271b6ca2c22204fa34847.jfif);"></div>
+                                <h4>Grupo de Teatro Improvisart se destaca no Festival de Teatro de Carazinho com sete premiações</h4>
+                            </a>
+                        </li>
+
+                </ul>
+            </div>
+            
+            <div class="col-md-12 hidden-sm hidden-xs">
+                <p style="border-bottom: 1px solid #ccc"><b>Nossos apoiadores</b></p>
+                <ul class="list-unstyled">
+                </ul>
+
+            </div> 
+    
+        </div>
+        
+    </div>
+</div>
+
+<script async charset="utf-8" src="//cdn.embedly.com/widgets/platform.js"></script>
+
+<script>
+    $('#corpo-noticia img').addClass("img-responsive");
+    $('a[data-toggle="tooltip"]').tooltip({
+        animated: 'fade',
+        placement: 'bottom',
+        trigger: 'click'
+    });
+    
+    $('figure img').addClass('img-responsive');
+    
+    function copyToClipboard(element) {
+      var $temp = $("<input>");
+      $("body").append($temp);
+      $temp.val($(element).text()).select();
+      document.execCommand("copy");
+      $temp.remove();
+    }
+/*   
+    $.each($('oembed'), function(index, element) {
+
+            $url = $(this).attr('url');       
+            resultado = $url.split(".");
+        
+            if(resultado[1]=="facebook"){
+                $(this).append('<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.facebook.com/plugins/video.php?href='+$url+'&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe></div>');
+               
+            }else if(resultado[1]=='youtube'){
+                var url_string = $url;
+                var url = new URL(url_string);
+                var videoId = url.searchParams.get("v");
+                $(this).append('<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/'+videoId+'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>');
+               
+            }
+        
+        
+
+    });
+
+*/
+    
+</script>
+<script>
+    document.querySelectorAll( 'oembed[url]' ).forEach( element => {
+        const anchor = document.createElement( 'a' );
+        anchor.setAttribute( 'href', element.getAttribute( 'url' ) );
+        anchor.className = 'embedly-card';
+        element.appendChild( anchor );
+    } );
+</script>
+    
+
+	
+<!-- RODAPE -->
+<div class="container-fluid rodape">
+	<div class="container">
+        <div class="row" style="padding:2%;">
+            
+            <div class="col-md-3">
+                <a href=""><img class="img-responsive center-block" src="assets/img/logo-rodape.png"></a>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <h5 class="list-header"><b>Categorias</b></h5>
+                <ul class="list-unstyled">
+                         
+                        <li class="col-md-6 col-xs-6 col-sm-6 odd"><a href="categoria/coronavirus">#CORONAVIRUS</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 even"><a href="categoria/agricultura">Agricultura</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 odd"><a href="categoria/an-uacute-ncios-publicit-aacute-rios">Anúncios Publicitários</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 even"><a href="categoria/ao-vivo">AO VIVO</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 odd"><a href="categoria/colunas">Colunas</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 even"><a href="categoria/comunicado">Comunicado</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 odd"><a href="categoria/conservando-hist-oacute-ria">Conservando história</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 even"><a href="categoria/destaques">Destaques</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 odd"><a href="categoria/economia">Economia</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 even"><a href="categoria/educacao">Educação</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 odd"><a href="categoria/entretenimento">Entretenimento </a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 even"><a href="categoria/entrevistas">Entrevistas</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 odd"><a href="categoria/esportes">Esportes</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 even"><a href="categoria/eventos">Eventos</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 odd"><a href="categoria/oficiais">Oficiais</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 even"><a href="categoria/outros">Outros</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 odd"><a href="categoria/policial">Policial</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 even"><a href="categoria/politica">Política</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 odd"><a href="categoria/promocoes">Promoções</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 even"><a href="categoria/regiao">Região</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 odd"><a href="categoria/religiao">Religião</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 even"><a href="categoria/saude">Saúde</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 odd"><a href="categoria/selbach-rs">Selbach/RS</a></li>
+                        
+                        <li class="col-md-6 col-xs-6 col-sm-6 even"><a href="categoria/utilidade-p-uacute-blica">Utilidade Pública</a></li>
+                </ul>
+            </div>
+            
+            <div class="col-md-2 col-xs-6 col-sm-6" >
+                <h5 class="list-header"><b>Institucional</b></h5>
+                <ul class="list-unstyled">
+                    <li><a href="anunciar">Anuncie conosco</a></li>
+                    <li><a href="anunciar-classificado">Anuncie classificados</a></li>
+                    <li><a href="a-empresa">Sobre a empresa</a></li>
+                    <li><a href="contato">Fale Conosco</a></li>
+                    <li><a href="https://webmail.clicemfoco.com.br">Webmail</a></li>
+                    <li><a href="/admin">Área restrita</a></li>
+                </ul>
+            </div>
+            
+            <div class="col-md-3 col-xs-6 col-sm-6">
+                <h5 class="list-header"><b>Contato</b></h5>
+                <ul class="list-unstyled">
+                    <li><a href="https://wa.me/5554991236123" target="_blank"><i class="fa fa-whatsapp"></i> <small>(54)</small> 9 9123-6123</a></li>
+                </ul>
+            </div>
+            
+        </div>
+        
+        <div class="row" style="padding:2%;">
+            <ul class="list-inline text-center center-block">
+                <li><a href=""><i class="fa fa-facebook fa-2x"></i></a></li>
+                <li><a href=""><i class="fa fa-instagram fa-2x"></i></a></li>
+                <li><a href=""><i class="fa fa-youtube fa-2x"></i></a></li>
+            </ul>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-12 text-center center-block">
+                <h5>Clic em Foco - Todos os Direitos Reservados.</h5>
+            </div>
+            <div class="col-md-12 text-center center-block">
+                <h5><a href="politica-privacidade">Política de Privacidade</a> | <a href="termos-uso">Termos de uso</a></h5>
+            </div>
+        </div>
+
+	</div>
+</div>
+
+<!-- FLOATING -->
+<a href="https://wa.me/5554991236123" class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>    
+    
+</body>
+</html>

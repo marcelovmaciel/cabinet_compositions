@@ -1,0 +1,16 @@
+{
+  "party": "PRTB",
+  "id": 39,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=39&currentPage=0&pageSize=10000",
+      "records": 301,
+      "totalElements": 301,
+      "response_sha256": "5cf191ea39e469b46157ab1fa4fb240c0fc0fce9e1fe6067ed846fcce9729706",
+      "retrieved_utc": "2026-09-10T23:35:43Z"
+    }
+  ],
+  "matches": []
+}

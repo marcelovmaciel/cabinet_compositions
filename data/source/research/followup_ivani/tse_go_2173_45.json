@@ -1,0 +1,16 @@
+{
+  "party": "PCDOB",
+  "id": 45,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 3007,
+      "totalElements": 3007,
+      "response_sha256": "1694bba4a5950788776c7af4244c729ece34fc4665d8fa38d1483b59696ab950",
+      "retrieved_utc": "2026-09-10T23:36:12Z"
+    }
+  ],
+  "matches": []
+}

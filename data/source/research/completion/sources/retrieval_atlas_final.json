@@ -1,0 +1,18 @@
+[
+  {
+    "name": "atlas_nt53_public_api",
+    "url": "https://repositorio.ipea.gov.br/server/api/core/bitstreams/2469c87b-3082-405d-aba8-13971cabb8f7/content",
+    "final_url": "https://repositorio.ipea.gov.br/server/api/core/bitstreams/2469c87b-3082-405d-aba8-13971cabb8f7/content",
+    "status": 401,
+    "content_type": "application/json;charset=UTF-8",
+    "file": "atlas_nt53_public_api.html"
+  },
+  {
+    "name": "atlas_nt53_researchgate",
+    "url": "https://www.researchgate.net/publication/361753585_Nota_Tecnica_N_53_-_Gabinetes_Ministeriais_da_Nova_Republica_1985-2020_Cargos_Composicao_Partidaria_e_Mudanca",
+    "final_url": "https://www.researchgate.net/publication/361753585_Nota_Tecnica_N_53_-_Gabinetes_Ministeriais_da_Nova_Republica_1985-2020_Cargos_Composicao_Partidaria_e_Mudanca",
+    "status": 403,
+    "content_type": "text/html; charset=UTF-8",
+    "file": "atlas_nt53_researchgate.html"
+  }
+]

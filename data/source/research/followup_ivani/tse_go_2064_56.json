@@ -1,0 +1,16 @@
+{
+  "party": "PSDB",
+  "id": 56,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=56&currentPage=0&pageSize=10000",
+      "records": 2770,
+      "totalElements": 2770,
+      "response_sha256": "21c11d9376d4c5e289fcdbf98b80d702b79e997d551366204fcdfeb4398c90b6",
+      "retrieved_utc": "2026-09-10T23:35:49Z"
+    }
+  ],
+  "matches": []
+}

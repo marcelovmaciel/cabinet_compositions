@@ -1,0 +1,17 @@
+{
+  "party": "MDB",
+  "id": 42,
+  "uf": "RS",
+  "municipio": "7733",
+  "city": "Garibaldi",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 649,
+      "totalElements": 649,
+      "response_sha256": "6eba6b91e81f0791c47b2e68f90dee4a61501cf1910b0e718511ed27f67648fc",
+      "retrieved_utc": "2026-09-10T23:37:42Z"
+    }
+  ],
+  "matches": []
+}

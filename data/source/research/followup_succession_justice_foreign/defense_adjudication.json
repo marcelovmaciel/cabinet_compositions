@@ -1,0 +1,22 @@
+{
+  "dependency_id": "office:gap-C049-defense",
+  "status": "primary_adjudication_supported",
+  "primary_start": "2021-03-30",
+  "nomination_signature": "2021-03-29",
+  "nomination_publication": "2021-03-30",
+  "signed_possession_term": "2021-04-01",
+  "public_collective_ceremony": "2021-04-06",
+  "service_id": "service-jair_bolsonaro-0-19",
+  "before_start": "2021-04-01",
+  "after_start": "2021-03-30",
+  "remove_gap_id": "gap-C049-defense",
+  "affiliation_change_needed": false,
+  "reason": "Multiple contemporary records establish Braga Netto exercising direction of the Defense Ministry after his published appointment on March30: the official commanders succession meeting, an official ministerial audience, and substantive rewriting and publishing of ministry policy. Therefore select actual effective service March30 under the existing effective-service convention. Retain the signed April1 possession term as a formal-administrative date discrepancy. Do not invent a vacancy occupant from another military post and do not treat the later paperwork as proof no appointed minister exercised the ministry earlier.",
+  "source_ids": [
+    "FJSF-DEF-01",
+    "FJSF-DEF-02",
+    "FJSF-DEF-03",
+    "FJSF-DEF-04"
+  ],
+  "remaining_uncertainty": "Formal statutory-investiture timing versus observed effective ministry direction March30. This is a date-semantics discrepancy, not evidence of a specific alternative partisan incumbent."
+}

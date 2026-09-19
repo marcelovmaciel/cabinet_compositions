@@ -1,0 +1,14 @@
+{
+  "party": "DC",
+  "id": 59,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=59&currentPage=0&pageSize=10000",
+      "records": 675,
+      "totalElements": 675,
+      "response_sha256": "908169ea97152d13fcebfbe560b21ba6c372cf060aff0bddfa4b37a3ebc17568",
+      "retrieved_utc": "2026-09-10T23:48:23Z"
+    }
+  ],
+  "matches": []
+}

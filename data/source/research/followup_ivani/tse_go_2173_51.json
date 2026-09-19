@@ -1,0 +1,16 @@
+{
+  "party": "REPUBLICANOS",
+  "id": 51,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=51&currentPage=0&pageSize=10000",
+      "records": 2463,
+      "totalElements": 2463,
+      "response_sha256": "df7bff89737eaf4fc1a109fcf0dc6b38ece1fc90cd96bd36ecfac2f65c53460e",
+      "retrieved_utc": "2026-09-10T23:36:59Z"
+    }
+  ],
+  "matches": []
+}

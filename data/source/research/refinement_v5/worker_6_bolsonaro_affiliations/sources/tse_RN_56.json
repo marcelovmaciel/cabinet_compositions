@@ -1,0 +1,16 @@
+{
+  "uf": "RN",
+  "municipio": "7220",
+  "party": "PSDB",
+  "id": 56,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=56&currentPage=0&pageSize=10000",
+      "records": 4316,
+      "totalElements": 4316,
+      "response_sha256": "b56f378b3f5a27d40a42d31d1805563b6f4eef4b4164c0dfaa0bac2ff8e9b719",
+      "retrieved_utc": "2026-09-11T00:43:47Z"
+    }
+  ],
+  "matches": []
+}

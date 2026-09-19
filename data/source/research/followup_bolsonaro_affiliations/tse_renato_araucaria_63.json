@@ -1,0 +1,14 @@
+{
+  "party": "PSOL",
+  "id": 63,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 69,
+      "totalElements": 69,
+      "response_sha256": "99fc885f0696eb14bf24fac4bd993b69b8dd245d964a0f992ce471ee07225508",
+      "retrieved_utc": "2026-09-11T00:08:35Z"
+    }
+  ],
+  "matches": []
+}

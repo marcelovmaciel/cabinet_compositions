@@ -1,0 +1,16 @@
+{
+  "party": "MOBILIZA",
+  "id": 48,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 221,
+      "totalElements": 221,
+      "response_sha256": "b5699f11a0e97a769697961d5dbc3f5fe304ed0eea3883bbc5517b4045249d65",
+      "retrieved_utc": "2026-09-10T23:35:30Z"
+    }
+  ],
+  "matches": []
+}

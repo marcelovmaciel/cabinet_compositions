@@ -1,0 +1,17 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "NOVO",
+  "id": 58,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 887,
+      "totalElements": 887,
+      "response_sha256": "2c50121eaaba358495ed1c5feb0d52153512ce0ab745ba5c6951d5fed69e012f",
+      "retrieved_utc": "2026-09-10T23:37:33Z"
+    }
+  ],
+  "matches": []
+}

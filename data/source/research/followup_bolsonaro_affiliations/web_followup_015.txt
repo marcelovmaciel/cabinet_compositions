@@ -1,0 +1,367 @@
+Tribunal Superior Eleitoral (https://ptmg.org.br/wp-content/uploads/2024/02/guia-do-usuario-sistema-de-filiacao-partidaria-filia.pdf)
+citeturn383search12 [wordlim: 200] • Regular com marcação “com pendência de comunicação à JE”: Quando o partido realiza a desfiliação de um registro REGULAR com um dos motivos "A pedido do eleitor", “Expulsão” ou “Outras formas previstas no estatuto”, o sistema mantém o registro na sua situação (Regular) e adiciona a marcação “com pendência de comunicação à JE”. ... Caso o processamento identifique registro de filiação novo com data de filiação mais recente, o registro com situação “Regular” e marcação “com pendência de comunicação à JE” deve ser desfiliado automaticamente.
+Tribunal Superior Eleitoral  
+Secretaria de Tecnologia da Informação
+
+Guia do usuário  
+Sistema de Filiação Partidária – FILIA  
+Módulo Externo
+
+Partido - Apresenta o partido do usuário logado no sistema;
+
+Título de Eleitor – Campo para informar o número do título de eleitor vinculado ao registro de filiação a ser consultado;
+
+Situação do Registro – Campo para selecionar a situação do registro de filiação a ser consultado.
+
+• Aguardando processamento:  
+1 - Situação atribuída ao registro de filiação assim que ele é cadastrado no sistema;  
+2 - Registro de filiação que estava com situação REGULAR cujo partido cadastrou a sua desfiliação com um dos motivos "Expulsão" ou "Outras formas previstas pelo estatuto" devem ter sua situação alterada para “Aguardando processamento”. Ao serem processados, estes registros devem assumir a situação DESFILIADO.  
+Os registros são mantidos na situação “Aguardando processamento” até que seu processamento seja realizado.
+
+• Regular: Ao processar os registros pertencentes ao eleitor, o que possui a data de filiação mais recente recebe esta situação. O registro nesta situação está regularmente filiado ao partido político.  
+O registro também será REGULAR quando houver o restabelecimento dos direitos políticos de filiado que estava na situação suspenso.
+
+• Regular com marcação “com pendência de comunicação à JE”: Quando o partido realiza a desfiliação de um registro REGULAR com um dos motivos "A pedido do eleitor", “Expulsão” ou “Outras formas previstas no estatuto”, o sistema mantém o registro na sua situação (Regular) e adiciona a marcação “com pendência de comunicação à JE”. O registro permanece nesta situação até que o Cartório realize a sua desfiliação ou caso o eleitor não reconheça a desfiliação, realize a sua regularização, mediante a eliminação da pendência e a manutenção da filiação.  
+Caso o processamento identifique registro de filiação novo com data de filiação mais recente, o registro com situação “Regular” e marcação “com pendência de comunicação à JE” deve ser desfiliado automaticamente.
+
+• Sub Judice: Ao processar os registros pertencentes ao eleitor, o sistema identifica que existem dois ou mais registros de filiação mais recente com mesma data de filiação e atribui a todos eles esta situação. Os registros permanecem nesta situação até que o eleitor seja notificado e indique ao Cartório qual registro será regularizado, os demais são desfiliados.  
+Caso o processamento identifique registro de filiação novo com data de filiação mais recente o registro com situação “Sub Judice” deve ser desfiliado automaticamente.
+
+• Suspenso:
+
+Arquivo: Filia_Externo
+
+Versão do modelo: 3.0 19/09/23
+
+Página 17 de 52--------------------------------------------------------------------------------
+OPUS JUSTITIAE PAX (https://sapl.joaopessoa.pb.leg.br/media/sapl/public/documentoacessorio/2024/6814/certidoes_diretores_instituto_pb_sustentavel.pdf)
+citeturn383search13 [wordlim: 200] Published: 5 months ago; MDB  | PB  | JOÃO PESSOA  | Não consta  | 24/03/1999  | Regular* Consta lançamento de desfiliação com pendência de comunicação à Justiça Eleitoral, nos termos dos arts.21, § 2°, e/ou 24, § 3°, da Resolução-TSE n°23.596/2019)Para informações adicionais, procure o seu Cartório Eleitoral.Atenção: este documento é dotado de presunção apenas relativa de veracidadeA regularidade de filiação partidária é aferida com base em lançamento feito sobresponsabilidade do partido político no sistema FILIA e considera informações sobre o gozo de
+Justiça EleitoralTribunal Superior EleitoralCERTIDÃO DE FILIAÇÃO PARTIDÁRIAA Justiça Eleitoral certifica que, consultando o Sistema de Filiação Partidária - FILIA, LUZITANIA
+FRANCO DE ALMEIDA, Título Eleitoral: 0070 6300 1287, ESTÁ COM A FILIAÇÃO REGULAR.Dados da Filiação PartidáriaPartido  | UF  | Município  | Data Cadastro Filiação  | Data Filiação  | Situação
+--- | --- | --- | --- | --- | ---
+MDB  | PB  | JOÃO PESSOA  | Não consta  | 24/03/1999  | Regular* Consta lançamento de desfiliação com pendência de comunicação à Justiça Eleitoral, nos termos dos arts.21, § 2°, e/ou 24, § 3°, da Resolução-TSE n°23.596/2019)Para informações adicionais, procure o seu Cartório Eleitoral.Atenção: este documento é dotado de presunção apenas relativa de veracidadeA regularidade de filiação partidária é aferida com base em lançamento feito sob
+responsabilidade do partido político no sistema FILIA e considera informações sobre o gozo de
+direitos políticos extraídas do Cadastro Eleitoral na data desta certidão.O teor desta certidão não exclui a possibilidade de existirem situações de suspensão ou de
+restabelecimento de direitos políticos ainda não informadas à Justiça Eleitoral ou em trâmite
+para lançamento, e que devem ter considerados seus efeitos sobre a filiação partidária com
+base na data da ocorrência.Esta certidão é expedida gratuitamente e a sua autenticidade pode ser
+conferida no sítio eletrônico do Tribunal Superior Eleitoral https://
+www.tse.jus.br/ servicos- eleitorais/ certidoes/ cerditao- de- filiacao- partidaria,
+por meio do código de autenticação: D342.6F82.C6DB.B6CDCertidão Simples emitida às 14:44:30 de 01/08/2024
+
+A QR code (black-and-white square barcode) on a white background.--------------------------------------------------------------------------------
+Guia do Sistema de Filiação Partidária | PDF | Autenticação | Senha (https://pt.scribd.com/document/948040919/PDF-Documentguia-Do-Usuario-Sistema-de-Filiacao-Partidaria-Filia-26-05-24)
+citeturn383search0 [wordlim: 200] Published: 2.6 years ago; Crawled: 10 months ago; realiza a desfiliação de um registro REGULAR com qualquer um dos motivos "A pedido ... ## ● Desfiliado: Na nova versão do filia a situação CANCELADO foi alterada DESFILIADO. ... ## ➢ Ao realizar a reversão a marcação “Com pendência de comunicação à JE” é retirada do
+O registro nesta situação está regularmente
+filiado ao partido político.
+O registro também será REGULAR quando houver o restabelecimento dos direitos
+políticos de filiado que estava na situação suspenso.
+
+## ● Regular com marcação “com pendência de comunicação à JE”: Quando o partido
+
+realiza a desfiliação de um registro REGULAR com qualquer um dos motivos "A pedido
+do eleitor", “Expulsão” ou “Outras formas previstas no estatuto”, o sistema mantém o
+registro na sua situação (Regular) e adiciona a marcação “com pendência de
+comunicação à JE”. O registro permanece nesta situação até que o Cartório realize a
+sua desfiliação ou caso o eleitor não reconheça a desfiliação, realize a sua
+regularização, mediante a eliminação da pendência e a manutenção da filiação.
+Caso o processamento identifique registro de filiação novo com data de filiação mais
+recente, o registro com situação “Regular” e marcação “com pendência de
+comunicação à JE” deve ser desfiliado automaticamente.
+recente;
+2 - Registro de filiação cuja desfiliação foi realizada automaticamente pela rotina de
+óbito, quando identificado no ELO lançamento de óbito para o eleitor;
+3 - Registro de filiação cuja desfiliação foi realizada automaticamente pela rotina de
+perda de direitos políticos, quando identificado no ELO lançamento para o eleitor;
+4 - Registro que estava com a situação “Regular” cujo eleitor procurou o Cartório para
+realizar sua desfiliação manualmente no sistema;
+5 - Registro que estava com situação "Regular" e marcação “com pendência de
+comunicação”, cujo Cartório realizou sua desfiliação manualmente no sistema;
+● Excluído:
+1 – Registro de filiação que estava com situação “Aguardando processamento” e o
+partido identifica que o cadastro foi realizado indevidamente. Ao realizar esta exclusão,
+o sistema exclui o registro de filiação da base de dados.
+2 – Registro de filiação processado que estava com situação “Regular” e o eleitor não
+reconheceu o vínculo com o partido. Filiação”.
+
+Observação:
+
+➢ O registro de filiação poderá ser excluído pelo partido enquanto estiver na situação
+"Aguardando processamento", após o processamento do registro, a opção não está mais
+disponível no sistema. Ao realizar a ação, o registro será excluído da base de dados do
+FILIA.
+
+## 8.6 Desfiliar registro de Filiação
+
+## Para realizar a desfiliação do registro de filiação, selecione a opção na grid de resultados, o
+
+sistema apresenta a seguinte tela:
+
+Arquivo: Filia_Externo
+
+## Versão do modelo: 3.0 01/02/24 Página 30 de 58
+
+Tribunal Superior Eleitoral Guia do usuário
+Secretaria de Tecnologia da Informação
+Sistema de Filiação Partidária – FILIA
+
+Módulo Externo
+
+## Informe a data da desfiliação, o motivo da desfiliação, a justificativa da desfiliação e clique em “Sim”.
+
+## O sistema realiza o cadastro da desfiliação do registro, mantendo o registro na situação REGULAR
+
+e adicionando a marcação “Com pendência de comunicação à JE”.
+
+Ao clicar em “Não”, o sistema não realiza a operação e retorna para a tela “Consultar Registro de
+Filiação”.
+
+Observação:
+
+## ➢ Ao realizar a desfiliação com um dos motivos “A pedido do eleitor”, “Expulsão” ou “Outras
+
+formas previstas no estatuto”, o registro de filiação é mantido na situação “Regular” e
+
+Arquivo: Filia_Externo
+
+## Versão do modelo: 3.0 01/02/24 Página 31 de 58
+
+Tribunal Superior Eleitoral Guia do usuário
+Secretaria de Tecnologia da Informação
+Sistema de Filiação Partidária – FILIA
+
+Módulo Externo
+
+## recebe a marcação “Com pendência de comunicação”, sem passar pelo processamento.
+
+A data da desfiliação, para fins de registro no sistema, será o dia em que o eleitor
+comunicar ao Juiz Eleitoral e não a data em que o partido cadastrou a desfiliação. (art. 21
+da Resolução-TSE nº 23.596/2019).
+
+## 8.7 Reverter Registro de Filiação
+
+Para realizar a reversão da desfiliação, selecione a opção na grid de resultados, o sistema
+apresenta a seguinte tela:
+
+## Clique em “Confirmar” para reverter a desfiliação do registro.
+
+Ao clicar em “Cancelar”, o sistema não realiza a operação e retorna para a tela “Consultar Registro
+de Filiação”.
+
+Observação:
+
+➢ A reversão da desfiliação deve ser permitida para registros de filiação com situação
+“Regular” com marcação “com pendência de comunicação”. A opção deve ficar habilitada
+até que a situação deste registro seja alterada para “Desfiliado” pelo Cartório Eleitoral.
+
+## ➢ Ao realizar a reversão a marcação “Com pendência de comunicação à JE” é retirada do
+
+registro de filiação revertido.
+
+## 9 Consultar Histórico de filiação
+
+Arquivo: Filia_Externo
+
+## Versão do modelo: 3.0 01/02/24 Página 32 de 58
+
+Tribunal Superior Eleitoral Guia do usuário
+Secretaria de Tecnologia da Informação
+Sistema de Filiação Partidária – FILIA
+
+Módulo Externo
+
+## Ao acionar a opção de menu “Consultar Histórico de filiações”, o sistema apresenta a
+
+seguinte tela.
+
+Definições de Tela:
+
+--------------------------------------------------------------------------------
+DIÁRIO DA JUSTIÇA ELETRÔNICO (https://ojornalextra.us-east-1.linodeobjects.com/uploads/arquivos/afafb715-123f-4c3b-82d1-e7ce81cf660-1.pdf)
+citeturn383search14 [wordlim: 200] Published: 4 months ago; promoveu a desfiliação do autor, pendente apenas de regularização perante a Justiça Eleitoral.Consta dos autos, ainda, certidão do sistema FILIA indicando a existência de registro ativo junto aoPSDB e cancelamento da filiação ao PL, com anotação de pendência de comunicação ao cartório
+Ano 2026 - n. 68
+Maceió, disponibilizado terça-feira, 14 de abril de 2026
+181
+A parte autora sustenta que mantinha filiação regular junto ao Partido Liberal - PL, tendo sido
+surpreendido com o registro de filiação ao PSDB no sistema FILIA, sem manifestação formal de
+vontade, o que ocasionou o cancelamento automático de sua filiação originária.
+As agremiações partidárias foram ouvidas.
+O Partido Liberal confirmou a validade da filiação originária e a inexistência de desfiliação formal
+regularmente processada.
+O Partido da Social Democracia Brasileira - PSDB, por sua vez, reconhece a ausência de oposição
+ao pedido autoral, informa a realização de atos preparatórios de migração partidária e afirma que já
+promoveu a desfiliação do autor, pendente apenas de regularização perante a Justiça Eleitoral.
+Consta dos autos, ainda, certidão do sistema FILIA indicando a existência de registro ativo junto ao
+PSDB e cancelamento da filiação ao PL, com anotação de pendência de comunicação ao cartório
+--------------------------------------------------------------------------------
+Rcand 0600193-75.2024.6.23.0001 (https://consultaunificadapje.tse.jus.br/consulta-publica-unificada/documento?extensaoArquivo=application%2Fpdf&path=pje1g%2Frr%2F2024%2F8%2F29%2F15%2F27%2F11%2Fa8b989bfd0169f770ac06e616f3d7d861447cc80b4e0f6ed5026e5c24cd45d48)
+citeturn383search15 [wordlim: 200] Published: 5 months ago; em questão, verifica-se que todos apresentem situação “regular”, constando, inclusive,a pendência de comunicação à Justiça Eleitoral. ... 88.2024.6.23.0001 o Histórico de Filiação dos referidos junto ao Sistema FILIA, no qual épossível verificar o lançamento de “Reversão de Desfiliação e/ou cancelamento”, todos
+Ocorre que, de acordo com o art. 24, § 3º, da Resolução 23.596/2019 (a qual 
+dispõe sobre a filiação partidária, institui o Sistema FILIA e, ainda, disciplina o 
+encaminhamento de dados pelos partidos políticos à Justiça Eleitoral), a desfiliação não 
+será considerada caso não comunicada à Justiça Eleitoral. 
+ 
+Compulsando as Certidões de Filiação Partidária dos convencionados 
+em questão, verifica-se que todos apresentem situação “regular”, constando, inclusive, 
+a pendência de comunicação à Justiça Eleitoral. Ou seja, por força da Resolução 
+supracitada, a desfiliação eventualmente lançada no FILIA não deve ser considerada. 
+ 
+Ademais, 
+restou 
+acostado 
+aos 
+autos 
+do 
+Rcand 
+nº 
+0600218-
+88.2024.6.23.0001 o Histórico de Filiação dos referidos junto ao Sistema FILIA, no qual é 
+possível verificar o lançamento de “Reversão de Desfiliação e/ou cancelamento”, todos 
+com data anterior à realização da Convenção Municipal ora em voga (ID 122222180). 
+ 
+Ante o exposto, não restou vislumbrado por esse Parquet o alegado vício 
+na Convenção Municipal, neste particular, pois comprovada a situação regular da 
+filiação dos convencionados ÁLVARO DUARTE, ACÁCIO SALES DE SOUZA e 
+ROGER HAMILTON HERZER perante a Justiça Eleitoral. 
+ 
+Quanto à alegação de possível violação à Resolução CENI nº 2/2024, tal 
+argumento será contemplado no tópico a seguir. 
+ 
+III – DAS IMPUGNAÇÕES AO RCAND nº 0600193-75.2024.6.23.0001_______________ 
+ 
+3.1. DA ESCOLHA DE CANDIDATO SOB A ÓTICA DA LEI 9.504/1997 
+E LIMITAÇÕES À AUTONOMIA PARTIDÁRIA 
+ 
+É de comezinho saber jurídico que o art. 7º, caput, da Lei 9.504/1997, 
+homenageando o princípio da autonomia partidária previsto na CF, estabelece que as 
+normas para a escolha e substituição dos candidatos serão estabelecidas no Estatuto do 
+Partido, observadas as disposições da aludida legislação. Vejamos:--------------------------------------------------------------------------------
+#cbf #gestaoesportiva #futebolbrasileiro #liderança #fairplayfinanceiro | Helder Melillo | 16 comentários (https://pt.linkedin.com/posts/helder-melillo-85a503184_cbf-gestaoesportiva-futebolbrasileiro-activity-7401580420527591424-kaMJ)
+citeturn383search1 [wordlim: 200] Crawled: 5 months ago; # Publicação de Helder Melillo ... Um período marcado por muito trabalho, espírito coletivo e a convicção de que é possível construir um novo momento para o futebol brasileiro.
+
+# Publicação de Helder Melillo
+
+Helder Melillo
+
+3 m Editado
+
+Essa semana completo um ano à frente da Diretoria Executiva da CBF. Um período marcado por muito trabalho, espírito coletivo e a convicção de que é possível construir um novo momento para o futebol brasileiro. Foi simbólico viver essa marca durante a realização do 2º CBF Summit, evento que marcou meu primeiro dia na entidade há um ano e onde, agora, pude apresentar os principais projetos estratégicos da nova gestão para os próximos anos. Também tive a honra de abrir o 1º Encontro Nacional de Executivos de Futebol, iniciativa inédita que reforça o compromisso da CBF com a profissionalização da gestão no futebol. Neste primeiro ano, tenho participado ativamente de temas estruturantes como a implementação do Fair Play Financeiro, a modernização da arbitragem, reformulação do calendário das competições masculinas e o projeto de fortalecimento do futebol feminino. Seguimos firmes no propósito de enfrentar os desafios históricos do futebol brasileiro com diálogo, gestão e inovação. #cbf #gestaoesportiva #futebolbrasileiro #liderança #fairplayfinanceiro
+--------------------------------------------------------------------------------
+Certidão de Filiação Partidária Regular | PDF (https://pt.scribd.com/document/985109132/Certidao-de-Filiacao-Partidaria)
+citeturn383search2 [wordlim: 200] Published: 1.9 years ago; Crawled: 3 months ago; Certidão de Filiação Partidária Regular ... Há uma pendência de comunicação sobre desfiliação, conforme a Resolução-TSE n°23.596/2019. ... Há uma pendência de comunicação sobre desfiliação, conforme a Resolução-TSE n°23.596/2019. ... responsabilidade do partido político no sistema FILIA e considera informações sobre o gozo de
+
+## Tribunal Superior Eleitoral
+
+## CERTIDÃO DE FILIAÇÃO PARTIDÁRIA
+
+A Justiça Eleitoral certifica que, consultando o Sistema de Filiação Partidária - FILIA, ADEMAR
+GOMES COSTA, Título Eleitoral: 0326 5805 2720, ESTÁ COM A FILIAÇÃO REGULAR.
+
+## Dados da Filiação Partidária
+
+Partido UF Município Data Cadastro Filiação Data Filiação Situação
+UNIÃO TO PALMAS 19/08/2011 19/08/2011 Regular
+
+## * Consta lançamento de desfiliação com pendência de comunicação à Justiça Eleitoral, nos
+
+termos dos arts.21, § 2°, e/ou 24, § 3°, da Resolução-TSE n°23.596/2019)
+
+## Para informações adicionais, procure o seu Cartório Eleitoral.
+
+## Atenção: este documento é dotado de presunção apenas relativa de veracidade.
+
+## A regularidade de filiação partidária é aferida com base em lançamento feito sob
+
+responsabilidade do partido político no sistema FILIA e considera informações sobre o gozo de
+direitos políticos extraídas do Cadastro Eleitoral na data desta certidão.
+
+## O teor desta certidão não exclui a possibilidade de existirem situações de suspensão ou de
+
+restabelecimento de direitos políticos ainda não informadas à Justiça Eleitoral ou em trâmite
+para lançamento, e que devem ter considerados seus efeitos sobre a filiação partidária com
+base na data da ocorrência.
+
+## Esta certidão é expedida gratuitamente e a sua autenticidade pode ser
+
+conferida no sítio eletrônico do Tribunal Superior Eleitoral https://
+[Link]/ servicos- eleitorais/ certidoes/ cerditao- de- filiacao- partidaria,
+por meio do código de autenticação: 20C7.ED03.26F3.46BF
+
+## Certidão Simples emitida às [Link] de 06/10/2024--------------------------------------------------------------------------------
+Guia do usuário Sistema de Filiação Partidária–Filia | (https://republicanos10.org.br/download/13437/)
+citeturn383search16 [wordlim: 200] Published: 6 months ago; Caso o título de eleitor possua registro de filiação com situação “Regular” em um único diretório partidário, o sistema deve gerar a ... Caso o título de eleitor possua registro de filiação com situação “Desfiliado”, o sistema deve gerar a certidão de filiação com asituação do filiado “CONSTA COM PENDÊNCIA DE CANCELAMENTO” (Obs.: essa situação ocorre quando o cidadão pediu a
+Caso o título de eleitor possua registro de filiação com situação “Regular” em um único diretório partidário, porém, o filiado não 
+encontra-se na última relação oficial entregue pelo partido, o sistema deve gerar a certidão de filiação com a situação do filiado 
+“ESTÁ FILIADO EMBORA NÃO CONSTE REGISTRO NA ÚLTIMA RELAÇÃO OFICIAL ENTREGUE PELO PARTIDO”; 
+Caso o título de eleitor possua registro de filiação com situação “Cancelado” ou “Excluído”, o sistema deve gerar a certidão de 
+filiação com a situação do filiado “NÃO ESTÁ FILIADO A PARTIDO POLÍTICO”; 
+Caso o título de eleitor possua registro de filiação com situação “Desfiliado”, o sistema deve gerar a certidão de filiação com a 
+situação do filiado “CONSTA COM PENDÊNCIA DE CANCELAMENTO” (Obs.: essa situação ocorre quando o cidadão pediu a 
+desfiliação no partido, mas não comunicou à Justiça Eleitoral. Só passará a constar na situação “não filiado” após o comando, no 
+sistema, pelo respectivo Cartório Eleitoral); 
+Caso o título de eleitor possua registro de filiação com situação “SUB JUDICE” (registro envolvido em duplicidade de filiação 
+partidária), o sistema deve gerar a certidão de filiação com a situação do filiado “CONSTA NA SITUAÇÃO SUB JUDICE”.
+ 
+ 
+ 
+Arquivo: gus_filia_externo_final 
+ 
+Versão do modelo: 1.1 – 17/08/2016 
+Página 26 de 37--------------------------------------------------------------------------------
+Mandato eletivo — Temas Selecionados (https://temasselecionados.tse.jus.br/temas-selecionados/mandato-eletivo)
+citeturn383search3 [wordlim: 200] Published: 2.6 years ago; Crawled: yesterday; É fato incontroverso que o Diretório Estadual do PL no Amapá, durante reunião realizada em 04.03.2020, apresentou carta de expulsão, sem imposição de perda do cargo eletivo, em desfavor da filiada Patrícia Lima Ferraz, de forma irretratável e irrevogável, ensejando o efetivo desligamento da parlamentar dos quadros partidários e a consequente baixa no Sistema de Filiação Partidária (FILIA), conforme consta na certidão [...] tornando público o rompimento do vínculo partidário. ... [...] este Tribunal, em julgamento recente, manifestou a compreensão de que, ‘consignado, pela instância ordinária, que a carta juntada aos autos é inapta a comprovar a anuência partidária para a desfiliação, uma vez que o subscritor, sem a regular deliberação pela Comissão Executiva, não tinha poderes para assiná–la, não há como infirmar a conclusão em sede de recurso especial, consideradas a moldura do acórdão recorrido e a vedação de reexame fático–probatório nesta instância (Súmula nº 24/TSE)’ (AgR–AI 0600085–54, rel.
+Trata-se de documento oficial, dotado de publicidade, suficiente para comprovar o conhecimento do partido acerca do desligamento.[...] 8. É inegável que o partido teve ciência da desfiliação no primeiro semestre de 2023, seja por meio do registro oficial no Sistema FILIA, seja pela carta de anuência emitida por seu próprio diretório, seja, ainda, pela ampla divulgação do ato na imprensa. Assim, a propositura da ação apenas em 20 /2/2024 revela-se manifestamente extemporânea, porquanto já consumada a decadência [...].”
+
+(Ac. de 12/2/2026 no AgR-RO-EI n. 060003907, rel Min. Ricardo Villas Boas.)
+
+ 
+
+“Eleições 2022.[...] Ação de justificação de desfiliação partidária / perda de cargo eletivo. Deputado federal. Ajuizamento pelo primeiro suplente. [...]   4. É regular a desfiliação partidária embasada em carta de anuência firmada legitimamente pelo presidente da legenda, conforme previsão do art. 17, § 6º, da Constituição Federal. 
+
+【605†(Ac. 12/12/2025 no AgR-AJDesCargEle n. 060028680, rel. --------------------------------------------------------------------------------
+RESOLUÇÃO Nº 23.668, DE 09 DE DEZEMBRO DE 2021 — Tribunal Superior Eleitoral (https://www.tse.jus.br/legislacao/compilada/res/2021/resolucao-no-23-668-de-09-de-dezembro-de-2021)
+citeturn383search4 [wordlim: 200] Published: 4.8 years ago; Crawled: today; § 1º-B O eleitor comunicará a desfiliação ao juízo eleitoral por meio de requerimento acompanhado da comunicação com recibo direcionada ao órgão partidário. ... A funcionalidade de reversão de cancelamento de registro de filiação estará disponível no Módulo Interno do FILIA, exclusivamente, para cumprimento de determinações judiciais, sendo necessária, para utilizá-la, a identificação do processo em que determinada a providência."
+
+......................................................................................................
+
+§ 8º Ressalvada a hipótese do inciso III do § 4º-A deste artigo, não será efetivado cancelamento de todas as filiações coexistentes ao final do procedimento." (NR)
+
+§ 9º Comprovados os ilícitos de que trata o § 7º deste artigo em processo judicial, criminal ou não, no qual assegurado ampla defesa e contraditório, a filiação será anulada, devendo seu cancelamento ser efetivado após a decisão judicial da qual não caiba recurso com efeito suspensivo."
+
+"Art. 24. ........................................................................................
+
+§ 1º-A O representante do órgão partidário municipal ou zonal deve lançar recibo na comunicação realizada pelo eleitor.
+
+§ 1º-B O eleitor comunicará a desfiliação ao juízo eleitoral por meio de requerimento acompanhado da comunicação com recibo direcionada ao órgão partidário.
+
+§ 1º-C Comunicada a desfiliação ao juízo eleitoral, o Cartório Eleitoral providenciará o imediato registro no sistema FILIA.
+
+......................................................................................................
+
+............................................................................................" (NR)
+
+"Art. 25. A funcionalidade de reversão de cancelamento de registro de filiação estará disponível no Módulo Interno do FILIA, exclusivamente, para cumprimento de determinações judiciais, sendo necessária, para utilizá-la, a identificação do processo em que determinada a providência." (NR)
+
+"Art. 25-A. O FILIA deve permitir ao usuário externo o cancelamento da filiação, salvo a constante do registro oficial, cujo cancelamento se dará nas hipóteses e forma previstas nesta Resolução."
+
+--------------------------------------------------------------------------------
+Tribunal Regional Eleitoral da Bahia - 04/09/2020 - TRE-BA - Padrão - Pg. 269 | Escavador (https://www.escavador.com/diarios/4126681/TRE-BA/treba-padrao/2020-09-04?page=269)
+citeturn383search5 [wordlim: 200] Published: 6.0 years ago; Crawled: 3 weeks ago; Ação proposta por Maria Jose Amora Barreto, qualificada nos autos, que requer a regularização de sua filiação ao partido político PSC.Alega que éfiliada ao PSC desde 03/05/1993, que já concorreu a pelitos eleitorais e que foi surpreendida ao constatar pendência de ... Compulsando os autos, verifica-se que a requerente comunicou sua desfiliação do PSC a este Juízo Eleitoral em 23/09/2015 (documento ID3773020, página 2), razão pela qual consta como desfiliada no sistema de filiação partidária (FILIA).
+--------------------------------------------------------------------------------
+Resolução nº 23.596, de 20 de agosto de 2019 – Brasília/DF — Tribunal Superior Eleitoral (https://www.tse.jus.br/legislacao/codigo-eleitoral/normas-editadas-pelo-tse/resolucao-no-23-596-de-20-de-agosto-de-2019-2013-brasilia-df-1)
+citeturn383search6 [wordlim: 200] Published: 7.0 years ago; Crawled: today; § 5º O Filia estará disponível vinte e quatro horas por dia, ininterruptamente, ressalvados os períodos de manutenção do sistema, que serão programados e divulgados com antecedência aos usuários, em área do sistema criada para esse fim e no portal do TSE; e preferencialmente realizada entre a zero hora do sábado e as vinte e duas horas do domingo, ou no horário entre zero hora e seis horas nos demais dias da semana. ... § 2º Inexistindo registro no Filia que atenda ao disposto no § 1º deste artigo, a prova de filiação partidária deverá ser realizada por outros elementos de convicção, no próprio processo de registro de candidatura ou na forma do § 2º do art. 11 desta resolução, não se admitindo para tal finalidade documentos produzidos unilateralmente, destituídos de fé pública (Lei nº 9.096/1995, art.
+--------------------------------------------------------------------------------
+Infidelidade Partidária — Tribunal Regional Eleitoral do Rio Grande do Sul (https://www.tre-rs.jus.br/jurisprudencia/emtema-novo/infidelidade-partidaria)
+citeturn383search7 [wordlim: 200] Crawled: today; Inexiste decadência, uma vez que a ação foi proposta dentro do prazo de 30 dias, contado da desfiliação, tampouco perda superveniente do interesse, pois a janela partidária posterior não regulariza desfiliação anteriormente consumada. ... Ainda que este Tribunal Regional Eleitoral, em alguns de seus julgamentos, tenha estabelecido requisitos para que a carta de anuência seja considerada apta a configurar a justa causa, não há dúvida de que sua expedição demonstra inequivocamente a ciência do partido sobre a desfiliação realizada. ... Acaso se tomasse a data de filiação da requerida ao novo partido, o prazo poderia ser contado tanto da data em que realizada, da divulgação nas redes sociais ou do efetivo registro dos dados no Sistema Filia.
+--------------------------------------------------------------------------------
+Ex-ministro interino de Bolsonaro será número 2 da pasta das Cidades no governo Lula (https://www.infomoney.com.br/politica/ex-ministro-interino-de-bolsonaro-sera-numero-2-da-pasta-das-cidades-no-governo-lula/)
+citeturn383search8 [wordlim: 200] Published: 2.4 years ago; Crawled: 2 weeks ago; Helder Melillo Lopes Cunha Silva, que foi ministro interino do Desenvolvimento Regional no governo de Jair Bolsonaro (PL), será o novo secretário-executivo do Ministério das Cidades ... Helder Melillo Lopes Cunha Silva, que foi ministro interino do Desenvolvimento Regional no governo Bolsonaro, será o novo secretário-executivo do Ministério das Cidades.
+--------------------------------------------------------------------------------
+Institucional — Tribunal Regional Eleitoral do Distrito Federal (https://www.tre-df.jus.br/institucional/corregedoria-regional-eleitoral/corregedoria-regional-eleitoral)
+citeturn383search9 [wordlim: 200] Crawled: last month; Capítulo II – Filiação Partidária e Sistema FILIA Inclusão, desfiliação e reversão. ... A norma também assegura que, diante da inércia do partido em registrar a filiação no prazo de 10 dias, a pessoa interessada pode requerer a inclusão judicialmente, com autuação no PJe na classe Filiação Partidária (FP),.
+--------------------------------------------------------------------------------
+Vale do Jequitinhonha (MG) terá primeiro bloco de municípios para serviços de água e esgoto no Brasil — Ministério das Cidades (https://www.gov.br/cidades/pt-br/noticias/anterior/vale-do-jequitinhonha-mg-tera-primeiro-bloco-de-municipios-para-servicos-de-agua-e-esgoto)
+citeturn383search10 [wordlim: 200] Published: 3.7 years ago; Crawled: 3 months ago; Durante a reunião do Cisb, o secretário-executivo do MDR, Helder Melillo, destacou a importância do novo Marco Legal do Saneamento Básico para o desenvolvimento do setor (Foto: Denio Simões/MDR) ... Melillo também destacou que, desde 2019, o MDR retomou 545 obras de saneamento que estavam paralisadas e entregou para a população outras 643, beneficiando cerca de 3,8 milhões de famílias.
+--------------------------------------------------------------------------------
+Ex-ministro de Bolsonaro é nomeado para cargo em ministério de Lula - 16/04/2024 - Brasília Hoje - Folha (https://www1.folha.uol.com.br/blogs/brasilia-hoje/2024/04/ex-ministro-de-bolsonaro-e-nomeado-para-cargo-em-ministerio-de-lula.shtml)
+citeturn383search11 [wordlim: 200] Published: 2.4 years ago; Crawled: 3 weeks ago; O ex-ministro interino do do Desenvolvimento Regional Helder Melillo Lopes Cunha Silva é o novo secretário-executivo do Ministério das Cidades. ... O posto estava em aberto desde a saída de Hildo Rocha (MDB) e era alvo de disputa entre o ministro das Cidades, Jader Filho (MDB), e o seu partido, que queria um político para a vaga.

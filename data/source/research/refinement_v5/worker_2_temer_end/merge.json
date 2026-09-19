@@ -1,0 +1,347 @@
+{
+  "format": "csv-row-upserts-v1",
+  "worker": "worker_2_temer_end",
+  "base": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/baseline/inputs",
+  "files": {
+    "affiliations.csv": {
+      "key": [
+        "affiliation_id"
+      ],
+      "upserts": [
+        {
+          "affiliation_id": "affiliation-C034-carlos-henrique-menezes-sobral-2018-12-31",
+          "person_id": "person-carlos-henrique-menezes-sobral",
+          "start_inclusive": "2018-12-31",
+          "end_exclusive": "2019-01-01",
+          "state": "UNKNOWN",
+          "party_id": "",
+          "support": "Personal affiliation remains unresolved after dated SGIP3 governance and new scoped Filia geography/identity checks; partial-registry negatives and later MDB labels cannot determine December31 2018 affiliation",
+          "date_status": "unresolved_personal_affiliation",
+          "date_earliest": "",
+          "date_latest": "",
+          "alternatives": "[]",
+          "evidence_ids": "C034;V5W2E001;V5W2E002",
+          "decision_ids": "C034;V5W2D001"
+        }
+      ],
+      "deletes": []
+    },
+    "completion_research_register.csv": {
+      "key": [
+        "research_id"
+      ],
+      "upserts": [
+        {
+          "research_id": "completion-search-carlos-henrique-menezes-sobral",
+          "dependency_id": "person-carlos-henrique-menezes-sobral",
+          "person_name": "Carlos Henrique Menezes Sobral",
+          "service_intervals": "2018-12-31/2019-01-01;2023-11-30/2023-12-04;2025-02-01/2025-02-03",
+          "name_variants": "Carlos Henrique Menezes Sobral;Carlos Sobral",
+          "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches;SGIP3 historical governing bodies valid December31 2018 national/DF/BA/SE;Filia scoped Salvador/Aracaju and DF identity matching;original final-day service acts and statutory substitute rule",
+          "saved_result_files": "research/completion/web_039.txt;research/completion/web_041.txt;research/completion/web_075.txt;research/completion/web_076.txt;research/completion/web_084.txt;research/completion/web_085.txt;research/completion/web_086.txt;research/completion/web_092.txt;research/completion/web_109.txt;research/completion/web_189.txt;research/completion/web_196.txt;research/completion/web_198.txt;research/completion/web_268.txt;research/completion/web_269.txt;research/followup_root/web_registry_10.json;research/followup_ivani/sobral_alepi_pdl32_2021_ocr.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md;research/refinement_v5/worker_2_temer_end/RESEARCH.md;research/refinement_v5/worker_2_temer_end/sources/sgip_ba_20181231.json;research/refinement_v5/worker_2_temer_end/sources/sgip_df_20181231.json;research/refinement_v5/worker_2_temer_end/sources/sgip_members_263115_scoped.json;research/refinement_v5/worker_2_temer_end/sources/sgip_members_263816_scoped.json;research/refinement_v5/worker_2_temer_end/sources/sgip_members_70945_scoped.json;research/refinement_v5/worker_2_temer_end/sources/sgip_members_70946_scoped.json;research/refinement_v5/worker_2_temer_end/sources/sgip_members_94158_scoped.json;research/refinement_v5/worker_2_temer_end/sources/sgip_national_20181231.json;research/refinement_v5/worker_2_temer_end/sources/sgip_se_20181231.json;research/refinement_v5/worker_2_temer_end/sources/tse_BA_182.json;research/refinement_v5/worker_2_temer_end/sources/tse_BA_38.json;research/refinement_v5/worker_2_temer_end/sources/tse_BA_42.json;research/refinement_v5/worker_2_temer_end/sources/tse_BA_51.json;research/refinement_v5/worker_2_temer_end/sources/tse_BA_69.json;research/refinement_v5/worker_2_temer_end/sources/tse_DF_42.json;research/refinement_v5/worker_2_temer_end/sources/tse_SE_182.json;research/refinement_v5/worker_2_temer_end/sources/tse_SE_38.json;research/refinement_v5/worker_2_temer_end/sources/tse_SE_42.json;research/refinement_v5/worker_2_temer_end/sources/tse_SE_51.json;research/refinement_v5/worker_2_temer_end/sources/tse_SE_69.json;research/refinement_v5/worker_2_temer_end/sources/dou20190101.pdf;research/refinement_v5/worker_2_temer_end/sources/web_012.json",
+          "source_review_finding": "Official Presidency responsibilities and 2023 Folha account establish career/identity. MDB sponsorship and an ex-adviser description do not establish personal affiliation in December 2018. Folhapress January25 2023 personally characterizes Carlos Henrique Menezes Sobral as a cadre of MDB, in a sentence distinct from the report of his sponsorship. Accept this credible contemporary personal party label as a qualified primary MDB adjudication from that date, with forward continuity through later qualifying vacancy service. Retain UNAFFILIATED as a credible alternative because the qualified cadre description could reflect a party-adjacent professional rather than formal registration. This is not an exact affiliation certificate or a conclusion from his ministry sponsor. Current TSE municipal-list non-matches cannot negate the label or prove non-affiliation. Targeted searches and the original 2021 Alepi biographical proposal yielded no specific competing affiliation event. Do not backproject the 2023 label to his December31 2018 service, which remains a separate unresolved affiliation dependency. The alternative is composition-neutral only where other qualifying MDB ministers independently establish MDB representation. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation. v5: Historical SGIP3 governing-body screening and new scoped Filia geography/identity checks did not establish a dated 2018 personal affiliation. Returned governing members are not an exhaustive affiliate universe, and current-list absence cannot show historical non-affiliation. No evidence restricts all credible alternatives to MDB and UNAFFILIATED. Retain UNKNOWN on December31 2018; do not backproject the qualified January25 2023 MDB observation. Retain the December31 2018 statutory vacancy succession. The original January1 2019 DOU page1 explicitly dismisses Carlos Henrique Menezes Sobral as executive secretary effective January1. Decree8851/2016 article1 III supplies executive-secretary substitution during vacancy unless a specific presidential designation exists. With C034 Marun publication-date departure and the named continuing deputy, this supports the existing one-day adjudication. No vacancy-specific Sobral decree is claimed; no competing designation or earlier departure was established. No change to routine-leave/signature-only rule or half-open dates.",
+          "unresolved_fact": "Contemporaneous personal affiliation, an exhaustive authoritative exact-person historical non-affiliation observation, or evidence bounding every credible alternative on December31 2018.",
+          "search_date": "2026-09-10",
+          "completion_status": "blocked"
+        }
+      ],
+      "deletes": []
+    },
+    "decisions.csv": {
+      "key": [
+        "decision_id"
+      ],
+      "upserts": [
+        {
+          "decision_id": "V5W2D001",
+          "disposition": "targeted_research_unknown_retained",
+          "evidence_ids": "C034;C074;V5W2E001;V5W2E002",
+          "rationale": "Historical SGIP3 governing-body screening and new scoped Filia geography/identity checks did not establish a dated 2018 personal affiliation. Returned governing members are not an exhaustive affiliate universe, and current-list absence cannot show historical non-affiliation. No evidence restricts all credible alternatives to MDB and UNAFFILIATED. Retain UNKNOWN on December31 2018; do not backproject the qualified January25 2023 MDB observation.",
+          "alternatives": "[]"
+        },
+        {
+          "decision_id": "V5W2D002",
+          "disposition": "statutory_vacancy_succession_reconfirmed",
+          "evidence_ids": "C034;V5W2E003",
+          "rationale": "Retain the December31 2018 statutory vacancy succession. The original January1 2019 DOU page1 explicitly dismisses Carlos Henrique Menezes Sobral as executive secretary effective January1. Decree8851/2016 article1 III supplies executive-secretary substitution during vacancy unless a specific presidential designation exists. With C034 Marun publication-date departure and the named continuing deputy, this supports the existing one-day adjudication. No vacancy-specific Sobral decree is claimed; no competing designation or earlier departure was established. No change to routine-leave/signature-only rule or half-open dates.",
+          "alternatives": "[]"
+        }
+      ],
+      "deletes": []
+    },
+    "evidence.csv": {
+      "key": [
+        "evidence_id"
+      ],
+      "upserts": [
+        {
+          "evidence_id": "V5W2E001",
+          "asserted_fact": "Dated December31 2018 official MDB governing-body responses do not establish Carlos Sobral membership or non-membership",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/consulta?sqPartido=15&tpAbrangencia=81&isComposicoesHistoricas=true&dataInicioVigencia=31%2F12%2F2018&dataFimVigencia=31%2F12%2F2018",
+          "publisher": "Tribunal Superior Eleitoral, SGIP3",
+          "publication_date": "",
+          "retrieval_date": "2026-09-10",
+          "access_status": "official_historical_governing_body_responses_scoped",
+          "rationale": "Five historical national/DF/BA/SE bodies returned 408 governing-member entries; surname candidates in SE were different persons. No target match. This governing-body universe cannot support an affiliation negative."
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "asserted_fact": "New public Filia geography and identity matching tests provide no temporally relevant positive or exhaustive historical negative",
+          "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados;https://www.gov.br/mme/pt-br/arquivos/do-06-01-2010-s3.pdf",
+          "publisher": "Tribunal Superior Eleitoral; MME-hosted DOU; Portal da Transparencia",
+          "publication_date": "",
+          "retrieval_date": "2026-09-10",
+          "access_status": "official_current_registry_scoped_responses_and_indexed_identity_anchor",
+          "rationale": "Scoped name variants in Salvador and Aracaju plus an identity-or-name matching check in DF MDB. No current-list response is treated as an exhaustive 2018 membership register. Identity anchor stored as hash and masked digits; see request logs for exact coverage and any limitations."
+        },
+        {
+          "evidence_id": "V5W2E003",
+          "asserted_fact": "Original January1 2019 DOU fixes Sobral executive-secretary dismissal effective Jan1; Decree8851 supplies statutory ministerial-vacancy substitution",
+          "source_locator": "https://static.poder360.com.br/2019/01/Diario-Oficial-1jan2019.pdf;https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8851.htm;https://anttlegis.datalegis.inf.br/action/ActionDatalegis.php?acao=abrirResenhaAnoData&ano=2018&cod_menu=7739&cod_modulo=422",
+          "publisher": "Diario Oficial da Uniao (original PDF preserved by Poder360); Presidencia; ANTT legal-library index",
+          "publication_date": "2016-09-21;2018-12-31;2019-01-01",
+          "retrieval_date": "2026-09-10",
+          "access_status": "original_dou_pdf_rendered_and_official_statutory_text_reviewed",
+          "rationale": "Retain the December31 2018 statutory vacancy succession. The original January1 2019 DOU page1 explicitly dismisses Carlos Henrique Menezes Sobral as executive secretary effective January1. Decree8851/2016 article1 III supplies executive-secretary substitution during vacancy unless a specific presidential designation exists. With C034 Marun publication-date departure and the named continuing deputy, this supports the existing one-day adjudication. No vacancy-specific Sobral decree is claimed; no competing designation or earlier departure was established. No change to routine-leave/signature-only rule or half-open dates. ANTT index records Marun dismissal among December31 publications; exact linked act returned invalid-URL page and is not described as retrieved original."
+        }
+      ],
+      "deletes": []
+    },
+    "evidence_snapshot_links.csv": {
+      "key": [
+        "evidence_id",
+        "snapshot_path",
+        "source_locator"
+      ],
+      "upserts": [
+        {
+          "evidence_id": "V5W2E001",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/sgip_ba_20181231.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/consulta?sqPartido=15&tpAbrangencia=82&isComposicoesHistoricas=true&dataInicioVigencia=31%2F12%2F2018&dataFimVigencia=31%2F12%2F2018&sgUe=BA",
+          "snapshot_kind": "retained_scoped_official_historical_governance_response",
+          "sha256": "e1f76be4353f0af66712dd586e57c66d55f5c6df83eab31860058ee168e79be9"
+        },
+        {
+          "evidence_id": "V5W2E001",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/sgip_df_20181231.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/consulta?sqPartido=15&tpAbrangencia=84&isComposicoesHistoricas=true&dataInicioVigencia=31%2F12%2F2018&dataFimVigencia=31%2F12%2F2018&sgUe=DF",
+          "snapshot_kind": "retained_scoped_official_historical_governance_response",
+          "sha256": "e4ee265f9f92b5bed7adf5c65e92c825c06eb6ae21c4e17c6a66e8a639665a20"
+        },
+        {
+          "evidence_id": "V5W2E001",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/sgip_members_263115_scoped.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=263115&isMembrosAtivos=false",
+          "snapshot_kind": "retained_scoped_official_historical_governance_response",
+          "sha256": "e9f425ce697e10437a64192cd0195f79146515e2769c8a3615cab50ee89a8ee4"
+        },
+        {
+          "evidence_id": "V5W2E001",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/sgip_members_263816_scoped.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=263816&isMembrosAtivos=false",
+          "snapshot_kind": "retained_scoped_official_historical_governance_response",
+          "sha256": "d706b8fee6b8cc8db0ba54b83493d638f30373e9aca62e2055fc889632b78cd1"
+        },
+        {
+          "evidence_id": "V5W2E001",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/sgip_members_70945_scoped.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70945&isMembrosAtivos=false",
+          "snapshot_kind": "retained_scoped_official_historical_governance_response",
+          "sha256": "5656acbc8ca6e5981db51341319082d4b09dd8447995458137e816fb29be5b20"
+        },
+        {
+          "evidence_id": "V5W2E001",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/sgip_members_70946_scoped.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false",
+          "snapshot_kind": "retained_scoped_official_historical_governance_response",
+          "sha256": "460378caac9bd49287b2613888c0b59f0421f8fee0bb466cabc472e1ca8a3bc0"
+        },
+        {
+          "evidence_id": "V5W2E001",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/sgip_members_94158_scoped.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+          "snapshot_kind": "retained_scoped_official_historical_governance_response",
+          "sha256": "e4ac7e7099bc9f1054dcbb1e51a07d5ff8fe6a7a165db129c9ad250822d2b71e"
+        },
+        {
+          "evidence_id": "V5W2E001",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/sgip_national_20181231.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/consulta?sqPartido=15&tpAbrangencia=81&isComposicoesHistoricas=true&dataInicioVigencia=31%2F12%2F2018&dataFimVigencia=31%2F12%2F2018",
+          "snapshot_kind": "retained_scoped_official_historical_governance_response",
+          "sha256": "da45e6313fa08456a3500a34e335ba56b1f3d05fd8bc6d46db6afd0b12db297f"
+        },
+        {
+          "evidence_id": "V5W2E001",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/sgip_se_20181231.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/consulta?sqPartido=15&tpAbrangencia=82&isComposicoesHistoricas=true&dataInicioVigencia=31%2F12%2F2018&dataFimVigencia=31%2F12%2F2018&sgUe=SE",
+          "snapshot_kind": "retained_scoped_official_historical_governance_response",
+          "sha256": "20aaa838d68a15d923f20d78a23f18fa8933214feccbd7183d9072b69d099aee"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/tse_BA_182.json",
+          "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=182&currentPage=0&pageSize=10000",
+          "snapshot_kind": "retained_scoped_official_registry_query_log",
+          "sha256": "9c101bdb73b0bb70a376193f6b93a0eb1041df5b33a3dc803aacea072ee9c655"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/tse_BA_38.json",
+          "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=38&currentPage=0&pageSize=10000",
+          "snapshot_kind": "retained_scoped_official_registry_query_log",
+          "sha256": "ebe71aa8367bb7ba1a439e94f65252f5c77bea83aac4f0c55624de0a7ae21264"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/tse_BA_42.json",
+          "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=42&currentPage=0&pageSize=10000",
+          "snapshot_kind": "retained_scoped_official_registry_query_log",
+          "sha256": "3262129664e8ffa76392493bbff9440741c0ddc2f4ba75ef9f899a62c84eed98"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/tse_BA_51.json",
+          "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=51&currentPage=0&pageSize=10000",
+          "snapshot_kind": "retained_scoped_official_registry_query_log",
+          "sha256": "c863a346938dabf14399bbce577cf8e52210f1a2181ac6e952e635ac2e3e9282"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/tse_BA_69.json",
+          "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=69&currentPage=0&pageSize=10000",
+          "snapshot_kind": "retained_scoped_official_registry_query_log",
+          "sha256": "1558a8cd7adc76f3e2b717a7669679e5c9dce9e9383a7e246b5d94cfeed6fcab"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/tse_DF_42.json",
+          "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=42&currentPage=0&pageSize=10000",
+          "snapshot_kind": "retained_scoped_official_registry_query_log",
+          "sha256": "9b4b3653afdfe591781dabbafb327343e2db76a0a6d428ba4f42f3247629d238"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/tse_SE_182.json",
+          "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=182&currentPage=0&pageSize=10000",
+          "snapshot_kind": "retained_scoped_official_registry_query_log",
+          "sha256": "10618ddd60d37b04b267d7471bb69da483ff7e97f43f6243320ab3534abee098"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/tse_SE_38.json",
+          "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=38&currentPage=0&pageSize=10000",
+          "snapshot_kind": "retained_scoped_official_registry_query_log",
+          "sha256": "e93f8c260384169817bd12272812ba99ec18fd2a2307b69086f3f44c2376b78e"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/tse_SE_42.json",
+          "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=42&currentPage=0&pageSize=10000",
+          "snapshot_kind": "retained_scoped_official_registry_query_log",
+          "sha256": "9c5df676728d4da2a140e29fcb132f4dc6bdbbddf3b330f409b1209ed24a83d0"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/tse_SE_51.json",
+          "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=51&currentPage=0&pageSize=10000",
+          "snapshot_kind": "retained_scoped_official_registry_query_log",
+          "sha256": "e22d35ea7e911faf07b9294fbb6b8fdbc2b38183655f29cd243b68f2f7633675"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/tse_SE_69.json",
+          "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=69&currentPage=0&pageSize=10000",
+          "snapshot_kind": "retained_scoped_official_registry_query_log",
+          "sha256": "b2fc45370771e4fefd4b2d2d976eefb4a8a2b1ea7848647844bede60ba009a9c"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/sobral_identity_anchor.json",
+          "source_locator": "https://www.gov.br/mme/pt-br/arquivos/do-06-01-2010-s3.pdf",
+          "snapshot_kind": "masked_hashed_identity_anchor_from_official_indexed_source",
+          "sha256": "64dc252de107184ceb20f7a9c33bca6e75dcb338c05c854717dfb572f1070222"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/web_013.json",
+          "source_locator": "https://www.gov.br/mme/pt-br/arquivos/do-06-01-2010-s3.pdf",
+          "snapshot_kind": "retained_indexed_source_results_identifiers_redacted",
+          "sha256": "29b3f2206eb941acccde6ae8be83c52628aac3f58cec95f729cce44ab189561e"
+        },
+        {
+          "evidence_id": "V5W2E003",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/dou20190101.pdf",
+          "source_locator": "https://static.poder360.com.br/2019/01/Diario-Oficial-1jan2019.pdf",
+          "snapshot_kind": "original_dou_pdf_preserved_by_third_party_rendered_reviewed",
+          "sha256": "4c8867f4b7a2afc04d1d4c74533a9bd7edca8e0e583ce845f3885da59df00fa2"
+        },
+        {
+          "evidence_id": "V5W2E003",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/web_012.json",
+          "source_locator": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8851.htm",
+          "snapshot_kind": "retained_official_statutory_source_text",
+          "sha256": "1e64455a62b42b66dae679623ec97c52f0389598dfec141ea6ea0b38e46f704d"
+        },
+        {
+          "evidence_id": "V5W2E003",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/sources/antt_resenha_2018.html",
+          "source_locator": "https://anttlegis.datalegis.inf.br/action/ActionDatalegis.php?acao=abrirResenhaAnoData&ano=2018&cod_menu=7739&cod_modulo=422",
+          "snapshot_kind": "retrieved_official_library_index_not_linked_full_act",
+          "sha256": "2d1d094a5f9437525d7b1b186dd200b3788d88d7437de904e95926722697f709"
+        },
+        {
+          "evidence_id": "V5W2E001",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/RESEARCH.md",
+          "source_locator": "research/refinement_v5/worker_2_temer_end/RESEARCH.md",
+          "snapshot_kind": "research_findings_and_limitations",
+          "sha256": "2f543abd977af272d4a879fea6e9fc70562728c70165821ea6254aff33c05235"
+        },
+        {
+          "evidence_id": "V5W2E002",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/RESEARCH.md",
+          "source_locator": "research/refinement_v5/worker_2_temer_end/RESEARCH.md",
+          "snapshot_kind": "research_findings_and_limitations",
+          "sha256": "2f543abd977af272d4a879fea6e9fc70562728c70165821ea6254aff33c05235"
+        },
+        {
+          "evidence_id": "V5W2E003",
+          "snapshot_path": "research/refinement_v5/worker_2_temer_end/RESEARCH.md",
+          "source_locator": "research/refinement_v5/worker_2_temer_end/RESEARCH.md",
+          "snapshot_kind": "research_findings_and_limitations",
+          "sha256": "2f543abd977af272d4a879fea6e9fc70562728c70165821ea6254aff33c05235"
+        }
+      ],
+      "deletes": []
+    },
+    "services.csv": {
+      "key": [
+        "service_id"
+      ],
+      "upserts": [
+        {
+          "service_id": "service-C034-carlos-henrique-menezes-sobral",
+          "person_id": "person-carlos-henrique-menezes-sobral",
+          "person_name": "Carlos Henrique Menezes Sobral",
+          "office_id": "temer-secretaria-governo",
+          "office_name": "Secretaria de Governo",
+          "administration_id": "temer",
+          "start_inclusive": "2018-12-31",
+          "end_exclusive": "2019-01-01",
+          "capacity": "vacancy_acting",
+          "included": "true",
+          "scope_decision": "Statutory executive-secretary succession after Marun formal departure; original DOU fixes Sobral own departure effective January1 2019; no separate vacancy-specific naming decree claimed",
+          "raw_start": "2018-12-31",
+          "raw_end": "2019-01-01",
+          "raw_date_semantics": "Half-open reconstructed succession",
+          "date_status": "adjudicated_succession",
+          "date_earliest": "",
+          "date_latest": "",
+          "evidence_ids": "C034;V5W2E003",
+          "decision_ids": "C034;V5W2D002",
+          "source_record_ids": "C034"
+        }
+      ],
+      "deletes": []
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "person_name": "Ana Carla Machado Lopes",
+  "source_url": "https://belem-pa.filiaweb.com/filiados/psdb",
+  "retrieved_on": "2026-09-10",
+  "source_snapshot_date": "2016-07-27",
+  "source_declared_origin": "Tribunal Superior Eleitoral",
+  "source_party": "PSDB",
+  "source_municipality": "BELEM",
+  "source_uf": "PA",
+  "source_row_cells": [
+    "ANA CARLA MACHADO LOPES",
+    "0495927***84",
+    "02/10/2013"
+  ],
+  "source_row_html": "<tr>\n<td>\n\t\tANA CARLA MACHADO LOPES \n\t\t</td>\n<td>\n\n\t\t 0495927***84\n\t\t</td>\n<td>02/10/2013</td>\n</tr>",
+  "whole_response_sha256": "23c40e7d458f8ccd46f446c0f04c9abd187d2ede594db75b6bc2a09588a95544",
+  "exact_match_count": 1,
+  "source_warning": "Informações obtidas com o Tribunal Superior Eleitoral, em 27 de julho de 2016; atualidade não garantida; fonte avisa que dados de2016 estão em processo de exclusão.",
+  "assertion_scope": "Historical PSDB membership and entry date 2013-10-02; no resignation or current status supplied. Registry identifier remains masked as published."
+}

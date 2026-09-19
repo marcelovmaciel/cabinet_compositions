@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6865",
+  "city": "BELFORD ROXO",
+  "party": "AGIR",
+  "id": 57,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6865&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 508,
+      "totalElements": 508,
+      "response_sha256": "d8e4269f52939f915a771a8f04d468f47643fe305c71494e35d65fe670e7f668",
+      "retrieved_utc": "2026-09-10T23:39:55Z"
+    }
+  ],
+  "matches": []
+}

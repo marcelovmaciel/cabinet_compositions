@@ -1,0 +1,21 @@
+{
+  "party": "REPUBLICANOS",
+  "id": 51,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=51&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 15856,
+      "response_sha256": "1bb69f9c1000b0baa8a9d090bc00aa76e190e040509a50cef28c18128d853aa7",
+      "retrieved_utc": "2026-09-10T23:48:43Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=51&currentPage=1&pageSize=10000",
+      "records": 5856,
+      "totalElements": 15856,
+      "response_sha256": "24d82eae7f63e3e34a4d9e4b2db3d140fccb8c25fe7bdaadc0fa167b3447e34b",
+      "retrieved_utc": "2026-09-10T23:48:55Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,24 @@
+{
+  "party": "MDB",
+  "id": 42,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 10094,
+      "response_sha256": "a5569e781f2965f1278903bd547d490e05d0dc406ca10b5ef4adf8b6c22ac1e5",
+      "retrieved_utc": "2026-09-10T23:40:26Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=42&currentPage=1&pageSize=10000",
+      "records": 94,
+      "totalElements": 10094,
+      "response_sha256": "c348cb7e9363e54b2a004cb2da847631609fda43d1f0d5e21b72be47447a4739",
+      "retrieved_utc": "2026-09-10T23:40:27Z"
+    }
+  ],
+  "matches": []
+}

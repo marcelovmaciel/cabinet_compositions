@@ -1,0 +1,16 @@
+{
+  "party": "MISSÃO",
+  "id": 183,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 47,
+      "totalElements": 47,
+      "response_sha256": "532f125c1980dab8898fe0da3410c9d681b61e9ed2e524f9153e6675c308e66e",
+      "retrieved_utc": "2026-09-10T23:35:29Z"
+    }
+  ],
+  "matches": []
+}

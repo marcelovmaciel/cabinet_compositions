@@ -1,0 +1,16 @@
+{
+  "party": "PSOL",
+  "id": 63,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 140,
+      "totalElements": 140,
+      "response_sha256": "94dd7983c52007a832e842df0a231493daa46ca7ef0c723b6b4f484574a4fc25",
+      "retrieved_utc": "2026-09-10T23:35:44Z"
+    }
+  ],
+  "matches": []
+}

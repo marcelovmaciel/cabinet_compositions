@@ -1,0 +1,16 @@
+{
+  "party": "UNIÃO",
+  "id": 72,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=72&currentPage=0&pageSize=10000",
+      "records": 2224,
+      "totalElements": 2224,
+      "response_sha256": "0a8e08d2c49326ea62e1fdb9655cd159d791f32955a6ab7c0cf1ca129e09551d",
+      "retrieved_utc": "2026-09-10T23:35:55Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,454 @@
+Issues · turicas/eleicoes-brasil · GitHub (https://github.com/turicas/eleicoes-brasil/issues)
+citeturn456search0 [wordlim: 200] Crawled: last month;   * ### Adicionar script de filiação partidária ao espelho ...   * ### Dados de votação por zona duplicados [2018]
+
+· evertoncbx opened on May 4, 2021
+
+  * ### Testar se schema e header-final são compatíveis
+
+Status: Open.
+
+#21 In turicas/eleicoes-brasil;
+
+· rhenanbartels opened on Nov 5, 2020
+
+  * ### Criar testes para os métodos valid_filename
+
+Status: Open.
+
+#20 In turicas/eleicoes-brasil;
+
+· rhenanbartels opened on Nov 5, 2020
+
+  * ### Adicionar script de filiação partidária ao espelho
+
+Status: Open.
+
+#19 In turicas/eleicoes-brasil;
+
+· turicas opened on Nov 4, 2020
+
+  * ### Adaptar código para prestações de contas (receitas/despesas) 2020
+
+Status: Open.
+
+#18 In turicas/eleicoes-brasil;
+
+· turicas opened on Nov 4, 2020
+
+  * ### Correções nos metadados
+
+Status: Open.
+
+#15 In turicas/eleicoes-brasil;
+
+· turicas opened on Oct 14, 2020
+
+  * ### Dados de votação por zona duplicados [2018]
+
+Status: Open.
+
+#14 In turicas/eleicoes-brasil;
+
+· fmercurio opened on Sep 26, 2020
+
+  * ### Verificar votação por zona de eleições suplementares
+
+good first issueGood for newcomersGood for newcomers
+
+help wantedExtra attention is neededExtra attention is needed
+
+Status: Open.
+
+#7 In turicas/eleicoes-brasil;
+
+· turicas opened on Apr 8, 2019
+
+  * ### Extrair CNPJ de campanhas (candidatos e partidos)
+
+Status: Open.
+
+#4 In turicas/eleicoes-brasil;
+
+· turicas opened on Nov 16, 2018
+
+  * ### Limpar datas (filiação partidária)
+
+Status: Open.
+
+#2 In turicas/eleicoes-brasil;
+
+· turicas opened on Nov 12, 2018
+--------------------------------------------------------------------------------
+A REDE DE LÍDERES RAPS (https://www.raps.org.br/2020/wp-content/uploads/2016/07/Relatorio-do-Processo-de-Selecao-2016_digital.pdf)
+citeturn456search12 [wordlim: 200] Published: 10.4 years ago; Crawled: 10.4 years ago; Text: “Estes dados incluem o processo de seleção 2016, sendo 40 novos Líderes RAPS, 40 Empreendedores Cívicos e 39 Jovens RAPS.” ... | DF | 27 | ... | PMDB | 6 | ... | Total de filiados | 196 |
+**Lideranças X Localidade**
+
+| Localidade | Valor |
+|---|---:|
+| AC | 2 |
+| AM | 4 |
+| PA | 6 |
+| AM | 2 |
+| MA | 2 |
+| RO | 1 |
+| BA | 20 |
+| CE | 4 |
+| PE | 15 |
+| SE | 2 |
+| PB | 3 |
+| RN | 2 |
+| DF | 27 |
+| GO | 5 |
+| MG | 4 |
+| MS | 4 |
+| TO | 2 |
+| ES | 7 |
+| MG | 34 |
+| RJ | 41 |
+| SP | 247 |
+| PR | 13 |
+| SC | 23 |
+| RS | 14 |
+| Outro país | 1 |
+| Total | 485 |
+</table>
+
+<table id="e6">
+**Lideranças X Partido**
+
+| Partido | Valor |
+|---|---:|
+| PCdoB | 2 |
+| PDT | 10 |
+| PEN | 1 |
+| PMDB | 6 |
+| PP | 2 |
+| PPS | 10 |
+| PR | 1 |
+| PROS | 1 |
+| PSB | 27 |
+| PSC | 1 |
+| PSD | 10 |
+| PSDB | 29 |
+| PSL | 5 |
+| PSOL | 8 |
+| PT | 13 |
+| PTB | 6 |
+| PTdoB | 1 |
+| PTN | 1 |
+| PV | 37 |
+| REDE | 17 |
+| NOVO | 2 |
+| PHS | 1 |
+| SD | 3 |
+| PRB | 1 |
+| DEM | 1 |
+| Total de filiados | 196 |
+| Não filiados | 289 |
+| Total geral | 485 |
+</table>
+
+<table id="e7">
+**Lideranças X Faixa etária:**
+
+| Faixa etária | Valor |
+|---|---:|
+| 18 a 25 anos | 108 |
+| 26 a 30 anos | 117 |
+| 31 a 35 anos | 71 |
+| 36 a 40 anos | 53 |
+| 41 a 45 anos | 46 |
+| 46 a 50 anos | 32 |
+| 51 a 55 anos | 29 |
+| 56 a 60 anos | 12 |
+| Acima de 60 anos | 15 |
+| Sem resposta | 2 |
+| Total | 485 |
+</table>
+
+<visual_element id="e8">
+Box titled “Líderes com mandato” with counts: Vereadores 15; Deputados Estaduais 3; Deputados Federais 11; Deputado Distrital 1; Senadores 2; Prefeitos 7; Governador 1; Total 40.
+</visual_element>--------------------------------------------------------------------------------
+UNIVERSIDADE FEDERAL DE PERNAMBUCO (https://repositorio.ufpe.br/bitstream/123456789/66622/1/DISSERTA%C3%87%C3%83O%20Felipe%20Lira%20Afonso%20Ferreira%20Paiva.pdf)
+citeturn456search13 [wordlim: 200] Published: 10 months ago; Entretanto, os dados para o mandato de 2015-2018 ... 6 Dados e scripts para replicação estarão disponíveis em <https://github.com/felipelirapaiva/dissertacao> ... 9 Disponível em: <https://basedosdados.org/dataset/br-tse-filiacao-partidaria>.
+​
+Para a quantificação dos secretários estaduais, utilizou-se a base de dados do 
+CEPESP DATA. Os dados disponíveis cobrem 26 unidades federativas - não há dados 
+para o Amapá - entre 1995 e 2018. Entretanto, os dados para o mandato de 2015-2018 
+estão bastante incompletos: só há dados para seis estados e, em quatro deles (Espírito 
+Santo, Maranhão, Mato Grosso do Sul e Rio Grande do Norte) houve apenas um 
+secretário ao longo dos quatro anos. Para o mandato de 2011-2014, o mesmo problema 
+persiste, ainda que com uma disponibilidade de dados um pouco maior. Para o período 
+de 1995-2010, contudo, há completa disponibilidade de dados em todas as unidades 
+federativas, de modo que isso motivou o recorte temporal adotado nesta pesquisa. 
+​
+Nos dados originais, consta a informação de quando cada secretário entrou e 
+saiu de seu cargo. A partir disso, contou-se a quantidade de secretários em cada mês 
+entre 1995 e 2010. A principal vantagem de trabalhar com dados mensais - em 
+detrimento de anuais ou quadrienais - é que mudanças na composição dos gabinetes 
+podem acontecer a qualquer momento. Para os casos em que um secretário saiu e, no 
+6 Dados e scripts para replicação estarão disponíveis em <https://github.com/felipelirapaiva/dissertacao> 
+7 Disponível em: <https://cepespdata.io/consulta/secretarios>. Acesso em 24 de maio de 2021. 
+8 Disponível em: <https://www.tse.jus.br/eleicoes/eleicoes-anteriores/eleicoes-1994/resultados-das-eleicoes-1994>. 
+Acesso em 18 de maio de 2022. 
+9 Disponível em: <https://basedosdados.org/dataset/br-tse-filiacao-partidaria>. Acesso em 18 de maio de 2022. 
+39--------------------------------------------------------------------------------
+18 | CURITIBA, SEXTA-FEIRA, 22 DE JULHO DE 2016 | anuncios@bemparana.com.br | edição 10.458 | Publicidade Legal | JORNAL DO ESTADO | BEMPARANÁ (https://uploads.bemparana.com.br/upload/impresso/2016/07/22/files/assets/common/downloads/publication.pdf)
+citeturn456search14 [wordlim: 200] Published: 10.1 years ago; REFERÊNCIA DE TEMPO: Para todas as referências de tempo será observado o horário de Brasília (DF). ... II – Os parlamentares do partido filiados em Curitiba-PR; ... CONVENÇÃO MUNICIPAL do partido, a ser realizada no dia 01 de agosto de 2016, das 17hs às 19hs30m, na sede do PMDB-PR, na avenida Vicente Machado, 988, Batel, Curitiba, Paraná, com a seguinte ordem do dia: ... Os interessados poderão fazer o download do edital no site www.campolargo.pr.gov.br - Empresas - Licitações. ... Vereador Wladislau Bugalski, nº: 250, sala 02, no bairro Restinga Seca, na cidade de Almirante Tamandaré/PR, torna público que irá requerer ao IAP, a Renovação da Licença de Operação para atividade de Transporte Rodoviário de Produtos Perigosos com validade para 27/07/2016.
+OBJETO: Registro de Preços para aquisição de MEDICAMENTOS de distribuição gratuita e de uso interno, destinados a atender Assistência Farmacêutica do Município de São Mateus do Sul, de acordo com as especificações constantes no Anexo I do Edital, conforme solicitação da Secretaria Municipal de Saúde.
+
+TIPO DA LICITAÇÃO: Menor Preço Por Item.  
+RECEBIMENTO DAS PROPOSTAS: até às 08:30 horas do dia 10 de agosto de 2016.  
+ABERTURA DAS PROPOSTAS: das 08:31 horas até às 17:00 horas do dia 10 de agosto de 2016.  
+INÍCIO DA SESSÃO DE DISPUTA DE PREÇOS: às 08:30 horas do dia 16 de agosto de 2016.  
+REFERÊNCIA DE TEMPO: Para todas as referências de tempo será observado o horário de Brasília (DF).  
+LOCAL: www.bllcompras.org.br - Acesso “Sistema Silverlight”.  
+O Pregão Eletrônico será realizado em sessão pública, por meio da INTERNET, mediante condições de segurança – criptografia e autenticação – em todas as suas fases através do Sistema de Pregão Eletrônico (licitações) da BOLSA DE LICITAÇÕES E LEILÕES DO BRASIL – Decretos n.ºs 028/2009, 509/2011, 767/2015 e 1.127/2015 e Leis Federais n.ºs 10.520/2002 e 8.666/93.
+
+São Mateus do Sul, 20 de julho de 2016
+
+Clovis Genesio Ledur  
+Prefeito Municipal
+
+PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO  
+EXECUTIVA MUNICIPAL PROVISÓRIA DE CURITIBA-PR  
+EDITAL DE CONVOCAÇÃO DE CONVENÇÃO MUNICIPAL
+
+A COMISSÃO PROVISÓRIA MUNICIPAL DO PARTIDO DO MOVIMENTO DEMOCRÁTICO BRASILEIRO – PMDB, de Curitiba-Pr, de acordo com o Estatuto do PMDB, em especial as RESOLUÇÕES DO TSE ns. 23.450/2016 e 23.454/2016 e Legislação Eleitoral em vigor,
+
+CONVOCA:
+
+I – Os membros da Comissão Provisória Municipal do PMDB de Curitiba-PR;  
+II – Os parlamentares do partido filiados em Curitiba-PR;  
+III – Os filiados da legenda com circunscrição eleitoral neste município, a comparecerem à
+
+--------------------------------------------------------------------------------
+Eleições no Entorno do DF | A topnotch WordPress.com site (https://entorno2012.wordpress.com/)
+citeturn456search1 [wordlim: 200] Crawled: today; Nas 22 cidades da Região do Entorno do DF, o PMDB, apesar de ligeira baixa, continua liderando a preferência, a frente do PSDB e do DEM. ... Os partidos com mais filiados em cada uma das 22 cidades da RIDE não sofre muita modificação no semestre de abril a outubro de 2016 > 2016-outubro-partidos-com-mais-filiados
+# Eleições no Entorno do DF
+
+A topnotch WordPress.com site
+
+← Posts antigos
+
+## Outubro 2016, Filiações partidárias no Entorno: PMDB líder, PSDB vice
+
+Publicado em novembro 22, 2016 por politicadfemnumeros
+
+O Tribunal Superior Eleitoral atualiza em abril e outubro de cada ano a lista dos filiados a um partido político.
+
+Nas 22 cidades da Região do Entorno do DF, o PMDB, apesar de ligeira baixa, continua liderando a preferência, a frente do PSDB e do DEM.
+
+Em termos proporcionais, a mais forte progressão é do Novo, seguido do PMB, dois partidos recém criados > filiados-entorno-outubro-2016
+
+Os partidos com mais filiados em cada uma das 22 cidades da RIDE não sofre muita modificação no semestre de abril a outubro de 2016 > 2016-outubro-partidos-com-mais-filiados
+
+Publicado em 2016, Entorno, Filiações partidárias | 1 Comentário
+
+## Eleição 2016 no Entorno – Recapitulativo
+--------------------------------------------------------------------------------
+Perfil Político (https://perfilpolitico.serenata.ai/)
+citeturn456search2 [wordlim: 200] Crawled: today; A ficha de cada pessoa candidata apresenta o patrimônio declarado patrimônio declarado ao longo de todas as eleições disputadas e a comparação com o patrimônio das outras candidaturas do mesmo ano. ... O The Intercept Brasil apoiou o projeto cobrindo os custos de infraestrutura tecnológica para armazenamento dos dados durante sua criação em 2018. ... Image: Github Ver Github
+
+A série histórica de filiação partidária deixou de ser publicada pelo TSE em razão da Lei Geral de Proteção de Dados (LGPD) em agosto de 2021. Apenas as filiações ativas passaram a ser disponibilizadas poucos meses antes das eleições. A última versão do histórico partidário armazenada pelo Perfil Político é do final de 2020 e as filiações atuais foram coletadas em agosto de 2022.
+
+Os dados da Câmara dos Deputados e do Senado Federal foram coletados em julho de 2022 e os dados da Receita Federal foram coletados em outubro de 2021.
+
+
+## Como a plataforma é financiada?
+
+O projeto foi desenvolvido com recursos da Open Knowledge Brasil. O The Intercept Brasil apoiou o projeto cobrindo os custos de infraestrutura tecnológica para armazenamento dos dados durante sua criação em 2018. Para que a equipe do projeto possa continuar aperfeiçoando esse e outros projetos do Programa de Ciência de Dados para Inovação Cívica, dependemos das contribuições dos nossos usuários, que podem doar pelo site apoia.se/serenata.
+--------------------------------------------------------------------------------
+• A Última Deliberação na Câmara dos Deputados (https://repositorio.unb.br/bitstream/10482/52549/1/2025_JoaoCostaRibeiroFilho_TESE.pdf)
+citeturn456search15 [wordlim: 200] Published: 1.2 years ago; Nessa sessão, participaram 67 Deputados(as) filiados(as) ao PMDB; desses, apenas 7 votaram a favor da presidente Dilma Rousseff. ... Brasília, DF, 18 de abril de 2016.
+As abstenções foram de Pompeo de Mattos, Vinicius Gurgel, Beto Salame, Gorete Pereira, Cacá Leão, Mário Negromonte Jr. e Sebastião Oliveira. Aníbal Gomes e Clarissa Garotinho foram os ausentes¹⁷²⁸. Nessa sessão, participaram 67 Deputados(as) filiados(as) ao PMDB; desses, apenas 7 votaram a favor da presidente Dilma Rousseff. Todos os 52 deputados(as) filiados ao PSDB, os 28 filiados ao DEM e os 6 filiados ao PV, votaram contra a presidente Dilma¹⁷²⁹.
+
+No dia seguinte, 18 de abril, o presidente da Câmara, Eduardo Cunha, enviou o Ofício nº 526/2016/SGM-P ao presidente do Senado Federal, comunicando oficialmente a autorização da Câmara para a instauração do processo de impeachment¹⁷³⁰.
+
+Of. nº 526/2016/SGM-P
+
+Brasília, DF, 18 de abril de 2016.
+
+A Sua Excelência o Senhor  
+Senador RENAN CALHEIROS  
+Presidente do SENADO FEDERAL
+
+Assunto: Denúncia por Crime de Responsabilidade nº 1/2015, em desfavor da Presidente da República, Dilma Vana Rousseff. Instauração do processo autorizada pela Câmara dos Deputados.
+
+¹⁷²⁷ Volume 28, p. 250-3, 408-9; Volume 29, p. 3-6; Volume 29, p. 2-4; Volume. 29, p. 167-9; Volume 29, p. 331-3. Volume. 29, p. 475-6; Volume. 30, p. 2-5; Volume. 30, p. 153-6; Volume. 30, p. 431-2; Volume. 31, p. 173-5; Vol. 31, p. 2-4; Volume 32, p. 133 e Volume 32, p. 167-9; Volume 33, p. 105; Volume. 33, p. 112.  
+¹⁷²⁸ Volume 28, p. 250-3, 408-9; Volume 29, p. 3-6; Volume 29, p. 2-4; Volume. 29, p. 167-9; Volume 29, p. 331-3. Volume. 29, p. 475-6; Volume. 30, p. 2-5; Volume. 30, p. 153-6; Volume. 30, p. 431-2; Volume. 31, p. 173-5; Vol. 31, p. 2-4; Volume 32, p. 133 e Volume 32, p. 167-9; Volume 33, p. 105; Volume. 33, p. 112.  
+¹⁷²⁹ Volume 33, p. 118-132.  
+¹⁷³⁰ Volume 33, p. 145.
+
+529--------------------------------------------------------------------------------
+UNIVERSIDADE DE BRASÍLIA – UnB (https://repositorio.unb.br/bitstream/10482/52700/1/KessiaDeAraujoRufinoMontezuma_DISSERT.pdf)
+citeturn456search16 [wordlim: 200] Published: 1.5 years ago; locais do DF (Santos, 2013). ... deputados distritais José Edmar, Tadeu Filipelli e Luiz Estevão, todos filiados ao PMDB. ... (Estrutural, 2016).
+experiências de lutas anteriores em outras ocupações parecidas com aquela em diferentes 
+locais do DF (Santos, 2013).  
+O surgimento de duas diferentes associações que os representavam, no processo de 
+regularização da cidade e de suas moradias evidenciam esse fato. Entretanto, o processo de 
+busca pela regularização do assentamento e das moradias trouxe a necessidade de união de 
+forças entre às associações de moradores.  
+De acordo com Santos (2013), foi firmado um acordo de regularização por parte do 
+governador Cristóvam Buarque (1995 a 1998) com a liderança da ASMOES, que consistia em 
+removê-los temporariamente da região conhecida como Vila Nova Estrutural para o mesmo 
+local onde estavam os moradores da denominada Vila Velha Estrutural.  
+Contudo, ainda que o acordo para desocupar a parte alta do assentamento tenha sido 
+firmado somente com a ASMOES, os moradores representados pela ASCOL, mesmo com 
+diferentes visões sobre a luta das duas associações, foram favoráveis a transferência dos 
+moradores em prol da regularização dos espaços ocupados pelas moradias. 
+O processo de regularização da área foi então assumido pelo poder público e 
+parlamentares de oposição ao governo distrital, entre eles, o deputado distrital José Edmar 
+(PMDB). De acordo com o relato de moradores, além da mobilização organizada pelos 
+deputados distritais José Edmar, Tadeu Filipelli e Luiz Estevão, todos filiados ao PMDB.  
+Na ocasião, os parlamentares formavam o bloco de oposição ao governo, muitos 
+moradores recebiam apoio financeiro desses deputados para aquisição do chamado “Kit 
+Invasão”, constituído de 08 folhas de madeirite, 04 telhas, 01 pacote de pregos e martelo 
+(Estrutural, 2016).--------------------------------------------------------------------------------
+✔️ Filiação Partidária em BRASÍLIA / DF (https://brasilia-df.filiaweb.com/)
+citeturn456search3 [wordlim: 200] Published: 10.1 years ago; Crawled: yesterday; # Listas de Filiação Partidária em BRASÍLIA / DF ... Sigla - Código  | Nome do Partido  | Total de Filiados ... ### PMDB - 15 ... Informações obtidas com o Tribunal Superior Eleitoral, em 27 de julho de 2016, não leve as informações tão a sério antes de consultar também em: TSE.
+
+### 774
+
+### PPL - 54
+
+ | PARTIDO PÁTRIA LIVRE  | 
+
+### 704
+
+### PROS - 90
+
+ | PARTIDO REPUBLICANO DA ORDEM SOCIAL  | 
+
+### 694
+
+### PCB - 21
+
+ | PARTIDO COMUNISTA BRASILEIRO  | 
+
+### 553
+
+### PSTU - 16
+
+ | PARTIDO SOCIALISTA DOS TRABALHADORES UNIFICADOS  | 
+
+### 515
+
+### PEN - 51
+
+ | PARTIDO ECOLÓGICO NACIONAL  | 
+
+### 442
+
+### PSD - 55
+
+ | PARTIDO SOCIAL DEMOCRÁTICO  | 
+
+### 404
+
+### PSDC - 27
+
+ | PARTIDO SOCIAL DEMOCRATA CRISTÃO  | 
+
+### 383
+
+### REDE - 18
+
+ | REDE SUSTENTABILIDADE  | 
+
+### 331
+
+### SD - 77
+
+ | SOLIDARIEDADE  | 
+
+### 290
+
+### NOVO - 30
+
+ | PARTIDO NOVO  | 
+
+### 75
+
+### PCO - 29
+
+ | PARTIDO DA CAUSA OPERÁRIA  | 
+
+### 37
+
+### PMB - 35
+
+ | PARTIDO DA MULHER BRASILEIRA  | 
+
+### 8
+
+Filiados em ABADIÂNIA / GO Encontrei tudo que buscava. Filiados em ABADIÂNIA / GO
+
+Informações obtidas com o Tribunal Superior Eleitoral, em 27 de julho de 2016, não leve as informações tão a sério antes de consultar também em: TSE. Contato e solicitações de remoção (LGPD): filiaweb@filiaweb.com--------------------------------------------------------------------------------
+Integrantes do PSB criticam posição da legenda e anunciam desfiliação (https://www.metropoles.com/colunas/grande-angular/integrantes-do-psb-criticam-posicao-da-legenda-e-anunciam-desfiliacao)
+citeturn456search4 [wordlim: 200] Published: 10.4 years ago; Crawled: 6 months ago; 22/04/2016 19:00, atualizado 22/04/2016 19:00 ... Além de reprovarem a aliança com o presidente da Câmara dos Deputados, Eduardo Cunha (PMDB-RJ), o vice-presidente do país, Michel Temer (PMDB), e o deputado federal Jair Bolsonaro (PSC-RJ) na votação do processo de impeachment no último dia 17, os agora ex-filiados fizeram reprovações ao governador do DF, Rodrigo Rollemberg (PSB).
+
+### Grande AngularColunas
+
+Grande Angular
+
+# Integrantes do PSB criticam posição da legenda e anunciam desfiliação
+
+## Anúncio foi feito nesta sexta-feira (22/4), em um comunicado de três páginas que está circulando nas redes sociais. Além das críticas à Executiva nacional, os agora ex-filiados reprovam atuação de Rodrigo Rollemberg no DF
+
+Kelly Almeida
+
+22/04/2016 19:00, atualizado 22/04/2016 19:00
+
+### Compartilhar notícia
+
+Siga Google Discover
+
+Humberto Pradera/Divulgação PSB
+
+Image: Executiva PSB1 de 1 Executiva PSB - Foto: Humberto Pradera/Divulgação PSB
+
+Em um comunicado de três páginas e com 15 assinaturas, integrantes do Partido Socialista Brasileiro (PSB) anunciaram a saída da legenda nesta sexta-feira (22/4). O texto longo e crítico mostra a insatisfação do grupo com o posicionamento dos dirigentes da sigla nos últimos acontecimentos políticos do país.
+
+Além de reprovarem a aliança com o presidente da Câmara dos Deputados, Eduardo Cunha (PMDB-RJ), o vice-presidente do país, Michel Temer (PMDB), e o deputado federal Jair Bolsonaro (PSC-RJ) na votação do processo de impeachment no último dia 17, os agora ex-filiados fizeram reprovações ao governador do DF, Rodrigo Rollemberg (PSB). --------------------------------------------------------------------------------
+Movimento Democrático Brasilei... (https://txt.silviolobo.com.br/user.php?view=%2Fhome%2Fsilviolo%2Ftxt.silviolobo.com.br%2Ftxt%2F001%2Fpage_1763177191_3084.txt)
+citeturn456search5 [wordlim: 200] Published: 10 months ago; Crawled: yesterday;     Número de filiados ... /2016
+--------------------------------------------------------------------------------
+materias/2020-11-12-reeleicoes/Reeleicoes.Rmd at master · pindograma/materias · GitHub (https://github.com/pindograma/materias/blob/master/2020-11-12-reeleicoes/Reeleicoes.Rmd)
+citeturn456search6 [wordlim: 200] Published: 5.9 years ago; Crawled: last week; porque a incumbência lhe daria mais visibilidade e maior influência sobre cabos ... tab_source_note('Thomas Brambor e Ricardo Ceneviva, "Incumbency Advantage in Brazilian Mayoral Elections" (2011); Ari Francisco de Araújo Júnior e Tiago Silva Pires, "A vantagem do incumbente nas eleições municipais e estaduais brasileiras: um estudo de 2000 a 2018" (2020).') ... Mas ao analisar as eleições de Santa Catarina entre 2005 e 2016, o pesquisador ... de políticos no poder: não é fácil se reeleger prefeito no Brasil. ... **Dados usados na matéria**: Resultados de Eleições (Tribunal Superior ... [1]: https://github.com/pindograma/materias/blob/master/2020-11-12-reeleicoes/Reeleicoes.Rmd
+--------------------------------------------------------------------------------
+Cerro Corá News (https://cerrocoranews.blogspot.com/search?by-date=false&max-results=13&reverse-paginate=true&start=2604&updated-max=2016-06-01T23%3A48%3A00-03%3A00)
+citeturn456search7 [wordlim: 200] Published: 10.3 years ago; Crawled: 3 months ago; Dados do Tribunal Superior Eleitoral (TSE) apontam que, em abril deste ano, 1.298 dos mais de 8.500 aptos a votarem nas eleições municipais de 2 de outubro de 2016 em Cerro Corá, estão filiados a 21 partidos politicos dentre os 35 que têm registros naquela Corte, em Brasília (DF). ... Em segundo lugar vem o PMDB, historicamente liderado pelo vice-prefeito João Batista de Melo Filho, com 202 filiados (15,56%).
+--------------------------------------------------------------------------------
+Temer no poder: uma nova relação com os políticos do DF - CB Poder | (https://blogs.correiobraziliense.com.br/cbpoder/temer-no-poder-uma-nova-relacao-com-os-politicos-do-df/)
+citeturn456search8 [wordlim: 200] Published: 10.3 years ago; Crawled: last month; Publicado em 12/05/2016 - 13:40 Ana Maria Campos Sem categoria ... Entre os integrantes da bancada na Câmara, Temer dialogo bem com os deputados Alberto Fraga (DEM), Laerte Bessa (PR) e Rogério Rosso (PSD), ex-filiados ao PMDB. ... No novo governo que surgirá com a abertura do processo de impeachment de Dilma Rousseff no Senado, o presidente do PMDB-DF, Tadeu Filippelli, será assessor especial do presidente da República em exercício, Michel Temer.
+--------------------------------------------------------------------------------
+Blog de Paulo Mascarenhas: 3 de abr. de 2016 (https://blogpaulomascarenhas.blogspot.com/2016_04_03_archive.html?m=0)
+citeturn456search9 [wordlim: 200] Crawled: 5 months ago; Os dados serão divulgados pela Corregedoria-Geral da Justiça Eleitoral (CGE), após o processamento dos dados, no dia 20 de abril.O prazo final para o envio das listas de filiados foi estabelecido pelo Provimento nº 5/2016 da CGE. ... O Partido do Movimento Democrático Brasileiro (PMDB) tem o maior número de filiados: 2.376.463.
+--------------------------------------------------------------------------------
+PMDB decide deixar a base do governo Dilma - Mídia Mineira - Notícias de Cataguases e Região (https://www.midiamineira.com.br/2016/03/pmdb-decide-deixar-base-do-governo-dilma.html)
+citeturn456search10 [wordlim: 200] Published: 10.5 years ago; Crawled: 2 weeks ago; quarta-feira, 30 de março de 2016 ... Veja abaixo quem são os ministros filiados ao PMDB: ... Location: Brasília - Brasília, Brasília - DF, Brasil
+--------------------------------------------------------------------------------
+Acre – Wikipédia, a enciclopédia livre (https://webfiddle.net/stackblitz-labs/pt.wikipedia.org/wiki/Acre)
+citeturn456search11 [wordlim: 200] Published: last month; Crawled: yesterday; ^{[106]} Conforme informações divulgadas pelo Tribunal Superior Eleitoral (TSE), com base em dados de outubro de 2016, o partido político com maior número de filiados no Acre é o Partido dos Trabalhadores (PT), com 10 297 membros, seguido do Partido do Movimento Democrático Brasileiro (PMDB), com 8 616 membros e do Partido Comunista do Brasil (PCdoB), com 8 047 filiados.
+--------------------------------------------------------------------------------
+CÂMARA DOS DEPUTADOS - DETAQ (https://www.camara.leg.br/internet/plenario/sumario/ordinari/d110516v.pdf)
+citeturn456search17 [wordlim: 200] Published: 5 months ago; Data: 11/05/2016 ... ALBERTO FRAGA (DEM, DF) - Caráter histórico do afastamento da ... demissão de funcionários comissionados filiados ao PT, ao PCdoB e ao PDT. ... Aparteantes: DARCÍSIO PERONDI (Bloco/PMDB, RS), MAURO PEREIRA
+--------------------------------------------------------------------------------
+Partido Liberal (2006) (https://pt.wikipedia.org/wiki/Partido_Liberal_%282006%29)
+citeturn456search18 [wordlim: 200] Crawled: 4 months ago; ### Número de filiados ... /2016 | 799.301 | 24.704 | +3,18%
+--------------------------------------------------------------------------------
+Democratas (Brasil) (https://pt.wikipedia.org/wiki/Democratas_%28Brasil%29)
+citeturn456search19 [wordlim: 200] Crawled: 4 months ago; 2011 a 2016 |  | Antonio Palocci ... PMDB ... ### Número de filiados
+--------------------------------------------------------------------------------
+Movimento Brasil Livre (https://pt.wikipedia.org/wiki/Movimento_Brasil_Livre)
+citeturn456search20 [wordlim: 200] Crawled: 4 months ago; Membros do movimento foram filiados em diferentes partidos, como Partido Novo (NOVO), Movimento Democrático Brasileiro (MDB), Partido Social Democrático (PSD), Progressistas (PP), Partido Social Cristão (PSC), União Brasil (UNIÃO), Partido da Social Democracia Brasileira (PSDB), Podemos (PODE) e outros. ... Nelson Marchezan Júnior eleito em 2016 prefeito de Porto Alegre com 402.165 votos pelo PSDB.
+--------------------------------------------------------------------------------
+Protestos contra o governo Dilma Rousseff (https://pt.wikipedia.org/wiki/Protestos_contra_o_governo_Dilma_Rousseff)
+citeturn456search21 [wordlim: 200] Crawled: 5 months ago; Manifestações populares ocorreram em todas as regiões do Brasil no dia 13 de março de 2016 tendo como principais objetivos protestar contra o Governo Dilma Rousseff e a corrupção. ... Em Maceió, o presidente do Senado, Renan Calheiros (PMDB), investigado em sete inquéritos pela Operação Lava Jato, também foi lembrado em faixas.
+--------------------------------------------------------------------------------
+Partido Democrático Trabalhista (https://pt.wikipedia.org/wiki/Partido_Democr%C3%A1tico_Trabalhista)
+citeturn456search22 [wordlim: 200] Crawled: 4 months ago; A campanha presidencial de Ciro Gomes foi oficializada em 20 de julho de 2018, em Brasília, tendo como vice na chapa, a senadora do Tocantins, Kátia Abreu (então filiada o PDT), oficializado em 6 de agosto de 2018, também em Brasília. ... Dados do Tribunal Superior Eleitoral colocaram o PDT na lista dos partidos grandes (mais de 1,2 milhões de filiados), como o quinto maior partido do país. ... (PMDB) | Para o Brasil Seguir Mudando
+--------------------------------------------------------------------------------
+Agir (Brasil) (https://pt.wikipedia.org/wiki/Agir_%28Brasil%29)
+citeturn456search23 [wordlim: 200] Crawled: 4 months ago; RS | José Ivo Sartori (PMDB) | Beto Albuquerque (PSB) | PTC / MDB / PSD / PSB / PR / PSC / PMN / PRP / Patriota | 1 PSD | ninguém ... Participação e desempenho do PTC nas eleições estaduais de 2014Em negrito estão os candidatos filiados ao PTC durante a eleição.

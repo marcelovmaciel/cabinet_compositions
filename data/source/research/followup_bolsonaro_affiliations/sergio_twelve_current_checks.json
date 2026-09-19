@@ -1,0 +1,273 @@
+[
+  {
+    "historical_city": "POUSO ALEGRE",
+    "uf": "MG",
+    "historical_party": "PR",
+    "queried_current_party": "PL",
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MG&cdMunicipio=3653&sqPartido=38&currentPage=0&pageSize=10000",
+    "status": 200,
+    "totalElements": 398,
+    "records_inspected": 398,
+    "response_sha256": "528d6aaa27f66dbd74b0e05bd1ea3fa173d42ecf67078cc5321a2997dc933aa7",
+    "retrieved_utc": "2026-09-11T00:12:20Z",
+    "matches": []
+  },
+  {
+    "historical_city": "NOVO HAMBURGO",
+    "uf": "RS",
+    "historical_party": "PDT",
+    "queried_current_party": "PDT",
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7918&sqPartido=70&currentPage=0&pageSize=10000",
+    "status": 200,
+    "totalElements": 6741,
+    "records_inspected": 6741,
+    "response_sha256": "b9c135de8dc9b86f8437f6fc7e15d1822ce59631034c3859beaa40f18dc18ec4",
+    "retrieved_utc": "2026-09-11T00:12:49Z",
+    "matches": []
+  },
+  {
+    "historical_city": "IBIUNA",
+    "uf": "SP",
+    "historical_party": "PP",
+    "queried_current_party": "PP",
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9203&sqPartido=69&currentPage=0&pageSize=10000",
+    "status": 200,
+    "totalElements": 349,
+    "records_inspected": 349,
+    "response_sha256": "f8d76934289fefc0bfca96a05d81db1c8093c4db413fd97e92230c70eca479a0",
+    "retrieved_utc": "2026-09-11T00:12:21Z",
+    "matches": [
+      {
+        "sqRegistroFiliacao": 16288581,
+        "cdMotivoDesfiliacao": null,
+        "dtCancelamento": null,
+        "dtDesfiliacao": null,
+        "dtExclusao": null,
+        "dtFiliacao": [
+          1981,
+          8,
+          20
+        ],
+        "nmEleitor": "SERGIO JOSE PEREIRA",
+        "nomLocalidade": "IBIÚNA",
+        "sgPartido": "PP",
+        "sgUe": "SP",
+        "stRegistroFiliacao": 1,
+        "indPendencia": 0,
+        "public_registry_identity_sha256": "08533b52a5bdccecfd9a7f36c16ae0171acc7599b750eda2eb3115051d5726bf",
+        "public_registry_voter_sha256": "098b318c652ad856a10804b9ae3ae9c3074a30f840be72af052660e8fd97e1a7",
+        "matches_official_general_identity": false,
+        "disposition": "rejected_homonym_identifier_mismatch"
+      }
+    ]
+  },
+  {
+    "historical_city": "MIGUELOPOLIS",
+    "uf": "SP",
+    "historical_party": "PP",
+    "queried_current_party": "PP",
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9361&sqPartido=69&currentPage=0&pageSize=10000",
+    "status": 200,
+    "totalElements": 124,
+    "records_inspected": 124,
+    "response_sha256": "75c1d73f468f08ce78decc804b8e92315a514bf02d90b3bfae6377b689fa60d7",
+    "retrieved_utc": "2026-09-11T00:12:21Z",
+    "matches": [
+      {
+        "sqRegistroFiliacao": 16535421,
+        "cdMotivoDesfiliacao": null,
+        "dtCancelamento": null,
+        "dtDesfiliacao": null,
+        "dtExclusao": null,
+        "dtFiliacao": [
+          2007,
+          10,
+          5
+        ],
+        "nmEleitor": "SERGIO JOSE PEREIRA",
+        "nomLocalidade": "MIGUELÓPOLIS",
+        "sgPartido": "PP",
+        "sgUe": "SP",
+        "stRegistroFiliacao": 1,
+        "indPendencia": 0,
+        "public_registry_identity_sha256": "fd8150c4cbf25078445200ff3cd8eea62cebe68dc549ce1322bd5e587fe893b5",
+        "public_registry_voter_sha256": "4361f55ba45c708112acd1d8bd09574a50eaa6dcd264d45bde91e4873e93445e",
+        "matches_official_general_identity": false,
+        "disposition": "rejected_homonym_identifier_mismatch"
+      }
+    ]
+  },
+  {
+    "historical_city": "OSASCO",
+    "uf": "SP",
+    "historical_party": "PSB",
+    "queried_current_party": "PSB",
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9434&sqPartido=49&currentPage=0&pageSize=10000",
+    "status": 200,
+    "totalElements": 4146,
+    "records_inspected": 4146,
+    "response_sha256": "5c3a7c9988d0945695fa5cae46605e7c32c09de9f6bd07f9d80eaedaf8d1dd36",
+    "retrieved_utc": "2026-09-11T00:12:33Z",
+    "matches": [
+      {
+        "sqRegistroFiliacao": 14313735,
+        "cdMotivoDesfiliacao": null,
+        "dtCancelamento": null,
+        "dtDesfiliacao": null,
+        "dtExclusao": null,
+        "dtFiliacao": [
+          1988,
+          1,
+          11
+        ],
+        "nmEleitor": "SERGIO JOSE PEREIRA",
+        "nomLocalidade": "OSASCO",
+        "sgPartido": "PSB",
+        "sgUe": "SP",
+        "stRegistroFiliacao": 1,
+        "indPendencia": 0,
+        "public_registry_identity_sha256": "e99b9e767065d89ba64c428c447b53ddbe4943c888b12e8566c102fa286c80d7",
+        "public_registry_voter_sha256": "79fd8c9ff08aeb8b6d8159d943ce5adf2b100e67a59102c7ee357ac3ed3c1f8b",
+        "matches_official_general_identity": false,
+        "disposition": "rejected_homonym_identifier_mismatch"
+      }
+    ]
+  },
+  {
+    "historical_city": "SUMARE",
+    "uf": "SP",
+    "historical_party": "PSB",
+    "queried_current_party": "PSB",
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9702&sqPartido=49&currentPage=0&pageSize=10000",
+    "status": 200,
+    "totalElements": 829,
+    "records_inspected": 829,
+    "response_sha256": "bda613cd4ebac439f9892d32cddc6b3f32316866262b4f3106036f73f6a7acce",
+    "retrieved_utc": "2026-09-11T00:12:24Z",
+    "matches": []
+  },
+  {
+    "historical_city": "VITORIA",
+    "uf": "ES",
+    "historical_party": "PDT",
+    "queried_current_party": "PDT",
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=ES&cdMunicipio=2047&sqPartido=70&currentPage=0&pageSize=10000",
+    "status": 200,
+    "totalElements": 2611,
+    "records_inspected": 2611,
+    "response_sha256": "1c30c610ac9332b97d9150142a7ae4515041e04a760bca51ebe88a96fbb0ccc1",
+    "retrieved_utc": "2026-09-11T00:12:30Z",
+    "matches": []
+  },
+  {
+    "historical_city": "RIBEIRAO CASCALHEIRA",
+    "uf": "MT",
+    "historical_party": "PMDB",
+    "queried_current_party": "MDB",
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MT&cdMunicipio=4454&sqPartido=42&currentPage=0&pageSize=10000",
+    "status": 200,
+    "totalElements": 208,
+    "records_inspected": 208,
+    "response_sha256": "e56832e9e99dc35cb47fc8d4759c0891d9b74bd74b6b46f901cb1421bcc7c2c8",
+    "retrieved_utc": "2026-09-11T00:12:31Z",
+    "matches": []
+  },
+  {
+    "historical_city": "UMUARAMA",
+    "uf": "PR",
+    "historical_party": "PMDB",
+    "queried_current_party": "MDB",
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6794&sqPartido=42&currentPage=0&pageSize=10000",
+    "status": 200,
+    "totalElements": 2627,
+    "records_inspected": 2627,
+    "response_sha256": "6d6c3f11e1d6d6ba46b548d8409a1b8b3555c3bd7b0c9a376ef542dff3e668ca",
+    "retrieved_utc": "2026-09-11T00:12:39Z",
+    "matches": []
+  },
+  {
+    "historical_city": "UMUARAMA",
+    "uf": "PR",
+    "historical_party": "PP",
+    "queried_current_party": "PP",
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6794&sqPartido=69&currentPage=0&pageSize=10000",
+    "status": 200,
+    "totalElements": 1379,
+    "records_inspected": 1379,
+    "response_sha256": "b93dff972b5fab20986593fef4f332c77a09c96a9d26df71d5e2a2ff398035ae",
+    "retrieved_utc": "2026-09-11T00:12:37Z",
+    "matches": [
+      {
+        "sqRegistroFiliacao": 43857985,
+        "cdMotivoDesfiliacao": null,
+        "dtCancelamento": null,
+        "dtDesfiliacao": null,
+        "dtExclusao": null,
+        "dtFiliacao": [
+          1992,
+          1,
+          18
+        ],
+        "nmEleitor": "SERGIO JOSE PEREIRA",
+        "nomLocalidade": "UMUARAMA",
+        "sgPartido": "PP",
+        "sgUe": "PR",
+        "stRegistroFiliacao": 1,
+        "indPendencia": 0,
+        "public_registry_identity_sha256": "0719dc31e5b59a14711a5bec69ecfbb43797b1da6477a98c1f8a58f682f856e5",
+        "public_registry_voter_sha256": "7371f97e1e441e4e95e2bcdd683aea3c78c663abf25fbe90d97cd29ef13da154",
+        "matches_official_general_identity": false,
+        "disposition": "rejected_homonym_identifier_mismatch"
+      }
+    ]
+  },
+  {
+    "historical_city": "ALPINOPOLIS",
+    "uf": "MG",
+    "historical_party": "PTDOB",
+    "queried_current_party": "AVANTE",
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MG&cdMunicipio=2655&sqPartido=50&currentPage=0&pageSize=10000",
+    "status": 200,
+    "totalElements": 42,
+    "records_inspected": 42,
+    "response_sha256": "2110ac5aeb2d1b03a62363d612eeb7ea56d31973d132fc59dfd90c8043ef7e66",
+    "retrieved_utc": "2026-09-11T00:12:38Z",
+    "matches": []
+  },
+  {
+    "historical_city": "ITAUNA",
+    "uf": "MG",
+    "historical_party": "PP",
+    "queried_current_party": "PP",
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MG&cdMunicipio=3266&sqPartido=69&currentPage=0&pageSize=10000",
+    "status": 200,
+    "totalElements": 437,
+    "records_inspected": 437,
+    "response_sha256": "e1547b0d30e2731163533743ed974513310e27c0b39283787069631f558b401c",
+    "retrieved_utc": "2026-09-11T00:12:39Z",
+    "matches": [
+      {
+        "sqRegistroFiliacao": 30749494,
+        "cdMotivoDesfiliacao": null,
+        "dtCancelamento": null,
+        "dtDesfiliacao": null,
+        "dtExclusao": null,
+        "dtFiliacao": [
+          1992,
+          3,
+          31
+        ],
+        "nmEleitor": "SÉRGIO JOSÉ PEREIRA",
+        "nomLocalidade": "ITAÚNA",
+        "sgPartido": "PP",
+        "sgUe": "MG",
+        "stRegistroFiliacao": 1,
+        "indPendencia": 0,
+        "public_registry_identity_sha256": "de012211e3c8778a6dd143f57fa18e8573d1bcd1458a1ef439ccce3d6546ab23",
+        "public_registry_voter_sha256": "090d420fd6ad53419d7421577a0af69f97819884ab35564578f4814fc8338eb8",
+        "matches_official_general_identity": false,
+        "disposition": "rejected_homonym_identifier_mismatch"
+      }
+    ]
+  }
+]

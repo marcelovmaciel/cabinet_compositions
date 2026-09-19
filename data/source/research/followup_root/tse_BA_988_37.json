@@ -1,0 +1,17 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "PCO",
+  "id": 37,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 110,
+      "totalElements": 110,
+      "response_sha256": "dc8d5a5019a81a625eaeb4bdbb1833c3c607225e4a7ac47229369c2321551811",
+      "retrieved_utc": "2026-09-10T23:37:34Z"
+    }
+  ],
+  "matches": []
+}

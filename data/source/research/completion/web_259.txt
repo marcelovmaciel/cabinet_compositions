@@ -1,0 +1,30 @@
+Nota técnica | DocumentCloud (https://www.documentcloud.org/documents/21174590-nota-tecnica)
+citeturn258view0 [wordlim: 200] Crawled: 1.2 years ago; Content type: text/html; Source: open({"ref_id":"https://www.documentcloud.org/documents/21174590-nota-tecnica","lineno":null}); Redirected to URL: https://www.documentcloud.org/documents/21174590-nota-tecnica/; Total lines: 32
+L0: cite0†Documents cite1†Nota técnica L1: 
+L2: cite2†Sign In†api.www.documentcloud.org L3: 
+L4: US English
+L5: 
+L6: Deutsche
+L7: 
+L8: Español
+L9: 
+L10: Français
+L11: 
+L12: Italiano
+L13: 
+L14: русский
+L15: 
+L16: українська
+L17: 
+L18: Guided Tour cite3† FAQ  cite4† Search Documentation  cite5† API Documentation  cite6† Add-Ons  cite7†Premium DocumentCloud Premium  cite8† Donate to Support DocumentCloud †www.muckrock.com Email Us cite9† Legacy DocumentCloud †legacy.www.documentcloud.org L19: # Nota técnica
+L20: 
+L21: File
+L22: 
+L23: cite10† File  cite11† Text  cite12† Pages  cite13† Notes  cite14† Results  L24: 
+L25: Search
+L26: 
+L27: Page of 6
+L28: 
+L29: Zoom Fit Width Fit Height 50%75%100%125%150%200%
+L30: 
+L31: cite15† Download File†s3.documentcloud.org Share & Embed cite16† View in Legacy DocumentCloud†legacy.www.documentcloud.org 

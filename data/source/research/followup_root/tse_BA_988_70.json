@@ -1,0 +1,17 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "PDT",
+  "id": 70,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 6524,
+      "totalElements": 6524,
+      "response_sha256": "99e3b32126a026c2f817701d78560ae2f699273607dd88ad0697f6cfb7b2276a",
+      "retrieved_utc": "2026-09-10T23:37:46Z"
+    }
+  ],
+  "matches": []
+}

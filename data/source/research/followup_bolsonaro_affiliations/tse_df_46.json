@@ -1,0 +1,14 @@
+{
+  "party": "CIDADANIA",
+  "id": 46,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 4942,
+      "totalElements": 4942,
+      "response_sha256": "9632e061195c36ad32fc7f778ea9bea376ae75fdd7d3fb3ff68054dc88e2e087",
+      "retrieved_utc": "2026-09-10T23:34:41Z"
+    }
+  ],
+  "matches": []
+}

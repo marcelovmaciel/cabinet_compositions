@@ -1,0 +1,16 @@
+{
+  "party": "AGIR",
+  "id": 57,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 1344,
+      "totalElements": 1344,
+      "response_sha256": "4b0771128ca407bd72aa79966822e53e8a3c78ce48c508e33434c4e1bc551ec4",
+      "retrieved_utc": "2026-09-10T23:35:59Z"
+    }
+  ],
+  "matches": []
+}

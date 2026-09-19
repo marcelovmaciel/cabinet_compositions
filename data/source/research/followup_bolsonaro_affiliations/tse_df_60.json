@@ -1,0 +1,14 @@
+{
+  "party": "DEMOCRATA",
+  "id": 60,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=60&currentPage=0&pageSize=10000",
+      "records": 507,
+      "totalElements": 507,
+      "response_sha256": "08e0b535aba497f289fbde449c87b6c1264acfde21e4949f9ebafb8199c6b2d5",
+      "retrieved_utc": "2026-09-10T23:34:42Z"
+    }
+  ],
+  "matches": []
+}

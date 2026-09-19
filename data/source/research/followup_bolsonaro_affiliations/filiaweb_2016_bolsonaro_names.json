@@ -1,0 +1,161 @@
+[
+  {
+    "query_name": "MARIA ESTELLA DANTAS ANTONICHELLI",
+    "url": "https://www.filiaweb.com/filiacaos/busca",
+    "status": 200,
+    "snapshot_date": "2016-07-27",
+    "retrieval_date": "2026-09-10",
+    "response_sha256": "988bb7e9b4ae9b44837b0c803437c01ffc45207e5247b6f78ac8f26fb76d1dab",
+    "returned_row_count": 1,
+    "exact_name_matches": []
+  },
+  {
+    "query_name": "MARIA ESTELLA DANTAS",
+    "url": "https://www.filiaweb.com/filiacaos/busca",
+    "status": 200,
+    "snapshot_date": "2016-07-27",
+    "retrieval_date": "2026-09-10",
+    "response_sha256": "9747299c587173ae2416afc12ec0c5942450d76b7f3341655bba14e6ddb5573b",
+    "returned_row_count": 1,
+    "exact_name_matches": []
+  },
+  {
+    "query_name": "JONATHAS ASSUNCAO SALVADOR NERY DE CASTRO",
+    "url": "https://www.filiaweb.com/filiacaos/busca",
+    "status": 200,
+    "snapshot_date": "2016-07-27",
+    "retrieval_date": "2026-09-10",
+    "response_sha256": "62cedf3dfbc2b101a49eed10038f4a013b7b23ef72893c37caa7fe0ee94104b4",
+    "returned_row_count": 1,
+    "exact_name_matches": []
+  },
+  {
+    "query_name": "MARCOS PAULO CARDOSO COELHO DA SILVA",
+    "url": "https://www.filiaweb.com/filiacaos/busca",
+    "status": 200,
+    "snapshot_date": "2016-07-27",
+    "retrieval_date": "2026-09-10",
+    "response_sha256": "939d8f1f0da47ea1e21c9fd0dc4d6cd6ecbd5e1ade338cc16474e6691ddca0df",
+    "returned_row_count": 1,
+    "exact_name_matches": []
+  },
+  {
+    "query_name": "SERGIO JOSE PEREIRA",
+    "url": "https://www.filiaweb.com/filiacaos/busca",
+    "status": 200,
+    "snapshot_date": "2016-07-27",
+    "retrieval_date": "2026-09-10",
+    "response_sha256": "891e462b7f2bbcc4009c324e4c89103d38ce72c568631ee2268601cb24d68600",
+    "returned_row_count": 20,
+    "exact_name_matches": [
+      {
+        "cells": [
+          "SERGIO JOSE PEREIRA",
+          "PR    de \n                POUSO ALEGRE / MG"
+        ],
+        "links": [
+          "http://pousoalegre.MG.filiaweb.com/filiados/pr   "
+        ]
+      },
+      {
+        "cells": [
+          "SERGIO JOSE PEREIRA",
+          "PDT   de \n                NOVO HAMBURGO / RS"
+        ],
+        "links": [
+          "http://novohamburgo.RS.filiaweb.com/filiados/pdt  "
+        ]
+      },
+      {
+        "cells": [
+          "SERGIO JOSE PEREIRA",
+          "PP    de \n                IBIÚNA / SP"
+        ],
+        "links": [
+          "http://ibiuna.SP.filiaweb.com/filiados/pp   "
+        ]
+      },
+      {
+        "cells": [
+          "SERGIO JOSE PEREIRA",
+          "PP    de \n                MIGUELÓPOLIS / SP"
+        ],
+        "links": [
+          "http://miguelopolis.SP.filiaweb.com/filiados/pp   "
+        ]
+      },
+      {
+        "cells": [
+          "SERGIO JOSE PEREIRA",
+          "PSB   de \n                OSASCO / SP"
+        ],
+        "links": [
+          "http://osasco.SP.filiaweb.com/filiados/psb  "
+        ]
+      },
+      {
+        "cells": [
+          "SERGIO JOSE PEREIRA",
+          "PSB   de \n                SUMARÉ / SP"
+        ],
+        "links": [
+          "http://sumare.SP.filiaweb.com/filiados/psb  "
+        ]
+      },
+      {
+        "cells": [
+          "SERGIO JOSE PEREIRA",
+          "PDT   de \n                VITÓRIA / ES"
+        ],
+        "links": [
+          "http://vitoria.ES.filiaweb.com/filiados/pdt  "
+        ]
+      },
+      {
+        "cells": [
+          "SERGIO JOSE PEREIRA",
+          "PMDB  de \n                RIBEIRÃO CASCALHEIRA / MT"
+        ],
+        "links": [
+          "http://ribeiraocascalheira.MT.filiaweb.com/filiados/pmdb "
+        ]
+      },
+      {
+        "cells": [
+          "SERGIO JOSE PEREIRA",
+          "PMDB  de \n                UMUARAMA / PR"
+        ],
+        "links": [
+          "http://umuarama.PR.filiaweb.com/filiados/pmdb "
+        ]
+      },
+      {
+        "cells": [
+          "SERGIO JOSE PEREIRA",
+          "PP    de \n                UMUARAMA / PR"
+        ],
+        "links": [
+          "http://umuarama.PR.filiaweb.com/filiados/pp   "
+        ]
+      },
+      {
+        "cells": [
+          "SERGIO JOSE PEREIRA",
+          "PTDOB de \n                ALPINÓPOLIS / MG"
+        ],
+        "links": [
+          "http://alpinopolis.MG.filiaweb.com/filiados/ptdob"
+        ]
+      },
+      {
+        "cells": [
+          "SERGIO JOSE PEREIRA",
+          "PP    de \n                ITAÚNA / MG"
+        ],
+        "links": [
+          "http://itauna.MG.filiaweb.com/filiados/pp   "
+        ]
+      }
+    ]
+  }
+]

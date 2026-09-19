@@ -1,0 +1,31 @@
+{
+  "url": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/consulta?sqPartido=15&tpAbrangencia=82&isComposicoesHistoricas=true&dataInicioVigencia=31%2F12%2F2018&dataFimVigencia=31%2F12%2F2018&sgUe=BA",
+  "status": 200,
+  "retrieved_at": "2026-09-11T01:06:33.186833+00:00",
+  "response": [
+    {
+      "sqOrgaoPartidario": 263115,
+      "numero": 15,
+      "sigla": "MDB",
+      "nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "tipoOrgao": "Órgão provisório",
+      "dataInicioVigencia": "15/10/2018",
+      "dataFimVigencia": "07/03/2019",
+      "protocolo": null,
+      "situacaoiVigencia": "Não Vigente",
+      "abrangencia": "Estadual",
+      "qtdeRegistros": null,
+      "orgaoPartidario": null,
+      "membros": null,
+      "anotacaoOrgaoPartidarioInfo": null,
+      "uf": "BA",
+      "sgUeSede": "BA",
+      "municipio": "",
+      "zona": "",
+      "situacoes": [
+        "Inativado por decisão do partido; "
+      ],
+      "emitirComissaoExecutiva": true
+    }
+  ]
+}

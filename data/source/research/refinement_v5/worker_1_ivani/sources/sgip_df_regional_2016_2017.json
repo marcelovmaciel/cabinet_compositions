@@ -1,0 +1,31 @@
+{
+  "url": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/consulta?sqPartido=15&tpAbrangencia=84&sgUe=DF&isComposicoesHistoricas=true&dataInicioVigencia=01%2F01%2F2016&dataFimVigencia=31%2F12%2F2017",
+  "status": 200,
+  "retrieved_at": "2026-09-11T00:48:56.991381+00:00",
+  "response": [
+    {
+      "sqOrgaoPartidario": 94158,
+      "numero": 15,
+      "sigla": "MDB",
+      "nome": "MOVIMENTO DEMOCRÁTICO BRASILEIRO",
+      "tipoOrgao": "Órgão definitivo",
+      "dataInicioVigencia": "31/10/2015",
+      "dataFimVigencia": "31/05/2019",
+      "protocolo": "624682686642",
+      "situacaoiVigencia": "Não Vigente",
+      "abrangencia": "Regional (DF)",
+      "qtdeRegistros": null,
+      "orgaoPartidario": null,
+      "membros": null,
+      "anotacaoOrgaoPartidarioInfo": null,
+      "uf": "DF",
+      "sgUeSede": "DF",
+      "municipio": "",
+      "zona": "",
+      "situacoes": [
+        "Anotado; "
+      ],
+      "emitirComissaoExecutiva": true
+    }
+  ]
+}

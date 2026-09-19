@@ -1,0 +1,6 @@
+Source: https://filia2-consulta.tse.jus.br/main.1e6ec99219486578.js
+Retrieved: 2026-09-10
+
+const _9="/v1/relacao-filiados";let qw=class{constructor(e){this._httpClient=e}consultarRelacoes(e){let t=new Do;return null!=e.sgUe&&""!==e.sgUe&&(t=t.set("sgUe",e.sgUe)),null!=e.cdMunicipio&&""!==e.cdMunicipio&&(t=t.set("cdMunicipio",e.cdMunicipio)),null!=e.cdZona&&""!==e.cdZona&&(t=t.set("cdZona",e.cdZona)),null!=e.sqPartido&&""!==e.sqPartido&&(t=t.set("sqPartido",e.sqPartido)),t=t.set("currentPage",e.currentPage),t=t.set("pageSize",e.pageSize),this._httpClient.get(CA_url+_9,{params:t})}donwloadRelacao(e){const t=document.createElement("a");t.href=CA_url+_9+"/"+e.sgUe+"/"+e.cdMunicipio+"/"+e.cdZona+"/"+e.sqPartido+"/downloadFiliados",t.download="relacao-filiados-oficial.csv",t.click()}}
+
+No historical snapshot date or cancelled-record status parameter is passed by the public municipality list client. Negative current lists cannot determine departure dates. Certificate generation uses hCaptcha; no certificate request made.

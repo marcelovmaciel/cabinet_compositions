@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6912",
+  "city": "DUQUE DE CAXIAS",
+  "party": "REDE",
+  "id": 64,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6912&sqPartido=64&currentPage=0&pageSize=10000",
+      "records": 114,
+      "totalElements": 114,
+      "response_sha256": "5f8faff2b5becf0e336eb5fe88c79951f6ebd26d183cbb9c1b0180a4e3553bea",
+      "retrieved_utc": "2026-09-10T23:40:49Z"
+    }
+  ],
+  "matches": []
+}

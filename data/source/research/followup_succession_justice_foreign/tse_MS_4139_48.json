@@ -1,0 +1,17 @@
+{
+  "party": "MOBILIZA",
+  "id": 48,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 647,
+      "totalElements": 647,
+      "response_sha256": "07bf690ffea30ab477b20ad402bde3b9742ab4208ae3a999dfee8aab7a9a45fe",
+      "retrieved_utc": "2026-09-10T23:40:13Z"
+    }
+  ],
+  "matches": []
+}

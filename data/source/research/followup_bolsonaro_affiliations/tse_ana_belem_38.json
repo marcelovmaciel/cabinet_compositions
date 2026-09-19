@@ -1,0 +1,14 @@
+{
+  "party": "PL",
+  "id": 38,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=38&currentPage=0&pageSize=10000",
+      "records": 4363,
+      "totalElements": 4363,
+      "response_sha256": "403c4e00d287360ccb0b936ded39247e2efca9b229a7ae954727d7f007e6ee62",
+      "retrieved_utc": "2026-09-10T23:48:44Z"
+    }
+  ],
+  "matches": []
+}

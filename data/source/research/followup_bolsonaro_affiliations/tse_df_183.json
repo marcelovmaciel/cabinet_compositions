@@ -1,0 +1,14 @@
+{
+  "party": "MISSÃO",
+  "id": 183,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 735,
+      "totalElements": 735,
+      "response_sha256": "722b1d16ba077f4f879daa23001e67ea8fa16a1a21a0697e6f6a4b25655dbc39",
+      "retrieved_utc": "2026-09-10T23:34:44Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,17 @@
+{
+  "party": "PSD",
+  "id": 53,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=53&currentPage=0&pageSize=10000",
+      "records": 1274,
+      "totalElements": 1274,
+      "response_sha256": "6bddfa35a07924cbf34e6032c652dfa52ecf58b14dec9ab565b9499409fe9f2a",
+      "retrieved_utc": "2026-09-10T23:38:49Z"
+    }
+  ],
+  "matches": []
+}

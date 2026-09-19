@@ -1,0 +1,14 @@
+{
+  "party": "PCB",
+  "id": 68,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=68&currentPage=0&pageSize=10000",
+      "records": 11,
+      "totalElements": 11,
+      "response_sha256": "b58b2c8ab7a89a1a013ac905a658c9367318b2b870c1b4a97af84f9c6358adb2",
+      "retrieved_utc": "2026-09-11T00:08:24Z"
+    }
+  ],
+  "matches": []
+}

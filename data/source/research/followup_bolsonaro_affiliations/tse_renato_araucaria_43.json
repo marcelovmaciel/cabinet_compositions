@@ -1,0 +1,14 @@
+{
+  "party": "PODE",
+  "id": 43,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=43&currentPage=0&pageSize=10000",
+      "records": 733,
+      "totalElements": 733,
+      "response_sha256": "c9563c0d29301e5425574fef4f890fc67b9d1e19663bb530aa8cef6fb7eb5f4d",
+      "retrieved_utc": "2026-09-11T00:08:29Z"
+    }
+  ],
+  "matches": []
+}

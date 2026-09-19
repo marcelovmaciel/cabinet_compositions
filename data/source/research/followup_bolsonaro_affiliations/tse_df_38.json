@@ -1,0 +1,21 @@
+{
+  "party": "PL",
+  "id": 38,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=38&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 13690,
+      "response_sha256": "050c583fb66be4aa726a6c0198e616c3321673caa71cfc6e4a88fa754881ca98",
+      "retrieved_utc": "2026-09-10T23:35:15Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=38&currentPage=1&pageSize=10000",
+      "records": 3690,
+      "totalElements": 13690,
+      "response_sha256": "6de1e4caca3bac1d9a38a88691006d32f14f9306ba3098ab466b40064b1d33c1",
+      "retrieved_utc": "2026-09-10T23:35:22Z"
+    }
+  ],
+  "matches": []
+}

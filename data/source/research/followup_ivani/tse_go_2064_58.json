@@ -1,0 +1,16 @@
+{
+  "party": "NOVO",
+  "id": 58,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 326,
+      "totalElements": 326,
+      "response_sha256": "1fc82279f1597401d5c7567d9fc55aeff7e3e7cb4ec7a757a14f9f95367697d1",
+      "retrieved_utc": "2026-09-10T23:35:35Z"
+    }
+  ],
+  "matches": []
+}

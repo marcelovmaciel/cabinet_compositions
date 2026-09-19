@@ -1,0 +1,17 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "MOBILIZA",
+  "id": 48,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 1020,
+      "totalElements": 1020,
+      "response_sha256": "989475f9a6581beca20c5df44556c483845e402d2d33b83600437c4c96c1fc37",
+      "retrieved_utc": "2026-09-10T23:37:32Z"
+    }
+  ],
+  "matches": []
+}

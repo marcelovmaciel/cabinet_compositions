@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "NOVO",
+  "id": 58,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 4180,
+      "totalElements": 4180,
+      "response_sha256": "055c2b29b523740056e6c97e687335d328355ed372f1a3fe9e9e8d944b3d414c",
+      "retrieved_utc": "2026-09-10T23:42:03Z"
+    }
+  ],
+  "matches": []
+}

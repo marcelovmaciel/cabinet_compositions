@@ -1,0 +1,14 @@
+{
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 157,
+      "totalElements": 157,
+      "response_sha256": "3fec67ff942c1845ef9b74fd083697ab1c671d6213de8b65760b7e6ceb305f94",
+      "retrieved_utc": "2026-09-11T00:08:38Z"
+    }
+  ],
+  "matches": []
+}

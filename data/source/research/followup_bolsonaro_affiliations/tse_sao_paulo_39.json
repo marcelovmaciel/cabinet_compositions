@@ -1,0 +1,14 @@
+{
+  "party": "PRTB",
+  "id": 39,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=39&currentPage=0&pageSize=10000",
+      "records": 1807,
+      "totalElements": 1807,
+      "response_sha256": "2de2ce084763e783014719ca2d1c39664a9fe3939093ae67dd8e9a885ca3092f",
+      "retrieved_utc": "2026-09-10T23:46:39Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,17 @@
+{
+  "party": "NOVO",
+  "id": 58,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 1637,
+      "totalElements": 1637,
+      "response_sha256": "5f384b423041a3add75cb5209485090c020bb88b8acaa31369c55b8a02c4e265",
+      "retrieved_utc": "2026-09-10T23:38:04Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,17 @@
+{
+  "party": "REPUBLICANOS",
+  "id": 51,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=51&currentPage=0&pageSize=10000",
+      "records": 7294,
+      "totalElements": 7294,
+      "response_sha256": "8361da01fecdd75971fec9245d4bc7681ecbaf5c4e801e7e9836e8f4b0892f6e",
+      "retrieved_utc": "2026-09-10T23:41:04Z"
+    }
+  ],
+  "matches": []
+}

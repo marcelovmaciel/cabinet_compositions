@@ -1,0 +1,14 @@
+{
+  "party": "PSD",
+  "id": 53,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=53&currentPage=0&pageSize=10000",
+      "records": 868,
+      "totalElements": 868,
+      "response_sha256": "fb075657dd23b6fd8145b5550abbf653fde94ba1a2fd2260dc5619acc3bfbf1e",
+      "retrieved_utc": "2026-09-10T23:43:22Z"
+    }
+  ],
+  "matches": []
+}

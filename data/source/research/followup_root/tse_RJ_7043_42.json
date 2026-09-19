@@ -1,0 +1,52 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "MDB",
+  "id": 42,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 53777,
+      "response_sha256": "5913b2e334a14fdfeb861f4bdf8d3db5852597206f40f448b17c3e6cc94454a1",
+      "retrieved_utc": "2026-09-10T23:41:19Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=42&currentPage=1&pageSize=10000",
+      "records": 10000,
+      "totalElements": 53777,
+      "response_sha256": "14749a8b26938d710607b1ea34d34590e7fc1685a3430270db39dfb0fb31132f",
+      "retrieved_utc": "2026-09-10T23:41:38Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=42&currentPage=2&pageSize=10000",
+      "records": 10000,
+      "totalElements": 53777,
+      "response_sha256": "f2f8f63f7e0856495d458467b1b982c0d05c69d61c06ef89cdd9ff9848cb0a79",
+      "retrieved_utc": "2026-09-10T23:41:56Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=42&currentPage=3&pageSize=10000",
+      "records": 10000,
+      "totalElements": 53777,
+      "response_sha256": "318bb29922dbd723e336b34bb7cf689f6c3933c860fd50ce436a164d0669ea24",
+      "retrieved_utc": "2026-09-10T23:42:21Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=42&currentPage=4&pageSize=10000",
+      "records": 10000,
+      "totalElements": 53777,
+      "response_sha256": "38ad5c77fcf7ee4f0a077fe7e7af7bf3717ce3d63e734594feca474c4200d0fd",
+      "retrieved_utc": "2026-09-10T23:42:37Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=42&currentPage=5&pageSize=10000",
+      "records": 3777,
+      "totalElements": 53777,
+      "response_sha256": "837444929717961228f9050c274e1a99c167a2aca855f379da2f03384768a84a",
+      "retrieved_utc": "2026-09-10T23:42:43Z"
+    }
+  ],
+  "matches": []
+}

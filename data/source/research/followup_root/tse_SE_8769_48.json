@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "MOBILIZA",
+  "id": 48,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 662,
+      "totalElements": 662,
+      "response_sha256": "8eb0cbea39bfe6fc609006982865e87c068e5cc657ce8881259837993e307348",
+      "retrieved_utc": "2026-09-10T23:44:31Z"
+    }
+  ],
+  "matches": []
+}

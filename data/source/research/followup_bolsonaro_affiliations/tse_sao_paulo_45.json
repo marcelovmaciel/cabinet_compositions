@@ -1,0 +1,21 @@
+{
+  "party": "PCDOB",
+  "id": 45,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 13315,
+      "response_sha256": "67de44f1ba1c8f47389e8dc019ee393c10fc418461cf69ea9db1ae816c3e3184",
+      "retrieved_utc": "2026-09-10T23:44:47Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=45&currentPage=1&pageSize=10000",
+      "records": 3315,
+      "totalElements": 13315,
+      "response_sha256": "24361162e6e4814eeb55bc6a1386d27211c4ebb2628ea8a5195d6ec265df2756",
+      "retrieved_utc": "2026-09-10T23:44:53Z"
+    }
+  ],
+  "matches": []
+}

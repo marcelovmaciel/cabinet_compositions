@@ -1,0 +1,17 @@
+{
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "LONDRINA",
+  "party": "AVANTE",
+  "id": 50,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 324,
+      "totalElements": 324,
+      "response_sha256": "996bad0b8e8eb3596591e0d1ccc7fbf8bcc31790df0a3d04c3b087cdcbb14aca",
+      "retrieved_utc": "2026-09-11T00:59:19Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,16 @@
+{
+  "uf": "RS",
+  "municipio": "7733",
+  "party": "DEMOCRATA",
+  "id": 60,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=60&currentPage=0&pageSize=10000",
+      "records": 1,
+      "totalElements": 1,
+      "response_sha256": "6ce9d76976aabb92f79983f468df886c22ab2544925f9af54abf60c0a5fe28ca",
+      "retrieved_utc": "2026-09-11T01:11:59Z"
+    }
+  ],
+  "matches": []
+}

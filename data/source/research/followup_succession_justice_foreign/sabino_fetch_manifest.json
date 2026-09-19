@@ -1,0 +1,122 @@
+[
+  {
+    "id": "camara_bio",
+    "url": "https://www.camara.leg.br/deputados/204496/biografia",
+    "status": 200,
+    "file": "sabino_camara_bio.html",
+    "bytes": 42495,
+    "sha256": "94b688ef08a2d986320e8934cc11f5b45bd16755bf8edeef87446e79af7a08ab"
+  },
+  {
+    "id": "20231130_carlos_designated",
+    "url": "https://guarulhosweb.com.br/ministro-do-turismo-pede-exonerao-sada-deve-ser-temporria-para-apresentao-de-emendas/",
+    "status": 200,
+    "file": "sabino_20231130_carlos_designated.html",
+    "bytes": 116675,
+    "sha256": "182b0de6a55dc4e7fbeee31453b846e65abe099a701d594e7a958f1ebdf1f470"
+  },
+  {
+    "id": "20231204_cnn_actual_return",
+    "url": "https://www.cnnbrasil.com.br/politica/apos-indicar-emendas-como-deputado-celso-sabino-volta-ao-ministerio-do-turismo/",
+    "status": 200,
+    "file": "sabino_20231204_cnn_actual_return.html",
+    "bytes": 386177,
+    "sha256": "ae36e9bcf92547f417b07b538f68731997abda02c4f0a645407863c1802422fb"
+  },
+  {
+    "id": "20241203_dou",
+    "url": "https://sintse.tse.jus.br/documentos/2024/Dez/3/para-conhecimento-institucional/decretos-de-2-de-dezembro-de-2024-exonera-a-pedido-carlos-henrique-baqueta-favaro-do-cargo-de",
+    "status": 204,
+    "file": "sabino_20241203_dou.html",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "id": "20241206_dou",
+    "url": "https://sintse.tse.jus.br/documentos/2024/Dez/9/para-conhecimento-institucional/decretos-de-6-de-dezembro-de-2024-nomeia-andre-luiz-carvalho-ribeiro-para-exercer-o-cargo-de",
+    "status": 204,
+    "file": "sabino_20241206_dou.html",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "id": "20250129_carlos_designated",
+    "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9373&cod_modulo=630&link=S&numeroAto=29012025&orgao=NI&seqAto=001&tipo=DSN&valorAno=2025",
+    "status": 200,
+    "file": "sabino_20250129_carlos_designated.html",
+    "bytes": 22748,
+    "sha256": "c480621a27aba6d623340374420b08c2e75249a0873e312bb43a6f3546319c23"
+  },
+  {
+    "id": "20250131_dou",
+    "url": "https://www.escavador.com/diarios/6020489/DOU/secao-2/2025-01-31?page=2",
+    "status": 403,
+    "file": "sabino_20250131_dou.html",
+    "bytes": 5601,
+    "sha256": "3e85b16c1fe10a4688f0e8b829518afc6c3d0c211c93729a7e29e095afc70bff"
+  },
+  {
+    "id": "20250203_dou",
+    "url": "https://www.escavador.com/diarios/6021154/DOU/secao-2/2025-02-03?page=2",
+    "status": 403,
+    "file": "sabino_20250203_dou.html",
+    "bytes": 5601,
+    "sha256": "510eb2ce99e8ce76ce71ccdde6bb7da5e31d5334477e17a028d6ceb9f38c4d93"
+  },
+  {
+    "id": "20251009_dou_index",
+    "url": "https://portaldocomercio.org.br/publicacoes_posts/boletim-informativo-diario-bid-030-2025-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2/",
+    "status": 403,
+    "file": "sabino_20251009_dou_index.html",
+    "bytes": 179,
+    "sha256": "1f2e1251b1d5fab2f47bbfe3e09b149064e61571f98a5e02c6ace5f86bacb1d5"
+  },
+  {
+    "id": "20251008_ana_actual",
+    "url": "https://turismoemfoco.com.br/v1/2025/10/09/na-abertura-da-abav-expo-2025-ana-carla-lopes-emociona-com-discurso-que-reforca-o-turismo-reponsavel/",
+    "status": 200,
+    "file": "sabino_20251008_ana_actual.html",
+    "bytes": 153646,
+    "sha256": "d241293a643f89427af4d3152f3f3d143e977e33a6d823749e706c49dc073bd2"
+  },
+  {
+    "id": "20251113_dou",
+    "url": "https://sintse.tse.jus.br/documentos/2025/Nov/13/para-conhecimento-institucional/decretos-de-12-de-novembro-de-2025-exonera-a-pedido-carlos-henrique-baqueta-favaro-do-cargo-de-ministro-de-estado-da-agricultura-e",
+    "status": 204,
+    "file": "sabino_20251113_dou.html",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "id": "20251114_dou",
+    "url": "https://sintse.tse.jus.br/documentos/2025/Nov/14/para-conhecimento-institucional/decretos-de-13-de-novembro-de-2025-nomeia-carlos-henrique-baqueta-favaro-para-exercer-o-cargo-de",
+    "status": 204,
+    "file": "sabino_20251114_dou.html",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "id": "20251114_ana_orla",
+    "url": "https://radardigitalbrasilia.com.br/turismo/ministerio-do-turismo-assina-acordo-interministerial-para-fortalecimento-do-programa-orla-na-cop30/",
+    "status": 200,
+    "file": "sabino_20251114_ana_orla.html",
+    "bytes": 230970,
+    "sha256": "64d61aa7c96c8867c7af29c07c3846276535e1b202d24c5679a0dd0425b3fd8b"
+  },
+  {
+    "id": "20251219_dou",
+    "url": "https://sintse.tse.jus.br/documentos/2025/Dez/19/para-conhecimento-institucional/decretos-de-18-de-dezembro-de-2025-exonera-a-pedido-celso-sabino-de-oliveira-do-cargo-de-ministro-de",
+    "status": 204,
+    "file": "sabino_20251219_dou.html",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "id": "20251218_correio",
+    "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2025/12/18/all.pdf",
+    "status": 200,
+    "file": "sabino_20251218_correio.pdf",
+    "bytes": 15836026,
+    "sha256": "1b84b6494b62a8845f1ec87c3a83e6721046f8a0f27d1848abf6166912ed21f6"
+  }
+]

@@ -1,0 +1,540 @@
+{
+  "service_sensitivity_constraints.csv": {
+    "key_fields": [
+      "uncertainty_id"
+    ],
+    "upserts": [
+      {
+        "uncertainty_id": "mre-2021-effective-entry",
+        "administration_id": "bolsonaro",
+        "office_id": "bolsonaro-relacoes-exteriores",
+        "outgoing_person_id": "person-otavio-brandelli",
+        "incoming_person_id": "person-ebaf14a16f4d",
+        "earliest_effective_date": "2021-03-30",
+        "latest_effective_date": "2021-03-31",
+        "baseline_effective_date": "2021-03-31",
+        "candidate_dates": "2021-03-30;2021-03-31",
+        "constraints": "March31 is the latest actual-direction observation; published appointment March30 is the earlier admissible boundary. Move vacancy replacement end and titular start together. April6 public possession is retained as an administrative date discrepancy, not the effective-service bound after earlier observed direction. Brandelli personal affiliation remains unbounded: never equate UNKNOWN to unaffiliated in this sensitivity. V5 original Senate dossier and scoped Garibaldi registry do not establish or bound Brandelli personal affiliation; retain the outgoing UNKNOWN state.",
+        "evidence_ids": "C063;C072;V5W4E002",
+        "outgoing_state": "UNKNOWN",
+        "outgoing_party_id": "",
+        "incoming_state": "UNAFFILIATED",
+        "incoming_party_id": ""
+      }
+    ],
+    "deletes": []
+  },
+  "completion_research_register.csv": {
+    "key_fields": [
+      "research_id"
+    ],
+    "upserts": [
+      {
+        "research_id": "completion-search-jonathas-assuncao-salvador-nery-de-castro",
+        "dependency_id": "person-jonathas-assuncao-salvador-nery-de-castro",
+        "person_name": "Jonathas Assunção Salvador Nery de Castro",
+        "service_intervals": "2022-12-30/2023-01-01;2021-03-30/2021-03-31",
+        "name_variants": "Jonathas Assuncao;Jonathas Assunção;Jonathas Assuncao Salvador",
+        "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches;v5 original personnel eligibility/nomination dossiers; exact identity and contemporaneous declarations; scoped registry with historical-negative limitation",
+        "saved_result_files": "research/completion/web_033.txt;research/completion/web_078.txt;research/completion/web_081.txt;research/completion/web_082.txt;research/completion/web_083.txt;research/completion/web_084.txt;research/completion/web_086.txt;research/completion/web_088.txt;research/completion/web_089.txt;research/completion/web_112.txt;research/completion/web_113.txt;research/completion/web_138.txt;research/completion/web_159.txt;research/completion/web_164.txt;research/completion/web_191.txt;research/completion/web_217.txt;research/completion/web_221.txt;research/completion/web_222.txt;research/completion/web_230.txt;research/completion/web_250.txt;research/completion/web_251.txt;research/completion/web_265.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md;research/refinement_v5/worker_4_bolsonaro_2021/sources/web_06.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/terracap_index.html;research/refinement_v5/worker_4_bolsonaro_2021/RESEARCH.md",
+        "source_review_finding": "Official rolls establish vacancy service. Petrobras 2022 nomination, governance and court records address executive-office ineligibility; those findings do not establish non-affiliation. Legacy assembly website returned 404. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation. V5 new pre-service personnel channel: public mirror of Terracap eligibility minute dated2019-10-16 names Jonathas and case00111-00010585/2019-82, declaration and unspecified negative certificates including TSE. Neither the certificate type nor an explicit affiliation statement is reproduced. Header says19th meeting while footer says17th; original Terracap archive returns403. This is a source-discovery/limitation record, not a verified original or proof of nonaffiliation. W5 independently reviewed the 2022 Petrobras issuer filing; independence/PEP declarations likewise do not establish the March2021 personal party state.",
+        "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+        "search_date": "2026-09-10",
+        "completion_status": "blocked"
+      },
+      {
+        "research_id": "completion-search-sergio-jose-pereira",
+        "dependency_id": "person-sergio-jose-pereira",
+        "person_name": "Sérgio José Pereira",
+        "service_intervals": "2021-03-30/2021-04-01",
+        "name_variants": "Sérgio José Pereira;Sergio Jose Pereira",
+        "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches;v5 original personnel eligibility/nomination dossiers; exact identity and contemporaneous declarations; scoped registry with historical-negative limitation",
+        "saved_result_files": "research/completion/web_164.txt;research/completion/web_168.txt;research/completion/web_171.txt;research/completion/web_172.txt;research/completion/web_201.txt;research/completion/web_216.txt;research/completion/web_221.txt;research/completion/web_231.txt;research/completion/web_287.txt;research/completion/web_288.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md;research/followup_bolsonaro_affiliations/sergio_twelve_current_checks.json;research/followup_bolsonaro_affiliations/sergio_official_identity_reference.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/cmb_57.pdf;research/refinement_v5/worker_4_bolsonaro_2021/sources/cmb_57.txt;research/refinement_v5/worker_4_bolsonaro_2021/sources/cmb_2021_links.json;research/refinement_v5/worker_4_bolsonaro_2021/RESEARCH.md",
+        "source_review_finding": "DOU March 31 extra minister-substitute act and continuing deputy appointment establish actual replacement. Military status is not used to infer non-affiliation. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation. Final historical-homonym check:12 current municipality/party queries (19891 rows) corresponding to2016name matches; five current exact-name matches all have different identity hashes from the general in the official2021 Casa da Moeda assembly record. Seven had no current match. These historical names therefore do not establish this officeholder affiliation. V5 original-source follow-up: CMB committee minute 57 of 2021-04-16 (visually inspected) identifies Sérgio José Pereira and the underlying SEI note 13261/2021/ME. Its favorable fiscal-council eligibility assessment covers professional experience, education and statutory impediments; it contains no explicit personal party declaration. Minute 69 is about successor Thiago Meirelles and cannot be attributed to Sérgio. No new evidence bounds his personal affiliation on March30–31.",
+        "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+        "search_date": "2026-09-10",
+        "completion_status": "blocked"
+      },
+      {
+        "research_id": "completion-search-otavio-brandelli",
+        "dependency_id": "person-otavio-brandelli",
+        "person_name": "Otávio Brandelli",
+        "service_intervals": "2021-03-30/2021-03-31",
+        "name_variants": "Otávio Brandelli;Otavio Brandelli",
+        "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches;v5 original personnel eligibility/nomination dossiers; exact identity and contemporaneous declarations; scoped registry with historical-negative limitation",
+        "saved_result_files": "research/completion/web_226.txt;research/completion/web_240.txt;research/completion/web_258.txt;research/completion/web_262.txt;research/completion/web_276.txt;research/completion/web_282.txt;research/followup_root/web_registry_05.json;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md;research/followup_root/filiaweb_2016_names.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/brandelli_senate_8953346.pdf;research/refinement_v5/worker_4_bolsonaro_2021/sources/brandelli_senate_8953346.txt;research/refinement_v5/worker_4_bolsonaro_2021/sources/brandelli_senate_8986660.pdf;research/refinement_v5/worker_4_bolsonaro_2021/sources/brandelli_registry_summary.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_182.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_183.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_36.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_37.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_38.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_39.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_40.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_41.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_42.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_43.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_44.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_45.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_46.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_47.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_48.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_49.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_50.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_51.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_52.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_53.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_54.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_55.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_56.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_57.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_58.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_59.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_60.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_61.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_62.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_63.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_64.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_65.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_66.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_67.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_68.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_69.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_70.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_71.json;research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_72.json;research/refinement_v5/worker_4_bolsonaro_2021/RESEARCH.md",
+        "source_review_finding": "FUNAG immediate-substitute history and DOU interim acts establish succession. In reporting, sem partido modifies Bolsonaro, not Brandelli. Diplomatic career is not non-affiliation. C072 restricts actual vacancy service to March30, because contemporary reports establish successor ministry direction by March31. March31–April5 no longer depend on Brandelli’s affiliation. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation. V5 original-source follow-up: original Senate MSF14/2021 dossier (MRE CV, dm8953346) and committee report dm8986660 establish identity/career, including birthplace Garibaldi/RS; neither states personal affiliation. New scoped Garibaldi public TSE scan:39 party queries,3030 rows,all successful,no exact target. Birthplace does not establish electoral domicile and current municipal regular-record absence is not historical nonaffiliation. The service-sensitivity outgoing state stays UNKNOWN.",
+        "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+        "search_date": "2026-09-10",
+        "completion_status": "blocked"
+      }
+    ],
+    "deletes": []
+  },
+  "affiliations.csv": {
+    "key_fields": [
+      "affiliation_id"
+    ],
+    "upserts": [
+      {
+        "affiliation_id": "affiliation-C058-sergio-jose-pereira-2021-03-30",
+        "person_id": "person-sergio-jose-pereira",
+        "start_inclusive": "2021-03-30",
+        "end_exclusive": "2021-04-01",
+        "state": "UNKNOWN",
+        "party_id": "",
+        "support": "Substantive searches did not establish temporally relevant personal affiliation; employer and nomination are not personal affiliation; V5 original-source follow-up: CMB committee minute 57 of 2021-04-16 (visually inspected) identifies Sérgio José Pereira and the underlying SEI note 13261/2021/ME. Its favorable fiscal-council eligibility assessment covers professional experience, education and statutory impediments; it contains no explicit personal party declaration. Minute 69 is about successor Thiago Meirelles and cannot be attributed to Sérgio. No new evidence bounds his personal affiliation on March30–31.",
+        "date_status": "unresolved_personal_affiliation",
+        "date_earliest": "",
+        "date_latest": "",
+        "alternatives": "[]",
+        "evidence_ids": "C058;V5W4E001",
+        "decision_ids": "C058;V5W4D001"
+      },
+      {
+        "affiliation_id": "affiliation-C059-jonathas-2021",
+        "person_id": "person-jonathas-assuncao-salvador-nery-de-castro",
+        "start_inclusive": "2021-03-30",
+        "end_exclusive": "2021-03-31",
+        "state": "UNKNOWN",
+        "party_id": "",
+        "support": "Substantive searches did not establish temporally relevant personal affiliation; employer and nomination are not personal affiliation; V5 new pre-service personnel channel: public mirror of Terracap eligibility minute dated2019-10-16 names Jonathas and case00111-00010585/2019-82, declaration and unspecified negative certificates including TSE. Neither the certificate type nor an explicit affiliation statement is reproduced. Header says19th meeting while footer says17th; original Terracap archive returns403. This is a source-discovery/limitation record, not a verified original or proof of nonaffiliation. W5 independently reviewed the 2022 Petrobras issuer filing; independence/PEP declarations likewise do not establish the March2021 personal party state.",
+        "date_status": "unresolved_personal_affiliation",
+        "date_earliest": "",
+        "date_latest": "",
+        "alternatives": "[]",
+        "evidence_ids": "C036;C059;V5W4E003",
+        "decision_ids": "C036;C059;V5W4D003"
+      },
+      {
+        "affiliation_id": "affiliation-C063-otavio-brandelli-2021-03-30",
+        "person_id": "person-otavio-brandelli",
+        "start_inclusive": "2021-03-30",
+        "end_exclusive": "2021-03-31",
+        "state": "UNKNOWN",
+        "party_id": "",
+        "support": "Substantive searches did not establish temporally relevant personal affiliation; employer and nomination are not personal affiliation; V5 original-source follow-up: original Senate MSF14/2021 dossier (MRE CV, dm8953346) and committee report dm8986660 establish identity/career, including birthplace Garibaldi/RS; neither states personal affiliation. New scoped Garibaldi public TSE scan:39 party queries,3030 rows,all successful,no exact target. Birthplace does not establish electoral domicile and current municipal regular-record absence is not historical nonaffiliation. The service-sensitivity outgoing state stays UNKNOWN.",
+        "date_status": "unresolved_personal_affiliation",
+        "date_earliest": "",
+        "date_latest": "",
+        "alternatives": "[]",
+        "evidence_ids": "C063;C072;V5W4E002",
+        "decision_ids": "C063;C072;V5W4D002"
+      }
+    ],
+    "deletes": []
+  },
+  "decisions.csv": {
+    "key_fields": [
+      "decision_id"
+    ],
+    "upserts": [
+      {
+        "decision_id": "V5W4D001",
+        "disposition": "retain_unresolved_personal_affiliation",
+        "evidence_ids": "V5W4E001",
+        "rationale": "V5 original-source follow-up: CMB committee minute 57 of 2021-04-16 (visually inspected) identifies Sérgio José Pereira and the underlying SEI note 13261/2021/ME. Its favorable fiscal-council eligibility assessment covers professional experience, education and statutory impediments; it contains no explicit personal party declaration. Minute 69 is about successor Thiago Meirelles and cannot be attributed to Sérgio. No new evidence bounds his personal affiliation on March30–31. Retain UNKNOWN with no invented finite alternatives. Vacancy service dates and daily-closing convention remain unchanged.",
+        "alternatives": "[]"
+      },
+      {
+        "decision_id": "V5W4D002",
+        "disposition": "retain_unresolved_personal_affiliation",
+        "evidence_ids": "V5W4E002",
+        "rationale": "V5 original-source follow-up: original Senate MSF14/2021 dossier (MRE CV, dm8953346) and committee report dm8986660 establish identity/career, including birthplace Garibaldi/RS; neither states personal affiliation. New scoped Garibaldi public TSE scan:39 party queries,3030 rows,all successful,no exact target. Birthplace does not establish electoral domicile and current municipal regular-record absence is not historical nonaffiliation. The service-sensitivity outgoing state stays UNKNOWN. Retain UNKNOWN with no invented finite alternatives. Vacancy service dates and daily-closing convention remain unchanged.",
+        "alternatives": "[]"
+      },
+      {
+        "decision_id": "V5W4D003",
+        "disposition": "retain_unresolved_personal_affiliation",
+        "evidence_ids": "V5W4E003",
+        "rationale": "V5 new pre-service personnel channel: public mirror of Terracap eligibility minute dated2019-10-16 names Jonathas and case00111-00010585/2019-82, declaration and unspecified negative certificates including TSE. Neither the certificate type nor an explicit affiliation statement is reproduced. Header says19th meeting while footer says17th; original Terracap archive returns403. This is a source-discovery/limitation record, not a verified original or proof of nonaffiliation. W5 independently reviewed the 2022 Petrobras issuer filing; independence/PEP declarations likewise do not establish the March2021 personal party state. Retain UNKNOWN with no invented finite alternatives. Vacancy service dates and daily-closing convention remain unchanged.",
+        "alternatives": "[]"
+      }
+    ],
+    "deletes": []
+  },
+  "evidence_snapshot_links.csv": {
+    "key_fields": [
+      "evidence_id",
+      "snapshot_path",
+      "source_locator"
+    ],
+    "upserts": [
+      {
+        "evidence_id": "V5W4E001",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/cmb_57.pdf",
+        "source_locator": "https://www.casadamoeda.gov.br/arquivos/lai/atas-do-comite-de-elegibilidade/57a-ata-de-reuniao-comite-de-elegibilidade-16-04-2021.pdf",
+        "snapshot_kind": "retrieved_original_pdf",
+        "sha256": "9d66964d30ad1507153b9002e0aa3156d144b244c1a7991a359f371c6b5c9879"
+      },
+      {
+        "evidence_id": "V5W4E001",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/cmb_57.txt",
+        "source_locator": "https://www.casadamoeda.gov.br/arquivos/lai/atas-do-comite-de-elegibilidade/57a-ata-de-reuniao-comite-de-elegibilidade-16-04-2021.pdf",
+        "snapshot_kind": "retrieved_original_text_extraction",
+        "sha256": "ea7a859734ec65c38d205c833ab56a538098370df13f46eff9d0e383f41d6f89"
+      },
+      {
+        "evidence_id": "V5W4E001",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/cmb_2021_links.json",
+        "source_locator": "https://www.casadamoeda.gov.br/arquivos/lai/atas-do-comite-de-elegibilidade/57a-ata-de-reuniao-comite-de-elegibilidade-16-04-2021.pdf",
+        "snapshot_kind": "retrieved_original_index_extract",
+        "sha256": "df90ecf9daf0597e83d8876a2848146daa4aa62352f44b7e3b6dee56dd27e379"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/brandelli_senate_8953346.pdf",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "retrieved_original_pdf",
+        "sha256": "f036520c1cf7b3457f49ac2c4dbba26ec4a962ea0730346a4e294f969b8793ff"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/brandelli_senate_8953346.txt",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "retrieved_original_text_extraction",
+        "sha256": "1f21320062c7cb746ce8ec861979bab0a85a2bf5ec6b45493e75908b0b9225b1"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/brandelli_senate_8986660.pdf",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "retrieved_original_pdf",
+        "sha256": "9b7277f077d9c430b912ccb58b3574d18521d335355979e8dfdfd71dfd192daf"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/brandelli_registry_summary.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_summary",
+        "sha256": "443c69a1ba54df3cd088e21913d5ea44430b99aef5dd84f71dd6a3493d440b79"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_182.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "c41dc088a104ae108ff4dc451bd4b136223edfa5b7d0481f25b5e70cd4f83f8b"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_183.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "d7a59df92c3da6b26d7c7dc2c55b5e36bb857b503593ceaf9a882e3890f9a2f2"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_36.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "cd32d87fba8ac1bf0a411a3acc12173d081bb24d20662b6e534f8923002ba4a2"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_37.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "283d12700c7c516c41c50e1acbadd1a921ce54448ea6ec68a13c55813910974b"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_38.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "c4da9c5ef761dc6513f89383b386f16450e7d55ff3476860564053090555e335"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_39.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "4ac79cc4c3368cc493ba86108b44b2ef753997bc52e58fd5deb805eb03543858"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_40.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "6880160c032ea45129fe3bea27f15a6b6c016124bb0f8502e3c220a0ef20b33d"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_41.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "ed1384be44ae99f9d4ba7becec4b30e6dcbc70d34e3b0a599697f41a257d1c0b"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_42.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "211903a3897f341d6e20bd02d14177515f30992db189306bea992e2408135a13"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_43.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "7a170b86c469b8389da97bf143387664375734266489479590d2d00737b1dcd1"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_44.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "81d9a55c917748bb8cc844cfd92f14f7a00b9d3d36f8a91df1169de2a3b6d73e"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_45.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "c479e750a733e12d494fb2ff5cd298ff46856f2c02fca799bebe37dfe7ee6da6"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_46.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "030c01a9d464f308d2edb5529f1493c06dcf3602e02371b9280efeaf2aa98983"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_47.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "d33dc16b34b67f9bf3d77f9dd42b41d0445ddaa86524fdd8b728ccd5e2cb5cc0"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_48.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "39862c781b65a5dfdb7d19e68871bcee25cd5574be0a0eeb716b5168de454b6b"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_49.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "97854fcf8825696d7a177cb1ac7c6dc1d987169129f6b0dffcfb98770801460c"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_50.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "c70c09b62a8df35c90e851e7d2f39bd94e30ec4174b6d9919532697b974be22b"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_51.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "6543be1e990d3de75a9d711b1367f9aa0d31382ecdf5b403e8bed153d0d7f58f"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_52.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "b86d13237de13163f38f8904971b1ebc8760855f0ac6ce02f3473259cb4eff08"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_53.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "46c027eb823033817b6f6d80c878bfed5ffd3ef424d436444b549ce1242d0a4b"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_54.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "b98f534deb4fefaee9c51d323d439e31c8f1baa9aab11952273c9079e2fef0fa"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_55.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "cab6446c4d91b74d0f59937595c21586579bf146921586eb45e959f788fa8d98"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_56.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "cae83117a9aa25872c8998860ca1ffe7dbbca36929791f41cb4fa121db60fcc4"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_57.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "91209ab59025e8299dd9e845cf4220a6fd4525a87878c7da450d3d4622b8a855"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_58.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "41c7e402f6abe545e894de2cfe889c164441ac7745f5fd5cf7362f1cca96730e"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_59.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "57f6ac8d00950c2f8223e69cb460f38a8a275a6ebf6902dc443c7be9e9b481a3"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_60.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "97604c54e16cf326e265c56bd947e6eb5029f085a386e58c46d23e19d96dc648"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_61.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "efb052a61612edfffecca25ff3cc2b6bc3c6b4669279a849074c18d0f580134c"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_62.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "f1f6b234724dcb29865c7e09dc3f4940c10deae88f66d9d3554ffbfb86684b4c"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_63.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "94729c3894279819a3f7a718f6d1f3d925922cdd39766a2a8f2181ecfe7beec3"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_64.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "ed400b54963d544415bef66a8679543e5c51df85392d0d2477b8ee8d08c4db08"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_65.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "a5de222addf232aaa89642840808061f3dd3e1e48aded01c7423e3ed2394bc3d"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_66.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "682de6d17e9daf0b3149f50542f669bf7da8390f99c70f96e140ab3f980f2804"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_67.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "805227dd351b4e80f955f8c39c6470d2311912dd1c5c631f8e20f33551685112"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_68.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "6a737849ec1cbdcefe06f268f3d1b7550e7ba75e15208911c90583c8a232f863"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_69.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "00ffd5028442f864be0b784c5f71407d5ea2128a3373954eb3379bb56ba8b6e1"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_70.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "8b49760c1033685038f1ad594136e44696b5be6d45afdb11acb22e426f79bb63"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_71.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "7bc83b3190752dae254c7ff2e045929195f69da952cbe0caeca3b0267678037f"
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/tse_RS_72.json",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "snapshot_kind": "scoped_public_registry_response_log",
+        "sha256": "c40bb2c2c024423e3d885375fa304ea54017e57def6ea4dac0b500b6fcf09c9f"
+      },
+      {
+        "evidence_id": "V5W4E003",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/web_06.json",
+        "source_locator": "https://pt.scribd.com/document/1057191170/Ata-Terracap;https://www.terracap.df.gov.br/index.php/orgao-colegiado/contexto-atas-age",
+        "snapshot_kind": "retrieved_web_text_mirror_and_access_log",
+        "sha256": "6d07270c8798fb2aca58df65bbf6552615c3dd17602b7d777ae96b81fa0d064b"
+      },
+      {
+        "evidence_id": "V5W4E003",
+        "snapshot_path": "research/refinement_v5/worker_4_bolsonaro_2021/sources/terracap_index.html",
+        "source_locator": "https://pt.scribd.com/document/1057191170/Ata-Terracap;https://www.terracap.df.gov.br/index.php/orgao-colegiado/contexto-atas-age",
+        "snapshot_kind": "retained_access_limitation_response",
+        "sha256": "d6bddf2163f8fbe5d40107f26e461a588d36284401fc1910d2be070710a2c38d"
+      }
+    ],
+    "deletes": []
+  },
+  "evidence.csv": {
+    "key_fields": [
+      "evidence_id"
+    ],
+    "upserts": [
+      {
+        "evidence_id": "V5W4E001",
+        "asserted_fact": "Original CMB eligibility minute 57 explicitly reviews Sérgio José Pereira for its Fiscal Council and finds the cited eligibility requirements met; it does not state personal party affiliation or nonaffiliation.",
+        "source_locator": "https://www.casadamoeda.gov.br/arquivos/lai/atas-do-comite-de-elegibilidade/57a-ata-de-reuniao-comite-de-elegibilidade-16-04-2021.pdf",
+        "publisher": "Casa da Moeda do Brasil",
+        "publication_date": "2021-04-16",
+        "retrieval_date": "2026-09-10",
+        "access_status": "retrieved_original_pdf",
+        "rationale": "V5 original-source follow-up: CMB committee minute 57 of 2021-04-16 (visually inspected) identifies Sérgio José Pereira and the underlying SEI note 13261/2021/ME. Its favorable fiscal-council eligibility assessment covers professional experience, education and statutory impediments; it contains no explicit personal party declaration. Minute 69 is about successor Thiago Meirelles and cannot be attributed to Sérgio. No new evidence bounds his personal affiliation on March30–31."
+      },
+      {
+        "evidence_id": "V5W4E002",
+        "asserted_fact": "Original MRE/Senate nomination dossier identifies Otávio Brandelli and birthplace Garibaldi/RS but provides no party-state statement; all 39 current TSE party queries in that municipality return no exact name across 3,030 rows.",
+        "source_locator": "https://legis.senado.leg.br/sdleg-getter/documento?dm=8953346;https://legis.senado.leg.br/sdleg-getter/documento?dm=8986660;https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados",
+        "publisher": "Presidência/MRE; Senado Federal; TSE",
+        "publication_date": "2021-04-15;2021-07-02",
+        "retrieval_date": "2026-09-10",
+        "access_status": "retrieved_original_and_scoped_registry",
+        "rationale": "V5 original-source follow-up: original Senate MSF14/2021 dossier (MRE CV, dm8953346) and committee report dm8986660 establish identity/career, including birthplace Garibaldi/RS; neither states personal affiliation. New scoped Garibaldi public TSE scan:39 party queries,3030 rows,all successful,no exact target. Birthplace does not establish electoral domicile and current municipal regular-record absence is not historical nonaffiliation. The service-sensitivity outgoing state stays UNKNOWN."
+      },
+      {
+        "evidence_id": "V5W4E003",
+        "asserted_fact": "A publicly readable mirror of Terracap eligibility minute dated 2019-10-16 names Jonathas and a standard eligibility declaration with unspecified negative TSE certificates. It does not reproduce a negative party-affiliation certificate or declare his party state; original archive returned 403.",
+        "source_locator": "https://pt.scribd.com/document/1057191170/Ata-Terracap;https://www.terracap.df.gov.br/index.php/orgao-colegiado/contexto-atas-age",
+        "publisher": "Terracap committee document in third-party mirror; official archive inaccessible",
+        "publication_date": "2019-10-16",
+        "retrieval_date": "2026-09-10",
+        "access_status": "retrieved_source_mirror_original_unavailable",
+        "rationale": "V5 new pre-service personnel channel: public mirror of Terracap eligibility minute dated2019-10-16 names Jonathas and case00111-00010585/2019-82, declaration and unspecified negative certificates including TSE. Neither the certificate type nor an explicit affiliation statement is reproduced. Header says19th meeting while footer says17th; original Terracap archive returns403. This is a source-discovery/limitation record, not a verified original or proof of nonaffiliation. W5 independently reviewed the 2022 Petrobras issuer filing; independence/PEP declarations likewise do not establish the March2021 personal party state."
+      }
+    ],
+    "deletes": []
+  }
+}

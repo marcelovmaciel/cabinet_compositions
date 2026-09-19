@@ -1,0 +1,17 @@
+{
+  "party": "REPUBLICANOS",
+  "id": 51,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=51&currentPage=0&pageSize=10000",
+      "records": 2904,
+      "totalElements": 2904,
+      "response_sha256": "76045f1ff7da60bbda1c75e2bad84f7e574497c8792295cbb04a181233b27608",
+      "retrieved_utc": "2026-09-10T23:39:07Z"
+    }
+  ],
+  "matches": []
+}

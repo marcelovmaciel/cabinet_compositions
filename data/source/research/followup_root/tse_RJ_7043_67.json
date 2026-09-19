@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "PSTU",
+  "id": 67,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=67&currentPage=0&pageSize=10000",
+      "records": 383,
+      "totalElements": 383,
+      "response_sha256": "77b87e8add1fb2736e99d959248a7e1f20870edc5fa52de42f66699b9a54715d",
+      "retrieved_utc": "2026-09-10T23:43:31Z"
+    }
+  ],
+  "matches": []
+}

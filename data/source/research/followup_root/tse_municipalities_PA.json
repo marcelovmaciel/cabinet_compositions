@@ -1,0 +1,1874 @@
+[
+  {
+    "codLocalidadeTse": 4014,
+    "codObjeto": "4520",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ABAETETUBA"
+  },
+  {
+    "codLocalidadeTse": 4502,
+    "codObjeto": "4521",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ABEL FIGUEIREDO"
+  },
+  {
+    "codLocalidadeTse": 4030,
+    "codObjeto": "4522",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ACARÁ"
+  },
+  {
+    "codLocalidadeTse": 4057,
+    "codObjeto": "4523",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "AFUÁ"
+  },
+  {
+    "codLocalidadeTse": 4073,
+    "codObjeto": "4527",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ALENQUER"
+  },
+  {
+    "codLocalidadeTse": 4090,
+    "codObjeto": "4529",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ALMEIRIM"
+  },
+  {
+    "codLocalidadeTse": 4111,
+    "codObjeto": "4532",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ALTAMIRA"
+  },
+  {
+    "codLocalidadeTse": 4138,
+    "codObjeto": "4536",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ANAJÁS"
+  },
+  {
+    "codLocalidadeTse": 4154,
+    "codObjeto": "4537",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ANANINDEUA"
+  },
+  {
+    "codLocalidadeTse": 4723,
+    "codObjeto": "4538",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ANAPU"
+  },
+  {
+    "codLocalidadeTse": 4170,
+    "codObjeto": "4550",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "AUGUSTO CORRÊA"
+  },
+  {
+    "codLocalidadeTse": 4340,
+    "codObjeto": "4551",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "AURORA DO PARÁ"
+  },
+  {
+    "codLocalidadeTse": 4197,
+    "codObjeto": "4552",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "AVEIRO"
+  },
+  {
+    "codLocalidadeTse": 4219,
+    "codObjeto": "4553",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BAGRE"
+  },
+  {
+    "codLocalidadeTse": 4235,
+    "codObjeto": "4554",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BAIÃO"
+  },
+  {
+    "codLocalidadeTse": 4588,
+    "codObjeto": "4555",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BANNACH"
+  },
+  {
+    "codLocalidadeTse": 4251,
+    "codObjeto": "4556",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BARCARENA"
+  },
+  {
+    "codLocalidadeTse": 4804,
+    "codObjeto": "4564",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BELTERRA"
+  },
+  {
+    "codLocalidadeTse": 4278,
+    "codObjeto": "4563",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BELÉM"
+  },
+  {
+    "codLocalidadeTse": 4294,
+    "codObjeto": "4565",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BENEVIDES"
+  },
+  {
+    "codLocalidadeTse": 4049,
+    "codObjeto": "4574",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BOM JESUS DO TOCANTINS"
+  },
+  {
+    "codLocalidadeTse": 4316,
+    "codObjeto": "4575",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BONITO"
+  },
+  {
+    "codLocalidadeTse": 4332,
+    "codObjeto": "4576",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BRAGANÇA"
+  },
+  {
+    "codLocalidadeTse": 4227,
+    "codObjeto": "4577",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BRASIL NOVO"
+  },
+  {
+    "codLocalidadeTse": 5932,
+    "codObjeto": "4580",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BREJO GRANDE DO ARAGUAIA"
+  },
+  {
+    "codLocalidadeTse": 4448,
+    "codObjeto": "4581",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BREU BRANCO"
+  },
+  {
+    "codLocalidadeTse": 4359,
+    "codObjeto": "4582",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BREVES"
+  },
+  {
+    "codLocalidadeTse": 4375,
+    "codObjeto": "4583",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "BUJARU"
+  },
+  {
+    "codLocalidadeTse": 4391,
+    "codObjeto": "4585",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CACHOEIRA DO ARARI"
+  },
+  {
+    "codLocalidadeTse": 4766,
+    "codObjeto": "4584",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CACHOEIRA DO PIRIÁ"
+  },
+  {
+    "codLocalidadeTse": 4413,
+    "codObjeto": "4591",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CAMETÁ"
+  },
+  {
+    "codLocalidadeTse": 4707,
+    "codObjeto": "4593",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CANAÃ DOS CARAJÁS"
+  },
+  {
+    "codLocalidadeTse": 4430,
+    "codObjeto": "4594",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CAPANEMA"
+  },
+  {
+    "codLocalidadeTse": 4456,
+    "codObjeto": "4595",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CAPITÃO POÇO"
+  },
+  {
+    "codLocalidadeTse": 4472,
+    "codObjeto": "4603",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CASTANHAL"
+  },
+  {
+    "codLocalidadeTse": 4499,
+    "codObjeto": "4605",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CHAVES"
+  },
+  {
+    "codLocalidadeTse": 4510,
+    "codObjeto": "4606",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "COLARES"
+  },
+  {
+    "codLocalidadeTse": 4537,
+    "codObjeto": "4608",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CONCEIÇÃO DO ARAGUAIA"
+  },
+  {
+    "codLocalidadeTse": 5819,
+    "codObjeto": "4609",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CONCÓRDIA DO PARÁ"
+  },
+  {
+    "codLocalidadeTse": 4529,
+    "codObjeto": "4615",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CUMARU DO NORTE"
+  },
+  {
+    "codLocalidadeTse": 5851,
+    "codObjeto": "4616",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CURIONÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 4553,
+    "codObjeto": "4617",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CURRALINHO"
+  },
+  {
+    "codLocalidadeTse": 4740,
+    "codObjeto": "4618",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CURUÁ"
+  },
+  {
+    "codLocalidadeTse": 4570,
+    "codObjeto": "4620",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "CURUÇÁ"
+  },
+  {
+    "codLocalidadeTse": 5975,
+    "codObjeto": "4623",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "DOM ELISEU"
+  },
+  {
+    "codLocalidadeTse": 4120,
+    "codObjeto": "4624",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ELDORADO DOS CARAJÁS"
+  },
+  {
+    "codLocalidadeTse": 4596,
+    "codObjeto": "4627",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "FARO"
+  },
+  {
+    "codLocalidadeTse": 4561,
+    "codObjeto": "4631",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "FLORESTA DO ARAGUAIA"
+  },
+  {
+    "codLocalidadeTse": 5878,
+    "codObjeto": "4632",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "GARRAFÃO DO NORTE"
+  },
+  {
+    "codLocalidadeTse": 4006,
+    "codObjeto": "4633",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "GOIANÉSIA DO PARÁ"
+  },
+  {
+    "codLocalidadeTse": 4618,
+    "codObjeto": "4637",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "GURUPÁ"
+  },
+  {
+    "codLocalidadeTse": 4634,
+    "codObjeto": "4643",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "IGARAPÉ-AÇU"
+  },
+  {
+    "codLocalidadeTse": 4650,
+    "codObjeto": "4644",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "IGARAPÉ-MIRI"
+  },
+  {
+    "codLocalidadeTse": 4677,
+    "codObjeto": "4646",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "INHANGAPI"
+  },
+  {
+    "codLocalidadeTse": 4189,
+    "codObjeto": "4647",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "IPIXUNA DO PARÁ"
+  },
+  {
+    "codLocalidadeTse": 4693,
+    "codObjeto": "4648",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "IRITUIA"
+  },
+  {
+    "codLocalidadeTse": 4715,
+    "codObjeto": "4649",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ITAITUBA"
+  },
+  {
+    "codLocalidadeTse": 4731,
+    "codObjeto": "4652",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ITUPIRANGA"
+  },
+  {
+    "codLocalidadeTse": 4200,
+    "codObjeto": "4653",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "JACAREACANGA"
+  },
+  {
+    "codLocalidadeTse": 4758,
+    "codObjeto": "4654",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "JACUNDÁ"
+  },
+  {
+    "codLocalidadeTse": 4774,
+    "codObjeto": "4665",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "JURUTI"
+  },
+  {
+    "codLocalidadeTse": 4790,
+    "codObjeto": "4670",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "LIMOEIRO DO AJURU"
+  },
+  {
+    "codLocalidadeTse": 4812,
+    "codObjeto": "4672",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "MAGALHÃES BARATA"
+  },
+  {
+    "codLocalidadeTse": 4839,
+    "codObjeto": "4675",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "MARABÁ"
+  },
+  {
+    "codLocalidadeTse": 4855,
+    "codObjeto": "4676",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "MARACANÃ"
+  },
+  {
+    "codLocalidadeTse": 4871,
+    "codObjeto": "4678",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "MARAPANIM"
+  },
+  {
+    "codLocalidadeTse": 4642,
+    "codObjeto": "4679",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "MARITUBA"
+  },
+  {
+    "codLocalidadeTse": 5770,
+    "codObjeto": "4683",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "MEDICILÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 4898,
+    "codObjeto": "4684",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "MELGAÇO"
+  },
+  {
+    "codLocalidadeTse": 4910,
+    "codObjeto": "4689",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "MOCAJUBA"
+  },
+  {
+    "codLocalidadeTse": 4936,
+    "codObjeto": "4691",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "MOJU"
+  },
+  {
+    "codLocalidadeTse": 4863,
+    "codObjeto": "Be9409120414440822",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "MOJUÍ DOS CAMPOS"
+  },
+  {
+    "codLocalidadeTse": 4952,
+    "codObjeto": "4693",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "MONTE ALEGRE"
+  },
+  {
+    "codLocalidadeTse": 4979,
+    "codObjeto": "4698",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "MUANÁ"
+  },
+  {
+    "codLocalidadeTse": 4103,
+    "codObjeto": "4671",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "MÃE DO RIO"
+  },
+  {
+    "codLocalidadeTse": 4480,
+    "codObjeto": "4707",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "NOVA ESPERANÇA DO PIRIÁ"
+  },
+  {
+    "codLocalidadeTse": 4600,
+    "codObjeto": "4708",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "NOVA IPIXUNA"
+  },
+  {
+    "codLocalidadeTse": 4995,
+    "codObjeto": "4710",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "NOVA TIMBOTEUA"
+  },
+  {
+    "codLocalidadeTse": 4383,
+    "codObjeto": "4712",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "NOVO PROGRESSO"
+  },
+  {
+    "codLocalidadeTse": 4421,
+    "codObjeto": "4713",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "NOVO REPARTIMENTO"
+  },
+  {
+    "codLocalidadeTse": 5037,
+    "codObjeto": "4716",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "OEIRAS DO PARÁ"
+  },
+  {
+    "codLocalidadeTse": 5053,
+    "codObjeto": "4717",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ORIXIMINÁ"
+  },
+  {
+    "codLocalidadeTse": 5959,
+    "codObjeto": "4721",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "OURILÂNDIA DO NORTE"
+  },
+  {
+    "codLocalidadeTse": 5070,
+    "codObjeto": "4720",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "OURÉM"
+  },
+  {
+    "codLocalidadeTse": 5916,
+    "codObjeto": "4723",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "PACAJÁ"
+  },
+  {
+    "codLocalidadeTse": 4162,
+    "codObjeto": "4725",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "PALESTINA DO PARÁ"
+  },
+  {
+    "codLocalidadeTse": 5096,
+    "codObjeto": "4726",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "PARAGOMINAS"
+  },
+  {
+    "codLocalidadeTse": 5835,
+    "codObjeto": "4728",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "PARAUAPEBAS"
+  },
+  {
+    "codLocalidadeTse": 4308,
+    "codObjeto": "4729",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "PAU D'ARCO"
+  },
+  {
+    "codLocalidadeTse": 5118,
+    "codObjeto": "4731",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "PEIXE-BOI"
+  },
+  {
+    "codLocalidadeTse": 4782,
+    "codObjeto": "4736",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "PIÇARRA"
+  },
+  {
+    "codLocalidadeTse": 4626,
+    "codObjeto": "4741",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "PLACAS"
+  },
+  {
+    "codLocalidadeTse": 5134,
+    "codObjeto": "4742",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "PONTA DE PEDRAS"
+  },
+  {
+    "codLocalidadeTse": 5150,
+    "codObjeto": "4744",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "PORTEL"
+  },
+  {
+    "codLocalidadeTse": 5177,
+    "codObjeto": "4745",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "PORTO DE MOZ"
+  },
+  {
+    "codLocalidadeTse": 5193,
+    "codObjeto": "4748",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "PRAINHA"
+  },
+  {
+    "codLocalidadeTse": 5215,
+    "codObjeto": "4749",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "PRIMAVERA"
+  },
+  {
+    "codLocalidadeTse": 4685,
+    "codObjeto": "4750",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "QUATIPURU"
+  },
+  {
+    "codLocalidadeTse": 5673,
+    "codObjeto": "4752",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "REDENÇÃO"
+  },
+  {
+    "codLocalidadeTse": 5690,
+    "codObjeto": "4755",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "RIO MARIA"
+  },
+  {
+    "codLocalidadeTse": 5738,
+    "codObjeto": "4758",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "RONDON DO PARÁ"
+  },
+  {
+    "codLocalidadeTse": 5894,
+    "codObjeto": "4759",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "RURÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 5231,
+    "codObjeto": "4760",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SALINÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 5258,
+    "codObjeto": "4761",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SALVATERRA"
+  },
+  {
+    "codLocalidadeTse": 4243,
+    "codObjeto": "4762",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SANTA BÁRBARA DO PARÁ"
+  },
+  {
+    "codLocalidadeTse": 5274,
+    "codObjeto": "4763",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SANTA CRUZ DO ARARI"
+  },
+  {
+    "codLocalidadeTse": 5290,
+    "codObjeto": "4764",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SANTA IZABEL DO PARÁ"
+  },
+  {
+    "codLocalidadeTse": 4146,
+    "codObjeto": "4765",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SANTA LUZIA DO PARÁ"
+  },
+  {
+    "codLocalidadeTse": 5991,
+    "codObjeto": "4767",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SANTA MARIA DAS BARREIRAS"
+  },
+  {
+    "codLocalidadeTse": 5312,
+    "codObjeto": "4768",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SANTA MARIA DO PARÁ"
+  },
+  {
+    "codLocalidadeTse": 5339,
+    "codObjeto": "4771",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SANTANA DO ARAGUAIA"
+  },
+  {
+    "codLocalidadeTse": 5355,
+    "codObjeto": "4772",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SANTARÉM"
+  },
+  {
+    "codLocalidadeTse": 5371,
+    "codObjeto": "4773",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SANTARÉM NOVO"
+  },
+  {
+    "codLocalidadeTse": 5398,
+    "codObjeto": "4775",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DO TAUÁ"
+  },
+  {
+    "codLocalidadeTse": 4847,
+    "codObjeto": "4805",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SAPUCAIA"
+  },
+  {
+    "codLocalidadeTse": 5550,
+    "codObjeto": "4806",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SENADOR JOSÉ PORFÍRIO"
+  },
+  {
+    "codLocalidadeTse": 5576,
+    "codObjeto": "4808",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SOURE"
+  },
+  {
+    "codLocalidadeTse": 5410,
+    "codObjeto": "4776",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SÃO CAETANO DE ODIVELAS"
+  },
+  {
+    "codLocalidadeTse": 4464,
+    "codObjeto": "4777",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SÃO DOMINGOS DO ARAGUAIA"
+  },
+  {
+    "codLocalidadeTse": 5436,
+    "codObjeto": "4778",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SÃO DOMINGOS DO CAPIM"
+  },
+  {
+    "codLocalidadeTse": 5479,
+    "codObjeto": "4782",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SÃO FRANCISCO DO PARÁ"
+  },
+  {
+    "codLocalidadeTse": 5452,
+    "codObjeto": "4779",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SÃO FÉLIX DO XINGU"
+  },
+  {
+    "codLocalidadeTse": 5797,
+    "codObjeto": "4783",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SÃO GERALDO DO ARAGUAIA"
+  },
+  {
+    "codLocalidadeTse": 4820,
+    "codObjeto": "4784",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SÃO JOÃO DA PONTA"
+  },
+  {
+    "codLocalidadeTse": 4065,
+    "codObjeto": "4785",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SÃO JOÃO DE PIRABAS"
+  },
+  {
+    "codLocalidadeTse": 5495,
+    "codObjeto": "4787",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SÃO JOÃO DO ARAGUAIA"
+  },
+  {
+    "codLocalidadeTse": 5517,
+    "codObjeto": "4795",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SÃO MIGUEL DO GUAMÁ"
+  },
+  {
+    "codLocalidadeTse": 5533,
+    "codObjeto": "4803",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "SÃO SEBASTIÃO DA BOA VISTA"
+  },
+  {
+    "codLocalidadeTse": 4022,
+    "codObjeto": "4809",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "TAILÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 4545,
+    "codObjeto": "4814",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "TERRA ALTA"
+  },
+  {
+    "codLocalidadeTse": 4367,
+    "codObjeto": "4815",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "TERRA SANTA"
+  },
+  {
+    "codLocalidadeTse": 5592,
+    "codObjeto": "4818",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "TOMÉ-AÇU"
+  },
+  {
+    "codLocalidadeTse": 4669,
+    "codObjeto": "4819",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "TRACUATEUA"
+  },
+  {
+    "codLocalidadeTse": 4286,
+    "codObjeto": "4820",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "TRAIRÃO"
+  },
+  {
+    "codLocalidadeTse": 4081,
+    "codObjeto": "4821",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "TUCUMÃ"
+  },
+  {
+    "codLocalidadeTse": 5614,
+    "codObjeto": "4822",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "TUCURUÍ"
+  },
+  {
+    "codLocalidadeTse": 4324,
+    "codObjeto": "4823",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ULIANÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 5754,
+    "codObjeto": "4824",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "URUARÁ"
+  },
+  {
+    "codLocalidadeTse": 5630,
+    "codObjeto": "4829",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "VIGIA"
+  },
+  {
+    "codLocalidadeTse": 5657,
+    "codObjeto": "4840",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "VISEU"
+  },
+  {
+    "codLocalidadeTse": 4405,
+    "codObjeto": "4843",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "VITÓRIA DO XINGU"
+  },
+  {
+    "codLocalidadeTse": 5711,
+    "codObjeto": "4844",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "XINGUARA"
+  },
+  {
+    "codLocalidadeTse": 4260,
+    "codObjeto": "4525",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ÁGUA AZUL DO NORTE"
+  },
+  {
+    "codLocalidadeTse": 5010,
+    "codObjeto": "4715",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "13",
+      "codObjetoMunicCapital": "4563",
+      "codUf": 13,
+      "nomUf": "PARÁ",
+      "sglUf": "PA"
+    },
+    "nomLocalidade": "ÓBIDOS"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "party": "PRD",
+  "id": 182,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=182&currentPage=0&pageSize=10000",
+      "records": 2045,
+      "totalElements": 2045,
+      "response_sha256": "9cdd29600f48b5d4579861dc17e522a09e6f6b690180b5c4a28a1e03b41dd9bb",
+      "retrieved_utc": "2026-09-11T01:05:47Z"
+    }
+  ],
+  "matches": []
+}

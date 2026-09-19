@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6865",
+  "city": "BELFORD ROXO",
+  "party": "PCO",
+  "id": 37,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6865&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 25,
+      "totalElements": 25,
+      "response_sha256": "d89453f2c7a70d7851273e58caa2d865749f005d66915d6e20110de574737646",
+      "retrieved_utc": "2026-09-10T23:40:01Z"
+    }
+  ],
+  "matches": []
+}

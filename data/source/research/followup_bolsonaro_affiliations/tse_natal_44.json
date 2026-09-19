@@ -1,0 +1,14 @@
+{
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 866,
+      "totalElements": 866,
+      "response_sha256": "3047b71b26848c416d3105e68664d00151d5ef4e0cd9e0ff03a58e431eead66c",
+      "retrieved_utc": "2026-09-10T23:43:30Z"
+    }
+  ],
+  "matches": []
+}

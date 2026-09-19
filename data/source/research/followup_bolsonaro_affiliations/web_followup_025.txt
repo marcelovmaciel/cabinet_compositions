@@ -1,0 +1,172 @@
+RESOLUÇÃO Nº 23.596, DE 20 DE AGOSTO DE 2019 — Tribunal Superior Eleitoral (https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-596-de-20-de-agosto-de-2019)
+citeturn431view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-596-de-20-de-agosto-de-2019","lineno":null}); Total lines: 530
+L0:   * Acessibilidade
+L1:   *     * Rybená acessibilidades adicionais
+L2:     * Rybená Libras
+L3:     * Rybená voz
+L4: 
+L5: Subir página Descer página
+L6: 
+L7: cite0†Conteúdo principal [1] L8: 
+L9: cite1†Menu principal [2] L10: 
+L11: cite2†Busca [3] L12: 
+L13: cite3†Busca avancada [4] L14: 
+L15: cite4†Pagina inicial [5] L16: 
+L17: cite5†Pagina de acessibilidade [6] L18: 
+L19: # Página interna do portal
+L20: ## Seção de conteúdo
+L21: 
+L22: Compartilhar página por e-mail cite6†Compartilhar pagina via Facebook†www.facebook.com cite7†Compartilhar página no WhatsApp†api.whatsapp.com L23: 
+L24: cite8†Texto consolidado cite9†Texto compilado L25: 
+L26: cite10†Image: Brasão L27: 
+L28: Tribunal Superior Eleitoral
+L29: 
+L30: Secretaria de Gestão da Informação e do Conhecimento
+L31: 
+L32: Coordenadoria de Jurisprudência e Legislação
+L33: 
+L34: Seção de Legislação
+L35: # RESOLUÇÃO Nº 23.596, DE 20 DE AGOSTO DE 2019
+L36: 
+L37: Dispõe sobre a filiação partidária, institui o Sistema de Filiação Partidária (FILIA), disciplina o encaminhamento de dados pelos partidos políticos à Justiça Eleitoral e dá outras providências.
+L38: 
+L39: O TRIBUNAL SUPERIOR ELEITORAL, no uso das atribuições que lhe são conferidas pelo cite11†art. 23, IX, do Código Eleitoral†www.planalto.gov.br e diante do disposto no cite12†art. 61 da Lei nº 9.096†www.planalto.gov.br , de 19 de setembro de 1995, resolve:
+L40: 
+L41: CAPÍTULO I
+L42: DAS DISPOSIÇÕES GERAIS
+L43: 
+L44: Art. 1º Somente poderá filiar-se a partido político o eleitor que estiver no pleno gozo de seus direitos políticos cite13†(Lei nº 9.096/1995, art. 16)†www.planalto.gov.br , ressalvada a possibilidade de filiação do eleitor considerado inelegível.
+L45: 
+L46: Parágrafo único. Considera-se deferida, para todos os efeitos, a filiação partidária com o atendimento das regras estatutárias do partido cite14†(Lei nº 9.096/1995, art. 17)†www.planalto.gov.br .
+L47: Art. 2º Para concorrer a cargo eletivo, o eleitor deverá estar filiado ao respectivo partido político pelo prazo mínimo definido em lei cite15†(Lei nº 9.504/1997, art. 9º)†www.planalto.gov.br .
+L48: 
+L49: § 1º O partido político pode estabelecer, em seu estatuto, para a candidatura a cargos eletivos, prazos de filiação partidária superiores aos definidos em lei, os quais não poderão ser alterados no ano da eleição cite16†(Lei nº 9.096/1995, art. 20, caput e parágrafo único)†www.planalto.gov.br .
+L50: § 2º Os militares, magistrados, membros dos Tribunais de Contas e do Ministério Público devem observar as disposições legais próprias sobre prazos de filiação.
+L51: 
+L52: Art. 3º A filiação partidária poderá ser requerida a qualquer órgão partidário, observadas as regras do estatuto do partido político.
+L53: 
+L54: § 1º Consideram-se órgãos partidários, para fins desta resolução, os constituídos nos âmbitos nacional, estadual ou regional e municipal ou zonal;
+L55: § 2º Os órgãos regionais e zonais a que se refere o § 1º deste artigo são constituídos apenas no Distrito Federal, em correspondência, respectivamente, aos órgãos de direção estaduais e municipais cite17†(Lei nº 9.096/1995, art. 54†www.planalto.gov.br , c. c. o cite18†art. 1º da Lei nº 9.259/1996)†www.planalto.gov.br .
+L56: 
+L57: § 3º Deferida a filiação do eleitor, será entregue comprovante ao interessado, no modelo adotado pelo partido cite14†(Lei nº 9.096/1995, art. 17, parágrafo único)†www.planalto.gov.br .
+L58: CAPÍTULO II
+L59: 
+L60: DO SISTEMA DE FILIAÇÃO PARTIDÁRIA (FILIA)
+L61: 
+L62: Art. 4º O FILIA, desenvolvido pela Secretaria de Tecnologia da Informação do Tribunal Superior Eleitoral (TSE) e integrado ao Sistema de Gerenciamento de Informações Partidárias (SGIP), será utilizado em todo o território nacional para anotação das filiações partidárias a que se refere o cite19†art. 19 da Lei nº 9.096/1995†www.planalto.gov.br .
+L63: § 1º As informações referentes a filiações efetuadas perante os órgãos partidários, independentemente da abrangência, quando admitidas pelo estatuto do partido, deverão ser inseridas no FILIA com a finalidade de comunicação à Justiça Eleitoral, nos períodos previstos em lei.
+L64: § 1º As informações referentes a filiações efetuadas perante os órgãos partidários, independentemente da abrangência, quando admitidas pelo estatuto do partido, deverão ser inseridas no FILIA com a finalidade de comunicação à Justiça Eleitoral. cite20†(Redação dada pela Resolução nº 23.668/2021) L65: 
+L66: § 2º Observadas as disposições estatutárias, qualquer órgão partidário poderá registrar as filiações no sistema FILIA.
+L67: § 3º Os dados inseridos no FILIA terão por base as informações fornecidas pelos partidos políticos, ressalvada a possibilidade de o sistema recusar pela ocorrência de eventual erro no registro de dados cadastrais do filiado, nos termos do art. 13 desta resolução.
+L68: § 4º Além dos campos de preenchimento obrigatório, cujos dados deverão subsidiar a elaboração da relação de filiados a ser entregue à Justiça Eleitoral, na forma do cite19†art. 19 da Lei nº 9.096/1995†www.planalto.gov.br , o FILIA conterá campos para registro, a critério dos órgãos partidários, de endereço e telefone, os quais não serão submetidos a processamento pelo sistema nem constarão das relações oficiais.
+L69: § 4º Além dos campos de preenchimento obrigatório, o FILIA conterá campos para registro, a critério dos órgãos partidários, de endereço e telefone, os quais não serão submetidos a processamento pelo sistema nem constarão dos registros oficiais. cite20†(Redação dada pela Resolução nº 23.668/2021) L70: § 5º O FILIA estará disponível vinte e quatro horas por dia, ininterruptamente, ressalvados os períodos de manutenção do sistema, que serão programados e divulgados com antecedência aos usuários, em área do sistema criada para esse fim; e preferencialmente realizadas entre a zero hora do sábado e as vinte e duas horas do domingo, ou no horário entre zero hora e seis horas nos demais dias da semana.
+L71: § 5º O FILIA estará disponível vinte e quatro horas por dia, ininterruptamente, ressalvados os períodos de manutenção do sistema, que serão programados e divulgados com antecedência aos usuários, em área do sistema criada para esse fim e no portal do TSE; e preferencialmente realizada entre a zero hora do sábado e as vinte e duas horas do domingo, ou no horário entre zero hora e seis horas nos demais dias da semana. cite20†(Redação dada pela Resolução nº 23.668/2021) L72: Art. 5º O FILIA é composto dos seguintes módulos: Interno, Externo e Consulta Pública.
+L73: 
+L74: I - o Módulo Interno, de uso obrigatório e exclusivo da Justiça Eleitoral, objetiva o gerenciamento das informações relativas a filiações partidárias, bem como o cadastramento de usuário e senha do representante nacional do partido político;
+L75: II - o Módulo Externo, de uso dos partidos políticos, permite o cadastramento de usuários do sistema na forma do art. 8º desta resolução, a inserção dos dados dos filiados no sistema e sua submissão à Justiça Eleitoral;
+L76: 
+L77: II - o Módulo Externo, de uso dos partidos políticos, permite o cadastramento de usuários na forma do art. 8º desta Resolução e a inserção dos dados dos filiados no sistema; e cite20†(Redação dada pela Resolução nº 23.668/2021) L78: III - o Módulo Consulta Pública, disponível na rede mundial de computadores, possibilita o acesso aos dados públicos dos filiados e permite a emissão e validação de certidão.
+L79: 
+L80: III - o Módulo Consulta Pública, disponível na rede mundial de computadores, possibilita a emissão e validação de certidão de filiação pelos titulares dos dados. cite21†(Redação dada pela Resolução nº 23.655/2021) L81: III - o Módulo Consulta, disponível na rede mundial de computadores, possibilita a emissão e validação de certidão de filiação pelos titulares dos dados. cite20†(Redação dada pela Resolução nº 23.668/2021) L82: 
+L83: CAPÍTULO III
+L84: 
+L85: DO ACESSO AO FILIA
+L86: 
+L87: Art. 6º O Módulo Externo do FILIA possuirá os seguintes níveis de permissão:
+L88: 
+L89: I - Administrador Nacional;
+L90: 
+L91: II - Administrador Estadual/Regional;
+L92: 
+L93: III - Administrador Municipal/Zonal;
+L94: 
+L95: IV - Operador;
+L96: 
+L97: V - Consulta.
+L98: VI - Consulta Filiados. cite20†(Incluído pela Resolução nº 23.668/2021) L99: 
+L100: § 1º O acesso ao perfil Consulta limita-se à visualização dos dados dos filiados da sua esfera ou de qualquer órgão partidário a ele vinculado.
+L101: 
+L102: § 2º O perfil Operador, além do previsto no § 1º deste artigo, possui permissão para cadastrar a filiação, realizar sua exclusão e editar dados de filiados da sua esfera ou de qualquer órgão partidário a ele vinculado.
+L103: § 3º Os perfis Administrador, além do previsto nos §§ 1º e 2º deste artigo, poderão, na forma do art. 8º desta resolução, cadastrar ou descadastrar outros usuários, dos perfis Administrador, Operador ou Consulta.
+L104: 
+L105: § 4º O perfil Consulta Filiados é destinado exclusivamente aos presidentes estaduais/regionais que não estejam cadastrados no perfil Administrador e para os fins previstos no art. 28-A desta Resolução. cite20†(Incluído pela Resolução nº 23.668/2021) L106: Art. 7º O cadastramento de senha para acesso ao FILIA será efetuado da seguinte forma:
+L107: 
+L108: I - a Secretaria de Tecnologia da Informação do TSE concede a permissão, via Sistema de Autenticação e Autorização da Justiça Eleitoral (ODIN), aos servidores do TSE e dos Tribunais Regionais Eleitorais;
+L109: 
+L110: II - as Secretarias de Tecnologia da Informação dos Tribunais Regionais Eleitorais concedem permissão, via ODIN, aos servidores dos Tribunais Regionais Eleitorais e dos cartórios eleitorais; e
+L111: III - os Administradores de cada esfera partidária serão cadastrados e cadastrarão os respectivos usuários para acesso ao FILIA na forma do art. 8º desta resolução.
+L112: 
+L113: Art. 8º O cadastramento de usuários do FILIA observará o seguinte:
+L114: 
+L115: I - somente poderão ser cadastrados nos perfis de Administrador, previstos nos incisos I, II e III do caput do art. 6º desta resolução, os presidentes, vice-presidentes ou delegados credenciados das respectivas esferas partidárias;
+L116: II - o TSE cadastrará o presidente nacional como usuário Administrador Nacional do partido;
+L117: 
+L118: III - o perfil Administrador Nacional poderá, observado o disposto no inciso I deste artigo e de acordo com o regramento interno dos partidos, cadastrar outros perfis de Administrador Nacional, bem como de Administrador Estadual/Regional e/ou Municipal/Zonal;
+L119: IV - o perfil Administrador Estadual/Regional, uma vez cadastrado, poderá cadastrar outros perfis de Administrador Estadual/Regional, bem como de Municipal/Zonal, observado o disposto no inciso I deste artigo e de acordo com o regramento interno dos partidos;
+L120: 
+L121: V - o perfil Administrador Municipal/Zonal, uma vez cadastrado, poderá cadastrar outros perfis de Administrador no âmbito da sua esfera partidária, observado o disposto no inciso I deste artigo e de acordo com o regramento interno dos partidos;
+L122: VI - Os Administradores Nacional, Estadual/Regional ou Municipal/Zonal cadastrados possuem permissão para cadastrar usuários Operador e Consulta no âmbito das suas respectivas esferas partidárias ou de qualquer órgão partidário a ele vinculado.
+L123: VII - O acesso ao perfil Consulta Filiados, na forma do § 2º do art. 28-A desta Resolução, será concedido pelos respectivos TREs mediante requerimento dos presidentes estaduais/regionais que não estejam cadastrados no perfil Administrador, tratando-se esse requerimento de ato personalíssimo. cite20†(Incluído pela Resolução nº 23.668/2021) L124: 
+L125: Parágrafo único. As senhas são pessoais e intransferíveis, respondendo o usuário, na forma da lei, em caso de irregularidade na sua utilização.
+L126: Art. 9º Ao usuário do FILIA poderá ser concedido acesso a mais de um partido e/ou a órgãos partidários diversos de uma mesma agremiação.
+L127: 
+L128: Parágrafo único. O acesso de que trata o caput deste artigo ficará a critério dos partidos e se dará de forma particularizada, de acordo com o cadastro de perfil na abrangência.
+L129: 
+L130: Art. 10. O FILIA fará o controle do período de vigência da composição do órgão partidário, a partir do banco de dados do SGIP, na forma estabelecida em instruções específicas do TSE.
+L131: § 1º Expirada a vigência do órgão de direção partidária, será bloqueado automaticamente o acesso de todos os usuários da respectiva esfera partidária.
+L132: 
+L133: § 2º Também serão automaticamente bloqueados os acessos dos usuários vinculados a órgãos partidários estaduais/regionais ou municipais/zonais que tenham o registro ou anotação suspensos.
+L134: 
+L135: CAPÍTULO IV
+L136: 
+L137: DA ELABORAÇÃO, DA SUBMISSÃO E DO PROCESSAMENTO DAS RELAÇÕES DE FILIADOS
+L138: DA ELABORAÇÃO E DO PROCESSAMENTO DOS REGISTROS DE FILIAÇÃO cite20†(Redação dada pela Resolução nº 23.668/2021) L139: Art. 11.
+L140: Na segunda semana dos meses de abril e outubro de cada ano, o partido, por seus órgãos de direção municipal/zonal, estadual/regional ou nacional, enviará à Justiça Eleitoral para arquivamento, publicação e cumprimento dos prazos de filiação para efeito de candidatura, a relação atualizada dos nomes de todos os seus filiados na respectiva zona eleitoral, da qual constará, também, o número dos títulos eleitorais e das seções em que estão inscritos e a data do deferimento das respectivas filiações cite19†(Lei nº 9.096/1995, art.
+L141: 19, caput)†www.planalto.gov.br .
+L142: Art. 11.
+L143: Deferido internamente o pedido de filiação, o partido político, por seus órgãos de direção municipais, regionais ou nacional, deverá inserir os dados do filiado no sistema eletrônico da Justiça Eleitoral, que automaticamente enviará aos juízes eleitorais, para arquivamento, publicação e cumprimento dos prazos de filiação partidária para efeito de candidatura a cargos eletivos, a relação dos nomes de todos os seus filiados, da qual constará a data de filiação, o número dos títulos eleitorais e das seções em que estão inscritos ( cite19†Lei nº 9.096/1995, art.
+L144: 19, caput†www.planalto.gov.br ). cite20†(Redação dada pela Resolução nº 23.668/2021) L145: § 1º Se a relação não for submetida nos prazos mencionados neste artigo, será considerada a última relação apresentada pelo partido.
+L146: 
+L147: § 1º A inserção de dados a que se refere o caput deste artigo, pelos partidos políticos, deverá ocorrer no prazo de 10 (dez) dias corridos, contados da data da filiação constante da ficha respectiva. cite20†(Redação dada pela Resolução nº 23.668/2021) L148: § 2º Os prejudicados por desídia ou má-fé poderão requerer, diretamente ao juiz da zona eleitoral, a intimação do partido para que cumpra, no prazo que fixar, não superior a dez dias, o que prescreve o caput deste artigo, sob pena de desobediência, observado o disposto no art. 16 desta resolução.
+L149: § 2º Os prejudicados por desídia ou má-fé poderão requerer, diretamente ao juízo da zona eleitoral em que forem inscritos, a inclusão de seu nome nos registros oficiais do partido, devendo instruir o pedido com documentos e informações que possam auxiliar no exame. cite20†(Redação dada pela Resolução nº 23.668/2021) L150: § 3º Autuado o requerimento a que se refere o § 2º deste artigo na classe Filiação Partidária (FP), o juiz realizará a citação do partido político para que se manifeste no prazo de 10 (dez) dias e, se existente ficha de filiação assinada pelo requerente, apresente-a em juízo. cite20†(Incluído pela Resolução nº 23.668/2021) L151: § 4º Reconhecida pelo partido a filiação ou comprovada esta por documentos, e desde que não haja indícios de fraude na data de filiação informada, o juízo deferirá o requerimento e promoverá o lançamento da filiação no FILIA, sendo o partido intimado do lançamento. cite20†(Incluído pela Resolução nº 23.668/2021) L152: § 5º A classe processual a que se refere o § 3º deste artigo compreende os procedimentos administrativos que versam sobre questões relacionadas ao procedimento da filiação partidária e ao encaminhamento de dados de filiados à Justiça Eleitoral. cite20†(Incluído pela Resolução nº 23.668/2021) L153: Art. 12. As relações de filiados deverão ser elaboradas pelo partido em aplicação específica do Módulo Externo do FILIA e submetidas à Justiça Eleitoral pela rede mundial de computadores, em ambiente próprio do sítio eletrônico do TSE reservado aos partidos políticos.
+L154: Art. 12. A inserção dos dados dos filiados deverá ser realizada pelo partido em aplicação específica do Módulo Externo do FILIA, pela rede mundial de computadores, em ambiente próprio do sítio eletrônico do TSE reservado aos partidos políticos. cite20†(Redação dada pela Resolução nº 23.668/2021) L155: 
+L156: Parágrafo único. Para efeito do disposto nesta resolução, adotar-se-á a seguinte nomenclatura:
+L157: § 1º Para efeito do disposto nesta Resolução, adotar-se-ão as seguintes nomenclaturas: cite20†(Redação dada pela Resolução nº 23.668/2021) L158: 
+L159: I - relação ordinária relação cujos dados serão fornecidos pelos partidos políticos nos meses de abril e outubro de cada ano;
+L160: 
+L161: I - registro interno: conjunto de dados de filiados cadastrados pelo partido político Módulo Externo do FILIA para fins de processamento pela Justiça Eleitoral; cite20†(Redação dada pela Resolução nº 23.668/2021) L162: II - relação especial relação cujos dados serão fornecidos pelos partidos políticos em cumprimento a determinação judicial, nos termos do § 2º do art. 11 desta resolução, que será efetivada, no Módulo Interno do FILIA, pelo cartório eleitoral;
+L163: 
+L164: II - registro oficial: conjunto de dados de filiados constantes da base oficial do FILIA, após a realização do processamento, e que servem para o atendimento das finalidades previstas no art. 11 desta Resolução. cite20†(Redação dada pela Resolução nº 23.668/2021) L165: III - relação interna conjunto de dados de eleitores filiados a partido político, relativos a um município e zona eleitoral, destinada ao gerenciamento pelo órgão partidário responsável por seu fornecimento à Justiça Eleitoral; cite20†(Revogado pela Resolução nº 23.668/2021) L166: 
+L167: III - processamento: conversão das filiações cadastradas no registro interno dos partidos para o registro oficial da Justiça Eleitoral. cite20†(Incluído pela Resolução nº 23.668/2021) L168: IV - relação submetida relação interna liberada pelo órgão partidário para processamento pela Justiça Eleitoral; cite20†(Revogado pela Resolução nº 23.668/2021) L169: 
+L170: V - relação fechada situação da relação submetida pelo órgão partidário após o encerramento do prazo legal para fornecimento dos dados à Justiça Eleitoral; cite20†(Revogado pela Resolução nº 23.668/2021) L171: VI - relação oficial relação fechada que, desconsiderados eventuais erros pelo processamento de que trata o art. 19 desta resolução, será publicada pela Justiça Eleitoral e cujos dados servirão de base para o cumprimento das finalidades legais. cite20†(Revogado pela Resolução nº 23.668/2021) L172: 
+L173: VII - filiação regular: constante do registro oficial da Justiça Eleitoral e relativa a eleitor que esteja no pleno exercício dos direitos políticos. cite20†(Incluído pela Resolução nº 23.668/2021) L174: VIII - filiação sub judice: com pendência em razão da existência de outro(s) registro(s) com idêntica data de filiação, consoante art. 23 desta Resolução. cite20†(Incluído pela Resolução nº 23.668/2021) L175: 
+L176: § 2º O processamento dos registros de filiação partidária será automático e diário, devendo constar do registro oficial até o dia subsequente à inserção da informação no FILIA. cite20†(Incluído pela Resolução nº 23.668/2021) L177: Art. 12-A. Nos processamentos diários, será verificada a ocorrência de erros nos registros, bem assim a coexistência de filiações partidárias. cite20†(Incluído pela Resolução nº 23.668/2021) L178: 
+L179: Parágrafo único. Desconsiderados os erros verificados, o sistema converterá as filiações para o registro oficial. cite20†(Incluído pela Resolução nº 23.668/2021) L180: Art. 13. No momento da elaboração das relações ordinária e especial será informada pelo sistema a ocorrência de eventual erro no registro de dados cadastrais do filiado, o que impedirá sua inclusão na relação oficial até que providenciada a correção pelo partido.
+L181: Art. 13. No momento do registro da filiação, será informada pelo sistema a ocorrência de eventual erro nos dados cadastrais do filiado, o que impedirá sua inclusão até que providenciada a correção pelo partido. cite20†(Redação dada pela Resolução nº 23.668/2021) L182: Art. 14. A comunicação dos cronogramas de processamento de listas de filiação partidária, definidos pela Presidência do TSE mediante portaria, será realizada via sistema, com visualização a todos os usuários, e via correio eletrônico (e-mail), aos Diretórios Nacionais, que replicarão a informação aos órgãos partidários a eles vinculados. cite20†(Revogado pela Resolução nº 23.668/2021) L183: Art. 14-A. O adequado registro da filiação partidária no sistema eletrônico será de inteira responsabilidade do órgão partidário. cite20†(Incluído pela Resolução nº 23.668/2021) L184: 
+L185: § 1º Os riscos de defeito de transmissão ou de recepção correrão à conta do usuário e não escusarão o cumprimento dos prazos legais, cabendo ao interessado certificar-se da regularidade da recepção, ressalvada a hipótese de indisponibilidade do sistema. cite20†(Incluído pela Resolução nº 23.668/2021) L186: § 2º No primeiro dia útil de cada mês, a Secretaria de Tecnologia da Informação do TSE disponibilizará, no sítio eletrônico do Tribunal, Relatório de Indisponibilidade do Sistema de Filiação Partidária. cite20†(Incluído pela Resolução nº 23.668/2021) L187: § 3º Verificada indisponibilidade do sistema que impossibilite o cumprimento do prazo do art. 11, § 1º, desta Resolução pelo partido, poderá o juiz eleitoral, ao exame de petição autuada na Classe Filiação Partidária (FP), determinar que o Cartório Eleitoral proceda nos termos do art. 11, § 2º. cite20†(Incluído pela Resolução nº 23.668/2021) L188: Art. 15. A submissão de relações ordinárias de filiados poderá ocorrer a qualquer tempo até o fim do prazo para entrega das relações a que se refere o cite19†art. 19 da Lei nº 9.096/1995†www.planalto.gov.br , a partir do qual será processada a última relação submetida pelo partido. cite20†(Revogado pela Resolução nº 23.668/2021) L189: § 1º No último dia do prazo fixado, a submissão de relações de filiados dos partidos políticos pela rede mundial de computadores dar-se-á até as 23h59, observado o horário de Brasília. cite20†(Revogado pela Resolução nº 23.668/2021) L190: § 2º Ultrapassado o horário estabelecido no § 1º deste artigo, a submissão de relação de filiados somente será possível depois de findo o prazo do processamento de que trata o art. 19 desta resolução, caso em que surtirá efeitos apenas no próximo prazo ordinário de envio de listas, constante do art. 11 desta resolução. cite20†(Revogado pela Resolução nº 23.668/2021) L191: § 3º Uma vez submetida a relação interna, o partido pode continuar registrando filiações até o prazo final especificado no § 1º deste artigo, sem a necessidade de nova submissão. cite20†(Revogado pela Resolução nº 23.668/2021) L192: 
+L193: Art. 16. As relações especiais, submetidas à Justiça Eleitoral em atendimento do disposto no § 2º do art. 11 desta resolução, serão processadas em procedimento próprio nos meses de junho e dezembro. cite20†(Revogado pela Resolução nº 23.668/2021) L194: § 1º O pedido a que se refere o caput deste artigo deverá ser encaminhado ao juízo do domicílio eleitoral do filiado, que decidirá a respeito da determinação ao partido para fins de submissão pelo FILIA da relação de filiados para processamento especial. cite20†(Revogado pela Resolução nº 23.668/2021) L195: § 2º Deferido o pedido de que trata o § 1º deste artigo, o servidor do cartório eleitoral deverá acessar o FILIA e autorizar o processamento especial da lista apresentada. cite20†(Revogado pela Resolução nº 23.668/2021) L196: 
+L197: § 3º O requerimento mencionado no § 2º do art. 11 desta resolução deverá ser autuado na classe processual Filiação Partidária (FP). cite20†(Revogado pela Resolução nº 23.668/2021) L198: § 4º A classe processual a que se refere o § 3º deste artigo compreende os procedimentos administrativos e judiciais que versam sobre questões relacionadas ao procedimento da filiação partidária e ao encaminhamento de dados de filiados à Justiça Eleitoral. cite20†(Revogado pela Resolução nº 23.668/2021) L199: 
+L200: Art. 17. A adequada e tempestiva submissão das relações de filiados pelo sistema eletrônico será de inteira responsabilidade do órgão partidário. cite20†(Revogado pela Resolução nº 23.668/2021) L201: § 1º Os riscos de defeito de transmissão ou de recepção correrão à conta do usuário e não escusarão o cumprimento dos prazos legais, cabendo ao interessado certificar-se da regularidade da recepção, ressalvada a hipótese de indisponibilidade do sistema. cite20†(Revogado pela Resolução nº 23.668/2021) L202: § 2º No dia seguinte ao término dos prazos para envio das relações de filiação partidária, a Secretaria de Tecnologia da Informação do TSE disponibilizará, no sítio eletrônico do Tribunal, Relatório de Indisponibilidade do Sistema de Filiação Partidária. cite20†(Revogado pela Resolução nº 23.668/2021) L203: § 3º Verificada indisponibilidade do sistema que impossibilite o cumprimento do prazo pelo partido, poderá o juiz eleitoral, ao exame de petição autuada na Classe Filiação Partidária (FP), autorizar o recebimento da lista nos termos do art. 11, § 2º, desta resolução. cite20†(Revogado pela Resolução nº 23.668/2021) L204: Art. 18. Expirado o prazo legal destinado à entrega dos dados, a relação interna submetida pelo partido terá sua situação modificada para fechada, a partir da qual o sistema gerará nova relação interna, de idêntico conteúdo, para posteriores alterações pelo órgão partidário responsável. cite20†(Revogado pela Resolução nº 23.668/2021) L205: Art. 19. No processamento das relações ordinárias e de eventuais relações especiais de filiados pela Justiça Eleitoral, será verificada a ocorrência de erros nos registros, bem assim a coexistência de filiações partidárias. cite20†(Revogado pela Resolução nº 23.668/2021) L206: 
+L207: Parágrafo único. Desconsiderados pelo processamento os erros constantes da relação fechada, o sistema a converterá em relação oficial. cite20†(Revogado pela Resolução nº 23.668/2021) L208: Art. 20. A prova da filiação partidária, inclusive com vista à candidatura a cargo eletivo, será feita com base na última relação oficial de eleitores recebida e armazenada no sistema de filiação.
+L209: 
+L210: Art. 20. A prova da filiação partidária, inclusive com vista à candidatura a cargo eletivo, será feita com base nos registros oficiais do FILIA. cite20†(Redação dada pela Resolução nº 23.668/2021) L211: Parágrafo único. A omissão do nome do filiado na última relação entregue à Justiça Eleitoral ou o mero registro de sua desfiliação perante o órgão partidário não descaracteriza a filiação partidária, cuja desfiliação somente se efetivará com a comunicação escrita ao juiz da zona em que for inscrito, nos termos da lei. cite20†(Revogado pela Resolução nº 23.668/2021) L212: § 1º No processo de registro de candidatura, a certificação do preenchimento da condição de elegibilidade prevista no inciso V do § 3º do art. 14 da Constituição, pela Justiça Eleitoral, considerará as filiações datadas de até seis meses antes do primeiro turno da eleição e que tenham sido registradas no FILIA na forma do § 1º do art. 11 desta Resolução (Lei nº 9.504/97, art. 9º e art. 11, § 1º, III, c/c § 13). cite20†(Incluído pela Resolução nº 23.668/2021) L213: § 2º Inexistindo registro no FILIA que atenda ao disposto no § 1º deste artigo, a prova de filiação partidária deverá ser realizada por outros elementos de convicção, no próprio processo de registro de candidatura ou na forma do § 2º do art. 11 desta Resolução, não se admitindo para tal finalidade documentos produzidos unilateralmente, destituídos de fé pública ( cite19†Lei nº 9.096/1995, art. 19†www.planalto.gov.br ; cite22†Súmula nº 20/TSE ). cite20†(Incluído pela Resolução nº 23.668/2021) L214: 
+L215: CAPÍTULO V
+L216: DO CANCELAMENTO DE FILIAÇÕES PARTIDÁRIAS
+L217: 
+L218: DO CANCELAMENTO E DA SUSPENSÃO DE FILIAÇÕES PARTIDÁRIAS cite20†(Redação dada pela Resolução nº 23.668/2021) L219: 
+L220: Art. 21. São hipóteses de cancelamento imediato da filiação cite23†(Lei nº 9.096/1995, art. 22, I a V)†www.planalto.gov.br :
+L221: 
+L222: I - morte;
+L223: 
+L224: II - perda dos direitos políticos;
+L225: 
+L226: III - expulsão;
+L227: 
+L228: IV - outras formas previstas no estatuto, com comunicação obrigatória ao atingido no prazo de quarenta e oito horas da decisão;
+L229: V - filiação a outro partido, desde que a pessoa comunique o fato ao juiz da respectiva zona eleitoral.
+L230: 
+L231: V - filiação a outro partido, observado o disposto nos arts. 22 e 23 desta Resolução. cite20†(Redação dada pela Resolução nº 23.668/2021) L232: 
+L233: § 1º O cancelamento da filiação partidária será registrado no FILIA pela Justiça Eleitoral nas hipóteses previstas nos incisos I, II e V do caput deste artigo.
+L234: § 2º O partido político deverá inserir no FILIA o cancelamento da filiação partidária nas hipóteses previstas nos incisos III e IV do caput deste artigo, com comunicação ao respectivo Juízo Eleitoral, mantendo a documentação para comprovação do evento e da comunicação prévia ao filiado, se necessário.
+L235: 
+L236: § 3º Em caso de coexistência de filiações partidárias, deverão ser observadas as disposições do Capítulo VI desta resolução.

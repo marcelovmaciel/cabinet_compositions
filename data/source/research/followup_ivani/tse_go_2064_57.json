@@ -1,0 +1,16 @@
+{
+  "party": "AGIR",
+  "id": 57,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 273,
+      "totalElements": 273,
+      "response_sha256": "021af02ec4f63ddfa1323f577ca159fd061fd1f4b7386d0f52538ae7efb1c065",
+      "retrieved_utc": "2026-09-10T23:35:27Z"
+    }
+  ],
+  "matches": []
+}

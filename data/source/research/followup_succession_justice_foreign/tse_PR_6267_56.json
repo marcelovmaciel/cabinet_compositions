@@ -1,0 +1,17 @@
+{
+  "party": "PSDB",
+  "id": 56,
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "Londrina",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=56&currentPage=0&pageSize=10000",
+      "records": 3046,
+      "totalElements": 3046,
+      "response_sha256": "30e5cdbcb7e4e2b91e3e8c1c51086c44613aa6c0aca6c10405e13bf1b07879de",
+      "retrieved_utc": "2026-09-10T23:40:02Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,11 @@
+{
+  "source_url": "https://www.gov.br/mme/pt-br/arquivos/do-06-01-2010-s3.pdf",
+  "source_type": "official DOU hosted by MME, exact-name and named federal role indexed excerpt retained in web_013",
+  "source_date": "2010-01-06",
+  "name": "CARLOS HENRIQUE MENEZES SOBRAL",
+  "official_role": "Secretario de Desenvolvimento do Centro-Oeste",
+  "public_identity_sha256": "375761f745aab380838f0437580d38f94127924894c43b1e7fd1f82b087e674e",
+  "mask": "***.630.675-**",
+  "later_official_mask_locator": "https://portaldatransparencia.gov.br/viagens/212767287",
+  "limitation": "Used only for identity-linked positive lookup; absence cannot establish 2018 non-affiliation."
+}

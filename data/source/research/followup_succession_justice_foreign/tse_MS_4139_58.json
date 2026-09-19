@@ -1,0 +1,17 @@
+{
+  "party": "NOVO",
+  "id": 58,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 938,
+      "totalElements": 938,
+      "response_sha256": "21d9f516a5378eec91ea994b4bd35cd988a2015d0be13546f7361beb1767625f",
+      "retrieved_utc": "2026-09-10T23:40:14Z"
+    }
+  ],
+  "matches": []
+}

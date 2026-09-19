@@ -1,0 +1,16 @@
+{
+  "party": "PSOL",
+  "id": 63,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 1043,
+      "totalElements": 1043,
+      "response_sha256": "36874eb25de1a823d808714dfbcb02473a240d65e61d0dd86b39ec0ea4b3fd39",
+      "retrieved_utc": "2026-09-10T23:36:45Z"
+    }
+  ],
+  "matches": []
+}

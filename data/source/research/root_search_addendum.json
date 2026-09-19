@@ -1,0 +1,42 @@
+[
+  {
+    "evidence_id": "ROOT-CASIMIRO-APR13",
+    "entity": "Valter Casimiro Silveira",
+    "source_locator": "https://www.hnt.com.br/no-de-cachorro/ferrovia-em-pauta/94279",
+    "publisher": "HiperNotícias",
+    "publication_date": "2018-04-13",
+    "retrieval_date": "2026-09-10",
+    "access_status": "search-index full article text inspected; direct web open failed Cache miss",
+    "assertion": "Contemporaneous report of Rondonopolis visit labels Valter Casimiro PR, beyond merely stating nomination.",
+    "treatment": "Contradictory personal party label; does not prove an effective later change."
+  },
+  {
+    "evidence_id": "ROOT-CASIMIRO-JUL11",
+    "entity": "Valter Casimiro Silveira; Wagner Rosario",
+    "source_locator": "https://noticias.uol.com.br/politica/ultimas-noticias/2018/07/11/a-menos-de-seis-meses-de-fim-do-governo-temer-tem-58-ministro.amp.htm",
+    "publisher": "UOL",
+    "publication_date": "2018-07-11",
+    "retrieval_date": "2026-09-10",
+    "access_status": "search-index roster text inspected; direct web open failed Cache miss",
+    "assertion": "Current cabinet roster explicitly identifies Valter Casimiro and Wagner Rosario as unaffiliated.",
+    "treatment": "Current dated personal status; no automatic backward extrapolation to entry."
+  },
+  {
+    "evidence_id": "ROOT-NEGATIVE-SEARCH",
+    "entity": "Bruno Bianco; Jose Levi; Wagner Rosario; Valter Casimiro",
+    "publication_date": "",
+    "retrieval_date": "2026-09-10",
+    "access_status": "targeted queries inspected",
+    "queries": [
+      "Valter Casimiro sem partido 2018",
+      "Valter Casimiro filiado 2018",
+      "Valter Casimiro sem filiacao",
+      "Bruno Bianco sem partido 2021",
+      "Bruno Bianco filiacao partidaria",
+      "Jose Levi sem partido 2020",
+      "Wagner Rosario sem partido 2017"
+    ],
+    "assertion": "Many Bianco/Levi search hits use sem partido for Bolsonaro, not the officeholder. Do not misattribute those statuses. Casimiro party-nomination reports do not establish membership.",
+    "treatment": "No new evidence of Bianco/Levi formal affiliation status from these searches."
+  }
+]

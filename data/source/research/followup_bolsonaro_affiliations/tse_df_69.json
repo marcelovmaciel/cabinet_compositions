@@ -1,0 +1,21 @@
+{
+  "party": "PP",
+  "id": 69,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=69&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 17537,
+      "response_sha256": "80a5204714958919448ba725d407f95387e1fa78756b27174135f76dc1a0f1b0",
+      "retrieved_utc": "2026-09-10T23:35:43Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=69&currentPage=1&pageSize=10000",
+      "records": 7537,
+      "totalElements": 17537,
+      "response_sha256": "8986ce2ee7ac72159b043f26a84c0fbf428ce556ded9cf3c0fcf7e5e2a07107e",
+      "retrieved_utc": "2026-09-10T23:36:02Z"
+    }
+  ],
+  "matches": []
+}

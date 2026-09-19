@@ -1,0 +1,6463 @@
+[
+  {
+    "codLocalidadeTse": 88986,
+    "codObjeto": "9924699102401",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ACEGUÁ"
+  },
+  {
+    "codLocalidadeTse": 85014,
+    "codObjeto": "7392",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "AGUDO"
+  },
+  {
+    "codLocalidadeTse": 85030,
+    "codObjeto": "7393",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "AJURICABA"
+  },
+  {
+    "codLocalidadeTse": 85057,
+    "codObjeto": "7395",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ALECRIM"
+  },
+  {
+    "codLocalidadeTse": 85073,
+    "codObjeto": "7396",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ALEGRETE"
+  },
+  {
+    "codLocalidadeTse": 85545,
+    "codObjeto": "7397",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ALEGRIA"
+  },
+  {
+    "codLocalidadeTse": 89001,
+    "codObjeto": "9924699102402",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ALMIRANTE TAMANDARÉ DO SUL"
+  },
+  {
+    "codLocalidadeTse": 85090,
+    "codObjeto": "7400",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ALPESTRE"
+  },
+  {
+    "codLocalidadeTse": 84808,
+    "codObjeto": "7401",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ALTO ALEGRE"
+  },
+  {
+    "codLocalidadeTse": 86282,
+    "codObjeto": "7404",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ALTO FELIZ"
+  },
+  {
+    "codLocalidadeTse": 85111,
+    "codObjeto": "7408",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ALVORADA"
+  },
+  {
+    "codLocalidadeTse": 86045,
+    "codObjeto": "7409",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "AMARAL FERRADOR"
+  },
+  {
+    "codLocalidadeTse": 86304,
+    "codObjeto": "7410",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "AMETISTA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 86100,
+    "codObjeto": "7411",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ANDRÉ DA ROCHA"
+  },
+  {
+    "codLocalidadeTse": 85138,
+    "codObjeto": "7412",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ANTA GORDA"
+  },
+  {
+    "codLocalidadeTse": 85154,
+    "codObjeto": "7414",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ANTÔNIO PRADO"
+  },
+  {
+    "codLocalidadeTse": 86320,
+    "codObjeto": "7415",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ARAMBARÉ"
+  },
+  {
+    "codLocalidadeTse": 88862,
+    "codObjeto": "7416",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ARARICÁ"
+  },
+  {
+    "codLocalidadeTse": 85170,
+    "codObjeto": "7417",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ARATIBA"
+  },
+  {
+    "codLocalidadeTse": 85197,
+    "codObjeto": "7421",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ARROIO DO MEIO"
+  },
+  {
+    "codLocalidadeTse": 89028,
+    "codObjeto": "9924699102403",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ARROIO DO PADRE"
+  },
+  {
+    "codLocalidadeTse": 85308,
+    "codObjeto": "7423",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ARROIO DO SAL"
+  },
+  {
+    "codLocalidadeTse": 85235,
+    "codObjeto": "7425",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ARROIO DO TIGRE"
+  },
+  {
+    "codLocalidadeTse": 85219,
+    "codObjeto": "7426",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ARROIO DOS RATOS"
+  },
+  {
+    "codLocalidadeTse": 85251,
+    "codObjeto": "7427",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ARROIO GRANDE"
+  },
+  {
+    "codLocalidadeTse": 85278,
+    "codObjeto": "7431",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ARVOREZINHA"
+  },
+  {
+    "codLocalidadeTse": 85294,
+    "codObjeto": "7434",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "AUGUSTO PESTANA"
+  },
+  {
+    "codLocalidadeTse": 85316,
+    "codObjeto": "7439",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BAGÉ"
+  },
+  {
+    "codLocalidadeTse": 88927,
+    "codObjeto": "7441",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BALNEÁRIO PINHAL"
+  },
+  {
+    "codLocalidadeTse": 86363,
+    "codObjeto": "7446",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BARRA DO GUARITA"
+  },
+  {
+    "codLocalidadeTse": 88625,
+    "codObjeto": "7448",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BARRA DO QUARAÍ"
+  },
+  {
+    "codLocalidadeTse": 85375,
+    "codObjeto": "7449",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BARRA DO RIBEIRO"
+  },
+  {
+    "codLocalidadeTse": 86380,
+    "codObjeto": "7450",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BARRA DO RIO AZUL"
+  },
+  {
+    "codLocalidadeTse": 86401,
+    "codObjeto": "7451",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BARRA FUNDA"
+  },
+  {
+    "codLocalidadeTse": 85359,
+    "codObjeto": "7452",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BARRACÃO"
+  },
+  {
+    "codLocalidadeTse": 85391,
+    "codObjeto": "7458",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BARROS CASSAL"
+  },
+  {
+    "codLocalidadeTse": 86223,
+    "codObjeto": "7443",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BARÃO"
+  },
+  {
+    "codLocalidadeTse": 85332,
+    "codObjeto": "7444",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BARÃO DE COTEGIPE"
+  },
+  {
+    "codLocalidadeTse": 86347,
+    "codObjeto": "7445",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BARÃO DO TRIUNFO"
+  },
+  {
+    "codLocalidadeTse": 88420,
+    "codObjeto": "7465",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BENJAMIN CONSTANT DO SUL"
+  },
+  {
+    "codLocalidadeTse": 85413,
+    "codObjeto": "7466",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BENTO GONÇALVES"
+  },
+  {
+    "codLocalidadeTse": 86428,
+    "codObjeto": "7472",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BOA VISTA DAS MISSÕES"
+  },
+  {
+    "codLocalidadeTse": 85430,
+    "codObjeto": "7473",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BOA VISTA DO BURICÁ"
+  },
+  {
+    "codLocalidadeTse": 89044,
+    "codObjeto": "9924699102404",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BOA VISTA DO CADEADO"
+  },
+  {
+    "codLocalidadeTse": 89060,
+    "codObjeto": "9924699102405",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BOA VISTA DO INCRA"
+  },
+  {
+    "codLocalidadeTse": 88161,
+    "codObjeto": "7476",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BOA VISTA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 85456,
+    "codObjeto": "7481",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BOM JESUS"
+  },
+  {
+    "codLocalidadeTse": 98230,
+    "codObjeto": "7482",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BOM PRINCÍPIO"
+  },
+  {
+    "codLocalidadeTse": 86444,
+    "codObjeto": "7483",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BOM PROGRESSO"
+  },
+  {
+    "codLocalidadeTse": 85472,
+    "codObjeto": "7486",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BOM RETIRO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 84921,
+    "codObjeto": "7490",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BOQUEIRÃO DO LEÃO"
+  },
+  {
+    "codLocalidadeTse": 85499,
+    "codObjeto": "7492",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BOSSOROCA"
+  },
+  {
+    "codLocalidadeTse": 89087,
+    "codObjeto": "9924699102406",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BOZANO"
+  },
+  {
+    "codLocalidadeTse": 85510,
+    "codObjeto": "7494",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BRAGA"
+  },
+  {
+    "codLocalidadeTse": 85065,
+    "codObjeto": "7495",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BROCHIER"
+  },
+  {
+    "codLocalidadeTse": 85537,
+    "codObjeto": "7497",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "BUTIÁ"
+  },
+  {
+    "codLocalidadeTse": 85570,
+    "codObjeto": "7500",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CACEQUI"
+  },
+  {
+    "codLocalidadeTse": 85596,
+    "codObjeto": "7501",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CACHOEIRA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 85618,
+    "codObjeto": "7502",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CACHOEIRINHA"
+  },
+  {
+    "codLocalidadeTse": 85634,
+    "codObjeto": "7503",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CACIQUE DOBLE"
+  },
+  {
+    "codLocalidadeTse": 85650,
+    "codObjeto": "7505",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAIBATÉ"
+  },
+  {
+    "codLocalidadeTse": 85677,
+    "codObjeto": "7506",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAIÇARA"
+  },
+  {
+    "codLocalidadeTse": 85693,
+    "codObjeto": "7507",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAMAQUÃ"
+  },
+  {
+    "codLocalidadeTse": 85960,
+    "codObjeto": "7508",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAMARGO"
+  },
+  {
+    "codLocalidadeTse": 85715,
+    "codObjeto": "7509",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAMBARÁ DO SUL"
+  },
+  {
+    "codLocalidadeTse": 86460,
+    "codObjeto": "7512",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAMPESTRE DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 85731,
+    "codObjeto": "7513",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAMPINA DAS MISSÕES"
+  },
+  {
+    "codLocalidadeTse": 85758,
+    "codObjeto": "7516",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAMPINAS DO SUL"
+  },
+  {
+    "codLocalidadeTse": 85774,
+    "codObjeto": "7517",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAMPO BOM"
+  },
+  {
+    "codLocalidadeTse": 85790,
+    "codObjeto": "7520",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAMPO NOVO"
+  },
+  {
+    "codLocalidadeTse": 85200,
+    "codObjeto": "7525",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAMPOS BORGES"
+  },
+  {
+    "codLocalidadeTse": 85812,
+    "codObjeto": "7526",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CANDELÁRIA"
+  },
+  {
+    "codLocalidadeTse": 86487,
+    "codObjeto": "7529",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CANDIOTA"
+  },
+  {
+    "codLocalidadeTse": 85855,
+    "codObjeto": "7530",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CANELA"
+  },
+  {
+    "codLocalidadeTse": 85871,
+    "codObjeto": "7531",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CANGUÇU"
+  },
+  {
+    "codLocalidadeTse": 85898,
+    "codObjeto": "7533",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CANOAS"
+  },
+  {
+    "codLocalidadeTse": 89109,
+    "codObjeto": "9924699102407",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CANUDOS DO VALE"
+  },
+  {
+    "codLocalidadeTse": 84891,
+    "codObjeto": "7544",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAPELA DE SANTANA"
+  },
+  {
+    "codLocalidadeTse": 86509,
+    "codObjeto": "7547",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAPITÃO"
+  },
+  {
+    "codLocalidadeTse": 88200,
+    "codObjeto": "7548",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAPIVARI DO SUL"
+  },
+  {
+    "codLocalidadeTse": 89125,
+    "codObjeto": "9924699102408",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAPÃO BONITO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 89150,
+    "codObjeto": "7539",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAPÃO DA CANOA"
+  },
+  {
+    "codLocalidadeTse": 89141,
+    "codObjeto": "9924699102409",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAPÃO DO CIPÓ"
+  },
+  {
+    "codLocalidadeTse": 89737,
+    "codObjeto": "7543",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAPÃO DO LEÃO"
+  },
+  {
+    "codLocalidadeTse": 85910,
+    "codObjeto": "7554",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CARAZINHO"
+  },
+  {
+    "codLocalidadeTse": 88340,
+    "codObjeto": "7552",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CARAÁ"
+  },
+  {
+    "codLocalidadeTse": 85936,
+    "codObjeto": "7555",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CARLOS BARBOSA"
+  },
+  {
+    "codLocalidadeTse": 86525,
+    "codObjeto": "7556",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CARLOS GOMES"
+  },
+  {
+    "codLocalidadeTse": 85952,
+    "codObjeto": "7558",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CASCA"
+  },
+  {
+    "codLocalidadeTse": 85880,
+    "codObjeto": "7561",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CASEIROS"
+  },
+  {
+    "codLocalidadeTse": 85979,
+    "codObjeto": "7563",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CATUÍPE"
+  },
+  {
+    "codLocalidadeTse": 85995,
+    "codObjeto": "7566",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAXIAS DO SUL"
+  },
+  {
+    "codLocalidadeTse": 85553,
+    "codObjeto": "7499",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CAÇAPAVA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 86541,
+    "codObjeto": "7569",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CENTENÁRIO"
+  },
+  {
+    "codLocalidadeTse": 88641,
+    "codObjeto": "7572",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CERRITO"
+  },
+  {
+    "codLocalidadeTse": 86088,
+    "codObjeto": "7576",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CERRO BRANCO"
+  },
+  {
+    "codLocalidadeTse": 85227,
+    "codObjeto": "7580",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CERRO GRANDE"
+  },
+  {
+    "codLocalidadeTse": 85944,
+    "codObjeto": "7581",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CERRO GRANDE DO SUL"
+  },
+  {
+    "codLocalidadeTse": 86010,
+    "codObjeto": "7582",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CERRO LARGO"
+  },
+  {
+    "codLocalidadeTse": 86037,
+    "codObjeto": "7583",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CHAPADA"
+  },
+  {
+    "codLocalidadeTse": 86932,
+    "codObjeto": "7585",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CHARQUEADAS"
+  },
+  {
+    "codLocalidadeTse": 86568,
+    "codObjeto": "7586",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CHARRUA"
+  },
+  {
+    "codLocalidadeTse": 86053,
+    "codObjeto": "7587",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CHIAPETTA"
+  },
+  {
+    "codLocalidadeTse": 88269,
+    "codObjeto": "7592",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CHUVISCA"
+  },
+  {
+    "codLocalidadeTse": 88846,
+    "codObjeto": "7591",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CHUÍ"
+  },
+  {
+    "codLocalidadeTse": 85804,
+    "codObjeto": "7593",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CIDREIRA"
+  },
+  {
+    "codLocalidadeTse": 86070,
+    "codObjeto": "7595",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CIRÍACO"
+  },
+  {
+    "codLocalidadeTse": 86584,
+    "codObjeto": "7599",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "COLINAS"
+  },
+  {
+    "codLocalidadeTse": 86096,
+    "codObjeto": "7607",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "COLORADO"
+  },
+  {
+    "codLocalidadeTse": 86118,
+    "codObjeto": "7609",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CONDOR"
+  },
+  {
+    "codLocalidadeTse": 86134,
+    "codObjeto": "7611",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CONSTANTINA"
+  },
+  {
+    "codLocalidadeTse": 89168,
+    "codObjeto": "9924699102410",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "COQUEIRO BAIXO"
+  },
+  {
+    "codLocalidadeTse": 86606,
+    "codObjeto": "7613",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "COQUEIROS DO SUL"
+  },
+  {
+    "codLocalidadeTse": 86622,
+    "codObjeto": "7616",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CORONEL BARROS"
+  },
+  {
+    "codLocalidadeTse": 86150,
+    "codObjeto": "7617",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CORONEL BICACO"
+  },
+  {
+    "codLocalidadeTse": 89184,
+    "codObjeto": "9924699102411",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CORONEL PILAR"
+  },
+  {
+    "codLocalidadeTse": 89770,
+    "codObjeto": "7624",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "COTIPORÃ"
+  },
+  {
+    "codLocalidadeTse": 86649,
+    "codObjeto": "7625",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "COXILHA"
+  },
+  {
+    "codLocalidadeTse": 86177,
+    "codObjeto": "7628",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CRISSIUMAL"
+  },
+  {
+    "codLocalidadeTse": 85464,
+    "codObjeto": "7629",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CRISTAL"
+  },
+  {
+    "codLocalidadeTse": 88528,
+    "codObjeto": "7630",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CRISTAL DO SUL"
+  },
+  {
+    "codLocalidadeTse": 86193,
+    "codObjeto": "7632",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CRUZ ALTA"
+  },
+  {
+    "codLocalidadeTse": 89206,
+    "codObjeto": "9924699102412",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CRUZALTENSE"
+  },
+  {
+    "codLocalidadeTse": 86215,
+    "codObjeto": "7635",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CRUZEIRO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 85839,
+    "codObjeto": "7528",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "CÂNDIDO GODÓI"
+  },
+  {
+    "codLocalidadeTse": 86231,
+    "codObjeto": "7642",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "DAVID CANABARRO"
+  },
+  {
+    "codLocalidadeTse": 86665,
+    "codObjeto": "7646",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "DERRUBADAS"
+  },
+  {
+    "codLocalidadeTse": 85049,
+    "codObjeto": "7647",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "DEZESSEIS DE NOVEMBRO"
+  },
+  {
+    "codLocalidadeTse": 88188,
+    "codObjeto": "7648",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "DILERMANDO DE AGUIAR"
+  },
+  {
+    "codLocalidadeTse": 86258,
+    "codObjeto": "7650",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "DOIS IRMÃOS"
+  },
+  {
+    "codLocalidadeTse": 86681,
+    "codObjeto": "7651",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "DOIS IRMÃOS DAS MISSÕES"
+  },
+  {
+    "codLocalidadeTse": 84824,
+    "codObjeto": "7652",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "DOIS LAJEADOS"
+  },
+  {
+    "codLocalidadeTse": 86274,
+    "codObjeto": "7654",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "DOM FELICIANO"
+  },
+  {
+    "codLocalidadeTse": 86290,
+    "codObjeto": "7656",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "DOM PEDRITO"
+  },
+  {
+    "codLocalidadeTse": 88463,
+    "codObjeto": "7657",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "DOM PEDRO DE ALCÂNTARA"
+  },
+  {
+    "codLocalidadeTse": 86312,
+    "codObjeto": "7658",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "DONA FRANCISCA"
+  },
+  {
+    "codLocalidadeTse": 84883,
+    "codObjeto": "7663",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "DOUTOR MAURÍCIO CARDOSO"
+  },
+  {
+    "codLocalidadeTse": 88307,
+    "codObjeto": "7664",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "DOUTOR RICARDO"
+  },
+  {
+    "codLocalidadeTse": 86240,
+    "codObjeto": "7665",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ELDORADO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 86339,
+    "codObjeto": "7667",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ENCANTADO"
+  },
+  {
+    "codLocalidadeTse": 86355,
+    "codObjeto": "7669",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ENCRUZILHADA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 86703,
+    "codObjeto": "7670",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ENGENHO VELHO"
+  },
+  {
+    "codLocalidadeTse": 85928,
+    "codObjeto": "7671",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ENTRE RIOS DO SUL"
+  },
+  {
+    "codLocalidadeTse": 85103,
+    "codObjeto": "7672",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ENTRE-IJUÍS"
+  },
+  {
+    "codLocalidadeTse": 85081,
+    "codObjeto": "7674",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "EREBANGO"
+  },
+  {
+    "codLocalidadeTse": 86371,
+    "codObjeto": "7675",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ERECHIM"
+  },
+  {
+    "codLocalidadeTse": 85022,
+    "codObjeto": "7676",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ERNESTINA"
+  },
+  {
+    "codLocalidadeTse": 86410,
+    "codObjeto": "7678",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ERVAL GRANDE"
+  },
+  {
+    "codLocalidadeTse": 86436,
+    "codObjeto": "7679",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ERVAL SECO"
+  },
+  {
+    "codLocalidadeTse": 86452,
+    "codObjeto": "7681",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ESMERALDA"
+  },
+  {
+    "codLocalidadeTse": 88285,
+    "codObjeto": "7682",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ESPERANÇA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 86479,
+    "codObjeto": "7687",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ESPUMOSO"
+  },
+  {
+    "codLocalidadeTse": 85286,
+    "codObjeto": "7694",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ESTAÇÃO"
+  },
+  {
+    "codLocalidadeTse": 86517,
+    "codObjeto": "7697",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ESTEIO"
+  },
+  {
+    "codLocalidadeTse": 86533,
+    "codObjeto": "7700",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ESTRELA"
+  },
+  {
+    "codLocalidadeTse": 88404,
+    "codObjeto": "7702",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ESTRELA VELHA"
+  },
+  {
+    "codLocalidadeTse": 86495,
+    "codObjeto": "7696",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ESTÂNCIA VELHA"
+  },
+  {
+    "codLocalidadeTse": 85448,
+    "codObjeto": "7703",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "EUGÊNIO DE CASTRO"
+  },
+  {
+    "codLocalidadeTse": 84930,
+    "codObjeto": "7705",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "FAGUNDES VARELA"
+  },
+  {
+    "codLocalidadeTse": 86550,
+    "codObjeto": "7710",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "FARROUPILHA"
+  },
+  {
+    "codLocalidadeTse": 86576,
+    "codObjeto": "7712",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "FAXINAL DO SOTURNO"
+  },
+  {
+    "codLocalidadeTse": 86029,
+    "codObjeto": "7713",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "FAXINALZINHO"
+  },
+  {
+    "codLocalidadeTse": 88366,
+    "codObjeto": "7716",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "FAZENDA VILANOVA"
+  },
+  {
+    "codLocalidadeTse": 86592,
+    "codObjeto": "7717",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "FELIZ"
+  },
+  {
+    "codLocalidadeTse": 86614,
+    "codObjeto": "7719",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "FLORES DA CUNHA"
+  },
+  {
+    "codLocalidadeTse": 88242,
+    "codObjeto": "7722",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "FLORIANO PEIXOTO"
+  },
+  {
+    "codLocalidadeTse": 86630,
+    "codObjeto": "7724",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "FONTOURA XAVIER"
+  },
+  {
+    "codLocalidadeTse": 86657,
+    "codObjeto": "7725",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "FORMIGUEIRO"
+  },
+  {
+    "codLocalidadeTse": 89222,
+    "codObjeto": "9924699102413",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "FORQUETINHA"
+  },
+  {
+    "codLocalidadeTse": 98272,
+    "codObjeto": "7729",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "FORTALEZA DOS VALOS"
+  },
+  {
+    "codLocalidadeTse": 86673,
+    "codObjeto": "7730",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "FREDERICO WESTPHALEN"
+  },
+  {
+    "codLocalidadeTse": 86690,
+    "codObjeto": "7733",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GARIBALDI"
+  },
+  {
+    "codLocalidadeTse": 86720,
+    "codObjeto": "7735",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GARRUCHOS"
+  },
+  {
+    "codLocalidadeTse": 86711,
+    "codObjeto": "7736",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GAURAMA"
+  },
+  {
+    "codLocalidadeTse": 86738,
+    "codObjeto": "7737",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GENERAL CÂMARA"
+  },
+  {
+    "codLocalidadeTse": 86746,
+    "codObjeto": "7738",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GENTIL"
+  },
+  {
+    "codLocalidadeTse": 86770,
+    "codObjeto": "7739",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GETÚLIO VARGAS"
+  },
+  {
+    "codLocalidadeTse": 86797,
+    "codObjeto": "7740",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GIRUÁ"
+  },
+  {
+    "codLocalidadeTse": 85502,
+    "codObjeto": "7742",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GLORINHA"
+  },
+  {
+    "codLocalidadeTse": 86819,
+    "codObjeto": "7744",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GRAMADO"
+  },
+  {
+    "codLocalidadeTse": 86762,
+    "codObjeto": "7745",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GRAMADO DOS LOUREIROS"
+  },
+  {
+    "codLocalidadeTse": 86789,
+    "codObjeto": "7747",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GRAMADO XAVIER"
+  },
+  {
+    "codLocalidadeTse": 86835,
+    "codObjeto": "7748",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GRAVATAÍ"
+  },
+  {
+    "codLocalidadeTse": 84867,
+    "codObjeto": "7749",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GUABIJU"
+  },
+  {
+    "codLocalidadeTse": 86878,
+    "codObjeto": "7752",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GUAPORÉ"
+  },
+  {
+    "codLocalidadeTse": 86894,
+    "codObjeto": "7753",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GUARANI DAS MISSÕES"
+  },
+  {
+    "codLocalidadeTse": 86851,
+    "codObjeto": "7750",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "GUAÍBA"
+  },
+  {
+    "codLocalidadeTse": 85189,
+    "codObjeto": "7755",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "HARMONIA"
+  },
+  {
+    "codLocalidadeTse": 86398,
+    "codObjeto": "7756",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "HERVAL"
+  },
+  {
+    "codLocalidadeTse": 88323,
+    "codObjeto": "7757",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "HERVEIRAS"
+  },
+  {
+    "codLocalidadeTse": 86916,
+    "codObjeto": "7759",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "HORIZONTINA"
+  },
+  {
+    "codLocalidadeTse": 86800,
+    "codObjeto": "7760",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "HULHA NEGRA"
+  },
+  {
+    "codLocalidadeTse": 86959,
+    "codObjeto": "7761",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "HUMAITÁ"
+  },
+  {
+    "codLocalidadeTse": 84972,
+    "codObjeto": "7762",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IBARAMA"
+  },
+  {
+    "codLocalidadeTse": 86975,
+    "codObjeto": "7764",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IBIAÇÁ"
+  },
+  {
+    "codLocalidadeTse": 86991,
+    "codObjeto": "7765",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IBIRAIARAS"
+  },
+  {
+    "codLocalidadeTse": 84964,
+    "codObjeto": "7766",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IBIRAPUITÃ"
+  },
+  {
+    "codLocalidadeTse": 87017,
+    "codObjeto": "7767",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IBIRUBÁ"
+  },
+  {
+    "codLocalidadeTse": 87033,
+    "codObjeto": "7768",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IGREJINHA"
+  },
+  {
+    "codLocalidadeTse": 87050,
+    "codObjeto": "7771",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IJUÍ"
+  },
+  {
+    "codLocalidadeTse": 87076,
+    "codObjeto": "7773",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ILÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 85685,
+    "codObjeto": "7774",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IMBÉ"
+  },
+  {
+    "codLocalidadeTse": 85782,
+    "codObjeto": "7775",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IMIGRANTE"
+  },
+  {
+    "codLocalidadeTse": 87092,
+    "codObjeto": "7776",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "INDEPENDÊNCIA"
+  },
+  {
+    "codLocalidadeTse": 86827,
+    "codObjeto": "7777",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "INHACORÁ"
+  },
+  {
+    "codLocalidadeTse": 85243,
+    "codObjeto": "7780",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IPIRANGA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 84999,
+    "codObjeto": "7778",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IPÊ"
+  },
+  {
+    "codLocalidadeTse": 87114,
+    "codObjeto": "7782",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IRAÍ"
+  },
+  {
+    "codLocalidadeTse": 88382,
+    "codObjeto": "7784",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ITAARA"
+  },
+  {
+    "codLocalidadeTse": 85901,
+    "codObjeto": "7786",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ITACURUBI"
+  },
+  {
+    "codLocalidadeTse": 86843,
+    "codObjeto": "7792",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ITAPUCA"
+  },
+  {
+    "codLocalidadeTse": 87130,
+    "codObjeto": "7794",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ITAQUI"
+  },
+  {
+    "codLocalidadeTse": 89249,
+    "codObjeto": "9924699102414",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ITATI"
+  },
+  {
+    "codLocalidadeTse": 87157,
+    "codObjeto": "7796",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ITATIBA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 85626,
+    "codObjeto": "7800",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IVORÁ"
+  },
+  {
+    "codLocalidadeTse": 87173,
+    "codObjeto": "7801",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "IVOTI"
+  },
+  {
+    "codLocalidadeTse": 84786,
+    "codObjeto": "7802",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "JABOTICABA"
+  },
+  {
+    "codLocalidadeTse": 89265,
+    "codObjeto": "9924699102415",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "JACUIZINHO"
+  },
+  {
+    "codLocalidadeTse": 87190,
+    "codObjeto": "7804",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "JACUTINGA"
+  },
+  {
+    "codLocalidadeTse": 87238,
+    "codObjeto": "7807",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "JAGUARI"
+  },
+  {
+    "codLocalidadeTse": 87211,
+    "codObjeto": "7805",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "JAGUARÃO"
+  },
+  {
+    "codLocalidadeTse": 84905,
+    "codObjeto": "7809",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "JAQUIRANA"
+  },
+  {
+    "codLocalidadeTse": 88587,
+    "codObjeto": "7810",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "JARI"
+  },
+  {
+    "codLocalidadeTse": 98299,
+    "codObjeto": "7815",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "JÓIA"
+  },
+  {
+    "codLocalidadeTse": 87254,
+    "codObjeto": "7818",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "JÚLIO DE CASTILHOS"
+  },
+  {
+    "codLocalidadeTse": 89281,
+    "codObjeto": "9924699102416",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "LAGOA BONITA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 86886,
+    "codObjeto": "7820",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "LAGOA DOS TRÊS CANTOS"
+  },
+  {
+    "codLocalidadeTse": 87270,
+    "codObjeto": "7821",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "LAGOA VERMELHA"
+  },
+  {
+    "codLocalidadeTse": 85260,
+    "codObjeto": "7822",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "LAGOÃO"
+  },
+  {
+    "codLocalidadeTse": 87297,
+    "codObjeto": "7823",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "LAJEADO"
+  },
+  {
+    "codLocalidadeTse": 86860,
+    "codObjeto": "7827",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "LAJEADO DO BUGRE"
+  },
+  {
+    "codLocalidadeTse": 87319,
+    "codObjeto": "7833",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "LAVRAS DO SUL"
+  },
+  {
+    "codLocalidadeTse": 87335,
+    "codObjeto": "7835",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "LIBERATO SALZANO"
+  },
+  {
+    "codLocalidadeTse": 86908,
+    "codObjeto": "7836",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "LINDOLFO COLLOR"
+  },
+  {
+    "codLocalidadeTse": 86924,
+    "codObjeto": "7838",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "LINHA NOVA"
+  },
+  {
+    "codLocalidadeTse": 87351,
+    "codObjeto": "7842",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MACHADINHO"
+  },
+  {
+    "codLocalidadeTse": 88943,
+    "codObjeto": "7844",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MAMPITUBA"
+  },
+  {
+    "codLocalidadeTse": 86940,
+    "codObjeto": "7847",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MANOEL VIANA"
+  },
+  {
+    "codLocalidadeTse": 86967,
+    "codObjeto": "7848",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MAQUINÉ"
+  },
+  {
+    "codLocalidadeTse": 86983,
+    "codObjeto": "7849",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MARATÁ"
+  },
+  {
+    "codLocalidadeTse": 87378,
+    "codObjeto": "7850",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MARAU"
+  },
+  {
+    "codLocalidadeTse": 87394,
+    "codObjeto": "7851",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MARCELINO RAMOS"
+  },
+  {
+    "codLocalidadeTse": 87009,
+    "codObjeto": "7853",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MARIANA PIMENTEL"
+  },
+  {
+    "codLocalidadeTse": 87416,
+    "codObjeto": "7854",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MARIANO MORO"
+  },
+  {
+    "codLocalidadeTse": 88820,
+    "codObjeto": "7857",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MARQUES DE SOUZA"
+  },
+  {
+    "codLocalidadeTse": 87432,
+    "codObjeto": "7858",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MATA"
+  },
+  {
+    "codLocalidadeTse": 87025,
+    "codObjeto": "7860",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MATO CASTELHANO"
+  },
+  {
+    "codLocalidadeTse": 87041,
+    "codObjeto": "7862",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MATO LEITÃO"
+  },
+  {
+    "codLocalidadeTse": 89303,
+    "codObjeto": "9924699102417",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MATO QUEIMADO"
+  },
+  {
+    "codLocalidadeTse": 87459,
+    "codObjeto": "7866",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MAXIMILIANO DE ALMEIDA"
+  },
+  {
+    "codLocalidadeTse": 88447,
+    "codObjeto": "7841",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MAÇAMBARÁ"
+  },
+  {
+    "codLocalidadeTse": 87068,
+    "codObjeto": "7868",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MINAS DO LEÃO"
+  },
+  {
+    "codLocalidadeTse": 87475,
+    "codObjeto": "7869",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MIRAGUAÍ"
+  },
+  {
+    "codLocalidadeTse": 85820,
+    "codObjeto": "7873",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MONTAURI"
+  },
+  {
+    "codLocalidadeTse": 88803,
+    "codObjeto": "7876",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MONTE ALEGRE DOS CAMPOS"
+  },
+  {
+    "codLocalidadeTse": 87084,
+    "codObjeto": "7878",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MONTE BELO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 87491,
+    "codObjeto": "7880",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MONTENEGRO"
+  },
+  {
+    "codLocalidadeTse": 87106,
+    "codObjeto": "7881",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MORMAÇO"
+  },
+  {
+    "codLocalidadeTse": 87122,
+    "codObjeto": "7883",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MORRINHOS DO SUL"
+  },
+  {
+    "codLocalidadeTse": 86185,
+    "codObjeto": "7886",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MORRO REDONDO"
+  },
+  {
+    "codLocalidadeTse": 87149,
+    "codObjeto": "7887",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MORRO REUTER"
+  },
+  {
+    "codLocalidadeTse": 87513,
+    "codObjeto": "7889",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MOSTARDAS"
+  },
+  {
+    "codLocalidadeTse": 88544,
+    "codObjeto": "7891",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MUITOS CAPÕES"
+  },
+  {
+    "codLocalidadeTse": 87165,
+    "codObjeto": "7892",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MULITERNO"
+  },
+  {
+    "codLocalidadeTse": 87530,
+    "codObjeto": "7890",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "MUÇUM"
+  },
+  {
+    "codLocalidadeTse": 87181,
+    "codObjeto": "7895",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NICOLAU VERGUEIRO"
+  },
+  {
+    "codLocalidadeTse": 87572,
+    "codObjeto": "7896",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NONOAI"
+  },
+  {
+    "codLocalidadeTse": 86169,
+    "codObjeto": "7899",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA ALVORADA"
+  },
+  {
+    "codLocalidadeTse": 87599,
+    "codObjeto": "7900",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA ARAÇÁ"
+  },
+  {
+    "codLocalidadeTse": 87610,
+    "codObjeto": "7901",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA BASSANO"
+  },
+  {
+    "codLocalidadeTse": 87203,
+    "codObjeto": "7902",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA BOA VISTA"
+  },
+  {
+    "codLocalidadeTse": 87637,
+    "codObjeto": "7903",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA BRÉSCIA"
+  },
+  {
+    "codLocalidadeTse": 88226,
+    "codObjeto": "7904",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA CANDELÁRIA"
+  },
+  {
+    "codLocalidadeTse": 85120,
+    "codObjeto": "7905",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA ESPERANÇA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 84816,
+    "codObjeto": "7906",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA HARTZ"
+  },
+  {
+    "codLocalidadeTse": 87653,
+    "codObjeto": "7909",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA PALMA"
+  },
+  {
+    "codLocalidadeTse": 87670,
+    "codObjeto": "7910",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA PETRÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 87696,
+    "codObjeto": "7911",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA PRATA"
+  },
+  {
+    "codLocalidadeTse": 87220,
+    "codObjeto": "7908",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA PÁDUA"
+  },
+  {
+    "codLocalidadeTse": 88560,
+    "codObjeto": "7912",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA RAMADA"
+  },
+  {
+    "codLocalidadeTse": 84751,
+    "codObjeto": "7913",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA ROMA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 87246,
+    "codObjeto": "7914",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVA SANTA RITA"
+  },
+  {
+    "codLocalidadeTse": 87262,
+    "codObjeto": "7916",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVO BARREIRO"
+  },
+  {
+    "codLocalidadeTse": 88684,
+    "codObjeto": "7917",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVO CABRAIS"
+  },
+  {
+    "codLocalidadeTse": 87718,
+    "codObjeto": "7918",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVO HAMBURGO"
+  },
+  {
+    "codLocalidadeTse": 87289,
+    "codObjeto": "7920",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVO MACHADO"
+  },
+  {
+    "codLocalidadeTse": 87300,
+    "codObjeto": "7922",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVO TIRADENTES"
+  },
+  {
+    "codLocalidadeTse": 89320,
+    "codObjeto": "9924699102418",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NOVO XINGU"
+  },
+  {
+    "codLocalidadeTse": 87556,
+    "codObjeto": "7893",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "NÃO-ME-TOQUE"
+  },
+  {
+    "codLocalidadeTse": 87734,
+    "codObjeto": "7925",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "OSÓRIO"
+  },
+  {
+    "codLocalidadeTse": 87750,
+    "codObjeto": "7932",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PAIM FILHO"
+  },
+  {
+    "codLocalidadeTse": 89672,
+    "codObjeto": "7933",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PALMARES DO SUL"
+  },
+  {
+    "codLocalidadeTse": 87777,
+    "codObjeto": "7935",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PALMEIRA DAS MISSÕES"
+  },
+  {
+    "codLocalidadeTse": 87793,
+    "codObjeto": "7936",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PALMITINHO"
+  },
+  {
+    "codLocalidadeTse": 87815,
+    "codObjeto": "7938",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PANAMBI"
+  },
+  {
+    "codLocalidadeTse": 84980,
+    "codObjeto": "7939",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PANTANO GRANDE"
+  },
+  {
+    "codLocalidadeTse": 87831,
+    "codObjeto": "7940",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PARAÍ"
+  },
+  {
+    "codLocalidadeTse": 85987,
+    "codObjeto": "7941",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PARAÍSO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 87327,
+    "codObjeto": "7942",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PARECI NOVO"
+  },
+  {
+    "codLocalidadeTse": 98256,
+    "codObjeto": "7943",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PAROBÉ"
+  },
+  {
+    "codLocalidadeTse": 88889,
+    "codObjeto": "7944",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PASSA SETE"
+  },
+  {
+    "codLocalidadeTse": 87343,
+    "codObjeto": "7952",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PASSO DO SOBRADO"
+  },
+  {
+    "codLocalidadeTse": 87858,
+    "codObjeto": "7953",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PASSO FUNDO"
+  },
+  {
+    "codLocalidadeTse": 89346,
+    "codObjeto": "9924699102419",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PAULO BENTO"
+  },
+  {
+    "codLocalidadeTse": 85146,
+    "codObjeto": "7958",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PAVERAMA"
+  },
+  {
+    "codLocalidadeTse": 89567,
+    "codObjeto": "9910A99107168",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PEDRAS ALTAS"
+  },
+  {
+    "codLocalidadeTse": 87874,
+    "codObjeto": "7962",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PEDRO OSÓRIO"
+  },
+  {
+    "codLocalidadeTse": 87890,
+    "codObjeto": "7964",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PEJUÇARA"
+  },
+  {
+    "codLocalidadeTse": 87912,
+    "codObjeto": "7965",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PELOTAS"
+  },
+  {
+    "codLocalidadeTse": 87360,
+    "codObjeto": "7966",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PICADA CAFÉ"
+  },
+  {
+    "codLocalidadeTse": 85340,
+    "codObjeto": "7967",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PINHAL"
+  },
+  {
+    "codLocalidadeTse": 89362,
+    "codObjeto": "9924699102420",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PINHAL DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 87386,
+    "codObjeto": "7973",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PINHAL GRANDE"
+  },
+  {
+    "codLocalidadeTse": 87408,
+    "codObjeto": "7976",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PINHEIRINHO DO VALE"
+  },
+  {
+    "codLocalidadeTse": 87939,
+    "codObjeto": "7977",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PINHEIRO MACHADO"
+  },
+  {
+    "codLocalidadeTse": 89540,
+    "codObjeto": "9910A99107167",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PINTO BANDEIRA"
+  },
+  {
+    "codLocalidadeTse": 84778,
+    "codObjeto": "7982",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PIRAPÓ"
+  },
+  {
+    "codLocalidadeTse": 87955,
+    "codObjeto": "7983",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PIRATINI"
+  },
+  {
+    "codLocalidadeTse": 87971,
+    "codObjeto": "7985",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PLANALTO"
+  },
+  {
+    "codLocalidadeTse": 87440,
+    "codObjeto": "7992",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PONTE PRETA"
+  },
+  {
+    "codLocalidadeTse": 87424,
+    "codObjeto": "7991",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PONTÃO"
+  },
+  {
+    "codLocalidadeTse": 88013,
+    "codObjeto": "7994",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PORTO ALEGRE"
+  },
+  {
+    "codLocalidadeTse": 88030,
+    "codObjeto": "7996",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PORTO LUCENA"
+  },
+  {
+    "codLocalidadeTse": 87467,
+    "codObjeto": "7997",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PORTO MAUÁ"
+  },
+  {
+    "codLocalidadeTse": 87483,
+    "codObjeto": "7998",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PORTO VERA CRUZ"
+  },
+  {
+    "codLocalidadeTse": 88056,
+    "codObjeto": "7999",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PORTO XAVIER"
+  },
+  {
+    "codLocalidadeTse": 87998,
+    "codObjeto": "7993",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PORTÃO"
+  },
+  {
+    "codLocalidadeTse": 85421,
+    "codObjeto": "8000",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "POUSO NOVO"
+  },
+  {
+    "codLocalidadeTse": 86126,
+    "codObjeto": "7988",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "POÇO DAS ANTAS"
+  },
+  {
+    "codLocalidadeTse": 87505,
+    "codObjeto": "8005",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PRESIDENTE LUCENA"
+  },
+  {
+    "codLocalidadeTse": 84760,
+    "codObjeto": "8006",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PROGRESSO"
+  },
+  {
+    "codLocalidadeTse": 85405,
+    "codObjeto": "8010",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PROTÁSIO ALVES"
+  },
+  {
+    "codLocalidadeTse": 88072,
+    "codObjeto": "8012",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "PUTINGA"
+  },
+  {
+    "codLocalidadeTse": 88099,
+    "codObjeto": "8013",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "QUARAÍ"
+  },
+  {
+    "codLocalidadeTse": 89389,
+    "codObjeto": "9924699102421",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "QUATRO IRMÃOS"
+  },
+  {
+    "codLocalidadeTse": 87521,
+    "codObjeto": "8016",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "QUEVEDOS"
+  },
+  {
+    "codLocalidadeTse": 84875,
+    "codObjeto": "8020",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "QUINZE DE NOVEMBRO"
+  },
+  {
+    "codLocalidadeTse": 88110,
+    "codObjeto": "8023",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "REDENTORA"
+  },
+  {
+    "codLocalidadeTse": 85766,
+    "codObjeto": "8025",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "RELVADO"
+  },
+  {
+    "codLocalidadeTse": 88137,
+    "codObjeto": "8026",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "RESTINGA SÊCA"
+  },
+  {
+    "codLocalidadeTse": 87548,
+    "codObjeto": "8040",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "RIO DOS ÍNDIOS"
+  },
+  {
+    "codLocalidadeTse": 88153,
+    "codObjeto": "8041",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "RIO GRANDE"
+  },
+  {
+    "codLocalidadeTse": 88170,
+    "codObjeto": "8043",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "RIO PARDO"
+  },
+  {
+    "codLocalidadeTse": 85740,
+    "codObjeto": "8047",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "RIOZINHO"
+  },
+  {
+    "codLocalidadeTse": 88196,
+    "codObjeto": "8048",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ROCA SALES"
+  },
+  {
+    "codLocalidadeTse": 88218,
+    "codObjeto": "8049",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "RODEIO BONITO"
+  },
+  {
+    "codLocalidadeTse": 89400,
+    "codObjeto": "9924699102422",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ROLADOR"
+  },
+  {
+    "codLocalidadeTse": 88234,
+    "codObjeto": "8051",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ROLANTE"
+  },
+  {
+    "codLocalidadeTse": 88250,
+    "codObjeto": "8053",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "RONDA ALTA"
+  },
+  {
+    "codLocalidadeTse": 88277,
+    "codObjeto": "8054",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "RONDINHA"
+  },
+  {
+    "codLocalidadeTse": 88293,
+    "codObjeto": "8055",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ROQUE GONZALES"
+  },
+  {
+    "codLocalidadeTse": 88315,
+    "codObjeto": "8057",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ROSÁRIO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 87564,
+    "codObjeto": "8058",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SAGRADA FAMÍLIA"
+  },
+  {
+    "codLocalidadeTse": 85561,
+    "codObjeto": "8060",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SALDANHA MARINHO"
+  },
+  {
+    "codLocalidadeTse": 89753,
+    "codObjeto": "8064",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SALTO DO JACUÍ"
+  },
+  {
+    "codLocalidadeTse": 87580,
+    "codObjeto": "8065",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SALVADOR DAS MISSÕES"
+  },
+  {
+    "codLocalidadeTse": 88331,
+    "codObjeto": "8066",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SALVADOR DO SUL"
+  },
+  {
+    "codLocalidadeTse": 88358,
+    "codObjeto": "8067",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANANDUVA"
+  },
+  {
+    "codLocalidadeTse": 88455,
+    "codObjeto": "8101",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANT'ANA DO LIVRAMENTO"
+  },
+  {
+    "codLocalidadeTse": 88374,
+    "codObjeto": "8071",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTA BÁRBARA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 89247,
+    "codObjeto": "9924699102423",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTA CECÍLIA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 87602,
+    "codObjeto": "8075",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTA CLARA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 88390,
+    "codObjeto": "8079",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTA CRUZ DO SUL"
+  },
+  {
+    "codLocalidadeTse": 89443,
+    "codObjeto": "9924699102424",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTA MARGARIDA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 88412,
+    "codObjeto": "8087",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTA MARIA"
+  },
+  {
+    "codLocalidadeTse": 86207,
+    "codObjeto": "8088",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTA MARIA DO HERVAL"
+  },
+  {
+    "codLocalidadeTse": 88471,
+    "codObjeto": "8090",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTA ROSA"
+  },
+  {
+    "codLocalidadeTse": 87629,
+    "codObjeto": "8094",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTA TEREZA"
+  },
+  {
+    "codLocalidadeTse": 88498,
+    "codObjeto": "8096",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTA VITÓRIA DO PALMAR"
+  },
+  {
+    "codLocalidadeTse": 88439,
+    "codObjeto": "8100",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTANA DA BOA VISTA"
+  },
+  {
+    "codLocalidadeTse": 88510,
+    "codObjeto": "8102",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTIAGO"
+  },
+  {
+    "codLocalidadeTse": 88552,
+    "codObjeto": "8108",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DA PATRULHA"
+  },
+  {
+    "codLocalidadeTse": 88579,
+    "codObjeto": "8109",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DAS MISSÕES"
+  },
+  {
+    "codLocalidadeTse": 87645,
+    "codObjeto": "8112",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DO PALMA"
+  },
+  {
+    "codLocalidadeTse": 87661,
+    "codObjeto": "8113",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DO PLANALTO"
+  },
+  {
+    "codLocalidadeTse": 88595,
+    "codObjeto": "8114",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTO AUGUSTO"
+  },
+  {
+    "codLocalidadeTse": 88617,
+    "codObjeto": "8115",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTO CRISTO"
+  },
+  {
+    "codLocalidadeTse": 87688,
+    "codObjeto": "8116",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTO EXPEDITO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 88536,
+    "codObjeto": "8104",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SANTO ÂNGELO"
+  },
+  {
+    "codLocalidadeTse": 88994,
+    "codObjeto": "8180",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SAPIRANGA"
+  },
+  {
+    "codLocalidadeTse": 89010,
+    "codObjeto": "8181",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SAPUCAIA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 89036,
+    "codObjeto": "8182",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SARANDI"
+  },
+  {
+    "codLocalidadeTse": 89052,
+    "codObjeto": "8184",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SEBERI"
+  },
+  {
+    "codLocalidadeTse": 85707,
+    "codObjeto": "8187",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SEDE NOVA"
+  },
+  {
+    "codLocalidadeTse": 85529,
+    "codObjeto": "8188",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SEGREDO"
+  },
+  {
+    "codLocalidadeTse": 89079,
+    "codObjeto": "8191",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SELBACH"
+  },
+  {
+    "codLocalidadeTse": 88765,
+    "codObjeto": "8192",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SENADOR SALGADO FILHO"
+  },
+  {
+    "codLocalidadeTse": 87882,
+    "codObjeto": "8193",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SENTINELA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 89095,
+    "codObjeto": "8195",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SERAFINA CORRÊA"
+  },
+  {
+    "codLocalidadeTse": 89117,
+    "codObjeto": "8199",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SERTÃO"
+  },
+  {
+    "codLocalidadeTse": 87920,
+    "codObjeto": "8200",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SERTÃO SANTANA"
+  },
+  {
+    "codLocalidadeTse": 88706,
+    "codObjeto": "8202",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SETE DE SETEMBRO"
+  },
+  {
+    "codLocalidadeTse": 89133,
+    "codObjeto": "8206",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SEVERIANO DE ALMEIDA"
+  },
+  {
+    "codLocalidadeTse": 84956,
+    "codObjeto": "8209",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SILVEIRA MARTINS"
+  },
+  {
+    "codLocalidadeTse": 87947,
+    "codObjeto": "8210",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SINIMBU"
+  },
+  {
+    "codLocalidadeTse": 89176,
+    "codObjeto": "8213",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SOBRADINHO"
+  },
+  {
+    "codLocalidadeTse": 89192,
+    "codObjeto": "8214",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SOLEDADE"
+  },
+  {
+    "codLocalidadeTse": 88633,
+    "codObjeto": "8120",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO BORJA"
+  },
+  {
+    "codLocalidadeTse": 84832,
+    "codObjeto": "8122",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO DOMINGOS DO SUL"
+  },
+  {
+    "codLocalidadeTse": 88650,
+    "codObjeto": "8124",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO FRANCISCO DE ASSIS"
+  },
+  {
+    "codLocalidadeTse": 88676,
+    "codObjeto": "8125",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO FRANCISCO DE PAULA"
+  },
+  {
+    "codLocalidadeTse": 88692,
+    "codObjeto": "8126",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO GABRIEL"
+  },
+  {
+    "codLocalidadeTse": 88714,
+    "codObjeto": "8127",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO JERÔNIMO"
+  },
+  {
+    "codLocalidadeTse": 84794,
+    "codObjeto": "8133",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO JORGE"
+  },
+  {
+    "codLocalidadeTse": 87769,
+    "codObjeto": "8137",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO JOSÉ DAS MISSÕES"
+  },
+  {
+    "codLocalidadeTse": 85588,
+    "codObjeto": "8140",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO JOSÉ DO HERVAL"
+  },
+  {
+    "codLocalidadeTse": 85324,
+    "codObjeto": "8141",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO JOSÉ DO HORTÊNCIO"
+  },
+  {
+    "codLocalidadeTse": 87742,
+    "codObjeto": "8142",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO JOSÉ DO INHACORÁ"
+  },
+  {
+    "codLocalidadeTse": 88730,
+    "codObjeto": "8143",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO JOSÉ DO NORTE"
+  },
+  {
+    "codLocalidadeTse": 88757,
+    "codObjeto": "8144",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO JOSÉ DO OURO"
+  },
+  {
+    "codLocalidadeTse": 89460,
+    "codObjeto": "9924699102425",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO JOSÉ DO SUL"
+  },
+  {
+    "codLocalidadeTse": 87726,
+    "codObjeto": "8145",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO JOSÉ DOS AUSENTES"
+  },
+  {
+    "codLocalidadeTse": 84859,
+    "codObjeto": "8131",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO JOÃO DA URTIGA"
+  },
+  {
+    "codLocalidadeTse": 87700,
+    "codObjeto": "8132",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO JOÃO DO POLÊSINE"
+  },
+  {
+    "codLocalidadeTse": 88773,
+    "codObjeto": "8146",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO LEOPOLDO"
+  },
+  {
+    "codLocalidadeTse": 88790,
+    "codObjeto": "8148",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO LOURENÇO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 88811,
+    "codObjeto": "8151",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO LUIZ GONZAGA"
+  },
+  {
+    "codLocalidadeTse": 88838,
+    "codObjeto": "8153",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO MARCOS"
+  },
+  {
+    "codLocalidadeTse": 88854,
+    "codObjeto": "8155",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO MARTINHO"
+  },
+  {
+    "codLocalidadeTse": 87785,
+    "codObjeto": "8156",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO MARTINHO DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 85480,
+    "codObjeto": "8158",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO MIGUEL DAS MISSÕES"
+  },
+  {
+    "codLocalidadeTse": 88870,
+    "codObjeto": "8159",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO NICOLAU"
+  },
+  {
+    "codLocalidadeTse": 88897,
+    "codObjeto": "8161",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO PAULO DAS MISSÕES"
+  },
+  {
+    "codLocalidadeTse": 87807,
+    "codObjeto": "8164",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO PEDRO DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 89486,
+    "codObjeto": "9924699102426",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO PEDRO DAS MISSÕES"
+  },
+  {
+    "codLocalidadeTse": 87823,
+    "codObjeto": "8165",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO PEDRO DO BUTIÁ"
+  },
+  {
+    "codLocalidadeTse": 88919,
+    "codObjeto": "8167",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO PEDRO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 88935,
+    "codObjeto": "8171",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO SEBASTIÃO DO CAÍ"
+  },
+  {
+    "codLocalidadeTse": 88951,
+    "codObjeto": "8172",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO SEPÉ"
+  },
+  {
+    "codLocalidadeTse": 88978,
+    "codObjeto": "8174",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO VALENTIM"
+  },
+  {
+    "codLocalidadeTse": 87840,
+    "codObjeto": "8176",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO VALENTIM DO SUL"
+  },
+  {
+    "codLocalidadeTse": 87866,
+    "codObjeto": "8177",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO VALÉRIO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 85383,
+    "codObjeto": "8178",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO VENDELINO"
+  },
+  {
+    "codLocalidadeTse": 86754,
+    "codObjeto": "8179",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÃO VICENTE DO SUL"
+  },
+  {
+    "codLocalidadeTse": 87904,
+    "codObjeto": "8196",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "SÉRIO"
+  },
+  {
+    "codLocalidadeTse": 88722,
+    "codObjeto": "8217",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TABAÍ"
+  },
+  {
+    "codLocalidadeTse": 89214,
+    "codObjeto": "8223",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TAPEJARA"
+  },
+  {
+    "codLocalidadeTse": 89230,
+    "codObjeto": "8224",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TAPERA"
+  },
+  {
+    "codLocalidadeTse": 89257,
+    "codObjeto": "8226",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TAPES"
+  },
+  {
+    "codLocalidadeTse": 89273,
+    "codObjeto": "8227",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TAQUARA"
+  },
+  {
+    "codLocalidadeTse": 89290,
+    "codObjeto": "8228",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TAQUARI"
+  },
+  {
+    "codLocalidadeTse": 85669,
+    "codObjeto": "8230",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TAQUARUÇU DO SUL"
+  },
+  {
+    "codLocalidadeTse": 89710,
+    "codObjeto": "8231",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TAVARES"
+  },
+  {
+    "codLocalidadeTse": 89311,
+    "codObjeto": "8232",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TENENTE PORTELA"
+  },
+  {
+    "codLocalidadeTse": 85162,
+    "codObjeto": "8233",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TERRA DE AREIA"
+  },
+  {
+    "codLocalidadeTse": 98213,
+    "codObjeto": "8235",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TEUTÔNIA"
+  },
+  {
+    "codLocalidadeTse": 89508,
+    "codObjeto": "9924699102427",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TIO HUGO"
+  },
+  {
+    "codLocalidadeTse": 87963,
+    "codObjeto": "8238",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TIRADENTES DO SUL"
+  },
+  {
+    "codLocalidadeTse": 88900,
+    "codObjeto": "8239",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TOROPI"
+  },
+  {
+    "codLocalidadeTse": 89338,
+    "codObjeto": "8242",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TORRES"
+  },
+  {
+    "codLocalidadeTse": 89354,
+    "codObjeto": "8245",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TRAMANDAÍ"
+  },
+  {
+    "codLocalidadeTse": 87980,
+    "codObjeto": "8246",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TRAVESSEIRO"
+  },
+  {
+    "codLocalidadeTse": 85006,
+    "codObjeto": "8257",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TRINDADE DO SUL"
+  },
+  {
+    "codLocalidadeTse": 89435,
+    "codObjeto": "8258",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TRIUNFO"
+  },
+  {
+    "codLocalidadeTse": 84743,
+    "codObjeto": "8248",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TRÊS ARROIOS"
+  },
+  {
+    "codLocalidadeTse": 85367,
+    "codObjeto": "8250",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TRÊS CACHOEIRAS"
+  },
+  {
+    "codLocalidadeTse": 89370,
+    "codObjeto": "8251",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TRÊS COROAS"
+  },
+  {
+    "codLocalidadeTse": 89397,
+    "codObjeto": "8252",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TRÊS DE MAIO"
+  },
+  {
+    "codLocalidadeTse": 88005,
+    "codObjeto": "8253",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TRÊS FORQUILHAS"
+  },
+  {
+    "codLocalidadeTse": 86142,
+    "codObjeto": "8254",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TRÊS PALMEIRAS"
+  },
+  {
+    "codLocalidadeTse": 89419,
+    "codObjeto": "8255",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TRÊS PASSOS"
+  },
+  {
+    "codLocalidadeTse": 89451,
+    "codObjeto": "8260",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TUCUNDUVA"
+  },
+  {
+    "codLocalidadeTse": 84840,
+    "codObjeto": "8262",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TUNAS"
+  },
+  {
+    "codLocalidadeTse": 88021,
+    "codObjeto": "8264",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TUPANCI DO SUL"
+  },
+  {
+    "codLocalidadeTse": 89478,
+    "codObjeto": "8265",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TUPANCIRETÃ"
+  },
+  {
+    "codLocalidadeTse": 85723,
+    "codObjeto": "8267",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TUPANDI"
+  },
+  {
+    "codLocalidadeTse": 89494,
+    "codObjeto": "8269",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TUPARENDI"
+  },
+  {
+    "codLocalidadeTse": 88501,
+    "codObjeto": "8272",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "TURUÇU"
+  },
+  {
+    "codLocalidadeTse": 88609,
+    "codObjeto": "8274",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "UBIRETAMA"
+  },
+  {
+    "codLocalidadeTse": 88480,
+    "codObjeto": "8277",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "UNISTALDA"
+  },
+  {
+    "codLocalidadeTse": 88048,
+    "codObjeto": "8276",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "UNIÃO DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 89516,
+    "codObjeto": "8278",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "URUGUAIANA"
+  },
+  {
+    "codLocalidadeTse": 89532,
+    "codObjeto": "8280",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VACARIA"
+  },
+  {
+    "codLocalidadeTse": 88064,
+    "codObjeto": "8283",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VALE DO SOL"
+  },
+  {
+    "codLocalidadeTse": 88080,
+    "codObjeto": "8284",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VALE REAL"
+  },
+  {
+    "codLocalidadeTse": 88668,
+    "codObjeto": "8286",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VALE VERDE"
+  },
+  {
+    "codLocalidadeTse": 84913,
+    "codObjeto": "8287",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VANINI"
+  },
+  {
+    "codLocalidadeTse": 89559,
+    "codObjeto": "8288",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VENÂNCIO AIRES"
+  },
+  {
+    "codLocalidadeTse": 89575,
+    "codObjeto": "8289",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VERA CRUZ"
+  },
+  {
+    "codLocalidadeTse": 89591,
+    "codObjeto": "8290",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VERANÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 88781,
+    "codObjeto": "8292",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VESPASIANO CORRÊA"
+  },
+  {
+    "codLocalidadeTse": 89613,
+    "codObjeto": "8293",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VIADUTOS"
+  },
+  {
+    "codLocalidadeTse": 89630,
+    "codObjeto": "8294",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VIAMÃO"
+  },
+  {
+    "codLocalidadeTse": 89656,
+    "codObjeto": "8295",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VICENTE DUTRA"
+  },
+  {
+    "codLocalidadeTse": 89699,
+    "codObjeto": "8296",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VICTOR GRAEFF"
+  },
+  {
+    "codLocalidadeTse": 86061,
+    "codObjeto": "8299",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VILA FLORES"
+  },
+  {
+    "codLocalidadeTse": 88749,
+    "codObjeto": "8300",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VILA LÂNGARO"
+  },
+  {
+    "codLocalidadeTse": 85642,
+    "codObjeto": "8302",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VILA MARIA"
+  },
+  {
+    "codLocalidadeTse": 88102,
+    "codObjeto": "8303",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VILA NOVA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 85600,
+    "codObjeto": "8307",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VISTA ALEGRE"
+  },
+  {
+    "codLocalidadeTse": 85863,
+    "codObjeto": "8309",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VISTA ALEGRE DO PRATA"
+  },
+  {
+    "codLocalidadeTse": 85847,
+    "codObjeto": "8310",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VISTA GAÚCHA"
+  },
+  {
+    "codLocalidadeTse": 88129,
+    "codObjeto": "8312",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "VITÓRIA DAS MISSÕES"
+  },
+  {
+    "codLocalidadeTse": 89524,
+    "codObjeto": "9924699102428",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "WESTFALIA"
+  },
+  {
+    "codLocalidadeTse": 88145,
+    "codObjeto": "8317",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "XANGRI-LÁ"
+  },
+  {
+    "codLocalidadeTse": 84948,
+    "codObjeto": "7390",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ÁGUA SANTA"
+  },
+  {
+    "codLocalidadeTse": 84735,
+    "codObjeto": "7435",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "4",
+      "codObjetoMunicCapital": "7994",
+      "codUf": 4,
+      "nomUf": "RIO GRANDE DO SUL",
+      "sglUf": "RS"
+    },
+    "nomLocalidade": "ÁUREA"
+  }
+]

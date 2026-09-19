@@ -1,0 +1,17 @@
+{
+  "party": "UNIÃO",
+  "id": 72,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=72&currentPage=0&pageSize=10000",
+      "records": 2775,
+      "totalElements": 2775,
+      "response_sha256": "0b88c0b3cd90636e6ec8af9af08cb33114ac7c8a8af11592f56a0d46f4695613",
+      "retrieved_utc": "2026-09-10T23:41:37Z"
+    }
+  ],
+  "matches": []
+}

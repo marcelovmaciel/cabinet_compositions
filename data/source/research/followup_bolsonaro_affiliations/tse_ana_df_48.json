@@ -1,0 +1,14 @@
+{
+  "party": "MOBILIZA",
+  "id": 48,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 2388,
+      "totalElements": 2388,
+      "response_sha256": "5f2b0363d38464091981ac52fa19927ffcfa6997a66b1bba91bef4eec2dc7f4f",
+      "retrieved_utc": "2026-09-10T23:46:40Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,345 @@
+Lei dos Partidos Políticos – Lei n. 9.096, de 19 de setembro de 1995 — Tribunal Superior Eleitoral (https://www.tse.jus.br/legislacao/codigo-eleitoral/lei-dos-partidos-politicos/lei-dos-partidos-politicos-lei-nb0-9.096-de-19-de-setembro-de-1995)
+citeturn430search0 [wordlim: 200] Published: 31.0 years ago; Crawled: today;   * Ac.-TSE, de 28/4/2022, nos ED-Pet n. 060048226: para as eleições de 2018, a carta de anuência oferecida pelos partidos políticos aos representantes individuais, eleitos pela legenda, configura justa causa para a desfiliação partidária sem acarretar a perda do mandato. ... 060051052: “[...] com a apresentação da anuência partidária, o parlamentar está autorizado a desfiliar-se da agremiação pela qual se elegeu, sem a perda do mandato, sendo irrelevante o motivo que levou ao consentimento”.
+Art. 22-A. Perderá o mandato o detentor de cargo eletivo que se desfiliar, sem justa causa, do partido pelo qual foi eleito.
+
+  * V. Súm.-TSE nº 67/2016.
+
+  * Ac.-TSE, de 2.6.2022, no AgR-AJDesCargEle nº 060024555 e, de 12.12.2019, no AgR-AI nº 060054541: descaracterização da infidelidade partidária por desligamento decorrente de expulsão do filiado proferida pela agremiação política à qual estava vinculado, sendo incabível a ação de perda de cargo eletivo.
+
+Parágrafo único. Consideram-se justa causa para a desfiliação partidária somente as seguintes hipóteses:
+
+  * Ac.-TSE, de 12/11/2024, na TutCauntAnt n. 061337221: as hipóteses de justa causa previstas neste dispositivo, incluindo a janela partidária, foram estabelecidas exclusivamente ao detentor de mandato eletivo, não havendo previsão de extensão ao suplente.
+
+  * Ac.-TSE, de 28/4/2022, nos ED-Pet n. 060048226: para as eleições de 2018, a carta de anuência oferecida pelos partidos políticos aos representantes individuais, eleitos pela legenda, configura justa causa para a desfiliação partidária sem acarretar a perda do mandato.
+
+  * Ac.-STF, de 9/3/2026, na ADI n. 5398: interpretação conforme a CF/1988 à expressão somente as seguintes hipóteses, contida neste parágrafo, para ressalvar as previsões constitucionais de desfiliação partidária sem a imposição de sanção. Tese fixada de que “É constitucional a exclusão da criação de nova legenda como hipótese de justa causa para a desfiliação, sem perda de mandato por infidelidade partidária”.
+
+  * Ac.-TSE, de 3/5/2024, no REspEl n. 060012248 e, de 16/10/2023, no Ref-TutCautAnt n. 060051052: “[...] com a apresentação da anuência partidária, o parlamentar está autorizado a desfiliar-se da agremiação pela qual se elegeu, sem a perda do mandato, sendo irrelevante o motivo que levou ao consentimento”.
+
+  * Ac.-TSE, de 7/11/2023, na AJDesCargEle n. 060011815: “Não é possível conferir validade jurídica a carta de anuência expedida por comissão provisória municipal de partido político com o desiderato de permitir a desfiliação de deputado federal que era, conforme registros do Sistema de Gerenciamento de Informações Partidárias, o próprio presidente do referido órgão, sobretudo diante da existência de regra partidária que atribuía exclusivamente ao presidente do diretório nacional da agremiação a competência para conceder e subscrever a concordância quanto à desfiliação de parlamentares federais”.
+
+I – mudança substancial ou desvio reiterado do programa partidário;
+
+  * Ac.-TSE, de 4/6/2024, no Ref-AREspE n. 060023411: “O instituto da federação de partidos não guarda similitude com os da fusão e da incorporação, razão pela qual não configura, por si só, justa causa para desfiliação partidária”.
+
+  * Ac.-TSE, de 4/6/2024, na CtaEl n. 060016756: a celebração de federação não implica, por si só, mudança substancial ou desvio reiterado do programa partidário e, por conseguinte, não é apta a caracterizar justa causa para desfiliação prevista neste inciso.
+
+  * Ac.-TSE, de 28/3/2023, no REspEl n. 060011779: “[...] com a fusão partidária, os filiados são submetidos a uma mudança substancial de programa partidário, visto que o programa e o estatuto da legenda pela qual se elegeram já não mais existem, encontrando-se subordinados às regras e à agenda política da nova agremiação”.
+
+  * Ac.-TSE, de 25/11/2021, no AgR-PetCiv n. 060002790: “[...] a incorporação de um partido em outro fulmina toda ou, quando menos, substancialmente, a ideologia da agremiação incorporada que, afinal, deixa de existir. [...]”.
+
+II – grave discriminação política pessoal; e
+
+  * Ac.-TSE, de 5/8/2024, no AgR-REspEl n. 060020657: “[...] a eventual falta de apoio político para candidatura em pleito vindouro não evidencia por si só grave discriminação política pessoal [...]”.
+
+--------------------------------------------------------------------------------
+Tribunal Superior Eleitoral (https://www.tse.jus.br/partidos/filiacao-partidaria/arquivos/tse-manual-sistema-filiacao-partidaria-externo/%40%40display-file/file/TSE-manual-filia-externo.pdf)
+citeturn430search12 [wordlim: 200] Published: 7.0 years ago; Campos exibidos à esquerda: Partido = “18 - REDE - REDE SUSTENTABILIDADE”, UF = “GO”, Município = “FORMOSA”, Zona = “11”, Seção = “333”, Data filiação = “30/08/2019”, Data de desfiliação, Motivo da desfiliação, Data do cancelamento, Motivo do cancelamento, Data da regularização, Tipo de registro = “Interna” (em vermelho), Situação = “Desfiliado”, Número do processo. ... Linhas visíveis: 1) FULANO DE TAL | 999999999999 | 30/08/2019 | Desfiliado | ícones de ação (lixeira e seta/retorno); 2) FULANO DE TAL | 999999999999 | 13/08/2019 | Regular | ícones de ação (lixeira e símbolo de menos em círculo).
+Tribunal Superior Eleitoral  
+Secretaria de Tecnologia da Informação
+
+**Guia do usuário**  
+**Sistema de Filiação Partidária – FILIA**  
+**Módulo Externo**
+
+**10.3 Detalhar Relação Afetada**
+
+Para detalhar a relação afetada, selecione a opção ☰, o sistema apresenta a seguinte tela:
+
+<visual_element id="e1">
+Tela do sistema “Sistema de Filiação Partidária - Externo” com a página “Detalhar Registro de Filiação”. No painel principal aparece o nome “FULANO DE TAL” e “Título de Eleitor - 999999999999”. Campos exibidos à esquerda: Partido = “18 - REDE - REDE SUSTENTABILIDADE”, UF = “GO”, Município = “FORMOSA”, Zona = “11”, Seção = “333”, Data filiação = “30/08/2019”, Data de desfiliação, Motivo da desfiliação, Data do cancelamento, Motivo do cancelamento, Data da regularização, Tipo de registro = “Interna” (em vermelho), Situação = “Desfiliado”, Número do processo. À direita aparecem os rótulos Endereço, Complemento, Número, CEP, Email, Telefone, Celular e Comercial, sem valores visíveis. --------------------------------------------------------------------------------
+Desfiliação partidária — Temas Selecionados (https://temasselecionados.tse.jus.br/temas-selecionados/mandato-eletivo/cassacao-do-mandato/desfiliacao-partidaria)
+citeturn430search1 [wordlim: 200] Published: 3 weeks ago; Crawled: yesterday; Nos termos do art. 1º, § 2º, da Res.-TSE nº 22.610/2007, o partido político interessado deve formular o pedido para decretação de perda de cargo eletivo por desfiliação sem justa causa dentro de 30 dias da ciência do desligamento. ... No caso dos autos, a certidão do Sistema FILIA, emitida em 14/4/2023, confirma que o agravado já havia se desfiliado do partido agravante na data de expedição da certidão. ... Este Tribunal firmou jurisprudência no sentido de que, com a apresentação da anuência partidária, o parlamentar está autorizado a desfiliar–se da agremiação pela qual se elegeu, sem a perda do mandato, sendo irrelevante o motivo que levou ao consentimento. ... A questão em exame é diversa: reconhecida a competência da Justiça Eleitoral para examinar as ações de justificação ou desfiliação sem justa causa de representantes eleitos pelo sistema proporcional dos partidos pelos quais foram sufragados, é competência desta Justiça Especializada também examinar, em específico, a validade de carta de anuência de um órgão diretivo da agremiação que concordou com a saída do mandatário eleito pela respectiva legenda, nos exatos termos da justa causa preconizada no § 6º do art. 17 da Constituição Federal, incluído pela Emenda Constitucional n.
+ 
+
+ 
+
+ 
+
+    * Justa causa para desfiliação partidária
+
+Atualizado em 14/8/2026.
+
+- Generalidades
+
+  
+
+“Eleições 2022. Deputado distrital. [...] Ação de decretação de perda de cargo eletivo por desfiliação partidária sem justa causa. Propositura. Prazo. Art. 1º, § 2º, da Res.-TSE 22.610/2007.[...] 2. Nos termos do art. 1º, § 2º, da Res.-TSE nº 22.610/2007, o partido político interessado deve formular o pedido para decretação de perda de cargo eletivo por desfiliação sem justa causa dentro de 30 dias da ciência do desligamento. 3. Consoante o art. 25-B, § 1º, da Res.-TSE nº 23.596/2018, a Justiça Eleitoral deve comunicar ao partido a desfiliação de candidato eleito. Por sua vez, o § 1º do dispositivo preceitua que essa comunicação será feita ao Presidente Nacional da legenda, por mensagem exibida ao acessar o Sistema FILIA. 4. No caso dos autos, a certidão do Sistema FILIA, emitida em 14/4/2023, confirma que o agravado já havia se desfiliado do partido agravante na data de expedição da certidão.  
+
+“[...] Perda. Mandato eletivo. Deputado federal. Fidelidade partidária. Resolução-TSE nº 22.610/2007. [...] Desfiliação. Justa causa. Configuração. [...] 2. A modificação da posição do partido em relação a tema de grande relevância configura justa causa para a migração partidária de filiado. [...]”
+
+(Ac. de 12.3.2009 na Pet nº 2773, rel. Min. Marcelo Ribeiro.)
+
+ 
+
+“[...] Desfiliação partidária. Justa causa. [...] Partido. Ameaça. Expulsão. [...] 2. Se o próprio partido determina o desligamento do filiado sob pena de submetê-lo a procedimento de expulsão, como ocorreu no presente caso, é evidente a justa causa para a desfiliação partidária. [...]”
+
+(Ac. de 25.11.2008 no AgR-REspe nº 28854, rel. Min. Felix Fischer.)
+
+ 
+
+“[...] Fidelidade partidária. [...] Justa causa não vislumbrada. [...] 1. Em exame perfunctório, o fato tido pelo ora agravante como justificador de sua desfiliação, qual seja, sobrevivência política, não se enquadra sequer em tese nas hipóteses previstas no art. 1º, § 1º, da Resolução-TSE nº 22.610/2007, já que não configura incorporação ou fusão de partido, criação de novo partido político, mudança substancial ou desvio reiterado do programa partidário ou mesmo grave discriminação pessoal. Desfiliação sem justa causa. [...] 2. Divergência entre filiados partidários no sentido de ser alcançada projeção política não constitui justa causa para desfiliação. 3. As causas determinantes da justa causa para a desfiliação estão previstas no art. 1º, § 1º, da Resolução nº 22.610/2007. 4. O requerido não demonstrou grave discriminação pessoal a motivar o ato de desfiliação. [...]”
+
+(Ac. de 27.3.2008 na Pet nº 2756, rel. Min. José Delgado.)
+
+ 
+
+    * Processo de perda de mandato e de justificação de desfiliação partidária
+
+Atualizado em 18/8/2026.
+
+- Alegações finais
+
+Atualizado em 14/8/2026.
+
+ 
+
+“[...] Processo de perda de mandato eletivo. [...] 4. O art. 7º, parágrafo único, da Resolução nº 22.610/2007 é expresso ao determinar que o prazo para alegações finais é comum às partes. [...]”
+
+(Ac. de 19.8.2008 nos EDclPet nº 2756, rel. Min. Félix Fischer.)
+
+ 
+
+- Competência
+--------------------------------------------------------------------------------
+Tribunal Superior Eleitoral (https://ptmg.org.br/wp-content/uploads/2024/02/guia-do-usuario-sistema-de-filiacao-partidaria-filia.pdf)
+citeturn430search13 [wordlim: 200] O FILIA também deve identificar, a partir do ELO, quando houver o restabelecimento dos direitos políticos, de modo que a situação volte para Regular. ... • Com motivo “Expulsão" ou "Outras formas previstas no estatuto” – O sistema altera a situação do registro para “Aguardando processamento” para que seja desfiliado automaticamente. ... 2 - Registro de filiação cuja desfiliação foi realizada automaticamente pela rotina de óbito, quando identificado no ELO lançamento de óbito para o eleitor;
+Tribunal Superior Eleitoral  
+Secretaria de Tecnologia da Informação
+
+Guia do usuário  
+Sistema de Filiação Partidária – FILIA  
+Módulo Externo
+
+1 - Registro de filiação cuja desfiliação foi realizada automaticamente pela rotina de suspensão de direitos políticos, quando identificado no ELO lançamento para o eleitor. O FILIA também deve identificar, a partir do ELO, quando houver o restabelecimento dos direitos políticos, de modo que a situação volte para Regular. Durante o período de suspensão, o registro pode ser desfiliado e detalhado pelo partido e pela Justiça Eleitoral.  
+Existindo desfiliação de um registro suspenso:  
+• Com motivo “A pedido do eleitor” - O sistema mantém o registro na sua situação (Suspenso) e adiciona a marcação “com pendência de comunicação à JE”. O registro permanece nesta situação até que o Cartório realize a sua desfiliação. A desfiliação poderá ser revertida pelo Cartório voltando o registro para a situação “Suspenso”.  
+• Com motivo “Expulsão" ou "Outras formas previstas no estatuto” – O sistema altera a situação do registro para “Aguardando processamento” para que seja desfiliado automaticamente.  
+Enquanto o registro não estiver desfiliado a sua certidão será gerada com situação de suspensão.  
+Certidão histórica deve constar a data da suspensão da filiação e a data do restabelecimento da filiação.
+
+• **Desfiliado:** Na nova versão do filia a situação CANCELADO foi alterada DESFILIADO. A desfiliação pode ocorrer das seguintes formas:  
+1 - Registro de filiação cuja desfiliação foi realizada automaticamente pelo processamento quando identificado para o eleitor registro com data de filiação mais recente;  
+2 - Registro de filiação cuja desfiliação foi realizada automaticamente pela rotina de óbito, quando identificado no ELO lançamento de óbito para o eleitor;  
+3 - Registro de filiação cuja desfiliação foi realizada automaticamente pela rotina de perda de direitos políticos, quando identificado no ELO lançamento para o eleitor;  
+4 - Registro que estava com a situação “Regular” cujo eleitor procurou o Cartório para realizar sua desfiliação manualmente no sistema;  
+5 - Registro que estava com situação "Regular" e marcação “com pendência de comunicação”, cujo Cartório realizou sua desfiliação manualmente no sistema;
+
+• **Excluído:**  
+1 – Registro de filiação que estava com situação “Aguardando processamento” e o partido identifica que o cadastro foi realizado indevidamente. Ao realizar esta exclusão, o sistema exclui o registro de filiação da base de dados.  
+2 – Registro de filiação processado que estava com situação “Regular” e o eleitor não reconheceu o vínculo com o partido. Esta exclusão é realizada pela Justiça Eleitoral.
+
+Arquivo: Filia_Externo
+
+Versão do modelo: 3.0 19/09/23
+
+Página 18 de 52--------------------------------------------------------------------------------
+Guia do Sistema de Filiação Partidária | PDF | Autenticação | Senha (https://pt.scribd.com/document/948040919/PDF-Documentguia-Do-Usuario-Sistema-de-Filiacao-Partidaria-Filia-26-05-24)
+citeturn430search2 [wordlim: 200] Published: 2.6 years ago; Crawled: 10 months ago; ## 4.2 Tela inicial do FILIA ... Existindo desfiliação de um registro suspenso, independente do motivo, o sistema ... ➢ A reversão da desfiliação deve ser permitida para registros de filiação com situação
+Filiação”.
+
+Observação:
+
+➢ O registro de filiação poderá ser excluído pelo partido enquanto estiver na situação
+"Aguardando processamento", após o processamento do registro, a opção não está mais
+disponível no sistema. Ao realizar a ação, o registro será excluído da base de dados do
+FILIA.
+
+## 8.6 Desfiliar registro de Filiação
+
+## Para realizar a desfiliação do registro de filiação, selecione a opção na grid de resultados, o
+
+sistema apresenta a seguinte tela:
+
+Arquivo: Filia_Externo
+
+## Versão do modelo: 3.0 01/02/24 Página 30 de 58
+
+Tribunal Superior Eleitoral Guia do usuário
+Secretaria de Tecnologia da Informação
+Sistema de Filiação Partidária – FILIA
+
+Módulo Externo
+
+## Informe a data da desfiliação, o motivo da desfiliação, a justificativa da desfiliação e clique em “Sim”.
+
+## O sistema realiza o cadastro da desfiliação do registro, mantendo o registro na situação REGULAR
+
+e adicionando a marcação “Com pendência de comunicação à JE”.
+
+Ao clicar em “Não”, o sistema não realiza a operação e retorna para a tela “Consultar Registro de
+desfiliação e exclusão.
+○ Motivo: Motivo da desfiliação do registro. Campo apresentado somente para
+histórico de desfiliação.
+
+## 9.2 Exportar relatório de Filiação
+
+## Para exportar os históricos do registro de filiação consultado
+
+consultados em um relatório em PDF, acione a
+
+## opção . O sistema irá gerar o relatório conforme abaixo:
+
+Arquivo: Filia_Externo
+
+## Versão do modelo: 3.0 01/02/24 Página 34 de 58
+
+Tribunal Superior Eleitoral Guia do usuário
+Secretaria de Tecnologia da Informação
+Sistema de Filiação Partidária – FILIA
+
+Módulo Externo
+
+Observação:
+
+## ➢ Os históricos do registro de filiação devem ser apresentados em ordem cronológica da data
+
+da ação mais recente para a mais antiga.
+
+## 10 Consultar Relação de Filiados
+
+Ao acionar a opção de menu “Consultar
+Consultar Relação de Filiados”,
+”, o sistema apresenta a
+seguinte tela.
+
+Arquivo: Filia_Externo
+
+## Versão do modelo: 3.0 01/02/24 Página 35 de 58
+
+Tribunal Superior Eleitoral Guia do usuário
+--------------------------------------------------------------------------------
+Guia do usuário Sistema de Filiação Partidária–Filia | (https://republicanos10.org.br/download/13437/)
+citeturn430search14 [wordlim: 200] Published: 6 months ago; 2 – Para registros de filiação vinculados a uma relação do tipo “Interno” submetida ou não submetida, que tiveram seus ... Preencha os campos de Data Desfiliação e Motivo da desfiliação e clique em “Sim”.
+Tribunal Superior Eleitoral Secretaria de Tecnologia da Informação | Guia do usuário Sistema de Filiação Partidária – FILIA Módulo Externo None
+--- | ---
+ 
+ Observações: 
+A opção para exclusão dos registros de filiação estará disponível em duas situações no módulo externo: 
+1 - Para registros de filiação vinculados a uma relação do tipo “Interno” submetida ou não submetida que ainda não foram 
+processados pela Justiça eleitoral no módulo interno, ou seja, registros de filiação que não possuem seus correspondentes na 
+relação oficial poderão ser excluídos. 
+2 – Para registros de filiação vinculados a uma relação do tipo “Interno” submetida ou não submetida, que tiveram seus 
+correspondentes excluídos na relação oficial. 
+A opção exclusão deve ser utilizada, em especial, para registros de filiação equivocados. Em caso de desfiliação partidária, utilizar 
+da próxima opção. 
+ 
+ 9.6  Desfiliar registro de Filiação 
+Para realizar a desfiliação de registro de filiação, selecione a opção 
+, o sistema apresenta a seguinte 
+tela:  
+ 
+ 
+Preencha os campos de Data Desfiliação e Motivo da desfiliação e clique em “Sim”. 
+ 
+Observações: 
+Somente registros de filiação do tipo “Interno” que estejam na situação “Regular” poderão ser desfiliados. A opção não deve ser 
+apresentada para registros de filiação do tipo “Oficial” ou do “Interno” em outras situações que não a “Regular”. 
+ 
+ 9.7  Reverter Registro de Filiação 
+Para realizar a reversão de registro de filiação, selecione a opção 
+, o sistema apresenta a seguinte tela:  
+ 
+ 
+ 
+ 
+Arquivo: gus_filia_externo_final 
+ 
+Versão do modelo: 1.1 – 17/08/2016 
+Página 19 de 37--------------------------------------------------------------------------------
+Guia de acesso ao Filia | Notas de aula Direito | Docsity (https://www.docsity.com/pt/docs/guia-de-acesso-ao-filia/15884628/)
+citeturn430search3 [wordlim: 200] Published: 7 months ago; Crawled: 3 weeks ago; ### Preencha os campos de Data Desfiliação e Motivo da desfiliação e clique em “Sim”. ... ## Sistema de Filiação Partidária – FILIA
+## 9.6 Desfiliar registro de Filiação
+
+### Para realizar a desfiliação de registro de filiação, selecione a opção , o sistema apresenta a seguinte
+
+### tela:
+
+### Preencha os campos de Data Desfiliação e Motivo da desfiliação e clique em “Sim”.
+
+### Observações:
+
+Somente registros de filiação do tipo “Interno” que estejam na situação “Regular” poderão ser desfiliados. A opção não deve ser apresentada para registros de filiação do tipo “Oficial” ou do “Interno” em outras situações que não a “Regular”.
+
+## 9.7 Reverter Registro de Filiação
+
+### Para realizar a reversão de registro de filiação, selecione a opção , o sistema apresenta a seguinte tela:
+
+## Secretaria de Tecnologia da Informação Guia do usuário
+
+## Sistema de Filiação Partidária – FILIA
+
+## Módulo Externo
+
+## Arquivo: gus_filia_externo_final
+
+### Observações:
+
+Somente registros de filiação do tipo “Interno” que estejam na situação “Desfiliado” ou “Excluído” poderão ter sua situação revertida para a sua situação anterior (Regular). --------------------------------------------------------------------------------
+Lei dos Partidos Políticos — Tribunal Regional Eleitoral de Santa Catarina (https://www.tre-sc.jus.br/legislacao/lei-dos-partidos-politicos)
+citeturn430search4 [wordlim: 200] Published: 31.0 years ago; Crawled: yesterday; 060051052: “[...] com a apresentação da anuência partidária, o parlamentar está autorizado a desfiliar-se da agremiação pela qual se elegeu, sem a perda do mandato, sendo irrelevante o motivo que levou ao consentimento”. ...   * Ac.-TSE, de 8/2/2024, na TutCautAnt n. 060014595: é lícita, como medida de defesa, a gravação realizada em ambiente privado e sem o consentimento do interlocutor, com o fim de demonstrar os motivos justificantes da desfiliação do partido.
+Parágrafo único. Consideram-se justa causa para a desfiliação partidária somente as seguintes hipóteses:
+
+  * Ac.-TSE, de 12/11/2024, na TutCauntAnt n. 061337221: as hipóteses de justa causa previstas neste dispositivo, incluindo a janela partidária, foram estabelecidas exclusivamente ao detentor de mandato eletivo, não havendo previsão de extensão ao suplente.
+
+  * Ac.-TSE, de 28/4/2022, nos ED-Pet n. 060048226: para as eleições de 2018, a carta de anuência oferecida pelos partidos políticos aos representantes individuais, eleitos pela legenda, configura justa causa para a desfiliação partidária sem acarretar a perda do mandato.
+
+  * Ac.-STF, de 9/3/2026, na ADI n. 5398: interpretação conforme a CF/1988 à expressão somente as seguintes hipóteses, contida neste parágrafo, para ressalvar as previsões constitucionais de desfiliação partidária sem a imposição de sanção. Tese fixada de que “É constitucional a exclusão da criação de nova legenda como hipótese de justa causa para a desfiliação, sem perda de mandato por infidelidade partidária”.
+--------------------------------------------------------------------------------
+ (https://sessoespub.tre-rs.jus.br/publico/votos/55200/show_text)
+citeturn430search5 [wordlim: 200] Published: 2.0 years ago; Crawled: 2 weeks ago; O registro da filiação partidária por excelência deve ser demonstrado por meio do sistema FILIA da Justiça Eleitoral. ... Sustenta que sem motivo justificado foi desfiliado automaticamente do sistema de filiação partidária em 15.10.2019, tendo novamente assinado ficha junto ao partido em 05.3.2020 (ID 45712672 – p.
+
+REl - 0600341-13.2024.6.21.0011 - Voto Relator(a) - Sessão: 27/09/2024 às 14:00
+
+ 
+
+VOTO
+
+O recurso é tempestivo e adequado, razão pela qual dele conheço.
+
+Cuida-se de analisar recurso sobre o preenchimento da condição de elegibilidade, filiação partidária com prazo de 6 meses anteriores ao pleito (06.4.2024).
+
+O registro da filiação partidária por excelência deve ser demonstrado por meio do sistema FILIA da Justiça Eleitoral.
+
+De fato, o candidato não se encontra regularmente filiado no sistema FILIA no partido pelo qual deseja concorrer. Sustenta que sem motivo justificado foi desfiliado automaticamente do sistema de filiação partidária em 15.10.2019, tendo novamente assinado ficha junto ao partido em 05.3.2020 (ID 45712672 – p. 5).
+
+No caso, poderia ser admitida a demonstração da filiação partidária tempestiva por outros meios de prova, desde que não unilaterais, conforme preconiza a Súmula n. 20 do TSE:
+
+ 
+
+A prova de filiação partidária daquele cujo nome não constou da lista de filiados de que trata o art. 19 da Lei nº 9.096/1995, pode ser realizada por outros elementos de convicção, salvo quando se tratar de documentos produzidos unilateralmente, destituídos de fé pública.
+--------------------------------------------------------------------------------
+Informativo TSE nº 2 - Período de 1º a 13 de fevereiro de 2022 — Tribunal Superior Eleitoral (https://www.tse.jus.br/jurisprudencia/informativo-tse/informativo-tse-no-2-periodo-de-1o-a-13-de-fevereiro-de-2022)
+citeturn430search6 [wordlim: 200] Published: 4.6 years ago; Crawled: 4 months ago; ### Desfiliação partidária e interesse processual na ação de perda de mandato eletivo ... nos assentos da Justiça Eleitoral e baixa no Sistema de Filiação Partidária (Filia), afasta o interesse
+## SESSÃO VIRTUAL
+
+### Desfiliação partidária e interesse processual na ação de perda de mandato eletivo
+
+A existência de carta de anuência com a desfiliação, assinada pelo presidente do diretório
+municipal, bem como de ato formal de expulsão do parlamentar, com o registro do desligamento
+nos assentos da Justiça Eleitoral e baixa no Sistema de Filiação Partidária (Filia), afasta o interesse
+processual para a propositura de ação de perda de mandato eletivo.
+
+No caso vertente, o diretório nacional do partido político recorreu de decisão que acolheu
+preliminar de falta de interesse processual e julgou extinta a ação de perda de mandato eletivo.
+
+Ocorre que o presidente do diretório municipal emitiu carta de anuência com a desfiliação,
+assinalando que tal ato não configurava infidelidade partidária. Além disso, houve posteriormente
+a expulsão do parlamentar dos quadros do partido político, pela qual foi efetivada a desfiliação.
+
+O Plenário deste Tribunal Superior destacou que o partido político não tomou nenhuma medida
+--------------------------------------------------------------------------------
+Carta de Serviços da Justiça Eleitoral de Santa Catarina — Tribunal Regional Eleitoral de Santa Catarina (https://www.tre-sc.jus.br/institucional/cartas-de-servico-1)
+citeturn430search7 [wordlim: 200] Crawled: 2 days ago; No caso de transferência de domicílio eleitoral, o sistema de filiaçao partidária (Filia) informará a mudança aos diretórios partidários dos municípios de origem e de destino, passando a compor a relação interna do órgão partidário do novo domicílio, independentemente de aceite. ... 2. ... Em “Assunto”: preencha “Comunicação de Desfiliação”;
+--------------------------------------------------------------------------------
+Filiação Partidária — Temas Selecionados (https://temasselecionados.tse.jus.br/temas-selecionados/filiacao-partidaria)
+citeturn430search8 [wordlim: 200] Published: 2 months ago; Crawled: yesterday; Recondução ao cargo de vereador até o julgamento do mérito dos recursos especiais interpostos do acórdão que julgou improcedente o pedido veiculado na ação de justificação de desfiliação partidária e, consectariamente, procedente o pedido contido na ação de perda de mandato eletivo. ... Este Tribunal firmou jurisprudência no sentido de que, com a apresentação da anuência partidária, o parlamentar está autorizado a desfiliar–se da agremiação pela qual se elegeu, sem a perda do mandato, sendo irrelevante o motivo que levou ao consentimento [...].” ... (Ac. de 1º.2.2017 na Cta nº 8873, rel.
+--------------------------------------------------------------------------------
+José Alencar se filia a partido ligado à Igreja Universal (https://www.gazetadopovo.com.br/vida-publica/jose-alencar-se-filia-a-partido-ligado-a-igreja-universal-9pmy7deeue7n84000ec5pvzny/)
+citeturn430search9 [wordlim: 200] Published: 21.0 years ago; Crawled: 5 months ago; Isso me aborrece profundamente e essa é a razão principal de minha desfiliação - disse, ao sair de seu gabinete no dia 2 de setembro, data de seu desligamento do PL. ... Costa Neto revelou outros dois motivos que supostamente contribuíram para a saída de Alencar do PL: a rejeição pelos parlamentares do partido (40 votos a 1) à proposta de fusão com PP e PTB; e a destituição de José Vasconcelos da presidência do PL de Minas Gerais.O próprio Valdemar Costa Neto seria um motivo de desconforto para Alencar, que não estaria feliz com a permanência do ex-deputado na presidência do partido.
+--------------------------------------------------------------------------------
+Institucional — Tribunal Regional Eleitoral do Distrito Federal (https://www.tre-df.jus.br/institucional/corregedoria-regional-eleitoral/corregedoria-regional-eleitoral)
+citeturn430search10 [wordlim: 200] Crawled: last month; Expulsão: A expulsão não se confunde com a desfiliação voluntária.Em caso de expulsão, é obrigação do próprio partido inserir a ocorrência no FILIA e comunicar o Juízo. ... A norma também assegura que, diante da inércia do partido em registrar a filiação no prazo de 10 dias, a pessoa interessada pode requerer a inclusão judicialmente, com autuação no PJe na classe Filiação Partidária (FP),.
+--------------------------------------------------------------------------------
+Filiação partidária — Tribunal Regional Eleitoral do Tocantins (https://www.tre-to.jus.br/jurisprudencia/jurisprudencia-por-assunto-1/11-filiacao-partidaria)
+citeturn430search11 [wordlim: 200] Crawled: 5 months ago; ACÓRDÃO: Os membros do Tribunal Regional Eleitoral do Tocantins, em consonância com o parecer do Ministério Público Eleitoral, decidiram, por unanimidade, JULGAR PROCEDENTE o pedido formulado na presente ação para declarar justificada a desfiliação da vereadora Iolanda Pereira Castro dos quadros de filiados do Partido Republicano da Ordem Social - PROS, sem a perda de seu mandato, em conformidade com o art. 17, § 6º, da Constituição Federal c/c o §3º do art. 1º da Resolução 22.610/2007, nos termos do voto da relatora. ... (PROCESSO Nº 0600076-47.2022.6.27.0000 - RELATORA: Juíza ANA PAULA BRANDÃO BRASIL) ... É desnecessária a formação de litisconsórcio passivo, na forma do art. 4º da Resolução TSE nº 22.610/2007, quando o requerido se desfilia do partido para o qual migrou antes do ajuizamento de ação de perda de mandato eletivo por infidelidade partidária.

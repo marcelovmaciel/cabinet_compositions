@@ -1,0 +1,17 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "PRTB",
+  "id": 39,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=39&currentPage=0&pageSize=10000",
+      "records": 425,
+      "totalElements": 425,
+      "response_sha256": "3453972687852113fe8fdb302b73433e58dc5f61d903fa709149074d7cf50e67",
+      "retrieved_utc": "2026-09-10T23:38:03Z"
+    }
+  ],
+  "matches": []
+}

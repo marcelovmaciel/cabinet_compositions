@@ -1,0 +1,17 @@
+{
+  "party": "MDB",
+  "id": 42,
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "Londrina",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 9883,
+      "totalElements": 9883,
+      "response_sha256": "f2f35afa74e4781a21736bbfa883e5b28e90857c3bfb55a8b2140802cfe77a44",
+      "retrieved_utc": "2026-09-10T23:39:57Z"
+    }
+  ],
+  "matches": []
+}

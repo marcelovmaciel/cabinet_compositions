@@ -1,0 +1,353 @@
+Nota
+Técnica
+GABINETES 
+MINISTERIAIS DA NOVA 
+REPÚ (https://repositorio.ipea.gov.br/bitstreams/2469c87b-3082-405d-aba8-13971cabb8f7/download)
+citeturn145search12 [wordlim: 200] Published: 8 months ago; GABINETESMINISTERIAIS DA NOVAREPÚBLICA (1985-2020): ... NO 53Acir Almeida ... Diretoria de Estudos e Políticas do
+Nota
+Técnica
+GABINETES 
+MINISTERIAIS DA NOVA 
+REPÚBLICA (1985-2020): 
+CARGOS, COMPOSIÇÃO 
+PARTIDÁRIA E MUDANÇA
+NO 53
+Acir Almeida
+Diest
+Diretoria de Estudos e Políticas do
+Estado, das Instituições e da Democracia
+Outubro de 2021--------------------------------------------------------------------------------
+(PDF) Nota Técnica Nº 53 - Gabinetes Ministeriais da Nova República (1985-2020): Cargos, Composição Partidária e Mudança (https://www.researchgate.net/publication/361753585_Nota_Tecnica_N_53_-_Gabinetes_Ministeriais_da_Nova_Republica_1985-2020_Cargos_Composicao_Partidaria_e_Mudanca)
+citeturn145search0 [wordlim: 200] Crawled: last month; # Nota Técnica Nº 53 - Gabinetes Ministeriais da Nova República (1985-2020): Cargos, Composição Partidária e Mudança ... Acir Almeida ... O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na construção do módulo do Atlas do Estado Brasileiro denominado Presidentes, partidos e coalizões, que reúne dados a respeito dos gabinetes ministeriais da Nova República, sobretudo a evolução da sua composição partidária. ... As opiniões emitidas nesta publicação são de exclusiva e inteira responsabilidade dos autores, não exprimindo, necessariamente, o ponto de vista do Instituto ... Esse padrão não muda quando se excluem os nove gabinetes originados exclusivamente de mudança de ministro, isto
+
+Technical Report PDF Available
+
+# Nota Técnica Nº 53 - Gabinetes Ministeriais da Nova República (1985-2020): Cargos, Composição Partidária e Mudança
+
+  * October 2021
+
+DOI:10.38116/ntdiest53
+
+Authors:
+
+Acir Almeida
+
+Acir Almeida
+
+  * This person is not on ResearchGate, or hasn't claimed this research yet.
+
+Diest - Ipea
+
+  * Instituto de Pesquisa Econômica Aplicada - IPEA
+
+Image
+
+Download full-text PDFRead full-text
+
+## Abstract
+
+O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na construção do módulo do Atlas do Estado Brasileiro denominado Presidentes, partidos e coalizões, que reúne dados a respeito dos gabinetes ministeriais da Nova República, sobretudo a evolução da sua composição partidária. A nota revisita os critérios e as informações utilizados na identificação dos gabinetes ministeriais e da sua composição partidária, no período 1985-2020. Espera-se, assim, solucionar divergências de natureza descritiva, de maneira a contribuir para caracterizações mais precisas do fenômeno. Naturalmente, esse tipo de aporte tem potenciais desdobramentos para outras análises, acerca seja dos condicionantes, seja dos impactos da composição partidária do gabinete, no sentido de tornar seus resultados mais precisos e confiáveis.
+
+Content uploaded by Diest - Ipea
+
+Author content
+
+All content in this area was uploaded by Diest - Ipea on Jul 05, 2022
+
+Content may be subject to copyright.
+
+Nota
+
+Técnica
+
+Outubro de 2021
+
+N O 53
+
+Diest
+
+Diretoria de Estudos e Políticas do
+
+Estado, das Instituições e da Democracia
+
+GABINETES
+
+MINISTERIAIS DA NOVA
+
+REPÚBLICA (1985-2020):
+
+CARGOS, COMPOSIÇÃO
+
+PARTIDÁRIA E MUDANÇA
+
+Acir Almeida
+
+DOI: http://dx.doi.org/10.38116/ntdiest53
+
+As publicações do Ipea estão disponíveis para download gratuito nos formatos PDF (todas) e EPUB (livros e periódicos). Acesse: <http://www.ipea.gov.br/
+
+portal/publicacoes>.
+
+As opiniões emitidas nesta publicação são de exclusiva e inteira responsabilidade dos autores, não exprimindo, necessariamente, o ponto de vista do Instituto
+
+de Pesquisa Econômica Aplicada ou do Ministério da Economia.
+
+É permitida a reprodução deste texto e dos dados nele contidos, desde que citada a fonte.
+
+Reproduções para ﬁns comerciais são proibidas.
+
+EQUIPE TÉCNICA
+
+Acir Almeida
+
+Técnico de planejamento e pesquisa na Diretoria de Estudos e Políticas do Estado,
+
+das Instituições e da Democracia (Diest) do Ipea. E-mail: <acir.almeida@ipea.gov.br>.
+
+© Instituto de Pesquisa Econômica Aplicada – ipea 2021
+
+Governo Federal
+
+Ministério da Economia
+
+Ministro Paulo Guedes
+
+Fundação pública vinculada ao Ministério da Economia,
+
+o Ipea fornece suporte técnico e institucional às ações
+
+governamentais – possibilitando a formulação de inúmeras
+
+políticas públicas e programas de desenvolvimento
+
+brasileiros – e disponibiliza, para a sociedade, pesquisas e
+
+estudos realizados por seus técnicos.
+
+Presidente
+
+Carlos von Doellinger
+
+Diretor de Desenvolvimento Institucional
+
+Manoel Rodrigues Junior
+
+Diretora de Estudos e Políticas do Estado,
+
+das Instituições e da Democracia
+
+Flávia de Holanda Schmidt
+
+Diretor de Estudos e Políticas
+
+Macroeconômicas
+
+José Ronaldo de Castro Souza Júnior
+
+Diretor de Estudos e Políticas Regionais,
+
+Urbanas e Ambientais
+
+Nilo Luiz Saccaro Júnior
+
+Diretor de Estudos e Políticas Setoriais de Inovação
+
+e Infraestrutura
+
+André Tortato Rauen
+
+Diretora de Estudos e Políticas Sociais
+
+Lenita Maria Turchi
+
+Diretor de Estudos e Relações Econômicas
+
+e Políticas Internacionais
+
+Ivan Tiago Machado Oliveira
+
+Assessor-chefe de Imprensa e Comunicação
+
+André Reis Diniz
+
+Ouvidoria: http://www.ipea.gov.br/ouvidoria
+
+URL: http://www.ipea.gov.br
+
+SUMÁRIO
+
+1 INTRODUÇÃO ..................................................................................................................................................................................... 5
+
+2 O GABINETE ........................................................................................................................................................................................ 6
+
+3 COMPOSIÇÃO PARTIDÁRIA ........................................................................................................................................................... 8
+
+4 MUDANÇA DE GABINETE ............................................................................................................................................................... 11
+
+5 CONCLUSÃO ....................................................................................................................................................................................... 14
+
+REFERÊNCIAS ........................................................................................................................................................................................ 14
+
+APÊNDICE A ........................................................................................................................................................................................... 16
+
+APÊNDICE B ........................................................................................................................................................................................... 17
+
+APÊNDICE C ........................................................................................................................................................................................... 18
+
+NOTA TÉCNICA
+
+5
+
+1 INTRODUÇÃO 1
+
+O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na construção do módulo do
+
+Atlas do Estado Brasileiro denominado Presidentes, partidos e coalizões, que reúne dados a respeito dos gabinetes
+-
+
+do os partidos com representação no gabinete e as respectivas quantidades de ministros. Em geral, o conjunto desses
+
+partidos, que consiste na coalizão de governo, compreende uma maioria absoluta (nominal) das cadeiras da Câmara
+
+
+
+
+
+Composição partidária do gabinete inaugural, por presidência (1985-2020)
+
+Gabinete 
+
+Sarney 
+
+Collor 1
+
+Itamar 
+
+FHC 1 
+
+FHC 2 
+
+ 
+
+15
+
+ço de 1985 a dezembro de 2020.
+
+O quadro 2 lista os gabinetes e os seus respectivos meses de início, eventos originadores e partidos com pelo menos
+
+
+
+
+
+--------------------------------------------------------------------------------
+Nota
+Técnica
+GABINETES 
+MINISTERIAIS DA NOVA 
+REPÚ (https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/nota_tecnica/211026_nt_diest_n53.pdf)
+citeturn145search13 [wordlim: 200] Published: 9 months ago; GABINETESMINISTERIAIS DA NOVAREPÚBLICA (1985-2020): ... NO 53Acir Almeida ... Diretoria de Estudos e Políticas do
+Nota
+Técnica
+GABINETES 
+MINISTERIAIS DA NOVA 
+REPÚBLICA (1985-2020): 
+CARGOS, COMPOSIÇÃO 
+PARTIDÁRIA E MUDANÇA
+NO 53
+Acir Almeida
+Diest
+Diretoria de Estudos e Políticas do
+Estado, das Instituições e da Democracia
+Outubro de 2021--------------------------------------------------------------------------------
+3163
+REVERTENDO A DELEGAÇÃO: O 
+CRESCENTE PROTAGON (https://informaparaiba.com.br/wp-content/uploads/2026/01/crescente-protagonismo-congresso-estudo-ipea-2025.pdf)
+citeturn145search14 [wordlim: 200] Published: 6 months ago; Novo presidente. ... Informações extraídas da base de dados construída por: ALMEIDA, A.Gabinetesministeriais da Nova República (1985-2020): cargos, composição partidária e ... 53). ... PCdoB – Partido Comunista do Brasil; PSB – Partido Socialista Brasileiro; PSDB –
+JB-2
+1/2/2020
+31/1/2021
+JB-3
+1/2/2021
+31/1/2022
+JB-4
+1/2/2022
+31/12/2022
+Elaboração do autor.
+Obs.: 1. Informações extraídas da base de dados construída por: ALMEIDA, A. Gabinetes 
+ministeriais da Nova República (1985-2020): cargos, composição partidária e 
+mudança. Brasília: Ipea, 2021. (Nota Técnica, n. 53).
+          2. JS – José Sarney; FC – Fernando Collor; IF – Itamar Franco; FH – Fernando Henrique; 
+LS – Lula; DR – Dilma Rousseff; MT – Michel Temer; e JB – Jair Bolsonaro.
+3. PMDB – Partido do Movimento Democrático Brasileiro; PFL – Partido da Frente 
+Liberal; PT – Partido dos Trabalhadores; PDT – Partido Democrático Trabalhista; 
+PCdoB – Partido Comunista do Brasil; PSB – Partido Socialista Brasileiro; PSDB – 
+Partido da Social Democracia Brasileira; PCB – Partido Comunista Brasileiro; 
+PDS – Partido Democrático Social; PRN – Partido Republicano Nacionalista; 
+PTB – Partido Trabalhista Brasileiro; PL – Partido Liberal; PDC – Partido Democrata 
+Cristão; PSC – Partido Social Cristão; PTR – Partido Trabalhista Renovador; 
+PST – Partido Social Trabalhista; PP – Partido Progressistas; PPS – Partido 
+Popular Socialista; PPB – Partido Progressista Brasileiro; PV – Partido Verde; 
+PRB – Partido Republicano Brasileiro; PR – Partido da República; DEM – Democratas; 
+PSD – Partido Social Democrático; SD – Solidariedade; PSOL – Partido Socialismo e 
+Liberdade; PSL – Partido Social Liberal; REP – Republicanos; Novo – Partido Novo.
+56--------------------------------------------------------------------------------
+8 REFERÊNCIAS (https://dspace.sti.ufcg.edu.br/bitstream/riufcg/43756/1/PIERRE%20BRAZ%20DE%20MORAIS%20-%20DISSERTA%C3%87%C3%83O%20-%20%28PPGCP%29%202025.pdf)
+citeturn145search15 [wordlim: 200] Crawled: 11 months ago; ALMEIDA, Acir dos Santos. ... **Gabinetes ministeriais da nova república (1985-2020): cargos, composição partidária e mudança.** *In* Nota técnica nº 53 da Diretoria de estudos e políticas do Estado, das instituições e da democracia – DIEST. ... **Gabinetes presidenciais, ciclos eleitorais e disciplina legislativa no Brasil.** Dados Revista de Ciências Sociais; Rio de Janeiro, v. 43, n.
+8 REFERÊNCIAS
+
+ABRANCHES, Sérgio. **Presidencialismo de coalizão: o dilema institucional brasileiro.** Dados. Revista de Ciências Sociais, v. 31, n. 1, 1988.
+
+______________. **Presidencialismo de coalizão: raízes e evolução do modelo político brasileiro.** 1 ed. São Paulo: Companhia das Letras, 2018.
+
+ALBALA, Adrián; COUTO, Lucas. **A Coalescência Revisitada: O Cálculo Presidencial no Bicameralismo.** Dados, Rio de Janeiro, v. 66, n. 4, 2023.
+
+ALMEIDA, Acir dos Santos. **Informação, delegação e processo legislativo: a política das medidas provisórias.** *In* 1933 textos para discussão. Rio de Janeiro: IPEA, fev. 2014.
+
+______________. **Governo presidencial condicionado: delegação e participação legislativa na Câmara dos Deputados.** 2018. Tese (Doutorado em Ciência Política). Universidade Estadual do Rio de Janeiro, Rio de Janeiro, 2018.
+
+______________. **Gabinetes ministeriais da nova república (1985-2020): cargos, composição partidária e mudança.** *In* Nota técnica nº 53 da Diretoria de estudos e políticas do Estado, das instituições e da democracia – DIEST. Brasília: IPEA, out. 2021.
+
+AMES, Barry. **The deadlock of democracy in Brazil.** 1 ed. Michigan: The University of Michigan Press, 2001.
+
+AMORIM NETO, Octavio. **Gabinetes presidenciais, ciclos eleitorais e disciplina legislativa no Brasil.** Dados Revista de Ciências Sociais; Rio de Janeiro, v. 43, n. 3. 2000.
+
+______________. **Cabinets and coalitional presidentialism.** *In:* AMES, B. (Ed.) **Routledge handbook of Brazilian politics.** New York: Routledge, 2019.
+
+______________. **Presidencialismo e governabilidade nas américas.** 1 ed. Rio de Janeiro: Editora FGV, 2006.
+
+APOLÔNIO, Renan. **Declínio e queda da lista tríplice para procurador-Geral da República.** Consultor Jurídico, 2024. Disponível em: https://www.conjur.com.br/2024-abr-27/declinio-e-queda-da-lista-triplice-para-procurador-geral-da-republica/--------------------------------------------------------------------------------
+gov.pt (https://www.gov.pt/servicos/consultar-o-repositorio-de-administracao-publica-repap)
+citeturn145search1 [wordlim: 200] Published: 5 months ago; Crawled: last month; Consulta do repositório aberto de conteúdos digitais produzidos pelo INA e pela AP portuguesa sobre políticas e gestão públicas. ... O serviço "Consultar o repositório de Administração Pública - REPAP" é da responsabilidade da entidade INA – Instituto Nacional de Administração, I.P.. ... Ir para a página da entidade
+--------------------------------------------------------------------------------
+Biblioteca da Presidência da República (https://biblioteca.presidencia.gov.br/)
+citeturn145search2 [wordlim: 200] Crawled: last month; A Biblioteca da Presidência da República disponibiliza com exclusividade todo o conteúdo produzido pelos ex-presidentes da República durante o mandato presidencial, além de fornecer informações bibliográficas e publicações oficiais.Acesse a galeria dos Ex-Presidentes ... O Repositório Institucional tem por finalidade preservar a memória e apoiar o processo de gestão do conhecimento.
+--------------------------------------------------------------------------------
+ReP USP - Resultado da busca (https://repositorio.usp.br/result.php?filter%5B%5D=author.person.name%3A%22Almeida%2C+Maria+Herm%C3%ADnia+Tavares+de%22&filter%5B%5D=isPartOf.name%3A%22Lua+Nova%22&notFilter%5B%5D=publisher.organization.name%3A%22EDUSP%22)
+citeturn145search3 [wordlim: 200] Crawled: 5 months ago; Filtros : "Almeida, Maria Hermínia Tavares de" "Lua Nova" Removido: "EDUSP" Limpar ...     * história do brasil (~1) ...     * nova república (1985- ) (~1)
+--------------------------------------------------------------------------------
+A Nova República (1985–2002) (https://www.gov.br/imprensanacional/pt-br/centrais-de-conteudo/info-produtos-da-exposicao-especial/a-nova-republica-198520132002)
+citeturn145search4 [wordlim: 200] Published: 6 months ago; Crawled: today; # A Nova República (1985–2002)Esse período iniciou-se sob a presidência de José Sarney, em um clima de intensa expectativa democrática após a morte de Tancredo Neves.O ápice desse processo foi a Assembleia Nacional Constituinte, que resultou na Constituição de 1988.Conhecida como "Constituição Cidadã", a nova Carta consagrou direitos sociais inéditos e universalizou serviços como saúde e educação.
+--------------------------------------------------------------------------------
+Biblioteca da Presidência da República (https://www.biblioteca.presidencia.gov.br/)
+citeturn145search5 [wordlim: 200] Crawled: 2 months ago; A Biblioteca da Presidência da República disponibiliza com exclusividade todo o conteúdo produzido pelos ex-presidentes da República durante o mandato presidencial, além de fornecer informações bibliográficas e publicações oficiais.Acesse a galeria dos Ex-Presidentes ... O Repositório Institucional tem por finalidade preservar a memória e apoiar o processo de gestão do conhecimento.
+--------------------------------------------------------------------------------
+Repositório Institucional da UnB: Estratégias de seleção e substituição de ministros de Estado no presidencialismo de coalizão brasileiro : perfil, alocação e rotatividade (https://repositorio.unb.br/handle/10482/23620)
+citeturn145search6 [wordlim: 200] Published: 9.3 years ago; Crawled: 2 months ago; Duas conclusões principais podem ser destacadas: 1) os presidentes brasileiros possuem alta discricionariedade na seleção e substituição de ministros; e 2) essa discricionariedade foi utilizada para tentar imprimir uma agenda própria de governo. ... Based on a previous proposal, the Ministerial Politicization Index (MPI) was developed to systematically measure ministerial appointments, including features such as degrees of party-political insertion and technical expertise.
+--------------------------------------------------------------------------------
+biblioteca (https://www.biblioteca.presidencia.gov.br/biblioteca)
+citeturn145search7 [wordlim: 200] Crawled: last month; A Biblioteca da Presidência da República foi fundada no governo do Presidente Wenceslau Brás (1914-1918), sendo composta inicialmente por setecentos e setenta e duas obras (772), em três mil seiscentos e noventa e cinco (3695) volumes. ... ## Histórico dos Órgãos ... O Repositório Institucional tem por finalidade preservar a memória e apoiar o processo de gestão do conhecimento.
+--------------------------------------------------------------------------------
+A Nova República (1985–2002) Imprensa e conglomerados Midiáticos na Nova República (https://www.gov.br/imprensanacional/pt-br/centrais-de-conteudo/info-produtos-da-exposicao-especial/a-nova-republica-198520132002-imprensa-e-conglomerados-midiaticos-na-nova-republica)
+citeturn145search8 [wordlim: 200] Published: 6 months ago; Crawled: today; # A Nova República (1985–2002) Imprensa e conglomerados Midiáticos na Nova RepúblicaO fim da ditadura militar (1985) inaugurou uma profunda reconfiguração no campo midiático brasileiro. ... Esse cenário de concentração de poder, no entanto, foi confrontado por polos de resistência fundamentais: a imprensa sindical e os movimentos sociais. ... 21 - A Nova República (1985–2002) Imprensa e conglomerados Midiáticos na Nova República-ogg .ogg — 1.02 MB
+--------------------------------------------------------------------------------
+Acir dos Santos Almeida | Escavador (https://www.escavador.com/sobre/3294513/acir-dos-santos-almeida)
+citeturn145search9 [wordlim: 200] Published: 3 weeks ago; Crawled: 2 weeks ago;   * ALMEIDA, ACIR . ... Trajetórias da burocracia na Nova República : heterogeneidades, desigualdades e perspectivas (1985-2020). 1ed.Brasília: Ipea, 2023, v. , p. ... Políticas públicas e usos de evidências no Brasil: conceitos, métodos, contextos e práticas. 1ed.Brasília: Ipea, 2022, v. , p. ... Do plenário às comissões: mudança institucional na Câmara dos Deputados. ... Brasil em Desenvolvimento 2014: estado, planejamento e políticas públicas. 1ed.Brasília: Ipea, 2014, v. 2, p.
+--------------------------------------------------------------------------------
+Biblioteca Digital da Produção Intelectual Discente: A coalescência revisitada : o cálculo presidencial no bicameralismo (https://bdm.unb.br/handle/10483/28977)
+citeturn145search10 [wordlim: 200] Published: 4.9 years ago; Crawled: 3 months ago; 2020_LucasAlmeidaCouto_tcc.pdf  |  | 1,21 MB  | Adobe PDF  | ver/abrir ... Autor(es):   | Couto, Lucas Almeida ... Brasil - política e governo ... Trabalho de Conclusão de Curso (Bacharelado em Ciência Política)—Universidade de Brasília, Brasília, 2020.Resumo:   | O principal objetivo desta pesquisa é incluir a dinâmica bicameral nos estudos sobre como são construídos os gabinetes presidenciais.
+--------------------------------------------------------------------------------
+almeida - Arquivo Histórico da Presidência da República - Archeevo (https://www.arquivo.presidencia.pt/results?p=51&s=CompleteUnitId&sd=False&searchType=Description&t=almeida)
+citeturn145search11 [wordlim: 200] Crawled: 2 weeks ago; # Resultados de pesquisa ... [Input]Espanhol 5 ... [Input]1961 - 1980 140 ... Pesquisou por "almeida" e foram encontrados 1342 resultados. ... ### Assembleia da República: autorizações para viagens presidenciais, mensagens
+--------------------------------------------------------------------------------
+Gabinete do Império do Brasil (https://pt.wikipedia.org/wiki/Gabinete_do_Imp%C3%A9rio_do_Brasil)
+citeturn145search16 [wordlim: 200] Crawled: 5 months ago; Considerado uma experiência singular de adaptação do parlamentarismo europeu às condições políticas e sociais do Brasil do século XIX, o Gabinete desempenhou papel central na construção do Estado imperial e na formação da cultura política brasileira, sendo frequentemente evocado no debate historiográfico e institucional sobre as formas de governo no país após a Proclamação da República. ... - Carvalho, 1980, p. , 96-118. ... Nas décadas seguintes, os gabinetes estiveram associados à aprovação de reformas fundamentais, como a Lei do Ventre Livre (1871) e a Lei dos Sexagenários (1885), que evidenciaram a centralidade do Conselho de Ministros na condução das políticas de Estado. ... Em comparação com o modelo britânico, frequentemente tomado como referência do parlamentarismo no século XIX, o sistema imperial brasileiro apresentava uma inversão do processo de formação do governo: enquanto na Grã-Bretanha o gabinete resultava da maioria parlamentar e o monarca exercia função essencialmente formal, no Brasil o imperador desempenhava papel ativo na escolha do ministério e na gestão das crises políticas. ... Os gabinetes ministeriais eram responsáveis pela condução do governo e pela articulação entre o Executivo e o Parlamento.

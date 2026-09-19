@@ -1,0 +1,17 @@
+{
+  "uf": "RS",
+  "municipio": "8067",
+  "city": "SANANDUVA",
+  "party": "CIDADANIA",
+  "id": 46,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 25,
+      "totalElements": 25,
+      "response_sha256": "309ed6e8f0e5a951f6027ab31dfef6a180c0f39687d0419405c8be47ea40782e",
+      "retrieved_utc": "2026-09-11T00:59:47Z"
+    }
+  ],
+  "matches": []
+}

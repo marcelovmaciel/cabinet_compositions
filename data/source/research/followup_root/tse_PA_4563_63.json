@@ -1,0 +1,24 @@
+{
+  "uf": "PA",
+  "municipio": "4563",
+  "city": "BELÉM",
+  "party": "PSOL",
+  "id": 63,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 19915,
+      "response_sha256": "0b71c6ccd147cbf19164a7d3e822c2dbb1080f50fe03a97dd15cd0742495c1d6",
+      "retrieved_utc": "2026-09-10T23:39:41Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=63&currentPage=1&pageSize=10000",
+      "records": 9915,
+      "totalElements": 19915,
+      "response_sha256": "8f11f1b3c4e942218bf69b40f84a8ea4bdc28b5bb285ca6de2078fd1780cebb4",
+      "retrieved_utc": "2026-09-10T23:40:00Z"
+    }
+  ],
+  "matches": []
+}

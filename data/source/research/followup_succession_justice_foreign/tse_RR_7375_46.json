@@ -1,0 +1,17 @@
+{
+  "party": "CIDADANIA",
+  "id": 46,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 829,
+      "totalElements": 829,
+      "response_sha256": "928f2db5ef588777d52fa44e4447c161d618f3eb27c232dee621097797afa1aa",
+      "retrieved_utc": "2026-09-10T23:41:06Z"
+    }
+  ],
+  "matches": []
+}

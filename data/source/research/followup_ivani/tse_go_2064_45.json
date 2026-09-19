@@ -1,0 +1,16 @@
+{
+  "party": "PCDOB",
+  "id": 45,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 499,
+      "totalElements": 499,
+      "response_sha256": "274e1da7bb754d96d3175a167b426b6343ea08100fb1f60455bd11c91cd3ab9e",
+      "retrieved_utc": "2026-09-10T23:35:32Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,866 @@
+[
+  {
+    "sigla": "04014",
+    "nome": "ABAETETUBA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04502",
+    "nome": "ABEL FIGUEIREDO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04030",
+    "nome": "ACARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04057",
+    "nome": "AFUÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04073",
+    "nome": "ALENQUER",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04090",
+    "nome": "ALMEIRIM",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04111",
+    "nome": "ALTAMIRA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04138",
+    "nome": "ANAJÁS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04154",
+    "nome": "ANANINDEUA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04723",
+    "nome": "ANAPU",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04170",
+    "nome": "AUGUSTO CORRÊA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04340",
+    "nome": "AURORA DO PARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04197",
+    "nome": "AVEIRO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04219",
+    "nome": "BAGRE",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04235",
+    "nome": "BAIÃO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04588",
+    "nome": "BANNACH",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04251",
+    "nome": "BARCARENA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04804",
+    "nome": "BELTERRA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04278",
+    "nome": "BELÉM",
+    "capital": true,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04294",
+    "nome": "BENEVIDES",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04049",
+    "nome": "BOM JESUS DO TOCANTINS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04316",
+    "nome": "BONITO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04332",
+    "nome": "BRAGANÇA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04227",
+    "nome": "BRASIL NOVO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05932",
+    "nome": "BREJO GRANDE DO ARAGUAIA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04448",
+    "nome": "BREU BRANCO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04359",
+    "nome": "BREVES",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04375",
+    "nome": "BUJARU",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04391",
+    "nome": "CACHOEIRA DO ARARI",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04766",
+    "nome": "CACHOEIRA DO PIRIÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04413",
+    "nome": "CAMETÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04707",
+    "nome": "CANAÃ DOS CARAJÁS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04430",
+    "nome": "CAPANEMA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04456",
+    "nome": "CAPITÃO POÇO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04472",
+    "nome": "CASTANHAL",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04499",
+    "nome": "CHAVES",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04510",
+    "nome": "COLARES",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04537",
+    "nome": "CONCEIÇÃO DO ARAGUAIA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05819",
+    "nome": "CONCÓRDIA DO PARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04529",
+    "nome": "CUMARU DO NORTE",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05851",
+    "nome": "CURIONÓPOLIS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04553",
+    "nome": "CURRALINHO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04740",
+    "nome": "CURUÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04570",
+    "nome": "CURUÇÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05975",
+    "nome": "DOM ELISEU",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04120",
+    "nome": "ELDORADO DOS CARAJÁS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04596",
+    "nome": "FARO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04561",
+    "nome": "FLORESTA DO ARAGUAIA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05878",
+    "nome": "GARRAFÃO DO NORTE",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04006",
+    "nome": "GOIANÉSIA DO PARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04618",
+    "nome": "GURUPÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04634",
+    "nome": "IGARAPÉ-AÇU",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04650",
+    "nome": "IGARAPÉ-MIRI",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04677",
+    "nome": "INHANGAPI",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04189",
+    "nome": "IPIXUNA DO PARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04693",
+    "nome": "IRITUIA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04715",
+    "nome": "ITAITUBA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04731",
+    "nome": "ITUPIRANGA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04200",
+    "nome": "JACAREACANGA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04758",
+    "nome": "JACUNDÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04774",
+    "nome": "JURUTI",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04790",
+    "nome": "LIMOEIRO DO AJURU",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04812",
+    "nome": "MAGALHÃES BARATA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04839",
+    "nome": "MARABÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04855",
+    "nome": "MARACANÃ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04871",
+    "nome": "MARAPANIM",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04642",
+    "nome": "MARITUBA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05770",
+    "nome": "MEDICILÂNDIA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04898",
+    "nome": "MELGAÇO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04910",
+    "nome": "MOCAJUBA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04936",
+    "nome": "MOJU",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04863",
+    "nome": "MOJUÍ DOS CAMPOS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04952",
+    "nome": "MONTE ALEGRE",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04979",
+    "nome": "MUANÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04103",
+    "nome": "MÃE DO RIO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04480",
+    "nome": "NOVA ESPERANÇA DO PIRIÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04600",
+    "nome": "NOVA IPIXUNA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04995",
+    "nome": "NOVA TIMBOTEUA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04383",
+    "nome": "NOVO PROGRESSO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04421",
+    "nome": "NOVO REPARTIMENTO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05037",
+    "nome": "OEIRAS DO PARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05053",
+    "nome": "ORIXIMINÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05959",
+    "nome": "OURILÂNDIA DO NORTE",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05070",
+    "nome": "OURÉM",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05916",
+    "nome": "PACAJÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04162",
+    "nome": "PALESTINA DO PARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05096",
+    "nome": "PARAGOMINAS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05835",
+    "nome": "PARAUAPEBAS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04308",
+    "nome": "PAU D'ARCO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05118",
+    "nome": "PEIXE-BOI",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04782",
+    "nome": "PIÇARRA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04626",
+    "nome": "PLACAS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05134",
+    "nome": "PONTA DE PEDRAS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05150",
+    "nome": "PORTEL",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05177",
+    "nome": "PORTO DE MOZ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05193",
+    "nome": "PRAINHA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05215",
+    "nome": "PRIMAVERA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04685",
+    "nome": "QUATIPURU",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05673",
+    "nome": "REDENÇÃO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05690",
+    "nome": "RIO MARIA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05738",
+    "nome": "RONDON DO PARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05894",
+    "nome": "RURÓPOLIS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05231",
+    "nome": "SALINÓPOLIS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05258",
+    "nome": "SALVATERRA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04243",
+    "nome": "SANTA BÁRBARA DO PARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05274",
+    "nome": "SANTA CRUZ DO ARARI",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05290",
+    "nome": "SANTA ISABEL DO PARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04146",
+    "nome": "SANTA LUZIA DO PARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05991",
+    "nome": "SANTA MARIA DAS BARREIRAS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05312",
+    "nome": "SANTA MARIA DO PARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05339",
+    "nome": "SANTANA DO ARAGUAIA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05355",
+    "nome": "SANTARÉM",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05371",
+    "nome": "SANTARÉM NOVO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05398",
+    "nome": "SANTO ANTÔNIO DO TAUÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04847",
+    "nome": "SAPUCAIA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05550",
+    "nome": "SENADOR JOSÉ PORFÍRIO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05576",
+    "nome": "SOURE",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05410",
+    "nome": "SÃO CAETANO DE ODIVELAS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04464",
+    "nome": "SÃO DOMINGOS DO ARAGUAIA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05436",
+    "nome": "SÃO DOMINGOS DO CAPIM",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05479",
+    "nome": "SÃO FRANCISCO DO PARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05452",
+    "nome": "SÃO FÉLIX DO XINGU",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05797",
+    "nome": "SÃO GERALDO DO ARAGUAIA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04820",
+    "nome": "SÃO JOÃO DA PONTA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04065",
+    "nome": "SÃO JOÃO DE PIRABAS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05495",
+    "nome": "SÃO JOÃO DO ARAGUAIA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05517",
+    "nome": "SÃO MIGUEL DO GUAMÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05533",
+    "nome": "SÃO SEBASTIÃO DA BOA VISTA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04022",
+    "nome": "TAILÂNDIA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04545",
+    "nome": "TERRA ALTA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04367",
+    "nome": "TERRA SANTA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05592",
+    "nome": "TOMÉ-AÇU",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04669",
+    "nome": "TRACUATEUA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04286",
+    "nome": "TRAIRÃO",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04081",
+    "nome": "TUCUMÃ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05614",
+    "nome": "TUCURUÍ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04324",
+    "nome": "ULIANÓPOLIS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05754",
+    "nome": "URUARÁ",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05630",
+    "nome": "VIGIA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05657",
+    "nome": "VISEU",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04405",
+    "nome": "VITÓRIA DO XINGU",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05711",
+    "nome": "XINGUARA",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "04260",
+    "nome": "ÁGUA AZUL DO NORTE",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  },
+  {
+    "sigla": "05010",
+    "nome": "ÓBIDOS",
+    "capital": false,
+    "siglaUnidadeSuperior": "PA"
+  }
+]

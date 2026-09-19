@@ -1,0 +1,14 @@
+{
+  "party": "NOVO",
+  "id": 58,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 8076,
+      "totalElements": 8076,
+      "response_sha256": "1fdfd623b5474f9a16b7ba94c0546e241ac4e127f447bd38efadda2f488c1074",
+      "retrieved_utc": "2026-09-10T23:44:34Z"
+    }
+  ],
+  "matches": []
+}

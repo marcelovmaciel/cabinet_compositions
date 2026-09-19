@@ -1,0 +1,14 @@
+{
+  "party": "PV",
+  "id": 52,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=52&currentPage=0&pageSize=10000",
+      "records": 5374,
+      "totalElements": 5374,
+      "response_sha256": "fcba81b610b358ceff9ca02a78375f18706f1959a33fb2465f0cdf0667a492a2",
+      "retrieved_utc": "2026-09-10T23:48:22Z"
+    }
+  ],
+  "matches": []
+}

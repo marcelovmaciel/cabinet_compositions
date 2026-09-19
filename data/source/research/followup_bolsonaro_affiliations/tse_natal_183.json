@@ -1,0 +1,14 @@
+{
+  "party": "MISSÃO",
+  "id": 183,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 166,
+      "totalElements": 166,
+      "response_sha256": "1dbdb912fd1a3da13dd774c69e262ce7c6ac4883c98f5b49fc63f749d9a45f13",
+      "retrieved_utc": "2026-09-10T23:43:05Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,7 @@
+# Offline reconstruction and validation use only the Python standard library.
+[python]
+requires = ">=3.11"
+validated = "CPython 3.12.1 (existing Miniconda environment)"
+packages = []
+# No acquisition, network request, numerical package or dependency installation
+# is part of reconstruction. hashlib.file_digest requires Python 3.11 or newer.

@@ -1,0 +1,17 @@
+{
+  "party": "AVANTE",
+  "id": 50,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 331,
+      "totalElements": 331,
+      "response_sha256": "e11522bf9e367cf2dc04f69c07975573635259f5da50b4e69122433ddd0b68e4",
+      "retrieved_utc": "2026-09-10T23:41:05Z"
+    }
+  ],
+  "matches": []
+}

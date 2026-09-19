@@ -1,0 +1,41 @@
+{
+  "uf": "DF",
+  "municipio": "1778",
+  "party": "REPUBLICANOS",
+  "id": 51,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=51&currentPage=0&pageSize=10000",
+      "records": 5470,
+      "totalElements": 5470,
+      "response_sha256": "336ca5d2b3ff0f0c98f4acc6c2fa6aa3f06f1007469b211478ec4d5b00a75c21",
+      "retrieved_utc": "2026-09-11T00:43:26Z"
+    }
+  ],
+  "matches": [
+    {
+      "sqRegistroFiliacao": 57203596,
+      "cdMotivoCancelamento": null,
+      "cdMotivoDesfiliacao": null,
+      "desSituacaoEleitor": "REGULAR",
+      "dtCancelamento": null,
+      "dtDesfiliacao": null,
+      "dtExclusao": null,
+      "dtFiliacao": [
+        2022,
+        3,
+        28
+      ],
+      "tsCadastroDesfiliacao": null,
+      "nmEleitor": "DAMARES REGINA ALVES",
+      "nomLocalidade": "BRASÍLIA",
+      "sgPartido": "REPUBLICANOS",
+      "sgUe": "DF",
+      "stRegistroFiliacao": 1,
+      "tpSexo": 4,
+      "indPendencia": 0,
+      "indOrigem": 0,
+      "public_registry_identity_sha256": "a59e22aebb6d23fa05e013e90a88a1650d478778f177de7f0109b05b6c97ee05"
+    }
+  ]
+}

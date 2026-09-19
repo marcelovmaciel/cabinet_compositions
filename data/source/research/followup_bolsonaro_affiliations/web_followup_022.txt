@@ -1,0 +1,229 @@
+Eleições Brasil - Datasets - Brasil.IO (https://www.brasil.io/dataset/eleicoes-brasil/filiados/)
+citeturn408search0 [wordlim: 200] Published: 8.4 years ago; Crawled: last week;   * Links relacionados: Perguntas frequentes sobre a filiação partidária ... Baixar dados completos em CSV ... Data da Desfiliação  | Data da Filiação  | Data da Regularização  | Data do Cancelamento  | Data do Processamento  | Motivo do Cancelamento  | Filiado  | Título de Eleitor  | Partido  | Situação  | Tipo do Registro  | UF ...  | 06 de Abril de 5200  |  | 25 de Janeiro de 2010  | 14 de Abril de 2018  | Judicial  | DALGISA PEREIRA SILVA  | 025909641392  | PC DO B  | CANCELADO  | OFICIAL  | PA
+
+#### Eleições Brasil
+
+Dados das eleições brasileiras, desde 1996, capturados do TSE, como: filiados a partidos, candidatos e votação. Note que nem todos os arquivos estão completos - verifique no TSE os que estão completos.
+
+  * Fonte original: Tribunal Superior Eleitoral do Brasil (TSE)
+  * Libertado por: Álvaro Justen
+  * Código-fonte: https://github.com/turicas/eleicoes-brasil
+  * Licença: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+  * Links relacionados: Perguntas frequentes sobre a filiação partidária
+
+Tabelas: bens_candidatos, candidatos, filiados, votacoes.
+
+Quer baixar os dados completos ou precisa acessá-los de maneira automatizada? Antes de mais nada, leia a documentação e depois baixe o dataset completo ou utilize nossa API.
+
+
+##### Filtros
+
+Busca [Input]
+
+Data da Desfiliação [Input]
+
+Data da Filiação [Input]
+
+Data da Regularização [Input]
+
+Data do Cancelamento [Input]
+
+Data do Processamento [Input]
+
+Motivo do Cancelamento [Select]
+
+Filiado [Input]
+
+Município [Input]
+
+Nome do Partido [Input]
+
+Título de Eleitor [Input]
+
+Partido [Select]
+
+Situação [Select]
+
+Tipo do Registro [Select]
+
+UF [Select]
+
+Dados capturados em 27 de Abril de 2018. Importação dos dados feita em 12 de Agosto de 2018 às 22:38:26.
+
+Baixar dados completos em CSV
+
+  * 1-50 de um total de 22.019.796
+  * chevron_right
+
+Data da Desfiliação  | Data da Filiação  | Data da Regularização  | Data do Cancelamento  | Data do Processamento  | Motivo do Cancelamento  | Filiado  | Título de Eleitor  | Partido  | Situação  | Tipo do Registro  | UF
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+--------------------------------------------------------------------------------
+Votações Nominais e Composição Partidária (2018 à 2024) — Assembleia Legislativa de Alagoas (https://www.al.al.leg.br/ouvidoria/20260325123342)
+citeturn408search1 [wordlim: 200] Published: 5 months ago; Crawled: 3 months ago; DADOS DO SOLICITANTE: Nome completo: Sayonara da Silva CPF: 701.211.274-35 E-mail: sayonara.silva@estudante.ufcg.edu.br Telefone: (83)99817-9916 Instituição: Universidade Federal de Campina Grande- UFCG Curso: Ciências Sociais OBJETO DA SOLICITAÇÃO: Solicito os seguintes dados referentes às votações nominais e composição partidária desta Assembleia Legislativa: PERÍODO: 01 de janeiro de 2018 a 31 de dezembro de 2024 DADOS SOLICITADOS: 1.COMPOSIÇÃO PARTIDÁRIA POR LEGISLATURA: - Relação nominal de todos os deputados estaduais eleitos e em exercício - Partido político de cada deputado - Data de posse e término do mandato - Situação (Titular/Suplente) - Mudanças de filiação partidária (transumância) no período 2. ... BASE DE APOIO AO GOVERNO: - Indicação oficial dos partidos que compuseram a base governista em cada ano - Recomendação de voto do líder do governo em cada matéria (quando houver) FORMATO DE ENTREGA: Solicito que os dados sejam disponibilizados em formato aberto e estruturado, preferencialmente: - CSV (.csv) - Planilha Excel (.xlsx) Caso não seja possível em formato estruturado, aceito PDF pesquisável.
+COMPOSIÇÃO PARTIDÁRIA POR LEGISLATURA: - Relação nominal de todos os deputados estaduais eleitos e em exercício - Partido político de cada deputado - Data de posse e término do mandato - Situação (Titular/Suplente) - Mudanças de filiação partidária (transumância) no período 2. VOTAÇÕES NOMINAIS: - Data e número de cada sessão plenária - Tipo e número da matéria votada (PL, PEC, PDL, etc.) - Ementa/descrição resumida da matéria - Resultado da votação (Aprovado/Rejeitado/Adiado) - Voto nominal de cada deputado presente (Sim/Não/Abstenção) - Deputados ausentes em cada votação 3. BASE DE APOIO AO GOVERNO: - Indicação oficial dos partidos que compuseram a base governista em cada ano - Recomendação de voto do líder do governo em cada matéria (quando houver) FORMATO DE ENTREGA: Solicito que os dados sejam disponibilizados em formato aberto e estruturado, preferencialmente: - CSV (.csv) - Planilha Excel (.xlsx) Caso não seja possível em formato estruturado, aceito PDF pesquisável. FINALIDADE: Os dados serão utilizados exclusivamente para fins acadêmicos, em pesquisa sobre "Governos de Coalizão nos Estados Brasileiros: Mecanismos de Sustentação Democrática ou Fontes de Clientelismo?", com previsão de submissão de artigo científico à ALACIP 2026 (Asociación Latinoamericana de Ciencia Política). FUNDAMENTAÇÃO LEGAL: Esta solicitação fundamenta-se nos seguintes dispositivos da LAI: - Art. 3º: A publicidade como preceito geral e o sigilo como exceção - Art. 7º: Acesso à informação compreende o direito de obter informação completa - Art. 8º: Divulgação de dados em formato aberto e estruturado - Art. 10: Prazo de 20 dias para resposta (prorrogável por +10) - Art. 11: Gratuidade do acesso à informação PRAZO: Conforme Art. 10 da LAI, solicito resposta no prazo legal de 20 (vinte) dias, contados a partir do recebimento desta solicitação. CONTATO PARA ESCLARECIMENTOS: Em caso de dúvidas sobre esta solicitação, estou à disposição através do e-mail sayonra.silva@estudante.ufcg.edu.br ou telefone (83)99817-9916. Agradeço antecipadamente pela atenção e colaboração com a pesquisa científica brasileira. Atenciosamente, Sayonara da Silva 701.211.274-35 Campina Grande - PB 25/03/2026
+
+Criada em: 25/03/2026 12h33
+
+Tipo de solicitação: Pedido de Acesso à Informação
+
+Área: Ouvidoria
+
+Protocolo: 20260325123342
+
+Status atual: Pendente
+
+## Respostas
+
+Ainda não existem respostas para esta solicitação.
+
+## Arquivos anexados
+
+Esta solicitação ainda não contém nenhum arquivo anexado.--------------------------------------------------------------------------------
+Ministro de Bolsonaro, Ciro Nogueira, deu cargo de R$ 13 mil à esposa de seu secretário-executivo - Portal 3 de Julho (https://portal3dejulho.com.br/regiao-sudeste/ministro-de-bolsonaro-ciro-nogueira-deu-cargo-de-r-13-mil-a-esposa-de-seu-secretario-executivo/)
+citeturn408search2 [wordlim: 200] Published: 4.9 years ago; Crawled: 6 months ago; Ana Carolina é casada há 10 anos com o hoje número 2 de Ciro Nogueira na pasta, o secretário-executivo Jônathas Assunção Salvador Nery de Castro, de 38 anos. ... Antes de ser alçada ao cargo, atuou como diretora técnica da Sialo Geologia e Meio Ambiente LTDA, companhia em que é sócia ao lado de Patrícia Fernandes do Nascimento. ... Em 2019, participou da equipe de transição do governo do presidente Jair Bolsonaro (sem partido), ao comandar o grupo de Desenvolvimento Regional. ... No fim de julho, o Metrópoles revelou que uma irmã de Ciro Nogueira, a advogada Juliana e Silva Nogueira Lima (PP-PI), de 45 anos, ganhou um cargo, durante o primeiro ano de governo Bolsonaro, na Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (Codevasf), também conhecida como a “estatal do Centrão”. ... Entre as várias autoridades presentes no evento, como o então ministro do Desenvolvimento Regional e atual presidente da Dataprev, Gustavo Canuto, estava o senador Ciro Nogueira.
+Ele virou secretário-executivo da Casa Civil em abril deste ano, quando a pasta ainda era comandada pelo general Luiz Eduardo Ramos. O engenheiro mecânico também acompanhou o militar na Secretaria de Governo (Segov) da Presidência da República, responsável por controlar as emendas orçamentárias negociadas com o Congresso.
+
+Em 2019, participou da equipe de transição do governo do presidente Jair Bolsonaro (sem partido), ao comandar o grupo de Desenvolvimento Regional. Hoje, além de secretário-executivo, é presidente do Conselho Nacional de Proteção de Dados Pessoais (CNPD).
+
+Outro lado
+
+As assessorias de imprensa da Casa Civil da Presidência da República e do ministro Ciro Nogueira foram procuradas na manhã da última segunda-feira (27/9), mas não se manifestaram sobre o achado.
+
+Ana Carolina e Jônathas Assunção também foram demandados por meio de seus e-mails institucionais. A geóloga chegou a atender um telefonema do Metrópoles, mas alegou estar em uma conferência e disse que não poderia falar com a reportagem. --------------------------------------------------------------------------------
+Quem foi escolhido para equipe de transição de Bolsonaro (https://www.gazetadopovo.com.br/politica/republica/quem-sao-os-nomes-escolhidos-por-bolsonaro-para-equipe-de-transicao-6aywcdc5k05s4dpuk3tx8c1co/)
+citeturn408search3 [wordlim: 200] Published: 7.9 years ago; Crawled: 10 months ago; Defende temas como Escola sem Partido, encarceramento e as reformas de Michel Temer. ... O ex-secretário de Planejamento do município de São Paulo e ex-deputado federal ficou conhecido pela defesa da proposta do imposto único. ... Atualmente é professor titular e vice-presidente da Fundação Getúlio Vargas. com experiência na área econômica, com ênfase em política tributária. ... Um dos donos da AM4, a maior prestadora de serviços da candidatura do capitão reformado. ... 23) Jonathas Assunção Salvador Nery de Castro
+Tem experiência na área de Direito, com ênfase em Direito Público.
+
+16) Waldery Rodrigues Júnior
+
+É doutor em economia pela Universidade de Brasília (UnB), graduado em engenharia pelo Instituto Tecnológico de Aeronáutica e mestre, também em economia, pela Universidade de Michigan. Atualmente atual como coordenador-geral na Secretaria de Política Econômica (SPE) do Ministério da Fazenda.
+
+17) Adolfo Sachsida
+
+Pesquisador do Instituto de Pesquisa Econômica Aplicada (Ipea), doutor em economia pela Universidade de Brasília (UnB), pós-graduado na Universidade do Alabama, nos Estados Unidos. Concorreu a deputado distrital pelo DEM em 2014, aproximou-se de Bolsonaro mais pelo ativismo político que econômico. Defende temas como Escola sem Partido, encarceramento e as reformas de Michel Temer.
+
+18) Marcos Cintra Cavalcanti de Albuquerque
+
+O ex-secretário de Planejamento do município de São Paulo e ex-deputado federal ficou conhecido pela defesa da proposta do imposto único. É formado em economia pela Harvard College e mestre em planejamento regional na mesma universidade. Atualmente é professor titular e vice-presidente da Fundação Getúlio Vargas. com experiência na área econômica, com ênfase em política tributária.
+
+19) Antônio Flávio Testa
+
+Cientista Político, com atuação na dinâmica do Congresso Nacional. 
+
+20) Marcos Aurélio Carvalho
+
+Um dos donos da AM4, a maior prestadora de serviços da candidatura do capitão reformado. Carvalho explicou que vai ajudar na comunicação da equipe, segundo a Folha de S. Paulo.
+
+Outros nomes da transição:
+
+21) Paulo Roberto
+
+22) Eduardo Chaves Vieira
+
+23) Jonathas Assunção Salvador Nery de Castro
+
+24) Ismael Nobre
+
+25) Bruno Eustáquio Ferreira Castro de Carvalho
+
+26) Sérgio Augusto de Queiroz
+
+27) Luiz Tadeu Vilela Blumm
+
+## Veja as nomeações no Diário Oficial da União
+--------------------------------------------------------------------------------
+Portal de Programas de P�s-Gradua��o (UFRRJ) (https://sigaa.ufrrj.br/sigaa/public/programa/defesas.jsf?id=7552&lc=pt_BR)
+citeturn408search4 [wordlim: 200] Crawled: today;   * O ENSINO DE HISTÓRIA EM DISPUTA: UMA ANÁLISE CRÍTICA DO DISCURSO DO ESCOLA SEM PARTIDO E PROJETO MECENAS ...   * JOSE COSTA D ASSUNCAO BARROS ...   * Esta dissertação analisa os discursos produzidos pelo Escola Sem Partido e pelo Projeto ... professores, produção historiográfica, escola, neutralidade política e conhecimento histórico. ...   * ANA PAULA BARCELOS RIBEIRO DA SILVA  * TATYANA DE AMARAL MAIA ...   * Esta dissertação analisa as representações do Levante Paulista de 1932 produzidas pela imprensa de Resende (RJ).O objetivo é compreender como os periódicos A Lyra e A Opinião noticiaram, interpretaram e procuraram conferir sentido ao movimento, identificando os termos empregados, os posicionamentos pró-paulistas ou governistas e os impactos da guerra sobre a sociedade resendense.
+  * LOHANA JESSICA DE CARVALHO
+  * O ENSINO DE HISTÓRIA EM DISPUTA: UMA ANÁLISE CRÍTICA DO DISCURSO DO ESCOLA SEM PARTIDO E PROJETO MECENAS
+  * Orientador : ALEXANDRE FORTES
+  * MEMBROS DA BANCA :
+  * ALEXANDRE FORTES
+  * JOSE COSTA D ASSUNCAO BARROS
+  * LUCIANA PUCU WOLLMANN DO AMARAL
+  * Data: 11/08/2026
+Ata de defesa assinada:
+  *   * Mostrar Resumo
+  * Esta dissertação analisa os discursos produzidos pelo Escola Sem Partido e pelo Projeto
+Mecenas, vinculado à Brasil Paralelo, buscando compreender como tais iniciativas constroem
+narrativas sobre o ensino de história no Brasil contemporâneo. Inserida no campo da História
+do Tempo Presente, a pesquisa parte da compreensão de que o ensino de história constitui um
+espaço de disputas discursivas e políticas, especialmente em um contexto marcado pela
+ampliação das mídias digitais e pela circulação imensurável de conteúdos históricos fora do
+ambiente acadêmico. O trabalho utiliza como principal metodologia a Análise Crítica do
+Discurso Textualmente Orientada (ADTO) (Fairclough, 2001), entendida como uma
+--------------------------------------------------------------------------------
+Conselho Nacional de Justiça - CNJ (https://www.cnj.jus.br/wp-content/uploads/2021/08/clipping-cnj-11082021.pdf)
+citeturn408search12 [wordlim: 200] Published: 5.1 years ago; O presidente Jair Bolsonaro (sem partido) nomeou os 23 representantes do conselho consultivo da Autoridade Nacional de Proteção de Dados (ANPD), órgão responsável por fiscalizar e regulamentar a Lei Geral de Proteção de Dados (LGPD). ... Jonathas Assunção Salvador Nery de Castro ... Opção do Ministério da Economia, Souza é diretor de programa na pasta e graduado em Ciência Política, Direito e Relações Internacionais.
+Seus mandatos duram 2 anos.
+
+O grupo se reunirá três vezes ao ano ou sempre que for convocado por seu presidente. Os membros deverão propor diretrizes para a atuação da ANPD e opinar em itens da política nacional de proteção de dados.
+
+Confira os representantes de cada setor no conselho consultivo da autoridade:
+
+Poder Executivo
+
+Jonathas Assunção Salvador Nery de Castro
+
+Indicado pela Casa Civil, ocupará o cargo de presidente do conselho consultivo. Engenheiro mecânico de formação, ele é o atual secretário-executivo da Secretaria de Governo, órgão responsável pela articulação política do governo com o Congresso, interlocução com os estados e os municípios e entidades da sociedade.
+
+Rodrigo Lange
+
+Diretor de tecnologia da informação e comunicação do Ministério da Justiça e Segurança Pública, que o recomendou para o Conselho. Lange já foi perito da Polícia Federal e é graduado em direito e informática.
+
+Marcelo de Lima e Souza
+
+Opção do Ministério da Economia, Souza é diretor de programa na pasta e graduado em Ciência Política, Direito e Relações Internacionais. Ele também tem especialização em defesa da concorrência.
+
+Marcos Cesar de Oliveira Pinto
+
+Indicado pelo Ministério da Ciência, Tecnologia e Inovações, ele é diretor de empreendedorismo inovador na pasta e tem formação em ciências da computação.
+
+Adriano de Souza Azevedo
+
+Coronel da reserva do Exército. Foi recomendado pelo Gabinete de Segurança Institucional (GSI) da Presidência da República, órgão no qual é assessor.
+
+79--------------------------------------------------------------------------------
+Filiação Partidária — Temas Selecionados (https://temasselecionados.tse.jus.br/temas-selecionados/filiacao-partidaria)
+citeturn408search5 [wordlim: 200] Published: 2 months ago; Crawled: yesterday; In casu, a) A controvérsia jurídica cinge-se em saber se a Recorrida logrou, ou não, comprovar a condição de elegibilidade ex vi do art. 14, § 3º, V, Constituição de 1988 (i.e., filiação partidária), uma vez que, conquanto tenha formalizado seu registro pelo PSD, o Cartório Eleitoral e o registro no Filiaweb informam sua vinculação junto ao PRP. b) Consta da moldura fática delineada no aresto hostilizado que o Cartório Eleitoral certificou que a Recorrida encontrava-se filiada junto ao PRP desde 30.9.2016, informação corroborada pelo exame dos registros internos do Sistema Filiaweb: havia três registros sucessivos, o primeiro, ao PSOL (filiação de 6.3.2015 e cancelamento em 11.8.2015), o segundo, ao PSD (filiação em 6.9.2015 e cancelamento em 7.6.2016) e, o terceiro, ao PRP (filiação vigente desde 30.9.2016).A fim de comprovar que sua vinculação ao partido ao qual restou filiada no sistema Filiaweb (PRP) se deu de forma equivocada, a candidata juntou, entre outros elementos, declaração do Presidente da referida agremiação afirmando inexistir ficha de filiação com o seu nome. c) A própria agremiação adversária (PRP) emitiu o documento atestando que a Recorrida sequer integrou seus quadros de filiados, circunstância que amaina o rigorismo da Súmula nº 20 e, em consequência, chancela a tese suscitada pela Recorrida (e encampada pelo Regional Eleitoral). d) Como consectário, da moldura fática do aresto regional, não vislumbro evidências de que a conclusão da Corte tenha se ancorado em elementos unilateralmente elaborados e, por isso, destituídos de fé pública. e) Ao revés: extrai-se dos fundamentos do decisum que a conclusão referente à subsistência da filiação da Recorrida ao PSD lastreou-se na ausência de prova de que sua inclusão ao PRP decorreu de sua manifestação de vontade, razão pela qual inferiram, com acerto, que a segunda filiação ocorrera por algum equívoco, tanto que determinaram a extração de cópias de peças dos autos para encaminhar ao representante do Parquet eleitoral, a fim de que procedesse às diligências que reputasse necessárias.
+(Ac. de 18.12.2018 no AgR-RO nº 060289263, rel. Min. Edson Fachin.)
+
+ 
+
+ 
+
+“Eleições 2018 [...] Filiação partidária. Comprovação. Verbete sumular 20/TSE. [...] 2. [...] o candidato se filiou ao PRP em 9.3.2018, ao PRTB em 6.4.2018 e ao Pode em 7.4.2018, e que o Sistema Filiaweb promoveu, em 14.4.2018, o cancelamento automático das duas primeiras filiações. 3. Não obstante esses cancelamentos, houve a opção pela primeira filiação, ato de vontade que foi reconhecido em sede administrativa pela própria Justiça Eleitoral. 4. A teor do verbete sumular 20/TSE, a prova de filiação partidária pode ser realizada por outros elementos de convicção, inclusive pelo conjunto harmônico de provas, tal como se verifica no caso dos autos, em que foi apresentada a ficha de filiação, além do que, diante de um contexto específico de cancelamento de múltiplas filiações do candidato, houve uma decisão administrativa do Juízo Eleitoral, reconhecendo o vínculo partidário pelo partido pelo qual o agravado concorreu, pronunciamento que contou, inclusive, com a concordância do órgão ministerial em primeiro grau. --------------------------------------------------------------------------------
+A Língua Notícias - Por Gaspar Bandeira (https://www.alinguanoticias.com.br/index.php?pageNum_rsNoticias=455&totalRows_rsNoticias=18140)
+citeturn408search6 [wordlim: 200] Crawled: 10 months ago; A jornalista potiguar Estella Dantas, que há anos é assessora do deputado Fábio Faria, e assumiu a chefia de gabinete do Ministério das Comunicações, será nomeada secretária executiva do órgão. ... Na noite da terça-feira (10), a PEC foi rejeitada em votação no Plenário da Câmara, impondo uma derrota a uma das pautas mais caras ao presidente Jair Bolsonaro (sem partido), que vinha atacando ministros – como Barroso – e opositores à proposta com ameaças a realização das eleições do próximo ano.
+--------------------------------------------------------------------------------
+Anexo 2
+
+Tabela 5 - Trajetória de filiação partidá (https://ppgsociologia.paginas.ufsc.br/files/2018/11/ANAIS-COMPLETOS-FINAL-compressed.pdf)
+citeturn408search13 [wordlim: 200] Published: 7.8 years ago; Crawled: 7.8 years ago; Tabela 5 - Trajetória de filiação partidária dos(as) deputados(as) federais que migraram para o PMB entre 2015-2016 ... <td>PTB, 1991-2002; PMDB, 2002-2015; PMB, 2015-2016; PTN, 2016-2017; PODE, 2017-2018; DEM, 2018-.</td> ... Fonte: elaborado pela autora a partir de dados do Tribunal Superior Eleitoral
+--------------------------------------------------------------------------------
+DOI: 10.55905/cuadv16n3-014 (https://ojs.cuadernoseducacion.com/ojs/index.php/ced/article/download/3548/3116/10602)
+citeturn408search14 [wordlim: 200] Published: 2.4 years ago; Em função da entrada em vigor da Lei 13.709/2018, Lei Geral de Proteção ... vedada a filiação partidária de menor de 16 anos). ... idade do indivíduo na data de filiação, foram agrupados os filiados em 4 grupos:
+--------------------------------------------------------------------------------
+Filiação/Desfiliação Partidária — Tribunal Regional Eleitoral de Roraima (https://www.tre-rr.jus.br/partidos/filiacao-desfiliacao-partidaria)
+citeturn408search7 [wordlim: 200] Crawled: last week; O acesso ao novo Sistema de Filiação Partidária (FILIA) foi concedido ao presidente nacional de cada partido político com registro de estatuto no TSE, como administrador nacional do sistema. ... Resolução TSE n.º 23.596/2019 - Dispõe sobre a filiação partidária, institui o Sistema de Filiação Partidária (FILIA), disciplina o encaminhamento de dados pelos partidos políticos à Justiça Eleitoral e dá outras providências.
+--------------------------------------------------------------------------------
+Wesley dos Santos Lima (https://pem.assis.unesp.br/index.php/pem/article/download/4089/3207/16940)
+citeturn408search15 [wordlim: 200] Published: 8 months ago; Governador José Wilson Siqueira Campos | Período de Gestão 1989 – 1991 | Filiação Partidária PFL | Observações - --- | --- | --- | --- Governador Moisés Nogueira Avelino | Período de Gestão 1991 – 1995 | Filiação Partidária PMDB | Observações - Governador José Wilson Siqueira Campos | Período de Gestão 1995 - 1998 | Filiação Partidária PDC | Observações - Governador Raimundo Nonato Pires dos Santos | Período de Gestão 1998 - 1999 | Filiação Partidária PDC | Observações - Governador José Wilson Siqueira Campos | Período de Gestão 1999 – 2003 | Filiação Partidária PFL | Observações - Governador Marcelo de Carvalho Miranda | Período de Gestão 2003 - 2007 | Filiação Partidária PMDB | Observações - Governador Marcelo de Carvalho Miranda | Período de Gestão 2007 – 2009 | Filiação Partidária PMDB | Observações Reeleito e cassado Governador Carlos Henrique Amorim | Período de Gestão 2009 – 2011 | Filiação Partidária PMDB | Observações Eleito indiretamente Governador José Wilson Siqueira Campos | Período de Gestão 2011 – 2014 | Filiação Partidária DEM | Observações Renunciou, assumindo Sandoval Cardoso Governador Sandoval Cardoso | Período de Gestão 2014 | Filiação Partidária SD | Observações - Governador Marcelo de Carvalho Miranda | Período de Gestão 2015 – 2018 | Filiação Partidária PMDB | Observações Cassado Governador Mauro Carlesse | Período de Gestão 2018 – 2022 | Filiação Partidária PSL | Observações Renunciou, assumindo Wanderlei Barbosa Governador Wanderlei Barbosa Castro | Período de Gestão 2021 | Filiação Partidária Republicanos | Observações Eleito em 2022 para o mandato de 2024 – 2026.
+--------------------------------------------------------------------------------
+Bolsonaro diverge de Guedes sobre Previdência e nomeia só homens para transição até agora | Brasil | EL PAÍS Brasil (https://brasil.elpais.com/brasil/2018/11/05/politica/1541453310_356158.html)
+citeturn408search8 [wordlim: 200] Published: 7.9 years ago; Crawled: 2 months ago; O presidente eleito sugeriu fazer "alguma" mudança no sistema de aposentadorias "sem colocar em risco e sem levar pânico à sociedade” e descartando mudanças profundas para categorias que lhe são próximas, como militares e policiais. ... Os recados do STF a Bolsonaro sobre “autoritarismo” e Escola Sem Partido ... Até o momento, além do futuro chefe da Casa Civil e de Sérgio Moro, foram definidos como ministros o general Augusto Heleno (Defesa), o astronauta Marcos Pontes (Ciência e Tecnologia) e Paulo Guedes (Economia).Um dos próximos a ser anunciados deve ser o ministro da Infraestrutura. ... Gulliem Charles Bezerra Lemos; ... Jonathas Assunção Salvador Nery De Castro; ...   * Presidente Brasil
+--------------------------------------------------------------------------------
+Dataset - Portal de Dados Abertos do TSE (https://dadosabertos.tse.jus.br/tl/dataset/?_groups_limit=0&page=6&res_format=CSV)
+citeturn408search9 [wordlim: 200] Crawled: last week; # Portal de Dados Abertos do TSE ... Formats: CSV ... Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária ATENÇÃO! ...   * ## Comparecimento e Abstenção - 2018 ... Códigos oficiais das Unidades Federativas (UF) e dos municípios, conforme estabelecido pela Justiça Eleitoral (TSE) e pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
+--------------------------------------------------------------------------------
+UNIVERSIDADE FEDERAL DE MINAS GERAIS (https://ppgcp.fafich.ufmg.br/defesas/406M.PDF?src=20924)
+citeturn408search16 [wordlim: 200] Published: 4 months ago; Quadro 8 - 55ª Legislatura: Partidos: | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Deputados: --- | --- Quadro 8 - 55ª Legislatura: PR (7): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Capitão Augusto, Capitão Fábio Abreu, Delegado Edson Moreira, Laerte Bessa, Lincoln Portela, Magda Mofatto, Marcelo Delaroli Quadro 8 - 55ª Legislatura: DEM (5): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Alberto Fraga, Alexandre Leite, Efraim Filho, Onyx Lorenzoni, Pauderney Avelino Quadro 8 - 55ª Legislatura: PSL (5): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Delegado Fernando Francischini, Delegado Waldir, Eduardo Bolsonaro, Jair Bolsonaro, Major Olímpio Quadro 8 - 55ª Legislatura: PMDB/MDB (4): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Alceu Moreira, Edio Lopes, Rogério Peninha Mendonça, Ronaldo Benedet Quadro 8 - 55ª Legislatura: PSD (4): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Delegado Éder Mauro, João Rodrigues, Marcos Montes, Marcos Reategui Quadro 8 - 55ª Legislatura: PRB (3): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados João Campos, Ronaldo Martins, Vinicius Carvalho Quadro 8 - 55ª Legislatura: Podemos/ex-PTN (3): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Aluísio Mendes, Laudívio Carvalho, Silas Freire Quadro 8 - 55ª Legislatura: PSC (2): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Andre Moura, Gilberto Nascimento Quadro 8 - 55ª Legislatura: PSDB (2): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Carlos Sampaio, Rocha Quadro 8 - 55ª Legislatura: PTB (2): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Arnaldo Faria de Sá, Wilson Filho Quadro 8 - 55ª Legislatura: Avante/ex-PTdoB (1): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Cabo Sabino Quadro 8 - 55ª Legislatura: Patriota (1): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Pastor Eurico Quadro 8 - 55ª Legislatura: PDT (1): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Subtenente Gonzaga Quadro 8 - 55ª Legislatura: PP (1): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Guilherme Mussi Quadro 8 - 55ª Legislatura: PROS (1): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Vitor Valim Quadro 8 - 55ª Legislatura: PSB (1): | filiação partidária dos deputados da bancada da bala em dez. 2018 – 43 deputados Gonzaga PatriotaFonte: Câmara dos Deputados; elaboração própria.
+--------------------------------------------------------------------------------
+Conheça os nomes dos 27 integrantes de equipe de transição de Bolsonaro (https://www.poder360.com.br/governo/conheca-nomes-de-27-integrantes-de-equipe-de-transicao-de-bolsonaro/)
+citeturn408search10 [wordlim: 200] Published: 7.9 years ago; Crawled: 3 weeks ago; Jonathas Assunção Salvador Nery de Castro ... Luciano Castro Filho é formado em engenharia no Instituto Tecnológico da Aeronáutica, fez mestrado e doutorado em economia matemática no Instituto de Matemática Pura e Aplicada.Leciona na Universidade de Iowa, nos Estados Unidos, mas retornará ao Brasil para colaborar com estratégias na área de energia do novo governo.
+--------------------------------------------------------------------------------
+FILIAÇÕES PARTIDÁRIAS: INCLINAÇÕES DO ELEITORADO E MUDANÇAS NOS (https://www.encontro2023.anpocs.org.br/arquivo/downloadpublic?q=YToyOntzOjY6InBhcmFtcyI7czozNToiYToxOntzOjEwOiJJRF9BUlFVSVZPIjtzOjQ6IjgxNTIiO30iO3M6MToiaCI7czozMjoiOGNkOTIyMGI0NzhlNTJmNWIzNzUzMDU3ODRkNGIwYTQiO30%3D)
+citeturn408search17 [wordlim: 200] Published: 1.2 years ago; A filiação partidária é um importante mecanismo, a qual permite que os cidadãos se ... vivenciando uma crise partidária, analisando o quantitativo de eleitores filiados no Brasil ao longo de ... reconfiguração do número de filiados entre os partidos políticos, analisando os dados por partido na ... eleições de 2018, a fim de que possamos traçar algumas pistas sobre o comportamento dos eleitores
+--------------------------------------------------------------------------------
+Tribunal Regional Eleitoral de Minas Gerais - 03/07/2020 - TRE-MG - Padrão - Pg. 137 | Escavador (https://www.escavador.com/diarios/3252257/TRE-MG/tremg-padrao/2020-07-03?page=137)
+citeturn408search11 [wordlim: 200] Published: 6.3 years ago; Crawled: last week; No ato de filiação partidária ou de desfiliação, deve prevalecer a autonomia da vontade do filiado, a quem éassegurado o direito ... Pelo que do expediente consta, portanto, élegítima a manutenção da filiação junto ao MDB em detrimento da filiação ao partido PTC, ... Esse entendimento foi reafirmado para as Eleições de 2018, no Recurso Eleitoral n^{Q} 25-09.2018.6.13.0132, de 6 de setembro de 2018, Rei.

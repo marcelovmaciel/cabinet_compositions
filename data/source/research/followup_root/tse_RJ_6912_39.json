@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6912",
+  "city": "DUQUE DE CAXIAS",
+  "party": "PRTB",
+  "id": 39,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6912&sqPartido=39&currentPage=0&pageSize=10000",
+      "records": 212,
+      "totalElements": 212,
+      "response_sha256": "38fc69e74864d1a81d42d146cebfdc32a85f88cc3e21f0d0b5f1c296d48242a5",
+      "retrieved_utc": "2026-09-10T23:40:39Z"
+    }
+  ],
+  "matches": []
+}

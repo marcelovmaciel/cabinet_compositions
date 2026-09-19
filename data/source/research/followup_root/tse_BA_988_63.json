@@ -1,0 +1,24 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "PSOL",
+  "id": 63,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 17028,
+      "response_sha256": "ace8a25754d1c58f0ff5b32b737bf2b424a83dda82f2f727a529c9f95f9f6716",
+      "retrieved_utc": "2026-09-10T23:38:25Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=63&currentPage=1&pageSize=10000",
+      "records": 7028,
+      "totalElements": 17028,
+      "response_sha256": "c94213172882201fb4438f0be0146c783533cc875e2b7f26478c63e4e26e0b15",
+      "retrieved_utc": "2026-09-10T23:38:38Z"
+    }
+  ],
+  "matches": []
+}

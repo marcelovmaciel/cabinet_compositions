@@ -1,0 +1,17 @@
+{
+  "party": "MISSÃO",
+  "id": 183,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 67,
+      "totalElements": 67,
+      "response_sha256": "aa8cc82b5cfb5446bae2a4bd1be66cb1f5ba5597f482aec29458690bbf09366a",
+      "retrieved_utc": "2026-09-10T23:41:07Z"
+    }
+  ],
+  "matches": []
+}

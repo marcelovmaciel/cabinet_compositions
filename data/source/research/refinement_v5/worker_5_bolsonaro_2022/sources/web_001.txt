@@ -1,0 +1,224 @@
+Tribunal Superior Eleitoral (https://ptmg.org.br/wp-content/uploads/2024/02/guia-do-usuario-sistema-de-filiacao-partidaria-filia.pdf)
+citeturn0search12 [wordlim: 200] Na seção “Relação de Filiados” há uma tabela com colunas “Título de Eleitor”, “Nome”, “Data de Filiação”, “Data de Desfiliação”, “Data Cancelamento”, “Situação” e “Ações”, com ícones de lupa, lápis e círculo com sinal de menos em cada linha. ... - Data cadastro desfiliação: Data apresentada somente quando o partido realizar o cadastro da intenção de desfiliação do registro.
+Tribunal Superior Eleitoral  
+Secretaria de Tecnologia da Informação
+
+Guia do usuário  
+Sistema de Filiação Partidária – FILIA  
+Módulo Externo
+
+# 10.1 Consulta Relação de Filiados
+
+Para realizar a consulta pela relação de filiados, informe os parâmetros obrigatórios e clique em “Consultar”, o sistema apresenta o resultado da consulta na grid:
+
+<visual_element id="e1">
+Tela do sistema “Sistema de Filiação Partidária - Externo” com a consulta “Consultar Relação de Filiados”. No formulário aparecem os campos Partido: “99 - TST - TESTE”; Situação do Registro *: “REGULAR, EXCLUÍDO, SUB JUDICE, DESFILIADO, AGUARDANDO PROCESS...” (texto truncado); UF *: “AC”; Município *: “ACRELÂNDIA”; Zona *: “8”. Abaixo há os botões “Consultar” e “Limpar”. Na seção “Relação de Filiados” há uma tabela com colunas “Título de Eleitor”, “Nome”, “Data de Filiação”, “Data de Desfiliação”, “Data Cancelamento”, “Situação” e “Ações”, com ícones de lupa, lápis e círculo com sinal de menos em cada linha. Linhas visíveis: “9999 9999 9999 | CARLOS | 26/05/1982 | - | - | Regular”; “9999 9999 9999 | JOSE . | 18/09/1987 | - | - | Regular”; “9999 9999 9999 | JOSE | 12/03/1988 | - | - | Regular”; “9999 9999 9999 | VANDERLEI | 04/07/1988 | - | - | Regular”; “9999 9999 9999 | ALDEIZO | 15/07/1988 | - | - | Regular”.
+</visual_element>
+
+No resultado da consulta são apresentados os seguintes dados:
+
+- Título de eleitor: Apresenta o título de eleitor vinculado ao registro de filiação;
+- Nome: Apresenta o nome vinculado ao registro de filiação;
+- Data Filiação: Apresenta a data da filiação cadastrada para o registro;
+- Data cadastro desfiliação: Data apresentada somente quando o partido realizar o cadastro da intenção de desfiliação do registro. Data em que a intenção da desfiliação foi realizada pelo partido no sistema.
+- Data desfiliação: Data apresentada somente quando a desfiliação do registro for realizada pela Justiça Eleitoral. Data da desfiliação realizada pela Justiça Eleitoral no sistema.
+- Situação: Situação atual do registro de filiação no sistema.
+- Ações: O sistema apresenta as ações de acordo com a situação do registro de filiação. Ações apresentadas: Detalhar registro de filiação, Alterar registro de filiação, Desfiliar registro e Reverter desfiliação. Para saber mais informações sobre o funcionamento das ações, vide item “8 Registro” deste documento.
+
+Arquivo: Filia_Externo
+
+Versão do modelo: 3.0 19/09/23
+
+Página 32 de 52--------------------------------------------------------------------------------
+PORTARIA Nº 360, DE 1º DE JUNHO DE 2021 — Tribunal Superior Eleitoral (https://www.tse.jus.br/legislacao/compilada/prt/2021/portaria-no-360-de-1o-de-junho-de-2021)
+citeturn0search0 [wordlim: 200] Published: 5.3 years ago; Crawled: 2 days ago; Em 2015, o tema foi abordado na Consulta ao TSE de nº 277-85, que foi julgada prejudicada pelo objeto já ter sido apreciado pela Corte, entendendo que a jurisprudência do TSE é firme no sentido de ser incabível a propositura de ação de perda de cargo eletivo por desfiliação partidária se o Partido expulsa o Mandatário da legenda.Não obstante, até hoje há diversos Partidos Políticos que requerem o cargo do parlamentar expulso justificando o pedido na ocorrência de infidelidade partidária (exemplo: AI nº 0600545- 41.2018.6.16.0000, PET nº 0600065-17.2018.608.0000, PET nº 0600533-40.2020.613.0000, PET nº 0600362-86.2018.6.19.0000), motivo pelo qual se faz necessária a apresentação da presente proposta de enunciado.
+Em 2015, o tema foi abordado na Consulta ao TSE de nº 277-85, que foi julgada prejudicada pelo objeto já ter sido apreciado pela Corte, entendendo que a jurisprudência do TSE é firme no sentido de ser incabível a propositura de ação de perda de cargo eletivo por desfiliação partidária se o Partido expulsa o Mandatário da legenda. Não obstante, até hoje há diversos Partidos Políticos que requerem o cargo do parlamentar expulso justificando o pedido na ocorrência de infidelidade partidária (exemplo: AI nº 0600545- 41.2018.6.16.0000, PET nº 0600065-17.2018.608.0000, PET nº 0600533-40.2020.613.0000, PET nº 0600362-86.2018.6.19.0000), motivo pelo qual se faz necessária a apresentação da presente proposta de enunciado.
+
+Observações
+
+A plenária jornada concluiu pela importância de regulamentação, pelo TSE, dos limites hermenêuticos do art. 22-A da Lei 9.096/95 , no tocante aos efeitos jurídicos da expulsão de titular de mandato eletivo proporcional para fins de perda de mandato por infidelidade partidária. A jurisprudência do TSE se construiu no sentido de que a expulsão não é fato gerador de infidelidade partidária apta a gerar perda de mandato eletivo. No entanto, entendeu a plenária que esse entendimento deve ser modificado, a fim de que seja considerada a expulsão de filiado titular de mandato eletivo, como hipótese apta a gerar a perda do mandato.
+
+Art. 2. Esta Portaria entrará em vigor na data de sua publicação.
+
+Ministro TARCISIO VIEIRA DE CARVALHO NETO
+
+Diretor da Escola Judiciária Eleitoral do TSE
+
+CAROLINE MARIA VIEIRA LACERDA
+
+Vice-Diretora da Escola Judiciária Eleitoral do TSE
+
+Este texto não substitui o publicado no DJE-TSE, nº 100, de 2.6.2021, p. 340-375.--------------------------------------------------------------------------------
+Guia do Sistema de Filiação Partidária | PDF | Autenticação | Senha (https://pt.scribd.com/document/948040919/PDF-Documentguia-Do-Usuario-Sistema-de-Filiacao-Partidaria-Filia-26-05-24)
+citeturn0search1 [wordlim: 200] Published: 2.6 years ago; Crawled: 10 months ago; Existindo desfiliação de um registro suspenso, independente do motivo, o sistema ... ## ➢ Ao realizar a desfiliação com um dos motivos “A pedido do eleitor”, “Expulsão” ou “Outras ... da Resolução-TSE nº 23.596/2019).
+
+de filiação;
+○ Data Filiação: Apresenta a data da filiação cadastrada para o registro;
+○ Data cadastro desfiliação: Data apresentada somente quando o partido realizar o
+cadastro da intenção de desfiliação do registro. Data em que a intenção da
+desfiliação foi realizada pelo partido no sistema.
+○ Data desfiliação: Data apresentada somente quando a desfiliação do registro for
+realizada pela Justiça Eleitoral. Data da desfiliação realizada pela Justiça Eleitoral
+no sistema.
+○ UF: Apresenta a UF vinculada ao título de eleitor do registro de filiação. Dado
+recuperado do sistema Cadastro de Eleitores - ELO.
+○ Município: Apresenta o Município vinculado ao título de eleitor do registro de
+filiação. Dado recuperado do sistema Cadastro de Eleitores - ELO.
+○ Zona: Apresenta a Zona vinculada ao título de eleitor do registro de filiação. Dado
+recuperado do sistema Cadastro de Eleitores - ELO.
+○ Situação: Situação atual do registro de filiação no sistema.
+○ Ações: Apresenta as ações que podem ser realizadas para o registro de filiação de
+acordo com sua situação.
+
+Arquivo: Filia_Externo
+
+## Versão do modelo: 3.0 01/02/24 Página 24 de 58
+
+Tribunal Superior Eleitoral Guia do usuário
+Secretaria de Tecnologia da Informação
+Sistema de Filiação Partidária – FILIA
+
+Módulo Externo
+
+--------------------------------------------------------------------------------
+Desfiliação partidária — Temas Selecionados (https://temasselecionados.tse.jus.br/temas-selecionados/mandato-eletivo/cassacao-do-mandato/desfiliacao-partidaria)
+citeturn0search2 [wordlim: 200] Published: 4 weeks ago; Crawled: 2 days ago; É fato incontroverso que o Diretório Estadual do PL no Amapá, durante reunião realizada em 04.03.2020, apresentou carta de expulsão, sem imposição de perda do cargo eletivo, em desfavor da filiada Patrícia Lima Ferraz, de forma irretratável e irrevogável, ensejando o efetivo desligamento da parlamentar dos quadros partidários e a consequente baixa no Sistema de Filiação Partidária (FILIA), conforme consta na certidão [...] tornando público o rompimento do vínculo partidário. ... O TSE tem decidido que se afigura incabível a propositura de ação de perda de cargo eletivo por desfiliação partidária se o partido expulsa o mandatário da legenda, pois a questão alusiva à infidelidade partidária envolve o desligamento voluntário da agremiação. ... Extrai–se ter decorrido o lapso temporal de aproximadamente um ano entre os fatos apontados como discriminatórios e a solicitação da carta de anuência pelo recorrido, revelando ausência do requisito da contemporaneidade, em relação ao qual este Tribunal superior já entendeu como necessário, assentando que, ‘para que se possa cogitar do desligamento justificado do titular de cargo eletivo da agremiação pela qual foi eleito é necessário que o motivo justificador seja contemporâneo à sua saída’ [...].”
+Min. Arnaldo Versiani.)†sjur-servicos.tse.jus.br】
+
+    * Expulsão de partido político
+
+Atualizado em 14/8/2026
+
+ 
+
+“Eleições 2018 [...] Ação de decretação de perda de mandato eletivo por desfiliação sem justa causa. Deputado federal. Expulsão promovida pelo órgão estadual do partido. Extinção do vínculo por motivos alheios à vontade do filiado. Ausência de questionamento nas vias administrativa e judicial cabíveis. [...] 1. A jurisprudência desta Corte é firme no sentido de que é incabível a ação de perda de mandato eletivo por infidelidade partidária quando o desligamento de filiado decorre de decisão de expulsão proferida pela agremiação política à qual estava vinculado. 2. É fato incontroverso que o Diretório Estadual do PL no Amapá, durante reunião realizada em 04.03.2020, apresentou carta de expulsão, sem imposição de perda do cargo eletivo, em desfavor da filiada Patrícia Lima Ferraz, de forma irretratável e irrevogável, ensejando o efetivo desligamento da parlamentar dos quadros partidários e a consequente baixa no Sistema de Filiação Partidária (FILIA), conforme consta na certidão [...] tornando público o rompimento do vínculo partidário. 3. Não houve nenhum movimento do PL, pelas vias administrativas ou judiciais cabíveis, no sentido de invalidar o ato de expulsão promovido pelo órgão estadual do partido, não sendo possível o questionamento incidental apenas nesse momento, no bojo da ação de perda de mandato eletivo, que possui causa de pedir e objeto delimitados. Precedente. [...]”
+
+Ac. de 2.6.2022 no AgR-AJDesCargEle nº 060024555, rel. Min. Ricardo Lewandoski;  no mesmo sentido o Ac. de 2.6.2022 no AgR-AJDesCargEle nº 060017334, rel. Min. Ricardo Lewandowski.)
+
+--------------------------------------------------------------------------------
+Resolução nº 23.596, de 20 de agosto de 2019 – Brasília/DF — Tribunal Superior Eleitoral (https://www.tse.jus.br/legislacao/codigo-eleitoral/normas-editadas-pelo-tse/resolucao-no-23-596-de-20-de-agosto-de-2019-2013-brasilia-df-1)
+citeturn0search3 [wordlim: 200] Published: 7.0 years ago; Crawled: today; § 4º O Filia disponibilizará, no Módulo Interno, relatório semanal fazendo constar: nome e título eleitoral dos filiados eleitos que tenham se desfiliado; data da disponibilização da intimação; e data da ciência pelo intimado. ... A publicação das relações oficiais de que trata o parágrafo único do art. 19 desta resolução será feita no sítio eletrônico do TSE, entre a data do início das convenções partidárias e o fim do prazo para impugnação dos pedidos de registro de candidatura nas eleições ordinárias, mantendo-se disponível em caráter permanente serviço de emissão de certidão de filiação partidária.
+
+§ 4º O Filia disponibilizará, no Módulo Interno, relatório semanal fazendo constar: nome e título eleitoral dos filiados eleitos que tenham se desfiliado; data da disponibilização da intimação; e data da ciência pelo intimado.
+
+§ 5º O Filia deve, no momento da disponibilização da mensagem a que se refere o § 1º deste artigo, encaminhar e-mail para o presidente nacional, no endereço cadastrado no SGIP, para avisar da existência de intimação pendente de aceite.
+
+Capítulo VIII
+
+DA DISPONIBILIDADE DAS INFORMAÇÕES
+
+Art. 26. A publicação das relações oficiais de que trata o parágrafo único do art. 19 desta resolução será feita no sítio eletrônico do TSE, entre a data do início das convenções partidárias e o fim do prazo para impugnação dos pedidos de registro de candidatura nas eleições ordinárias, mantendo-se disponível em caráter permanente serviço de emissão de certidão de filiação partidária.
+
+§ 1º O serviço de que trata a parte final do caput deste artigo estará disponível no sítio eletrônico do TSE para utilização restrita ao titular do dado pessoal, ficando autorizada a criação de link de acesso nas páginas dos tribunais regionais eleitorais.
+
+--------------------------------------------------------------------------------
+ATA DE REUNIÃO DE FUNDAÇÃO DO PARTIDO MISSÃO (https://www.tse.jus.br/partidos/partidos-registrados-no-tse/arquivos-1/estatuto-do-partido-formato-pdf-aprovado-em-4-11.2025/%40%40display-file/file/estatuto-missao-deferido-pelo%252520-tse-4-11-2025.pdf)
+citeturn0search13 [wordlim: 200] Published: 10 months ago; § 2º Também faz parte da Comissão Executiva Nacional, com poder de voto, o Presidente de Honra da agremiação, título consignado por eleição na fundação do partido, gozando de caráter vitalício, ao filiado de reconhecida importância e relevante contribuição para o crescimento do Partido em âmbito nacional.§ 3º Na hipótese de vacância de qualquer cargo da Comissão Executiva Nacional por motivo de desfiliação, expulsão, morte ou pedido de licença, deverá ser observada a ordem hierárquica dos respectivos cargos, disposta no inciso I deste artigo.
+ATA DE REUNIÃO DE FUNDAÇÃO DO PARTIDO MISSÃO  
+10 DE OUTUBRO DE 2023
+
+Art. 34. As Comissões Executivas serão eleitas pelos respectivos Diretórios logo após a constituição do órgão, cuja composição será a seguinte:
+
+I – Presidente;  
+II – Primeiro Vice-Presidente;  
+III – Segundo Vice-Presidente;  
+IV – Secretário-Geral;  
+V – Primeiro Tesoureiro;  
+VI – Segundo Tesoureiro;  
+VII – Vogal;
+
+§ 1º Juntamente com os membros da Comissão Executiva, serão escolhidos membros suplentes, para exercício em casos de impedimento, ausência ou vacância, na seguinte proporção:
+
+I – Comissão Executiva Nacional: 1 (um) membro suplente nato;  
+II – Comissão Executiva Estadual e Distrital: 1 (um) membro suplente;  
+III – Comissão Executiva Municipal: 1 (um) membro suplente.
+
+§ 2º Também faz parte da Comissão Executiva Nacional, com poder de voto, o Presidente de Honra da agremiação, título consignado por eleição na fundação do partido, gozando de caráter vitalício, ao filiado de reconhecida importância e relevante contribuição para o crescimento do Partido em âmbito nacional.
+
+§ 3º Na hipótese de vacância de qualquer cargo da Comissão Executiva Nacional por motivo de desfiliação, expulsão, morte ou pedido de licença, deverá ser observada a ordem hierárquica dos respectivos cargos, disposta no inciso I deste artigo.
+
+§ 4º Na hipótese de vacância dos cargos de um dos membros das Comissões Executivas por motivo de desfiliação, expulsão, morte ou pedido de licença, deverá ser observada a ordem hierárquica dos respectivos cargos, dispostas nos incisos deste artigo, com seus respectivos substitutos.
+
+§ 5º As Comissões Executivas eleitas pelo Diretório de seu nível terão mandato de até 2 (dois) anos.
+
+§ 6º As Comissões Executivas Provisórias designadas nos termos do artigo 15 deste Estatuto terão seus mandatos por 180 (cento e oitenta) dias, podendo ser prorrogadas pelo mesmo período.
+
+§ 7º Qualquer membro das Comissões Executivas poderá requerer seu afastamento temporário.
+
+Página 17 de 80--------------------------------------------------------------------------------
+Diário da Justiça Eletrônico (https://www.tse.jus.br/comunicacao/arquivos/portaria-tse-no-460-2025-tempo-de-propaganda-partidaria-1o-semestre-2026/%40%40display-file/file/TSE-dje-28-10-2025.pdf)
+citeturn0search14 [wordlim: 200] Published: 10 months ago; Deve ser cancelada a filiação nos casos de:<br>I. morte;<br>II. suspensão ou perda dos direitos políticos; III. expulsão, ou;<br>IV. desfiliação.</td> ... O filiado que tenha tido sua filiação cancelada por pena disciplinar ou qualquer outro motivo que leve ao cancelamento poderá se refiliar mediante aprovação da Executiva Estadual de seu respectivo estado e da Executiva Nacional.</td> ... 2.200-2/2001 de 24.8.2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, podendo ser acessado no endereço eletrônico http://www.tse.jus.br/
+Ano 2025 - n. 179  Brasília, terça-feira, 28 de outubro de 2025  26
+
+<table id="e1">
+<tr>
+<td>9.096/95, a comunicação ao órgão de direção municipal.</td>
+<td>1995, a comunicação ao órgão de direção municipal.</td>
+</tr>
+<tr>
+<td>§1º - Decorridas 48 (quarenta e oito) horas do recebimento do Formulário de Desligamento, a filiação estará extinta para todos os efeitos.</td>
+<td>§1º A desfiliação será efetivada em até 2 (dois) dias da data do pedido.</td>
+</tr>
+<tr>
+<td>§ 2º - O dever de comunicar ao Juiz Eleitoral é do filiado.</td>
+<td>§2º O pedido de desfiliação ao partido não exime o dever do eleitor de comunicar ao Juiz Eleitoral nos termos da legislação aplicável.</td>
+</tr>
+<tr>
+<td>Art. 9º - Será cancelada a filiação nos casos de:<br>I - morte<br>II - perda dos direitos políticos,<br>III - expulsão,<br>IV - retirada, ou outras formas previstas neste Estatuto ou na lei.</td>
+<td>Art. 12. Deve ser cancelada a filiação nos casos de:<br>I. morte;<br>II. suspensão ou perda dos direitos políticos; III. expulsão, ou;<br>IV. desfiliação.</td>
+</tr>
+<tr>
+<td>Art. 10 - Poderá ser readmitido aquele que se desligou voluntariamente do NOVO as satisfeitas as condições para filiação original, após análise pela instância competente.<br>§1º - Da decisão que indeferir a readmissão não caberá recurso.<br>§2º - Em nenhuma hipótese será readmitido aquele que tenha sido expulso do NOVO.</td>
+<td>Art. 13. Pode ser readmitido como filiado aquele que se desligou voluntariamente do NOVO, caso satisfeitas as condições para filiação previstas neste estatuto.<br>Parágrafo único. O filiado que tenha tido sua filiação cancelada por pena disciplinar ou qualquer outro motivo que leve ao cancelamento poderá se refiliar mediante aprovação da Executiva Estadual de seu respectivo estado e da Executiva Nacional.</td>
+</tr>
+<tr>
+<td>CAPÍTULO II<br>DIREITOS, DEVERES,<br>FIDELIDADE E DISCIPLINA PARTIDÁRIOS<br>SEÇÃO I<br>DIREITOS PARTIDÁRIOS</td>
+<td>CAPÍTULO II<br>DOS DIREITOS, DEVERES, FIDELIDADE,<br>DISCIPLINA E SANÇÕES<br>SEÇÃO I<br>DIREITOS DOS FILIADOS</td>
+--------------------------------------------------------------------------------
+Informativo TSE nº 2 - Período de 1º a 13 de fevereiro de 2022 — Tribunal Superior Eleitoral (https://www.tse.jus.br/jurisprudencia/informativo-tse/informativo-tse-no-2-periodo-de-1o-a-13-de-fevereiro-de-2022)
+citeturn0search4 [wordlim: 200] Published: 4.6 years ago; Crawled: 4 months ago; ### Desfiliação partidária e interesse processual na ação de perda de mandato eletivo ... a expulsão do parlamentar dos quadros do partido político, pela qual foi efetivada a desfiliação.
+## SESSÃO VIRTUAL
+
+### Desfiliação partidária e interesse processual na ação de perda de mandato eletivo
+
+A existência de carta de anuência com a desfiliação, assinada pelo presidente do diretório
+municipal, bem como de ato formal de expulsão do parlamentar, com o registro do desligamento
+nos assentos da Justiça Eleitoral e baixa no Sistema de Filiação Partidária (Filia), afasta o interesse
+processual para a propositura de ação de perda de mandato eletivo.
+
+No caso vertente, o diretório nacional do partido político recorreu de decisão que acolheu
+preliminar de falta de interesse processual e julgou extinta a ação de perda de mandato eletivo.
+
+Ocorre que o presidente do diretório municipal emitiu carta de anuência com a desfiliação,
+assinalando que tal ato não configurava infidelidade partidária. Além disso, houve posteriormente
+a expulsão do parlamentar dos quadros do partido político, pela qual foi efetivada a desfiliação.
+
+O Plenário deste Tribunal Superior destacou que o partido político não tomou nenhuma medida
+--------------------------------------------------------------------------------
+Justa causa para desfiliação partidária — Temas Selecionados (https://temasselecionados.tse.jus.br/temas-selecionados/mandato-eletivo/cassacao-do-mandato/desfiliacao-partidaria/justa-causa-para-desfiliacao-partidaria)
+citeturn0search5 [wordlim: 200] Published: 4 weeks ago; Crawled: today; Nos termos do art. 1º, § 2º, da Res.-TSE nº 22.610/2007, o partido político interessado deve formular o pedido para decretação de perda de cargo eletivo por desfiliação sem justa causa dentro de 30 dias da ciência do desligamento. ... No caso dos autos, a certidão do Sistema FILIA, emitida em 14/4/2023, confirma que o agravado já havia se desfiliado do partido agravante na data de expedição da certidão.
+--------------------------------------------------------------------------------
+RESOLUÇÃO Nº 23.596, DE 20 DE AGOSTO DE 2019 — Tribunal Superior Eleitoral (https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-596-de-20-de-agosto-de-2019)
+citeturn0search6 [wordlim: 200] Published: 7.1 years ago; Crawled: today; Na segunda semana dos meses de abril e outubro de cada ano, o partido, por seus órgãos de direção municipal/zonal, estadual/regional ou nacional, enviará à Justiça Eleitoral para arquivamento, publicação e cumprimento dos prazos de filiação para efeito de candidatura, a relação atualizada dos nomes de todos os seus filiados na respectiva zona eleitoral, da qual constará, também, o número dos títulos eleitorais e das seções em que estão inscritos e a data do deferimento das respectivas filiações (Lei nº 9.096/1995, art. 19, caput) . ... Deferido internamente o pedido de filiação, o partido político, por seus órgãos de direção municipais, regionais ou nacional, deverá inserir os dados do filiado no sistema eletrônico da Justiça Eleitoral, que automaticamente enviará aos juízes eleitorais, para arquivamento, publicação e cumprimento dos prazos de filiação partidária para efeito de candidatura a cargos eletivos, a relação dos nomes de todos os seus filiados, da qual constará a data de filiação, o número dos títulos eleitorais e das seções em que estão inscritos ( Lei nº 9.096/1995, art. 19, caput ).
+--------------------------------------------------------------------------------
+Diário da Justiça Eletrônico (https://sintse.tse.jus.br/documentos/2021/Jun/2/diario-da-justica-eletronico-tse/portaria-no-360-de-1o-de-junho-de-2021-torna-publicos-conforme-deliberado-pela-coordenacao-geral-e-p)
+citeturn0search15 [wordlim: 200] Published: 5.3 years ago; Crawled: 5.3 years ago; de ser incabível a propositura de ação de perda de cargo eletivo por desfiliação partidária se o Partido expulsa o Mandatário da legenda.Não obstante, até hoje há diversos Partidos Políticos que requerem o cargo do parlamentar expulso justificando o pedido na ocorrência de infidelidade partidária (exemplo: AI nº 0600545- 41.2018.6.16.0000, PET nº 0600065-17.2018.608.0000, PET nº 0600533-40.2020.613.0000, PET nº 0600362-86.2018.6.19.0000), motivo pelo qual se faz necessária a apresentação da presente proposta de enunciado. ... 2.200-2/2001 de 24.8.2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, podendo ser acessado no endereço eletrônico http://www.tse.jus.br/
+--------------------------------------------------------------------------------
+Ilegitimidade ativa — Tribunal Regional Eleitoral do Rio Grande do Sul (https://www.tre-rs.jus.br/jurisprudencia/emtema-novo/direito-processual-eleitoral/teste-de-transporte)
+citeturn0search7 [wordlim: 200] Crawled: 2 weeks ago; O regulamento eleitoral prestigia a comunicação ao partido da desfiliação do mandatário, não fazendo qualquer referência à necessidade de que observe que terceiros tenham ciência do ato. ... Acaso se tomasse a data de filiação da requerida ao novo partido, o prazo poderia ser contado tanto da data em que realizada, da divulgação nas redes sociais ou do efetivo registro dos dados no Sistema Filia.
+--------------------------------------------------------------------------------
+Artigos (https://bibliotecadigital.tse.jus.br/collections/90efe94b-0c7a-4721-be3d-a1929622eb2b?f.dateIssued.max=2017&f.dateIssued.min=2010&f.subject=Infidelidade+partid%C3%A1ria%2Cequals&f.subject=Partido+pol%C3%ADtico%2Cequals&spc.page=1)
+citeturn0search8 [wordlim: 200] Crawled: last week; Ao vivenciarmos a crise da democracia representativa brasileira torna-se imperativa a discussão acerca do papel dos partidos políticos e da titularidade dos mandatos na hipótese de desfiliação.O ensaio apresenta alguns aspectos dessas polêmicas, tematizando a recente alteração jurisprudencial no Supremo Tribunal Federal acerca da perda do mandato do parlamentar que se desfilia sem motivo justificável de sua agremiação político-partidária. ... Expulsão do partido por ato de infidelidade e perda do mandato
+--------------------------------------------------------------------------------
+Filiação Partidária — Temas Selecionados (https://temasselecionados.tse.jus.br/temas-selecionados/filiacao-partidaria)
+citeturn0search9 [wordlim: 200] Published: 2 months ago; Crawled: yesterday; Ação de perda de mandato eletivo por desfiliação partidária sem justa causa. ... 9.096/1997, somente podem ser consideradas justa causa para a desfiliação de detentor de mandato eletivo: (i) mudança substancial ou desvio reiterado do programa partidário; (ii) grave discriminação política pessoal; e (iii) a mudança de partido efetuada durante o período de trinta dias que antecede o prazo de filiação exigido em lei para concorrer à eleição, majoritária ou proporcional, ao término do mandato vigente.
+--------------------------------------------------------------------------------
+Lei Eleitoral Julgada - LEJU — Tribunal Regional Eleitoral do Rio Grande do Sul (https://www.tre-rs.jus.br/jurisprudencia/lei-eleitoral-julgada-leju/lei-eleitoral-julgada-leju-1)
+citeturn0search10 [wordlim: 200] Published: 29.0 years ago; Crawled: 3 months ago; Também merece relevo o requerimento de desfiliação enviado por e-mail, assinado de próprio punho, por meio do qual solicita o desligamento de partido diverso em caráter irrevogável e irretratável, por motivo de ordem pessoal, datado de 04.6.2020. ... Finalmente, verificado que a inclusão do recorrido na relação interna do partido ao qual pretende demonstrar seu vínculo no FILIA se deu em 17.6.2020, com data de filiação retroativa a 04.4.2020, constituindo mais um elemento a contribuir para o deslinde do feito, visto que a inserção só se deu em momento posterior à desfiliação do recorrido junto ao partido anterior, verificada em 05.6.2020, inexistindo duplicidade de filiação.
+--------------------------------------------------------------------------------
+Tribunal Regional Eleitoral de São Paulo TRE-SP - PROCESSO: PROC XXXXX SP | Jurisprudência (https://www.jusbrasil.com.br/jurisprudencia/tre-sp/23217956)
+citeturn0search11 [wordlim: 200] Published: last month; Crawled: last month; Indeferimento, pedido, requerente, juntada, documentos.Procedência, pedido, justificação, desfiliação partidária, motivo, relevância, discriminação pessoal, sujeição, requerente, (vereador), aplicação, regras de experiência comum, previsão, Código de Processo Civil; inquirição, testemunhas, demonstração, existência, presidente, partido político, divergência (s), requerente; instauração, processo disciplinar, objetivo, expulsão, requerente, partido político, ausência, proporcionalidade, fato, sanção; inviabilidade, permanência, requerente, adequação, desfiliação partidária, importância, preservação, partido político.Voto Vencido:(Relator sorteado: Juiz Êira de Carvalho) Improcedência, pedido, justificação, desfiliação partidária, requerente, (vereador), motivo, ausência, caracterização, discriminação, partido político, filiado (requerente), ausência, justa causa; presença, divergência, ideologia (s), possibilidade, preservação, fidelidade partidária; afastamento, hipótese, discriminação pessoal, entendimento, jurisprudência necessidade, unidade, penÇnto, partido político, importância, orientação, órgão de direção; ausência, competência, Justiça Eleitoral, apreciação, justificação, desfiliação partidária, matéria interna corporis; previsão, resolução, Tribunal Superior Eleitoral, interesse, partido político, prevalência, particular, filiado; procedimento, expulsão, filiado, partido político, caracterização, exceção, importância, prevalência, vontade, população, eleição, requerente, objetivo, representação, câmara municipal; ausência, demonstração, justa causa, requerente.
+--------------------------------------------------------------------------------
+Preso pelo mensalão tucano, Azeredo se desfilia do PSDB (https://www.reddit.com/r/brasilnoticias/comments/br1av1)
+citeturn0reddit16 [wordlim: 200] Published: 7.3 years ago; A régua para expulsão de filiados aventada entre os tucanos é a condenação em segunda instância —marco decidido pelo STF (Supremo Tribunal Federal) para o início do cumprimento da pena e motivo que levou Azeredo à prisão.Para que Azeredo não tivesse que passar por um processo de expulsão da sigla, o que consideram mais um constrangimento a ele, seus aliados tucanos já costuravam uma saída que julgam mais respeitosa: que o ex-governador se adiantasse e pedisse a desfiliação, como foi feito.
+

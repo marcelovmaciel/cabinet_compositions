@@ -1,0 +1,178 @@
+{
+  "party": "PT",
+  "id": 47,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 138732,
+      "response_sha256": "9c640cbd926a6670af0e6d923f282d01878032cc5e763f7d1229f81335f36e43",
+      "retrieved_utc": "2026-09-10T23:48:13Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=1&pageSize=10000",
+      "records": 10000,
+      "totalElements": 138732,
+      "response_sha256": "128db5bd7eab696fef14f22db1b45a753aa830a13a11de5a0549479a047f529d",
+      "retrieved_utc": "2026-09-10T23:48:48Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=2&pageSize=10000",
+      "records": 10000,
+      "totalElements": 138732,
+      "response_sha256": "6459fb1f6629a1623fb0b38e954c65707792b409c9b77b41a01c1b65b493b3da",
+      "retrieved_utc": "2026-09-10T23:49:15Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=3&pageSize=10000",
+      "records": 10000,
+      "totalElements": 138732,
+      "response_sha256": "a4a380f26041969743387470cf2a05cc58b192b1d6b4661d3855cf77e3d2c7aa",
+      "retrieved_utc": "2026-09-10T23:49:36Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=4&pageSize=10000",
+      "records": 10000,
+      "totalElements": 138732,
+      "response_sha256": "4e287af9258e9e26ba72d31b5504bf4ca493c2087ba5635f94234c77ba1de201",
+      "retrieved_utc": "2026-09-10T23:50:01Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=5&pageSize=10000",
+      "records": 10000,
+      "totalElements": 138732,
+      "response_sha256": "87f76eb5269f5df9693873d5e0c83140825d9a2a10cc5d122b4ea3d80b14d8e1",
+      "retrieved_utc": "2026-09-10T23:50:25Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=6&pageSize=10000",
+      "records": 10000,
+      "totalElements": 138732,
+      "response_sha256": "bf0fa268808b0845afc2e400f862fdfe8b6ead34bb9402567c4fed19374b4708",
+      "retrieved_utc": "2026-09-10T23:50:51Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=7&pageSize=10000",
+      "records": 10000,
+      "totalElements": 138732,
+      "response_sha256": "e68f07f1ba5c1924181b5700e0a1ddd53fc9ad8d60fb1894fb8681f881d4fd86",
+      "retrieved_utc": "2026-09-10T23:51:13Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=8&pageSize=10000",
+      "records": 10000,
+      "totalElements": 138732,
+      "response_sha256": "d4222a931ab72af73d48ff2a32dbb1ea7e2f173b8ea945ba654feecd388d5da7",
+      "retrieved_utc": "2026-09-10T23:51:38Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=9&pageSize=10000",
+      "records": 10000,
+      "totalElements": 138732,
+      "response_sha256": "0cd93d674b78cb15ab936ceebf89f20375762fddc830aee22bf8bbc18a6da85b",
+      "retrieved_utc": "2026-09-10T23:52:02Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=10&pageSize=10000",
+      "records": 10000,
+      "totalElements": 138732,
+      "response_sha256": "5582838cc02fe1ac7b49db7d0a54e9a03e3ddcce591671c5b04e91cebdf1b4c9",
+      "retrieved_utc": "2026-09-10T23:52:33Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=11&pageSize=10000",
+      "records": 10000,
+      "totalElements": 138732,
+      "response_sha256": "24b6e7e2ef7f903f8bddfd8e6e188f7ccd9dee74d7ca22f4328b67a9827837f6",
+      "retrieved_utc": "2026-09-10T23:53:09Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=12&pageSize=10000",
+      "records": 10000,
+      "totalElements": 138732,
+      "response_sha256": "5bceb88a99496c705b19594ce3de6abf740a3ff022d1bdb9e88a6898cad33554",
+      "retrieved_utc": "2026-09-10T23:53:42Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=47&currentPage=13&pageSize=10000",
+      "records": 8732,
+      "totalElements": 138732,
+      "response_sha256": "a7a3894009ec8ba502b18781715a4cc5bfea9f1146f4e2f607ad5c2085b16547",
+      "retrieved_utc": "2026-09-10T23:54:01Z"
+    }
+  ],
+  "matches": [
+    {
+      "sqRegistroFiliacao": 14505970,
+      "cdMotivoCancelamento": null,
+      "cdMotivoDesfiliacao": null,
+      "desSituacaoEleitor": "REGULAR",
+      "dtCancelamento": null,
+      "dtDesfiliacao": null,
+      "dtExclusao": null,
+      "dtFiliacao": [
+        1997,
+        10,
+        3
+      ],
+      "tsCadastroDesfiliacao": null,
+      "nmEleitor": "IVANI DOS SANTOS",
+      "nomLocalidade": "SÃO PAULO",
+      "sgPartido": "PT",
+      "sgUe": "SP",
+      "stRegistroFiliacao": 1,
+      "tpSexo": 4,
+      "indPendencia": 0,
+      "indOrigem": 0,
+      "public_registry_identity_sha256": "8c5d92410f7eb8375f6477869e75f1982b61178c4aec8386f8176f96f8292383"
+    },
+    {
+      "sqRegistroFiliacao": 60042738,
+      "cdMotivoCancelamento": null,
+      "cdMotivoDesfiliacao": null,
+      "desSituacaoEleitor": "REGULAR",
+      "dtCancelamento": null,
+      "dtDesfiliacao": null,
+      "dtExclusao": null,
+      "dtFiliacao": [
+        2025,
+        11,
+        28
+      ],
+      "tsCadastroDesfiliacao": null,
+      "nmEleitor": "IVANI DOS SANTOS",
+      "nomLocalidade": "SÃO PAULO",
+      "sgPartido": "PT",
+      "sgUe": "SP",
+      "stRegistroFiliacao": 1,
+      "tpSexo": 4,
+      "indPendencia": 0,
+      "indOrigem": 1,
+      "public_registry_identity_sha256": "249c2eff4ac87c8e0d3ff8c27611fa2a6fcf34a5f4c4e469402c4764d5f56a02"
+    },
+    {
+      "sqRegistroFiliacao": 58202871,
+      "cdMotivoCancelamento": null,
+      "cdMotivoDesfiliacao": null,
+      "desSituacaoEleitor": "REGULAR",
+      "dtCancelamento": null,
+      "dtDesfiliacao": null,
+      "dtExclusao": null,
+      "dtFiliacao": [
+        2023,
+        8,
+        30
+      ],
+      "tsCadastroDesfiliacao": null,
+      "nmEleitor": "IVANI DOS SANTOS",
+      "nomLocalidade": "SÃO PAULO",
+      "sgPartido": "PT",
+      "sgUe": "SP",
+      "stRegistroFiliacao": 1,
+      "tpSexo": 4,
+      "indPendencia": 0,
+      "indOrigem": 0,
+      "public_registry_identity_sha256": "d87ca9520b8b6ad9ee2a5b8886052b01bd292255037d07fbc61e4d8504665b04"
+    }
+  ]
+}

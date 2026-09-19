@@ -1,0 +1,14 @@
+{
+  "party": "PSD",
+  "id": 53,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=53&currentPage=0&pageSize=10000",
+      "records": 1939,
+      "totalElements": 1939,
+      "response_sha256": "010936f3fe2569b82fb1493a636717aedf1faca709006967c5f43749429be89f",
+      "retrieved_utc": "2026-09-10T23:47:10Z"
+    }
+  ],
+  "matches": []
+}

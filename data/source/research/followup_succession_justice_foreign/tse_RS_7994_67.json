@@ -1,0 +1,17 @@
+{
+  "party": "PSTU",
+  "id": 67,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=67&currentPage=0&pageSize=10000",
+      "records": 175,
+      "totalElements": 175,
+      "response_sha256": "8da977e52d10d9d6790d5f47965cd3a6c06f2c99dafd9d53efb6c780090f6820",
+      "retrieved_utc": "2026-09-10T23:38:58Z"
+    }
+  ],
+  "matches": []
+}

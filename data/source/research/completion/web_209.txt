@@ -1,0 +1,422 @@
+ (https://tede2.pucrs.br/tede2/bitstream/tede/10392/2/Rafael_da_Silveira_Velho_Dis.pdf)
+citeturn207view0 [wordlim: 200] Crawled: last week; Content type: application/pdf; Number of pages: 97; Source: open({"ref_id":"turn203view0","lineno":2650}); Total lines: 3204
+L2599@P82-83: TRE-RS. Eleições 2014, s/d. Disponível em: http://capa.trers.jus.br/eleicoes/2014/1turno/RS.html. Acesso em 04 jul. 2020.83
+L2600@P83: APÊNDICES
+L2601@P83: Apêndice 1 – Secretariado do Governo Sartori
+L2602@P83: Secretaria Titular Partido Período
+L2603@P83: Agricultura e Pecuária
+L2604@P83: Ernani Polo PP 2015/17
+L2605@P83: Odacir Klein PMDB 2018
+L2606@P83: Ambiente e Desenvolvimento Sustentável Ana Pellini Sem partido 2015/18
+L2607@P83: Casa Civil
+L2608@P83: Márcio Biolchi
+L2609@P83: PMDB
+L2610@P83: 2015/16
+L2611@P83: Fábio Branco 2017
+L2612@P83: Cleber Bevengnu Sem partido 2018
+L2613@P83: Comunicação
+L2614@P83: Cléber Bevengnú Sem partido 2015/17
+L2615@P83: Isara Marques PMDB 2018
+L2616@P83: Turismo, Esporte e Lazer
+L2617@P83: Juvir Costella
+L2618@P83: PMDB
+L2619@P83: 2015
+L2620@P83: Victor Hugo
+L2621@P83: 2016
+L2622@P83: Cultura 2015/16
+L2623@P83: (Cultura, Turismo e Esporte) 2017/18
+L2624@P83: Desenvolvimento Econômico, Ciência e
+L2625@P83: Tecnologia
+L2626@P83: Fábio Branco
+L2627@P83: PMDB
+L2628@P83: 2015/16
+L2629@P83: Márcio Biolchi 2017
+L2630@P83: Evandro Fontana Sem partido 2018
+L2631@P83: Desenvolvimento Rural, Pesca e Cooperativismo Tarcisio Minetto PSB 2015/18
+L2632@P83: Trabalho e Desenvolvimento Social
+L2633@P83: Miki Breier
+L2634@P83: PSB
+L2635@P83: 2015
+L2636@P83: Catarina Paladini 2016
+L2637@P83: Justiça e Direitos Humanos
+L2638@P83: Cesar Faccioli Sem partido 2015
+L2639@P83: Maria Helena Sartori PMDB 2016/18
+L2640@P83: (Desenvolvimento Social, Trabalho e Justiça)
+L2641@P83: Educação
+L2642@P83: Vieira da Cunha
+L2643@P83: PDT
+L2644@P83: 2015
+L2645@P83: Luis Alcoba 2016
+L2646@P83: Ronald Krummenauer Sem partido 2017/18
+L2647@P83: Fazenda
+L2648@P83: Giovani Feltes PMDB 2015/17
+L2649@P83: Luiz Antônio Bins Sem partido 2018
+L2650@P83: Planejamento
+L2651@P83: Cristiano Tatch
+L2652@P83: PMDB
+L2653@P83: 2015
+L2654@P83: José Reovaldo
+L2655@P83: Oltramari
+L2656@P83: 2016
+L2657@P83: Geral de Governo
+L2658@P83: Carlos Búrigo
+L2659@P83: 2015/16
+L2660@P83: (Planejamento, Governança e Gestão)
+L2661@P83: 2017
+L2662@P83: Josué Barbosa Sem partido 2018
+L2663@P83: Minas e Energia
+L2664@P83: Lucas Redecker
+L2665@P83: PSDB
+L2666@P83: 2015/16
+L2667@P83-84: Artur Lemos 201784
+L2668@P84: Susana Kakuta Sem partido 2018
+L2669@P84: Modernização Administrativa e Recursos
+L2670@P84: Humanos
+L2671@P84: Eduardo Oliveira
+L2672@P84: PSD
+L2673@P84: 2015
+L2674@P84: Raffaele Di Cameli 2016/18
+L2675@P84: Obras, Saneamento e Habitação
+L2676@P84: Gerson Burmann PDT 2015/16
+L2677@P84: Fabiano Pereira PSB 2017
+L2678@P84: Sandro Boka PMDB 2018
+L2679@P84: Saúde
+L2680@P84: João Gabbardo dos
+L2681@P84: Reis
+L2682@P84: PMDB 2015/17
+L2683@P84: Francisco Paz Sem partido 2018
+L2684@P84: Segurança Pública
+L2685@P84: Wantuir Jacini PTB 2015/16
+L2686@P84: Cezar Schirmer PMDB 2017/18
+L2687@P84: Transportes e Mobilidade
+L2688@P84: Pedro Westphalen PP 2015/17
+L2689@P84: Humberto Canuso Sem partido 2018
+L2690@P84: Fonte: elaboração própria baseada em matérias relacionadas aos meios de comunicação e de sítios oficiais do
+L2691@P84-85: Governo do Estado do RS.85
+L2692@P85: Apêndice 2 – Iniciativas propostas pelo Executivo no que tange à Reforma de Estado
+L2693@P85: TEMAS INICIATIVAS EMENTAS
+L2694@P85: Extinção de fundações
+L2695@P85: e autarquias
+L2696@P85: PEC 243/201526 Altera a redação do § 4º do artigo 22 da Constituição do
+L2697@P85: Estado do Rio Grande do Sul.
+L2698@P85: PL 299/201527
+L2699@P85: Autoriza a extinção da Fundação de Esporte e Lazer do Rio
+L2700@P85: Grande do Sul – FUNDERGS e dá outras providências.
+L2701@P85: PL 301/201528
+L2702@P85: Fica extinta a Fundação Estadual de Produção e Pesquisa em
+L2703@P85: Saúde - FEPPS e dá outras providências.
+L2704@P85: PL 240/201629
+L2705@P85: Extingue a Fundação Instituto Gaúcho de Tradição e Folclore -
+L2706@P85: FIGTF e a Fundação Estadual de Pesquisa Agropecuária –
+L2707@P85: FEPAGRO dá outras providências.
+L2708@P85: PL 244/201630 Dispõe sobre a extinção da Companhia Rio-grandense de
+L2709@P85: Artes Gráficas – CORAG.
+L2710@P85: PL 246/201631
+L2711@P85: Autoriza a extinção de fundações de direito privado da
+L2712@P85: Administração Pública Indireta do Estado do Rio Grande do
+L2713@P85: Sul e dá outras providências.
+L2714@P85: PL 251/201632
+L2715@P85: Dispõe sobre a extinção da Superintendência de Porto e
+L2716@P85: Hidrovias de Porto Alegre – SPH, altera a Lei n.º 10.722, de
+L2717@P85: 18 de janeiro de 1996 e dá outras providências.
+L2718@P85: 
+L2719@P85: 26 RIO GRANDE DO SUL. Procergs. Proposta de Emenda à Constituição nº 2432015. Altera a redação do § 4º
+L2720@P85: do artigo 22 da Constituição do Estado do Rio Grande do Sul. Disponível em:
+L2721@P85: http://proweb.procergs.com.br/temp/PEC_243_2015_04022021150826_int.pdf?04/02/2021%2015:08:27.
+L2722@P85: Acesso em: 10 dez. 2020.
+L2723@P85: 27 RIO GRANDE DO SUL. Procergs. Projeto de Lei nº 2992015. Autoriza a extinção da Fundação de Esporte e
+L2724@P85: Lazer do Rio Grande do Sul – FUNDERGS e dá outras providências. Disponível em:
+L2725@P85: http://proweb.procergs.com.br/temp/PL_299_2015_04022021145434_int.pdf?04/02/2021%2014:54:35. Acesso
+L2726@P85: em: 10 dez. 2020.
+L2727@P85: 28 RIO GRANDE DO SUL. Procergs. Projeto de Lei nº 3012015. Fica extinta a Fundação Estadual de Produção
+L2728@P85: e Pesquisa em Saúde - FEPPS e dá outras providências. Disponível em:
+L2729@P85: http://proweb.procergs.com.br/Diario/DA20161213-01-095435/EX20161213-01-095435-PL-301-2015.pdf.
+--------------------------------------------------------------------------------
+ (https://tede2.pucrs.br/tede2/bitstream/tede/10392/2/Rafael_da_Silveira_Velho_Dis.pdf)
+citeturn207view1 [wordlim: 200] Crawled: last week; Content type: application/pdf; Number of pages: 97; Source: find({"ref_id":"turn203view0","pattern":"Gabbardo"}); Total lines: 3204
+L2615@P83: Isara Marques PMDB 2018
+L2616@P83: Turismo, Esporte e Lazer
+L2617@P83: Juvir Costella
+L2618@P83: PMDB
+L2619@P83: 2015
+L2620@P83: Victor Hugo
+L2621@P83: 2016
+L2622@P83: Cultura 2015/16
+L2623@P83: (Cultura, Turismo e Esporte) 2017/18
+L2624@P83: Desenvolvimento Econômico, Ciência e
+L2625@P83: Tecnologia
+L2626@P83: Fábio Branco
+L2627@P83: PMDB
+L2628@P83: 2015/16
+L2629@P83: Márcio Biolchi 2017
+L2630@P83: Evandro Fontana Sem partido 2018
+L2631@P83: Desenvolvimento Rural, Pesca e Cooperativismo Tarcisio Minetto PSB 2015/18
+L2632@P83: Trabalho e Desenvolvimento Social
+L2633@P83: Miki Breier
+L2634@P83: PSB
+L2635@P83: 2015
+L2636@P83: Catarina Paladini 2016
+L2637@P83: Justiça e Direitos Humanos
+L2638@P83: Cesar Faccioli Sem partido 2015
+L2639@P83: Maria Helena Sartori PMDB 2016/18
+L2640@P83: (Desenvolvimento Social, Trabalho e Justiça)
+L2641@P83: Educação
+L2642@P83: Vieira da Cunha
+L2643@P83: PDT
+L2644@P83: 2015
+L2645@P83: Luis Alcoba 2016
+L2646@P83: Ronald Krummenauer Sem partido 2017/18
+L2647@P83: Fazenda
+L2648@P83: Giovani Feltes PMDB 2015/17
+L2649@P83: Luiz Antônio Bins Sem partido 2018
+L2650@P83: Planejamento
+L2651@P83: Cristiano Tatch
+L2652@P83: PMDB
+L2653@P83: 2015
+L2654@P83: José Reovaldo
+L2655@P83: Oltramari
+L2656@P83: 2016
+L2657@P83: Geral de Governo
+L2658@P83: Carlos Búrigo
+L2659@P83: 2015/16
+L2660@P83: (Planejamento, Governança e Gestão)
+L2661@P83: 2017
+L2662@P83: Josué Barbosa Sem partido 2018
+L2663@P83: Minas e Energia
+L2664@P83: Lucas Redecker
+L2665@P83: PSDB
+L2666@P83: 2015/16
+L2667@P83-84: Artur Lemos 201784
+L2668@P84: Susana Kakuta Sem partido 2018
+L2669@P84: Modernização Administrativa e Recursos
+L2670@P84: Humanos
+L2671@P84: Eduardo Oliveira
+L2672@P84: PSD
+L2673@P84: 2015
+L2674@P84: Raffaele Di Cameli 2016/18
+L2675@P84: Obras, Saneamento e Habitação
+L2676@P84: Gerson Burmann PDT 2015/16
+L2677@P84: Fabiano Pereira PSB 2017
+L2678@P84: Sandro Boka PMDB 2018
+L2679@P84: Saúde
+L2680@P84: João Gabbardo dos
+L2681@P84: Reis
+L2682@P84: PMDB 2015/17
+L2683@P84: Francisco Paz Sem partido 2018
+L2684@P84: Segurança Pública
+L2685@P84: Wantuir Jacini PTB 2015/16
+L2686@P84: Cezar Schirmer PMDB 2017/18
+L2687@P84: Transportes e Mobilidade
+L2688@P84: Pedro Westphalen PP 2015/17
+L2689@P84: Humberto Canuso Sem partido 2018
+L2690@P84: Fonte: elaboração própria baseada em matérias relacionadas aos meios de comunicação e de sítios oficiais do
+L2691@P84-85: Governo do Estado do RS.85
+L2692@P85: Apêndice 2 – Iniciativas propostas pelo Executivo no que tange à Reforma de Estado
+L2693@P85: TEMAS INICIATIVAS EMENTAS
+L2694@P85: Extinção de fundações
+L2695@P85: e autarquias
+L2696@P85: PEC 243/201526 Altera a redação do § 4º do artigo 22 da Constituição do
+L2697@P85: Estado do Rio Grande do Sul.
+L2698@P85: PL 299/201527
+L2699@P85: Autoriza a extinção da Fundação de Esporte e Lazer do Rio
+L2700@P85: Grande do Sul – FUNDERGS e dá outras providências.
+L2701@P85: PL 301/201528
+L2702@P85: Fica extinta a Fundação Estadual de Produção e Pesquisa em
+L2703@P85: Saúde - FEPPS e dá outras providências.
+L2704@P85: PL 240/201629
+L2705@P85: Extingue a Fundação Instituto Gaúcho de Tradição e Folclore -
+L2706@P85: FIGTF e a Fundação Estadual de Pesquisa Agropecuária –
+L2707@P85: FEPAGRO dá outras providências.
+L2708@P85: PL 244/201630 Dispõe sobre a extinção da Companhia Rio-grandense de
+L2709@P85: Artes Gráficas – CORAG.
+L2710@P85: PL 246/201631
+L2711@P85: Autoriza a extinção de fundações de direito privado da
+L2712@P85: Administração Pública Indireta do Estado do Rio Grande do
+L2713@P85: Sul e dá outras providências.
+L2714@P85: PL 251/201632
+L2715@P85: Dispõe sobre a extinção da Superintendência de Porto e
+L2716@P85: Hidrovias de Porto Alegre – SPH, altera a Lei n.º 10.722, de
+L2717@P85: 18 de janeiro de 1996 e dá outras providências.
+L2718@P85: 
+L2719@P85: 26 RIO GRANDE DO SUL. Procergs. Proposta de Emenda à Constituição nº 2432015. Altera a redação do § 4º
+L2720@P85: do artigo 22 da Constituição do Estado do Rio Grande do Sul. Disponível em:
+L2721@P85: http://proweb.procergs.com.br/temp/PEC_243_2015_04022021150826_int.pdf?04/02/2021%2015:08:27.
+L2722@P85: Acesso em: 10 dez. 2020.
+L2723@P85: 27 RIO GRANDE DO SUL. Procergs. Projeto de Lei nº 2992015. Autoriza a extinção da Fundação de Esporte e
+L2724@P85: Lazer do Rio Grande do Sul – FUNDERGS e dá outras providências. Disponível em:
+L2725@P85: http://proweb.procergs.com.br/temp/PL_299_2015_04022021145434_int.pdf?04/02/2021%2014:54:35. Acesso
+L2726@P85: em: 10 dez. 2020.
+L2727@P85: 28 RIO GRANDE DO SUL. Procergs. Projeto de Lei nº 3012015. Fica extinta a Fundação Estadual de Produção
+L2728@P85: e Pesquisa em Saúde - FEPPS e dá outras providências. Disponível em:
+L2729@P85: http://proweb.procergs.com.br/Diario/DA20161213-01-095435/EX20161213-01-095435-PL-301-2015.pdf.
+L2730@P85: Acesso em: 10 dez. 2020.
+L2731@P85: 29 RIO GRANDE DO SUL. Procergs. Projeto de Lei nº 2402016. Extingue a Fundação Instituto Gaúcho de
+L2732@P85: Tradição e Folclore - FIGTF e a Fundação Estadual de Pesquisa Agropecuária – FEPAGRO dá outras
+L2733@P85: providências. Disponível em:
+L2734@P85: http://proweb.procergs.com.br/temp/PL_240_2016_04022021145936_int.pdf?04/02/2021%2014:59:37. Acesso
+L2735@P85: em: 10 dez. 2020.
+L2736@P85: 30 RIO GRANDE DO SUL. Procergs. Projeto de Lei nº 2442016. Dispõe sobre a extinção da Companhia Riograndense de Artes Gráficas – CORAG. Disponível em: http://proweb.procergs.com.br/Diario/DA20161125-01-
+L2737@P85: 100000/EX20161125-01-100000-PL-244-2016.pdf. Acesso em: 10 dez. 2020.
+--------------------------------------------------------------------------------
+ (https://tede2.pucrs.br/tede2/bitstream/tede/10392/2/Rafael_da_Silveira_Velho_Dis.pdf)
+citeturn207view2 [wordlim: 200] Crawled: last week; Content type: application/pdf; Number of pages: 97; Source: find({"ref_id":"turn203view0","pattern":"filiação"}); Total lines: 3204
+L977@P37: teve como Vice-governador José Paulo Cairoli (PSD), derrotando o então Governador Tarso
+L978@P37: Genro (PT), marcou a retomada do PMDB ao Poder Executivo após oito anos.
+L979@P37: 7
+L980@P37: Antes mesmo de tomar posse, o governador eleito já garantiu a sua governabilidade
+L981@P37: inicial, contando com o apoio de quarenta dos 55 deputados estaduais eleitos,
+L982@P37: aproximadamente 73% da casa legislativa, conforme se observa na tabela 5. Formalmente,
+L983@P37: além do PMDB e dos demais partidos que compuseram a coalizão eleitoral através de treze
+L984@P37: deputados eleitos (PPS, PSB e PSD), o Governo contou com a adesão de mais sete partidos à
+L985@P37: sua base de apoio no Legislativo (PDT, PP, PR (PL), PRB, PSDB, PTB e PV), que garantiram
+L986@P37: 
+L987@P37: 7 G1. José Ivo Sartori, do PMDB, é eleito governador do Rio Grande do Sul. Porto Alegre, 26 out. 2014.
+L988@P37-38: Disponível em: http://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2014/noticia/2014/10/jose-ivo-sartori-dopmdb-e-eleito-governador-do-rio-grande-do-sul.html. Acesso em 04 jul. 2020.38
+L989@P38: mais 27 deputados estaduais para reforçar a coalizão governista, garantindo, assim, a
+L990@P38: sustentação da base governista no Legislativo gaúcho.
+L991@P38: Tabela 3 – Duração, composição partidária, apoio parlamentar e percentual de
+L992@P38: secretários sem filiações partidárias do secretariado formado (2015-2018)
+L993@P38: Coalizão
+L994@P38: Governista
+L995@P38: Duração Partidos da
+L996@P38: coalizão
+L997@P38: Evento de
+L998@P38: início da nova
+L999@P38: coalizão
+L1000@P38: Tamanho
+L1001@P38: (%) da
+L1002@P38: coalizão na
+L1003@P38: Alergs
+L1004@P38: % de
+L1005@P38: secretários
+L1006@P38: % de
+L1007@P38: secretários
+L1008@P38: sem filiação
+L1009@P38: partidária
+L1010@P38: Sartori 1 012015 -
+L1011@P38: 032016
+L1012@P38: PMDB – PSD
+L1013@P38: – PSB – PPS
+L1014@P38: – PSDB –
+L1015@P38: PTB – PP –
+L1016@P38: PDT – PRB –
+L1017@P38: PV - PR (PL)
+L1018@P38: Eleições
+L1019@P38: estaduais e
+L1020@P38: legislativas.
+L1021@P38: 72,7 85 15
+L1022@P38: Sartori 2 042016 -
+L1023@P38: 102016
+L1024@P38: PMDB – PSD
+L1025@P38: – PSB – PPS
+L1026@P38: – PSDB –
+L1027@P38: PTB – PP –
+L1028@P38: PDT – PRB –
+L1029@P38: PV - PR (PL)
+L1030@P38: Eleições
+L1031@P38: municipais.
+L1032@P38: 70,8 90 10
+L1033@P38: Sartori 3 112016 -
+L1034@P38: 032018
+L1035@P38: PMDB – PSD
+L1036@P38: – PSB – PPS
+L1037@P38: – PSDB – PP
+L1038@P38: – PRB – PV -
+L1039@P38: PR (PL)
+L1040@P38: Reforma do
+L1041@P38: Estado e
+L1042@P38: saídas do PTB
+L1043@P38: e PDT.
+L1044@P38: 49 82,4 17,6
+L1045@P38: Sartori 4 042018 -
+L1046@P38: 122018
+L1047@P38: PMDB – PSD
+L1048@P38: – PSB - PL
+L1049@P38: Eleições
+L1050@P38: estaduais.
+L1051@P38: 25,4 47,1 52,9
+L1052@P38: Média total 56,4 76,1 23,9
+L1053@P38: Fonte: elaboração própria, com base em informações extraídas por matérias veiculadas nos meios de
+L1054@P38: comunicação.
+L1055@P38: Conforme observado nas tabelas acima e abaixo através da composição das coalizões
+L1056@P38: de Governo, nota-se uma alta fragmentação partidária na Alergs através da representação de
+L1057@P38: dezesseis partidos, sendo que somente na base governista há a presença de onze partidos.
+L1058@P38: Desta forma, essa fragmentação partidária pode ser dividida em três tipos de bancadas
+L1059@P38-39: governistas:39
+L1060@P39: a) Pequenas bancadas: representadas através de um parlamentar por partido.
+L1061@P39: Continham cinco partidos, o que representou 12,5% da base governista (5
+L1062@P39: parlamentares);
+L1063@P39: b) Médias bancadas: representadas através de três a cinco parlamentares por
+L1064@P39: partido. Continham três partidos, o que representou 30% da base governista
+L1065@P39: (12 parlamentares); e,
+L1066@P39: c) Grandes bancadas: representadas de sete a oito parlamentares por partido.
+L1067@P39: Continham três partidos, o que representou 57,5% da base governista (23
+L1068@P39: parlamentares).
+L1069@P39: Analisando as considerações acima, percebe-se que o Governador formou a sua
+L1070@P39: coalizão política que, em tese, garantiria certa tranquilidade para contar com o cálculo
+L1071@P39: necessário para a aprovação de iniciativas de sua autoria que contassem com um quórum
+L1072@P39: mínimo deliberativo8. Desta forma, na tabela abaixo será possível verificar as etapas que
+L1073@P39: caracterizaram as coalizões de Governo através da representação de cada partido em
+L1074@P39: determinada coalizão de Governo, conforme já abordado os tipos de bancadas e o quantitativo
+L1075@P39: que cada partido corresponde à base de apoio governista.
+L1076@P39: Tabela 4 – Base de apoio e Coalizões do Governo Sartori (2015-2018)
+L1077@P39: Coalizões do Governo Sartori 1 2 3 4 1 2 3 4
+L1078@P39: Partidos Nº de deputados % de representação
+L1079@P39: partidária na Alergs
+L1080@P39: PDT 8 7 --- --- 14,5 12,7 --- ---
+L1081@P39: PMDB 8 8 8 8 14,5 14,5 14,5 14,5
+L1082@P39: PP 7 7 7 --- 12,7 12,7 12,7 ---
+L1083@P39: PPS 1 1 1 --- 1,8 1,8 1,8 ---
+L1084@P39: PR (PL) 1 1 1 2 1,8 1,8 1,8 3,6
+L1085@P39: PRB 1 1 1 --- 1,8 1,8 1,8 ---
+L1086@P39: PSB 3 3 3 3 5,5 5,5 5,5 5,5
+L1087@P39: PSD 1 1 1 1 1,8 1,8 1,8 1,8
+L1088@P39: PSDB 4 4 4 --- 7,3 7,3 7,3 ---
+L1089@P39: PTB 5 5 --- --- 9,1 9,1 --- ---
+L1090@P39: PV 1 1 1 --- 1,8 1,8 1,8 ---
+L1091@P39: Total 40 39 27 14 72,6 70,8 49 25,4
+L1092@P39: Média total 31 56,4
+L1093@P39: Fonte: elaboração própria, com base em Alergs e veículos de imprensa.
+L1317@P45: Tendo em vista as alterações abordadas acima referentes à composição da terceira
+L1318@P45: coalizão de Governo, salienta-se que a oposição que contava com o número de quinze
+L1319@P45: parlamentares, após a saída do PTB e do PDT da base de apoio ao Governo, passou a contar
+L1320@P45: com 27 deputados estaduais, o que representa quase 50% do Plenário.
+L1321@P45: Na quarta e última fase da composição do secretariado, nota-se mais alterações em
+L1322@P45: relação aos titulares que se desvencilharam de suas pastas a fim de concorrer às eleições
+L1323@P45: gerais de 2018, bem como, da composição partidária, já que partidos como PSDB e PP que
+L1324@P45: detinham espaços políticos no governo acabaram deixando-os devido às novas composições
+L1325@P45: eleitorais surgidas na disputa pelo governo estadual.
+L1326@P45: Também nota-se que devido ao fato de que alguns partidos deixaram a base de
+L1327@P45: sustentação política estadual visualizando as eleições para o governo do Estado, o governador
+L1328@P45: para suprir essas lacunas acabou alterando a proporção da representação política de partidos
+L1329@P45: que compôs a sua coalizão eleitoral e política, incluindo o próprio PMDB, partido do qual foi
+L1330@P45: eleito, para indicar titulares sem filiação partidária.
+L1331@P45: A única proporção que se manteve a mesma foi a do PSD que ocupou uma pasta
+L1332@P45: durante todo o governo. Já, o PSB que detinha duas secretarias, passou a ter apenas uma.
+L1333@P45: Contudo, o PMDB que durante o governo chegou a ocupar oito pastas passou a ocupar duas a
+L1334@P45: menos.
+L1335@P45: Cabe salientar que dentre as indicações técnicas, por assim dizer, sem vínculos
+L1336@P45: partidários, alguns nomes possuem ligações políticas com o próprio partido em questão,
+L1337@P45: apesar de não serem filiados ao mesmo. A composição partidária no parlamento gaúcho
+L1338@P45: também sofreu alterações devido à troca de partidos permitida pela janela eleitoral vigente de
+L1339@P45: março a abril de 2018 com fins de disputa eleitoral.
+L1340@P45: Com isso, além das alterações de representação partidária parlamentar, o número de
+L1341@P45: parlamentares que deixaram oficialmente o governo para a disputa eleitoral chegou a treze,
+L1342@P45: 14 CORREIO DO POVO. PDT aprova saída do governo Sartori. Porto Alegre, 10 abr. 2017. Disponível em:
+L1343@P45-46: https://www.correiodopovo.com.br/not%C3%ADcias/pol%C3%ADtica/pdt-aprova-sa%C3%ADda-do-governosartori-1.228327. Acessado em 08 dez. 2020.46
+L1344@P46: visto que PSDB, PP, PRB, PPS, além do PTB que já havia anunciado saída da base de
+L1345@P46: sustentação do governo, compuseram a coalizão eleitoral do então candidato ao Governo do
+L1346@P46: Estado do RS, Eduardo Leite. Desta forma, a situação passou a contar com um número muito
+L1347@P46: aquém de parlamentares do que teve ao longo do Governo.
+L1348@P46: Tendo compreendido o processo de formação das coalizões eleitorais e legislativas,
+L1349@P46: bem como a formação dos gabinetes estaduais, a seguir será abordado elementos no que tange
+L1350@P46: ao processo legislativo a fim de compreender a forma e os dispositivos constitucionais que o
+L1351@P46: Governador Sartori utilizou para desenvolver a sua agenda reformista e qual meio utilizou
+L1352@P46: para que as suas iniciativas tramitassem no parlamento gaúcho.
+L1353@P46: 4.3 PROCESSO LEGISLATIVO
+L1354@P46: No Estado Democrático de Direito, os Poderes Executivo e Legislativo são exercidos
+L1355@P46: por meio de funções estatais que são encarregadas de administrar e legislar. Essas funções se
+L1356@P46: utilizam de processos próprios que estão sujeitos a regramentos e princípios específicos em
+L1357@P46: que há o processo legislativo que se dá através da elaboração de normas pelo Estado. Esse
+L1358@P46: processo é estabelecido pela Constituição Federal de 1988 e pela Constituição Estadual
+L1359@P46: através das seguintes formas:

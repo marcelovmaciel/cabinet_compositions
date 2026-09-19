@@ -1,0 +1,14 @@
+{
+  "party": "PCDOB",
+  "id": 45,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 203,
+      "totalElements": 203,
+      "response_sha256": "58d7e98848da0e9e48515beafc432090c76b883efae7a1a9df67b3bddfac337b",
+      "retrieved_utc": "2026-09-11T00:08:25Z"
+    }
+  ],
+  "matches": []
+}

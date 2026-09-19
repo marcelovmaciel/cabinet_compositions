@@ -1,0 +1,23 @@
+{
+  "party": "PSDB",
+  "id": 56,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=56&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 11317,
+      "response_sha256": "fa6b3a2cf4c08810ecb712439b10a3474e91bce9f9b31b00d238ba13e37fb678",
+      "retrieved_utc": "2026-09-10T23:37:01Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=56&currentPage=1&pageSize=10000",
+      "records": 1317,
+      "totalElements": 11317,
+      "response_sha256": "b5f2885207e0289ced2ce3a0cd77daba0948915c4bb225869ae64b7da825b19b",
+      "retrieved_utc": "2026-09-10T23:37:04Z"
+    }
+  ],
+  "matches": []
+}

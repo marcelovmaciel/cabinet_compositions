@@ -1,0 +1,21 @@
+{
+  "party": "PODE",
+  "id": 43,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=43&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 18607,
+      "response_sha256": "2df5f75c063da006b6fedb393d6d81ba08f34bb5fc0a78a6c71438249333bf7e",
+      "retrieved_utc": "2026-09-10T23:45:57Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=43&currentPage=1&pageSize=10000",
+      "records": 8607,
+      "totalElements": 18607,
+      "response_sha256": "c8cbbd233857cb1e7b431434af948f16bf880da6b700232ca5fb22b8b8f9b7cb",
+      "retrieved_utc": "2026-09-10T23:46:15Z"
+    }
+  ],
+  "matches": []
+}

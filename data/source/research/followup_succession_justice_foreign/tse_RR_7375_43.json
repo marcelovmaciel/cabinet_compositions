@@ -1,0 +1,17 @@
+{
+  "party": "PODE",
+  "id": 43,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=43&currentPage=0&pageSize=10000",
+      "records": 1494,
+      "totalElements": 1494,
+      "response_sha256": "1fdeee1abff22638c4ebf243deb94d378531abc7b856a29e3ff63615b59f7c24",
+      "retrieved_utc": "2026-09-10T23:41:19Z"
+    }
+  ],
+  "matches": []
+}

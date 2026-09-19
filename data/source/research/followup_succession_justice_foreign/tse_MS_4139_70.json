@@ -1,0 +1,17 @@
+{
+  "party": "PDT",
+  "id": 70,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 3494,
+      "totalElements": 3494,
+      "response_sha256": "2c3d741bd1e699578b3304d3365b6980d4e3b8bdb8ccf81e18bfe6fc5e9e0174",
+      "retrieved_utc": "2026-09-10T23:40:22Z"
+    }
+  ],
+  "matches": []
+}

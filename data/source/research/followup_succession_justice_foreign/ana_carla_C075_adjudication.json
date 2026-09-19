@@ -1,0 +1,133 @@
+{
+  "proposed_decision_id": "C075",
+  "person_id": "person-ana-carla-machado-lopes",
+  "person_name": "Ana Carla Machado Lopes",
+  "primary_party_id": "PSDB",
+  "primary_affiliation_status": "affiliated",
+  "evidence_status": "adjudicated_dated_affiliation_with_forward_continuity",
+  "historical_entry_date": "2013-10-02",
+  "dated_observation": "2016-07-27",
+  "proposed_affiliation_span": {
+    "start_inclusive": "2013-10-02",
+    "end_exclusive": "2026-03-20",
+    "end_semantics": "Dataset cutoff only, not documented departure from party; apply only through qualifying observed service."
+  },
+  "qualifying_service_ids": [
+    "service-C073-vacancy-1",
+    "service-C073-vacancy-2",
+    "service-C073-vacancy-4",
+    "service-C073-vacancy-5",
+    "service-C073-vacancy-6"
+  ],
+  "qualifying_spans": [
+    {
+      "start_inclusive": "2023-12-04",
+      "end_exclusive": "2023-12-06"
+    },
+    {
+      "start_inclusive": "2024-12-03",
+      "end_exclusive": "2024-12-06"
+    },
+    {
+      "start_inclusive": "2025-10-08",
+      "end_exclusive": "2025-10-09"
+    },
+    {
+      "start_inclusive": "2025-11-13",
+      "end_exclusive": "2025-11-17"
+    },
+    {
+      "start_inclusive": "2025-12-19",
+      "end_exclusive": "2025-12-23"
+    }
+  ],
+  "primary_rationale": "Filiaweb reproduces a TSE-origin July27 2016 snapshot with exact rare full name, PSDB, Belem/PA, and entry date October2 2013. Identity is adjudicated from full name and municipality, supported by the official MTur CV, Belem origin, and the official Para personnel roster recording the same name as PSDB leadership chief of staff before February2019. A substantial targeted search for resignation, expulsion, switch, new affiliation, and denials located no actual event contradicting PSDB continuity. September/October2025 reporting explicitly denies UNIAO affiliation, which is consistent with continued PSDB and rejects mechanical transfer along with Celso Sabino. Apply documented forward continuity to qualifying service without treating source age or missing later list entry as a departure.",
+  "identity_adjudication": "Strong contextual linkage, not unique-identifier match. The source registry identifier is masked. MTur official CV identifies the same full name, UNAMA law degree, Para bar membership, ALEPA service2015–2018 and Camara2019–July2023; independent2019 DOE gives PSDB leadership chief of staff. The latter establishes role and linkage, not fresh formal affiliation.",
+  "limitations": [
+    "Historical membership is directly observed in the2016snapshot; 2023–2025 membership is a declared continuity adjudication, not a freshly dated affiliation certificate.",
+    "The2019 PSDB leadership staff role is used for identity/context only, never as an independent formal-membership assertion.",
+    "The currentTSE-list nonmatch does not establish a departure; official TSE manual acknowledges regularly affiliated people can be absent from the last official party list.",
+    "No unsupported non-affiliation alternative is invented from missing current records. No later party label is back-projected."
+  ],
+  "credible_set_changing_alternative_supported_by_specific_event": null,
+  "contrary_assertions_adjudicated": [
+    {
+      "source": "CNN September19 2025 and Estadao/Broadcast October2025",
+      "claim": "Not affiliated to UNIAO",
+      "disposition": "Consistent with PSDB primary; not an all-party nonaffiliation declaration."
+    },
+    {
+      "source": "Current publicTSE targeted search",
+      "claim": "No matched record",
+      "disposition": "Source coverage limitation rather than dated party departure."
+    }
+  ],
+  "sources": [
+    {
+      "id": "C075-A1",
+      "url": "https://belem-pa.filiaweb.com/filiados/psdb",
+      "kind": "TSE-origin historical compilation",
+      "snapshot_date": "2016-07-27",
+      "claim": "Exact name in PSDB Belem/PA, entry02/10/2013",
+      "local_file": "ana_carla_psdb_2016_target_assertion.json"
+    },
+    {
+      "id": "C075-A2",
+      "url": "https://www.gov.br/turismo/pt-br/composicao/secretaria-executiva/subsecretaria-de-gestao-estrategica-sge/ana-carla-machado-lopes/%40%40download",
+      "kind": "Official CV",
+      "claim": "Identity and career linkage, no party declaration",
+      "local_file": "ana_carla_official_cv_web_assertion.txt",
+      "retrieval_note": "Full indexed source text reviewed; directdownload403 recorded in manifest."
+    },
+    {
+      "id": "C075-A3",
+      "url": "https://www.ioepa.com.br/arquivos/2019/2019.02.11.DOE.pdf",
+      "kind": "Official state gazette",
+      "publication_date": "2019-02-11",
+      "claim": "DOE33801 printedpage77 lists Ana Carla Machado Lopes, Chefe de Gabinete de Lideranca DAS201.3, Lideranca do PSDB. Decree902/2019 is a personnel dismissal effectiveFeb1, not party resignation.",
+      "local_file": "ana_carla_alepa_20190211.pdf"
+    },
+    {
+      "id": "C075-A4",
+      "url": "https://www.lugares.eco.br/5-perguntas/o-soft-power-feminino-a-frente-da-secretaria-executiva-do-mtur/3084/",
+      "kind": "Interview",
+      "claim": "Native of Belem, same educational and legislative career",
+      "local_file": "sabino_ana_se_historical_interview.html"
+    },
+    {
+      "id": "C075-A5",
+      "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/sabino-sugere-ao-planalto-que-secretaria-executiva-assuma-ministerio//",
+      "kind": "Contemporaneous reported party denial",
+      "publication_date": "2025-09-19",
+      "claim": "UNIAO sources say she is not affiliated to UNIAO; no assertion she lacks all affiliations.",
+      "local_file": "ana_carla_affiliation_raw_assertions.json"
+    },
+    {
+      "id": "C075-A6",
+      "url": "https://diariodocomercio.com.br/politica/eleicoes-2026-uniao-brasil-enfrenta-cenario-turbulento-1-ano-disputa/",
+      "kind": "Estadao/Broadcast reporting",
+      "claim": "Explicitly not affiliated to UNIAO",
+      "local_file": "ana_carla_affiliation_raw_assertions.json"
+    },
+    {
+      "id": "C075-A7",
+      "url": "https://filia2-consulta.tse.jus.br/assets/GUS_FILIA_Consulta.pdf",
+      "kind": "Official source documentation",
+      "claim": "Section5.1 explains regular affiliation can be absent from last official party list; nonmatch is not negative certificate.",
+      "local_file": "tse_consulta_manual.pdf"
+    }
+  ],
+  "targeted_queries_reviewed": [
+    "\"Ana Carla Machado Lopes\" PSDB",
+    "\"Ana Carla Machado Lopes\" \"desfiliação\"",
+    "\"Ana Carla Machado Lopes\" \"desfiliou\" OR \"expulsa\" OR \"filiou\" OR \"desligou\"",
+    "\"Ana Carla Lopes\" PSDB saiu",
+    "\"Ana Carla Machado Lopes\" expulsa partido",
+    "\"Ana Carla Lopes\" filiou PSL União PDT PSDB",
+    "\"Ana Carla Lopes\" \"PSL\"",
+    "\"Ana Carla Lopes\" \"sem partido\"",
+    "\"Ana Carla\" turismo \"nenhum partido\"",
+    "\"Ana Carla\" Sabino \"sem filiação\""
+  ],
+  "research_result": "No specific personal departure, expulsion, new party, or universal non-affiliation event found. An administrative exoneração from a legislative staff role is explicitly not interpreted as a party exit."
+}

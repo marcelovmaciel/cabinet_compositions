@@ -1,0 +1,17 @@
+{
+  "party": "PRTB",
+  "id": 39,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=39&currentPage=0&pageSize=10000",
+      "records": 172,
+      "totalElements": 172,
+      "response_sha256": "97b1248b2674781bc5a46fb8be4d1fe2876a90d27d9f30b3ad0af210c9529720",
+      "retrieved_utc": "2026-09-10T23:40:31Z"
+    }
+  ],
+  "matches": []
+}

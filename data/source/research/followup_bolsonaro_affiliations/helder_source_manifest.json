@@ -1,0 +1,23 @@
+[
+  {
+    "file": "tse_filia_manual2023.pdf",
+    "url": "https://ptmg.org.br/wp-content/uploads/2024/02/guia-do-usuario-sistema-de-filiacao-partidaria-filia.pdf",
+    "status": 200,
+    "sha256": "929c6b730a4408761e36116a7979f4967623e82cd7cc1a5b0d1cc134228e74d3",
+    "retrieved_utc": "2026-09-10T23:38:06.176670+00:00"
+  },
+  {
+    "file": "tse_res23596.html",
+    "url": "https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-596-de-20-de-agosto-de-2019",
+    "status": 403,
+    "sha256": "64b5f52caa6b208aaa4ae0a971e0dcd802d11710359490827860325134a0f09f",
+    "retrieved_utc": "2026-09-10T23:38:06.238772+00:00"
+  },
+  {
+    "file": "helder_official2020.pdf",
+    "url": "https://carf.economia.gov.br/acesso-a-informacao/boletim-de-servicos-carf/portarias-me-2020/portaria-se_me-17363-e-17370-reconducao-e-designa-conselheiro.pdf/@@download/file/PORTARIA%20SE_ME%2017363%20e%2017370%20-%20Recondu%C3%A7%C3%A3o%20e%20Designa%20conselheiro.pdf",
+    "status": 200,
+    "sha256": "2feb6b3dee9ff72b215dea61b76bc18a83c876286b1282cb00851434e05d1195",
+    "retrieved_utc": "2026-09-10T23:38:06.608047+00:00"
+  }
+]

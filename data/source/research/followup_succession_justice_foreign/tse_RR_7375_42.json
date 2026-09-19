@@ -1,0 +1,17 @@
+{
+  "party": "MDB",
+  "id": 42,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 1799,
+      "totalElements": 1799,
+      "response_sha256": "2ada9cb6c4a4725918e692d3e99066df4e48a430090c26b68987c5cd4181fe53",
+      "retrieved_utc": "2026-09-10T23:41:10Z"
+    }
+  ],
+  "matches": []
+}

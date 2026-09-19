@@ -1,0 +1,384 @@
+ (https://repositorio.ipea.gov.br/bitstreams/6d157d5c-662e-4926-89a4-13112b85d940/download)
+citeturn288view0 [wordlim: 200] Crawled: 3 months ago; Content type: application/pdf; Number of pages: 59; Source: open({"ref_id":"https://repositorio.ipea.gov.br/bitstreams/6d157d5c-662e-4926-89a4-13112b85d940/download","lineno":null}); Total lines: 1949
+L0@P0: 3163
+L1@P0: REVERTENDO A DELEGAÇÃO: O
+L2@P0: CRESCENTE PROTAGONISMO
+L3@P0: LEGISLATIVO DO
+L4@P0: CONGRESSO NACIONAL
+L5@P0-1: ACIR ALMEIDARio de Janeiro, setembro de 2025
+L6@P1: 3163
+L7@P1: REVERTENDO A DELEGAÇÃO: O
+L8@P1: CRESCENTE PROTAGONISMO
+L9@P1: LEGISLATIVO DO
+L10@P1: CONGRESSO NACIONAL1
+L11@P1: ACIR ALMEIDA2
+L12@P1: 1. O autor agradece as críticas e sugestões de Bhreno Vieira, Felix Lopez, Leonardo
+L13@P1: Augusto de Andrade Barbosa, Diego Correa e de participantes do seminário interno
+L14@P1: da Diretoria de Estudos e Políticas do Estado, das Instituições e da Democracia do
+L15@P1: Instituto de Pesquisa Econômica Aplicada (Diest/Ipea), realizado em 11 de junho de
+L16@P1: 2025. Eventuais erros ou omissões remanescentes são de inteira responsabilidade
+L17@P1: do autor.
+L18@P1-2: 2. Técnico de planejamento e pesquisa na Diest/Ipea. E-mail: acir.almeida@ipea.gov.br.Texto para
+L19@P2: Discussão
+L20@P2: Publicação seriada que divulga resultados de estudos e pesquisas
+L21@P2: em desenvolvimento pelo Ipea com o objetivo de fomentar o debate
+L22@P2: e oferecer subsídios à formulação e avaliação de políticas públicas.
+L23@P2: © Instituto de Pesquisa Econômica Aplicada – ipea 2025
+L24@P2: Almeida, Acir
+L25@P2:  Revertendo a delegação : o crescente protagonismo legislativo
+L26@P2: do Congresso Nacional / Acir Almeida. – Rio de Janeiro: Ipea, 2025.
+L27@P2:  56 p.: il., gráfs. – (Texto para Discussão ; n. 3163).
+L28@P2:  Inclui Bibliografia.
+L29@P2:  ISSN 1415-4765
+L30@P2: 
+L31@P2:  1. Relações Executivo-Legislativo. 2. Produção Legislativa.
+L32@P2: 3. Dominância Legislativa. 4. Delegação. I. Instituto de Pesquisa
+L33@P2: Econômica Aplicada. II. Título.
+L34@P2: 
+L35@P2:  CDD 328
+L36@P2: Ficha catalográfica elaborada por Elizabeth Ferreira da Silva CRB-7/6844.
+L37@P2: Como citar:
+L38@P2: ALMEIDA, Acir. Revertendo a delegação: o crescente protagonismo
+L39@P2: legislativo do Congresso Nacional. Rio de Janeiro: Ipea, set. 2025.
+L40@P2: 56 p.: il. (Texto para Discussão, n. 3163). DOI: https://dx.doi.
+L41@P2: org/10.38116/td3163-port
+L42@P2: JEL: D72.
+L43@P2: As publicações do Ipea estão disponíveis para download gratuito nos
+L44@P2: formatos PDF (todas) e EPUB (livros e periódicos).
+L45@P2: Acesse: https://repositorio.ipea.gov.br/.
+L46@P2: As opiniões emitidas nesta publicação são de exclusiva e inteira
+L47@P2: responsabilidade dos autores, não exprimindo, necessariamente, o
+L48@P2: ponto de vista do Instituto de Pesquisa Econômica Aplicada ou do
+L49@P2: Ministério do Planejamento e Orçamento.
+L50@P2: É permitida a reprodução deste texto e dos dados nele contidos, desde
+L51@P2: que citada a fonte. Reproduções para fins comerciais são proibidas.
+L52@P2: Governo Federal
+L53@P2: Ministério do Planejamento e Orçamento
+L54@P2: Ministra Simone Nassar Tebet
+L55@P2: Fundação pública vinculada ao Ministério do
+L56@P2: Planejamento e Orçamento, o Ipea fornece suporte
+L57@P2: técnico e institucional às ações governamentais –
+L58@P2: possibilitando a formulação de inúmeras políticas
+L59@P2: públicas e programas de desenvolvimento brasileiros – e disponibiliza, para a sociedade, pesquisas
+L60@P2: e estudos realizados por seus técnicos.
+L61@P2: Presidenta
+L62@P2: LUCIANA MENDES SANTOS SERVO
+L63@P2: Diretor de Desenvolvimento Institucional
+L64@P2: FERNANDO GAIGER SILVEIRA
+L65@P2: Diretora de Estudos e Políticas do Estado,
+L66@P2: das Instituições e da Democracia
+L67@P2: LUSENI MARIA CORDEIRO DE AQUINO
+L68@P2: Diretor de Estudos e Políticas Macroeconômicas
+L69@P2: CLÁUDIO ROBERTO AMITRANO
+L70@P2: Diretor de Estudos e Políticas Regionais,
+L71@P2: Urbanas e Ambientais
+L72@P2: ARISTIDES MONTEIRO NETO
+L73@P2: Diretor de Estudos e Políticas Setoriais,
+L74@P2: de Inovação, Regulação e Infraestrutura
+L75@P2: PEDRO CARVALHO DE MIRANDA
+L76@P2: Diretora de Estudos e Políticas Sociais
+L77@P2: LETÍCIA BARTHOLO DE OLIVEIRA E SILVA
+L78@P2: Diretora de Estudos Internacionais
+L79@P2: KEITI DA ROCHA GOMES
+L80@P2: Chefe de Gabinete
+L81@P2: ALEXANDRE DOS SANTOS CUNHA
+L82@P2: Coordenadora-Geral de Imprensa e
+L83@P2: Comunicação Social
+L84@P2: GISELE AMARAL DE SOUZA
+L85@P2: Ouvidoria: https://www.ipea.gov.br/ouvidoria
+L86@P2-3: URL: https://www.ipea.gov.brSUMÁRIOSINOPSE
+L87@P3: ABSTRACT
+L88@P3: 1 INTRODUÇÃO ........................................................................... 6
+L89@P3: 2 UMA AVALIAÇÃO DO PROTAGONISMO LEGISLATIVO.......... 7
+L90@P3: 3 EXPLICANDO O PROTAGONISMO DO CONGRESSO ...........16
+L91@P3: 3.1 Uma questão em aberto...........................................................16
+L92@P3: 3.2 Fundamentos teóricos..............................................................18
+L93@P3: 3.3 Aplicação ao caso brasileiro....................................................21
+L94@P3: 4 TESTE DAS HIPÓTESES.........................................................23
+L95@P3: 4.1 Variáveis e dados......................................................................23
+L96@P3: 4.2 Métodos de estimação.............................................................29
+L97@P3: 4.3 Resultados.................................................................................31
+L98@P3: 4.4 Discussão..................................................................................35
+L99@P3: 5 CONSIDERAÇÕES FINAIS ......................................................36
+L100@P3: REFERÊNCIAS............................................................................37
+L101@P3: APÊNDICE A...............................................................................46
+L102@P3: APÊNDICE B...............................................................................51
+L103@P3-4: APÊNDICE C...............................................................................55SINOPSE
+L104@P4: Este estudo investiga a transformação do presidencialismo brasileiro a partir do
+L105@P4: crescente protagonismo do Congresso Nacional na produção de leis. Mostra que o
+L106@P4: Legislativo não apenas ampliou sua produção, mas também passou a ocupar espaço
+L107@P4: em áreas centrais das políticas públicas, historicamente dominadas pelo Executivo.
+L108@P4: A explicação proposta recorre a teorias de delegação e organização legislativa,
+L109@P4: enfatizando as escolhas estratégicas dos parlamentares entre iniciar leis ou delegar
+L110@P4: essa tarefa ao presidente. Com base em dados originais sobre a produção legislativa
+L111@P4: anual entre 1989 e 2022, o estudo apresenta evidências de que o declínio da dominância
+L112@P4: presidencial está associado à perda de centralidade da representação localista, à
+L113@P4: menor polarização entre maiorias de governo e oposição (2003-2014) e ao aumento
+L114@P4: da distância ideológica entre o presidente e o legislador mediano (a partir de 2015).
+L115@P4: Palavras-chave: relações Executivo-Legislativo; produção legislativa; dominância
+L116@P4: legislativa; delegação.
+L117@P4: ABSTRACT
+L118@P4: This study investigates the transformation of Brazilian presidentialism through the
+L119@P4: growing protagonism of Congress in lawmaking. It shows that the Legislature not
+L120@P4: only expanded its output but also moved into central areas of public policy, historically
+L121@P4: dominated by the Executive. The proposed explanation draws on theories of delegation
+L122@P4: and legislative organization, emphasizing lawmakers’ strategic choices between
+L123@P4: initiating laws or delegating this task to the president. Based on original data on annual
+L124@P4: legislative production between 1989 and 2022, the study presents evidence that the
+L125@P4: decline of presidential dominance is associated with the waning centrality of localist
+L126@P4: representation, reduced polarization between government majorities and opposition
+L127@P4: (2003-2014), and the growing ideological distance between the president and the median
+L128@P4: legislator (from 2015 onward).
+L129@P4-5: Keywords: Executive-Legislative relations; lawmaking; legislative dominance; delegation.TEXTO para DISCUSSÃO
+L130@P5: 6
+L131@P5: 3163
+L132@P5: 1 INTRODUÇÃO
+L133@P5: Na última década, o Congresso Nacional passou a exercer protagonismo legislativo
+L134@P5: inédito em sua trajetória desde a redemocratização. Até meados dos anos 2000, o
+L135@P5: Executivo era amplamente reconhecido como o “principal legislador de fato”, responsável pela iniciativa de cerca de 83% das leis aprovadas (Figueiredo e Limongi, 2007,
+L136@P5: p. 186). Desde então, esse padrão começou a se modificar e, a partir de 2015, a mudança
+L137@P5: se intensificou, até que, em 2024, a inversão se completou: 83% das leis promulgadas
+L138@P5: tiveram início no Congresso (Almeida, 2014, 2020; Dias, 2024).
+L139@P5: Essa mudança coloca em xeque as principais interpretações do presidencialismo
+L140@P5: brasileiro, que atribuem ao presidente da República um papel central na iniciativa
+L141@P5: de leis e no controle da agenda legislativa (Palermo, 2000; Power, 2010). Como se
+L142@P5: discutirá ao longo deste estudo, nem os recursos institucionais do presidente nem
+L143@P5: a forma como ele os utiliza parecem fornecer uma explicação convincente para as
+L144@P5: transformações legislativas.
+L145@P5: Este trabalho propõe uma explicação alternativa do crescente protagonismo do
+L146@P5: Congresso na produção de leis, com foco no conceito de dominância, definida como
+L147@P5: a proporção de leis de iniciativa de um determinado ator institucional – no caso, o
+L148@P5: presidente ou o Congresso – no total de leis promulgadas. Embora essa medida não
+L149@P5: capture a dimensão substantiva das leis (isto é, o grau de alinhamento do conteúdo
+L150@P5: das leis às preferências dos atores), parte-se da premissa de que essas dimensões
+L151@P5: tendem a estar diretamente relacionadas.
+L152@P5: O argumento central, fundamentado em teorias de delegação e de organização
+L153@P5: legislativa, é que o grau de dominância presidencial reflete escolhas do próprio
+L154@P5: Congresso sobre como organizar a produção de leis – em especial, sobre o quanto de
+L155@P5: iniciativa e de controle da agenda delegar ao presidente. Diferentemente da literatura
+L156@P5: que já explorou essa perspectiva na análise do caso brasileiro (Amorim Neto e Tafner,
+L157@P5: 2002; Figueiredo e Limongi, 2003; Reich, 2002), este estudo inova ao especificar como
+L158@P5: a delegação é condicionada pelas preferências parlamentares em distintos contextos e
+L159@P5: ao tratar os poderes de agenda do presidente como endógenos e sujeitos a alterações
+L160@P5: informais ao longo do tempo.
+L161@P5: A parte empírica do estudo divide-se em duas etapas complementares. A primeira,
+L162@P5: que antecede a discussão teórica, consiste em uma análise descritiva da evolução da
+L163@P5: participação das leis de iniciativa parlamentar na produção normativa entre 1985 e
+L164@P5-6: 2024. Os resultados indicam que o protagonismo do Congresso se estende tanto a leis TEXTO para DISCUSSÃO
+L165@P6: 7
+L166@P6: 3163
+L167@P6: de função programática quanto regulatória – ambas supostamente mais relevantes – e
+L168@P6: está disseminado entre grandes áreas de política pública, incluindo aquelas historicamente associadas à agenda do Executivo, como a econômica.
+L169@P6: A segunda etapa consiste em testes correlacionais das hipóteses derivadas da
+L170@P6: explicação proposta. Estimam-se modelos de regressão logit fracional e gama, respectivamente da dominância presidencial e do volume da produção legislativa, com base
+L171@P6: em dados anuais de 1989 a 2022. Os resultados sugerem que o crescimento do protagonismo do Congresso está associado a três fatores: i) o (suposto) enfraquecimento
+L172@P6: progressivo da representação de interesses locais, que teria aumentado o incentivo
+L173@P6: parlamentar à iniciativa de leis; ii) o menor grau de polarização entre as maiorias de
+L174@P6: governo e a oposição no período 2003-2014, que teria reduzido a disposição de delegar
+L175@P6: ao presidente o controle da agenda; e iii) o aumento da distância ideológica entre o
+L176@P6: presidente e o legislador mediano a partir de 2015, que teria desestimulado a delegação
+L177@P6: da iniciativa de leis.
+L178@P6: Todavia, esses achados devem ser interpretados com cautela, uma vez que ainda
+L179@P6: é necessário validar parte dos dados utilizados e verificar a robustez dos resultados
+L180@P6: estatísticos. Essas limitações metodológicas são discutidas explicitamente ao longo
+L181@P6: do estudo. Ainda assim, os achados apontam padrões consistentes que contribuem
+L182@P6: para enriquecer o debate acadêmico e político sobre o papel do Congresso e as transformações do presidencialismo brasileiro.
+L183@P6: O artigo prossegue da seguinte forma. A próxima seção descreve e avalia o protagonismo legislativo do Congresso ao longo da Nova República. A terceira seção
+L184@P6: discute as lacunas das interpretações existentes, apresenta os fundamentos teóricos
+L185@P6: da explicação proposta e avalia sua aplicação ao caso brasileiro. A quarta seção
+L186@P6: detalha os dados, as variáveis e os métodos utilizados nos testes das hipóteses, e
+L187@P6: discute os resultados empíricos. A última seção conclui, destacando as potenciais
+L188@P6: contribuições do estudo.
+L189@P6: 2 UMA AVALIAÇÃO DO PROTAGONISMO LEGISLATIVO
+L190@P6: O primeiro passo da análise consiste em contabilizar as leis federais produzidas a partir
+L191@P6: de 15 de março de 1985, marco inicial da Nova República. A Constituição Federal de 1988
+L192@P6: (CF/1988) define como lei as seguintes espécies normativas: emenda constitucional,
+L193@P6: lei complementar, lei ordinária, lei delegada, medida provisória, decreto legislativo e
+L194@P6-7: resolução (Brasil, 1988, art. 59). Essa lista se aplica inclusive ao período anterior à TEXTO para DISCUSSÃO
+L195@P7: 8
+L196@P7: 3163
+L197@P7: sua promulgação, mas com uma diferença: no lugar da medida provisória, existia o
+L198@P7: decreto-lei (Brasil, 1969, art. 46-V). Ambos possuem campo de atuação equivalente
+L199@P7: ao da lei ordinária, mas se distinguem por serem de uso privativo do presidente da
+L200@P7: República, terem força imediata de lei e seguirem processos de deliberação abreviados
+L201@P7: (Brasil, 1969, art. 55, 1982, 1988, art. 62, 2001).
+L202@P7: Decreto legislativo e resolução, por sua vez, são de uso privativo do Legislativo e
+L203@P7: possuem campos de atuação muito restritos. O primeiro é voltado ao controle e fiscalização do Executivo, além de regulamentar os efeitos jurídicos das medidas provisórias
+L204@P7: antes da sua conversão em lei; o segundo destina-se, sobretudo, à gestão e regulação
+L205@P7: interna do parlamento (Brasil, 1988, arts. 49, 51 e 52, e parágrafo único do art. 62).
+L206@P7: Por sua baixa aplicabilidade à criação ou modificação de políticas públicas, ambos são
+L207@P7: geralmente excluídos das análises de produção legislativa – opção também adotada
+L208@P7: neste estudo.1 Exclui-se igualmente a lei delegada, não por razões conceituais, mas
+L209@P7: práticas: desde 1985, apenas duas foram promulgadas.
+L210@P7: Oficialmente, entre 15 de março de 1985 e 31 de dezembro de 2024, foram promulgadas 8.267 leis. Entretanto, práticas heterodoxas, sobretudo no processo legislativo
+L211@P7: das medidas provisórias – analisadas por Amorim Neto e Tafner (2002), Cabral (2014)
+L212@P7: e Rezende (2004) –, geraram um volume expressivo de normas não registradas formalmente, mas que, para os fins deste estudo, devem ser contabilizadas. Foram identificadas
+L213@P7: 1.204 leis “extraoficiais”, das quais 98,5% tiveram origem no Executivo. A maioria
+L214@P7: consiste em reedições de medidas provisórias que modificaram o conteúdo da versão
+L215@P7: anterior (55,8%) ou em matérias extras incluídas na lei, que são estranhas ao assunto
+L216@P7: principal (36,5%). O apêndice A detalha os critérios e procedimentos de identificação
+L217@P7: dessas leis, assim como as justificativas para inclusão na análise.
+L218@P7: Somando-se leis oficiais e extraoficiais, chega-se a um total de 9.471 normas
+L219@P7: federais produzidas nos primeiros quarenta anos da Nova República. A tabela A.1, no
+L220@P7: apêndice A, apresenta sua distribuição por espécie normativa, status (oficial ou não)
+L221@P7: e origem institucional. O Congresso domina a produção de emendas constitucionais
+L222@P7: (80%) e de leis complementares (69%), enquanto o Executivo concentra a produção
+L223@P7: de leis ordinárias, que representam a maior parte do total. No agregado, cerca de dois
+L224@P7: terços das leis (66,4%) tiveram origem na Presidência da República e pouco menos de
+L225@P7: um terço (29,3%), no Congresso.
+L226@P7-8: 1. Sobre a produção de decretos legislativos e resoluções, ver Amaral (2018, cap. 3).TEXTO para DISCUSSÃO
+L227@P8: 9
+L228@P8: 3163
+L229@P8: A predominância da iniciativa presidencial deve-se, em grande medida, às prerrogativas exclusivas do Executivo em matérias de administração interna e orçamento, que
+L230@P8: exigem produção contínua de atos normativos (Brasil, 1988, art. 61). Como destacam
+L231@P8: estudos anteriores, grande parte dessas leis é de natureza técnica e função essencialmente gerencial, o que as torna pouco relevantes em termos substantivos e políticos,
+L232@P8: embora juridicamente indispensáveis (Gomes, 2012, p. 938-939; Santos, 2010, p. 36).
+L233@P8: Esse traço impõe um desafio à avaliação do protagonismo legislativo, pois tende a inflar
+L234@P8: artificialmente a produção de origem presidencial (Almeida, 2014). Situação análoga
+L235@P8: ocorre com as leis de caráter simbólico, numerosas no Congresso, mas pouco frequentes
+L236@P8: no Executivo, que podem superestimar o protagonismo parlamentar (Carneiro, 2009;
+L237@P8: Epitácio e Resende, 2020).
+L238@P8: Tendo isso em vista, este estudo adota uma tipologia funcional que classifica
+L239@P8: as leis em quatro categorias: autorizativas, orçamentárias, regulatórias e simbólicas.
+L240@P8: As autorizativas, inspiradas nos authorization acts do Congresso norte-americano, têm
+L241@P8: como função principal autorizar ações específicas do setor público. Elas se dividem
+L242@P8: em dois subconjuntos: i) leis de gestão, voltadas a medidas administrativas rotineiras –
+L243@P8: como criação ou modificação de órgãos, cargos e carreiras, redefinição de competências,
+L244@P8: prorrogação de contratos, movimentação de servidores, revisão de remunerações e
+L245@P8: gestão de recursos patrimoniais e financeiros; e ii) leis programáticas, relacionadas à
+L246@P8: formulação ou implementação de políticas públicas, incluindo a criação ou alteração
+L247@P8: de ministérios e secretarias, mudanças na execução de serviços públicos e concessão de
+L248@P8: benefícios fiscais ou financeiros.
+L249@P8: As leis orçamentárias tratam exclusivamente da alocação de recursos públicos.
+L250@P8: Elas compreendem três instrumentos de elaboração periódica e obrigatória: o Plano
+L251@P8: Plurianual (PPA) – de vigência quadrienal –, a Lei de Diretrizes Orçamentárias (LDO) e a
+L252@P8: Lei Orçamentária Anual (LOA), ambas de periodicidade anual. A esse núcleo somam-se
+L253@P8: as leis de abertura de créditos adicionais, que realizam ajustes de dotações no decorrer do
+L254@P8: ano. Também aqui se distingue entre i) leis de gestão (abertura de créditos, de natureza
+L255@P8: gerencial) e ii) leis programáticas (PPA, LDO, LOA e alterações correlatas).
+L256@P8: As leis regulatórias, por sua vez, têm como principal função disciplinar atividades
+L257@P8: e condutas de agentes privados ou públicos, estabelecendo direitos e obrigações,
+L258@P8: definindo procedimentos específicos ou fixando diretrizes gerais de atuação.
+L259@P8-9: Por fim, as leis simbólicas priorizam a expressão de valores, a afirmação de identidades e o reconhecimento de contribuições individuais ou coletivas, em detrimento TEXTO para DISCUSSÃO
+L260@P9: 10
+L261@P9: 3163
+L262@P9: da produção de efeitos jurídicos concretos e da regulação direta de comportamentos.
+L263@P9: Incluem, por exemplo, a criação de datas comemorativas, campanhas de conscientização e homenagens públicas.
+L264@P9: A tabela 1 apresenta a distribuição das leis federais por função – incluindo uma
+L265@P9: categoria residual denominada “outras” – e por origem institucional, assim como as
+L266@P9: respectivas porcentagens em relação ao total de cada origem. Os dados confirmam
+L267@P9: a forte assimetria entre Executivo e Legislativo na iniciativa das leis de gestão e das
+L268@P9: leis simbólicas, geralmente consideradas de baixa relevância substantiva e política.
+L269@P9: No caso das leis iniciadas na Presidência, as de gestão (autorizativas e orçamentárias)
+L270@P9: representam metade do total (11,0% + 39,7% = 50,7%), enquanto no Congresso esse
+L271@P9: tipo de lei é insignificante (apenas 0,7% do total). O padrão oposto se observa para as
+L272@P9: leis simbólicas: elas somam 30,6% da produção congressual, mas são insignificantes
+L273@P9: na presidencial (apenas 0,4%). Somados, esses dois subconjuntos de leis – caracterizados por baixa relevância e alta assimetria de origem – respondem por 45,2% da
+L274@P9: produção legislativa total.
+L275@P9: TABELA 1
+L276@P9: Produção legislativa federal, por função e origem (1985-2024)
+L277@P9: Função Origem Total
+L278@P9: Presidência da República Congresso Nacional Outros1
+L279@P9: Autorizativa 2.101 (33,3%) 466 (16,8%) 391 (96,5%) 2.958 (31,2%)
+L280@P9: De gestão 637 (11,0%) 19 (0,7%) 259 (63,9%) 915 (9,6%)
+L281@P9: Programática 1.464 (22,3%) 447 (16,1%) 132 (32,6%) 2.043 (21,6%)
+L282@P9: Orçamentária 2.724 (43,3%) − − 2.724 (28,8%)
+L283@P9: De gestão 2.497 (39,7%) − − 2.497 (26,4%)
+L284@P9: Programática 227 (3,6%) − − 227 (2,4%)
+L285@P9: Regulatória 1.438 (22,9%) 1.456 (52,5%) 14 (3,5%) 2.908 (30,7%)
+L286@P9: Simbólica 23 (0,4%) 847 (30,6%) 0 (0,0) 870 (9,2%)
+L287@P9: Outras2 8 (0,1%) 3 (0,1%) 0 (0,0) 11 (0,1%)
+L288@P9: Total 6.294 (100%) 2.772 (100%) 405 (100%) 9.471 (100%)
+L289@P9: Elaboração do autor.
+L290@P9: Notas: 1 Tribunais, Ministério Público da União e Defensoria Pública da União.
+L291@P9: 2 Leis que apenas revogam dispositivos ou realizam alterações de técnica legislativa.
+L292@P9: Obs.: 1. Leis promulgadas a partir de 15 de março de 1985.
+L293@P9-10: 2. Entre parênteses, as porcentagens relativas ao total da coluna.TEXTO para DISCUSSÃO
+L294@P10: 11
+L295@P10: 3163
+L296@P10: A parcela remanescente da produção concentra-se nas leis autorizativas programáticas (21,6%) e nas regulatórias (30,7%), ambas associadas a funções de maior
+L297@P10: relevância substantiva ou política. A maioria das leis autorizativas programáticas teve
+L298@P10: origem na Presidência, o que é compatível com a competência privativa do Executivo
+L299@P10: para implementar políticas públicas. Chama a atenção, contudo, a expressiva participação congressual, responsável por pouco mais de um quinto dessas leis.2
+L300@P10:  No caso
+L301@P10: das leis regulatórias, observa-se um equilíbrio notável: a Presidência e o Congresso
+L302@P10: aparecem como fontes equivalentes, revelando uma esfera de produção normativa
+L303@P10: em que ambos os poderes compartilham protagonismo, quando se considera todo o
+L304@P10: período 1985-2024.
+L305@P10: A partir deste ponto, a análise se concentra nas leis autorizativas programáticas
+L306@P10: e nas leis regulatórias originadas na Presidência ou no Congresso. Excluem-se as leis
+L307@P10: de gestão (autorizativas e orçamentárias) e as simbólicas, devido à sua baixa relevância
+L308@P10: e forte assimetria de origem. Também não se consideram as leis orçamentárias
+L309@P10: programáticas (PPA, LDO e LOA), tanto por seu ciclo de produção atípico – vinculado a
+L310@P10: calendários e ritos específicos – quanto por sua baixa frequência relativa no conjunto
+L311@P10: da produção legislativa.
+L312@P10: O gráfico 1 apresenta a evolução anual da produção de leis autorizativas programáticas (gráfico 1A) e regulatórias (gráfico 1B), separadas por origem institucional. Os anos
+L313@P10: correspondem à promulgação das leis, com exceção das oriundas de decretos-leis ou de
+L314@P10: medidas provisórias não apreciados no prazo constitucional, para as quais se adotou
+L315@P10: como referência o último dia desse prazo. Dois padrões se destacam de imediato.
+L316@P10: O primeiro é o volume excepcionalmente elevado da produção presidencial entre 1997
+L317@P10: e 2001 em ambos os tipos de lei, impulsionado pelas reedições de medidas provisórias
+L318@P10: com alteração substantiva de texto. O segundo é a queda abrupta registrada em 2002,
+L319@P10: diretamente associada à proibição dessa prática pela Emenda Constitucional (EC)
+L320@P10: no 32, de setembro de 2001.
+L321@P10: 2. As 132 leis autorizativas programáticas de iniciativa de outros órgãos tratam majoritariamente de
+L322@P10-11: prestação de justiça, criando varas judiciais ou juntas de conciliação e julgamento.TEXTO para DISCUSSÃO
+L323@P11: 12
+L324@P11: 3163
+L325@P11: GRÁFICO 1
+L326@P11: Produção anual de leis autorizativas programáticas e leis regulatórias, por
+L327@P11: origem (1985-2024)
+L328@P11: 1A – Leis autorizativas programáticas
+L329@P11: Presidência Congresso
+L330@P11: 0
+L331@P11: 10
+L332@P11: 20
+L333@P11: 30
+L334@P11: 40
+L335@P11: 50
+L336@P11: 60
+L337@P11: 70
+L338@P11: 80
+L339@P11: 90
+L340@P11: 100
+L341@P11: 1985
+L342@P11: 198619871999200020022004200620082010
+L343@P11: 20
+L344@P11: 201220132014201520162017201820192020
+L345@P11: 11
+L346@P11: 1988
+L347@P11: 1989
+L348@P11: 199019911992
+L349@P11: 1993
+L350@P11: 199419951996
+L351@P11: 1997
+L352@P11: 1998
+L353@P11: 20012003200520072009
+L354@P11: 2021202220232024
+L355@P11: Número de leis
+L356@P11: 1B – Leis regulatórias
+L357@P11: Presidência Congresso
+L358@P11: 0
+L359@P11: 10
+L360@P11: 20
+L361@P11: 30
+L362@P11: 40
+L363@P11: 50
+L364@P11: 60
+L365@P11: 70
+L366@P11: 80
+L367@P11: 90
+L368@P11: 100
+L369@P11: 1985
+L370@P11: 198619871999200020022004200620082010
+L371@P11: 20
+L372@P11: 201220132014201520162017201820192020
+L373@P11: 11
+L374@P11: 1988
+L375@P11: 1989
+L376@P11: 199019911992
+L377@P11: 1993
+L378@P11: 199419951996
+L379@P11: 1997
+L380@P11: 1998
+L381@P11: 20012003200520072009

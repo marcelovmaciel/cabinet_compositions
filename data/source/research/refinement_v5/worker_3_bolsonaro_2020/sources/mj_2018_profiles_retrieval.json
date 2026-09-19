@@ -1,0 +1,9 @@
+{
+  "url": "https://www.gov.br/mj/pt-br/assuntos/noticias/collective-nitf-content-1546435379.86/documentos/Perfildaequipe.pdf",
+  "status": 200,
+  "retrieval_date": "2026-09-10",
+  "sha256": "9f2861cf03fb03f2628a80fcb08220b73ececd8226f1ac90f049cf68cd0eb5f7",
+  "returned_content": "HTML login redirect, not requested PDF",
+  "retained_path": "mj_2018_profiles.login.html",
+  "access_status": "original_requires_login; indexed excerpt retained separately; no login attempted"
+}

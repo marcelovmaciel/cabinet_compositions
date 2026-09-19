@@ -1,0 +1,14 @@
+{
+  "party": "PT",
+  "id": 47,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=47&currentPage=0&pageSize=10000",
+      "records": 1012,
+      "totalElements": 1012,
+      "response_sha256": "f094a9fb0e5c32c74e3929be86678a5cd2ae34c8f681a14e3b4fe924267fb278",
+      "retrieved_utc": "2026-09-11T00:08:38Z"
+    }
+  ],
+  "matches": []
+}

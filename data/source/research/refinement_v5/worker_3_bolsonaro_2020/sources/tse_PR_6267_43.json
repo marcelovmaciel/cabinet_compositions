@@ -1,0 +1,17 @@
+{
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "LONDRINA",
+  "party": "PODE",
+  "id": 43,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=43&currentPage=0&pageSize=10000",
+      "records": 1296,
+      "totalElements": 1296,
+      "response_sha256": "2070ac4f34feff71664bd317f9ed4828a2b236e72e395834a02c693073e8c22b",
+      "retrieved_utc": "2026-09-11T00:59:31Z"
+    }
+  ],
+  "matches": []
+}

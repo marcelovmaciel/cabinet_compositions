@@ -1,0 +1,14 @@
+{
+  "party": "PSOL",
+  "id": 63,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 6577,
+      "totalElements": 6577,
+      "response_sha256": "4f767ed19f6e1d0d412029f75702c3d25a0fa223b2a45ca3a740178f88910aeb",
+      "retrieved_utc": "2026-09-10T23:36:20Z"
+    }
+  ],
+  "matches": []
+}

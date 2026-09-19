@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "PSB",
+  "id": 49,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=49&currentPage=0&pageSize=10000",
+      "records": 6607,
+      "totalElements": 6607,
+      "response_sha256": "6882b3e26615d8cbbeaf905bba6f93615d5d4a7356abe8e1f1d088cc1c4eaab1",
+      "retrieved_utc": "2026-09-10T23:43:23Z"
+    }
+  ],
+  "matches": []
+}

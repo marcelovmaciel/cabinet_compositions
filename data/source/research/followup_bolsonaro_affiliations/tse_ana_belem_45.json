@@ -1,0 +1,14 @@
+{
+  "party": "PCDOB",
+  "id": 45,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 3582,
+      "totalElements": 3582,
+      "response_sha256": "da18f97ffad1785242452735297e1c5b1266d856f52035527c5c2ab395d3f810",
+      "retrieved_utc": "2026-09-10T23:48:35Z"
+    }
+  ],
+  "matches": []
+}

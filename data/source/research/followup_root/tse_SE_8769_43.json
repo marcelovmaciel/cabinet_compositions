@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "PODE",
+  "id": 43,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=43&currentPage=0&pageSize=10000",
+      "records": 1284,
+      "totalElements": 1284,
+      "response_sha256": "715dfee8fb651e3952246138758b85dda34aea4e8d3927b6b5b95a308a56c82a",
+      "retrieved_utc": "2026-09-10T23:44:39Z"
+    }
+  ],
+  "matches": []
+}

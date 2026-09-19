@@ -1,0 +1,30 @@
+{
+  "party": "MDB",
+  "id": 42,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 21639,
+      "response_sha256": "9511f750b1f38e4a3c0750753c5b28a21ef1e1c9486d6d5cb0e9226370ac87f1",
+      "retrieved_utc": "2026-09-10T23:36:26Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=42&currentPage=1&pageSize=10000",
+      "records": 10000,
+      "totalElements": 21639,
+      "response_sha256": "7bc7dabb5b287dd2e660e62a6d78e89b1ec38dc561f59fa6bb50c2eac8915831",
+      "retrieved_utc": "2026-09-10T23:36:45Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=42&currentPage=2&pageSize=10000",
+      "records": 1639,
+      "totalElements": 21639,
+      "response_sha256": "1602de71f3ea2e09bb746b5620312b6595a1954cc6919db6aaa9e094371d6957",
+      "retrieved_utc": "2026-09-10T23:36:49Z"
+    }
+  ],
+  "matches": []
+}

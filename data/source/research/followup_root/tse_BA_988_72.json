@@ -1,0 +1,17 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "UNIÃO",
+  "id": 72,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=72&currentPage=0&pageSize=10000",
+      "records": 6428,
+      "totalElements": 6428,
+      "response_sha256": "9aefb863e1674dc0ae0a52b08bd51171642ab975ec4fd045354f2bdca0444f26",
+      "retrieved_utc": "2026-09-10T23:38:35Z"
+    }
+  ],
+  "matches": []
+}

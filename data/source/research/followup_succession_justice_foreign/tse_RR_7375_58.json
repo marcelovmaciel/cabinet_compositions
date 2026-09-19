@@ -1,0 +1,17 @@
+{
+  "party": "NOVO",
+  "id": 58,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 269,
+      "totalElements": 269,
+      "response_sha256": "9e923a2a6fb16dc2f4ddcb72486480f5990e99fd8238486867588434597245a9",
+      "retrieved_utc": "2026-09-10T23:41:08Z"
+    }
+  ],
+  "matches": []
+}

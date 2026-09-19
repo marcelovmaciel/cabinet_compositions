@@ -1,0 +1,17 @@
+{
+  "party": "NOVO",
+  "id": 58,
+  "uf": "RS",
+  "municipio": "8067",
+  "city": "Sananduva",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 16,
+      "totalElements": 16,
+      "response_sha256": "8986d0a88de7ec6c02a529b475635f488b9eda442eca716e1dd55dd38cfc7a4e",
+      "retrieved_utc": "2026-09-10T23:37:51Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6865",
+  "city": "BELFORD ROXO",
+  "party": "MISSÃO",
+  "id": 183,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6865&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 44,
+      "totalElements": 44,
+      "response_sha256": "6ab424237854a8070a4ebbb3809bb52fcb242d9f2605be98312318723890e76b",
+      "retrieved_utc": "2026-09-10T23:39:58Z"
+    }
+  ],
+  "matches": []
+}

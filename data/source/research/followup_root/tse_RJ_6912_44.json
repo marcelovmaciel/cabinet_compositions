@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6912",
+  "city": "DUQUE DE CAXIAS",
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6912&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 522,
+      "totalElements": 522,
+      "response_sha256": "e83aa1c0a29ceb05109e4dafee484e00bf4592a5de9f7d90b0dd8cdd153c88e6",
+      "retrieved_utc": "2026-09-10T23:40:51Z"
+    }
+  ],
+  "matches": []
+}

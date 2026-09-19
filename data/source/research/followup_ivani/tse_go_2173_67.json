@@ -1,0 +1,16 @@
+{
+  "party": "PSTU",
+  "id": 67,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=67&currentPage=0&pageSize=10000",
+      "records": 64,
+      "totalElements": 64,
+      "response_sha256": "3f0320d473641409d76c1bb09d7bba9f5b2240fe1980ccb134c6ee721ce433aa",
+      "retrieved_utc": "2026-09-10T23:36:48Z"
+    }
+  ],
+  "matches": []
+}

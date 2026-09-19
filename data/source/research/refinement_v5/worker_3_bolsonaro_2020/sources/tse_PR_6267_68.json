@@ -1,0 +1,17 @@
+{
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "LONDRINA",
+  "party": "PCB",
+  "id": 68,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=68&currentPage=0&pageSize=10000",
+      "records": 41,
+      "totalElements": 41,
+      "response_sha256": "2546f11fec76f20d79fe0a3a213bc9304fc7022c7d43cbb61e047a5ea4bff49f",
+      "retrieved_utc": "2026-09-11T00:59:24Z"
+    }
+  ],
+  "matches": []
+}

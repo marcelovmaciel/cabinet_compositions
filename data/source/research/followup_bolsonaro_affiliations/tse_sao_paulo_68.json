@@ -1,0 +1,14 @@
+{
+  "party": "PCB",
+  "id": 68,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=68&currentPage=0&pageSize=10000",
+      "records": 189,
+      "totalElements": 189,
+      "response_sha256": "a1689ec386a850acb6a704a66045c027c657fcfa378363b0e1a81852dd8c5c6b",
+      "retrieved_utc": "2026-09-10T23:44:25Z"
+    }
+  ],
+  "matches": []
+}

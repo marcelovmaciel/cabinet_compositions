@@ -1,0 +1,34 @@
+[
+  {
+    "source_id": "FJSF-DEF-01",
+    "url": "https://www.gov.br/defesa/pt-br/centrais-de-conteudo/noticias/substituicao-dos-comandantes-das-forcas",
+    "publisher": "Ministério da Defesa",
+    "event_date": "2021-03-30",
+    "assertion": "Official same-day ministry note identifies Braga Netto as appointed Defense minister at the commanders replacement meeting, with Fernando Azevedo identified as former minister.",
+    "snapshot": "defense_20210330_note.html"
+  },
+  {
+    "source_id": "FJSF-DEF-02",
+    "url": "https://www.gov.br/defesa/pt-br/acesso-a-informacao/agenda-de-autoridades/ordinariado-militar-do-brasil/2021-03-30",
+    "publisher": "Ministério da Defesa, Ordinariado Militar",
+    "event_date": "2021-03-30",
+    "assertion": "Official agenda of Fernando José Monteiro Guimarães records a 16h audience with the new Minister of Defense General Braga Netto.",
+    "snapshot": "defense_20210330_archbishop_agenda.html"
+  },
+  {
+    "source_id": "FJSF-DEF-03",
+    "url": "https://www1.folha.uol.com.br/poder/2021/03/braga-netto-alterou-ordem-do-dia-sobre-golpe-de-1964-e-excluiu-mencao-de-forcas-como-instituicao-de-estado.shtml",
+    "publisher": "Folha de S.Paulo, Julia Chaib and Renato Machado",
+    "event_date": "2021-03-30",
+    "assertion": "Contemporaneous March31 report describes Braga Netto directing Defense and rewriting his predecessor’s policy order, published March30 under his signature.",
+    "snapshot": "web_002.txt"
+  },
+  {
+    "source_id": "FJSF-DEF-04",
+    "url": "https://static.poder360.com.br/2021/03/DOU-ministerio-defesa-exoneracao-fernando-azevedo-nomeacao-braga-netto.pdf",
+    "publisher": "Diário Oficial da União, copy at Poder360",
+    "event_date": "2021-03-30",
+    "assertion": "Appointment to Defense and departure from Casa Civil published March30; signed decree March29.",
+    "snapshot": "web_002.txt"
+  }
+]

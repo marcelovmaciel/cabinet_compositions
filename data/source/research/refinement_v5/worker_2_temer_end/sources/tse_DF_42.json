@@ -1,0 +1,30 @@
+{
+  "uf": "DF",
+  "municipio": "1778",
+  "party": "MDB",
+  "id": 42,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 25927,
+      "response_sha256": "2b69cd46c17416562d4531dc416e7d3f1b0c31eb522c266530bf3c58a8c68c96",
+      "retrieved_utc": "2026-09-11T01:12:36Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=42&currentPage=1&pageSize=10000",
+      "records": 10000,
+      "totalElements": 25927,
+      "response_sha256": "81fda2f7c9e2fd2899dfc39b1b16dcd0d42a8262e6d5f845fdd48180e3e2dc5e",
+      "retrieved_utc": "2026-09-11T01:12:59Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=42&currentPage=2&pageSize=10000",
+      "records": 5927,
+      "totalElements": 25927,
+      "response_sha256": "37886161b06d75b2ba2d3817f7dc8c5ce41052054abe9d6b785bfe5eae807019",
+      "retrieved_utc": "2026-09-11T01:13:16Z"
+    }
+  ],
+  "matches": []
+}

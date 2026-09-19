@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html class="aui ltr yui3-js-enabled js" dir="ltr" lang="pt-BR" amp>
+    <head>
+    	<title>ANTTlegis</title>
+    	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    	<meta charset="UTF-8">
+    	<meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
+		
+		<link rel="manifest" href="https://anttlegis.datalegis.inf.br/manifest.json">
+        <meta name="theme-color" content="#1e2b4d">
+        <meta http-equiv="refresh" content="900">
+        <link href="https://anttlegis.datalegis.inf.br/sitemap.php" rel="sitemap" type="application/xml" />
+		
+		<meta name="description" content="ANTTlegis - Ag&#234;ncia Nacional de Transportes Terrestres - ANTT">
+		
+        <link href="https://anttlegis.datalegis.inf.br" hreflang="x-default" rel="alternate">
+        <link href="https://anttlegis.datalegis.inf.br?lang=pt-BR" hreflang="pt-BR" rel="alternate">
+        <link href="https://anttlegis.datalegis.inf.br/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=DSN&numeroAto=28122018&seqAto=003&valorAno=2018&orgao=NI&cod_modulo=623&cod_menu=7739" rel="canonical">
+        <link href="https://anttlegis.datalegis.inf.br/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=DSN&numeroAto=28122018&seqAto=003&valorAno=2018&orgao=NI&cod_modulo=623&cod_menu=7739" rel="amphtml">
+
+        <meta property="og:title" content="ANTTlegis - Ag&#234;ncia Nacional de Transportes Terrestres - ANTT">
+		<meta property="og:description" content="ANTTlegis - Ag&#234;ncia Nacional de Transportes Terrestres - ANTT">
+        <meta property="og:site_name" content="anttlegis">
+        <meta property="og:locale" content="pt_BR">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://anttlegis.datalegis.inf.br/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=DSN&numeroAto=28122018&seqAto=003&valorAno=2018&orgao=NI&cod_modulo=623&cod_menu=7739">
+        
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="mobile-web-app-capable" content="yes">
+		
+		<link rel="icon" type="image/png" sizes="32x32" href="https://anttlegis.datalegis.inf.br/v2/img/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="https://anttlegis.datalegis.inf.br/v2/img/favicon-16x16.png" />
+        
+		<link rel="apple-touch-icon" sizes="32x32" href="https://anttlegis.datalegis.inf.br/v2/img/mobile/logo_app32.png" />
+		<link rel="apple-touch-icon" sizes="96x96" href="https://anttlegis.datalegis.inf.br/v2/img/mobile/logo_app96.png" />
+		<link rel="apple-touch-icon" sizes="144x144" href="https://anttlegis.datalegis.inf.br/v2/img/mobile/logo_app144.png" />
+		<link rel="apple-touch-icon" sizes="192x192" href="https://anttlegis.datalegis.inf.br/v2/img/mobile/logo_app192.png" />
+		<link rel="apple-touch-icon" sizes="512x512" href="https://anttlegis.datalegis.inf.br/v2/img/mobile/logo_app512.png" />
+
+		<link href="https://anttlegis.datalegis.inf.br/v2/img/mobile/iphone5_splash.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+        <link href="https://anttlegis.datalegis.inf.br/v2/img/mobile/iphone6_splash.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+        <link href="https://anttlegis.datalegis.inf.br/v2/img/mobile/iphonex_splash.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+        <link href="https://anttlegis.datalegis.inf.br/v2/img/mobile/ipadpro1_splash.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+        <link href="https://anttlegis.datalegis.inf.br/v2/img/mobile/ipadpro3_splash.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+        <link href="https://anttlegis.datalegis.inf.br/v2/img/mobile/ipadpro2_splash.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+        <link href="https://anttlegis.datalegis.inf.br/v2/img/mobile/iphonexr_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+        <link href="https://anttlegis.datalegis.inf.br/v2/img/mobile/iphonexsmax_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+        <link href="https://anttlegis.datalegis.inf.br/v2/img/mobile/iphonexsmax_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+        <link href="https://anttlegis.datalegis.inf.br/v2/img/mobile/iphoneplus_splash.png" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+        
+		<link rel="mask-icon" href="https://anttlegis.datalegis.inf.br/v2/img/safari-pinned-tab.svg" color="#00a300" />
+        
+        <link href="https://fonts.cdnfonts.com/css/rawline" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+		<link href="/v2/fonts/fontawesome-pro-6.6.0/css/all.min.css" rel="stylesheet" type="text/css">
+        <link href="/v2/css/main.css?" rel="stylesheet" type="text/css">
+        <link href="/v2/css/internet_theme.css?" rel="stylesheet" type="text/css" class="lfr-css-file">
+        <link href="/v2/css/css.css?" rel="stylesheet" type="text/css">
+        <link href="/view/css/glyphicon.css" rel="stylesheet" type="text/css">
+		<link href="/v2/css/custom.css?" rel="stylesheet" type="text/css">
+		<link href="/v2/css/header.css?" rel="stylesheet" type="text/css">
+		<link href="/v2/css/submenu.css?" rel="stylesheet" type="text/css">
+		<link href="/v2/css/menu.css?" rel="stylesheet" type="text/css">
+		<link href="/v2/css/resenha.css?" rel="stylesheet" type="text/css">
+
+		<script type="text/javascript" src="/v2/js/jquery-1.11.0.min.js"></script>
+        <script type="text/javascript" src="/v2/js/jquery.cookie-1.4.1.min.js"></script>
+        <script type="text/javascript" src="/v2/js/chosen.jquery-0.1.1.min.js"></script>
+        <script type="text/javascript" src="/v2/js/sistema.js?"></script>
+        
+	</head>
+	<body class="main">
+		<div class="menu-overlay"></div>
+        <div id="wrapper">
+            <header id="site-header" class="has-navigation-dropdown">
+      			<div class="header-wrapper secondary">
+                    <div class="portal-name">
+                        <a href="https://www.gov.br/pt-br" target="_blank" class="portal-logo">
+                        	<span class="sr-only">Portal Gov.br</span>
+                        </a>
+                    </div>
+
+					<div class="site-header-links">
+                    	<div class="links-rapidos">
+                            <a class="toggle-links-rapidos" title="Acesso rápido" href="#">
+                              <span class="fas fa-ellipsis-v"></span>
+                              <span class="sr-only">Acesso rápido</span>
+                            </a>
+            
+                            <ul>
+                              <!-- TODO: Traduzir -->
+                              <li class="titulo">Acesso Rápido</li>
+                              <li><a href="https://www.gov.br/pt-br/orgaos-do-governo" target="_blank">Órgãos do Governo</a></li>
+                              <li><a href="http://www.acessoainformacao.gov.br" target="_blank">Acesso à Informação</a></li>
+                              <li><a href="http://www4.planalto.gov.br/legislacao" target="_blank">Legislação</a></li>
+                              <li><a href="https://www.gov.br/accessibility-info" target="_blank">Acessibilidade</a></li>
+                            </ul>
+                      	</div>
+						<ul class="header-icons">
+                          	<li>
+                              <a href="javascript:;" class="link-contraste" id="alto_contraste_id">
+                                <span class="fas fa-adjust"></span>
+                              </a>
+                            </li>
+						</ul>
+						
+						<link href="/v2/css/sso-status-bar.css?" rel="stylesheet" type="text/css">
+
+<aside id="sso-status-bar" class="sso-status-bar closed-menu signed-out">
+
+    <section class="status-indicator">
+        <button class="unknown-signed-state">
+            <span class="loading"></span>
+        </button>
+        <button type="button" class="signed-out" onClick="window.location.href='/action/AutenticacaoAction.php?acao=efetuarLogin'">
+            <span class="sso-status-bar-signed-out-icon"></span>
+            Entrar <span class="texto-desktop">com o <span>Login</span></span>
+        </button>
+    </section>
+</aside>
+
+						<!-- 
+                        -->
+                    </div>
+      			</div>
+
+                <div class="header-wrapper main">
+                    <div class="site-name-wrapper">
+                      <a class="ico-navegacao toggle-main-navigation" href="javascript:;">
+                        <span class="sr-only">Navegação</span>
+                        <span class="fa fa-bars" aria-hidden="true"></span>
+                        <span class="fa fa-times" aria-hidden="true"></span>
+                      </a>
+
+                      <!-- Usar nome completo -->
+                      <a id="portal-logo" title="Home" href="/action/ActionDatalegis.php?acao=apresentacao&cod_modulo=161&cod_menu=5408">
+						Agência Nacional de Transportes Terrestres <!-- <span id="portal-title"></span> -->
+                      </a>
+                    </div>
+                    <div id="portal-searchbox">
+    					<form id="nolivesearchGadget_form" action="/action/ActionDatalegis.php?acao=consultarAtosInicial&cod_modulo=161&cod_menu=5408&buscaGeral=true" method="post" name="form" autocomplete="off">
+            				<div class="LSBox">
+            					<label class="hiddenStructure" for="nolivesearchGadget">Busca</label>
+            					<input name="txt_texto" type="text" size="30" placeholder="Pesquise no ANTTlegis" accesskey="b" class="searchField" id="nolivesearchGadget" />
+            					<input type="hidden" name="intitulolegislacao" value="" />
+                        		<input type="hidden" name="tituloPagina" value="" />
+                        		<input type="hidden" name="redirect_consultaato" value="apresentarAtos" />
+                        		<input type="hidden" name="cod_local" value="" />
+                        		<input type="hidden" name="co_tematica" value="" />
+                        		<input type="hidden" name="in_pesquisa_avancada" value="N" />
+                        		<input type="hidden" name="inApsModuloBase" value="S" />
+                        		<input type="hidden" name="ind_legis_juris" value="L" />
+                        		<input type="hidden" name="sgl_tipo" value="" />
+                        		<input type="hidden" name="sgl_orgao" value="" />                       		
+                        		<input type="hidden" name="usuario" value="" />
+            					<button class="searchButton" type="submit" value="Buscar" autocomplete="off" onkeyup="//apresentarDivAutoComplete(this)" onkeypress="validarEnter(event)" />
+    							<div class="LSResult" id="LSResult"><div class="LSShadow" id="LSShadow"></div></div>
+            				</div>
+    					</form>
+                        <button class="close" aria-label="Fechar busca">
+                        	<i class="fas fa-times"></i>
+                        </button>
+					</div>
+				</div>
+				<nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal" >
+	<div class="navigation-content">
+		<div id="main-navigation" class="navigation-cell">
+			<ul class="list-navigation">
+               <li class="dropdown-submenu" id="layout_6" role="presentation">
+                  <a aria-labelledby="layout_6" aria-expanded="false" target="_blank" href="https://www.antt.gov.br/composicao"  role="menuitem">Composição</a>
+                  <ul class="child-menu submenu" role="menu">
+                     <li role="presentation">
+                        <a target="_blank" href="https://www.antt.gov.br/composicao">Composição</a>
+                     </li>
+                     <li class="" id="layout_427" role="presentation">
+                        <a aria-labelledby="layout_427"   target="_blank" href="https://www.antt.gov.br/quem-e-quem"  role="menuitem">Quem é Quem</a>
+                     </li>
+                     <li class="" id="layout_429" role="presentation">
+                        <a aria-labelledby="layout_429"   target="_blank" href="https://www.antt.gov.br/organograma"  role="menuitem">Organograma</a>
+                     </li>
+                  </ul>
+               </li>
+               <li class="dropdown-submenu" id="layout_7" role="presentation">
+                  <a aria-labelledby="layout_7" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/canais-de-atendimento"  role="menuitem">Canais de Atendimento</a>
+                  <ul class="child-menu submenu" role="menu">
+                     <li role="presentation">
+                        <a target="_blank" href="https://www.antt.gov.br/canais-de-atendimento">Canais de Atendimento</a>
+                     </li>
+                     <li class="" id="layout_14" role="presentation">
+                        <a aria-labelledby="layout_14"   target="_blank" href="https://www.antt.gov.br/fale-conosco"  role="menuitem">Fale Conosco</a>
+                     </li>
+                     <li class="" id="layout_1004" role="presentation">
+                        <a aria-labelledby="layout_1004"   target="_blank" href="https://www.antt.gov.br/perguntas-frequentes1"  role="menuitem">Perguntas Frequentes</a>
+                     </li>
+                     <li class="" id="layout_377" role="presentation">
+                        <a aria-labelledby="layout_377"   target="_blank" href="https://www.antt.gov.br/ouvidoria-166"  role="menuitem">Ouvidoria</a>
+                     </li>
+                     <li class="" id="layout_430" role="presentation">
+                        <a aria-labelledby="layout_430"   target="_blank" href="https://www.antt.gov.br/imprensa"  role="menuitem">Imprensa</a>
+                     </li>
+                  </ul>
+               </li>
+               <li class="dropdown-submenu" id="layout_9" role="presentation">
+                  <a aria-labelledby="layout_9" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/assuntos"  role="menuitem">Assuntos</a>
+                  <ul class="child-menu submenu" role="menu">
+                     <li role="presentation">
+                        <a target="_blank" href="https://www.antt.gov.br/assuntos">Assuntos</a>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_402" role="presentation">
+                        <a aria-labelledby="layout_402" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/noticias-e-eventos"  role="menuitem">Notícias e Eventos</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/noticias-e-eventos">Notícias e Eventos</a>
+                           </li>
+                           <li class="" id="layout_403" role="presentation">
+                              <a aria-labelledby="layout_403"   target="_blank" href="https://www.antt.gov.br/noticias"  role="menuitem">Notícias</a>
+                           </li>
+                           <li class="" id="layout_58" role="presentation">
+                              <a aria-labelledby="layout_58"   target="_blank" href="https://www.antt.gov.br/eventos"  role="menuitem">Eventos</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_51" role="presentation">
+                        <a aria-labelledby="layout_51" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/cargas"  role="menuitem">Cargas</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/cargas">Cargas</a>
+                           </li>
+                           <li class="" id="layout_61" role="presentation">
+                              <a aria-labelledby="layout_61"   target="_blank" href="https://www.antt.gov.br/seguro-de-responsabilidade-civil-do-transportador"  role="menuitem">Seguro de Responsabilidade Civil do Transportador</a>
+                           </li>
+                           <li class="" id="layout_62" role="presentation">
+                              <a aria-labelledby="layout_62"   target="_blank" href="https://www.antt.gov.br/politica-nacional-de-pisos-minimos-do-transporte-rodoviario-de-cargas"  role="menuitem">Política Nacional de Pisos Mínimos</a>
+                           </li>
+                           <li class="" id="layout_324" role="presentation">
+                              <a aria-labelledby="layout_324"   target="_blank" href="https://www.antt.gov.br/ciot-e-pef"  role="menuitem">CIOT e PEF</a>
+                           </li>
+                           <li class="" id="layout_64" role="presentation">
+                              <a aria-labelledby="layout_64"   target="_blank" href="https://www.antt.gov.br/vale-pedagio-obrigatorio"  role="menuitem">Vale-pedágio obrigatório</a>
+                           </li>
+                           <li class="" id="layout_65" role="presentation">
+                              <a aria-labelledby="layout_65"   target="_blank" href="https://www.antt.gov.br/produtos-perigosos"  role="menuitem">Produtos Perigosos</a>
+                           </li>
+                           <li class="" id="layout_66" role="presentation">
+                              <a aria-labelledby="layout_66"   target="_blank" href="https://www.antt.gov.br/transporte-multimodal-de-cargas"  role="menuitem">Transporte Multimodal de Cargas</a>
+                           </li>
+                           <li class="" id="layout_851" role="presentation">
+                              <a aria-labelledby="layout_851"   target="_blank" href="https://www.antt.gov.br/rntrc1"  role="menuitem">RNTRC</a>
+                           </li>
+                           <li class="" id="layout_984" role="presentation">
+                              <a aria-labelledby="layout_984"   target="_blank" href="https://www.antt.gov.br/tric-informa%C3%A7%C3%B5es-e-habilita%C3%A7%C3%A3o"  role="menuitem">TRIC – Informações e Habilitação</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="" id="layout_52" role="presentation">
+                        <a aria-labelledby="layout_52"   target="_blank" href="https://www.antt.gov.br/dutovias"  role="menuitem">Dutovias</a>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_53" role="presentation">
+                        <a aria-labelledby="layout_53" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/rodovias"  role="menuitem">Rodovias</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/rodovias">Rodovias</a>
+                           </li>
+                           <li class="" id="layout_118" role="presentation">
+                              <a aria-labelledby="layout_118"   target="_blank" href="https://www.antt.gov.br/edital-de-concessao-02-2019"  role="menuitem">Edital de concessão N° 02/2019</a>
+                           </li>
+                           <li class="" id="layout_119" role="presentation">
+                              <a aria-labelledby="layout_119"   target="_blank" href="https://www.antt.gov.br/concessionarias"  role="menuitem">Concessionárias</a>
+                           </li>
+                           <li class="" id="layout_120" role="presentation">
+                              <a aria-labelledby="layout_120"   target="_blank" href="https://www.antt.gov.br/relatorios"  role="menuitem">Relatórios</a>
+                           </li>
+                           <li class="" id="layout_121" role="presentation">
+                              <a aria-labelledby="layout_121"   target="_blank" href="https://www.antt.gov.br/pedagio"  role="menuitem">Pedágio</a>
+                           </li>
+                           <li class="" id="layout_123" role="presentation">
+                              <a aria-labelledby="layout_123"   target="_blank" href="https://www.antt.gov.br/acompanhamento-ambiental-das-concessoes-rodoviarias"  role="menuitem">Acompanhamento Ambiental das Concessões Rodoviárias</a>
+                           </li>
+                           <li class="" id="layout_124" role="presentation">
+                              <a aria-labelledby="layout_124"   target="_blank" href="https://www.antt.gov.br/tac-multas-e-planos-de-acao"  role="menuitem">TAC - multas e planos de ação</a>
+                           </li>
+                           <li class="" id="layout_1015" role="presentation">
+                              <a aria-labelledby="layout_1015"   target="_blank" href="https://www.antt.gov.br/concessoes-rodoviarias-"  role="menuitem">Concessões Rodoviárias</a>
+                           </li>
+                           <li class="" id="layout_125" role="presentation">
+                              <a aria-labelledby="layout_125"   target="_blank" href="https://www.antt.gov.br/novos-projetos-em-rodovias"  role="menuitem">Novos projetos em rodovias</a>
+                           </li>
+                           <li class="" id="layout_387" role="presentation">
+                              <a aria-labelledby="layout_387"   target="_blank" href="https://www.antt.gov.br/pontos-de-parada-e-descanso"  role="menuitem">Pontos de Parada e Descanso</a>
+                           </li>
+                           <li class="" id="layout_1016" role="presentation">
+                              <a aria-labelledby="layout_1016"   target="_blank" href="https://www.antt.gov.br/operacao-das-rodovias"  role="menuitem">Operação das Rodovias</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_54" role="presentation">
+                        <a aria-labelledby="layout_54" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/ferrovias"  role="menuitem">Ferrovias</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/ferrovias">Ferrovias</a>
+                           </li>
+                           <li class="" id="layout_188" role="presentation">
+                              <a aria-labelledby="layout_188"   target="_blank" href="https://www.antt.gov.br/concessoes-ferroviarias"  role="menuitem">Concessões Ferroviárias</a>
+                           </li>
+                           <li class="" id="layout_221" role="presentation">
+                              <a aria-labelledby="layout_221"   target="_blank" href="https://www.antt.gov.br/anuario-do-setor-ferroviario"  role="menuitem">Anuário do Setor Ferroviário</a>
+                           </li>
+                           <li class="" id="layout_224" role="presentation">
+                              <a aria-labelledby="layout_224"   target="_blank" href="https://www.antt.gov.br/historico-das-ferrovias"  role="menuitem">Histórico das Ferrovias</a>
+                           </li>
+                           <li class="" id="layout_225" role="presentation">
+                              <a aria-labelledby="layout_225"   target="_blank" href="https://www.antt.gov.br/manuais-das-ferrovias"  role="menuitem">Manuais das Ferrovias</a>
+                           </li>
+                           <li class="" id="layout_226" role="presentation">
+                              <a aria-labelledby="layout_226"   target="_blank" href="https://www.antt.gov.br/acompanhamento-ambiental-das-concessoes-ferroviarias"  role="menuitem">Acompanhamento Ambiental das Concessões Ferroviárias</a>
+                           </li>
+                           <li class="" id="layout_227" role="presentation">
+                              <a aria-labelledby="layout_227"   target="_blank" href="https://www.antt.gov.br/fiscalizacao-e-infraestrutura"  role="menuitem">Fiscalização e Infraestrutura</a>
+                           </li>
+                           <li class="" id="layout_228" role="presentation">
+                              <a aria-labelledby="layout_228"   target="_blank" href="https://www.antt.gov.br/usuarios-dependentes"  role="menuitem">Usuários Dependentes</a>
+                           </li>
+                           <li class="" id="layout_229" role="presentation">
+                              <a aria-labelledby="layout_229"   target="_blank" href="https://www.antt.gov.br/relatorios-e-plano-trienal-de-investimentos-pti"  role="menuitem">Relatórios e Plano Trienal de Investimentos - PTI</a>
+                           </li>
+                           <li class="" id="layout_230" role="presentation">
+                              <a aria-labelledby="layout_230"   target="_blank" href="https://www.antt.gov.br/contratos-operacionais-especificos-coe"  role="menuitem">Contratos Operacionais Específicos - COE</a>
+                           </li>
+                           <li class="" id="layout_371" role="presentation">
+                              <a aria-labelledby="layout_371"   target="_blank" href="https://www.antt.gov.br/sicfer"  role="menuitem">SICFER</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_55" role="presentation">
+                        <a aria-labelledby="layout_55" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/passageiros"  role="menuitem">Passageiros</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/passageiros">Passageiros</a>
+                           </li>
+                           <li class="" id="layout_231" role="presentation">
+                              <a aria-labelledby="layout_231"   target="_blank" href="https://www.antt.gov.br/apresentacao"  role="menuitem">Apresentação</a>
+                           </li>
+                           <li class="" id="layout_232" role="presentation">
+                              <a aria-labelledby="layout_232"   target="_blank" href="https://www.antt.gov.br/avisos-editais-e-convenios"  role="menuitem">Avisos, editais e convênios</a>
+                           </li>
+                           <li class="" id="layout_233" role="presentation">
+                              <a aria-labelledby="layout_233"   target="_blank" href="https://www.antt.gov.br/viajantes"  role="menuitem">Viajantes</a>
+                           </li>
+                           <li class="" id="layout_237" role="presentation">
+                              <a aria-labelledby="layout_237"   target="_blank" href="https://www.antt.gov.br/empresas"  role="menuitem">Empresas</a>
+                           </li>
+                           <li class="" id="layout_238" role="presentation">
+                              <a aria-labelledby="layout_238"   target="_blank" href="https://www.antt.gov.br/transporte-interestadual-fretado"  role="menuitem">Transporte Interestadual Fretado</a>
+                           </li>
+                           <li class="" id="layout_239" role="presentation">
+                              <a aria-labelledby="layout_239"   target="_blank" href="https://www.antt.gov.br/transporte-interestadual-regular"  role="menuitem">Transporte Interestadual Regular</a>
+                           </li>
+                           <li class="" id="layout_240" role="presentation">
+                              <a aria-labelledby="layout_240"   target="_blank" href="https://www.antt.gov.br/transporte-interestadual-semiurbano"  role="menuitem">Transporte Interestadual Semiurbano</a>
+                           </li>
+                           <li class="" id="layout_241" role="presentation">
+                              <a aria-labelledby="layout_241"   target="_blank" href="https://www.antt.gov.br/estudos-e-pesquisas"  role="menuitem">Estudos e Pesquisas</a>
+                           </li>
+                           <li class="" id="layout_737" role="presentation">
+                              <a aria-labelledby="layout_737"   target="_blank" href="https://www.antt.gov.br/trem-brasilia-goiania"  role="menuitem">Trem Brasília-Goiánia</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_56" role="presentation">
+                        <a aria-labelledby="layout_56" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/fiscalizacao-e-multas"  role="menuitem">Fiscalização e Multas</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/fiscalizacao-e-multas">Fiscalização e Multas</a>
+                           </li>
+                           <li class="" id="layout_255" role="presentation">
+                              <a aria-labelledby="layout_255"   target="_blank" href="https://www.antt.gov.br/devedores-nao-inscritos-na-divida-ativa"  role="menuitem">Devedores não inscritos na dívida ativa</a>
+                           </li>
+                           <li class="" id="layout_256" role="presentation">
+                              <a aria-labelledby="layout_256"   target="_blank" href="https://www.antt.gov.br/informacoes-sobre-multas-e-restituicoes"  role="menuitem">Informações sobre multas e restituições</a>
+                           </li>
+                           <li class="" id="layout_257" role="presentation">
+                              <a aria-labelledby="layout_257"   target="_blank" href="https://www.antt.gov.br/lei-dos-caminhoneiros-requerimento-e-devolucao"  role="menuitem">Lei dos caminhoneiros - requerimento e devolução</a>
+                           </li>
+                           <li class="" id="layout_258" role="presentation">
+                              <a aria-labelledby="layout_258"   target="_blank" href="https://www.antt.gov.br/mercados-regulados"  role="menuitem">Mercados Regulados</a>
+                           </li>
+                           <li class="" id="layout_259" role="presentation">
+                              <a aria-labelledby="layout_259"   target="_blank" href="https://www.antt.gov.br/planejamento-controle-e-inovacao"  role="menuitem">Planejamento controle e inovação</a>
+                           </li>
+                           <li class="" id="layout_254" role="presentation">
+                              <a aria-labelledby="layout_254"   target="_blank" href="https://www.antt.gov.br/programa-de-regularizacao-de-debitos-nao-tributarios-prd"  role="menuitem">Programa de regularização de débitos não tributários - PRD</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="" id="layout_57" role="presentation">
+                        <a aria-labelledby="layout_57"   target="_blank" href="https://www.antt.gov.br/sistemas"  role="menuitem">Sistemas ANTT</a>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_93" role="presentation">
+                        <a aria-labelledby="layout_93" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/area-internacional"  role="menuitem">Área Internacional</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/area-internacional">Área Internacional</a>
+                           </li>
+                           <li class="" id="layout_273" role="presentation">
+                              <a aria-labelledby="layout_273"   target="_blank" href="https://www.antt.gov.br/atuacao-internacional"  role="menuitem">Atuação Internacional</a>
+                           </li>
+                           <li class="" id="layout_304" role="presentation">
+                              <a aria-labelledby="layout_304"   target="_blank" href="https://www.antt.gov.br/transporte-internacional-de-passageiros"  role="menuitem">Transporte Internacional de Passageiros</a>
+                           </li>
+                           <li class="" id="layout_305" role="presentation">
+                              <a aria-labelledby="layout_305"   target="_blank" href="https://www.antt.gov.br/negocia%C3%A7%C3%B5es-internacionais"  role="menuitem">Negociações Internacionais</a>
+                           </li>
+                           <li class="" id="layout_274" role="presentation">
+                              <a aria-labelledby="layout_274"   target="_blank" href="https://www.antt.gov.br/relacionamento-internacional"  role="menuitem">Relacionamento Internacional</a>
+                           </li>
+                           <li class="" id="layout_279" role="presentation">
+                              <a aria-labelledby="layout_279"   target="_blank" href="https://www.antt.gov.br/mercosul"  role="menuitem">Mercosul</a>
+                           </li>
+                           <li class="" id="layout_461" role="presentation">
+                              <a aria-labelledby="layout_461"   target="_blank" href="https://www.antt.gov.br/reunioes-bilaterais-multilaterais"  role="menuitem">Reuniões Bilaterais/Multilaterais</a>
+                           </li>
+                           <li class="" id="layout_462" role="presentation">
+                              <a aria-labelledby="layout_462"   target="_blank" href="https://www.antt.gov.br/reuniaoes-bilaterais-mercosul"  role="menuitem">Reuniões Bilaterais/Mercosul</a>
+                           </li>
+                           <li class="" id="layout_463" role="presentation">
+                              <a aria-labelledby="layout_463"   target="_blank" href="https://www.antt.gov.br/atit"  role="menuitem">ATIT</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="" id="layout_1017" role="presentation">
+                        <a aria-labelledby="layout_1017"   target="_blank" href="https://www.antt.gov.br/centro-nacional-de-supervisao-operacional"  role="menuitem">Centro Nacional de Supervisão Operacional - CNSO</a>
+                     </li>
+                  </ul>
+               </li>
+               <li class="dropdown-submenu" id="layout_8" role="presentation">
+                  <a aria-labelledby="layout_8" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/acesso-a-informacao"  role="menuitem">Acesso à Informação</a>
+                  <ul class="child-menu submenu" role="menu">
+                     <li role="presentation">
+                        <a target="_blank" href="https://www.antt.gov.br/acesso-a-informacao">Acesso à Informação</a>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_20" role="presentation">
+                        <a aria-labelledby="layout_20" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/institucional"  role="menuitem">Institucional</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/institucional">Institucional</a>
+                           </li>
+                           <li class="" id="layout_31" role="presentation">
+                              <a aria-labelledby="layout_31"   target="_blank" href="https://www.antt.gov.br/estrutura-organizacional"  role="menuitem">Estrutura Organizacional</a>
+                           </li>
+                           <li class="" id="layout_32" role="presentation">
+                              <a aria-labelledby="layout_32"   target="_blank" href="https://www.antt.gov.br/manual-de-identidade-visual"  role="menuitem">Manual de Identidade Visual</a>
+                           </li>
+                           <li class="" id="layout_35" role="presentation">
+                              <a aria-labelledby="layout_35"   target="_blank" href="https://www.antt.gov.br/quem-e-quem-na-antt"  role="menuitem">Quem é Quem</a>
+                           </li>
+                           <li class="" id="layout_36" role="presentation">
+                              <a aria-labelledby="layout_36"   target="_blank" href="https://www.antt.gov.br/enderecos-da-agencia"  role="menuitem">Endereços da Agência</a>
+                           </li>
+                           <li class="" id="layout_37" role="presentation">
+                              <a aria-labelledby="layout_37"   target="_blank" href="https://www.antt.gov.br/agenda-de-autoridades"  role="menuitem">Agenda de Autoridades</a>
+                           </li>
+                           <li class="" id="layout_106" role="presentation">
+                              <a aria-labelledby="layout_106"   target="_blank" href="https://www.antt.gov.br/reunioes-de-diretoria"  role="menuitem">Reuniões de Diretoria</a>
+                           </li>
+                           <li class="" id="layout_49" role="presentation">
+                              <a aria-labelledby="layout_49"   target="_blank" href="https://www.antt.gov.br/distribuicao-de-processos"  role="menuitem">Distribuição de Processos</a>
+                           </li>
+                           <li class="" id="layout_948" role="presentation">
+                              <a aria-labelledby="layout_948"   target="_blank" href="https://www.antt.gov.br/base-juridica-da-estrutura-organizacional-e-das-competencias"  role="menuitem">Base Jurídica da Estrutura Organizacional e das Competências</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_21" role="presentation">
+                        <a aria-labelledby="layout_21" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/acoes-e-programas"  role="menuitem">Ações e Programas</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/acoes-e-programas">Ações e Programas</a>
+                           </li>
+                           <li class="" id="layout_169" role="presentation">
+                              <a aria-labelledby="layout_169"   target="_blank" href="https://www.antt.gov.br/relatorios-anuais"  role="menuitem">Relatórios Anuais</a>
+                           </li>
+                           <li class="" id="layout_41" role="presentation">
+                              <a aria-labelledby="layout_41"   target="_blank" href="https://www.antt.gov.br/principais-metas"  role="menuitem">Principais Metas</a>
+                           </li>
+                           <li class="" id="layout_43" role="presentation">
+                              <a aria-labelledby="layout_43"   target="_blank" href="https://www.antt.gov.br/indicadores-de-resultado-e-impacto"  role="menuitem">Indicadores de resultado e impacto</a>
+                           </li>
+                           <li class="" id="layout_44" role="presentation">
+                              <a aria-labelledby="layout_44"   target="_blank" href="https://www.antt.gov.br/carta-de-servicos"  role="menuitem">Carta de Serviços</a>
+                           </li>
+                           <li class="" id="layout_45" role="presentation">
+                              <a aria-labelledby="layout_45"   target="_blank" href="https://www.antt.gov.br/programas-financiados-pelo-fundo-de-amparo-ao-trabalhador-fat"  role="menuitem">Programas Financiados pelo Fundo de Amparo ao Trabalhador (FAT)</a>
+                           </li>
+                           <li class="" id="layout_968" role="presentation">
+                              <a aria-labelledby="layout_968"   target="_blank" href="https://www.antt.gov.br/renuncia-de-receitas"  role="menuitem">Renúncia de Receitas</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_22" role="presentation">
+                        <a aria-labelledby="layout_22" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/participacao-social"  role="menuitem">Participação Social</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/participacao-social">Participação Social</a>
+                           </li>
+                           <li class="" id="layout_46" role="presentation">
+                              <a aria-labelledby="layout_46"   target="_blank" href="https://www.antt.gov.br/ouvidoria"  role="menuitem">Ouvidoria</a>
+                           </li>
+                           <li class="" id="layout_435" role="presentation">
+                              <a aria-labelledby="layout_435"   target="_blank" href="https://www.antt.gov.br/audiencias-publicas"  role="menuitem">Audiências Públicas</a>
+                           </li>
+                           <li class="" id="layout_436" role="presentation">
+                              <a aria-labelledby="layout_436"   target="_blank" href="https://www.antt.gov.br/consultas-publicas"  role="menuitem">Consultas Públicas</a>
+                           </li>
+                           <li class="" id="layout_437" role="presentation">
+                              <a aria-labelledby="layout_437"   target="_blank" href="https://www.antt.gov.br/tomada-de-subsidios"  role="menuitem">Tomada de Subsídios</a>
+                           </li>
+                           <li class="" id="layout_438" role="presentation">
+                              <a aria-labelledby="layout_438"   target="_blank" href="https://www.antt.gov.br/reuniao-participativa"  role="menuitem">Reunião Participativa</a>
+                           </li>
+                           <li class="" id="layout_48" role="presentation">
+                              <a aria-labelledby="layout_48"   target="_blank" href="https://www.antt.gov.br/conselhos-e-orgaos-colegiados"  role="menuitem">Conselhos e Órgãos Colegiados</a>
+                           </li>
+                           <li class="" id="layout_979" role="presentation">
+                              <a aria-labelledby="layout_979"   target="_blank" href="https://www.antt.gov.br/chamamento-publico"  role="menuitem">Chamamento Público</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_23" role="presentation">
+                        <a aria-labelledby="layout_23" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/auditorias"  role="menuitem">Auditorias</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/auditorias">Auditorias</a>
+                           </li>
+                           <li class="" id="layout_971" role="presentation">
+                              <a aria-labelledby="layout_971"   target="_blank" href="https://www.antt.gov.br/auditoria-interna"  role="menuitem">Auditoria Interna</a>
+                           </li>
+                           <li class="" id="layout_177" role="presentation">
+                              <a aria-labelledby="layout_177"   target="_blank" href="https://www.antt.gov.br/processos-de-contas-anuais"  role="menuitem">Processos de contas anuais</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="" id="layout_306" role="presentation">
+                        <a aria-labelledby="layout_306"   target="_blank" href="https://www.antt.gov.br/convenios-e-transferencias"  role="menuitem">Convênios e Transferências</a>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_25" role="presentation">
+                        <a aria-labelledby="layout_25" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/receitas-e-despesas"  role="menuitem">Receitas e Despesas</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/receitas-e-despesas">Receitas e Despesas</a>
+                           </li>
+                           <li class="" id="layout_307" role="presentation">
+                              <a aria-labelledby="layout_307"   target="_blank" href="https://www.antt.gov.br/receitas"  role="menuitem">Receitas</a>
+                           </li>
+                           <li class="" id="layout_308" role="presentation">
+                              <a aria-labelledby="layout_308"   target="_blank" href="https://www.antt.gov.br/despesas"  role="menuitem">Despesas</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_26" role="presentation">
+                        <a aria-labelledby="layout_26" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/licitacoes-e-contratos"  role="menuitem">Licitações e Contratos</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/licitacoes-e-contratos">Licitações e Contratos</a>
+                           </li>
+                           <li class="" id="layout_282" role="presentation">
+                              <a aria-labelledby="layout_282"   target="_blank" href="https://www.antt.gov.br/licitacoes"  role="menuitem">Licitações</a>
+                           </li>
+                           <li class="" id="layout_283" role="presentation">
+                              <a aria-labelledby="layout_283"   target="_blank" href="https://www.antt.gov.br/contratos"  role="menuitem">Contratos</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_27" role="presentation">
+                        <a aria-labelledby="layout_27" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/servidores"  role="menuitem">Servidores</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/servidores">Servidores</a>
+                           </li>
+                           <li class="" id="layout_986" role="presentation">
+                              <a aria-labelledby="layout_986"   target="_blank" href="https://www.antt.gov.br/concurso-publico"  role="menuitem">Concurso Público</a>
+                           </li>
+                           <li class="" id="layout_987" role="presentation">
+                              <a aria-labelledby="layout_987"   target="_blank" href="https://www.antt.gov.br/terceirizados-da-antt"  role="menuitem">Terceirizados da ANTT</a>
+                           </li>
+                           <li class="" id="layout_988" role="presentation">
+                              <a aria-labelledby="layout_988"   target="_blank" href="https://www.antt.gov.br/programa-de-estagio"  role="menuitem">Programa de Estágio da ANTT</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="" id="layout_28" role="presentation">
+                        <a aria-labelledby="layout_28"   target="_blank" href="https://www.antt.gov.br/informacoes-classificadas"  role="menuitem">Informações Classificadas</a>
+                     </li>
+                     <li class="" id="layout_29" role="presentation">
+                        <a aria-labelledby="layout_29"   target="_blank" href="https://www.antt.gov.br/sic"  role="menuitem">Serviço de Informação ao Cidadão - SIC</a>
+                     </li>
+                     <li class="" id="layout_15" role="presentation">
+                        <a aria-labelledby="layout_15"   target="_blank" href="https://www.antt.gov.br/perguntas-frequentes"  role="menuitem">Perguntas Frequentes</a>
+                     </li>
+                     <li class="" id="layout_30" role="presentation">
+                        <a aria-labelledby="layout_30"   target="_blank" href="https://www.antt.gov.br/dados-abertos"  role="menuitem">Dados Abertos</a>
+                     </li>
+                     <li class="" id="layout_17" role="presentation">
+                        <a aria-labelledby="layout_17"   target="_blank" href="https://www.antt.gov.br/pesquisa-de-satisfacao-dos-usuarios"  role="menuitem">Pesquisa de Satisfação dos Usuários</a>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_1025" role="presentation">
+                        <a aria-labelledby="layout_1025" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/governanca-publica"  role="menuitem">Governança Pública</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/governanca-publica">Governança Pública</a>
+                           </li>
+                           <li class="" id="layout_1026" role="presentation">
+                              <a aria-labelledby="layout_1026"   target="_blank" href="https://www.antt.gov.br/governanca-institucional"  role="menuitem">Governança Institucional</a>
+                           </li>
+                           <li class="" id="layout_1027" role="presentation">
+                              <a aria-labelledby="layout_1027"   target="_blank" href="https://www.antt.gov.br/integridade"  role="menuitem">Integridade</a>
+                           </li>
+                           <li class="" id="layout_1029" role="presentation">
+                              <a aria-labelledby="layout_1029"   target="_blank" href="https://www.antt.gov.br/gestao-de-riscos"  role="menuitem">Gestão de Riscos</a>
+                           </li>
+                           <li class="" id="layout_1030" role="presentation">
+                              <a aria-labelledby="layout_1030"   target="_blank" href="https://www.antt.gov.br/gestao-de-processos"  role="menuitem">Gestão de Processos</a>
+                           </li>
+                           <li class="" id="layout_1031" role="presentation">
+                              <a aria-labelledby="layout_1031"   target="_blank" href="https://www.antt.gov.br/gestao-da-inovacao"  role="menuitem">Gestão da Inovação</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_1008" role="presentation">
+                        <a aria-labelledby="layout_1008" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/governanca-regulatoria"  role="menuitem">Governança Regulatória</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/governanca-regulatoria">Governança Regulatória</a>
+                           </li>
+                           <li class="" id="layout_967" role="presentation">
+                              <a aria-labelledby="layout_967"   target="_blank" href="https://www.antt.gov.br/agenda-regulatoria"  role="menuitem">Agenda Regulatória</a>
+                           </li>
+                           <li class="" id="layout_1009" role="presentation">
+                              <a aria-labelledby="layout_1009"   target="_blank" href="https://www.antt.gov.br/air-arr"  role="menuitem">AIR-ARR</a>
+                           </li>
+                           <li class="" id="layout_1010" role="presentation">
+                              <a aria-labelledby="layout_1010"   target="_blank" href="https://www.antt.gov.br/participacao-da-sociedade"  role="menuitem">Participação da Sociedade</a>
+                           </li>
+                           <li class="" id="layout_1035" role="presentation">
+                              <a aria-labelledby="layout_1035"   target="_blank" href="https://www.antt.gov.br/boas-praticas-regulatorias"  role="menuitem">Boas Práticas Regulatórias</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li class="dropdown-submenu" id="layout_1022" role="presentation">
+                        <a aria-labelledby="layout_1022" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/governanca-estrategica"  role="menuitem">Governança Estratégica</a>
+                        <ul class="child-menu submenu" role="menu">
+                           <li role="presentation">
+                              <a target="_blank" href="https://www.antt.gov.br/governanca-estrategica">Governança Estratégica</a>
+                           </li>
+                           <li class="" id="layout_946" role="presentation">
+                              <a aria-labelledby="layout_946"   target="_blank" href="https://www.antt.gov.br/relacionamento-mercado"  role="menuitem">Relacionamento com o mercado</a>
+                           </li>
+                           <li class="" id="layout_1023" role="presentation">
+                              <a aria-labelledby="layout_1023"   target="_blank" href="https://www.antt.gov.br/planejamento-estrategico"  role="menuitem">Planejamento estratégico</a>
+                           </li>
+                           <li class="" id="layout_1024" role="presentation">
+                              <a aria-labelledby="layout_1024"   target="_blank" href="https://www.antt.gov.br/plano-de-gestao-anual"  role="menuitem">Plano de Gestão Anual</a>
+                           </li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+               <li class="dropdown-submenu" id="layout_10" role="presentation">
+                  <a aria-labelledby="layout_10" aria-expanded="false"  target="_blank" href="https://www.antt.gov.br/centrais-de-conteudo"  role="menuitem">Centrais de Conteúdo</a>
+                  <ul class="child-menu submenu" role="menu">
+                     <li role="presentation">
+                        <a target="_blank" href="https://www.antt.gov.br/centrais-de-conteudo">Centrais de Conteúdo</a>
+                     </li>
+                     <li class="" id="layout_90" role="presentation">
+                        <a aria-labelledby="layout_90"   target="_blank" href="https://www.antt.gov.br/videos"  role="menuitem">Vídeos</a>
+                     </li>
+                     <li class="" id="layout_92" role="presentation">
+                        <a aria-labelledby="layout_92"   target="_blank" href="https://www.antt.gov.br/canal-verde"  role="menuitem">Canal Verde</a>
+                     </li>
+                     <li class="" id="layout_431" role="presentation">
+                        <a aria-labelledby="layout_431"   target="_blank" href="https://www.antt.gov.br/intranet"  role="menuitem">Intranet</a>
+                     </li>
+                     <li class="" id="layout_898" role="presentation">
+                        <a aria-labelledby="layout_898"   target="_blank" href="https://www.antt.gov.br/legislacao"  role="menuitem">Legislação</a>
+                     </li>
+                  </ul>
+               </li>
+                <li id="portaltab-govbr-root" class="plain menu-govbr-root">
+                	<a title="GOV.BR" class="plain" href="https://www.gov.br/">
+                		<span>GOV.BR</span>
+                	</a>
+                </li>
+            </ul>
+		</div>
+	</div>
+	<div class="navigation-content-extra">
+    	<div class="links-redes-wrap row">
+            <div class="links-uteis links-uteis-mobile">
+                <ul>
+                   <li>
+                      <a target="_blank" href="#">Acessibilidade</a>
+                   </li>
+                   <li>
+                      <a target="_blank" href="#" class="link-contraste">
+                      <span class="fas fa-adjust"></span>
+                      </a>
+                   </li>
+                </ul>
+            </div>
+            <div class="links-uteis col-8">
+                <h3>
+                   Links Úteis
+                </h3>
+                <ul>
+                   <li>
+                      <a target="_blank" href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos <i class="fas fa-external-link-alt"></i></a>
+                   </li>
+                   <li>
+                      <a target="_blank" href="https://www.gov.br/pt-br/participacao-social">Participe <i class="fas fa-external-link-alt"></i></a>
+                   </li>
+                </ul>
+            </div>
+    		<div class="header-accessibility">
+                <ul>
+                   <li>
+                      <a target="_blank" href="https://www.gov.br/pt-br/orgaos-do-governo" class="orgaos-de-governo">Órgãos do Governo</a>
+                   </li>
+                   <li>
+                      <a target="_blank" href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                   </li>
+                   <li>
+                      <a target="_blank" href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+                   </li>
+                   <li>
+                      <a target="_blank" href="http://www.acessoainformacao.gov.br">Acesso à Informação</a>
+                   </li>
+                   <li>
+                      <a target="_blank" href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                   </li>
+                </ul>
+         	</div>
+         	<div class="redes-sociais col-4">
+                <h3 class="text-right">Redes Sociais</h3>
+                <div class = "d-flex justify-content-end">
+                    <a href="https://www.facebook.com/pages/Ag%C3%AAncia-Nacional-de-Transportes-Terrestres-ANTT/273947582728387" class="rede-social" target="_blank">
+                        <picture data-fileentryid="650097">
+                            <source media="(max-width:24px)" srcset="/v2/img/facebook-f-brands+2.png" />
+                            <source media="(max-width:24px) and (min-width:24px)" srcset="/v2/img/facebook-f-brands+2.png" />
+                            <img alt="Facebook" data-fileentryid="650097" src="/v2/img/facebook-f-brands+2.png" />
+                        </picture>
+                    </a>
+                    <a href="https://twitter.com/ANTT_oficial" class="rede-social" target="_blank">
+                        <picture data-fileentryid="650102">
+                            <source media="(max-width:24px)" srcset="/v2/img/twitter-brands+2.png" />
+                            <source media="(max-width:24px) and (min-width:24px)" srcset="/v2/img/twitter-brands+2.png" />
+                            <img alt="Twitter" data-fileentryid="650102" src="/v2/img/twitter-brands+2.png" />
+                        </picture>
+                    </a>
+                    <a href="https://www.youtube.com/channel/UC6f90nL7OeC7xAGo-ZPngxQ" class="rede-social" target="_blank">
+                        <picture data-fileentryid="650107">
+                            <source media="(max-width:24px)" srcset="/v2/img/youtube-brands+2.png" />
+                            <source media="(max-width:24px) and (min-width:24px)" srcset="/v2/img/youtube-brands+2.png" />
+                            <img alt="Twitter" data-fileentryid="650107" src="/v2/img/youtube-brands+2.png" />
+                        </picture>
+                    </a>
+                </div>
+         	</div>
+    	</div>
+	</div>
+</nav>			</header>
+
+            <div id="header-bar">
+                <div class="container">
+                   <nav id="breadcrumbs">
+                        <ul class="breadcrumb breadcrumb-horizontal">
+                        	<li>
+                        		<a href="/action/ActionDatalegis.php?acao=apresentacao&cod_modulo=161&cod_menu=5408" title="Voltar para Home">
+                        			<i class="fas fa-home"></i>
+                        		</a>
+                        	</li>
+                        	<li><span class="divider"><i class="fas fa-chevron-right"></i></span></li>
+                        	<li class="first">
+                                <a href="/action/ActionDatalegis.php?acao=categorias&cod_modulo=623&menuOpen=true">EMENTÁRIO      PUBLICAÇÕES DO DIA</a>
+                    		</li>
+						</ul>
+                    </nav>
+                   	<ul class="servicos float-right">
+                   		<li><a href="http://www.antt.gov.br/" target="_blank">Portal ANTT</a></li>
+    						<li><span class="divider">|</span></li>
+    						<li><a href="javascript:window.history.back();">Voltar</a></li>
+                   	</ul>
+                </div>
+            </div>
+            <div id="content" class="container">
+  				<div class="row">                    <!-- CONTEUDO -->
+                	<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 container" id="column-2">
+                    	<div class="container">
+                            <div class="row">
+                                <div class="col-12 col-offset-3">
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading">
+                                          <h4>Mensagem do sistema (1)</h4>
+                                        </div>
+                                    	<div class="panel-body">
+                                      		<p>URL inválida. Acesse o sistema novamente (2)</p>
+                                    		<ul class="nav nav-pills mt-md">
+                                      			<li><a href="../action/AutenticacaoAction.php?acao=efetuarLogin&redirect=">Acessar o sistema</a></li>
+                                      		</ul>
+                                		</div>
+                                    </div>
+                                </div>
+                            </div>
+                    	</div>
+                	</div>
+            	</div>
+            </div>
+					<!-- RODAPE -->
+		<footer id="rodape">
+            <div id="footer-bar" class="container">
+                <div id="footer-bar-container" class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-12 text-center">
+                        <a href="http://www.antt.gov.br" title="Agência Nacional de Transporte Terrestre" target="_blank">
+                        	<img src="/v2/img/logo_vertical_branca.png?" class="col-8" alt="ANTT" />
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-12 text-center pt-1">
+                    	<img src="/v2/img/anttlegis_footer.png?" class="col-10" alt="ANTTlegis" />
+                    </div>
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-12 text-center">
+                        <a href="http://www.brasil.gov.br/" title="Governo Federal" target="_blank">
+                        	<img src="/v2/img/logo_governo.png?" class="col-10" alt="Governo Federal" />
+                        </a>
+                    </div>
+                    
+                     <div class="col-lg-3 col-md-3 col-sm-12 text-center">
+                        <a href="http://www.acessoainformacao.gov.br/" title="Acesso à Informação" target="_blank">
+                        	<img src="/v2/img/acesso-a-informacao.png?" alt="Acesso a Informacao" class="col-8" />
+                        </a>
+                    </div>
+				</div>
+			</div>
+		</footer>
+		
+		<div class="voltar-topo"><a href="#wrapper">Voltar ao Topo</a></div>
+		 
+				<script src="/v2/js/popper.min.js" type="text/javascript"></script>
+        <script src="/v2/js/bootstrap.min.js" type="text/javascript"></script>
+		<script src="/v2/js/jquery.validate.min.js"></script>
+		<script src="/v2/js/menu.js?" type="text/javascript"></script>
+		<link href="/v2/css/mobile.css?" rel="stylesheet" type="text/css">
+		<script src="/v2/js/mobile.js?" type="text/javascript"></script>
+		
+		<script src="/view/js/copytoclipboard.js" type="text/javascript"></script>
+		<script src="/view/js/fieldtoclipboard.js" type="text/javascript"></script>
+        
+		<script src="/v2/js/jquery.maskedinput.min.js" type="text/javascript"></script>
+		
+		<link href="/v2/css/datapicket/bootstrap-datetimepicker.min.css" rel="stylesheet"/>
+		
+		<script src="/v2/js/datapicket/moment-with-locales.min.js"></script>
+		<script src="/v2/js/datapicket/bootstrap-datetimepicker.min.js"></script>
+        
+		<div vw class="enabled">
+            <div vw-access-button class="active"></div>
+            <div vw-plugin-wrapper>
+                <div class="vw-plugin-top-wrapper"></div>
+            </div>
+        </div>
+        <script src="https://vlibras.gov.br/app/vlibras-plugin.js" charset="UTF-8"></script>
+        <script>
+            new window.VLibras.Widget('https://vlibras.gov.br/app');
+        </script>
+
+        <script async src="https://cdn.ampproject.org/v0.js" type="text/javascript"></script>
+        
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-TV78NGSM6M"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-TV78NGSM6M');
+        </script>    	</div>
+	</body>
+</html>

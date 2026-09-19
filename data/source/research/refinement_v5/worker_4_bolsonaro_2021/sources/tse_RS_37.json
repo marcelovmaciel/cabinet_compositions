@@ -1,0 +1,16 @@
+{
+  "uf": "RS",
+  "municipio": "7733",
+  "party": "PCO",
+  "id": 37,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 1,
+      "totalElements": 1,
+      "response_sha256": "95ff4c79ec17aa5058abde353c62985ad8417c0d2c063cc50012050ed2258f5a",
+      "retrieved_utc": "2026-09-11T01:12:01Z"
+    }
+  ],
+  "matches": []
+}

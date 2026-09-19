@@ -1,0 +1,240 @@
+Partidos - Grupos - Portal de Dados Abertos do TSE (https://dadosabertos.tse.jus.br/group/partidos?res_format=CSV)
+citeturn342search0 [wordlim: 200] Crawled: last month; Os arquivos são organizados por partido político a fim de facilitar as consultas. ... Conjuntos de dados ... Formatos: CSV ... Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária...
+
+# Partidos
+
+Neste grupo, constam os dados sobre órgãos partidários e delegados partidários. Os arquivos são organizados por partido político a fim de facilitar as consultas. É importante...
+
+Leia mais
+
+Seguidores
+    0
+
+Conjuntos de dados
+    1
+
+
+# 1 conjunto de dados encontrado
+
+Formatos: CSV
+
+Filtrar Resultados
+
+  * ## Partidos
+
+Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária...
+
+    * CSV
+--------------------------------------------------------------------------------
+Eleições Brasil - Datasets - Brasil.IO (https://www.brasil.io/dataset/eleicoes-brasil/filiados/)
+citeturn342search1 [wordlim: 200] Published: 8.4 years ago; Crawled: last week; Dados das eleições brasileiras, desde 1996, capturados do TSE, como: filiados a partidos, candidatos e votação. ... Nome do Partido [Input] ... Importação dos dados feita em 12 de Agosto de 2018 às 22:38:26.Baixar dados completos em CSV ... Data da Desfiliação  | Data da Filiação  | Data da Regularização  | Data do Cancelamento  | Data do Processamento  | Motivo do Cancelamento  | Filiado  | Título de Eleitor  | Partido  | Situação  | Tipo do Registro  | UF
+
+#### Eleições Brasil
+
+Dados das eleições brasileiras, desde 1996, capturados do TSE, como: filiados a partidos, candidatos e votação. Note que nem todos os arquivos estão completos - verifique no TSE os que estão completos.
+
+  * Fonte original: Tribunal Superior Eleitoral do Brasil (TSE)
+  * Libertado por: Álvaro Justen
+  * Código-fonte: https://github.com/turicas/eleicoes-brasil
+  * Licença: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+  * Links relacionados: Perguntas frequentes sobre a filiação partidária
+
+Tabelas: bens_candidatos, candidatos, filiados, votacoes.
+
+Quer baixar os dados completos ou precisa acessá-los de maneira automatizada? Antes de mais nada, leia a documentação e depois baixe o dataset completo ou utilize nossa API.
+
+
+##### Filtros
+
+Busca [Input]
+
+Data da Desfiliação [Input]
+
+Data da Filiação [Input]
+
+Data da Regularização [Input]
+
+Data do Cancelamento [Input]
+
+Data do Processamento [Input]
+
+Motivo do Cancelamento [Select]
+
+Filiado [Input]
+
+Município [Input]
+
+Nome do Partido [Input]
+
+Título de Eleitor [Input]
+
+Partido [Select]
+
+Situação [Select]
+
+Tipo do Registro [Select]
+
+UF [Select]
+
+Dados capturados em 27 de Abril de 2018. Importação dos dados feita em 12 de Agosto de 2018 às 22:38:26.
+
+Baixar dados completos em CSV
+
+  * 1-50 de um total de 22.019.796
+  * chevron_right
+
+Data da Desfiliação  | Data da Filiação  | Data da Regularização  | Data do Cancelamento  | Data do Processamento  | Motivo do Cancelamento  | Filiado  | Título de Eleitor  | Partido  | Situação  | Tipo do Registro  | UF
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+--------------------------------------------------------------------------------
+Tribunal Superior Eleitoral (https://www.tse.jus.br/partidos/filiacao-partidaria/arquivos/tse-manual-sistema-filiacao-partidaria-externo/%40%40display-file/file/TSE-manual-filia-externo.pdf)
+citeturn342search12 [wordlim: 200] Published: 7.0 years ago; Para concorrer a cargo eletivo, o eleitor, entre outros requisitos, deve estar filiado ao partido no mínimo 6 (seis) meses antes da data fixada para as eleições, sendo facultado ao partido político estabelecer, em seu estatuto, prazos de filiação partidária superiores, conforme dispõem os arts. 9º da Lei nº 9.504/1997 e 20 da Lei nº 9.096, de 1995.É possível consultar a relação oficial de filiados dos partidos políticos políticos na página do TSE na internet (http://www.tse.jus.br/partidos/filiacao-partidaria/relacao-de-filiados ou http://filiaweb.tse.jus.br/filiaweb/filiacao/relacao/consulta.seam), bem como emitir a certidão de filiação partidária em http://www.tse.jus.br/eleitor/servicos/certidoes/certidao-de-filiacao-partidaria.
+
+Nos termos do art. 16 da Lei dos Partidos Políticos (Lei nº 9.096, de 19 de setembro de 1995), só pode filiar-se a partido o eleitor que estiver no pleno gozo de seus direitos políticos.
+
+Para concorrer a cargo eletivo, o eleitor, entre outros requisitos, deve estar filiado ao partido no mínimo 6 (seis) meses antes da data fixada para as eleições, sendo facultado ao partido político estabelecer, em seu estatuto, prazos de filiação partidária superiores, conforme dispõem os arts. 9º da Lei nº 9.504/1997 e 20 da Lei nº 9.096, de 1995.
+
+É possível consultar a relação oficial de filiados dos partidos políticos políticos na página do TSE na internet (http://www.tse.jus.br/partidos/filiacao-partidaria/relacao-de-filiados ou http://filiaweb.tse.jus.br/filiaweb/filiacao/relacao/consulta.seam), bem como emitir a certidão de filiação partidária em http://www.tse.jus.br/eleitor/servicos/certidoes/certidao-de-filiacao-partidaria.
+
+De acordo com o art. 7º da Res.-TSE nº 23.596/2019 e o art. 3º do Provimento-CGE nº 2/2010, alterado pelo Provimento-CGE nº 5/2010, os partidos podem cadastrar seus representantes para utilização de ferramenta própria da Justiça Eleitoral (Filia) com o objetivo de gerenciar suas relações internas de filiados (inclusões, alterações e exclusões de registros de filiações), em cumprimento ao art. 19 da Lei nº 9.096, de 1995.
+
+Acesse o Filia - sistema de filiação partidária.
+
+Por meio desse aplicativo é possível:
+- gerenciar o cadastro de filiados (inclusive com dados facultativos);
+- gerenciar relações internas de filiados;
+- gerenciar usuários de partidos políticos;
+- emitir a certidão de filiação partidária;
+- consultar relações oficiais e internas de filiados;
+
+Para acesso ao sistema FILIA Externo clique no link **“Acesse o sistema”**:
+
+[Imagem da tela FILIAWEB com caixa “SERVIÇOS DISPONÍVEIS” e seta vermelha apontando para “Para outros serviços, acesse o sistema.”]
+
+O sistema apresenta a tela de login do FILIA.  
+O usuário deve digitar sua inscrição eleitoral e a senha que obteve no momento da habilitação na Justiça Eleitoral. Clicar em **Enviar**.
+
+Arquivo: gus_filia_externo_final  
+Versão do modelo: 1.1 – 17/08/2016
+
+Página 8 de 37--------------------------------------------------------------------------------
+FUNDAÇÃO GETULIO VARGAS (https://repositorio.fgv.br/bitstreams/c93fdfcb-0ae7-4dc9-a5c0-d67d929d625f/download)
+citeturn342search13 [wordlim: 200] Published: 10 months ago; endereço: http://www.tse.jus.br/partidos/filiacao-partidaria/relacao-de-filiados. ... filiados_<sigla do partido>_<sigla da uf>.csv e a formatação dos arquivos estão na ... Nome do partido político ... Situação do registro de filiação
+31 
+ 
+Existem 28 bases para os anos de 1998, 2002, 2006, 2010 e 2014, 2 a mais que os 
+restantes, pois aqueles são anos em que ocorrem eleições para cargos federais e são 
+consideradas as bases referentes ao DF e BR. Ao todo, são 244 bases com a seguinte 
+nomenclatura consulta_cand_AAAA_ZZ em que AAAA representa o ano e ZZ a sigla 
+do estado (ou DF/BR, quando aplicável). 
+ 
+A listagem de eleitores filiados aos partidos políticos foi encontrada no seguinte 
+endereço: http://www.tse.jus.br/partidos/filiacao-partidaria/relacao-de-filiados. Nesta 
+página é possível acessar a relação de filiados de cada partido político. Contudo, é 
+necessário selecionar o partido político e o estado que desejamos consultar e depois 
+clicar no link “Baixar lista”. A composição do nome do arquivo é definida como: 
+filiados_<sigla do partido>_<sigla da uf>.csv e a formatação dos arquivos estão na 
+seguinte forma: 
+ 
+ A primeira linha contém o cabeçalho das informações; 
+ As informações estão entre aspas duplas e separadas pelo caractere “;”. 
+--------------------------------------------------------------------------------
+Filia - Consulta (https://filia2-consulta.tse.jus.br/)
+citeturn342search2 [wordlim: 200] Crawled: 6 months ago; Image: Tribunal Superior Eleitoral Sistema de Filiação Partidária - Consulta home help
+Image: Tribunal Superior EleitoralSistema de Filiação Partidária - Consulta home help
+
+## Serviços Disponíveis
+
+Para outros serviços, acesse o sistema.
+
+Versão: 2.4.56--------------------------------------------------------------------------------
+Cruzamento de filiaÃ§Ã£o (https://uploads.agencialupa.org/2025/12/mulheres-partidos-marco-2023.pdf)
+citeturn342search14 [wordlim: 200] Published: 8 months ago; Portal do TSE | Portal de dados abertos ... Partido: Todos ... Métricas: **Filiação** | Nome social | Deficientes | Todas ... https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao-filiados/cruzamento-de-filiacao?
+--------------------------------------------------------------------------------
+Lista de partidos políticos do Brasil (https://pt.wikipedia.org/wiki/Lista_de_partidos_pol%C3%ADticos_do_Brasil)
+citeturn342search15 [wordlim: 200] Crawled: 4 months ago; Lista de partidos políticos do Brasil ... O registro como o partido político permite lançar candidaturas nas eleições brasileiras, sendo que no país a filiação partidária é requisito para o direito político de ser elegível. ... Além disso, têm direitos ao uso de recursos do Fundo Partidário e do acesso gratuito a propagandas em estações de rádio e televisão do país, não podem ser financiados por recursos de entidades estrangeiras e devem prestar contas à Justiça Eleitoral. ... # | Nome | Sigla | Número eleitoral | Número de filiados | Data de criação | Data de registro definitivo | Presidente atual ... 2 |  | Partido dos Trabalhadores | PT | 13 | 1.668.670 | 10/02/1980 | 11/02/1982 | Edinho Silva ... Somente estão listados os partidos ainda existentes, sendo que nem todos existiam à época de todas as classificações, ou existiam mas não foram considerados ou obtidas informações para a classificação conforme a metodologia pretendida.
+--------------------------------------------------------------------------------
+Filiação Partidária – Base dos Dados (https://basedosdados.org/dataset/e68b1cfd-ca29-4bdc-b687-424d9c59760e?table=9a2e8ce4-6919-437c-b32e-b8fc048db296)
+citeturn342search3 [wordlim: 200] Crawled: 2 months ago; Filiação Partidária ... Relação de pessoas filiadas a partidos políticos no Brasil. ... Dados
+--------------------------------------------------------------------------------
+Filiação partidária — Tribunal Regional Eleitoral do Tocantins (https://www.tre-to.jus.br/partidos/filiacao-partidaria)
+citeturn342search4 [wordlim: 200] Crawled: last week; Portanto, só pode concorrer a cargo eletivo o eleitor que estiver filiado a partido político (Lei 9.504/97); e só pode filiar-se o eleitor que estiver em pleno gozo dos direitos políticos (Lei 9.096/95). ... O acesso ao novo Sistema de Filiação Partidária (FILIA) foi concedido ao presidente nacional de cada partido político com registro de estatuto no TSE, como administrador nacional do sistema. ... Os dados de Estatísticas do eleitorado – Eleitores filiados foram migrados para a página de Estatísticas eleitorais.
+--------------------------------------------------------------------------------
+Casa Civil: na 4ª troca, Braga Netto demite secretário executivo (https://www.metropoles.com/brasil/politica-brasil/casa-civil-na-4a-troca-braga-netto-demite-secretario-executivo)
+citeturn342search5 [wordlim: 200] Published: 6.5 years ago; Crawled: 6 months ago; Em mais um capítulo de troca-troca na Casa Civil da Presidência da República, o ministro-chefe, general Braga Netto, demitiu o secretário executivo da pasta, delegado da Polícia Federal Marcos Paulo Cardoso Coelho da Silva.Esta é a quarta pessoa a ser exonerada do cargo desde a crise envolvendo José Vicente Santini, afastado pelo presidente Jair Bolsonaro (sem partido) após voar em um avião da Força Aérea Brasileira (FAB). ... No lugar de Marcos Paulo, assume o general de Brigada Sérgio José Pereira.
+--------------------------------------------------------------------------------
+Relação de filiados — Temas Selecionados (https://temasselecionados.tse.jus.br/temas-selecionados/filiacao-partidaria/relacao-de-filiados)
+citeturn342search6 [wordlim: 200] Published: 2.6 years ago; Crawled: 3 weeks ago; “[…] A necessária centralização das informações sobre filiação partidária, visando à entrega, ao juiz eleitoral, de relação de todos os eleitores, inscritos perante a respectiva zona eleitoral, filiados a determinado partido político, não impede, dada a natureza interna corporis da matéria, ajuste voltado a incumbir diretório diverso do municipal, que tem atuação direta perante o juízo eleitoral, do encaminhamento da listagem nos prazos legais, condicionado a expressa declaração de cuidar-se de relação de todos os filiados, ainda que deferidas as filiações por diferentes órgãos de direção. ... […] Diante da coincidência do período inicialmente fixado para a entrega das relações de filiados pelos partidos políticos com período em que não haverá expediente para os cartórios eleitorais e com o de processamento dos cancelamentos de inscrições atribuídas a eleitores que deixaram de votar em três eleições consecutivas, prorroga-se o termo inicial do prazo para a mencionada entrega para o primeiro dia útil subseqüente, observando-se, quanto aos demais, o disposto na Res.-TSE nº 21.574/2003, com suas alterações posteriores.
+--------------------------------------------------------------------------------
+Justiça Eleitoral - TSE | Brazil Visible (https://brazilvisible.org/docs/apis/justica-eleitoral-tse/)
+citeturn342search7 [wordlim: 200] Crawled: last month; 7 fontes de dadosBens Declarados TSE·CSV Download·documentado Boletins de Urna TSE·CSV Download·documentado Candidaturas TSE·CSV Download·documentado Eleitorado TSE·CSV Download·documentado Filiados a Partidos TSE·CSV Download·documentado Prestação de Contas TSE·CSV Download·documentado Resultados Eleitorais TSE·CSV Download·documentado
+--------------------------------------------------------------------------------
+Serviços diversos — Tribunal Regional Eleitoral de Goiás (https://www.tre-go.jus.br/servicos-eleitorais/carta-de-servicos-ao-cidadao/topicos/copy3_of_eleicoes)
+citeturn342search8 [wordlim: 200] Crawled: 4 months ago; Este serviço permite ao partido político acessar a lista de seus filiados e ao eleitor consultar a sua própria filiação partidária. ...  • O eleitor não tem acesso à lista completa de filiados, em razão da adequação à Lei Geral de Proteção de Dados Pessoais (LGPD). ...  • o fim do prazo para impugnação dos pedidos de registro de candidatura (artigo 26 da Resolução TSE n.º23.596/2019). ...   – nome completo do usuário;
+--------------------------------------------------------------------------------
+Vereadores (https://www.anuariodoceara.com.br/legislativo/camara-municipal/vereadores/)
+citeturn342search9 [wordlim: 200] Crawled: today; ## Marcos PauloPartido: Progressistas ... Partido: PSD ... Também é vice-presidente da Federação Cearense de Futebol (FCF), com atuação voltada ao fortalecimento do esporte no Estado. ... Religião: sem religião definida ... Também foi candidato a deputado federal, obtendo cerca de 40 mil votos, mas não foi eleito.
+--------------------------------------------------------------------------------
+Filiação partidária - TRESC (https://apps.tre-sc.jus.br/site/partidos/filiacao-partidaria/index.html)
+citeturn342search10 [wordlim: 200] Crawled: 7.0 years ago; ## Filiação partidária ... Sistema Filiaweb: caso ainda não tenha acesso, o órgão partidário deverá solicitar cadastro perante a Justiça Eleitoral para realizar filiações, desfiliações e submeter a relação de seus filiados a processamento pelo TSE.
+--------------------------------------------------------------------------------
+Partidos políticos no Brasil (https://pt.wikipedia.org/wiki/Partidos_pol%C3%ADticos_no_Brasil)
+citeturn342search16 [wordlim: 200] Crawled: 5 months ago; Na tabela abaixo elaborada a partir dos dados do TSE, os partidos políticos estão listados primariamente pelo número eleitoral obtido junto ao tribunal, mas também é ordenável sob os demais critérios presentes nas outras colunas. ... Sob a vigência da Lei dos Partidos Políticos, somente três partidos conseguiram o registro na década de 2000: o Partido da República (PR), o Partido Republicano Brasileiro (PRB) e o Partido Socialismo e Liberdade (PSOL). ... Entre o retorno do pluripartidarismo e 1995, as regras para registro exigiam apenas cem pessoas filiadas ao partido em nove estados do país.
+--------------------------------------------------------------------------------
+Alguém sabe onde eu acho os resultados das eleições 2024 em Excel/CSV? (https://www.reddit.com/r/brdev/comments/1fztelt)
+citeturn342reddit17 [wordlim: 200] Published: 1.9 years ago; Crawled: 1.9 years ago; Alguém sabe onde eu posso achar os dados pra baixar direto?Tem que ter a lista de vereadores eleitos por cidade, se tiver os contatos deles, melhor ainda. ... scrapa o site do TSE.
+--------------------------------------------------------------------------------
+Legislativas 2022: Help Wanted (https://www.reddit.com/r/devpt/comments/s34pd4)
+citeturn342reddit18 [wordlim: 200] Published: 4.7 years ago; Crawled: 4.7 years ago; Nos últimos dias compilei num ficheiro .csv com os dados retirados dos PDFs publicados pela Comissão Nacional de Eleições, com todos os candidatos a todos os círculos, que concorrem às próximas legislativas. ...   Livre - tens um deputado em branco antes do rui tavares.
+--------------------------------------------------------------------------------
+Federações partidárias no Brasil (https://pt.wikipedia.org/wiki/Federa%C3%A7%C3%B5es_partid%C3%A1rias_no_Brasil)
+citeturn342search19 [wordlim: 200] Crawled: 4 months ago; Nome | Partidos integrantes | Presidente nacional | Data de deferimentoFederação Brasil da Esperança (Fe Brasil) | Partido dos Trabalhadores (PT)Partido Comunista do Brasil (PC do B)Partido Verde (PV) | José Luiz de França Penna | 24 de maio de 2022 (RFP nº 0600228-48.2022.6.00.0000)
+--------------------------------------------------------------------------------
+Mobilização Nacional (https://pt.wikipedia.org/wiki/Mobiliza%C3%A7%C3%A3o_Nacional)
+citeturn342search20 [wordlim: 200] Crawled: 4 months ago; O Mobilização Nacional (MOBILIZA) é um partido político brasil eiro de centro-direita.Obteve registro permanente em 25 de outubro de 1990 com o nome Partido da Mobilização Nacional (PMN). ... Em janeiro de 2026 possuía 208.017 filiados. ... - Bolsonarista Oswaldo Eustáquio se filia ao PMN e lança pré-candidatura ao Senado.- Solange Bueno, do PMN, tenta atrair eleitores de Bolsonaro. ... Câmara dos Deputados ... Repositório de Dados Eleitorais.
+--------------------------------------------------------------------------------
+Você está visitando o Blog da Vereadora Graça - C.Corá RN: 2011-12-04 (https://vereadoragracamedeiros.blogspot.com/2011_12_04_archive.html)
+citeturn342search11 [wordlim: 200] Crawled: 2 months ago; ### RN GANHARÁ HOJE UMA MULHER NO SENADO, IVONETE DANTAS ASSUME NA LICENÇA DE GARIBALDI ALVES ... Filiada ao PMDB, Ivonete Dantas foi deputada estadual e era segunda suplente na chapa da então senadora Rosalba Ciarlini, que renunciou ao cargo no início deste ano para assumir como governadora do Rio Grande do Norte. ... Estella Dantas (84) 9401-7111
+--------------------------------------------------------------------------------
+Liste der politischen Parteien in Brasilien (https://de.wikipedia.org/wiki/Liste_der_politischen_Parteien_in_Brasilien)
+citeturn342search21 [wordlim: 200] Crawled: 4 months ago;  | Partido dos Trabalhadores | PT | 13 | 10. ... Filiados. ... - História do PDT. ... - Partidos registrados no TSE: União Brasil. ... - Requerimentos de Criação de Partidos Políticos no TSE (1945 a 2017), Nr.
+--------------------------------------------------------------------------------
+Dados de FILIAÇÃO dos Partidos (https://www.reddit.com/r/BrasildoB/comments/1s7bk2v/dados_de_filia%C3%A7%C3%A3o_dos_partidos/)
+citeturn342reddit22 [wordlim: 200] Published: 5 months ago; Chamo atenção para o primeiro gráfico, o PSOL lidera em filiados de 16 a 24 anos e, tirando as incorporações de outros partidos, é o partido que mais cresce em números absolutos. ... de resto, há um longo caminho em qualquer construção revolucionária. os partidos não tem em si interesse na filiação partidária, mas se os partidos estivessem em uma crescente... o número de filiados seria mais significativo. ...   Pq não tem legenda partidária, então não é obrigado a apresentar os seus dados de filiação. ... Alguns fatos tristes nesses números, como a maior despolitização dos jovens, e outros bons, como o crescimento proporcional relevante da UP e do PCO.
+--------------------------------------------------------------------------------
+Patriota (Brasil) (https://pt.wikipedia.org/wiki/Patriota_%28Brasil%29)
+citeturn342search23 [wordlim: 200] Crawled: 4 months ago; Patriota (Brasil) ... SE | Eduardo Amorim (PSC) | Maria do Carmo (DEM) | PEN / DEM / PSL / PP / PTdoB / PV / PTC / PSDB / PTB / SD / PPS / PHS / PMN / PR / PSC | 1 PTB, 1 SD, 1 DEM | ninguém ... Repositório de Dados Eleitorais. ... Repositório de Dados Eleitorais.
+--------------------------------------------------------------------------------
+Filie-se ao partido da luta pela Palestina no Brasil! (https://www.reddit.com/r/u_diariocausaoperaria/comments/1bjvxpg)
+citeturn342reddit24 [wordlim: 200] Published: 2.5 years ago; Nesse mês de março o Partido da Causa Operária está em campanha de filiação em todo o país. ... Acontece o seguinte, o TSE tem um período que eles chamam de “janela de filiação” ou “janela partidária”, os quais ocorrem apenas duas vezes ao ano, durante os quais os partidos podem registrar filiados.A primeira “janela” é no mês de abril e a outra no final do ano, durando apenas duas semanas cada abertura, por isso recolhemos os dados antecipadamente, para registrar todos de uma vez.
+--------------------------------------------------------------------------------
+Resultados das eleições legislativas de 2019 num só ficheiro (https://www.reddit.com/r/portugal/comments/dljyq3)
+citeturn342reddit25 [wordlim: 200] Published: 6.9 years ago; Crawled: 6.9 years ago; Nao me parece existir um link oficial para fazer o download dos resultados num formato maquina (eg JSON ou CSV). ... O melhor será usar o inspector web para ver a API que o site usa, uma vez que devolve os dados em JSON. ... \-  Lista de partidos (com Nome e Acrónimo) ... Por sua vez o nome do território e o código associado pode ser obtido pelo 3º link, que também recebe um *territoryKey* e devolve todos os territórios que se encontram, hierarquicamente, por baixo.
+--------------------------------------------------------------------------------
+Você é filiado a algum partido político, caso seja, como ele está atuando em seu município? (https://www.reddit.com/r/BrasildoB/comments/1lfgk3b)
+citeturn342reddit26 [wordlim: 200] Published: 1.2 years ago; Crawled: 1.2 years ago; E qual é a posição do seu partido sobre o atual Governo Lula? ... O TSE tem dados de filiação partidária.Todos os partidos divulgam e publicam suas ações e posições. ... O governo Lula é tão inimigo dos trabalhadores brasileiros quanto o de Temer ou o de Bolsonaro, por exemplo. ... Sou filiado a UP, mas numa cidade de poucos habitantes, e pouquíssimos esquerdistas, se tem, são 80% filiados ao PT.
+--------------------------------------------------------------------------------
+Existe algum software que forneça estatisticas ,informações políticas, que possam auxiliar a partidos, políticos e candidatos ? (https://www.reddit.com/r/brasilivre/comments/1elzzbs)
+citeturn342reddit27 [wordlim: 200] Published: 2.1 years ago; Crawled: 2.1 years ago; Mas o que eu precisava era uma maneira prática de buscar por exemplo a quantidade de prefeitos do "partido A"no meu estado. ... Ou seja , um software que  tenha o banco de dados do TSE, mas que também possua outras informações pra ajudar na escolha de partidos , ou para auxiliar na tomada de decisões políticas. ...     Provável, porque eles têm os centros de pesquisa, as fundações dos partidos que fazem essas pesquisas. ...     Tem Excel, Python e dados abertos do TSE também.
+--------------------------------------------------------------------------------
+Sistema de filiação ao partido MISSÃO tem vulnerabilidade bizarra (https://www.reddit.com/r/programacao/comments/1vnlb1v/sistema_de_filia%C3%A7%C3%A3o_ao_partido_miss%C3%A3o_tem/)
+citeturn342reddit28 [wordlim: 200] Published: 4 weeks ago; Após a polêmica acabei de fazer o teste no sistema do partido Missão e eles simplesmente não tem sistema nenhum de confirmação de autoridade do registro, nenhum tipo de KYC, basta ter o número do título, cpf e nome dos pais que qualquer pessoa pode filiar qualquer outra pessoa no partido, vulnerabilidade bizarra e grotesca de quem fez o sistema! ...         O bizarro nem é isso, o TSE retorna dizendo que os dados de CPF não batem, ao invés de cancelar a filiação nisso, você ainda tem que pedir o cancelamento, aí de acordo com o partido Missão, esse pedido deu erro ... Mesmo que o sistema das urnas não tenha absolutamente nada a ver com o sistema de filiação partidária. ... Todos os partidos tem um sistema de filiação dessa forma, existe uma equipe para filtrar depois. ...       Cara, o TSE tá nem aí pra quem o presidente do partido tá dizendo que é membro do partido dele, a responsabilidade é de quem coleta os dados e quem aceita o membro como afiliado, o TSE funciona só como uma espécie de banco de dados dos membros que são filiados a um partido ... - Black list de nomes (Flávio Bolsonaro, Luiz Inácio lula da Silva, etc)
+--------------------------------------------------------------------------------
+TSE nega ataque hacker e diz que pessoa com credencial do Missão filiou Flávio Bolsonaro (https://www.reddit.com/r/brasilivre/comments/1vnkmpr/tse_nega_ataque_hacker_e_diz_que_pessoa_com/)
+citeturn342reddit29 [wordlim: 200] Published: 4 weeks ago; *"O Tribunal Superior Eleitoral informa que a filiação de Flávio Bolsonaro ao partido Missão não foi fruto de hackeamento do sistema de filiação partidária, mas sim de uso indevido da ferramenta por parte de alguém que possuía as credenciais da legenda para efetivar filiações. ... Se eu pegar todos os teu dados e te filiar, por exemplo, ao PSOL, você aceitar o email da confirmação, e passar os 10 dias do prazo da validação sem ninguém do partido fazer nada e sem o TSE recusar, a tua filiação é aceita automaticamente e no sistema do TSE vai constar que a filiação foi feita usando a chave do PSOL. ...                   Ai tem diversos desdobramentos o primeiro que é o mais óbvio que foi oque o PT fez, uma blacklist anti trolagem logo o se tivesse isso o partido Missão nunca teria mandado email e isso ele não fez, além disso só uma auditoria pode comprovar foi alguém que realmente clicou pois é possui que os logs tenham sido manipulados ou sejam até incorretos, escrever no log clicou sem claramente aceitar algo é bizarro, além do que vc o endereço que colocaram? ...   Além doque olha os dados de endereço utilizados me diz se não é a cara dos adolescentes do MBL? ...     Só todos os partidos do Brasil?
+--------------------------------------------------------------------------------
+Como São Paulo votou nos 2 turnos por local de votação (https://www.reddit.com/r/saopaulo/comments/1gfq2lf)
+citeturn342reddit30 [wordlim: 200] Published: 1.9 years ago; Crawled: 1.7 years ago;   Os dados estão disponíveis no site de Dados Abertos do TSE, tanto os resultados eleitorais quanto as coordenadas dos locais de votação. ...   O TSE disponibiliza a localização em coordenadas geográficas de todos os locais de votação.
+--------------------------------------------------------------------------------
+O quanto o brasileiro médio/comum está preocupado ou tem interesse em saber detalhes de possíveis candidatos? (https://www.reddit.com/r/brasil/comments/1vj07bk/o_quanto_o_brasileiro_m%C3%A9diocomum_est%C3%A1_preocupado/)
+citeturn342reddit31 [wordlim: 200] Published: last month; Para testar "no mundo real", resolvi usar os dados abertos do TSE.Cruzei dados de candidatos com empresas, assistências sociais, doadores, bens declarados etc. ... * Repasse de verbas públicas por gênero e raça/cor (verificar se os partidos realmente estavam cumprindo as cotas) ... Como não sei se as imagens do reddit estarão visíveis, segue o link de uma versão em PDF: https://pt.scribd.com/document/1071265970/Eleicoes-2024 *(após o download, a resolução melhora)*
+--------------------------------------------------------------------------------
+Partidos perderam 203 mil filiados em 2025; PT foi o que mais cresceu (https://www.reddit.com/r/brasil/comments/1qgbkke/partidos_perderam_203_mil_filiados_em_2025_pt_foi/)
+citeturn342reddit32 [wordlim: 200] Published: 7 months ago;   Segundo os petistas do sub, são todos se comunistas que não fazem nada ...   Acredito que a UP tomou muitos partidários do PSOL, bem como o PT provavelmente tomou do PDT.Não dá pra saber só com esses dados, mas os números são bem parecidos. ... União Brasil : 1.095.175 → 1.074.822 (- 20.353) ...   Caraca, o Missão, partido do MBL, cresceu infinitos porcento!! ...   Pior,  um monte dessas perdas devem ser dos filiados morrendo de velhice. ...       A filiação ao PCdoB já direciona pro território de atuação e vem com o CPS (Curso do Programa Socialista). ...         então tá na cara que esses partidos não me querem nele.
+--------------------------------------------------------------------------------
+Real-time 2019 Portuguese Parliament Election Results Dataset (https://arxiv.org/abs/1912.08922)
+citeturn342academia33 [wordlim: 200] Published: 6.8 years ago; 
+Title: Real-time 2019 Portuguese Parliament Election Results Dataset
+Authors: Nuno Moniz
+Date: Thu Dec  5 15:52:31 2019
+
+This paper presents a data set describing the evolution of results in the Portuguese Parliamentary Elections of October 6$^{th}$ 2019. The data spans a time interval of 4 hours and 25 minutes, in intervals of 5 minutes, concerning the results of the 27 parties involved in the electoral event. The data set is tailored for predictive modelling tasks, mostly focused on numerical forecasting tasks. Regardless, it allows for other tasks such as ordinal regression or learn-to-rank.

@@ -1,0 +1,17 @@
+{
+  "party": "PSOL",
+  "id": 63,
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "Londrina",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 225,
+      "totalElements": 225,
+      "response_sha256": "5c1efcf8e0c5688179457d5f513b4342133ce1803c91fa6e7068360d45c88c2d",
+      "retrieved_utc": "2026-09-10T23:39:59Z"
+    }
+  ],
+  "matches": []
+}

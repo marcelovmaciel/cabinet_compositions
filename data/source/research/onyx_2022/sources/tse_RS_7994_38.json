@@ -1,0 +1,14 @@
+{
+  "party": 38,
+  "municipio": "PORTO ALEGRE",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=38&currentPage=0&pageSize=10000",
+      "status": 200,
+      "retrieved_utc": "2026-09-11T19:22:31.251144+00:00",
+      "response_sha256": "c403c7fb0b6ef2e06a9231d915a234d7d4c89137ff9f7439aae2714a74de62ff",
+      "totalElements": 2809
+    }
+  ],
+  "matches": []
+}

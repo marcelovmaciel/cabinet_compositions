@@ -1,0 +1,17 @@
+{
+  "party": "REDE",
+  "id": 64,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=64&currentPage=0&pageSize=10000",
+      "records": 244,
+      "totalElements": 244,
+      "response_sha256": "f970bc534af865c18bb1a88c103b0b7c6b4b7cac76ed07a06954e16a1cf28bee",
+      "retrieved_utc": "2026-09-10T23:40:48Z"
+    }
+  ],
+  "matches": []
+}

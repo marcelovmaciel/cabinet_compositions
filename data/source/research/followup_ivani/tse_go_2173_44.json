@@ -1,0 +1,16 @@
+{
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 1523,
+      "totalElements": 1523,
+      "response_sha256": "a0c6f8e9a7fa2d8db60fa8002b725d9d1c3c50d1595b36008b7ea8fa8a6a0551",
+      "retrieved_utc": "2026-09-10T23:37:14Z"
+    }
+  ],
+  "matches": []
+}

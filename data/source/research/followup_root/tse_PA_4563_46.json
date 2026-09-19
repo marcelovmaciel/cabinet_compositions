@@ -1,0 +1,17 @@
+{
+  "uf": "PA",
+  "municipio": "4563",
+  "city": "BELÉM",
+  "party": "CIDADANIA",
+  "id": 46,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 2458,
+      "totalElements": 2458,
+      "response_sha256": "e26602bd6a8d871a90c99306c5d79b51e0d51d439047c8630f444e9d52b6e9cd",
+      "retrieved_utc": "2026-09-10T23:38:51Z"
+    }
+  ],
+  "matches": []
+}

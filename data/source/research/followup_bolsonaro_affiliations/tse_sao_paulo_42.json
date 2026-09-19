@@ -1,0 +1,81 @@
+{
+  "party": "MDB",
+  "id": 42,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 64168,
+      "response_sha256": "a93f83fba2b88d679cd31ece4bd04812cd7347b38cb7b7da245456f6487654e1",
+      "retrieved_utc": "2026-09-10T23:44:39Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=42&currentPage=1&pageSize=10000",
+      "records": 10000,
+      "totalElements": 64168,
+      "response_sha256": "357fd4985378b8712964ffed764aa9a106b11993d9e612ea3862f537b1d65540",
+      "retrieved_utc": "2026-09-10T23:45:02Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=42&currentPage=2&pageSize=10000",
+      "records": 10000,
+      "totalElements": 64168,
+      "response_sha256": "cef46820218dba02b55d875437cad72bdd7273502cc2b16369c242d9d4dad236",
+      "retrieved_utc": "2026-09-10T23:45:22Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=42&currentPage=3&pageSize=10000",
+      "records": 10000,
+      "totalElements": 64168,
+      "response_sha256": "018ca03e6ba4d7ca481437c766d1baebc9b3abb839426e443b068b92b8eea3e6",
+      "retrieved_utc": "2026-09-10T23:45:41Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=42&currentPage=4&pageSize=10000",
+      "records": 10000,
+      "totalElements": 64168,
+      "response_sha256": "e76c5675787093b9533b1610f8eeab66fc804bdc6abc02fe18890e58933097b6",
+      "retrieved_utc": "2026-09-10T23:46:05Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=42&currentPage=5&pageSize=10000",
+      "records": 10000,
+      "totalElements": 64168,
+      "response_sha256": "df2cfe3bf0a3e523d8de30f392c0a320d1488f03cd46446f549a46d4db6ea631",
+      "retrieved_utc": "2026-09-10T23:46:27Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=42&currentPage=6&pageSize=10000",
+      "records": 4168,
+      "totalElements": 64168,
+      "response_sha256": "bfe7f3d96eac5e31e97712c1e5aaef62c1bc67f3e1c811c606425469af3b4713",
+      "retrieved_utc": "2026-09-10T23:46:35Z"
+    }
+  ],
+  "matches": [
+    {
+      "sqRegistroFiliacao": 16164335,
+      "cdMotivoCancelamento": null,
+      "cdMotivoDesfiliacao": null,
+      "desSituacaoEleitor": "REGULAR",
+      "dtCancelamento": null,
+      "dtDesfiliacao": null,
+      "dtExclusao": null,
+      "dtFiliacao": [
+        1988,
+        3,
+        7
+      ],
+      "tsCadastroDesfiliacao": null,
+      "nmEleitor": "IVANI DOS SANTOS",
+      "nomLocalidade": "SÃO PAULO",
+      "sgPartido": "MDB",
+      "sgUe": "SP",
+      "stRegistroFiliacao": 1,
+      "tpSexo": 4,
+      "indPendencia": 0,
+      "indOrigem": 0,
+      "public_registry_identity_sha256": "747c3ebcbe6c78ad6f3ebd0e142928332a18b4f3b7e4b0c92cb43e2ccf391156"
+    }
+  ]
+}

@@ -1,0 +1,1417 @@
+    MINISTÉRIOS E BUROCRACIA NO PROCESSO DE PRODUÇÃO DE POLÍTICAS
+           PÚBLICAS: O CASO DAS AGENDAS DO SETOR DE ENERGIA
+
+       MINISTERIOS Y BUROCRACIA EN EL PROCESO DE ELABORACIÓN DE
+    POLÍTICAS PÚBLICAS: EL CASO DE LAS AGENDAS DEL SECTOR ENERGÉTICO
+
+     MINISTRIES AND BUREAUCRACY IN THE PROCESS OF PRODUCING PUBLIC
+              POLICIES: THE CASE OF ENERGY SECTOR AGENDAS
+
+
+
+
+                                                                                            Cristiano Parra DUARTE1
+                                                                                           e-mail: crparraduarte@gmail.com
+
+
+
+
+Como referenciar este artigo:
+
+DUARTE, C. P. Ministérios e burocracia no processo de produção
+de políticas públicas: O caso das agendas do setor de energia.
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v.
+33, n. 00, e024003, 2024. e-ISSN: 2236-0107. DOI:
+https://doi.org/10.14244/tp.v33i00.1033
+
+
+
+
+| Submetido em: 26/04/2023
+| Revisões requeridas em: 12/10/2023
+| Aprovado em: 20/02/2024
+| Publicado em: 17/04/2024
+
+
+
+                                                 Editora: Profa. Dra. Simone Diniz
+                                Editor Adjunto Executivo: Prof. Dr. José Anderson Santos Cruz
+1
+ Universidade Federal de São Carlos (UFSCar), São Carlos – SP – Brasil. Doutorando em Ciência Política com
+bolsa da Fundação de Amparo à Pesquisa do Estado de São Paulo. Mestre em Ciência Política pela Universidade
+Federal de São Carlos. Editor-chefe da revista Agenda Política.
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                     e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                 1
+             Ministérios e burocracia no processo de produção de políticas públicas: O caso das agendas do setor de energia
+
+
+
+
+RESUMO: Os ministérios são variáveis-chave no processo de produção de políticas por conta
+do contexto do presidencialismo de coalizão e da dinâmica do processo de priorização na
+agenda das políticas públicas, dos quais a burocracia tem papel de destaque. Nesse sentido, este
+trabalho objetiva responder: a burocracia tem agendas próprias que diferem das agendas
+presidencial e do Legislativo? Para isso, desarrolha-se um estudo de caso qualitativo sobre o
+setor de energia entre 1995 e 2014 a fim de entender qual o papel das esferas mais técnicas do
+governo no policy-making process. Em termos de resultados, são identificadas prioridades
+distintas e divergências importantes entre as agendas da presidência, do Legislativo e da
+administração setorial. Esses achados sugerem a existência de uma agenda da administração
+setorial que parece operar com certa autonomia da presidência e ainda mais do Congresso
+Nacional, processo que pode estar relacionado com as prioridades da própria burocracia
+setorial.
+
+PALAVRAS-CHAVE: Burocracia. Políticas públicas. Ministérios. Setor de energia. Agenda
+de políticas públicas.
+
+
+RESUMEN: Los ministerios son variables clave en el proceso de producción de políticas
+debido al contexto de presidencialismo de coalición y a la dinámica del proceso de priorización
+en la agenda de políticas públicas, en la cual la burocracia juega un papel preponderante. En
+este sentido, este trabajo pretende responder a la pregunta: ¿tiene la burocracia agendas
+propias que difieran de las agendas presidencial y legislativa? Para ello, se llevó a cabo un
+estudio de caso cualitativo sobre el sector energético entre 1995 y 2014 con el fin de
+comprender el papel de las esferas más técnicas del gobierno en el proceso de formulación de
+políticas. En cuanto a los resultados, se identificaron distintas prioridades y divergencias
+significativas entre las agendas de la presidencia, el poder legislativo y la administración del
+sector. Estos hallazgos sugieren la existencia de una agenda de la administración sectorial que
+parece operar con cierto grado de autonomía de la presidencia y aún más del Congreso
+Nacional, proceso que puede estar relacionado con las prioridades de la propia burocracia
+sectorial.
+
+PALABRAS CLAVE: Burocracia. Políticas públicas. Ministerios. Sector energético. Agenda
+política pública.
+
+
+ABSTRACT: The ministries are key variables in the policy production process due to the
+context of coalition presidentialism and the dynamics of the prioritization process in the public
+policy agenda, in which the bureaucracy plays a prominent role. In this sense, this paper aims
+to answer the question: does the bureaucracy have its own agendas that differ from the
+presidential and legislative agendas? To this end, a qualitative case study was carried out on
+the energy sector between 1995 and 2014 in order to understand the role of the more technical
+spheres of government in the policy-making process. In terms of results, distinct priorities and
+important divergences between the agendas of the presidency, the legislature and the sector
+administration were identified. These findings suggest the existence of a sectoral administration
+agenda that seems to operate with a certain degree of autonomy from the presidency and even
+more from the National Congress, a process that may be related to the priorities of the sectoral
+bureaucracy itself.
+
+KEYWORDS: Bureaucracy. Public policy. Ministries. Energy sector. Public policy agenda.
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                             e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                         2
+                                                        Cristiano Parra DUARTE
+
+
+
+
+Introdução
+
+          Os ministérios são variáveis-chave para o processo de produção de políticas (policy-
+making process) e para o processo das políticas (policy process) (Palotti; Cavalcanti; 2018;
+Ribeiro; Paiatti, 2022). Tal importância diz respeito ao papel da burocracia estatal no processo
+democrático, sobretudo com relação às discussões em torno de legitimidade de atores que
+podem agir apesar dos dirigentes eleitos (Peters, 2018). Essa é uma temática presente desde a
+obra weberiana, mas que ainda é debatida com frequência pela ciência política e pela
+administração pública (Peters, 2018; Palotti; Cavalcante, 2018; Ribeiro; Paiotti, 2022; Borges;
+Coelho, 2015; Lima, 2020; D’áraujo; Petek, 2018; D’áraujo, 2009; Lopez; Bugarin; Bugarin,
+2013; Lopez; Silva, 2019; D’áraujo; Lameirão, 2009; Workman, 2015).
+          Somado a essas questões, o contexto de presidencialismo de coalizão brasileiro
+demanda a análise sobre o processo de centralização, delegação e divisão de poderes no
+Executivo federal (Inácio; Rezende, 2015). Isso porque na medida que presidentes precisam
+conceder ministérios a partidos da coalizão, ministros podem agir em direções diferentes da
+agenda política presidencial dado que esses não são meros funcionários do presidente, mas
+atores complexos com orientações ideológicas e interesses próprios (Batista, 2013; 2016).
+Ministérios controlam tanto a burocracia (ministros e estruturas organizacionais) quanto as
+informações por ela produzida, aspectos que são essenciais ao processo de produção de políticas
+públicas e que podem condicionar se a formulação de política ocorre de forma centralizada na
+presidência ou descentralizada com delegação a ministérios setoriais (Batista, 2013).
+          Para além do controle da máquina administrativa setorial, os próprios burocratas são
+atores auto interessados com pautas próprias (Abers, 2021; Workman, 2015). Nesse sentido,
+eles podem ocupar seus cargos atuando como ativistas de causas específicas ou cargos na
+burocracia podem ser ocupados por ativistas (Abers, 2015), influenciar na formulação e na
+implementação de políticas (Loureiro; Abrucio; Rosa, 1998; Olivieri, 2007), como também na
+montagem de agendas, seja pela proposição de alternativas, como também pela definição de
+problemas que vão moldar a discussão em torno de soluções (Workman, 2015).
+          Considerando esse cenário, o presente estudo analisa o setor de energia com o objetivo
+de mapear a produção de legislações e normativas a fim de identificar agendas distintas entre
+dirigentes eleitos e a máquina administrativa. Dessa forma, este artigo se insere nas discussões
+em torno do debate sobre insulamento e responsividade na governança democrática, no debate
+entre política e burocracia. Este trabalho então busca responder: a burocracia tem agendas
+próprias que diferem das agendas presidencial e do Legislativo (dirigentes eleitos)? O caso
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.   e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                               3
+             Ministérios e burocracia no processo de produção de políticas públicas: O caso das agendas do setor de energia
+
+
+
+
+analisado é relevante por ser tratado pela literatura como marcante em problemas em processos
+decisórios (Gomide; Pereira, 2018), ter relações fortes com políticos e partidos (Batista; Lopez,
+2021), mas por não explorar a atuação da burocracia na definição de agendas próprias (Duarte;
+Lino, 2022). Ainda, o setor de energia é uma área setorial ainda pouco analisada pelos
+pesquisadores do campo de políticas públicas, fator que acentua a existência de muitas lacunas
+no entendimento dos processos decisório e de produção de políticas nesse domínio setorial
+(Duarte, 2021).
+          Para tanto, este trabalho analisa os anos de 1995 e 2014, período que congrega cinco
+gestões federais (dois mandatos de Fernando Henrique Cardoso do PSDB; dois mandatos de
+Luís Inácio Lula da Silva do PT; e o primeiro mandato de Dilma Rousseff do PT). Tal recorte é
+relevante considerando que são gestões completas (sem a existência de impeachment no
+período) e por possibilitar a comparação da produção de política no setor entre governos com
+bases ideológicas distintas (Duarte, 2021). Em termos de metodologia, essa análise de caso
+qualitativa é realizada por meio de análise de conteúdo e descrição de conteúdos substantivos
+de legislações e normativas produzidas pela presidência, pelo Congresso e pela administração
+setorial, composta pelo Ministério de Minas e Energia (MME), pelo Conselho Nacional de
+Política Energética (CNPE), pela Agência Nacional de Energia Elétrica (ANEEL), pela Agência
+Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) e pela Empresa de Pesquisa
+Energética (EPE). Essas organizações são as principais responsáveis pela formulação das
+políticas de energia no Brasil, sobretudo por seu poder de proposição e criação de legislações e
+normativas que estruturam a área setorial (Duarte, 2021).
+          O argumento central do trabalho reside em apontar indícios sobre a existência de uma
+agenda da administração setorial voltada para as energias renováveis 2. Tal agenda parece ser
+descolada da agenda legislativa do presidente e, ainda mais, do Congresso Nacional. Além
+disso, o argumenta-se que essa agenda é produto da atuação da burocracia setorial que consegue
+sustentar pautas ligadas a energias limpas apesar da alta rotatividade de ministros. Após essa
+introdução, debate-se o presidencialismo de coalizão, qual seu impacto para a gestão de
+ministérios e de políticas públicas. Apresenta-se ainda o papel da burocracia no policy-making
+process e no processo das políticas, voltado tanto para o controle, a produção e a divulgação de
+informações, como para a produção de agendas próprias. Em seguida, apresenta-se o desenho
+
+
+
+2
+  Energias renováveis podem ser entendidas como as fontes de baixo impacto socioambiental, tais como as
+pequenas hidrelétricas, as energias eólica e solar, as biomassas e biocombustíveis, dentre outras (Natt; Carrieri,
+2017; Golderberg; Lucon, 2007).
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                             e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                         4
+                                                        Cristiano Parra DUARTE
+
+
+
+
+metodológico da pesquisa e as distintas análises empreendidas. Depois, o artigo apesenta os
+dados e debate os achados à luz da literatura mobilizada. Ao final, ficam as conclusões com
+uma agenda de pesquisa futura com perguntas ainda em aberto sobre o caso analisado.
+
+
+
+Ministérios e burocracia: da formação da coalizão à agenda
+
+          O processo político em democracias é impactado, dentre outras coisas, pelo sistema de
+governo e pela distribuição de poder (Anastasia; Inácio, 2010). É a partir dessas condições que
+os atores, em arenas distintas, tentam emplacar suas ideias em meio aos arranjos institucionais
+e organizacionais do Estado para produzir políticas públicas (Howlett; Ramesh; Perl, 2013).
+Dessa forma, ser um país presidencialista, semipresidencialista ou parlamentarista implica em
+direcionar os olhares sobre o grau de necessidade de confiança entre Executivo e Legislativo e
+sobre a sustentação a longo prazo do governo (Carey, 2005). Tais critérios imprimem
+características específicas para pensar as relações entre os poderes na produção de políticas
+públicas, sobretudo com relação à cooperação no processo decisório para implementar uma
+agenda política (Figueiredo, 2004).
+          No caso brasileiro, caracterizado como um presidencialismo multipartidário
+fragmentado, a governabilidade é conseguida por meio da formação de coalizões (Abranches,
+1988). Tal sistema tem se mostrado operante em virtude dos poderes legislativos do chefe do
+Executivo atribuídos pela Constituição de 1988 e pela capacidade dos líderes partidários em
+sustentar uma disciplina partidária no Congresso Nacional (Limongi; Figueiredo, 1998). Tal
+arranjo institucional tem tornado possível a primazia da aprovação de leis oriundas do poder
+Executivo brasileiro para que o governo consiga aprovar sua agenda e produzir políticas
+públicas, imprimindo, dessa forma, uma preponderância das prioridades do governo frente aos
+parlamentares (Amorim Neto, 2007; Figueiredo; Limongi, 2007).
+          No contexto do presidencialismo de coalizão brasileiro, o processo de divisão de
+ministérios na formação do governo é um dos principais tópicos de estudo pela ciência política
+(Freitas, 2013; Inácio; Rezende, 2015). Tal processo consiste na negociação, a partir de um
+acordo interpartidário, para dividir o poder entre pelo menos dois partidos através das pastas
+ministeriais (Freitas, 2013; Amorim Neto, 2006). A formação do gabinete garante, de um lado,
+o apoio legislativo à presidência e, por outro lado, a influência de partidos no governo. A
+distribuição de ministérios, portanto, constitui-se como um acordo de mão-dupla, com
+benefícios para ambos os lados (Batista, 2013).
+
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.   e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                               5
+             Ministérios e burocracia no processo de produção de políticas públicas: O caso das agendas do setor de energia
+
+
+
+
+          A distribuição dos ministérios no presidencialismo brasileiro tem sido analisada
+sobretudo pela teoria do agente-principal (Batista, 2013; Guerra, 2020). Nela, o presidente
+representa o principal que delega poder de decisão aos ministérios, denominados de agentes.
+Tal processo de delegação suscita uma série de problemas, principalmente relacionada à perda
+do controle do principal sobre o agente. Isso pode acontecer em virtude de o poder delegado
+ser mobilizado para interesses que diferem dos anseios do principal. Em outras palavras, no
+processo de distribuição de ministérios entre os partidos da coalizão, a máquina administrativa
+ministerial pode operar sob uma lógica distinta da agenda presidencial.
+          O distanciamento ideológico entre principal e agente tem sido o principal motivo
+atribuído pelos pesquisadores para explicar a perda de controle sobre o delegado (Amorim
+Neto; 2006; Inácio; Rezende, 2015; Batista, 2016). Isso porque o ministro que assume a pasta
+não pode ser considerado como um funcionário do presidente, mas sim um ator político
+complexo, tendo em vista que ele possui interesses próprios e atua visando os interesses do
+partido que está representando (Batista, 2013). Dentre os principais poderes adquiridos no
+processo de delegação, o ministro controla o orçamento de áreas e políticas setoriais, dá
+direcionamentos estratégicos aos programas ministeriais que são sensíveis a bases eleitorais e
+possui grandes possibilidades de produzir legislações no processo de produção de políticas
+públicas. Dessa forma, enquanto representante do partido em um ministério, o político segue
+uma lógica ideológica, tem preferências políticas, projetos eleitorais e, inclusive, uma agenda
+política própria (Batista, 2013).
+          Outro poder fundamental exercido pelo ministro diz respeito ao controle da burocracia
+e das informações sobre políticas setoriais por ela produzidas. Essa é uma dimensão ainda
+pouco explorada pela literatura brasileira e que tem grande importância para quando se analisa
+o processo de produção de políticas públicas (Palotti; Cavalcante, 2018; Ribeiro; Paiotti, 2022).
+O controle da burocracia e da informação produzida pelo ministério arraigada à proximidade
+da presidência ao ministério são aspectos fundamentais para definir se a formulação de políticas
+se dará de forma centralizada ou descentralizada (Batista, 2013). Isso porque a produção de
+políticas demanda informações que subsidiem a tomada de decisão. Na medida que o presidente
+está ideologicamente próximo do ministro setorial, as informações serão advindas dos
+burocratas. Por outro lado, se existe um distanciamento com o ministério, a presidência
+encontrará barreiras para acessar tais informações, passando a buscar fontes distintas de
+informações e formulando políticas em um núcleo próximo de decisão, como a Casa Civil, no
+caso brasileiro, por exemplo. Dessa forma, o processo de produção de políticas ocorre de
+
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                             e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                         6
+                                                        Cristiano Parra DUARTE
+
+
+
+
+maneira descentralizada quando as agendas da presidência e do ministério são convergentes ou
+centralizada quando o acesso à burocracia é dificultado e as agendas são divergentes.
+          Para além da ideologia, a literatura ainda aponta para outros fatores que levam a maior
+ou menor centralização e descentralização. Pode-se destacar também a área setorial (policy
+domain), a cadeia hierárquica entre os ministros, os secretários e a estrutura administrativa, o
+número de atores envolvidos na disputa por uma questão, o grau de institucionalização de uma
+organização e de uma política, a força do presidente, e a ambiguidade de preferências políticas
+dos atores, entre outros (Batista, 2013; 2016; Rudalevige, 2002). Nesse sentido, quanto maior
+o número de atores disputando a política gerando instabilidade política, maior a chance de a
+presidência centralizar a política. Por outro lado, na medida que existem poucos atores
+envolvidos ou menos disputa, maior a chance da política ser descentralizada a algum
+ministério. Ademais, quanto maior a institucionalização, mais difícil uma política ser
+centralizada, sobretudo porque é muito provável que leis e normas já atribuam competências e
+responsabilidades a ministérios ou secretarias, por exemplo. Dessa forma, se ordenamentos
+normativos atribuem responsabilidades a organizações específicas, a presidência não pode
+simplesmente centralizar a política e desrespeitar tais normas. Por outro lado, se a
+institucionalização é frágil, ou seja, se há poucas ou nenhuma lei ou norma sobre competências
+específicas, é mais fácil que a presidência centralize a política para si. Além disso, quanto maior
+a força do presidente, maiores as chances de ele conseguir centralizar uma política. Por outro
+lado, se o acordo formado na coalizão é mais forte, o ministro pode ter mais força em
+determinado campo e, por consequência, ele pode aumentar a chance de uma política ser
+descentralizada. Nesse sentido, a centralização de uma política pode pôr em xeque a coalizão e
+o apoio no Legislativo. Por fim, quando as preferências do presidente sobre uma política pública
+são distintas do ministro, é mais provável que o presidente centralize o policy making e a tomada
+de decisão. Por outro lado, se as preferências do presidente e do ministro forem congruentes, é
+mais provável que haja descentralização. A despeito desse jogo, todos esses fatores e essas
+variações podem também estar sujeitos às lógicas e aos arranjos institucionais de cada área
+setorial. Logo, um policy domain pode abranger elementos próprios dissonantes de outras áreas
+setoriais.
+          Apesar de ministérios e ministros serem variáveis de grande importância no processo
+das políticas públicas (Palotti; Cavalcante, 2018), seja pela capacidade de produção de políticas
+e direcionamentos setoriais, seja pelo controle de informações e capacidades técnicas, é escasso
+o esforço para mapear a atuação da burocracia para influenciar o processo de produção de
+
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.   e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                               7
+             Ministérios e burocracia no processo de produção de políticas públicas: O caso das agendas do setor de energia
+
+
+
+
+políticas. As pesquisas têm focalizado os critérios para a nomeação de burocratas (Borges;
+Coelho, 2015; Lima, 2020; D’áraujo; Petek, 2018; D’áraujo, 2009; Lopez; Bugarin; Bugarin,
+2013; Lopez; Silva, 2019) e de ministros (Palotti; Cavalcanti; 2018; 2019; D’áraujo; Lameirão,
+2009), mas pouco exploram as atuações da burocracia e seu envolvimento na formação da
+agenda das políticas públicas (Duarte; Lino, 2022; Duarte, 2021).
+          O controle de informações pela burocracia tem sido o principal aspecto evidenciado
+pelos pesquisadores que analisam os ministérios na formação da agenda legislativa do
+Executivo no contexto do presidencialismo de coalizão (Batista, 2013). Tal aspecto, inclusive,
+aparece com frequência nos estudos sobre formação da agenda das políticas públicas
+(Workman; Jones; Jochin, 2009). Porém, para além do poder de informação, a burocracia
+precisa ser analisada como ator auto interessado, defensor de perspectivas próprias sobre as
+políticas públicas. Esse aspecto tem aparecido nos estudos sobre o alto escalão ministerial e em
+agências burocráticas mais insuladas, como é o caso do setor macroeconômico brasileiro
+(Loureiro; Abrucio; Rosa, 1998; Olivieri, 2007).
+          Convergente ao argumento da burocracia com interesses próprios, Abers (2015; 2019)
+demonstra a existência de ativismo institucional. Para a autora, a burocracia tem prioridades,
+ideologias e concepções sobre políticas públicas que não necessariamente encontram respaldo
+no governo. Ligada a movimentos sociais ou não, a burocracia atua no contexto ministerial de
+forma a defender pautas específicas no processo de formulação e implementação de políticas
+públicas (Abers, 2015). A área de meio ambiente é marcante nos estudos da autora, que
+demonstra que burocratas são defensores de pautas ambientalistas no contexto do Ministério de
+Meio Ambiente (Abers, 2019). A existência de ativismo pela burocracia é encontrada inclusive
+em várias áreas e ministérios setoriais (Abers, 2021).
+          Na literatura, essa mobilização do auto interesse tem enfocado principalmente o
+processo de formulação de alternativas e implementação de políticas, em diálogo com a
+literatura sobre a relação entre política e burocracia (Duarte; Lino, 2022). Sobretudo porque a
+literatura de política, por meio da perspectiva do ciclo de políticas públicas, foi desenvolvida
+com certa convergência sobre o argumento dicotômico da separação entre política e burocracia
+(Duarte; Lino, 2022). Nessa perspectiva, os políticos eram responsáveis pela formação da
+agenda, pela formulação e pela tomada de decisão, ao passo que aos burocratas restava a
+implementação e a avaliação e o monitoramento das políticas (Duarte; Bizelli, 2022). Tal
+paradigma é rompido pelas concepções de burocratização da política e politização da burocracia
+(Abercach; Putnam; Rockman, 1981), pela influência dos burocratas na formulação e na tomada
+
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                             e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                         8
+                                                        Cristiano Parra DUARTE
+
+
+
+
+de decisão (Loureiro; Abrucio; Rosa, 1998; Olivieri, 2007) e pela atuação política dos
+burocratas implementadores (Lipsky, 1980; Lotta, 2019).
+          Nessa direção, Workman (2015) mostra que, na verdade, a burocracia tem também um
+papel que é menos visível que a formulação de alternativas: a definição de problemas. Para o
+autor, os burocratas atuam diretamente na definição daquilo que o governo deve ou não fazer
+através de identificar, definir e apresentar aos políticos o que é prioritário. Dessa forma, ao
+definir o que é o problema, a burocracia traça causa e efeito sobre fenômenos políticos, sociais
+e econômicos que chamam a atenção governamental. Além disso, a definição de problema
+também molda as possibilidades para a formulação de alternativas. Logo, a burocracia tem um
+papel expressivo na formação das agendas.
+          Somado a esses aspectos, reafirma-se que a burocracia goza de destaque no Estado
+enquanto fonte de informações para subsidiar o processo de tomada de decisão. Workman
+(2015) ainda mostra que, nos Estados Unidos, a burocracia3 constitui-se como primeira opção
+de consulta pelos políticos eleitos, sobretudo em contextos de crises e impasses sobre políticas
+públicas. Ou seja, quanto maior o grau de ambiguidade no contexto decisional, mais provável
+que os dirigentes eleitos chamem burocratas para informá-los. A burocracia, nesse sentido, é
+considerada como uma autoridade técnica, respeitada por políticos.
+          Considerando que a burocracia é uma importante fonte de informação no processo de
+políticas públicas, Koga et al. (2021) analisam o que tem informado os burocratas e as
+organizações públicas brasileiras a nível federal. Os autores demonstram que as fontes de
+informação variam tanto com relação às atribuições4 da burocracia como também em áreas
+setoriais distintas. Dessa forma, reafirma-se que as políticas setoriais têm arranjos próprios e
+que o processo de produção de políticas públicas precisa analisar a burocracia com mais
+atenção, sobretudo porque burocratas têm comportamentos distintos a depender da política
+pública em tela, logo não se trata de uma variável estável.
+          Outro fator que tem dado novas camadas às informações da burocracia tem relação com
+a perspectiva das Políticas Públicas Baseadas em Evidências (Koga et al., 2021). O caráter
+científico tem ganhado relevo na produção de políticas públicas, obrigando formuladores a
+adotar maior rigor em suas justificativas na proposição de políticas. A burocracia, por
+
+3
+  O estudo de Workman (2015) analisa o contexto dos Estados Unidos e gera uma série de indagações para pensar
+o contexto brasileiro. As evidências demonstradas pelo autor podem corroborar o estudo das burocracias no Brasil,
+sobretudo nos ministérios a nível federal. Apesar dos achados de Workman, faz-se uma ressalva quanto às
+limitações de generalização ao contexto do estudo a fim de não incorrer em falácia ecológica.
+4
+  Burocratas possuem atribuições relacionais, analíticas, gerenciais e administrativas. Ver mais em Koga et al.
+(2021).
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.         e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                     9
+             Ministérios e burocracia no processo de produção de políticas públicas: O caso das agendas do setor de energia
+
+
+
+
+conseguinte, tem papel de destaque nesse movimento pela seriedade com que produz dados,
+como também sobre a forma com que analisa e comunica tais evidências. Por outro lado, essa
+corrente ideacional tem pressionado a incorporação dos chamados atores técnicos como
+também de conselheiros científicos (Jasanoff, 1998), que podem ser externos ao Estado e ao
+governo. Esses atores, por conseguinte, rivalizam o protagonismo da fonte de informação de
+forma a complexificar o processo de produção de políticas públicas.
+          Em síntese, esta seção levou a cabo o objetivo de definir a importância dos ministérios
+e da burocracia no processo de produção de políticas públicas. O presidencialismo de coalizão
+e a delegação de poder ao ministro se mostra relevante, sobretudo com relação ao controle de
+informações e da burocracia. Os burocratas, por sua vez, podem agir descolados da lógica e da
+agenda tanto do ministro quanto do presidente. Esses aspectos serão aplicados com relação ao
+setor de energia, de forma a entender se o Ministério de Minas e Energia tem prioridades
+distintas da agenda legislativa da presidência e do Congresso. A próxima seção apresenta o
+desenho de pesquisa e as escolhas metodológicas para encontrar respostas.
+
+
+
+Metodologia
+
+          Este estudo de caso qualitativo analisa legislações e normativas produzidos a nível
+federal, de 1995 a 2014, sobre o setor de energia por três grupos distintos: (i) presidência; (ii)
+Legislativo; e (iii) administração setorial – que compreende o Ministério de Minas e Energia, a
+Agência Nacional de Energia Elétrica, a Agência Nacional do Petróleo, Gás Natural e
+Biocombustíveis, Conselho Nacional de Política Energética e a Empresa de Pesquisa
+Energética. É por meio das legislações e normativas que as agendas são mapeadas a fim de
+serem contrastadas entre si. O banco de dados é composto por: Decretos do Executivo; Medidas
+Provisórias; Portarias do Ministério de Minas e Energia; Portarias Conjuntas do Ministério de
+Minas e Energia; Leis Ordinárias; Decretos Legislativos; Resoluções do Conselho Nacional de
+Política Energética; Portarias e Resoluções da Agência Nacional de Energia Elétrica e da
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis; e Notas Técnicas da Empresa
+de Pesquisa Energética.
+          Todas as legislações e normativas são codificadas por meio de análise de conteúdo
+(Bardin, 1977) tendo como unidade de análise as ementas de cada espécie normativa. A
+codificação segue o livro de códigos do Comparative Agendas Project – CAP (2022), que
+possibilita a identificação das áreas setoriais substantivas (códigos) e as áreas específicas da
+
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                             e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                        10
+                                                        Cristiano Parra DUARTE
+
+
+
+
+política setorial (subcódigo). Conforme é apresentado no Quadro 1, o livro de códigos utilizado
+é composto por 21 códigos. Para este trabalho, foram utilizadas todas as legislações e
+normativas codificadas no código 8, referente ao setor de energia. Essas legislações passaram
+por um segundo nível de codificação a fim de delimitar a área setorial de energia de forma a
+enfocar aspectos mais detalhados das agendas. Ao todo, são utilizadas mais de 15 mil
+legislações e normativas codificadas no código 8.
+
+
+             Quadro 1 - Livro de códigos e subcódigos utilizados na análise de conteúdo
+
+    Código – Política Setorial                               Subcódigo – política setorial de energia
+    1 - Macroeconomia                                        800 – Geral
+    2 - Direitos Civis, Políticos, Liberdades e Minorias     801 – Energia Nuclear
+    3 - Saúde                                                802 – Eletricidade e Hidrelétricas
+    4 - Agricultura, Pecuária e Pesca                        803 – Gás e Petróleo
+    5 - Trabalho, Emprego e Previdência                      805 – Minas, Carvão e Termelétricas
+    6 - Educação                                             806 – Etanol, Energias Renováveis e Alternativas
+    7 - Meio Ambiente                                        807 – Controle e Eficiência Energética
+    8 - Energia                                              898 – Pesquisa e Desenvolvimento
+    9 - Imigração e Refugiados                               899 - Outro
+    10 - Transportes
+    12 - Judiciário, Justiça, Crimes e Violência
+    13 - Política Social
+    14 - Habitação, Infraestrutura e Reforma Agrária
+    15 - Sistema Bancário, Instituições Financeiras e Comércio Interno
+    16 - Defesa, Forças Armadas, Militares e Guerra
+    17 - Ciência, Tecnologia e Comunicações
+    18 - Comércio Exterior
+    19 - Relações Exteriores
+    20 - Governo e Administração Pública
+    21 - Território e Recursos Naturais
+    23 - Cultura, Esporte e Lazer
+Fonte: Comparative Agendas Project - CAP (2022)
+
+           A partir do processo de codificação5, são apresentados gráficos de análise de frequência,
+que ilustram as diferentes produções legislativas a partir das áreas setoriais de energia
+(subcódigos) ao longo dos vinte anos da análise (1995-2014). Além da análise de frequência,
+apresenta-se uma descrição exaustiva sobre o conteúdo substantivo das legislações codificadas
+(subcódigos), de forma a detalhar congruências e divergências para, dessa forma, identificar
+
+
+5
+ O processo de codificação é realizado por dois codificadores diferentes. Em caso de divergência na codificação,
+o documento é analisado por um terceiro codificador a fim de sanar a questão e garantir confiabilidade do processo.
+Dessa forma, garante-se os princípios de exclusividade, objetividade, fidelidade e replicabilidade na análise de
+conteúdo.
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.           e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                      11
+             Ministérios e burocracia no processo de produção de políticas públicas: O caso das agendas do setor de energia
+
+
+
+
+agendas distintas entre Executivo e Legislativo e dentro do próprio Executivo, entre presidência
+e Ministério de Minas e Energia que gerencia a administração setorial.
+
+
+
+As agendas do setor de energia
+
+          Conforme apontado anteriormente, a divisão de poder do Executivo federal no
+presidencialismo brasileiro ocorre, dentre outas formas, por meio da distribuição de ministérios
+para os partidos que compõem a coalizão (Limongi; Figueiredo, 1998; Batista, 2013; Inácio;
+Rezende, 2015). Como este trabalho analisa o caso do setor de energia, é fundamental
+identificar quais partidos ocupam a chefia do ministério a fim de entender sob qual dinâmica o
+MME opera.
+          O Quadro 2, nesse sentido, apresenta todos os ministros do Ministério de Minas e
+Energia em todo o período democrático recente (1985-2022), bem como os partidos à frente da
+pasta e o período que a gestão do ministro durou. Conforme pode ser observado, o MME é um
+ministério com alta rotatividade: ocuparam, em trinte e quatro anos de governo democrático,
+vinte ministros diferentes; e onze ministros no recorte do presente estudo (1995-2014). Além
+disso, nota-se que na maior parte do período, o MME é chefiado por ministros não filiados ao
+partido do presidente. Vê-se maior ocorrência de ministros do DEM e do MDB (dentro da
+coalizão e, em menor medida, como partido no governo), ainda que os não filiados sejam
+parcela relevante. Tais dados corroboram o argumento de que a entrega de um ministério a
+partidos da coalizão pode gerar instabilidade política na implementação da agenda do presidente
+e, por consequência, dificuldade de manutenção de uma agenda setorial coesa (Araújo; Costa;
+Fittipaldi, 2016; Palotti; Cavalcante, 2018).
+
+                         Quadro 2 - Ministros do MME e seus partidos (1985-2022)
+
+                                                                                               Partido                Período da
+             Presidente                                 Ministro MME
+                                                                                               Ministro                 gestão
+                                                      Aureliano Chaves                          DEM                   1985-1988
+       José Sarney (PMDB)
+                                                  Vicente Cavalcante Filho                       n/i                  1989-1990
+    Fernando Collor de Mello                          Patrini de Moraes                          n/i                  1992-1992
+             (PRN)                             Paulino Cícero de Vasconcelos                    PSDB                  1992-1993
+      Itamar Franco (PRN)                            Alexis Stepanenco                           n/i                  1994-1994
+                                                Raimundo Mendes de Brito                         PT                   1995-1998
+   Fernando Henrique Cardoso                       Rodolfo Tourinho Neto                        DEM                   1999-2001
+            (PSDB)                                        José Jorge                            DEM                   2001-2002
+                                                 Francisco L. Sibut Gomide                       n/i                  2002-2002
+                                                    Dilma Vana Rousseff                          PT                   2003-2005
+ Luiz Inácio Lula da Silva (PT)                    Silas Rondeau C. Silva                        n/i                  2005-2007
+                                                        Edison Lobão                          DEM; MDB                2008-2010
+
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                             e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                        12
+                                                        Cristiano Parra DUARTE
+
+
+
+
+                                               Marcio Pereira Zimmermann                      n/i     2010-2010
+                                                      Edison Lobão                           MDB      2011-2014
+    Dilma Vana Rousseff (PT)                          Eduardo Braga                          MDB      2015-2016
+                                              Marco Antonio Martins Almeida                   n/i     2016-2016
+                                                  Fernando Coelho Filho                    MDB; DEM   2016-2018
+      Michel Temer (MDB)
+                                                     Moreira Franco                          MDB      2018-2018
+                                                Bento Costa Lima Leite de
+                                                                                              n/i     2019-2022
+     Jair Bolsonaro (PSL/PL)                       Albuquerque Junior
+                                                     Adolfo Sachsida                         DEM      2022-2022
+Nota: n/i = filiação partidária não identificada no período que ocupava o cargo. Nota: existem ministros
+que alteraram a filiação partidária no exercício do cargo, por isso aparecem duas legendas.
+Fonte: Elaboração própria
+
+          Considerando a rotatividade expressiva do MME e que geralmente o ministério é gerido
+por partidos da coalizão e não filiados ao partido do presidente, ficam questionamentos sobre a
+produção legislativa do setor de energia e sobre o que em específico ganha atenção ao longo do
+tempo. A Figura 1 condensa as análises de frequência das legislações e normativas aprovadas
+de 1995 a 2014. O recurso utilizado ilustra as variações da atenção sobre temáticas específicas
+de forma a gerar retratos ano a ano daquilo que foi alvo de produção legislativa e normativa.
+Conforme destaca Duarte (2021), a produção de legislações, sobretudo em Leis Ordinárias, tem
+correlações baixas em quase todos os subcódigos. Quando existe correlação média, a associação
+é feita entre as leis e as normativas produzidas pela administração setorial. Dessa forma,
+imprime-se a percepção de que a agenda setorial move a aprovação de leis no Congresso
+Nacional. Além disso, fica claro nos gráficos apresentados que a aprovação legislativa pelo
+Legislativo Federal enfoca áreas setoriais distintas das temáticas focalizadas pelos recursos
+legislativos da presidência. Dessa forma, aponta-se, de um lado, um afastamento das prioridades
+do Congresso da agenda legislativa do presidente e, por outro lado, um indicativo sobre um
+insulamento do setor, dado que a produção normativa é mais expressiva quando a origem advém
+do Executivo, principalmente da administração setorial.
+          Conforme pode ser visto, o Congresso atua sobre questões gerais na maior parte do
+tempo (subcódigo 800). Detalhadamente, o caráter genérico da agenda sobre o setor de energia
+no Legislativo Federal brasileiro passa a maior parte do tempo aprovando alterações sobre o
+orçamento do MME e de estatais e agências sob a responsabilidade ministerial. Além disso, a
+segunda área setorial que mais focaliza atenção do Congresso Nacional diz respeito às temáticas
+do petróleo e do gás natural (subcódigo 803). No entanto, a maior parte dessas legislações
+referem-se à promulgação de medidas relativas à reforma do setor do petróleo no período
+Cardoso, de ajustes a essas medidas nos anos petistas e a incrementos na estrutura
+organizacional e orçamentária da Petrobras e de outra estatais do setor. Em menor medida, o
+Congresso atuou de forma mais enfática somente na questão do pré-sal, sobretudo na
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.              e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                         13
+             Ministérios e burocracia no processo de produção de políticas públicas: O caso das agendas do setor de energia
+
+
+
+
+distribuição dos royalties e na criação do fundo social. Em Decretos Legislativos, resguardadas
+as limitações dessa espécie normativa, o Congresso aprovou somente medidas de infraestrutura
+propostas pelo Executivo. Dessa forma, podemos ver, a partir da descrição das legislações, que
+o setor de energia ascende à agenda do Congresso principalmente por acionamento do
+Executivo para aprovar legislações de seu interesse. São poucos os momentos em que o
+Legislativo Federal focaliza o setor de energia sem que seja para aprovar a agenda legislativa
+do presidente.
+          Quando analisamos as prioridades do Executivo Federal, entre presidência e
+administração setorial, notamos que as temáticas da produção legislativa são diversificadas ao
+longo do tempo. Em Decretos do Executivo, eletricidade e hidrelétricas (subcódigo 802) é a
+temática que mais focaliza a atenção. No entanto, o objeto de atenção dos decretos é distinto
+nos vinte anos de análise. Nas gestões Cardoso, essa espécie normativa é utilizada sobretudo
+no marco da reforma do Estado e na alteração da lógica de gestão do setor elétrico, sobretudo
+com relação às concessões e à expansão do sistema de transmissão e distribuição e à criação da
+ANEEL e das alterações do marco institucional que a agência representa. Além disso, Cardoso
+utiliza de decretos para remediar a crise elétrica e tentar solucionar os notórios apagões que
+ocorrem sobretudo no final do seu segundo mandato, principalmente com medidas de
+racionamento e redução de consumo e à expansão de geração e transmissão emergenciais. A
+questão do petróleo, na administração Cardoso, também versa sobre as mudanças institucionais
+do setor, sobretudo direcionado à quebra do monopólio da Petrobras e ao novo modelo setorial
+implantado. Já nos governos do PT, o setor se mantém entre as prioridades com relação à
+contrarreforma6 do setor elétrico, à criação do Luz para Todos (e de todo o aparado estatal
+necessário para sua implementação) na direção da universalização de acesso à energia, e sobre
+obras de infraestrutura de hidrelétricas de diferentes dimensões. Com relação ao setor de
+petróleo e gás natural, os decretos incidem sobre o fortalecimento do mercado nacional,
+sobretudo com respeito às tarifas do recurso e sobre o pré-sal. Energias renováveis, por sua vez,
+são mais presentes nos governos petistas, versando sobretudo os biocombustíveis e as pequenas
+centrais hidrelétricas.
+          Com relação às Medidas Provisórias, nota-se que essa espécie de normativa presidencial
+não foi utilizada em todo o período analisado, ficando de fora em 2005 e 2010. Além disso, as
+
+
+
+6
+ A contrarreforma pode ser entendida como a recuperação da capacidade estatal no planejamento e na formulação
+das políticas energéticas, sobretudo pela retomada da ação pelo MME (Mercedes; Ricco; Pozzo, 2015; Duarte,
+2021).
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                             e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                        14
+                                                         Cristiano Parra DUARTE
+
+
+
+
+Medidas Provisórias são menos utilizadas do que Decretos pelo presidente e a maior parte delas
+é utilizada nas gestões Cardoso. Seu uso ocorre geralmente relacionado ao marco de alterações
+institucionais do setor no marco da Reforma do Estado. Os governos petistas, editando menos
+Medidas Provisórias, focalizam sobretudo ajustes no sistema elétrico, no contexto da
+contrarreforma setorial, e direcionamentos do Programa de Aceleração do Crescimento.
+
+
+Figura 1 - Análise de frequência de legislações e normativas do setor de energia (1995-2014)
+
+                               DECRETOS DO EXECUTIVO                                                                 MEDIDAS PROVISÓRIAS
+
+                100%                                                                          1
+
+                  80%                                                                    0,8
+
+                  60%                                                                    0,6
+     Atenção
+
+
+
+
+                                                                              Atenção
+                  40%                                                                    0,4
+
+                  20%                                                                    0,2
+
+                     0%                                                                       0
+                               1998
+
+
+
+
+                               2005
+
+
+
+
+                               2012
+                               1995
+                               1996
+                               1997
+
+                               1999
+                               2000
+                               2001
+                               2002
+                               2003
+                               2004
+
+                               2006
+                               2007
+                               2008
+                               2009
+                               2010
+                               2011
+
+                               2013
+                               2014
+
+
+
+
+                                                                                                      2000
+                                                                                                      1995
+                                                                                                      1996
+                                                                                                      1997
+                                                                                                      1998
+                                                                                                      1999
+
+                                                                                                      2001
+                                                                                                      2002
+                                                                                                      2003
+                                                                                                      2004
+                                                                                                      2005
+                                                                                                      2006
+                                                                                                      2007
+                                                                                                      2008
+                                                                                                      2009
+                                                                                                      2010
+                                                                                                      2011
+                                                                                                      2012
+                                                                                                      2013
+                                                                                                      2014
+                                            Ano                                                                                                         Ano
+
+
+
+                                  PORTARIAS DO MME                                                    PORTARIAS INTERMINISTERIAIS MME
+
+                          1                                                                       1
+
+                         0,8                                                                  0,8
+
+                         0,6                                                                  0,6
+                                                                                    Atenção
+          Aenção
+
+
+
+
+                         0,4                                                                  0,4
+
+                         0,2                                                                  0,2
+
+                          0                                                                       0
+
+                                                                                                                                                                                   2010
+                               1997
+                               1998
+                               1999
+                               2000
+                               2001
+                               2002
+                               2003
+                               2004
+                               2005
+                               2006
+                               2007
+                               2008
+                               2009
+                               2010
+                               2011
+                               2012
+                               2013
+                               2014
+
+
+
+
+                                                                                                      1999
+                                                                                                             2000
+                                                                                                                    2001
+                                                                                                                           2002
+                                                                                                                                  2003
+                                                                                                                                         2004
+                                                                                                                                                2005
+                                                                                                                                                       2006
+                                                                                                                                                              2007
+                                                                                                                                                                     2008
+                                                                                                                                                                            2009
+
+
+                                                                                                                                                                                          2011
+                                                                                                                                                                                                 2012
+                                                                                                                                                                                                        2013
+                                                                                                                                                                                                               2014
+                                            Ano                                                                                                         Ano
+
+
+
+                                  RESOLUÇÕES CNPE                                                                           LEIS ORDINÁRIAS
+
+                           1                                                                  1
+
+                         0,8                                                              0,8
+
+                         0,6                                                              0,6
+               Atenção
+
+
+
+
+                                                                               Atenção
+
+
+
+
+                         0,4                                                              0,4
+                         0,2                                                              0,2
+                           0                                                                  0
+                                                                                                      2007
+                                                                                                      1995
+                                                                                                      1996
+                                                                                                      1997
+                                                                                                      1998
+                                                                                                      1999
+                                                                                                      2000
+                                                                                                      2001
+                                                                                                      2002
+                                                                                                      2003
+                                                                                                      2004
+                                                                                                      2005
+                                                                                                      2006
+
+                                                                                                      2008
+                                                                                                      2009
+                                                                                                      2010
+                                                                                                      2011
+                                                                                                      2012
+                                                                                                      2013
+                                                                                                      2014
+
+
+
+
+                                            Ano                                                                                                         Ano
+
+
+
+                               DECRETOS DO LEGISLATIVO                                                 PORTARIAS E RESOLUÇÕES ANEEL
+
+                          1                                                          100%
+                         0,8                                                            80%
+                         0,6
+                                                                          Atenção
+           Atenção
+
+
+
+
+                                                                                        60%
+                         0,4                                                            40%
+                         0,2                                                            20%
+                          0                                                               0%
+                                                                                                      2007
+                                                                                                      1997
+                                                                                                      1998
+                                                                                                      1999
+                                                                                                      2000
+                                                                                                      2001
+                                                                                                      2002
+                                                                                                      2003
+                                                                                                      2004
+                                                                                                      2005
+                                                                                                      2006
+
+                                                                                                      2008
+                                                                                                      2009
+                                                                                                      2010
+                                                                                                      2011
+                                                                                                      2012
+                                                                                                      2013
+                                                                                                      2014
+                               2010
+                               1997
+                               1998
+                               1999
+                               2000
+                               2001
+                               2002
+                               2003
+                               2004
+                               2005
+                               2006
+                               2007
+                               2008
+                               2009
+
+                               2011
+                               2012
+                               2013
+                               2014
+
+
+
+
+                                            Ano                                                                                                           Ano
+
+
+
+
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                                                                                                  e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                                                                                             15
+                   Ministérios e burocracia no processo de produção de políticas públicas: O caso das agendas do setor de energia
+
+
+
+
+                         PORTARIAS E RESOLUÇÕES ANP                                                     NOTAS TÉCNICAS EPE
+
+                  100%                                                                     100%
+                   80%                                                                     80%
+        Atenção
+
+                   60%                                                                     60%
+
+
+
+
+                                                                                 Atenção
+                   40%
+                                                                                           40%
+                   20%
+                    0%                                                                     20%
+                         1998
+                         1999
+                         2000
+                         2001
+                         2002
+                         2003
+                         2004
+                         2005
+                         2006
+                         2007
+                         2008
+                         2009
+                         2010
+                         2011
+                         2012
+                         2013
+                         2014
+                                                                                            0%
+                                                                                                  2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+                                                 Ano                                                                       Ano
+                  800    801   802   803   805     806   807   898   899                    800   801    802   803   805     806   807   898   899
+
+
+
+
+Fonte: Adaptado de Duarte (2021)
+
+             A administração setorial, por outro lado, demonstra um comportamento diferente. Como
+pode ser visto nas portarias editadas pelo Ministério de Minas e Energia, as prioridades não se
+referem às hidrelétricas em todo o período. Na verdade, fontes alternativas ganham maior
+espaço na agenda ministerial, se sobressaindo quando comparamos com os direcionamentos
+das produções legislativas do presidente e, ainda mais, nas leis aprovadas no período pelo
+Congresso Nacional. O MME, nas gestões Cardoso, segue a edição de portarias relacionadas à
+reforma setorial. Nos governos petistas, por outro lado, observamos um comportamento
+diferente. Nesse contexto, a capacidade ministerial é expandida e as prioridades do MME
+passam a ser a diversificação da matriz energética brasileira. Para além de medidas sobre os
+programas de infraestrutura e a universalização do acesso à eletricidade, o ministério passa a
+priorizar energias renováveis e alternativas.
+             Nas Portarias Interministeriais editadas conjuntamente com o Ministério de Minas e
+Energia, a tendência é a manutenção das prioridades do presidente, ainda que as temáticas mais
+tratadas sejam distintas. Em Cardoso, o setor de petróleo e gás natural é preponderante, sendo
+as normativas direcionadas para tarifas e preços. Durante os governos petistas, as portarias são
+voltadas em maior medida para o setor elétrico, sobretudo relativo à infraestrutura e ao preço
+da energia elétrica. Além disso, o período também assiste uma importante ampliação da atenção
+sobre eficiência energética, pauta que demanda ação conjunta de uma porção de ministérios.
+             O comportamento é um pouco distinto quando observamos as resoluções do Conselho
+Nacional de Política Energética. Com exceção do período Cardoso em que o CNPE teve a crise
+elétrica como prioridade, seguindo a ação do governo, os demais anos seguem com o conselho
+tendo capacidades de produzir normativas incidentes às variadas setorialidades da área de
+energia. Observam-se resoluções para grandes obras de infraestrutura, para taxas e preços de
+energia elétrica, combustíveis, gás natural, biodiesel, questões relacionadas ao pré-sal, a
+tratados de energia com países vizinhos, entre outros. Dessa forma, o conselho setorial
+
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                                                 e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                                            16
+                                                        Cristiano Parra DUARTE
+
+
+
+
+demonstra ter uma maior capacidade para gerir a área setorial em direções diferentes da agenda
+legislativa do presidente, sobretudo porque o CNPE é presidido pelo MME. Além disso, o
+conselho ainda conta, para além de outros ministros de Estado, de representantes da sociedade
+civil, de estados e distrito federal e de universidades brasileiras. Os ocupantes dessas cadeiras
+são reconhecidamente pessoas com importantes saberes na área setorial, corroborando a ação
+do conselho.
+          A administração setorial ainda conta com a ANEEL e a ANP, agências reguladoras que
+operam com autonomia, mas que são vinculadas ao MME. Agências reguladoras concentram
+burocracias especializadas em áreas setoriais e têm sido analisadas como organizações com
+agendas próprias (Majone, 1999). Dessa forma, é fundamental mapear a produção de
+normativas produzidas por elas a fim de identificar convergência ou divergência com o MME
+e/ou a presidência.
+          Quando se analisa a produção de portarias e resoluções da ANEEL, nota-se uma alta
+produção de normativas incidentes sobre o setor elétrico distribuída em sua maior parte entre
+hidrelétricas, termelétricas e fontes renováveis. Tal comportamento é evidenciado no nível de
+agregação codificado nos subcódigos. Duarte (2021) aprofundou a codificação para um terceiro
+nível a fim de identificar aspectos mais detalhados das setorialidades. Os achados mostram que
+a agência reguladora tem uma importante mudança na produção normativa na área de
+hidrelétricas, uma vez que a atuação sobre pequenas hidrelétricas passa a ser mais expressiva
+quando comparada às grandes usinas hidrelétricas. Além disso, fica marcado o aumento da
+produção normativa de incentivo às fontes renováveis, sobretudo a eólica. Esse comportamento
+da agência sinaliza, de um lado, a reafirmação de uma agenda própria e, de outro lado,
+convergência com a crescente priorização das energias renováveis e alternativas que cresceram
+na agenda legislativa do MME. Dessa forma, desponta indicativos sobre a associação entre
+ambas as organizações.
+          A ANP apresenta um comportamento similar na produção de normativas. Nos anos
+Cardoso, a agência volta sua atenção para a estruturação regulatória do setor após a reforma do
+Estado e a alteração do arranjo institucional do setor. Nos anos petistas, cresce a participação
+das portarias e resoluções que versam sobre combustíveis renováveis. Se em Cardoso a baixa
+atenção era relativa ao etanol, os anos seguintes esboçam acréscimo relevante sobre o
+combustível, mas passa a priorizar com mais ênfase o biodiesel, sobretudo após o marco do
+Programa Nacional de Produção e Uso do Biodiesel, criado em 2004.
+
+
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.   e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                              17
+             Ministérios e burocracia no processo de produção de políticas públicas: O caso das agendas do setor de energia
+
+
+
+
+          Outra organização fundamental em torno da área de energia é a Empresa de Pesquisa
+Energética. Criada em 2004, a estatal é concebida como uma alternativa para resgatar o
+protagonismo estatal no planejamento do setor de energia, representando inclusive um marco
+no processo de mudança da agenda e da gestão do setor (Duarte, 2021). Ao lado das agências
+já existentes e da própria burocracia do MME, a EPE é pensada para subsidiar a tomada de
+decisão do Executivo através da realização de estudos técnicos e planejamentos de médio e
+longo prazo sobre o setor. Para além desses materiais, a estatal também produz notas técnicas
+que dão direcionamentos importantes no gerenciamento setorial. Analisando especificamente
+essas normativas, a grande maioria das notas técnicas versam sobre a diversificação da matriz
+energética brasileira enfocando principalmente as fontes renováveis e alternativas. Dessa forma,
+a agenda da organização criada especificamente para a produção de informações a subsidiarem
+a tomada de decisão no setor segue um mesmo direcionamento: as fontes renováveis.
+          Conforme visto tanto nas análises de frequência quanto na descrição do conteúdo
+substantivo das legislações e normativas, demarcam-se diferenças relevantes na agenda
+legislativa do presidente, nas leis aprovadas pelo Congresso e em normativas produzidas pelas
+organizações que compõem a administração setorial. A tendência, nesse sentido, aponta para a
+existência de uma agenda setorial que aparenta ser descolada das prioridades do presidente e,
+sobretudo, dos parlamentares. Talvez por isso a literatura esteja apontando para um setor com
+consideráveis problemas em processos decisórios (Gomide; Pereira, 2018). Isso demonstra, no
+limite, um relativo insulamento setorial formado por um arranjo organizacional que administra
+uma pasta com certa autonomia e com uma agenda própria. Os dados sugerem que esse é um
+processo recente, aparecendo principalmente nos anos das gestões do PT. As administrações
+Cardoso mantêm convergência na produção de legislações e normativas.
+          Conforme apontado na literatura, esse é um fenômeno já esperado no contexto do
+presidencialismo de coalizão brasileiro (Palotti; Cavalcante, 2018; Batista, 2013, 2016; Inácio;
+Rezende, 2015), sobretudo porque o Ministério de Minas e Energia geralmente é chefiado por
+alguém externo ao partido do presidente. É o que explica, por exemplo, programas de relevo
+estarem vinculados ao gabinete da Casa Civil ou a comitês gestores e não ao ministério
+especificamente, como é o caso do Luz para Todos, por exemplo (Duarte, 2021). Apesar disso,
+destacam-se três informações relevantes observadas a partir dos dados analisados. A primeira
+delas diz respeito ao fato de que, pela pasta ter ministros sem filiação ao partido do presidente,
+há uma alta rotatividade. Tal rotatividade é observada em todo o período analisado. A segunda
+delas relaciona-se à tendência de uma formação de agenda própria da administração setorial
+
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                             e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                        18
+                                                        Cristiano Parra DUARTE
+
+
+
+
+que tem relativa estabilidade apesar da rotatividade do ministro. A terceira delas diz respeito a
+não existência do fenômeno em todo o tempo. Ou seja, apesar da alta rotatividade de ministros
+que em sua maioria não são filiados ao partido do presidente, a formação de uma agenda própria
+não é observada nas gestões Cardoso.
+          O que explicaria tal processo? A hipótese aqui planteada sugere que a formação de uma
+agenda própria na administração setorial ocorre em decorrência das prioridades da própria
+burocracia do setor de energia. O argumento se ancora nos dados produzidos por Cavalcante,
+Camões e Knop (2015) que defendem que a burocracia de médio escalão do setor de
+infraestrutura como um todo7 são os que mais têm formação superior, advém com frequência
+do quadro de carreiras do Estado tendo como maior tempo de experiência o setor privado.
+Batista e Lopez (2021), analisando especificamente o alto escalão das burocracias ministeriais,
+apontam que o setor de infraestrutura é altamente ligado a interesses partidários e tem
+indicações politizadas. Dessa forma, o perfil da própria burocracia é diverso e segue lógicas
+que podem ser conflitantes. Apesar disso, Koga et al. (2021) lança luz sobre as fontes de
+informação utilizadas pelas burocracias federais brasileiras. Sobre o setor de infraestrutura, o
+que os autores apontam é que essa área busca informações sobretudo em contextos externos ao
+governo e ao Estado. Sendo assim, reforça-se o argumento de que, apesar de altamente técnica
+e com formação educacional de relevo, a burocracia da área de infraestrutura tem importantes
+redes com setores distintos da máquina estatal e é dessas relações que derivam maior parte das
+informações que subsidiam sua atuação.
+          Esse dado levantado por Koga et al. (2021) é importante para pensar o caso do setor de
+energia, sobretudo porque a relação com agentes externos ao Estado ligada à burocracia setorial
+pode estar relacionada à formação de uma agenda autônoma. Os achados sobre o Ministério de
+Meio Ambiente analisado por Abers (2015) são importantes para se fazer um paralelo com o
+caso do Ministério de Minas e Energia, sobretudo porque o setor de energia tem uma importante
+congruência com a pasta do meio ambiente. Abers (2015) demonstra que a burocracia do
+Ministério do Meio Ambiente realiza ativismo dentro do ministério para priorizar pautas
+ambientalista. Ademais, o contexto temporal apresentado por Abers (2015) é inclusive similar
+ao analisado por este estudo. Considerando que a agenda que parece estar se formando no
+âmbito da administração setorial de energia tem priorizado as questões relativas às fontes
+
+
+
+7
+ O setor de infraestrutura, que congrega as áreas de energia, transporte, habitação e saneamento, foi unificado
+para a pesquisa do perfil da burocracia tanto em Cavalcante, Camões e Knop (2015), Batista e Lopez (2021) quanto
+na pesquisa sobre a fontes de informação da burocracia federal de Koga et al. (2021).
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.        e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                   19
+             Ministérios e burocracia no processo de produção de políticas públicas: O caso das agendas do setor de energia
+
+
+
+
+renováveis e alternativas, não estaríamos de frente com um caso similar, tendo em vista que as
+fontes limpas carregam pautas ambientalistas? Essa é uma hipótese a ser testada futuramente a
+partir de outros dados e evidências e outras estratégias metodológicas.
+          A posição defendida por esse trabalho, após as análises de frequência e pela análise
+descritiva das legislações e normativas aprovadas, é a de que existe um indicativo de que parece
+existir uma agenda da administração setorial que é implementada com certa autonomia da
+presidência e do Congresso Nacional. A partir da análise à luz da literatura sobre poder no
+Executivo e burocracia no processo de produção de políticas públicas no contexto brasileiro,
+postula-se a hipótese de que essa agenda pode ser oriunda da burocracia setorial, que tem
+priorizado a diversificação da matriz energética brasileira prezando pelas fontes renováveis e
+alternativas.
+
+
+Considerações finais
+
+          Os arranjos institucionais e organizacionais do setor de energia suscitam a necessidade
+de analisar o processo de produção de políticas como dependentes da dinâmica do
+presidencialismo de coalizão, sobretudo porque o poder no Executivo está dividido entre a
+Presidência e os ministérios setoriais, que controlam burocracias da administração direta e
+indireta. Conforme visto, o Ministério de Minas e Energia, responsável por organizações que
+administram a área setorial, geralmente é chefiado por ministros não filiados ao partido do
+presidente. Esse é um dado que gera questionamentos sobre a rotatividade do ministério, sobre
+a estabilidade das políticas no setor e sobre a centralização ou descentralização do policy-
+making process da área setorial. Conforme visto, o caso do MME apresenta alta rotatividade,
+mas apresenta certa estabilidade em suas políticas públicas, ainda que existam programas
+centralizados à presidência ou conjuntamente ao ministério.
+          Através da análise de frequência realizada a partir da análise de conteúdo e do processo
+de codificação sobre as áreas temáticas em legislações e normativas, são identificadas
+prioridades distintas e divergências importantes entre as agendas da presidência, do Legislativo
+e da administração setorial. Além disso, quando se analisa com maior profundidade o conteúdo
+substantivo do dataset, são identificados processos de focalização sobre alternativas
+conflitantes: presidência e Legislativo priorizam com maior frequência questões de energias
+não renováveis, ao passo que a administração setorial tem uma agenda marcada sobre fontes
+renováveis. Esses achados sugerem a existência de uma agenda da administração setorial que
+parece operar com certa autonomia da presidência e ainda mais do Congresso Nacional.
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                             e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                        20
+                                                        Cristiano Parra DUARTE
+
+
+
+
+          Dado que o MME, que é a organização que coordena a administração setorial, tem uma
+alta rotatividade e que o processo de priorização das fontes renováveis tem um comportamento
+crescente e relativamente estável apesar dessa rotatividade, este trabalho postula a hipótese de
+que esse processo está relacionado com as prioridades da própria burocracia setorial. Conforme
+apontado, o setor de infraestrutura tem importantes relações com agentes externos ao governo
+e ao Estado, o que suscita pensar na porosidade de questões que vão além da agenda legislativa
+do presidente. Além disso, a agenda voltada para energias renováveis é bastante próxima de
+pautas ambientalistas, que sugerem a adesão temática pela burocracia do setor de energia, assim
+como ocorre com o contexto do Ministério de Meio Ambiente, que assiste a ativismo por parte
+de sua burocracia.
+          Apesar dos achados, ainda restam questões que não puderam ser respondidas por esse
+estudo, que se limita a analisar as legislações e normativas produzidas. Fica como agenda de
+pesquisa futura a realização de entrevistas de forma a entender de que forma essa burocracia
+atua no processo de produção de políticas no contexto da administração setorial, quais são os
+mecanismos de cooperação com ministros e qual a relação com os dirigentes eleitos. Além
+disso, dados que a literatura tem estudado o setor de infraestrutura como um todo, são
+necessárias investigações qualitativas em profundidade sobre o setor de energia, de forma a
+detalhar o policy-making dessa área em específico. Tal investigação pode gerar importantes
+contribuições para entender o processo de produção de políticas no Brasil, sobretudo
+relacionado ao presidencialismo de coalizão e para conhecer a burocracia federal.
+
+
+
+                                                       REFERÊNCIAS
+
+ABERBACH, J. D.; PUTNAM, R. D.; ROCKMAN, B. A. Bureaucrats and politicians in
+western democracies. In: Bureaucrats and Politicians in Western Democracies. Harvard
+University Press, 1981.
+
+ABERS, R. Ativismo na burocracia? O médio escalão do Programa Bolsa Verde. In:
+CAVALCANTE, P.; LOTTA, G. (org.). Burocracia de médio escalão: perfil, trajetória e
+atuação. Brasília: ENAP, 2015. p. 143-175.
+
+ABERS, R. Bureaucratic Activism: Pursuing Environmentalism Inside the Brazilian State.
+Latin American Politics and Society, v. 61, p. 21-44, 2019.
+
+ABERS, R. Ativismo Institucional: Criatividade e Luta na Burocracia Brasileira. 1. ed.
+Brasília: Editora UnB, 2021.
+
+
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.   e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                              21
+             Ministérios e burocracia no processo de produção de políticas públicas: O caso das agendas do setor de energia
+
+
+
+
+ABRANCHES, S. Presidencialismo de coalizão. Dados, v. 31, n. 1, 1988.
+
+AMORIM NETO, O. Presidencialismo e governabilidade nas Américas. Rio de Janeiro:
+Editora FGV, 2006.
+
+AMORIM NETO, O. O Poder Executivo, centro de gravidade do sistema político brasileiro.
+In: AVELAR, L.; CINTRA, A. O. (ed.). Sistema político brasileiro: uma introdução. Rio de
+Janeiro, RJ: Fundação Konrad Adenauer, p. 131-140, 2007.
+
+ANASTASIA, F.; INÁCIO, M. Democracia, Poder Legislativo, interesses e capacidades.
+Cadernos Aslegis, v. 40, n. 2, p. 33-54, 2010.
+
+ARAÚJO, C. M.; COSTA, S. F.; FITTIPALDI, I. Boa noite, e boa sorte: determinantes da
+demissão de ministros envolvidos em escândalos de corrupção no primeiro governo Dilma
+Rousseff. Opinião Pública, Campinas, v. 22, n. 1, p. 93-117, 2016.
+
+BARDIN, L. Análise de conteúdo. Lisboa: Edições 70, 1977.
+
+BATISTA, M. O poder no Executivo: uma análise do papel da Presidência e dos Ministérios
+no presidencialismo de coalizão brasileiro (1995-2010). Opinião Pública, v. 19, n. 2, p. 449-
+473, 2013.
+
+BATISTA, M. O Poder no Executivo: explicações no presidencialismo, parlamentarismo e
+presidencialismo de coalizão. Revista de Sociologia e Política, v. 24, p. 127-155, 2016.
+
+BATISTA, M.; LOPEZ, F. Ministerial typology and political appointments: where and how do
+presidents politicize the bureaucracy?. Brazilian Political Science Review, v. 15, 2020.
+
+BORGES, A.; COÊLHO, D. B. O Preenchimento de Cargos da Burocracia Pública Federal no
+Presidencialismo de Coalizão Brasileiro: Análise Comparada de Dois Ministérios - Ciência e
+Tecnologia e Integração Nacional. In: LOPEZ, F. G. (org.). Cargos de confiança no
+presidencialismo de coalizão brasileiro. Brasília: IPEA, 2015. p. 71-105.
+
+CAP – Comparative Agendas Project. CAP Topics: Master Topics Codebook Version 1.1.
+Disponível em: https://www.comparativeagendas.net/pages/master-codebook. Acesso em: 16
+set. 2022.
+
+CAREY, J. Presidential versus parliamentary government. In: MENARD, C.; SHIRLEY, M.
+M. (ed.). Handbook of new institutional economics. Dordrecht: Springer, 2005. p. 91-93.
+
+CAVALCANTE; P.; CAMÕES, M.; KNOP, M. Burocracia de médio escalão nos setores
+governamentais: semelhanças e diferenças. In: CAVALCANTE, P.; LOTTA, G. (org.).
+Burocracia de médio escalão: perfil, trajetória e atuação. Brasília: ENAP, 2015. p. 57-89.
+
+D'ARAUJO, M. C. A elite dirigente do governo Lula. Fundação Getulio Vargas, CPDOC,
+2009.
+
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                             e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                        22
+                                                        Cristiano Parra DUARTE
+
+
+
+
+D’ARAUJO, M. C.; LAMEIRÃO, C. A elite dirigente do governo Lula. Rio de Janeiro:
+CPDOC; FGV, 2009.
+
+D’ARAUJO, M. C.; PETEK, J. Recrutamento e perfil dos dirigentes públicos brasileiros nas
+áreas econômicas e sociais entre 1995 e 2012. Revista de Administração Pública, v. 52, p.
+840-862, 2018.
+
+DUARTE, C. P. Entre renováveis e não renováveis: o setor de energia na agenda
+governamental brasileira entre 1995 e 2014. 2021. Dissertação (Mestrado em Ciência Política)
+– Universidade Federal de São Carlos, São Carlos, SP, 2021.
+
+DUARTE, C. P.; BIZELLI, J. L. Burocracia e produção de políticas no nível estadual: o caso
+da política de inovação para o setor público no estado de São Paulo. In: RIBEIRO, P.;
+TROIANO, M.; ALBRECHT, N. Mosaico da burocracia pública brasileira: novos olhares
+sobre burocratas e interesses no Brasil. Rio de Janeiro: EdUERJ, 2022. p. 243-265.
+
+DUARTE, C. P.; LINO, L. L. A burocracia no processo de agendamento das políticas
+públicas: novas questões e perspectivas de pesquisa. BIB - Revista Brasileira de
+Informação Bibliográfica em Ciências Sociais, [S. l.], v. 1, n. 98, p. 1–22, 2023. Disponível
+em: https://bibanpocs.emnuvens.com.br/revista/article/view/596. Acesso em: 26 abr. 2023.
+
+FIGUEIREDO, A.; LIMONGI, F. Instituições políticas e governabilidade: desempenho do
+governo e apoio legislativo na democracia brasileira. In: RANULFO, C.; SÁEZ, M. A. (org.).
+A democracia brasileira: balanço e perspectivas para o século 21. Belo Horizonte: Editora
+UFMG, 2007. p. 25-32.
+
+FIGUEIREDO, A. M. C. Resenha de estudos sobre o Executivo. Revista do Serviço Público,
+v. 55, n. 1-2, p. 5-48, 2004.
+
+FREITAS, A. M. O presidencialismo da coalizão. 2013. Tese (Doutorado em Ciência
+Política). Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, São
+Paulo, 2013.
+
+GOLDEMBERG, J.; LUCON, O. Energia e meio ambiente no Brasil. Estudos Avançados,
+São Paulo, v. 21, n. 59, p. 7-20, 2007.
+
+GOMIDE, A.; PEREIRA, A. K. Os desafios da governança da política de infraestrutura no
+Brasil: aspectos políticos e administrativos da execução do investimento em projetos de
+grande vulto. In: GOMIDE, A.; PEREIRA, A. K. (org.). Governança da política de
+infraestrutura: condicionantes institucionais ao investimento. Rio de Janeiro: Ipea, 2018. p.
+13-36.
+
+GUERRA, R. Mudanças intraministeriais e gestão da coalizão: Brasil, de 1990 a
+2014. Opinião Pública, v. 25, p. 630-659, 2020.
+
+
+
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.   e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                              23
+             Ministérios e burocracia no processo de produção de políticas públicas: O caso das agendas do setor de energia
+
+
+
+
+HOWLETT, M.; RAMESH, M.; PERL, A. Public Policy: Its cycles and subsystems. An
+integral approach. 2013.
+
+INÁCIO, M.; REZENDE, D. Partidos legislativos e governo de coalizão: controle horizontal
+das políticas públicas. Opinião Pública, v. 21, n. 2, p. 296-335, 2015.
+
+JASANOFF, S. The fifth branch: science advisers as policymakers. Harvard University
+Press, 1998.
+
+KOGA, N.; PALOTTI, P. L. M.; COUTO, B. G.; LINS, R.; NASCIMENTO, M. I. B. O uso
+de múltiplas fontes de informação nas políticas públicas: um olhar sobre a burocracia federal
+brasileira. Revista de Administração Pública, v. 55, n. 5, p. 165-1190, 2021.
+
+LIMA, R. O recrutamento político impacta atitudes e percepções de burocratas em ministérios
+brasileiros? Evidências empíricas usando matching em survey. Opinião Pública, v. 26, n. 3,
+p. 587-632, 2020.
+
+LIPSKY, M. Street-level bureaucracy: dilemmas of the individual in public services. Nova
+York: Russel Sage Foundation, 1980.
+
+LOPEZ, F. G.; BUGARIN, M.; BUGARIN, K. Partidos, facções e a ocupação de cargos de
+confiança no Executivo federal (1999-2011). In: ENCONTRO ANUAL DA ANPOCS, 37.,
+2013. Anais [...]. Caxambú, MG: ANPOCS, 2013. p. 1-27.
+
+LOPEZ, F.; SILVA, T. M. Party filiation and appointment for positions in the Brazilian federal
+bureaucracy (1999-2018). Revista de Administração Pública, v. 53, p. 711-731, 2019.
+
+LOTTA; G. S. Teorias e Análises sobre Implementação de Políticas Públicas no Brasil.
+Brasília: Enap, 2019.
+
+MAJONE, G. Do Estado positivo ao Estado regulador: causas e conseqüências de mudanças
+no modo de governança. Revista do Serviço Público, v. 50, n. 1, p. 5-36, 1999.
+
+MERCEDES, S. S. P.; RICO, J. A. P.; POZZO, L. Y. Uma revisão histórica do planejamento
+do setor elétrico brasileiro. REVISTA USP, n. 104, 2015, p. 13-36.
+
+NATT, E. D. M.; CARRIERI, A. P. Energia Hidrelétrica: A Retórica da Energia Limpa. In:
+SARAIVA, L. A. S.; RAMPAZO, A. V. (org.). Energia, organizações e sociedade. Recife:
+Fundação Joaquim Nabuco, Editora Massangana, 2017. p. 79-112.
+
+PALOTTI, P.; CAVALCANTE, P. L. C. Articuladores políticos e dirigentes da burocracia:
+ministros de Estado no Brasil e em perspectiva comparada. In: PIRES, R.; LOTTA, G.;
+OLIVEIRA, V. Burocracia e políticas públicas no Brasil: interseções analíticas. Brasília:
+Ipea, 2018. p. 161-184.
+
+PALOTTI, P. L. M.; CAVALCANTE, P. L. C. Estratégias de nomeações ministeriais: entre a
+política e as políticas públicas. Revista de Sociologia e Política, v. 27, n. 70, p. 1-20, 2019.
+Teoria & Pesquisa: Revista de Ciência Política, São Carlos, v. 33, n. 00, e024003, 2024.                             e-ISSN: 2236-0107
+DOI: https://doi.org/10.14244/tp.v33i00.1033                                                                                        24
+                                                        &ULVWLDQR3DUUD'8$57(
+
+
+
+
+
+3(7(56%*7KHSROLWLFVRIEXUHDXFUDF\HG/RQGRQH1<5RXWOHGJH
+
+5,%(,52332,$77,1$LQVWDELOLGDGHPLQLVWHULDOLPSRUWD"&RPSUHHQGHQGRDSURGXomR
+OHJLVODWLYDGRVPLQLVWpULRVQR%UDVLO5HYLVWDGH$GPLQLVWUDomR3~EOLFDYQS
+
+
+58'$/(9,*($0DQDJLQJWKH3UHVLGHQW¶V3URJUDPSUHVLGHQWLDOOHDGHUVKLSDQG
+OHJLVODWLYHSROLF\IRUPXODWLRQ1HZ-HUVH\3ULQFHWRQ8QLYHUVLW\3UHVV
+
+:25.0$167KHG\QDPLFVRIEXUHDXFUDF\LQWKH86JRYHUQPHQW+RZ&RQJUHVVDQG
+IHGHUDODJHQFLHVSURFHVVLQIRUPDWLRQDQGVROYHSUREOHPV&DPEULGJH8QLYHUVLW\3UHVV
+
+
+
+&5HGL7$XWKRU6WDWHPHQW
+     5HFRQKHFLPHQWRV$JUDGHoRj1D\DUD$OEUHFKWH0DULHOH7URLDQRSHORVFRPHQWiULRVQD
+      RFDVLmRGR63*(VWDGREXURFUDFLDHGHPRFUDFLDGR(QFRQWUR$QXDOGD$132&6
+     )LQDQFLDPHQWR )XQGDomR GH$PSDUR j 3HVTXLVD GR (VWDGR GH 6mR 3DXOR )$3(63  ±
+      %ROVDGH'RXWRUDGR 3URFHVVR)$3(63Q 
+     &RQIOLWRVGHLQWHUHVVH1mRKiFRQIOLWRVGHLQWHUHVVH
+     $SURYDomRpWLFD1mRVHDSOLFD
+     'LVSRQLELOLGDGHGHGDGRVHPDWHULDO2VGDGRVHPDWHULDLVXWLOL]DGRVQRWUDEDOKRHVWmR
+      GLVSRQtYHLVHP'XDUWH  
+
+     &RQWULEXLo}HVGRVDXWRUHV$XWRULD~QLFD
+                                                                                                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               3URFHVVDPHQWRHHGLWRUDomR(GLWRUD,EHUR$PHULFDQDGH(GXFDomR
+                         5HYLVmRIRUPDWDomRQRUPDOL]DomRHWUDGXomR
+                                                
+
+
+                                                                                            
+7HRULD 3HVTXLVD5HYLVWDGH&LrQFLD3ROtWLFD6mR&DUORVYQH       H,661
+'2,KWWSVGRLRUJWSYL                                                                 
+

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FiliacaoParlamentar xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd'>
+    <Metadados>
+    <Versao>10/09/2026 21:47:39</Versao>
+    <VersaoServico>5</VersaoServico>
+    <DataVersaoServico>2021-09-09</DataVersaoServico>
+    <DescricaoDataSet>Retorna a relação de Filiações Partidárias do Senador informado no parâmetro.</DescricaoDataSet>
+    
+</Metadados>
+
+    <Parlamentar><Codigo>6335</Codigo><Nome>Damares Alves</Nome><Filiacoes><Filiacao><Partido><CodigoPartido>521</CodigoPartido><SiglaPartido>REPUBLICANOS</SiglaPartido><NomePartido>Republicanos</NomePartido></Partido><DataFiliacao>2022-10-02</DataFiliacao></Filiacao></Filiacoes></Parlamentar>
+</FiliacaoParlamentar>

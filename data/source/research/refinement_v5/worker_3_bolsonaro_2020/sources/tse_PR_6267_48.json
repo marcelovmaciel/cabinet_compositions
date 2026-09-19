@@ -1,0 +1,17 @@
+{
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "LONDRINA",
+  "party": "MOBILIZA",
+  "id": 48,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 304,
+      "totalElements": 304,
+      "response_sha256": "ce58e713a71c8a384ad9dd13d8a53edf9fbd90fb1752da67a853df11cb7a0e8c",
+      "retrieved_utc": "2026-09-11T00:59:23Z"
+    }
+  ],
+  "matches": []
+}

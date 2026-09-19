@@ -1,0 +1,17 @@
+{
+  "party": "MISSÃO",
+  "id": 183,
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "Londrina",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 140,
+      "totalElements": 140,
+      "response_sha256": "dc8d1aaed97de98193a631a9370996e61e2b3f838e9df236ac6492a81ecaea19",
+      "retrieved_utc": "2026-09-10T23:39:40Z"
+    }
+  ],
+  "matches": []
+}

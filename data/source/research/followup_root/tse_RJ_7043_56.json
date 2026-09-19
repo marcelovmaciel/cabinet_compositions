@@ -1,0 +1,38 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "PSDB",
+  "id": 56,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=56&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 39785,
+      "response_sha256": "8c05060a8a28f710087b474ef913121ad17a126ba49d16acdaa45598f55ed058",
+      "retrieved_utc": "2026-09-10T23:41:16Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=56&currentPage=1&pageSize=10000",
+      "records": 10000,
+      "totalElements": 39785,
+      "response_sha256": "f209f3017d6646a77b196ae3343338447391cf8808ab8a731a3e4992f9871a37",
+      "retrieved_utc": "2026-09-10T23:41:35Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=56&currentPage=2&pageSize=10000",
+      "records": 10000,
+      "totalElements": 39785,
+      "response_sha256": "9b490468b23fedc128b64b9ca2b9b9da2be503c86ce9357a0a4ec6eb8d94deeb",
+      "retrieved_utc": "2026-09-10T23:42:08Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=56&currentPage=3&pageSize=10000",
+      "records": 9785,
+      "totalElements": 39785,
+      "response_sha256": "487349aa8e18e811447a3789fc0c9bd5442b8f66693de586bd990a2d3ceab931",
+      "retrieved_utc": "2026-09-10T23:42:24Z"
+    }
+  ],
+  "matches": []
+}

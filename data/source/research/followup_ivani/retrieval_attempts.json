@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pmdb_df.zip",
+    "status": 403,
+    "size": 462,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_mdb_df.zip",
+    "status": 403,
+    "size": 461,
+    "content_type": "text/html"
+  },
+  {
+    "url": "https://agencia.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pmdb_df.zip",
+    "status": 404,
+    "size": 19,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pmdb_go.zip",
+    "status": 403,
+    "size": 464,
+    "content_type": "text/html"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "party": "PCDOB",
+  "id": 45,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 3496,
+      "totalElements": 3496,
+      "response_sha256": "66ea3eca31efaa148bafd532d43dfe166fb68851ec197f59028fc6ecd43b717d",
+      "retrieved_utc": "2026-09-10T23:38:12Z"
+    }
+  ],
+  "matches": []
+}

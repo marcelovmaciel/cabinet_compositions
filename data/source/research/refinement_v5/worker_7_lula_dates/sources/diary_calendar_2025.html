@@ -1,0 +1,552 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="//www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666"
+    />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="apple-itunes-app" content="app-id=1049343067" />
+    <meta name="google-play-app" content="app-id=br.leg.camara.infolegmovel" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+ <link rel="stylesheet" type="text/css" href="https://www2.camara.leg.br/ploneExterno.css" />
+<link rel="stylesheet" type="text/css" href="https://www.camara.leg.br/tema/global/camara-custom.css" />
+    <script
+      type="text/javascript"
+      src="//www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/ploneExterno.js"
+    ></script>
+
+    <link
+      rel="search"
+      href="//www2.camara.leg.br/busca-portal"
+      title="Buscar neste site"
+    />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="//www.camara.leg.br/tema/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="//www.camara.leg.br/tema/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="//www.camara.leg.br/tema/favicon-16x16.png">
+    <link rel="manifest" href="//www.camara.leg.br/tema/site.webmanifest">
+    <link rel="mask-icon" href="//www.camara.leg.br/tema/safari-pinned-tab.svg" color="#009e49">
+    <meta name="msapplication-TileColor" content="#00a300">
+    <meta name="msapplication-TileImage" content="//www.camara.leg.br/tema/mstile-144x144.png">
+    <meta name="theme-color" content="#009e49">
+
+    <link rel="canonical" href="#" />
+    <script type="text/javascript">
+      $("link[rel='canonical']").attr('href', window.location.href)
+    </script>
+
+
+
+<!-- *******************************************************************************'* CÂMARA DOS DEPUTADOS'* CENTRO DE INFORMÁTICA - CENIN '* '* Objetivo: pesquisa de páginas digitalizadas das Publicações Oficiais da Câmara com uso de um '* calendário anual que cria links para as publicações de acordo com o dia do mês'* Autor: Dryade Carvalho Fontenelle'*        Carlos Henrique'*		  '******************************************************************************* -->
+<meta HTTP-EQUIV="Expires" CONTENT="Mon, 06 Jan 1990 00:00:01 GMT">
+
+<script LANGUAGE="JavaScript">
+//-------------------------------------------------------------------
+//--> Verifica a versão do Browser
+//-------------------------------------------------------------------
+var isNav4 = false, isNav5 = false, isIE4 = false
+
+
+var strSeperator = "/"; 
+// If you are using any Java validation on the back side you will want to use the / because 
+// Java date validations do not recognize the dash as a valid date separator.
+var vDateType = 3; // Global value for type of date format
+//                1 = mm/dd/yyyy
+//                2 = yyyy/dd/mm  (Unable to do date check at this time)
+//                3 = dd/mm/yyyy
+var vYearType = 4; //Set to 2 or 4 for number of digits in the year for Netscape
+var vYearLength = 2; // Set to 4 if you want to force the user to enter 4 digits for the year before validating.
+var err = 0; // Set the error code to a default of zero
+if(navigator.appName == "Netscape") {
+	if (navigator.appVersion < "5") {
+		isNav4 = true;
+		isNav5 = false;
+	}
+	else
+		if (navigator.appVersion > "4") {
+			isNav4 = false;
+			isNav5 = true;
+		}
+	}
+else {
+	isIE4 = true;
+}
+// Fim da Função
+
+
+//-------------------------------------------------------------------
+//--> Valida Campo Numérico
+//-------------------------------------------------------------------
+function Valida_Numero (num, ev, numCheck) {
+  vNumeroValue = num.value
+  var alpha1Check = " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ/-";
+  if (alpha1Check.indexOf(vNumeroValue) >= 1) {
+    if (isNav4) {
+      num.value = "";
+      num.focus();
+      num.select();
+      return false;
+    }
+    else {
+      num.value = num.value.substr(0, (vNumeroValue.length-1));
+      return false;
+    }
+  }  
+//return true;
+}
+//--> Fim da Função
+function janela(url, titulo) 
+{
+win = window.open(url,titulo,"location=no,toolbar=no,directories=no,menubar=yes,status=yes,scrollbars=yes,resizable=yes,width=640,height=480");
+}
+//-------------------------------------------------------------------
+//--> Corpo Principal - Calendario
+//-------------------------------------------------------------------
+</script>
+
+<style>
+TD
+{
+	HEIGHT: 1;
+    HEIGHT: 10px;
+    padding: 0.19rem !IMPORTANT;
+}
+TD.calMonthHead
+{
+	HEIGHT: 1;
+    HEIGHT: 10px;
+	BACKGROUND-COLOR: #69c99e;
+}
+TD.calDayHead
+{
+    HEIGHT: 1;
+    TEXT-ALIGN: center;
+    WIDTH: 25px;
+    HEIGHT: 10px;
+}
+
+TD.calWeekDay
+{
+    HEIGHT: 1;
+    COLOR: gray;
+    FONT-WEIGHT: bold;
+    TEXT-ALIGN: center;
+    WIDTH: 25px;
+    HEIGHT: 10px;
+}
+
+TD.calWeekDaySel
+{
+    HEIGHT: 1;
+    COLOR: #DCDCDC;
+	BACKGROUND-COLOR: #DCDCDC;
+    FONT-WEIGHT: bold;
+    TEXT-ALIGN: center;
+    WIDTH: 25px;
+    HEIGHT: 10px
+}
+TD.calWeekEnd
+{
+	HEIGHT: 1;
+    COLOR: #B22222;
+    FONT-WEIGHT: bold;
+    TEXT-ALIGN: center;
+    WIDTH: 15px;
+    HEIGHT: 10px
+}
+TD.calWeekEndSel
+{
+	HEIGHT: 1;
+    COLOR: #FF6347;
+	BACKGROUND-COLOR: #DCDCDC;
+    FONT-WEIGHT: bold;
+    TEXT-ALIGN: center;
+    WIDTH: 25px;
+    HEIGHT: 10px
+}
+
+A.WeekDay
+{
+    TEXT-DECORATION: none;
+    COLOR: #434343;
+}
+
+A.WeekEnd
+{
+    TEXT-DECORATION: none;
+    COLOR: #8E0A00;
+}
+A.Nav
+{
+    TEXT-DECORATION: none;
+    COLOR: #000000;
+}
+
+
+</style>
+
+
+		<title>Pesquisa em Publicações Oficiais da Câmara dos Deputados</title>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
+
+
+	</head>
+
+	<body class="template-layouts_topo portaltype-plone-site site-Camara userrole-anonymous" dir="ltr">
+      <div class="js-mmenu-container">
+    
+    <header class="l-cabecalho-portal" role="banner"><ul aria-label="Acesso direto" class="acesso-direto"><!-- Links para saltar diretamente para &#225;reas importantes da p&#225;gina accesskey 2 = conte&#250;do e 3 = navega&#231;&#227;o --><li>
+        <a class="acesso-direto__link" href="#main-content" accesskey="2">Ir ao conteúdo</a>
+      </li>
+      <li>
+        <a class="acesso-direto__link" href="#main-nav" accesskey="3">Ir à navegação principal</a>
+      </li>
+    </ul><!--[if lte IE 9]>
+      <p class="browserupgrade">Voc&#234; est&#225; usando um navegador <strong>defasado</strong>. Por favor, <a href="https://browsehappy.com/">atualize seu navegador</a> para melhorar sua experi&#234;ncia e sua seguran&#231;a.</p>
+      <![endif]--><div class="nav-top">
+     <div class="container nav-top--container">
+
+        <ul title="Ferramentas de apoio" class="links-apoio {{#if menu}}links-apoio--menu-global{{/if}}"><li class="links-apoio__item links-apoio__item--acessibilidade">
+            <a href="//www2.camara.leg.br/acessibilidade/recursos-de-acessibilidade" accesskey="0">Acessibilidade</a>
+          </li>
+          <li class="links-apoio__item links-apoio__item--faleconosco">
+            <a href="https://camara.custhelp.com/" accesskey="9">Fale Conosco</a>
+          </li>
+          <li class="links-apoio__item links-apoio__item--acessoinfo">
+            <a href="//www2.camara.leg.br/transparencia/acesso-a-informacao">Acesso à Informação</a>
+          </li>
+        </ul><ul class="orgaos-parceiros" aria-label="Órgãos parceiros"><li class="orgaos-parceiros__item orgaos-parceiros__item--congresso">
+            <a href="https://www.congressonacional.leg.br/">
+              <span>Congresso</span>
+            </a>
+          </li>
+          <li class="orgaos-parceiros__item orgaos-parceiros__item--senado">
+            <a href="https://www12.senado.leg.br/">
+              <span>Senado</span>
+            </a>
+          </li>
+          <li class="orgaos-parceiros__item orgaos-parceiros__item--tcu">
+            <a href="https://portal.tcu.gov.br">
+              <span>Tribunal de Contas da União</span>
+            </a>
+          </li>
+        </ul></div>
+    </div>
+    
+    <div id="home-camara-menu">
+  <nav class="menu-global navbar navbar-expand-lg" role="navigation" aria-label="Navegação principal" id="menuglobal"><div class="container menu-global--container">
+      <a href="//www.camara.leg.br" class="menu-global__logo navbar-brand" accesskey="1">
+        <span class="sr-only">Página inicial</span>
+      </a>
+
+      <!-- icone menu -->
+      <button class="menu-global--btnmenu navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="menu-global--icon"></span>
+      </button>
+
+      <!-- icone busca -->
+      <button class="menu-global--btnsearch" type="button" data-toggle="collapse" data-target="#buscaportal" aria-controls="buscaportal" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="fa fa-search"></span>
+      </button>
+
+      <div class="navbar-collapse hidden-sm hidden-md hidden-xs" id="navbarportal">
+        <ul aria-label="Navegação Principal" id="main-nav" class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="menu-global__item-institucional nav-link dropdown-toggle" href="#" id="institucional" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Institucional</a>
+            <ul class="dropdown-menu" aria-labelledby="institucional">
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/transparencia/">Transparência</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/a-camara/estruturaadm/mesa/presidencia">Presidência</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/historia-e-arquivo/">História e arquivo</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/papel-e-estrutura/">Papel e estrutura</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/biblioteca-e-publicacoes/">Biblioteca e publicações</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/programas-educacionais/">Programas educacionais</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/a-camara/visiteacamara">Visite</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="menu-global__item-deputados nav-link dropdown-toggle" href="#" id="deputados" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Deputados</a>
+            <ul class="dropdown-menu" aria-labelledby="deputados">
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/deputados/pesquisa">Quem são</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/deputados/liderancas-partidarias">Lideranças e bancadas</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/deputados/frentes-e-grupos-parlamentares">Frentes e grupos parlamentares</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="menu-global__item-atvlegislativa nav-link dropdown-toggle" href="#" id="atvlegislativa" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Atividade Legislativa</a>
+            <ul class="dropdown-menu" aria-labelledby="atvlegislativa">
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/agenda">Agenda</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/busca-portal/proposicoes/pesquisa-simplificada">Propostas legislativas</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/plenario">Plenário</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/comissoes">Comissões</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/discursos-e-notas-taquigraficas">Discursos e debates</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/estudos-e-notas-tecnicas">Estudos legislativos</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/orcamento-da-uniao">Orçamento da União</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/legislacao">Legislação</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/entenda-o-processo-legislativo/">Entenda o processo legislativo</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/participe">Participe</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="menu-global__item-comunicacao nav-link dropdown-toggle" href="#" id="comunicacao" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Comunicação</a>
+            <ul class="dropdown-menu" aria-labelledby="comunicacao">
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/camaranoticias">Notícias</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/camaranoticias/tv">TV Câmara</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/camaranoticias/radio">Rádio Câmara</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa">Assessoria de Imprensa</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/banco-imagens">Banco de Imagens</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="menu-global__item-temas nav-link dropdown-toggle" href="#" id="temas" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Assuntos</a>
+            <ul class="dropdown-menu" aria-labelledby="temas">
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/agropecuaria">Agropecuária</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/cidades-e-transportes">Cidades e transportes</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/ciencia-tecnologia-e-comunicacoes">Ciência, tecnologia e comunicações</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/consumidor">Consumidor</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/direitos-humanos">Direitos humanos</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/economia">Economia</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/educacao-cultura-e-esportes">Educação, cultura e esportes</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/meio-ambiente-e-energia">Meio ambiente e energia</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/politica-e-administracao-publica">Política e administração pública</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/relacoes-exteriores">Relações exteriores</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/saude">Saúde</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/seguranca">Segurança</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/trabalho-previdencia-e-assistencia">Trabalho, previdência e assistência</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div class="collapse box-search" id="buscaportal">
+	  
+		<form role="search" accesskey="4" class="box-search__busca form-inline" method="get" action="https://www.camara.leg.br/busca-portal">
+            <label for="termo-busca-geral" class="sr-only box-search__label">Pesquise no Portal da Câmara</label>
+            <input class="form-control box-search__campo" type="search" name="pesquisa" id="termo-busca-geral" placeholder="Buscar" aria-label="Search">
+            <button class="btn sr-only box-search__botao" type="submit">Buscar</button>
+        </form>
+        <!--<form role="search" accesskey="4" class="box-search__busca form-inline">
+		<form role="search" accesskey="4" class="box-search__busca form-inline" method="get" action="https://www.camara.leg.br/busca-portal">
+          <label for="termo-busca-geral" class="sr-only box-search__label">Pesquise no Portal da Câmara</label>
+          <input class="form-control box-search__campo" type="search" name="termo" id="termo-busca-geral" placeholder="O que você busca ?" aria-label="Search">
+		  <button class="btn sr-only box-search__botao" type="submit" name="pesquisar">
+            Buscar
+          </button>
+          <!-- Colque aqui a estrutura de seu formulário de busca -->
+        </form>
+      </div>
+    </div>
+  </nav></div>
+	
+    
+  </header>
+		<div id="portal-top" class="diazo_layouts_topo">
+		
+
+      
+			<div class="breadcrumbs-marcacao">
+        <div class="container">
+				<div id="portal-breadcrumbs">
+
+					<span id="breadcrumbs-home">
+        <a href="//www2.camara.leg.br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+					</span>
+					<a href="//www2.camara.leg.br/documentos-e-pesquisa/">Publicações e Acervos</a> / <a href="//www2.camara.leg.br/documentos-e-pesquisa/diariosdacamara">Boletins, Diários e Anais</a> / Diários da Câmara dos Deputados
+
+        </div></div>
+
+        <div class="row">
+            <div id="menu-secoes-internas" class="col-md-12 menu-secoes-internas"><div id="portal-mainsection">
+      <div class="l-identificacao-landing">
+        <div class="container">
+          <h1 class="titulo-landing"><a href="//imagem.camara.gov.br/diarios.asp">Diários da Câmara dos Deputados</a></h1>
+        </div>
+      </div>
+    </div></div>
+          </div>
+        
+        
+			</div>
+		</div>
+		<div id="marcacao-conteudo-portal" class="conteudo-portal container nopadding-right nopadding-left">
+
+<div class="coluna-centro col-md-12">
+<div id="portal-column-content" class="sl">
+    <div id="portal-content-wrapper">
+         <div id="region-content" class="documentContent">
+                <a name="documentContent"></a>
+                <div id="content">
+	<!-- (lasanha retirada para não funcionar) include file="top2.asp"-->
+	
+		<div class="panel panel-default">
+		<div class="panel-heading">Pesquisa em Diários</div>
+		<div class="panel-body">
+
+
+  <form name="frmCima" action="/pesquisa_diario_basica.asp" method="post">
+  <input type="hidden" name="blnOnChange" value="0">
+
+    <div class="row">
+		
+		<div class="form-group col-sm-3">
+		<label><b>Coleção:</b></label>
+        <select name="selCodColecaoCsv" id="selCodColecaoCsv" size="1" onChange="javascript:document.frmCima.blnOnChange.value='1';document.frmCima.submit();">
+          <option value="DCD"  SELECTED>Diários da Câmara dos Deputados</option>
+          <option value="DCN" >Diários do Congresso Nacional</option>
+          <option value="A" >Anais da Câmara dos Deputados</option>
+        </select>
+      </div>
+      <div class="form-group col-sm-2">
+	   <label><b>Ano:</b></label>
+        <select name="ano" id="ano" size="1">
+		<option value="2026">2026</option><option value="2025" SELECTED >2025</option><option value="2024">2024</option><option value="2023">2023</option><option value="2022">2022</option><option value="2021">2021</option><option value="2020">2020</option><option value="2019">2019</option><option value="2018">2018</option><option value="2017">2017</option><option value="2016">2016</option><option value="2015">2015</option><option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option><option value="1912">1912</option><option value="1911">1911</option><option value="1910">1910</option><option value="1909">1909</option><option value="1908">1908</option><option value="1907">1907</option><option value="1906">1906</option><option value="1905">1905</option><option value="1904">1904</option><option value="1903">1903</option><option value="1902">1902</option><option value="1901">1901</option><option value="1900">1900</option><option value="1899">1899</option><option value="1898">1898</option><option value="1897">1897</option><option value="1896">1896</option><option value="1895">1895</option><option value="1892">1892</option><option value="1890">1890</option><option value="1889">1889</option><option value="1882">1882</option><option value="1881">1881</option>
+        </select> 
+      </div>
+      <div class="form-group col-sm-2">
+	  <br/>
+      <input class="btn btn-primary" id="button1" name="enviar2" type="submit" value="Pesquisar">
+	  </div>
+	  </div>
+
+</div></div>
+
+
+<table class="table table-bordered" cellPadding="0" cellSpacing="0" >
+
+  <tr><td colspan="6">
+	<table width="100%" cellpadding="0" cellspacing="0">
+	<tr>
+	  <td align="left"><strong></strong>
+</td>
+	  <td align="center"><strong>2025</strong></td>
+	  <td align="right"><strong> 
+	   
+	</tr>
+	</table>
+  </td></tr>
+  
+  <TR><TD><TABLE border=0 cellPadding=0 cellSpacing=1 bgcolor=white><TR><TD class="calMonthHead" align=middle colSpan=7><strong>Janeiro</strong></TD><TR><TD class="calDayHead" style="COLOR: #B22222">D</TD><TD class="calDayHead">S</TD><TD class="calDayHead">T</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">S</TD><TD class="calDayHead" style="COLOR: #B22222">S</TD></TR><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=1/1/2025">1</a></TD><TD class="calWeekDay">2</TD><TD class="calWeekDay">3</TD><TD class="calWeekEnd">4</TD></tr><tr><TD class="calWeekEnd">5</TD><TD class="calWeekDay">6</TD><TD class="calWeekDay">7</TD><TD class="calWeekDay">8</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=9/1/2025">9</a></TD><TD class="calWeekDay">10</TD><TD class="calWeekEnd">11</TD></tr><tr><TD class="calWeekEnd">12</TD><TD class="calWeekDay">13</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=14/1/2025">14</a></TD><TD class="calWeekDay">15</TD><TD class="calWeekDay">16</TD><TD class="calWeekDay">17</TD><TD class="calWeekEnd">18</TD></tr><tr><TD class="calWeekEnd">19</TD><TD class="calWeekDay">20</TD><TD class="calWeekDay">21</TD><TD class="calWeekDay">22</TD><TD class="calWeekDay">23</TD><TD class="calWeekDay">24</TD><TD class="calWeekEnd">25</TD></tr><tr><TD class="calWeekEnd">26</TD><TD class="calWeekDay">27</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=28/1/2025">28</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=29/1/2025">29</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=30/1/2025">30</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=31/1/2025">31</a></TD><TD class="calWeekDay">&nbsp;</TD></tr><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr></TABLE></TD><TD><TABLE border=0 cellPadding=0 cellSpacing=1 bgcolor=white><TR><TD class="calMonthHead" align=middle colSpan=7><strong>Fevereiro</strong></TD><TR><TD class="calDayHead" style="COLOR: #B22222">D</TD><TD class="calDayHead">S</TD><TD class="calDayHead">T</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">S</TD><TD class="calDayHead" style="COLOR: #B22222">S</TD></TR><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=1/2/2025">1 </a></TD></tr><tr><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=2/2/2025">2 </a></TD><TD class="calWeekDay">3</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=4/2/2025">4</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=5/2/2025">5</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=6/2/2025">6</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=7/2/2025">7</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=8/2/2025">8 </a></TD></tr><tr><TD class="calWeekEnd">9</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=10/2/2025">10</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=11/2/2025">11</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=12/2/2025">12</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=13/2/2025">13</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=14/2/2025">14</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=15/2/2025">15 </a></TD></tr><tr><TD class="calWeekEnd">16</TD><TD class="calWeekDay">17</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=18/2/2025">18</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=19/2/2025">19</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=20/2/2025">20</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=21/2/2025">21</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=22/2/2025">22 </a></TD></tr><tr><TD class="calWeekEnd">23</TD><TD class="calWeekDay">24</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=25/2/2025">25</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=26/2/2025">26</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=27/2/2025">27</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=28/2/2025">28</a></TD><TD class="calWeekDay">&nbsp;</TD></tr><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr></TABLE></TD><TD><TABLE border=0 cellPadding=0 cellSpacing=1 bgcolor=white><TR><TD class="calMonthHead" align=middle colSpan=7><strong>Mar&ccedil;o</strong></TD><TR><TD class="calDayHead" style="COLOR: #B22222">D</TD><TD class="calDayHead">S</TD><TD class="calDayHead">T</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">S</TD><TD class="calDayHead" style="COLOR: #B22222">S</TD></TR><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=1/3/2025">1 </a></TD></tr><tr><TD class="calWeekEnd">2</TD><TD class="calWeekDay">3</TD><TD class="calWeekDay">4</TD><TD class="calWeekDay">5</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=6/3/2025">6</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=7/3/2025">7</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=8/3/2025">8 </a></TD></tr><tr><TD class="calWeekEnd">9</TD><TD class="calWeekDay">10</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=11/3/2025">11</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=12/3/2025">12</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=13/3/2025">13</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=14/3/2025">14</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=15/3/2025">15 </a></TD></tr><tr><TD class="calWeekEnd">16</TD><TD class="calWeekDay">17</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=18/3/2025">18</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=19/3/2025">19</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=20/3/2025">20</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=21/3/2025">21</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=22/3/2025">22 </a></TD></tr><tr><TD class="calWeekEnd">23</TD><TD class="calWeekDay">24</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=25/3/2025">25</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=26/3/2025">26</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=27/3/2025">27</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=28/3/2025">28</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=29/3/2025">29 </a></TD></tr><tr><TD class="calWeekEnd">30</TD><TD class="calWeekDay">31</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr></TABLE></TD><TD><TABLE border=0 cellPadding=0 cellSpacing=1 bgcolor=white><TR><TD class="calMonthHead" align=middle colSpan=7><strong>Abril</strong></TD><TR><TD class="calDayHead" style="COLOR: #B22222">D</TD><TD class="calDayHead">S</TD><TD class="calDayHead">T</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">S</TD><TD class="calDayHead" style="COLOR: #B22222">S</TD></TR><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=1/4/2025">1</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=2/4/2025">2</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=3/4/2025">3</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=4/4/2025">4</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=5/4/2025">5 </a></TD></tr><tr><TD class="calWeekEnd">6</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=7/4/2025">7</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=8/4/2025">8</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=9/4/2025">9</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=10/4/2025">10</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=11/4/2025">11</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=12/4/2025">12 </a></TD></tr><tr><TD class="calWeekEnd">13</TD><TD class="calWeekDay">14</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=15/4/2025">15</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=16/4/2025">16</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=17/4/2025">17</a></TD><TD class="calWeekDay">18</TD><TD class="calWeekEnd">19</TD></tr><tr><TD class="calWeekEnd">20</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=21/4/2025">21</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=22/4/2025">22</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=23/4/2025">23</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=24/4/2025">24</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=25/4/2025">25</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=26/4/2025">26 </a></TD></tr><tr><TD class="calWeekEnd">27</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=28/4/2025">28</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=29/4/2025">29</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=30/4/2025">30</a></TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr></TABLE></TD><TD><TABLE border=0 cellPadding=0 cellSpacing=1 bgcolor=white><TR><TD class="calMonthHead" align=middle colSpan=7><strong>Maio</strong></TD><TR><TD class="calDayHead" style="COLOR: #B22222">D</TD><TD class="calDayHead">S</TD><TD class="calDayHead">T</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">S</TD><TD class="calDayHead" style="COLOR: #B22222">S</TD></TR><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=1/5/2025">1</a></TD><TD class="calWeekDay">2</TD><TD class="calWeekEnd">3</TD></tr><tr><TD class="calWeekEnd">4</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=5/5/2025">5</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=6/5/2025">6</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=7/5/2025">7</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=8/5/2025">8</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=9/5/2025">9</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=10/5/2025">10 </a></TD></tr><tr><TD class="calWeekEnd">11</TD><TD class="calWeekDay">12</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=13/5/2025">13</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=14/5/2025">14</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=15/5/2025">15</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=16/5/2025">16</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=17/5/2025">17 </a></TD></tr><tr><TD class="calWeekEnd">18</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=19/5/2025">19</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=20/5/2025">20</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=21/5/2025">21</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=22/5/2025">22</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=23/5/2025">23</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=24/5/2025">24 </a></TD></tr><tr><TD class="calWeekEnd">25</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=26/5/2025">26</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=27/5/2025">27</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=28/5/2025">28</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=29/5/2025">29</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=30/5/2025">30</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=31/5/2025">31 </a></TD></tr><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr></TABLE></TD><TD><TABLE border=0 cellPadding=0 cellSpacing=1 bgcolor=white><TR><TD class="calMonthHead" align=middle colSpan=7><strong>Junho</strong></TD><TR><TD class="calDayHead" style="COLOR: #B22222">D</TD><TD class="calDayHead">S</TD><TD class="calDayHead">T</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">S</TD><TD class="calDayHead" style="COLOR: #B22222">S</TD></TR><tr><TD class="calWeekEnd">1</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=2/6/2025">2</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=3/6/2025">3</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=4/6/2025">4</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=5/6/2025">5</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=6/6/2025">6</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=7/6/2025">7 </a></TD></tr><tr><TD class="calWeekEnd">8</TD><TD class="calWeekDay">9</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=10/6/2025">10</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=11/6/2025">11</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=12/6/2025">12</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=13/6/2025">13</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=14/6/2025">14 </a></TD></tr><tr><TD class="calWeekEnd">15</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=16/6/2025">16</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=17/6/2025">17</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=18/6/2025">18</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=19/6/2025">19</a></TD><TD class="calWeekDay">20</TD><TD class="calWeekEnd">21</TD></tr><tr><TD class="calWeekEnd">22</TD><TD class="calWeekDay">23</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=24/6/2025">24</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=25/6/2025">25</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=26/6/2025">26</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=27/6/2025">27</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=28/6/2025">28 </a></TD></tr><tr><TD class="calWeekEnd">29</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=30/6/2025">30</a></TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr></TABLE></TD></TR><TR><TD><TABLE border=0 cellPadding=0 cellSpacing=1 bgcolor=white><TR><TD class="calMonthHead" align=middle colSpan=7><strong>Julho</strong></TD><TR><TD class="calDayHead" style="COLOR: #B22222">D</TD><TD class="calDayHead">S</TD><TD class="calDayHead">T</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">S</TD><TD class="calDayHead" style="COLOR: #B22222">S</TD></TR><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=1/7/2025">1</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=2/7/2025">2</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=3/7/2025">3</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=4/7/2025">4</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=5/7/2025">5 </a></TD></tr><tr><TD class="calWeekEnd">6</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=7/7/2025">7</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=8/7/2025">8</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=9/7/2025">9</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=10/7/2025">10</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=11/7/2025">11</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=12/7/2025">12 </a></TD></tr><tr><TD class="calWeekEnd">13</TD><TD class="calWeekDay">14</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=15/7/2025">15</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=16/7/2025">16</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=17/7/2025">17</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=18/7/2025">18</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=19/7/2025">19 </a></TD></tr><tr><TD class="calWeekEnd">20</TD><TD class="calWeekDay">21</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=22/7/2025">22</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=23/7/2025">23</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=24/7/2025">24</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=25/7/2025">25</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=26/7/2025">26 </a></TD></tr><tr><TD class="calWeekEnd">27</TD><TD class="calWeekDay">28</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=29/7/2025">29</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=30/7/2025">30</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=31/7/2025">31</a></TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr></TABLE></TD><TD><TABLE border=0 cellPadding=0 cellSpacing=1 bgcolor=white><TR><TD class="calMonthHead" align=middle colSpan=7><strong>Agosto</strong></TD><TR><TD class="calDayHead" style="COLOR: #B22222">D</TD><TD class="calDayHead">S</TD><TD class="calDayHead">T</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">S</TD><TD class="calDayHead" style="COLOR: #B22222">S</TD></TR><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=1/8/2025">1</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=2/8/2025">2 </a></TD></tr><tr><TD class="calWeekEnd">3</TD><TD class="calWeekDay">4</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=5/8/2025">5</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=6/8/2025">6</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=7/8/2025">7</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=8/8/2025">8</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=9/8/2025">9 </a></TD></tr><tr><TD class="calWeekEnd">10</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=11/8/2025">11</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=12/8/2025">12</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=13/8/2025">13</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=14/8/2025">14</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=15/8/2025">15</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=16/8/2025">16 </a></TD></tr><tr><TD class="calWeekEnd">17</TD><TD class="calWeekDay">18</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=19/8/2025">19</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=20/8/2025">20</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=21/8/2025">21</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=22/8/2025">22</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=23/8/2025">23 </a></TD></tr><tr><TD class="calWeekEnd">24</TD><TD class="calWeekDay">25</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=26/8/2025">26</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=27/8/2025">27</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=28/8/2025">28</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=29/8/2025">29</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=30/8/2025">30 </a></TD></tr><tr><TD class="calWeekEnd">31</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr></TABLE></TD><TD><TABLE border=0 cellPadding=0 cellSpacing=1 bgcolor=white><TR><TD class="calMonthHead" align=middle colSpan=7><strong>Setembro</strong></TD><TR><TD class="calDayHead" style="COLOR: #B22222">D</TD><TD class="calDayHead">S</TD><TD class="calDayHead">T</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">S</TD><TD class="calDayHead" style="COLOR: #B22222">S</TD></TR><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">1</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=2/9/2025">2</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=3/9/2025">3</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=4/9/2025">4</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=5/9/2025">5</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=6/9/2025">6 </a></TD></tr><tr><TD class="calWeekEnd">7</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=8/9/2025">8</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=9/9/2025">9</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=10/9/2025">10</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=11/9/2025">11</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=12/9/2025">12</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=13/9/2025">13 </a></TD></tr><tr><TD class="calWeekEnd">14</TD><TD class="calWeekDay">15</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=16/9/2025">16</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=17/9/2025">17</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=18/9/2025">18</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=19/9/2025">19</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=20/9/2025">20 </a></TD></tr><tr><TD class="calWeekEnd">21</TD><TD class="calWeekDay">22</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=23/9/2025">23</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=24/9/2025">24</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=25/9/2025">25</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=26/9/2025">26</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=27/9/2025">27 </a></TD></tr><tr><TD class="calWeekEnd">28</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=29/9/2025">29</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=30/9/2025">30</a></TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr></TABLE></TD><TD><TABLE border=0 cellPadding=0 cellSpacing=1 bgcolor=white><TR><TD class="calMonthHead" align=middle colSpan=7><strong>Outubro</strong></TD><TR><TD class="calDayHead" style="COLOR: #B22222">D</TD><TD class="calDayHead">S</TD><TD class="calDayHead">T</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">S</TD><TD class="calDayHead" style="COLOR: #B22222">S</TD></TR><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=1/10/2025">1</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=2/10/2025">2</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=3/10/2025">3</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=4/10/2025">4 </a></TD></tr><tr><TD class="calWeekEnd">5</TD><TD class="calWeekDay">6</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=7/10/2025">7</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=8/10/2025">8</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=9/10/2025">9</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=10/10/2025">10</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=11/10/2025">11 </a></TD></tr><tr><TD class="calWeekEnd">12</TD><TD class="calWeekDay">13</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=14/10/2025">14</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=15/10/2025">15</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=16/10/2025">16</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=17/10/2025">17</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=18/10/2025">18 </a></TD></tr><tr><TD class="calWeekEnd">19</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=20/10/2025">20</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=21/10/2025">21</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=22/10/2025">22</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=23/10/2025">23</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=24/10/2025">24</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=25/10/2025">25 </a></TD></tr><tr><TD class="calWeekEnd">26</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=27/10/2025">27</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=28/10/2025">28</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=29/10/2025">29</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=30/10/2025">30</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=31/10/2025">31</a></TD><TD class="calWeekDay">&nbsp;</TD></tr><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr></TABLE></TD><TD><TABLE border=0 cellPadding=0 cellSpacing=1 bgcolor=white><TR><TD class="calMonthHead" align=middle colSpan=7><strong>Novembro</strong></TD><TR><TD class="calDayHead" style="COLOR: #B22222">D</TD><TD class="calDayHead">S</TD><TD class="calDayHead">T</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">S</TD><TD class="calDayHead" style="COLOR: #B22222">S</TD></TR><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekEnd">1</TD></tr><tr><TD class="calWeekEnd">2</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=3/11/2025">3</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=4/11/2025">4</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=5/11/2025">5</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=6/11/2025">6</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=7/11/2025">7</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=8/11/2025">8 </a></TD></tr><tr><TD class="calWeekEnd">9</TD><TD class="calWeekDay">10</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=11/11/2025">11</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=12/11/2025">12</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=13/11/2025">13</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=14/11/2025">14</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=15/11/2025">15 </a></TD></tr><tr><TD class="calWeekEnd">16</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=17/11/2025">17</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=18/11/2025">18</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=19/11/2025">19</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=20/11/2025">20</a></TD><TD class="calWeekDay">21</TD><TD class="calWeekEnd">22</TD></tr><tr><TD class="calWeekEnd">23</TD><TD class="calWeekDay">24</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=25/11/2025">25</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=26/11/2025">26</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=27/11/2025">27</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=28/11/2025">28</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=29/11/2025">29 </a></TD></tr><tr><TD class="calWeekEnd">30</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr></TABLE></TD><TD><TABLE border=0 cellPadding=0 cellSpacing=1 bgcolor=white><TR><TD class="calMonthHead" align=middle colSpan=7><strong>Dezembro</strong></TD><TR><TD class="calDayHead" style="COLOR: #B22222">D</TD><TD class="calDayHead">S</TD><TD class="calDayHead">T</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">Q</TD><TD class="calDayHead">S</TD><TD class="calDayHead" style="COLOR: #B22222">S</TD></TR><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">1</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=2/12/2025">2</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=3/12/2025">3</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=4/12/2025">4</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=5/12/2025">5</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=6/12/2025">6 </a></TD></tr><tr><TD class="calWeekEnd">7</TD><TD class="calWeekDay">8</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=9/12/2025">9</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=10/12/2025">10</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=11/12/2025">11</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=12/12/2025">12</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=13/12/2025">13 </a></TD></tr><tr><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=14/12/2025">14 </a></TD><TD class="calWeekDay">15</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=16/12/2025">16</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=17/12/2025">17</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=18/12/2025">18</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=19/12/2025">19</a></TD><TD class="calWeekEndSel"><a class="WeekEnd" href="dc_20b.asp?selCodColecaoCsv=D&Datain=20/12/2025">20 </a></TD></tr><tr><TD class="calWeekEnd">21</TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=22/12/2025">22</a></TD><TD class="calWeekDaySel"><a class="WeekDay" href="dc_20b.asp?selCodColecaoCsv=D&Datain=23/12/2025">23</a></TD><TD class="calWeekDay">24</TD><TD class="calWeekDay">25</TD><TD class="calWeekDay">26</TD><TD class="calWeekEnd">27</TD></tr><tr><TD class="calWeekEnd">28</TD><TD class="calWeekDay">29</TD><TD class="calWeekDay">30</TD><TD class="calWeekDay">31</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr><tr><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD><TD class="calWeekDay">&nbsp;</TD></tr></TABLE></TD></TR>
+
+</form>
+</table>
+<br />
+<span class="glyphicon glyphicon-link" aria-hidden="true"></span> <a href="ajuda/Solução para visualizar diários e anais da câmara.pdf"><b>Problemas na visualiza&ccedil;&atilde;o dos di&aacute;rios? Saiba como solucionar</b></a>
+
+</body>
+</html>
+<script LANGUAGE="JavaScript">document.frmCima.blnOnChange.value='0';</script>
+
+</div></div></div></div></div>
+</div>
+
+<!-- início da estrutura do rodape -->
+    <footer role="contentinfo" class="rodape-portal">
+
+      <!-- Coloque aqui a lista de redes sociais da Câmara -->
+      <div class="rodape-portal-links rodape-portal-links--redes-sociais">
+          <div class="container">
+              <ul class="rodape-portal-links__lista" aria-label="Câmara nas redes sociais">
+                  <li class="rodape-portal-links__item">
+                      <a href="https://t.me/CamaradosDeputados" class="rodape-portal-links__link">
+                          <span class="g-social-icon-outline g-social-icon-outline--telegram" aria-hidden="true"></span>
+                          <span class="sr-only">Telegram</span>
+                      </a>
+                  </li>
+                  <li class="rodape-portal-links__item">
+                      <a href="https://www.facebook.com/camaradeputados" class="rodape-portal-links__link">
+                          <span class="g-social-icon-outline g-social-icon-outline--facebook" aria-hidden="true"></span>
+                          <span class="sr-only">Facebook</span>
+                      </a>
+                  </li>
+
+                  <li class="rodape-portal-links__item">
+                      <a href="https://twitter.com/camaradeputados" class="rodape-portal-links__link">
+                          <span class="g-social-icon-outline g-social-icon-outline--twitter" aria-hidden="true"></span>
+                          <span class="sr-only">Twitter</span>
+                      </a>
+                  </li>
+
+                  <li class="rodape-portal-links__item">
+                      <a href="https://www.youtube.com/channel/UC-ZkSRh-7UEuwXJQ9UMCFJA" class="rodape-portal-links__link">
+                          <span class="g-social-icon-outline g-social-icon-outline--youtube" aria-hidden="true"></span>
+                          <span class="sr-only">Youtube</span>
+                      </a>
+                  </li>
+
+                  <li class="rodape-portal-links__item">
+                      <a href="https://www.instagram.com/camaradeputados" class="rodape-portal-links__link">
+                          <span class="g-social-icon-outline g-social-icon-outline--instagram" aria-hidden="true"></span>
+                          <span class="sr-only">Instagram</span>
+                      </a>
+                  </li>
+              </ul>
+          </div>
+      </div>
+      <!-- Coloque aqui o endereço e demais informações de assinatura -->
+      <address class="rodape-portal-info">
+          <div class="container">
+
+              <div class="rodape-portal-info__nome">
+                  <p>
+                      <strong>56ª Legislatura - 3ª Sessão Legislativa Ordinária</strong>
+                  </p>
+              </div>
+
+              <div class="l-rodape-info">
+                  <div class="l-rodape-info__local rodape-portal-info__texto">
+                      <span class="rodape-info">Câmara dos Deputados - Palácio do Congresso Nacional - Praça dos Três Poderes</span>
+                      <span class="rodape-info">Brasília - DF - Brasil - CEP 70160-900</span>
+                      <span class="rodape-info"><span class="rodape-info__destaque">CNPJ:</span> 00.530.352/0001-59</span>
+                  </div>
+
+                  <div class="l-rodape-info__telefones rodape-portal-info__texto">
+                      <ul class="list-unstyled" aria-label="Número para contato e horário de atendimento">
+                          <li><span class="rodape-info__destaque">Disque-Câmara:</span> 0800-0-619-619, de 9h às 19h</li>
+                          <li><span class="rodape-info__destaque">Atendimento presencial:</span> de 9h às 19h</li>
+                      </ul>
+                  </div>
+              </div>
+              <div class="acesso-provedor text-right">
+                <a title="Autenticar-se no site" href="/login_form">
+                  <i class="fas fa-lock" aria-hidden="true"></i>
+                </a>
+              </div>
+          </div>
+      </address>
+
+      <!-- Coloque aqui a lista de links de apoio do rodapé -->
+      <div class="rodape-portal-links rodape-portal-links--apoio">
+          <div class="container">
+              <ul class="rodape-portal-links__lista" aria-label="Links de apoio">
+                  <li class="rodape-portal-links__item">
+                      <a href="https://www2.camara.leg.br/sobre-o-portal" class="rodape-portal-links__link">Sobre o Portal</a>
+                  </li>
+
+                <li class="rodape-portal-links__item">
+                    <a href="https://www2.camara.leg.br/termo-de-uso-e-politica-de-privacidade" class="rodape-portal-links__link">Termos de Uso</a>
+                </li>
+
+                  <li class="rodape-portal-links__item">
+                      <a href="https://www2.camara.leg.br/aplicativos/" class="rodape-portal-links__link">Aplicativos</a>
+                  </li>
+
+                  <li class="rodape-portal-links__item">
+                      <a href="https://camaranet.camara.leg.br" class="rodape-portal-links__link">Extranet</a>
+                  </li>
+              </ul>
+          </div>
+      </div>
+    </footer>
+<!-- Fim da estrutura do rodape -->
+</div>
+</body>
+
+</html>

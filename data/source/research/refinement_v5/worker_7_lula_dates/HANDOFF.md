@@ -1,0 +1,11 @@
+# Worker 7 handoff
+
+Completed the bounded Lula refinement. No primary date, candidate date, affiliation state, or party-set change.
+
+- **November return:** retrospective ministry-attributed report confirms Ana Carla actually performed the Nov14 Orla ceremony. Official Secom/EBC reporting confirms Sabino exercising ministerial functions by Nov17 morning. Original Chamber dispatch (DCD Nov18 p14, visually checked) explicitly starts parliamentary leave at notification Nov17 19h36; it does not supply a ministerial possession timestamp. Keep Nov14–17, primary17: an earlier event cannot exclude a later same-day handoff.
+- **December return:** new Folhapress Dec6 retrospective corroborates reassumption Dec4. Original Chamber dispatch review Dec6–16 found no exact handoff record resolving the actual Dec5 vote/Dec6 licence conflict. Keep Dec4–6, primary6.
+- **Ana Carla PSDB:** official historical SGIP query covered27 PSDB governing bodies/1131 officer entries (PA, DF, national, Belém), no exact target. Officer-only scope supplies no non-affiliation inference. Preserve C075 historical2016 observation, contextual identity and forward continuity across14 primary service days; no current-certification upgrade.
+
+Merge `merge.json` and copy **only** the95 entries in `snapshots_map.json` (~1.52MB). Destinations are relative to cabinet_dataset. Do not copy scratch (bulky original diaries/renders). Detailed source methods and limitations: `RESEARCH.md`; exact assertions: V5W7E001–005; decisions: V5W7D001–003.
+
+Patch:4 service provenance/scope rows,1 affiliation provenance row,2 constraint rationales,3 research rows,5 evidence rows,3 decisions,44 new source links; no deletions. Build passed with unchanged baseline code.948 total snapshot links hash-verified using the immutable baseline for inherited `inputs/decisions.csv`.4096 daily coverage rows and444 membership rows unchanged; period/transition differences only provenance; sensitivity differences only rationale/evidence. `verification.json` and `build_result.json` retain checks. No old primary-date regression update is needed. The isolated build retains the baseline100 unrelated unidentified days; root handles its separate completion layer.

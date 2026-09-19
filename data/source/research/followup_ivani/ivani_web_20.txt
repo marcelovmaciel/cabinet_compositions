@@ -1,0 +1,565 @@
+TD 3200 Web | PDF | Burocracia (https://pt.scribd.com/document/1024722968/TD-3200-web)
+citeturn374search0 [wordlim: 200] Crawled: 5 months ago; ## Os dados sobre o conjunto de cargos de DAS do Atlas do Estado Brasileiro são ... variáveis: vínculo com o serviço público, período em que se manteve no cargo, sexo, ... Fonte: Atlas do Estado Brasileiro, para os cargos níveis 5 e 6 (disponível em: [Link] ... de proporção, uma vez que ambas as variáveis – órgão e filiação – são categóricas
+3. Disponível em: [Link]
+
+12
+3200
+TEXTO para DISCUSSÃO
+
+## Os dados sobre o conjunto de cargos de DAS do Atlas do Estado Brasileiro são
+
+utilizados como forma de contextualização e comparação à alta burocracia fede-
+ral. A base de dados principal (BD-MID), indisponível publicamente, inclui infor-
+mações sobre ocupantes de cargos de níveis 5 a 7. O último nível (7) se refere
+a cargos de natureza especial e aos secretários executivos. A coleta de dados
+sobre dirigentes das secretarias permitiu verificar os tipos de perfis geralmente
+escolhidos para ocupar posições de chefia, assim como os vínculos entre fun-
+cionários/as e organizações políticas, incluindo partidos e grupos de interesse.
+A primeira fase da pesquisa consistiu em uma análise estatística descritiva de dados
+de ocupantes da burocracia federal entre 1999 e 2018.
+
+A base de dados quantitativa (BD-MID) reúne dados do Siape, que contém dados
+sobre servidores(as) públicos(as) federais, e apresenta informações sobre as seguintes
+variáveis: vínculo com o serviço público, período em que se manteve no cargo, sexo,
+cor e formação educacional, entre outras. A base de dados contém informações sobre
+servidores que ocuparam cargos nos meses de maio e novembro, proporcionando um
+snapshot do quadro burocrático. Como o objetivo deste artigo é explorar o perfil dos(as)
+nomeados(as), considerou-se a díade servidor-cargo, ou seja, as observações foram
+contabilizadas conforme valores únicos para a combinação entre servidor e cargo, evi-
+tando que um(a) funcionário(a) ocupando o mesmo cargo seja contabilizado(a) como
+mais de uma observação. Com essa base de dados, verificaram-se medidas estatísticas
+padrões com o auxílio da linguagem de programação R. Tal análise permitiu identificar
+tendências em relação a variáveis como nível educacional e filiação partidária.
+
+A Presidência da República (PR) é um
+outlier em termos de quantidade de cargos, apresentando um número muito maior
+de postos de DAS 5 e 6 em comparação aos demais órgãos.
+
+FIGURA 2
+Quantidade de cargos de DAS 5 e 6 (1999-2020)
+
+300
+
+200
+Órgão superior
+Mapa
+Outros
+
+100
+
+0
+2000 2005 2010 2015 2020
+
+## Fonte: Atlas do Estado Brasileiro. Disponível em: [Link]
+
+## Como se nota, o Mapa possui uma estrutura de cargos 5 e 6 similar a de outros
+
+órgãos do Executivo federal. No entanto, vale ressaltar que o órgão apresentou um
+aumento substancial nesses postos em alguns intervalos: entre 2002 e 2005; e após
+2017 (gráfico 1).
+
+21
+3200
+TEXTO para DISCUSSÃO
+
+GRÁFICO 1
+Quantidade de DAS 5 e 6 por ano no Mapa (1999-2020)
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+2000 2005 2010 2015 2020
+
+Fonte: Atlas do Estado Brasileiro, para os cargos níveis 5 e 6 (disponível em: [Link]
+[Link]/atlasestado/).
+Obs.: Os DAS possuem oficialmente seis níveis hierárquicos: 1 a 6. O nível 7, na base
+BD-MID, refere-se a cargos de natureza especial, que estão fora dessa hierarquia
+formal, mas são considerados como parte do alto escalão, configurando o nível 7.
+
+## A estrutura de cargos apresenta uma quantidade de postos discricionários que
+
+tornam a pasta sujeita à nomeação de funcionários(as) externos(as) ao setor público.
+Ademais, a relevância do órgão para o agronegócio – um dos setores econômicos
+mais importantes do país – justifica seu valor político. De acordo com os decretos, a
+estrutura regimental e as páginas oficiais (Brasil, 1999, 2000, 2003, 2004, 2005, 2008,
+2013, 2016a, 2016b), as principais políticas públicas do Ministério5 incluem o que está
+enumerado a seguir.
+
+## Fonte: Atlas do Estado Brasileiro (disponível em: [Link]
+
+BD-MID.
+Nota: 1 NA – Não informado.
+
+27
+3200
+TEXTO para DISCUSSÃO
+
+## 4.2.4 Filiacões partidárias
+
+## A quantidade de filiados(as) a partidos no Mapa é superior à média do conjunto da
+
+administração pública federal a partir de 2003 (tabela 3).
+
+TABELA 3
+Filiados(as) no Mapa em cargos de DAS 5 a 7 (total de servidores)
+Período Total Filiados(as) Filiados(as) (%) Média do governo federal (%)
+Maio 1999 32 0 0 1.6
+Maio 2000 45 0 0 1.1
+Maio 2001 35 0 0 1.4
+Maio 2002 33 0 0 1.1
+Maio 2003 36 3 8.33 4.7
+Maio 2004 46 5 10.9 4.4
+Maio 2005 64 7 10.9 4.5
+Maio 2006 60 6 10 3.8
+Maio 2007 60 8 13.3 4.9
+Maio 2008 60 7 11.7 5.4
+Maio 2009 61 8 13.1 5.0
+Maio 2010 51 6 11.8 6.1
+Maio 2011 50 9 18 6.3
+Maio 2012 45 7 15.6 7.4
+Maio 2013 49 10 20.4 7.5
+Maio 2014 49 11 22.4 7.2
+Maio 2015 50 11 22 8.0
+Maio 2016 54 9 16.7 6.2
+Maio 2017 68 11 16.2 8.6
+Maio 2018 62 8 12.9 7.9
+
+Fonte: BD-MID.
+Obs.: Snapshot de maio de cada ano.
+
+## A tabela mostra, utilizando-se maio como referência, que o percentual de filiados(as)
+--------------------------------------------------------------------------------
+Título do capítulo (https://repositorio.ipea.gov.br/bitstreams/226a652f-5c34-4e78-81fe-b082b1520a8e/download)
+citeturn374search12 [wordlim: 200] Published: 8 months ago; Fonte: Atlas do Estado Brasileiro. ... Ao longo dos anos, as curvas de filiação de ambos os grupos seguem
+| 475
+Burocracia Dirigente nos Municípios, nos Estados e na União:  
+rotatividade, filiação partidária e patronagem política
+GRÁFICO 10
+Taxa de filiação dos dirigentes dos Executivos estaduais, por tipo de vínculo (2004-2019)
+(Em %)
+25
+20
+15
+10
+5
+0
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Fonte: Atlas do Estado Brasileiro. Disponível em: <http://atlasestado.ipea.gov.br>.
+Elaboração dos autores.
+Na União, na média da série, a filiação dos outsiders é de 18%, frente a 11% 
+dos insiders. Ao longo dos anos, as curvas de filiação de ambos os grupos seguem 
+tendências paralelas, mas os não estatutários situam-se em patamares mais eleva­
+dos, entre 15% e 20%, na maior parte da série. Os gestores oriundos de carreiras 
+do serviço público ficam em um patamar inferior, entre 1% e 15% de filiados. A 
+já mencionada tendência de redução do percentual de filiados a partir de 2018 
+se observa nos dois grupos (gráfico 11). O auge da filiação dos não estatutários 
+ocorreu em 2015, com 27% de filiados.--------------------------------------------------------------------------------
+Retrocesso Democrático e Militarização das Agências Reguladoras no Brasil | 169 (https://asmetro.org.br/portalsn/wp-content/uploads/2026/03/O_Estado_regulador_brasileiro_Book.pdf)
+citeturn374search13 [wordlim: 200] Crawled: 5 months ago; Para coletar e analisar as evidências sobre militarização das agências reguladoras, utilizamos dados oficiais do Sistema Integrado de Administração de Pessoal (Siape), compilados por meio do Atlas do Estado Brasileiro produzido pelo Ipea.7 Esse procedimento nos permitiu filtrar, dentro da burocracia civil, informações individualizadas sobre a filiação militar e realizar a correspondência entre os registros civis e militares, para fins analíticos. ... Ele inclui dados sobre a presença militar total, o número de militares em postos de nomeação (cargos em comissão) e, também, as nomeações para cargos superiores (alta administração).
+Retrocesso Democrático e Militarização das Agências Reguladoras no Brasil | 169
+
+máxima desses órgãos, como nos casos de Anvisa e ANP, foi uma situação que distinguiu a gestão Bolsonaro de administrações anteriores.
+
+### 3.2 Evidências da militarização e os mecanismos facilitadores
+
+Para coletar e analisar as evidências sobre militarização das agências reguladoras, utilizamos dados oficiais do Sistema Integrado de Administração de Pessoal (Siape), compilados por meio do Atlas do Estado Brasileiro produzido pelo Ipea.7 Esse procedimento nos permitiu filtrar, dentro da burocracia civil, informações individualizadas sobre a filiação militar e realizar a correspondência entre os registros civis e militares, para fins analíticos. Por questões de disponibilidade de informações, nosso conjunto de dados abrange o período entre 2013 e 2024, com números referentes a janeiro de cada ano. Os registros foram padronizados para resolver inconsistências, remover duplicações e alinhar estruturas de classificação. --------------------------------------------------------------------------------
+ARTIGOS
+Reflexões sobre nomeações 
+a cargos públic (https://www.scielo.br/j/rbcpol/a/YwHb9JmWH36dNyyjvPtHPjK/?format=pdf&lang=pt)
+citeturn374search14 [wordlim: 200] Published: 9 months ago; cargos de alto escalão na burocracia é vista como uma estratégia do chefe ... na atuação dos partidos, mensurada mediante a filiação partidária dos/as ... ses do Painel Estatístico Pessoal (PEP)4 e do IPEA (Atlas do Estado Brasileiro e ... mentação, examinei qualitativamente a nomeação do cargo mais alto em se­ ... ao órgão pela disponibilização da base de dados original.
+te institucional do sistema político brasileiro. As pesquisas se concentram 
+na atuação dos partidos, mensurada mediante a filiação partidária dos/as 
+ocupantes do cargo. Nota-se, portanto, uma forte influência dos estudos 
+presidenciais dos Estados Unidos e dos trabalhos sobre partidos na Europa. 
+No que tange à estatística descritiva, averiguei dados disponíveis nas ba­
+ses do Painel Estatístico Pessoal (PEP)4 e do IPEA (Atlas do Estado Brasileiro e 
+base original que congrega dados do serviço público e do Tribunal Eleitoral)5. 
+Ademais, foram analisados decretos e demais documentos que estabelecem as 
+regras das nomeações desde a criação dos cargos DAS até 2020. Em comple­
+mentação, examinei qualitativamente a nomeação do cargo mais alto em se­
+cretarias de diferentes órgãos do governo federal de modo a averiguar em que 
+medida os casos convergem com as predições teóricas e as estatísticas gerais. 
+Assim, o estudo qualitativo buscou aprofundar as questões extraídas da discus­
+são teórica e da estatística descritiva. 
+Para esse propósito, foram escolhidas três secretarias nacionais de di­
+ferentes pastas: a Secretaria de Direitos Autorais e Propriedade Intelectual 
+(SDAPI), da pasta de cultura; a Secretaria de Desenvolvimento Tecnológico e 
+Inovação (SETEC), da pasta de ciência e tecnologia; e a Secretaria de Defesa 
+4	
+Disponível em: https://dados.gov.br/aplicativo/painel-estatistico-pessoal-pep. Acesso em: out. 2020.
+5	
+Disponível em: https://www.ipea.gov.br/atlasestado/filtros-series. Acesso em: out. 2020. Agradeço mais uma vez 
+ao órgão pela disponibilização da base de dados original. Todas as informações potencialmente sensíveis foram 
+eliminadas, assim como os nomes dos/as funcionários/as não são divulgados no decorrer do texto, embora sejam 
+dados de natureza pública.
+8 — REVISTA BRASILEIRA DE CIÊNCIA POLÍTICA, Nº 36-2021--------------------------------------------------------------------------------
+(PDF) Distribuição de cargos, contexto político e presidencialismo brasileiro: uma análise institucional do sistema de livre provimento (https://www.researchgate.net/publication/366867588_Distribuicao_de_cargos_contexto_politico_e_presidencialismo_brasileiro_uma_analise_institucional_do_sistema_de_livre_provimento)
+citeturn374search1 [wordlim: 200] Crawled: 3 months ago; Fonte: Elaboração da autora a partir de dados do Atlas do Estado Brasileiro (IPEA). ... quantidade de servidores de carreira em cargos de alto escalão precedeu a instituição dos
+Fonte: Elaboração da autora a partir de dados do Atlas do Estado Brasileiro (IPEA).
+
+Assim, reforça-se a pertinência de separar processos de resultados, conforme
+
+destacado na versão histórica do novo institucionalismo. Ainda que os últimos anos tenham
+
+sido caracterizados, em termos de administração pública, tanto por processos incrementais
+
+quanto de ruptura, os efeitos não foram tão transformativos em termos de quantidade de
+
+servidores de carreira e de filiados ocupando posições de gestão, mesmo havendo um
+
+aumento expressivo no alto escalão (DAS 5 e 6) no recorte temporal mais amplo. Como
+
+se nota no Gráfico 1, houve um pequeno aumento na quantidade de servidores ocupando
+
+cargos a partir de 2005, seguido de redução para os cargos de nível 3. Ademais, já havia
+
+uma tendência de crescimento no período imediatamente anterior. Vale destacar que
+
+houve um aumento substancial na quantidade de servidores de carreira ocupando DAS 5
+
+e 6 desde 2000, possivelmente devido ao fortalecimento dos planos de carreiras estatais.
+
+se houve algum tipo de conversão nos moldes da tipologia de Mahoney e Thelen (2010).
+
+Em vez de gerar efeitos radicalmente transformativos, o decreto aparentemente formalizou
+
+uma prática que já existia. Uma investigação mais detalhista dos dados ainda mostra que,
+
+em alguns momentos, os percentuais obrigatórios sequer foram cumpridos para cada nível
+
+hierárquico separadamente, conforme sinalizado em vermelho na Tabela 3:
+
+Tabela 3
+
+Cargos de DAS ocupados por servidores de carreira (%)
+
+Ano
+
+DAS 1
+
+DAS 2
+
+DAS 3
+
+DAS 4
+
+DAS 5
+
+DAS 6
+
+2004
+
+68,1
+
+70,73
+
+70,83
+
+57,95
+
+53,36
+
+50,26
+
+2005
+
+70,99
+
+72,47
+
+72,69
+
+60,2
+
+55,76
+
+50,26
+
+2006
+
+71,96
+
+73,14
+
+75,1
+
+62,74
+
+58,68
+
+54,82
+
+2007
+
+71,89
+
+74,16
+
+73,76
+
+62,47
+
+62,53
+
+55,12
+
+2008
+
+71,44
+
+74,03
+
+71,6
+
+63,95
+
+61,49
+
+53,55
+
+2009
+
+71,45
+
+72,43
+
+69,15
+
+64,19
+
+62,34
+
+55,09
+
+2010
+
+71,55
+
+72,55
+
+67,98
+
+64,76
+
+62,0
+
+55,87
+
+2011
+
+73,41
+
+73,69
+
+68,29
+
+65,32
+
+65,68
+
+60,18
+
+2012
+
+73,31
+
+73,8
+
+68,05
+
+66,94
+
+68,76
+
+60,0
+
+2013
+
+73,28
+
+73,3
+
+67,84
+
+67,63
+
+68,74
+
+59,64
+
+2014
+
+73,2
+
+73,25
+
+68,19
+
+69,12
+
+70,67
+
+58,9
+
+2015
+
+73,65
+
+73,53
+
+68,73
+
+66,95
+
+68,37
+
+59,91
+
+2016
+
+81,24
+
+79,44
+
+72,88
+
+68,71
+
+69,15
+
+54,84
+
+2017
+
+75,2
+
+72,98
+
+62,21
+
+61,43
+
+67,47
+
+56,31
+
+Fonte: Atlas do Estado Brasileiro (grifos meus).
+
+--------------------------------------------------------------------------------
+ECONSTORA Service ofZBWLeibniz-Informationszentrum (https://www.econstor.eu/bitstream/10419/240791/1/td-2597.pdf)
+citeturn374search15 [wordlim: 200] Published: 5 months ago; O Carrossel Burocrático nos Cargos de Confiança: análise de sobrevivência dos cargos de direção e assessoramento superior do Executivo federal brasileiro (1999-2017)Fontes: Siape (disponível em: <http://www.siapenet.gov.br>); e Atlas do Estado Brasileiro (disponível em: <https://www.ipea.gov.br/atlasestado>). ... Este resultado sugere que a filiação formal a um partido pode não ser tão central entre
+Texto para
+Discussão
+2 5 9 7
+O Carrossel Burocrático nos Cargos de Confiança: análise de sobrevivência dos cargos de direção e assessoramento superior do Executivo federal brasileiro (1999-2017)Fontes: Siape (disponível em: <http://www.siapenet.gov.br>); e Atlas do Estado Brasileiro (disponível em: <https://www.ipea.gov.br/atlasestado>).  
+Elaboração dos autores.A maioria dos resultados confirma as hipóteses formuladas: que os efeitos se
+mostram mais relevantes no alto escalão. Contudo, a variável filiação mostrou efeito
+pequeno e com sinal invertido no médio escalão e não significativo, no alto escalão.
+Este resultado sugere que a filiação formal a um partido pode não ser tão central entre
+as motivações para nomeações. Como apontamos em outro trabalho (Lopez e Silva,
+2019), o percentual de filiados a partidos políticos nos cargos de DAS é minoritário,
+perfazendo menos de 15% no médio escalão e menos de 30% no alto escalão. Pode
+ser que a influência político-partidária se manifeste por meio de canais alternativos à
+filiação formal. Alternativamente, uma análise que discrimine a duração dos nomeados
+em diferentes setores de governo, cujos graus de politização variam, pode encontrar
+efeitos mais claros e localizados da variável partidária.6 DISCUSSÃO DOS RESULTADOSOs resultados das duas seções anteriores podem ser abordados em duas vertentes. A pri-
+meira diz respeito às implicações do presidencialismo de coalizão sobre a definição dos
+quadros do alto e médio escalão da burocracia pública federal. A segunda diz respeito27--------------------------------------------------------------------------------
+DCD25NOV1992 (https://imagem.camara.leg.br/Imagem/d/pdf/DCD25NOV1992.pdf)
+citeturn374search16 [wordlim: 200] Published: 14.8 years ago; Crawled: 14.5 years ago; Conceder exoneração, de acordo com o art. 35, item II, da Lei nº 8.112, de 11 de dezembro de 1990, a IVANI DOS SANTOS, Técnico Legislativo, Classe Especial, ponto nº 1.920, do cargo de Chefe de Secretaria de Vice-Líderes, CD-DAS-101.2, do Quadro Permanente da Câmara dos Deputados, que exerce no Gabinete do Líder do Partido do Movimento Democrático Brasileiro. ... Nomear, na forma do art. 9º, item II, da Lei nº 8.112, citada, IVANI DOS SANTOS, Técnico Legislativo, Classe Especial, ponto nº 1.920, para exercer o cargo de Chefe de Gabinete do Líder do Partido do Movimento Democrático Brasileiro, CD-DAS-101.4, do Quadro Permanente da Câmara dos Deputados, transformado pelo art. 2º do Ato da Mesa nº 60, de 2 de junho de 1980.
+— Comandante-Geral da Brigada Militar do Rio Grande do Sul — Coronel Antônio Carlos Maciel Rodrigues.  
+
+(Encerra-se a Sessão às 19h e 33min.)
+
+**ATOS DO PRESIDENTE**
+
+O Presidente da Câmara dos Deputados, no uso das atribuições que lhe confere o art. 1º, item I, alínea a, do Ato da Mesa nº 205, de 28 de junho de 1990, resolve conceder exoneração, de acordo com o art. 35, item II, da Lei nº 8.112, de 11 de dezembro de 1990, a ALUÍZIO DAVIS NETO, Técnico Legislativo, Classe Especial, ponto nº 2.723, do cargo de Chefe de Gabinete do Líder do Partido do Movimento Democrático Brasileiro CD-DAS-101.4, do Quadro Permanente da Câmara dos Deputados.  
+
+Câmara dos Deputados, 23 de novembro de 1992. — Deputado Ibsen Pinheiro, Presidente da Câmara dos Deputados.
+
+O Presidente da Câmara dos Deputados, no uso das atribuições que lhe confere o art. 1º, item I, alínea a, do Ato da Mesa nº 205, de 28 de junho de 1990, resolve:  
+Conceder exoneração, de acordo com o art. 35, item II, da Lei nº 8.112, de 11 de dezembro de 1990, a IVANI DOS SANTOS, Técnico Legislativo, Classe Especial, ponto nº 1.920, do cargo de Chefe de Secretaria de Vice-Líderes, CD-DAS-101.2, do Quadro Permanente da Câmara dos Deputados, que exerce no Gabinete do Líder do Partido do Movimento Democrático Brasileiro.  
+
+Câmara dos Deputados, 23 de novembro de 1992. — Deputado Ibsen Pinheiro, Presidente da Câmara dos Deputados.
+
+O Presidente da Câmara dos Deputados, no uso das atribuições que lhe confere o art. 1º, item I, alínea a, do Ato da Mesa nº 205, de 28 de junho de 1990, e o art. 6º da Lei nº 8.112, de 11 de dezembro de 1990, resolve:  
+Nomear, na forma do art. 9º, item II, da Lei nº 8.112, citada, IVANI DOS SANTOS, Técnico Legislativo, Classe Especial, ponto nº 1.920, para exercer o cargo de Chefe de Gabinete do Líder do Partido do Movimento Democrático Brasileiro, CD-DAS-101.4, do Quadro Permanente da Câmara dos Deputados, transformado pelo art. 2º do Ato da Mesa nº 60, de 2 de junho de 1980.  
+
+Câmara dos Deputados, 23 de novembro de 1992. — Deputado Ibsen Pinheiro, Presidente da Câmara dos Deputados.--------------------------------------------------------------------------------
+Diagnostico Institucional Do Servico Publico Na America Latina Brasil 2024 | PDF | Gestão de recursos humanos | Emenda Constitucional (https://pt.scribd.com/document/929074195/Diagnostico-Institucional-Do-Servico-Publico-Na-America-Latina-Brasil-2024)
+citeturn374search2 [wordlim: 200] Crawled: 11 months ago; ## A ocupação de cargos de nível superior mantém características de iniquidade avaliando ... Os dados disponibilizados pelo Atlas do Estado Brasileiro (2023) trazem a seleção dos vínculos de “Ativo Permanente”, ... Fonte: Elaboração própria com base nos dados do Atlas do Estado Brasileiro (2023)
+## A ocupação de cargos de nível superior mantém características de iniquidade avaliando
+
+a disponibilidade de profissionais com nível superior no mercado de trabalho.
+Considerando a população com mais de 25 anos de nível superior, segundo o IBGE
+(2022) 62,2% eram brancos e 35,6% negros. Ou seja, no Brasil para cada pessoa negra
+com nível superior, existe 1,76 de pessoas brancas com essa escolaridade. No Governo
+Federal, para cada negro em um cargo de nível superior existem 2,38 pessoas brancas,
+um valor 35,4% maior.
+
+## Trabalhando a dimensão de gênero e da raça conjuntamente, novas análises são
+
+observadas. As mulheres negras ocupam apenas 11,7% dos cargos de nível superior. O
+percentual de homens negros em cargos de nível médio ou fundamental chega a ser
+superior que o de homens brancos (26,6% contra 23,2%), embora seja menos da metade
+que o de cargos de maior escolaridade (15,6% contra 36,3%). (ver Gráfico 28)
+
+28
+Os dados disponibilizados pelo Atlas do Estado Brasileiro (2023) trazem a seleção dos vínculos de “Ativo Permanente”,
+--------------------------------------------------------------------------------
+Tribunal de Contas da União (https://www.tcu.gov.br/atas/2020/2a-camara/TCU_ATA_2_N_2020_07.pdf)
+citeturn374search17 [wordlim: 200] Published: 10 months ago; A Segov é órgão essencial da Presidência da República ao qual compete a coordenação política do ... b) dar ciência à Secretaria de Governo da Presidência da República de que a ausência de um ... Assis Costa Filho (020.030.283-31); Henrique Villa da Costa Ferreira (226.484.101-04); Ivani dos Santos(153.165.721-49); Izabel Cristina De Oliveira Santos (653.361.004-04); Kecio da Silva Rabelo ... Relatora: ministra Ana Arraes.
+--------------------------------------------------------------------------------
+Grátis: Gomide et al, 2023, estados - Material Claro e Objetivo em PDF para Estudo Rápido (https://www.passeidireto.com/arquivo/127505459/gomide-et-al-2023-estados)
+citeturn374search3 [wordlim: 200] Published: 3.0 years ago; Crawled: 2 weeks ago;     do número absoluto de cargos, mas alinhada com o crescimento da população de ...     Fonte: Rais/MTP – disponível em: <http://www.rais.gov.br/sitio/index.jsf>; e Atlas do Estado Brasileiro/Ipea – disponível em: ...     reconstruído pelo Atlas do Estado Brasileiro, do Ipea, estão disponíveis desde 1985. ...     variam em função ou da disponibilidade de dados ou da adequação dos recortes temporais aos fins da análise.
+--------------------------------------------------------------------------------
+497 595 PB | PDF (https://www.scribd.com/document/778294939/497-595-PB)
+citeturn374search4 [wordlim: 200] Published: 2.2 years ago; Crawled: 1.9 years ago; destinando-se aos cargos técnico-administrativos dos órgãos públicos então existentes. ... Os cargos em comissão diferenciam-se das funções de confiança ou gratificadas (FG), pois podem ser preenchidos por ... O Atlas do Estado Brasileiro, criado em dezembro de 2018, é uma plataforma de dados integrados (de diferentes fontes), sobre ... As novas responsabilidades de provisão de políticas públicas ganharam centralidade no
+--------------------------------------------------------------------------------
+Felix Garcia Lopez Junior | Escavador (https://www.escavador.com/sobre/3788955/felix-garcia-lopez-junior)
+citeturn374search5 [wordlim: 200] Published: 1.8 years ago; Crawled: last week; Quão fechadas são as porteiras ministeriais: filiações e fracionamento partidário na burocracia política da Esplanada. ... O preenchimento de cargos na secretaria de educação e saúde do Estado do Rio de Janeiro. ... Atlas do Estado Brasileiro. ... Relatório de Execução e Análise de dados sobre as Organizações da Sociedade Civil do Brasil.
+--------------------------------------------------------------------------------
+SGIP - Consulta (https://sgip3.tse.jus.br/sgip3-consulta/certidao/orgaoPartidario?id=451109&tipoCertidao=1)
+citeturn374search6 [wordlim: 200] Published: 2 days ago; Crawled: 2 days ago; GUILHERME CAMPOS JUNIOR  | MEMBRO DO DIRETÓRIO NACIONAL TITULAR | PRESIDENTE DO CONSELHO DE ÉTICA PARTIDÁRIA  | 03/06/2023 - 06/07/2027 / Ativo ... HELOISA APARECIDA RIBEIRO DOS SANTOS  | MEMBRO DO DIRETÓRIO NACIONAL SUPLENTE  | 03/06/2023 - 06/07/2027 / Ativo ... IVANI PERRONE BOSCOLO  | MEMBRO DO DIRETÓRIO NACIONAL TITULAR | SECRETÁRIA DO PSD MULHER  | 03/06/2023 - 06/07/2027 / Ativo
+--------------------------------------------------------------------------------
+31.945.619 IVANI DOS SANTOS | CNPJ 31.945.619/0001-00 | FOZ DO IGUACU/PR (https://guiapj.com.br/consulta-cnpj/31945619000100)
+citeturn374search7 [wordlim: 200] Crawled: last month; O CNPJ 31.945.619/0001-00 pertence à empresa 31.945.619 IVANI DOS SANTOS, localizada em FOZ DO IGUACU/PR. ... Qual é o porte, a natureza jurídica e o capital social da empresa 31.945.619 IVANI DOS SANTOS?
+--------------------------------------------------------------------------------
+Ivani dos Santos - Processos | Adv Dinâmico (https://advdinamico.com.br/nomes/ivani-dos-santos)
+citeturn374search8 [wordlim: 200] Crawled: 3 weeks ago; Partes: IVANI DOS SANTOS Autor (RJ107791) MARIA EVERALDA AZEVEDO DA SILVA Advogado BANCO DO BRASIL S/A Réu (MG077167) RICARDO LOPES GODOY Advogado +1 ... Partes: ACIR XAVIER DE FREITAS Requerente IVANI DOS SANTOS Representante Legal (RJ123721) ROSANA ALVES RIBEIRO CINTRA Advogado WANDER NICOLAU DE OLIVEIRA Requerido +4
+--------------------------------------------------------------------------------
+Ivanei Souza da Silva Santos - Processos | Escavador (https://www.escavador.com/nomes/ivanei-souza-da-silva-santos-d808870248)
+citeturn374search9 [wordlim: 200] Crawled: last week; O nome Ivanei Souza da Silva Santos aparece em 8 processos. ... Ivanei Souza da Silva Santos, Ivani dos Santos, Janilda Maria dos Santos de Jesus e mais 8 pessoas.
+--------------------------------------------------------------------------------
+Ivani dos Santos | Escavador (https://www.escavador.com/sobre/560953295/ivani-dos-santos)
+citeturn374search10 [wordlim: 200] Published: 3.2 years ago; Crawled: 2 months ago; # Ivani dos Santos ... Tem experiência na área de Letras com ênfase em Língua Portuguesa e alfabetização. ... Image: Bandeira representando o idioma Espanhol ...   * SANTOS, I. .
+--------------------------------------------------------------------------------
+Ivani Dos Santos Moraes - Econodata (https://www.econodata.com.br/contato/ivani-dos-santos-moraes-3bed627aa9bf58e876f5da3fd23aa5e3)
+citeturn374search11 [wordlim: 200] Crawled: 5 months ago; Ivani dos Santos Moraes é Socio na Ivani dos Santos Moraes, especializada em Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida. ... A empresa com a razão social IVANI DOS SANTOS MORAES, opera com o CNPJ 51.774.397/0001-00 e tem sua sede localizada em Itapira/SP.
+--------------------------------------------------------------------------------
+Lista de senadores do Brasil da 57.ª legislatura (https://pt.wikipedia.org/wiki/Lista_de_senadores_do_Brasil_da_57.%C2%AA_legislatura)
+citeturn374search18 [wordlim: 200] Crawled: 4 months ago; (MDB) | Direito | Universidade Federal de Alagoas | Ex-Presidente do Senado ... 2º: Adélia Maria (PV) (FE Brasil) | Economia (pós graduado em Políticas públicas direcionadas á Primeira Infância) | *  Universidade de Brasília ... 2º: Silvia Nascimento Cardoso dos Santos Cerqueira ... (Republicanos) | Direito | Faculdades Integradas de São Carlos | Ex-Ministra da Mulher, da Família e dos Direitos Humanos (Governo Bolsonaro) | 2023/2031 | ... Ex-Deputado Distrital | 2019/2027 | Eleito pelo PSDB (PSDB Cidadania) ... (MDB) | Letras | Universidade Federal do Piauí | Ex-Ministro da Saúde do Brasil (Governo Dilma) ...  |  | PL | 1º: Renata Guerra ... *  Escola de Pós-Graduação Naval | Ex-Ministro da Ciência, Tecnologia e Inovações (Governo Bolsonaro) | 2023/2031 | ...  2º: Ivani Boscolo

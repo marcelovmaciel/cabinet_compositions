@@ -1,0 +1,17 @@
+{
+  "uf": "PA",
+  "municipio": "4563",
+  "city": "BELÉM",
+  "party": "REDE",
+  "id": 64,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=64&currentPage=0&pageSize=10000",
+      "records": 398,
+      "totalElements": 398,
+      "response_sha256": "503b28243702024724327a53d59fa15a587aa8258c2d38eb87df6d4d15db0395",
+      "retrieved_utc": "2026-09-10T23:39:30Z"
+    }
+  ],
+  "matches": []
+}

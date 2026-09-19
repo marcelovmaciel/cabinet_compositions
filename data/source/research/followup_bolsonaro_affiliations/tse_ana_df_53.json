@@ -1,0 +1,14 @@
+{
+  "party": "PSD",
+  "id": 53,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=53&currentPage=0&pageSize=10000",
+      "records": 1933,
+      "totalElements": 1933,
+      "response_sha256": "ff5cd415e0c70aaedcde68bc894a273f8e9faaa00a2dff52047396e992756a83",
+      "retrieved_utc": "2026-09-10T23:47:51Z"
+    }
+  ],
+  "matches": []
+}

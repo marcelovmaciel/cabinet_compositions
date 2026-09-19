@@ -1,0 +1,16 @@
+{
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 582,
+      "totalElements": 582,
+      "response_sha256": "33d735b807cd6cfa4223930d5047b3a8e451d2e69ad10ccfc291ceb785e7e453",
+      "retrieved_utc": "2026-09-10T23:36:02Z"
+    }
+  ],
+  "matches": []
+}

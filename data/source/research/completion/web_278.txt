@@ -1,0 +1,484 @@
+(PDF) Nota Técnica Nº 53 - Gabinetes Ministeriais da Nova República (1985-2020): Cargos, Composição Partidária e Mudança (https://www.researchgate.net/publication/361753585_Nota_Tecnica_N_53_-_Gabinetes_Ministeriais_da_Nova_Republica_1985-2020_Cargos_Composicao_Partidaria_e_Mudanca)
+citeturn277search0 [wordlim: 200] Crawled: last month; # Nota Técnica Nº 53 - Gabinetes Ministeriais da Nova República (1985-2020): Cargos, Composição Partidária e Mudança ... Acir Almeida ... O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na construção do módulo do Atlas do Estado Brasileiro denominado Presidentes, partidos e coalizões, que reúne dados a respeito dos gabinetes ministeriais da Nova República, sobretudo a evolução da sua composição partidária. ... As publicações do Ipea estão disponíveis para download gratuito nos formatos PDF (todas) e EPUB (livros e periódicos). ... de Pesquisa Econômica Aplicada ou do Ministério da Economia. ... Diretora de Estudos e Políticas Sociais
+
+Technical Report PDF Available
+
+# Nota Técnica Nº 53 - Gabinetes Ministeriais da Nova República (1985-2020): Cargos, Composição Partidária e Mudança
+
+  * October 2021
+
+DOI:10.38116/ntdiest53
+
+Authors:
+
+Acir Almeida
+
+Acir Almeida
+
+  * This person is not on ResearchGate, or hasn't claimed this research yet.
+
+Diest - Ipea
+
+  * Instituto de Pesquisa Econômica Aplicada - IPEA
+
+Image
+
+Download full-text PDFRead full-text
+
+## Abstract
+
+O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na construção do módulo do Atlas do Estado Brasileiro denominado Presidentes, partidos e coalizões, que reúne dados a respeito dos gabinetes ministeriais da Nova República, sobretudo a evolução da sua composição partidária. A nota revisita os critérios e as informações utilizados na identificação dos gabinetes ministeriais e da sua composição partidária, no período 1985-2020. Espera-se, assim, solucionar divergências de natureza descritiva, de maneira a contribuir para caracterizações mais precisas do fenômeno. Naturalmente, esse tipo de aporte tem potenciais desdobramentos para outras análises, acerca seja dos condicionantes, seja dos impactos da composição partidária do gabinete, no sentido de tornar seus resultados mais precisos e confiáveis.
+
+Content uploaded by Diest - Ipea
+
+Author content
+
+All content in this area was uploaded by Diest - Ipea on Jul 05, 2022
+
+Content may be subject to copyright.
+
+Nota
+
+Técnica
+
+Outubro de 2021
+
+N O 53
+
+Diest
+
+Diretoria de Estudos e Políticas do
+
+Estado, das Instituições e da Democracia
+
+GABINETES
+
+MINISTERIAIS DA NOVA
+
+REPÚBLICA (1985-2020):
+
+CARGOS, COMPOSIÇÃO
+
+PARTIDÁRIA E MUDANÇA
+
+Acir Almeida
+
+DOI: http://dx.doi.org/10.38116/ntdiest53
+
+As publicações do Ipea estão disponíveis para download gratuito nos formatos PDF (todas) e EPUB (livros e periódicos). Acesse: <http://www.ipea.gov.br/
+
+portal/publicacoes>.
+
+As opiniões emitidas nesta publicação são de exclusiva e inteira responsabilidade dos autores, não exprimindo, necessariamente, o ponto de vista do Instituto
+
+de Pesquisa Econômica Aplicada ou do Ministério da Economia.
+
+É permitida a reprodução deste texto e dos dados nele contidos, desde que citada a fonte.
+
+Reproduções para ﬁns comerciais são proibidas.
+
+EQUIPE TÉCNICA
+
+Acir Almeida
+
+Técnico de planejamento e pesquisa na Diretoria de Estudos e Políticas do Estado,
+
+das Instituições e da Democracia (Diest) do Ipea. E-mail: <acir.almeida@ipea.gov.br>.
+
+© Instituto de Pesquisa Econômica Aplicada – ipea 2021
+
+Governo Federal
+
+Ministério da Economia
+
+Ministro Paulo Guedes
+
+Fundação pública vinculada ao Ministério da Economia,
+
+o Ipea fornece suporte técnico e institucional às ações
+
+governamentais – possibilitando a formulação de inúmeras
+
+políticas públicas e programas de desenvolvimento
+
+brasileiros – e disponibiliza, para a sociedade, pesquisas e
+
+estudos realizados por seus técnicos.
+
+Presidente
+
+Carlos von Doellinger
+
+Diretor de Desenvolvimento Institucional
+
+Manoel Rodrigues Junior
+
+Diretora de Estudos e Políticas do Estado,
+
+das Instituições e da Democracia
+
+Flávia de Holanda Schmidt
+
+Diretor de Estudos e Políticas
+
+Macroeconômicas
+
+José Ronaldo de Castro Souza Júnior
+
+Diretor de Estudos e Políticas Regionais,
+
+Urbanas e Ambientais
+
+Nilo Luiz Saccaro Júnior
+
+Diretor de Estudos e Políticas Setoriais de Inovação
+
+e Infraestrutura
+
+André Tortato Rauen
+
+Diretora de Estudos e Políticas Sociais
+
+Lenita Maria Turchi
+
+Diretor de Estudos e Relações Econômicas
+
+e Políticas Internacionais
+
+Ivan Tiago Machado Oliveira
+
+Assessor-chefe de Imprensa e Comunicação
+
+André Reis Diniz
+
+Ouvidoria: http://www.ipea.gov.br/ouvidoria
+
+URL: http://www.ipea.gov.br
+
+SUMÁRIO
+
+1 INTRODUÇÃO ..................................................................................................................................................................................... 5
+
+2 O GABINETE ........................................................................................................................................................................................ 6
+
+3 COMPOSIÇÃO PARTIDÁRIA ........................................................................................................................................................... 8
+
+4 MUDANÇA DE GABINETE ............................................................................................................................................................... 11
+
+5 CONCLUSÃO ....................................................................................................................................................................................... 14
+
+REFERÊNCIAS ........................................................................................................................................................................................ 14
+
+APÊNDICE A ........................................................................................................................................................................................... 16
+
+APÊNDICE B ........................................................................................................................................................................................... 17
+
+APÊNDICE C ........................................................................................................................................................................................... 18
+
+NOTA TÉCNICA
+
+5
+
+1 INTRODUÇÃO 1
+
+O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na construção do módulo do
+
+Atlas do Estado Brasileiro denominado Presidentes, partidos e coalizões, que reúne dados a respeito dos gabinetes
+15
+
+20
+
+25
+
+30
+
+35
+
+Secretário com status de ministro Ministro
+
+21
+
+11
+
+19 20 21 24 24 25 25
+
+21
+
+16
+
+1
+
+6
+
+2 1
+
+6
+
+6 6
+
+8 8
+
+1
+
+2
+
+Sarney Collor Itamar FHC 1 FHC 2 Lula 1 Lula 2 Dilma 1 Dilma 2 Temer Bolsonaro
+
+Elaboração do autor.
+
+
+
+da AGU, da CGU, da Secom e do BCB.
+
+3 COMPOSIÇÃO PARTIDÁRIA
+
+
+
+representantes de partidos. Esse padrão  da cadeia de delegação naquele sistema de governo, pela qual o gabinete
+
+é politicamente responsável perante uma maioria parlamentar organizada em moldes partidários. Nas democracias
+
+presidenciais, por sua vez, como os membros do gabinete são agentes de um presidente popularmente eleito, eles não
+
+ Não obstante, em razão da necessidade de se estabelecer uma base de apoio
+
+legislativo estável para suas políticas, presidentes geralmente montam seus gabinetes em cooperação com partidos
+
+--------------------------------------------------------------------------------
+Nota
+Técnica
+GABINETES 
+MINISTERIAIS DA NOVA 
+REPÚ (https://repositorio.ipea.gov.br/bitstreams/2469c87b-3082-405d-aba8-13971cabb8f7/download)
+citeturn277search12 [wordlim: 200] Published: 8 months ago; GABINETESMINISTERIAIS DA NOVA ... NO 53Acir Almeida
+Nota
+Técnica
+GABINETES 
+MINISTERIAIS DA NOVA 
+REPÚBLICA (1985-2020): 
+CARGOS, COMPOSIÇÃO 
+PARTIDÁRIA E MUDANÇA
+NO 53
+Acir Almeida
+Diest
+Diretoria de Estudos e Políticas do
+Estado, das Instituições e da Democracia
+Outubro de 2021--------------------------------------------------------------------------------
+3163
+REVERTENDO A DELEGAÇÃO: O 
+CRESCENTE PROTAGON (https://repositorio.ipea.gov.br/bitstreams/6d157d5c-662e-4926-89a4-13112b85d940/download)
+citeturn277search13 [wordlim: 200] Published: 8 months ago; Informações extraídas da base de dados construída por: ALMEIDA, A.Gabinetesministeriais da Nova República (1985-2020): cargos, composição partidária e ... 53). ... Liberal; PT – Partido dos Trabalhadores; PDT – Partido Democrático Trabalhista;
+JB-2
+1/2/2020
+31/1/2021
+JB-3
+1/2/2021
+31/1/2022
+JB-4
+1/2/2022
+31/12/2022
+Elaboração do autor.
+Obs.: 1. Informações extraídas da base de dados construída por: ALMEIDA, A. Gabinetes 
+ministeriais da Nova República (1985-2020): cargos, composição partidária e 
+mudança. Brasília: Ipea, 2021. (Nota Técnica, n. 53).
+          2. JS – José Sarney; FC – Fernando Collor; IF – Itamar Franco; FH – Fernando Henrique; 
+LS – Lula; DR – Dilma Rousseff; MT – Michel Temer; e JB – Jair Bolsonaro.
+3. PMDB – Partido do Movimento Democrático Brasileiro; PFL – Partido da Frente 
+Liberal; PT – Partido dos Trabalhadores; PDT – Partido Democrático Trabalhista; 
+PCdoB – Partido Comunista do Brasil; PSB – Partido Socialista Brasileiro; PSDB – 
+Partido da Social Democracia Brasileira; PCB – Partido Comunista Brasileiro; 
+PDS – Partido Democrático Social; PRN – Partido Republicano Nacionalista; 
+PTB – Partido Trabalhista Brasileiro; PL – Partido Liberal; PDC – Partido Democrata 
+Cristão; PSC – Partido Social Cristão; PTR – Partido Trabalhista Renovador; 
+PST – Partido Social Trabalhista; PP – Partido Progressistas; PPS – Partido 
+Popular Socialista; PPB – Partido Progressista Brasileiro; PV – Partido Verde; 
+PRB – Partido Republicano Brasileiro; PR – Partido da República; DEM – Democratas; 
+PSD – Partido Social Democrático; SD – Solidariedade; PSOL – Partido Socialismo e 
+Liberdade; PSL – Partido Social Liberal; REP – Republicanos; Novo – Partido Novo.
+56--------------------------------------------------------------------------------
+7088
+Diário da República, 2.a série — N.o 53 — 15 (https://files.diariodarepublica.pt/2s/2007/03/053000000/0708807089.pdf)
+citeturn277search14 [wordlim: 200] Published: 19.5 years ago; Diário da República, 2.a série — N.o 53 — 15 de Março de 2007 ... 28 de Julho de 2006. — Pelo Ministro de Estado e das Finanças, ... no apoio administrativo aos gabinetes ministeriais e outros serviços ... taria-Geral ao auxiliar administrativo Nuno Miguel Paço de Almeida. ... Docente no Instituto Superior de Matemáticas e Gestão da Uni- ... petências e a dispersão geográfica dos gabinetes ministeriais e outros
+Considerando as competências da Secretaria-Geral, nomeadamente
+no apoio administrativo aos gabinetes ministeriais e outros serviços
+do Ministério da Cultura, designadamente na distribuição de cor-
+respondência e no transporte de diversos bens (material de escritório,
+material informático e outros);
+Considerando que o número de motoristas em exercício de funções
+nesta Secretaria-Geral é insuficiente para colmatar as necessidades
+do serviço no âmbito das tarefas atrás mencionadas;
+Considerando as vantagens económicas e funcionais, na concessão
+da autorização genérica de condução das viaturas afectas a esta Secre-
+taria-Geral a dirigentes e funcionários que devam deslocar-se em ser-
+viço, e dada, nomeadamente, a dispersão geográfica dos gabinetes
+ministeriais e outros serviços:
+Assim:
+Ao abrigo do disposto no n.o 3 do artigo 2.o do Decreto-Lei
+n.o 490/99, de 17 de Novembro, concede-se autorização para a con-
+dução genérica das viaturas oficiais que se encontram afectas a Secre-
+taria-Geral ao auxiliar administrativo Nuno Miguel Paço de Almeida.
+do presente aviso no Diário da República.
+O Decreto-Lei n.o 490/99, de 17 de Novembro, possibilita, mediante
+a verificação de determinadas circunstâncias, a condução de viaturas
+oficiais por trabalhadores da Administração Pública, não integrados
+na carreira de motorista.
+Considerando que a secretária-geral necessita, dadas as suas com-
+petências e a dispersão geográfica dos gabinetes ministeriais e outros
+serviços deste Ministério, de se deslocar frequentemente;
+Considerando que por questões de horários, ausências, etc., nem
+sempre pode ter o seu motorista ao dispor;
+Considerando as vantagens económicas e funcionais na concessão
+da autorização genérica de condução das viaturas afectas a esta Secre-
+taria-Geral a dirigentes e funcionários que devam deslocar-se em
+serviço:
+Assim:
+Ao abrigo do disposto no n.o 3 do artigo 2.o do Decreto-Lei
+n.o 490/99, de 17 de Novembro, concede-se autorização para condução
+genérica das viaturas oficiais que se encontram afectas à Secreta-
+ria-Geral à secretaria-geral licenciada Maria Fernanda Soares Rebelo
+Heitor.
+12 de Fevereiro de 2007. — O Chefe, Fernando José do Carmo
+Damil, tenente-coronel.
+MARINHA
+28 de Julho de 2006. — Pelo Ministro de Estado e das Finanças,
+João Alexandre Tavares Gonçalves de Figueiredo, Secretário de Estado
+da Administração Pública. — A Ministra da Cultura, Maria Isabel da
+Silva Pires de Lima.
+Despacho n.o 4840/2007
+Gabinete do Chefe do Estado-Maior da Armada
+Portaria n.o 323/2007
+O Decreto-Lei n.o 490/99, de 17 de Novembro, possibilita, mediante
+a verificação de determinadas circunstâncias, a condução de viaturas
+oficiais por trabalhadores da Administração Pública não integrados
+na carreira de motorista.
+Considerando as competências da Secretaria-Geral, nomeadamente
+o apoio técnico e administrativo aos gabinetes ministeriais e outros
+serviços do Ministério da Cultura;
+Manda o almirante Chefe do Estado-Maior da Armada, ao abrigo
+das disposições conjugadas do n.o 3 do artigo 69.o e da alínea c)
+do n.o 1 do artigo 68.o do Estatuto dos Militares das Forças Armadas
+(EMFAR), graduar no posto de capitão-tenente os primeiros-tenentes--------------------------------------------------------------------------------
+UNIVERSIDADE FEDERAL DE CAMPINA GRANDE (https://ppgcp.ufcg.edu.br/images/Docs/Dissertacoes/2025/ierre_Braz_de_Moraesvesao_final.pdf)
+citeturn277search15 [wordlim: 200] Published: 4 months ago; aproveitados os critérios de Alcir Almeida, apresentados no módulo do Atlas do Estado ... Econômica Aplicada – IPEA e publicado na Nota Técnica nº 53 – Gabinetes ministeriais da nova república (1985- ... de entrada e de saída, e os partidos que eventualmente representavam; ii) uma lista dos gabinetes de cada
+entre si: “o primeiro estudo inclui o PMDB2 e o PSDB em gabinetes de Collor, mas não o partido do presidente 
+(PRN), enquanto o segundo estudo, ao contrário, inclui essa legenda, mas não aquelas. Outra divergência é com 
+relação a gabinetes de Fernando Henrique Cardoso (FHC): o primeiro estudo, mas não os demais, inclui o PPS, e 
+não há acordo entre nenhum deles sobre quando o PTB deixou o gabinete”. 
+51 Os critérios de temporalidade e a base de dados foram elaborados por Acir Almeida para o Instituto de Pesquisa 
+Econômica Aplicada – IPEA e publicado na Nota Técnica nº 53 – Gabinetes ministeriais da nova república (1985-
+2000): cargos, composição partidária e mudanças. Lá são apresentados os conceitos e critérios da base de dados 
+que contém “i) os titulares nomeados para os cargos de gabinete, com a denominação dos respectivos cargos, datas 
+de entrada e de saída, e os partidos que eventualmente representavam; ii) uma lista dos gabinetes de cada 
+presidência, com a respectiva data de início, tipo de evento originador e composição partidária; e, por fim, iii) 
+medidas quantitativas do grau de partidarismo do gabinete” (2021).--------------------------------------------------------------------------------
+N.o 252 — 31 de Outubro de 2000 (https://files.diariodarepublica.pt/2s/2000/10/252000000/1766317663.pdf)
+citeturn277search16 [wordlim: 200] Published: 1.2 years ago; 15 de Setembro de 2000. — O Ministro da Administração Interna, ... gabinetes ministeriais. ... posto nas alíneas a), b) e c) e no § 1.o do artigo 53.o da Portaria ... Vice-presidente — Superintendente Leopoldo Lopes de Almeida ... nos gabinetes ministeriais.
+N.o 252 — 31 de Outubro de 2000
+DIÁRIO DA REPÚBLICA — II SÉRIE
+17 663
+n.o 262/88, de 23 de Julho, nomeio para exercer funções de secretária
+pessoal do meu Gabinete a licenciada Cátia Monteiro da Silva
+Antunes.
+15 de Setembro de 2000. — O Ministro da Administração Interna,
+Nuno Severiano Teixeira.
+Despacho n.o 21 949/2000 (2.a série). — Nos termos dos arti-
+gos 2.o e 6.o do Decreto-Lei n.o 262/88, de 23 de Julho, nomeio assessor
+do meu Gabinete Mário João Rego Lopes Simões, tendo em vista
+a realização de estudos diversos no âmbito da sua especialidade, aufe-
+rindo os correspondentes subsídios de férias, de Natal e de refeição
+e demais direitos e regalias inerentes ao exercício de funções nos
+gabinetes ministeriais.
+A presente nomeação produz efeitos a partir de 18 de Setembro
+de 2000.
+3 de Outubro de 2000. — O Secretário de Estado Adjunto do Minis-
+tro da Administração Interna, José Carlos das Dores Zorrinho.
+Despacho n.o 21 944/2000 (2.a série). — De acordo com o dis-
+posto nas alíneas a), b) e c) e no § 1.o do artigo 53.o da Portaria
+n.o 18 836, de 24 de Novembro de 1961, nomeio a direcção do Cofre
+de Previdência da Polícia de Segurança Pública, que será assim
+constituída:
+Presidente — Superintendente-chefe Mário Gonçalves Amaro.
+Vice-presidente — Superintendente Leopoldo Lopes de Almeida
+Amaral.
+Vogais:
+Subintendente António Cairrão Marques.
+Subintendente Pedro Manuel Catalão Amiguinho.
+Subchefe principal Alberto Marques dos Santos.
+13 de Outubro de 2000. — O Ministro da Administração Interna,
+Nuno Severiano Teixeira.
+Despacho n.o 21 950/2000 (2.a série). — Nos termos dos arti-
+gos 2.o e 6.o do Decreto-Lei n.o 262/88, de 23 de Julho, nomeio adjunto
+do meu Gabinete o mestre Domingos Pereira de Sousa, tendo em
+--------------------------------------------------------------------------------
+Elite Administrativa Portuguesa: 2000-2020 | PDF | Estado | Ministros (governo) (https://pt.scribd.com/document/853333561/Continuidade-e-mudanca-nos-padroes-portugal)
+citeturn277search1 [wordlim: 200] Published: 3.1 years ago; Crawled: 1.4 years ago; ## Almeida, Pedro Tavares de (1995), “A construção do Estado liberal: elite política e ... 53-79. ... Quem Governa a Europa do Sul?, Lisboa, Imprensa de Ciências Sociais, pp.
+## Almeida, Pedro Tavares de (1995), “A construção do Estado liberal: elite política e
+
+burocracia na Regeneração”, Lisboa, Faculdade de Ciências Sociais e Humanas da
+Universidade Nova de Lisboa, tese de doutoramento em Sociologia Política.
+Almeida, Pedro Tavares de (2005), “The Portuguese administrative elite, 1951-1910”,
+Revista de História das Ideias, Revista da Faculdade de Letras da Universidade de
+Coimbra, 26, pp. 439-462.
+Almeida, Pedro Tavares de (2007), “A burocracia do Estado no Portugal Liberal (2.ª
+metade do século XIX)”, em Pedro Tavares de Almeida e Rui Branco (coords.),
+Burocracia, Estado e Território, Lisboa, Livros Horizonte, pp. 53-79.
+Almeida, Pedro Tavares, e António Costa Pinto (2006), “Os ministros portugueses,
+1951-1999: perfil social e carreira política”, em Pedro Tavares de Almeida et al.,
+Quem Governa a Europa do Sul?, Lisboa, Imprensa de Ciências Sociais, pp. 19-58.
+Armstrong, John (1973), The European Administrative Elite, Princeton, Princeton
+University Press.
+--------------------------------------------------------------------------------
+(PDF) O poder da representação: a relação entre Executivo e Legislativo na política imperial de meados do século XIX (https://www.researchgate.net/publication/308129330_O_poder_da_representacao_a_relacao_entre_Executivo_e_Legislativo_na_politica_imperial_de_meados_do_seculo_XIX)
+citeturn277search2 [wordlim: 200] Published: 10.1 years ago; Crawled: last month; organização mais adaptada às condições do Sistema Representativo”53, o ... ao imperador nomear e demitir “livremente os ministros de Estado”. ... da publicação do decreto, contudo, tal responsabilidade política recairia so- ... ria ao presidente realizar as negociações e tecer as alianças necessárias para
+
+organização mais adaptada às condições do Sistema Representativo”53, o
+
+decreto 523, de 20 de julho de 1847, imprimira uma mudança substancial na
+
+administração do Estado imperial. Segundo a Constituição de 1824 em seu
+
+artigo 101, que regulava o exercício do Poder Moderador, inciso 6 o, caberia
+
+ao imperador nomear e demitir “livremente os ministros de Estado”. A partir
+
+da publicação do decreto, contudo, tal responsabilidade política recairia so-
+
+bre o Presidente do Conselho de Ministros, restando ao imperador a tarefa
+
+de dar sua anuência à escolha realizada. Isso representaria uma alteração
+
+importante no espaço de ação do Poder Executivo, uma vez que agora cabe-
+
+ria ao presidente realizar as negociações e tecer as alianças necessárias para
+
+possibilitar a atuação do gabinete, não apenas no que se referia à sua esfera
+
+de atuação mais imediata mas, também, no que tocava às suas atribuições
+
+diretas (como a nomeação dos presidentes de província, por exemplo)54. --------------------------------------------------------------------------------
+(PDF) O aparelho administrativo de um super-Ministério (1852-2011) (https://www.researchgate.net/publication/308899802_O_aparelho_administrativo_de_um_super-Ministerio_1852-2011)
+citeturn277search3 [wordlim: 200] Crawled: 2 weeks ago; subordinação hierárquica, como uma maior diferenciação de papéis no interior do corpoburocrático» (Almeida, 1995: 254).Neste contexto, a reforma da orgânica da Secretaria de Estado dos Negócios do ... distribuídos, para além do Gabinete do Ministro e da Repartição de Contabilidade, por
+--------------------------------------------------------------------------------
+Brasil - O poder da representação: a relação entre Executivo e Legislativo na política imperial de meados do século XIX O poder da representação: a relação entre Executivo e Legislativo na política imperial de meados do século XIX (https://www.scielo.br/j/alm/a/RrhmVZ35sBP6sqhVFVxbr8k/?lang=pt)
+citeturn277search4 [wordlim: 200] Published: 10.1 years ago; Crawled: 3 days ago; Ao contrário do que acontecera em 1843, contudo, ambos os gabinetes não foram nomeados diretamente pelo imperador.Ao criar o cargo de Presidente do Conselho de Ministros, tendo em vista "dar ao Ministério uma organização mais adaptada às condições do Sistema Representativo"^{53}, o decreto 523, de 20 de julho de 1847, imprimira uma mudança substancial na administração do Estado imperial.
+--------------------------------------------------------------------------------
+(PDF) Os Açores e as elites políticas da Monarquia Constitucional: ministros e altos funcionários públicos naturais do arquipélago (1834-1910) (https://www.researchgate.net/publication/278243455_Os_Acores_e_as_elites_politicas_da_Monarquia_Constitucional_ministros_e_altos_funcionarios_publicos_naturais_do_arquipelago_1834-1910)
+citeturn277search5 [wordlim: 200] Published: 18.7 years ago; Crawled: 3 months ago; foram agregados o de Belém e dos Olivais) forneceu 38 ministros de um total ... que são oriundos do Porto (8) e de Coimbra (7), ficamos com 53 indivíduos
+--------------------------------------------------------------------------------
+Brazil - Manda quem pode: a elite governante da cultura em Portugal (1976-2011) Manda quem pode: a elite governante da cultura em Portugal (1976-2011) (https://doi.org/10.1590/S0103-33522012000200003)
+citeturn277search6 [wordlim: 200] Published: 14.0 years ago; Crawled: 3 months ago; No caso dos Ministros da Cultura a aquisição do diploma de licenciatura (38,5%) é menos relevante do que a percentagem de indivíduos doutorados (53,8%) - os resultados apontam, por isso, para a polarização da formação acadêmica entre Ministros da Cultura licenciados e doutorados. ... Do mesmo modo, o tratamento do conjunto da informação biográfica disponível permite-nos confirmar a inferência dos autores Almeida e Pinto (2009, p. 151) para o caso dos Ministros portugueses: a presença de Ministros da Cultura e de Secretários de Estado da Cultura com formação jurídica tende a ser maior nos partidos de direita.
+--------------------------------------------------------------------------------
+Os Construtores Do Império - Ideais e Lutas Do Partido Conservador Brasileiro (João Camilo de Oliveira Torres) | PDF | Conservadorismo | Liberalismo (https://www.scribd.com/document/392533353/Os-Construtores-do-Impe-rio-Ideais-e-lutas-do-Partido-Conservador-Brasileiro-Joa-o-Camilo-de-Oliveira-Torres)
+citeturn277search7 [wordlim: 200] Published: 58.7 years ago; Crawled: 7.8 years ago; GABINETES CONSERVADORES ... Sepetiba), deputado, nomeado ministro em 24 de julho de 1840.F azenda — Miguel Calmon du Pin e Almeida (marquês de Abrantes),
+--------------------------------------------------------------------------------
+Grátis: História da Formação Social Politica e Econômica do Brasil - Material Claro e Objetivo em PDF para Estudo Rápido (https://www.passeidireto.com/arquivo/50257350/historia-da-formacao-social-politica-e-economica-do-brasil)
+citeturn277search8 [wordlim: 200] Published: 8.1 years ago; Crawled: last week;     singular no Brasil, o chamado “parlamentarismo à brasileira”. ...     Conselho de Ministros e a composição do gabinete ministerial. ... Pedro II foram formados 36 gabinetes ministeriais,
+--------------------------------------------------------------------------------
+Brazil - Federalismo e Coalizão: A Representatividade dos Estados nos Gabinetes Ministeriais Brasileiros Federalismo e Coalizão: A Representatividade dos Estados nos Gabinetes Ministeriais Brasileiros (https://www.scielo.br/j/dados/a/srw7gH5KVLR5CXNYkK8zZ8s/?format=html&lang=pt)
+citeturn277search9 [wordlim: 200] Published: 1.8 years ago; Crawled: 3 weeks ago;   * Almeida, Maria Hermínia T. de. ... (2019), "Reflexões sobre o papel dos partidos no sistema político brasileiro: atividade parlamentar no contexto de preponderância do executivo". ... (1994), "Formação de gabinetes presidenciais no Brasil: coalizão versus cooptação".
+--------------------------------------------------------------------------------
+Revolução Federalista e Parlamentarismo | PDF | República | Monarquia (https://pt.scribd.com/document/391304635/Carlos-Eduardo-Dieder-Reverbel-A-Revolucao-Federalista-e-o-Ideario-Paramentarista)
+citeturn277search10 [wordlim: 200] Published: 12.7 years ago; Crawled: 7.9 years ago; Deputados, moção de desconfiança o 30º Gabinete Ministerial, por iniciativa doDeputado José Mariano. ... Os Gabinetes Ministeriais derrubados pelo Imperador
+--------------------------------------------------------------------------------
+(PDF) Quem são os ministros no Brasil? Um estudo sobre os atributos sócio profissionais dos ministros de Estado no Brasil (1995 a 2014) (https://www.researchgate.net/publication/319653706_Quem_sao_os_ministros_no_Brasil_Um_estudo_sobre_os_atributos_socio_profissionais_dos_ministros_de_Estado_no_Brasil_1995_a_2014)
+citeturn277search11 [wordlim: 200] Crawled: last month; 53 ... composta por 4 legendas, metade dos partidos que formaram o gabinete ministerial no governo Dilma ... Sem dúvida, o Brasil consiste num caso excepcional de fragmentação partidária dentro do ... analisados, agregamos os ministros em 3 categorias a partir do seu vínculo partidário no momento de

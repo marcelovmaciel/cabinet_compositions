@@ -1,0 +1,236 @@
+Internal Error ()
+citeturn294view0 [wordlim: 200] Source: open({"ref_id":"https://www.researchgate.net/publication/361753585_Nota_Tecnica_N_53_-_Gabinetes_Ministeriais_da_Nova_Republica_1985-2020_Cargos_Composicao_Partidaria_e_Mudanca","lineno":310}); Total lines: 1
+L0: Failed to fetch https://www.researchgate.net/publication/361753585_Nota_Tecnica_N_53_-_Gabinetes_Ministeriais_da_Nova_Republica_1985-2020_Cargos_Composicao_Partidaria_e_Mudanca: Cache miss
+--------------------------------------------------------------------------------
+Partidos políticos registrados no TSE — Tribunal Superior Eleitoral (https://www.tse.jus.br/partidos/partidos-registrados-no-tse)
+citeturn294view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({"ref_id":"https://www.tse.jus.br/partidos/partidos-registrados-no-tse","pattern":"PATRIOTA"}); Total lines: 324
+L0:   * Acessibilidade
+L1:   *     * Rybená acessibilidades adicionais
+L2:     * Rybená Libras
+L3:     * Rybená voz
+L4: 
+L5: Subir página Descer página
+L6: 
+L7: cite0†Conteúdo principal [1] L8: 
+L9: cite1†Menu principal [2] L10: 
+L11: cite2†Busca [3] L12: 
+L13: cite3†Busca avancada [4] L14: 
+L15: cite4†Pagina inicial [5] L16: 
+L17: cite5†Pagina de acessibilidade [6] L18: 
+L19: # Página interna do portal
+L20: 
+L21: ## Seção de conteúdo
+L22: ### Partidos
+L23: 
+L24:   * cite6†Contas partidárias L25:   * cite7†Criação de partido político L26:   * cite8†Federações partidárias L27:   * cite9†Filiação partidária L28:   * cite10†Partidos registrados no TSE L29:     * cite11†Histórico L30:     * cite12†Informações partidárias L31:   * cite13†Propaganda partidária L32: 
+L33: ### Tags
+L34: 
+L35:   * cite14†#Partido político L36:   * cite15†#partidos registrados no TSE L37:   * cite16†#partidos políticos brasileiros L38:   * cite17†#Fusões de partidos políticos L39:   * cite18†#Informações sobre partidos políticos L40: ### Gestor responsável
+L41: 
+L42: Núcleo de Gerenciamento de Sistemas e Dados Partidários (NGDAP)
+L43: 
+L44: Partidos políticos registrados no TSE Lista de partidos políticos registrados no TSE. https://www.tse.jus.br/partidos/partidos-registrados-no-tse https://www.tse.jus.br/@@site-logo/logo.jpg
+L45: ## Partidos políticos registrados no TSE
+L46: 
+L47: Compartilhar página por e-mail cite19†Compartilhar pagina via Facebook†www.facebook.com cite20†Compartilhar página no WhatsApp†api.whatsapp.com L48: 
+L49:   * [Button: Fusões, incorporações e mudanças de nomenclatura/sigla/ número de legenda ]
+L50: 
+L51: Clique na sigla do partido político para ter acesso aos dados do diretório nacional da agremiação (endereço, telefone, fax, e-mail , site ), bem como ao estatuto e suas alterações, e eventuais normas complementares.
+L52: Partidos registrados no TSE
+L53: 0001  | SIGLA  | NOME  | DEFERIMENTO  | PRES. NACIONAL  | Nº DA LEGENDA
+L54: --- | --- | --- | --- | --- | ---
+L55: 1  | cite21†MDB | MOVIMENTO DEMOCRÁTICO BRASILEIRO  | 30.6.1981  | LUIZ FELIPE BALEIA TENUTO ROSSI  | 15
+L56: 2  | cite22†PDT | PARTIDO DEMOCRÁTICO TRABALHISTA  | 10.11.1981  | CARLOS ROBERTO LUPI  | 12
+L57: 3  | cite23†PT | PARTIDO DOS TRABALHADORES  | 11.2.1982  | EDSON ANTONIO EDINHO DA SILVA  | 13
+L58: 4  | cite24†PCdoB | PARTIDO COMUNISTA DO BRASIL  | 23.6.1988  | NÁDIA CAMPEÃO
+L59: (Presidente em exercício)  | 65
+L60: 5  | cite25†PSB | PARTIDO SOCIALISTA BRASILEIRO  | 1°.7.1988  | JOÃO HENRIQUE DE ANDRADE LIMA CAMPOS  | 40
+L61: 6  | cite26†PSDB | PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA  | 24.8.1989  | AÉCIO NEVES DA CUNHA  | 45
+L62: 7  | cite27†AGIR | AGIR  | 22.2.1990  | DANIEL S. TOURINHO  | 36
+L63: 8  | cite28†MOBILIZA | MOBILIZAÇÃO NACIONAL  | 25.10.1990  | ANTONIO CARLOS BOSCO MASSAROLLO  | 33
+L64: 9  | cite29†CIDADANIA | CIDADANIA  | 19.3.1992  | ALEX SPINELLI MANENTE  | 23
+L65: 10  | cite30†PV | PARTIDO VERDE  | 30.9.1993  | JOSÉ LUIZ DE FRANÇA PENNA  | 43
+L66: 11  | cite31†AVANTE | AVANTE  | 11.10.1994  | LUIS HENRIQUE DE OLIVEIRA RESENDE  | 70
+L67: 12  | cite32†PP | PROGRESSISTAS  | 16.11.1995  | CIRO NOGUEIRA LIMA FILHO  | 11
+L68: 13  | cite33†PSTU | PARTIDO SOCIALISTA DOS TRABALHADORES UNIFICADO  | 19.12.1995  | JOSÉ MARIA DE ALMEIDA  | 16
+L69: 14  | cite34†PCB | PARTIDO COMUNISTA BRASILEIRO  | 9.5.1996  | EDMILSON SILVA COSTA*  | 21
+L70: 15  | cite35†PRTB | PARTIDO RENOVADOR TRABALHISTA BRASILEIRO  | 18.2.1997  | LEONARDO ALVES DE ARAÚJO  | 28
+L71: 16  | cite36†DC | DEMOCRACIA CRISTÃ  | 5.8.1997  | JOÃO CALDAS DA SILVA (Presidente em exercício)  | 27
+L72: 17  | cite37†PCO | PARTIDO DA CAUSA OPERÁRIA  | 30.9.1997  | RUI COSTA PIMENTA  | 29
+L73: 18  | cite38†PODE | PODEMOS  | 2.10.1997  | RENATA HELLMEISTER DE ABREU  | 20
+L74: 19  | cite39†REPUBLICANOS | REPUBLICANOS  | 25.8.2005  | MARCOS ANTONIO PEREIRA  | 10
+L75: 20  | cite40†PSOL | PARTIDO SOCIALISMO E LIBERDADE  | 15.9.2005  | PAULA BERMUDES MORAES CORADI   | 50
+L76: 21  | cite41†PL | PARTIDO LIBERAL  | 19.12.2006  | VALDEMAR COSTA NETO  | 22
+L77: 22  | cite42†PSD | PARTIDO SOCIAL DEMOCRÁTICO  | 27.9.2011  | GILBERTO KASSAB  | 55
+L78: 23  | cite43†SOLIDARIEDADE L79:  | SOLIDARIEDADE  | 24.9.2013  | PAULO PEREIRA DA SILVA  | 77
+L80: 24  | cite44†NOVO | PARTIDO NOVO  | 15.9.2015  | EDUARDO RODRIGO FERNANDES RIBEIRO  | 30
+L81: 25  | cite45†REDE | REDE SUSTENTABILIDADE  | 22.9.2015  | PAULO ROBERTO LAMAC JUNIOR  | 18
+L82: 26  | cite46†DEMOCRATA | DEMOCRATA  | 29.9.2015  | SUÊD HAIDAR NOGUEIRA  | 35
+L83: 27  | cite47†UP | UNIDADE POPULAR  | 10.12.2019  | LEONARDO PERICLES VIEIRA ROQUE  | 80
+L84: 28  | cite48†UNIÃO | UNIÃO BRASIL  | 8.2.2022  | ANTÔNIO EDUARDO GONÇALVES DE RUEDA  | 44
+L85: 29  | cite49†PRD | PARTIDO RENOVAÇÃO DEMOCRÁTICA  | 9.11.2023  | MARCUS VINÍCIUS DE VASCONCELOS FERREIRA  | 25
+L86: 30  | cite50†MISSÃO | PARTIDO MISSÃO  | 4.11.2025  | RENAN ANTONIO FERREIRA DOS SANTOS  | 14
+L87: (*) Nos termos do § 1º do art. 58 do estatuto do PCB, para fins jurídicos e institucionais, os cargos de Secretário Geral do Comitê Central e de Secretário Político dos Comitês Regionais e Municipais equiparam-se ao de Presidente do Comitê respectivo.
+L88: cite51†Bancada na Câmara (eleição e posse)†www.camara.gov.br L89: 
+L90: cite52†Bancada no Senado†www.senado.gov.br L91: 
+L92: cite11†Registros de partidos políticos 1945 a 1979 L93: 
+L94: cite53†Fidelidade Partidária L95: 
+L96: Legislação aplicável:
+L97: 
+L98:   * cite54†Lei nº 9.096/1995 (Lei dos Partidos Políticos)
+L99:   * cite55†Resolução-TSE nº 23.571/2018 (Disciplina a criação, organização, fusão, incorporação e extinção de partidos políticos).
+L100: 
+L101: FUSÕES, INCORPORAÇÕES E MUDANÇAS DE NOMENCLATURA/SIGLA/NÚMERO DE LEGENDA DE PARTIDOS POLÍTICOS
+L102: (a partir da entrada em vigor da Lei nº 9.096/1995)
+L103: 
+L104: 
+L105: 
+L106: Os arts. 27 e seguintes da Lei nº. 9.096, de 19 de setembro de 1995, estabelecem que dois ou mais partidos poderão fundir-se num só ou incorporar-se um ao outro, por decisão de seus órgãos nacionais de deliberação.
+L107: 
+L108: Uma vez deferido o pedido de fusão ou incorporação pelo Tribunal Superior Eleitoral (TSE), haverá o cancelamento, junto ao Ofício Civil e ao TSE, do registro do partido que se incorpore ou venha a se fundir.
+L109: Nos termos do art. 29, § 9º, da Lei nº 9.096/1995, somente será admitida a fusão ou incorporação de partidos políticos que hajam obtido o registro do seu estatuto no TSE há, pelo menos, 5 (cinco) anos.
+L110: 
+L111: O partido também poderá requerer a alterar o nome ou sigla, desde que inexista agremiação registrada no TSE com nomenclatura semelhante, conforme consignado no acórdão de 17 de maio de 2018 na PETIÇÃO n° 96 (863-89.1996.6.00.0000), Relator Ministro Jorge Mussi.
+L112: Nesse sentido, segue a relação de partidos com pedidos de fusão, incorporação ou mudança de nome ou sigla deferidos pelo TSE a partir da entrada em vigor da Lei nº 9.096/1995.
+L113: 
+L114: 
+L115: 
+L116: FUSÕES, INCORPORAÇÕES E MUDANÇAS DE NOMENCLATURA/SIGLA
+L117: 
+L118: (a partir da entrada em vigor da Lei nº 9.096/1995)
+L119: 
+L120: 
+L121: 
+L122: FUSÕES
+L123:    | PARTIDOS FUSIONADOS  | NOVO PARTIDO  | PROCESSO  | DATA DA DECISÃO
+L124: 1  |  Partido Progressista Reformador (PPR) e Partido Progressista (PP)  | Partido Progressista Brasileiro (PPB)*  | RGP nº 277 (312-46.1995.6.00.0000)  | 16/11/1995
+L125: 2  | Partido da Reedificação da Ordem Nacional (PRONA) e Partido Liberal (PL)  | Partido da República (PR)**    | RPP nº 305 (29782-39.2006.6.00.0000)  | 19/12/2006
+L126: 3  | Partido Social Liberal (PSL) e Democratas (DEM)  | União Brasil (UNIÃO)  | RPP nº 0600641-95.2021.6.00.0000  | 08/02/2022
+L127: 4  | Partido Trabalhista Brasileiro (PTB) e Patriota (PATRIOTA)  | Partido Renovação Democrática (PRD)  | RPP nº  0601913-90.2022.6.00.0000  | 09/11/2023
+L128: 
+L129: 
+L130: * o Partido Progressista Brasileiro (PPB) é o atual Progressistas (PP) – vide decisão de 11/09/2018 na PET nº 104 (1104-63.1996.6.00.0000), que deferiu a mudança de nome.
+L131: 
+L132: 
+L133: 
+L134: ** o Partido da República (PR) é o atual Partido Liberal (PL) – vide decisão de 09/02/2019 no RPP nº 305 (29782-39.2006.6.00.0000), que deferiu a mudança de nome.
+L135: 
+L136: INCORPORAÇÕES
+L137:    | PARTIDO(S) INCORPORADO(S)  | PARTIDO INCORPORADOR  | PROCESSO  | DATA DECISÃO
+L138: 1  | Partido Geral dos Trabalhadores (PGT) e Partido Social Trabalhista (PST)  | Partido Liberal (PL)  | PET nº 1307 (883-36.2003.6.00.0000)  | 01/04/2003
+L139: 2  | Partido Social Democrático (PSD)*  | Partido Trabalhista Brasileiro (PTB)  | PET nº 1304 (413-05.2003.6.00.0000)  | 20/02/2003
+L140: 3  | Partido dos Aposentados da Nação (PAN)  | Partido Trabalhista Brasileiro (PTB)  | PET nº 2456 (31136-02.2006.6.00.0000)  | 15/03/2007
+L141: 4  | Partido Republicano Progressista (PRP)  | Partido Ecológico Nacional (PEN)**  | PET nº 0601953-14.2018.6.00.0000  | 28/03/2019
+L142: 5  | Partido Pátria Livre (PPL)  | Partido Comunista do Brasil (PC do B)  | PET nº 0601972-20.2018.6.00.0000  | 28/05/2019
+L143: 6  | Partido Humanista da Solidariedade (PHS)  | Podemos (PODE)  | PET nº 0602013-84.2018.6.00.0000  | 19/09/2019
+L144: 7  | Partido Republicano da Ordem Social (PROS)  | SOLIDARIEDADE  | PetCiv nº 0601967-56.2022.6.00.0000  | 14/02/2023
+L145: 8  | Partido Social Cristão (PSC)  | Podemos (PODE)  | PetCiv nº 0600013-38.2023.6.00.0000  | 15/06/2023
+L146: 
+L147: 
+L148: *Este Partido Social Democrático (PSD) foi extinto 20/02/2003 (PET nº 1304 - 413-05.2003.6.00.0000), em razão de incorporação ao Partido Trabalhista Brasileiro (PTB). Portanto, não guarda relação com o atual Partido Social Democrático (PSD), registrado em 27/09/2011 (RPP nº 0001417-96.2011.6.00.0000).
+L149: ** A mudança de nome do Partido Ecológico Nacional (PEN) para Patriota (PATRI) foi deferida em 26/04/2018. Posteriormente, o Patriota (PATRI) requereu a utilização do nome PATRIOTA (sem sigla). O pedido foi deferido pelo TSE, em 26/03/2019.
+L150: 
+L151: MUDANÇAS DE NOME E/OU SIGLA
+L152:    | NOME DO PARTIDO  | NOVO NOME  | PROCESSO  | DATA DECISÃO
+L153: 1  | Partido Solidarista Nacional (PSN)  | Partido da Solidariedade Nacional (PSN)  | PET nº 371 (141-21.1997.6.00.0000)  | 19/02/1998
+L154: 2  | Partido da Solidariedade Nacional (PSN)  | Partido Humanista da Solidariedade (PHS)*  | PET nº 371 (141-21.1997.6.00.0000)  | 30/05/2000
+L155: 3  | Partido da Reconstrução Nacional (PRN)  | Partido Trabalhista Cristão (PTC)  | PET nº 341 (1069-69.1997.6.00.0000)  | 24/04/2001
+L156: 4  | Partido Progressista Brasileiro (PPB)  | Partido Progressista (PP)  | PET nº 104 (1104-63.1996.6.00.0000)  | 29/05/2003
+L157: 5  | Partido da Frente Liberal (PFL)  | Democratas (DEM)  | PET nº 1826 (29794-53.2006.6.00.0000)  | 12/06/2007
+L158: 6  | Partido Municipalista Renovador (PMR)  | Partido Republicano Brasileiro (PRB)  | RPP nº 301 (25929-56.2005.6.00.0000)  | 21/09/2009
+L159: 7  | Partido Trabalhista Nacional (PTN)  | Podemos (PODE)  | PET nº 52 (658-94.1995.6.00.0000)  | 16/05/2017
+L160: 8  | Partido Trabalhista do Brasil (PT do B)  | AVANTE  | PET nº 115 (6-43.1996.6.00.0000)  | 12/09/2017
+L161: 9  | Partido do Movimento Democrático Brasileiro (PMDB)  | Movimento Democrático Brasileiro (MDB)  | PET nº 128 (1286-49.1996.6.00.0000)  | 15/05/2018
+L162: 10  | Partido Ecológico Nacional (PEN)  | Patriota (PATRI).  | RPP nº 1535-72.2011.6.00.0000  | 26/04/2018
+L163: 11  | Partido Social Democrata Cristão (PSDC)  | Democracia Cristã (DC)  | PET nº 96 (863-89.1996.6.00.0000)  | 17/05/2018
+L164: 12  | Solidariedade (SD)  | SOLIDARIEDADE  | RPP nº 403-09.2013.6.00.0000  | 28/06/2018
+L165: 13  | Partido Progressista (PP)  | Progressistas (PP)  | PET nº 104 (1104-63.1996.6.00.0000)  | 11/09/2018
+L166: 14  | Partido da República (PR)  | Partido Liberal (PL)  | RPP nº 305 (29782-39.2006.6.00.0000)  | 09/02/2019
+L167: 15  | Patriota (PATRI).  | PATRIOTA  | PET nº 0601953-14.2018.6.00.0000  | 28/03/2019
+L168: 16  | Partido Republicano Brasileiro (PRB)  | REPUBLICANOS  | RPP nº 301 (25929-56.2005.6.00.0000)  | 15/08/2019
+L169: 17  | Partido Popular Socialista (PPS)  | CIDADANIA  | PET nº 74 (1782-78.1996.6.00.0000)  | 19/09/2019
+L170: 18  | Partido Trabalhista Cristão (PTC)  | AGIR  | RPP nº 51-91.1989.6.00.0000  | 31/03/2022
+L171: 19  | Partido da Mobilização Nacional (PMN)  | Mobilização Nacional (MOBILIZA)  | PetCiv nº 0001624-23.1996.6.00.0000  | 05/12/2023
+L172: 20  | Partido da Mulher Brasileira (PMB)  | Democrata  | RPP nº 0001554-73.2014.6.00.0000  | 02/12/2025
+L173: NÚMERO DE LEGENDA DE PARTIDOS POLÍTICOS
+L174: 
+L175: Número de legenda partidária é aquele que identifica os partidos políticos e seus candidatos nas eleições e no cenário político brasileiro.
+L176: 
+L177: Nos termos do art. 26 da Resolução-TSE nº 23.571/2018, o número de legenda de partido político deve ser escolhido entre o 10 e o 90 e não pode estar sendo utilizado por outra agremiação.
+L178: 
+L179: Somente após o deferimento do registro do estatuto do partido no Tribunal Superior Eleitoral é assegurada a exclusividade na sua utilização.
+L180: PARTIDOS ATUAIS QUE ESTÃO UTILIZANDO NÚMERO DE LEGENDA DE AGREMIAÇÃO EXTINTA:
+L181: NÚMERO DE LEGENDA ATUAL  | NÚMERO DA LEGENDA DO PARTIDO EXTINTO  | PROCESSO QUE AUTORIZOU A UTILIZAÇÃO DO NÚMERO  | DATA DA DECISÃO
+L182: Partido Novo (Novo)  | 30  | Partido Geral dos Trabalhadores (PGT)  | 30  | 0000843-68.2014.6.00.0000  | 15 de setembro de 2015
+L183: União Brasil (UNIÃO)  | 44  | Partido Republicano Progressista (PRP)  | 44  | 0600641-95.2021.6.00.0000  | 8 de fevereiro de 2022
+L184: Partido Renovação Democrática (PRD)  | 25  | Democratas (DEM)  | 25  | 0601913-90.2022.6.00.0000  | 9 de novembro de 2023
+L185: Podemos (PODE)  | 20  | Partido Social Cristão (PSC)  | 20  | 0600672-47.2023.6.00.0000  | 5 de março de 2024
+L186: Partido Missão (Missão)  | 14  | Partido Trabalhista Brasileiro (PTB)  | 14  | 0600684-90.2025.6.00.0000  | 4 de novembro de 2025
+L187: 
+L188: 
+L189: cite56†O Tribunal Superior Eleitoral não envia e-mails a eleitores para comunicar cancelamento de título eleitoral. L190: ## Acesso rápido
+L191: 
+L192: Acesso rápido [Input: Filtrar por...]
+L193: 
+L194: Buscar em todo site
+L195: 
+L196: Mapa do site
+L197: 
+L198: cite57†Serviços eleitorais L199: 
+L200:   * cite58†Autoatendimento eleitoral L201:   * cite59†Certidões L202:   * cite60†Desincompatibilização e afastamentos L203:   * cite61†Eleitorado no Exterior L204:   * cite62†Justificativa eleitoral L205:   * cite63†Local de votação/zonas eleitorais L206:   * cite64†Quitação de multas L207:   * cite65†Titulo Eleitoral - FAQ L208: 
+L209: cite66†Eleições L210:   * cite67†Biometria L211:   * cite68†Calendário eleitoral L212:   * cite69†Contas eleitorais L213:   * cite70†Eleições 2026 L214:   * cite71†Eleições, plebiscitos e referendos L215:   * cite72†Estatísticas L216:   * cite73†Memória L217:   * cite74†Resultados das eleições L218:   * cite75†Urna eletrônica†www.justicaeleitoral.jus.br L219: 
+L220: cite76†Partidos L221: 
+L222:   * cite6†Contas partidárias L223:   * cite7†Criação de partido político L224:   * cite8†Federações partidárias L225:   * cite9†Filiação partidária L226:   * cite10†Partidos registrados no TSE L227:   * cite13†Propaganda partidária L228: 
+L229: cite77†Comunicação L230:   * cite77†Comunicação L231: 
+L232: cite78†Jurisprudência L233: 
+L234:   * cite79†Informativo de Jurisprudência (Infojur TSE) L235:   * cite80†Julgados históricos L236:   * cite81†Jurisprudência da Justiça Eleitoral L237:   * cite82†Jurisprudência por assunto L238:   * cite83†Perguntas frequentes sobre alguns serviços de jurisprudência L239:   * cite84†Pesquisa de Jurisprudência L240:   * cite85†Revista de Jurisprudência do TSE L241:   * cite86†Súmulas L242: 
+L243: cite87†Legislação L244:   * cite88†Código Eleitoral Anotado e Legislação Complementar L245:   * cite89†Legislação compilada L246:   * cite90†Matérias de interesse da JE (SinTSE) L247:   * cite91†Pesquisa por e-mail L248:   * cite92†Regimento Interno L249:   * cite93†Sistematização das Normas Eleitorais L250: 
+L251: cite94†Serviços judiciais L252: 
+L253:   * cite95†Audiências L254:   * cite96†Certidões judiciais L255:   * cite97†Consultas Públicas L256:   * cite98†Processos L257:   * cite99†Publicações oficiais L258:   * cite100†Sessão plenária L259: 
+L260: cite101†TSE L261:   * cite102†Biblioteca L262:   * cite103†Catálogo de publicações L263:   * cite104†Corregedoria-Geral Eleitoral L264:   * cite105†Escola Judiciária Eleitoral L265:   * cite106†Gestão documental L266:   * cite107†Ministros L267:   * cite108†Museu do Voto L268:   * cite109†Organograma L269:   * cite110†Sobre o TSE L270: 
+L271: cite111†Justiça Eleitoral L272: 
+L273:   * cite112†História L274:   * cite113†Ordem do Mérito do Tribunal Superior Eleitoral - Assis Brasil L275:   * cite114†Prêmio Justiça Eleitoral e Selo Qualidade Eleitoral L276:   * cite115†TREs L277: ## Sua opinião é importante para melhorar a navegação do portal.
+L278: 
+L279: Caso necessite de informações institucionais acesse cite116†Ouvidoria. L280: 
+L281: ### Coloque seu e-mail
+L282: 
+L283: E-mail [Input]
+L284: 
+L285: ### Como foi sua experiência em nosso site?
+L286: 
+L287: [Input] Péssima [Input] Ruim [Input] Normal [Input] Boa [Input] Ótima
+L288: ### Seu feedback
+L289: 
+L290: Escrever sugestão
+L291: 
+L292: Escrever Elogio
+L293: 
+L294: Escrever críticas
+L295: 
+L296: Escrever erro na página
+L297: 
+L298: Escrever Não encontrou o que queria?
+L299: 
+L300: Este site é protegido por hCaptcha e sua cite117†Política de Privacidade†www.hcaptcha.com e cite118†Termos de Serviço†www.hcaptcha.com se aplicam.
+L301: 
+L302: [Button: Cancelar ] [Button: Enviar feedback ]
+L303: ### Política de privacidade
+L304: 
+L305: O Portal do TSE coleta dados (IP, acesso a links, sistema operacional e navegador), por meio de cookies ou dos navegadores. A coleta é para cumprir obrigação legal, permitir a melhor navegação ou para fins estatísticos. Para saber mais, acesse nossa cite119†Política de Privacidade .
+L306: 
+L307: [Button: Aceitar todos os cookies] [Button: Rejeitar cookies não necessários] cite120†Gerenciar preferências L308: ### Gerenciar preferências
+L309: 
+L310: [Button: x]
+L311: 
+L312: Usamos cookies para melhorar sua experiência, personalizar conteúdos e analisar o tráfego. Você pode gerenciar suas preferências abaixo e escolher quais categorias deseja permitir. Sua privacidade é importante para nós.
+L313: 
+L314: Cookies necessários Sempre ativos
+L315: 
+L316: Cookies extremamente necessários são aqueles essenciais para o funcionamento do site. Eles permitem recursos básicos como navegação, login e segurança.
+L317: 
+L318: Cookies de desempenho
+L319: 
+L320: [Input]
+L321: Cookies de desempenho ajudam a entender como os visitantes usam o site. Eles coletam dados anônimos sobre navegação e erros.
+L322: 
+L323: Scripts não carregados ou foram desativados

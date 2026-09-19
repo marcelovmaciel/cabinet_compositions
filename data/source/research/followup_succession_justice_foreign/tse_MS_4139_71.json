@@ -1,0 +1,17 @@
+{
+  "party": "UP",
+  "id": 71,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=71&currentPage=0&pageSize=10000",
+      "records": 64,
+      "totalElements": 64,
+      "response_sha256": "4e1b19f2a27216e40981a65ee6b3ed7e98b450e49c61194da2e96570307fd5a5",
+      "retrieved_utc": "2026-09-10T23:41:03Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,49 @@
+ (https://static.poder360.com.br/2021/03/DOU-relacoes-exteriores-exoneracao-ernesto-araujo-nomeacao-carlos-alberto-franco-franca-29-mar-2021.pdf)
+citeturn130view0 [wordlim: 200] Crawled: 3 weeks ago; Content type: application/pdf; Number of pages: 1; Source: click({"ref_id":"turn123view0","id":97}); Total lines: 22
+L0@P0: 30/03/2021 DECRETOS DE 29 DE MARÇO DE 2021 - DECRETOS DE 29 DE MARÇO DE 2021 - DOU - Imprensa Nacional
+L1@P0: https://www.in.gov.br/en/web/dou/-/decretos-de-29-de-marco-de-2021-311114179 1/1
+L2@P0: DIÁRIO OFICIAL DA UNIÃO
+L3@P0: Publicado em: 30/03/2021 | Edição: 60 | Seção: 2 | Página: 1
+L4@P0: Órgão: Atos do Poder Executivo
+L5@P0: MINISTÉRIO DAS RELAÇÕES EXTERIORES
+L6@P0: DECRETOS DE 29 DE MARÇO DE 2021
+L7@P0: O PRESIDENTE DA REPÚBLICA , no uso da atribuição que lhe confere o art. 84, caput , inciso I,
+L8@P0: da Constituição, resolve:
+L9@P0: EXONERAR , a pedido,
+L10@P0: ERNESTO HENRIQUE FRAGA ARAÚJO do cargo de Ministro de Estado das Relações Exteriores.
+L11@P0: Brasília, 29 de março de 2021; 200º da Independência e 133º da República.
+L12@P0: JAIR MESSIAS BOLSONARO
+L13@P0: O PRESIDENTE DA REPÚBLICA , no uso da atribuição que lhe confere o art. 84, caput , inciso I,
+L14@P0: da Constituição, resolve:
+L15@P0: NOMEAR
+L16@P0: CARLOS ALBERTO FRANCO FRANÇA, para exercer o cargo de Ministro de Estado das Relações
+L17@P0: Exteriores, ficando exonerado do cargo que atualmente ocupa.
+L18@P0: Brasília, 29 de março de 2021; 200º da Independência e 133º da República.
+L19@P0: JAIR MESSIAS BOLSONARO
+L20@P0: Presidente da República Federativa do Brasil
+L21@P0: Este conteúdo não substitui o publicado na versão certificada.
+--------------------------------------------------------------------------------
+ (https://static.poder360.com.br/2021/03/DOU-ministerio-defesa-exoneracao-fernando-azevedo-nomeacao-braga-netto.pdf)
+citeturn130view1 [wordlim: 200] Crawled: yesterday; Content type: application/pdf; Number of pages: 1; Source: click({"ref_id":"turn123view0","id":100}); Total lines: 22
+L0@P0: 30/03/2021 DECRETOS DE 29 DE MARÇO DE 2021 - DECRETOS DE 29 DE MARÇO DE 2021 - DOU - Imprensa Nacional
+L1@P0: https://www.in.gov.br/en/web/dou/-/decretos-de-29-de-marco-de-2021-311112097 1/1
+L2@P0: DIÁRIO OFICIAL DA UNIÃO
+L3@P0: Publicado em: 30/03/2021 | Edição: 60 | Seção: 2 | Página: 1
+L4@P0: Órgão: Atos do Poder Executivo
+L5@P0: MINISTÉRIO DA DEFESA
+L6@P0: DECRETOS DE 29 DE MARÇO DE 2021
+L7@P0: O PRESIDENTE DA REPÚBLICA , no uso da atribuição que lhe confere o art. 84, caput , inciso I,
+L8@P0: da Constituição, resolve:
+L9@P0: EXONERAR , a pedido,
+L10@P0: FERNANDO AZEVEDO E SILVA do cargo de Ministro de Estado da Defesa.
+L11@P0: Brasília, 29 de março de 2021; 200º da Independência e 133º da República.
+L12@P0: JAIR MESSIAS BOLSONARO
+L13@P0: O PRESIDENTE DA REPÚBLICA , no uso da atribuição que lhe confere o art. 84, caput , inciso I,
+L14@P0: da Constituição, resolve:
+L15@P0: NOMEAR
+L16@P0: WALTER SOUZA BRAGA NETTO, para exercer o cargo de Ministro de Estado da Defesa, ficando
+L17@P0: exonerado do cargo que atualmente ocupa.
+L18@P0: Brasília, 29 de março de 2021; 200º da Independência e 133º da República.
+L19@P0: JAIR MESSIAS BOLSONARO
+L20@P0: Presidente da República Federativa do Brasil
+L21@P0: Este conteúdo não substitui o publicado na versão certificada.

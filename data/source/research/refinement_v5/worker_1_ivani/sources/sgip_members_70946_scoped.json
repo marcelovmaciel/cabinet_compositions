@@ -1,0 +1,71 @@
+{
+  "url": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false",
+  "status": 200,
+  "retrieved_at": "2026-09-11T00:48:17.288540+00:00",
+  "response_sha256": "f9894ce3007940f3b2dd752d3e6a603bd6a688271e9db13426b20457c7bb8cb2",
+  "orgaoPartidarioSummary": {
+    "sqOrgaoPartidario": null,
+    "numero": null,
+    "sigla": null,
+    "nome": null,
+    "tipoOrgao": null,
+    "dataInicioVigencia": null,
+    "dataFimVigencia": null,
+    "protocolo": null,
+    "situacaoiVigencia": null,
+    "abrangencia": null,
+    "qtdeRegistros": null,
+    "anotacaoOrgaoPartidarioInfo": [
+      {
+        "nrProtocolo": null,
+        "tpAnotacao": null,
+        "dtProtocolo": null,
+        "nrRegistroPai": 70946,
+        "numero": 15,
+        "sigla": "MDB",
+        "tipoOrgao": "Órgão definitivo",
+        "dataInicioVigencia": "11/03/2013",
+        "dataFimVigencia": "06/10/2019",
+        "dataDecisaoDespacho": null,
+        "cnpj": "00676213000138",
+        "tipoAtividade": "Proposta de alteração",
+        "situacaoVigencia": "Não Vigente",
+        "abrangencia": "Nacional",
+        "qtdeRegistros": null,
+        "uf": "",
+        "sgUeSede": "BR",
+        "municipio": "",
+        "zona": "",
+        "situacoes": null,
+        "dataDaAcao": "2019-09-03 15:17:25.0",
+        "situacaoDaAnotacao": "Validada",
+        "tipoRegistro": "H"
+      }
+    ],
+    "uf": null,
+    "sgUeSede": null,
+    "municipio": null,
+    "zona": null,
+    "situacoes": [
+      "Anotado; "
+    ],
+    "emitirComissaoExecutiva": true
+  },
+  "member_keys": [
+    "id",
+    "nomeMembro",
+    "nomeCargo",
+    "dataInicioExercicio",
+    "dataFimExercicio",
+    "situacao",
+    "respAdministrativo",
+    "respFinanceiro",
+    "nrTitulo",
+    "cpf",
+    "des_raca_cor",
+    "des_genero"
+  ],
+  "member_count": 219,
+  "matches": [],
+  "scope": "All members returned by the public governance endpoint for the selected organ, including inactive members; not all party members."
+}

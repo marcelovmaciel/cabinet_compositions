@@ -1,0 +1,17 @@
+{
+  "party": "NOVO",
+  "id": 58,
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "Londrina",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 408,
+      "totalElements": 408,
+      "response_sha256": "45867910743e9ee5a4c99fc15439676b053968d3411f2952ef389a1e7824070d",
+      "retrieved_utc": "2026-09-10T23:39:43Z"
+    }
+  ],
+  "matches": []
+}

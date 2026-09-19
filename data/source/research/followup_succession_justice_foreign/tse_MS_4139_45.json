@@ -1,0 +1,17 @@
+{
+  "party": "PCDOB",
+  "id": 45,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 1183,
+      "totalElements": 1183,
+      "response_sha256": "af4cc401b920eb1e3662600acb50061163905dc149666176ca4c2be81358a7ea",
+      "retrieved_utc": "2026-09-10T23:40:16Z"
+    }
+  ],
+  "matches": []
+}

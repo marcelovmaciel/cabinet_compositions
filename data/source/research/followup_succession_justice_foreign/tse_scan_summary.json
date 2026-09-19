@@ -1,0 +1,51 @@
+{
+  "research_status": "completed_targeted_registry_lookup_no_affiliation_adjudication",
+  "scanned_party_identities": 39,
+  "municipality_party_queries": 273,
+  "successful_queries": 273,
+  "errors": [],
+  "total_rows_screened": 284212,
+  "target_name_matches": 0,
+  "locations": [
+    {
+      "uf": "MS",
+      "city": "Campo Grande",
+      "queries": 39
+    },
+    {
+      "uf": "PR",
+      "city": "Londrina",
+      "queries": 39
+    },
+    {
+      "uf": "RR",
+      "city": "Boa Vista",
+      "queries": 39
+    },
+    {
+      "uf": "RS",
+      "city": "Garibaldi",
+      "queries": 39
+    },
+    {
+      "uf": "RS",
+      "city": "Porto Alegre",
+      "queries": 39
+    },
+    {
+      "uf": "RS",
+      "city": "Sananduva",
+      "queries": 39
+    },
+    {
+      "uf": "SP",
+      "city": "Presidente Prudente",
+      "queries": 39
+    }
+  ],
+  "interpretation": "No match is not proof of no affiliation. TSE manual explicitly permits a regularly affiliated elector to be missing from the last official party list. Present-day lists additionally cannot establish the absence of cancelled historical affiliations. No political affiliation or non-affiliation is assigned from these negative results.",
+  "manual_url": "https://filia2-consulta.tse.jus.br/assets/GUS_FILIA_Consulta.pdf",
+  "manual_local": "tse_consulta_manual.pdf",
+  "manual_section": "5.1 Gerar Certidão, printed page 7",
+  "reproduction": "python3 cabinet_dataset/research/followup_succession_justice_foreign/scan_tse_localities.py (network-dependent research scan, not dataset build)"
+}

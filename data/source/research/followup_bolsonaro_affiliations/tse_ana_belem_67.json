@@ -1,0 +1,14 @@
+{
+  "party": "PSTU",
+  "id": 67,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=67&currentPage=0&pageSize=10000",
+      "records": 468,
+      "totalElements": 468,
+      "response_sha256": "b815857fc55fec1563fd009602cbe3521a9cd1bf3c321b07a324725e2631394c",
+      "retrieved_utc": "2026-09-10T23:49:10Z"
+    }
+  ],
+  "matches": []
+}

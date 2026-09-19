@@ -1,0 +1,24 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "PRD",
+  "id": 182,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=182&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 13430,
+      "response_sha256": "c357e36add5035c4899e003d05a2764c3b24e77e4623528ba6153fd1648b0728",
+      "retrieved_utc": "2026-09-10T23:43:24Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=182&currentPage=1&pageSize=10000",
+      "records": 3430,
+      "totalElements": 13430,
+      "response_sha256": "16048f7ef0a9445193348c000433915f14a7843e8c900b264bfdba5bf5f0c86d",
+      "retrieved_utc": "2026-09-10T23:43:30Z"
+    }
+  ],
+  "matches": []
+}

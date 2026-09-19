@@ -1,0 +1,16 @@
+{
+  "uf": "RS",
+  "municipio": "7733",
+  "party": "PSOL",
+  "id": 63,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 15,
+      "totalElements": 15,
+      "response_sha256": "695a86df1a9e69fdd44312077cc59dae10f24b826efd559a8aa34ddcae263ba2",
+      "retrieved_utc": "2026-09-11T01:12:04Z"
+    }
+  ],
+  "matches": []
+}

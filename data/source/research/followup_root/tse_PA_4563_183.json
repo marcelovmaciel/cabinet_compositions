@@ -1,0 +1,17 @@
+{
+  "uf": "PA",
+  "municipio": "4563",
+  "city": "BELÉM",
+  "party": "MISSÃO",
+  "id": 183,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 189,
+      "totalElements": 189,
+      "response_sha256": "4543283aaa59c8dd1945c4cac648410e01164cf43540febe67fa3696e28c062f",
+      "retrieved_utc": "2026-09-10T23:38:50Z"
+    }
+  ],
+  "matches": []
+}

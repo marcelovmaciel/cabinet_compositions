@@ -1,0 +1,127 @@
+{
+  "camara_bio": {
+    "url": "https://www.camara.leg.br/deputados/204496/biografia",
+    "saved_file": "sabino_camara_bio.html",
+    "fetch_status": 200
+  },
+  "20231130_carlos_designated": {
+    "url": "https://guarulhosweb.com.br/ministro-do-turismo-pede-exonerao-sada-deve-ser-temporria-para-apresentao-de-emendas/",
+    "saved_file": "sabino_20231130_carlos_designated.html",
+    "fetch_status": 200
+  },
+  "20231204_cnn_actual_return": {
+    "url": "https://www.cnnbrasil.com.br/politica/apos-indicar-emendas-como-deputado-celso-sabino-volta-ao-ministerio-do-turismo/",
+    "saved_file": "sabino_20231204_cnn_actual_return.html",
+    "fetch_status": 200
+  },
+  "20241203_dou": {
+    "url": "https://sintse.tse.jus.br/documentos/2024/Dez/3/para-conhecimento-institucional/decretos-de-2-de-dezembro-de-2024-exonera-a-pedido-carlos-henrique-baqueta-favaro-do-cargo-de",
+    "saved_file": "sabino_20241203_dou.html",
+    "fetch_status": 204,
+    "saved_raw_assertions": "sabino_selected_raw_assertions.json",
+    "saved_file_is_usable_evidence": false
+  },
+  "20241206_dou": {
+    "url": "https://sintse.tse.jus.br/documentos/2024/Dez/9/para-conhecimento-institucional/decretos-de-6-de-dezembro-de-2024-nomeia-andre-luiz-carvalho-ribeiro-para-exercer-o-cargo-de",
+    "saved_file": "sabino_20241206_dou.html",
+    "fetch_status": 204,
+    "saved_raw_assertions": "sabino_selected_raw_assertions.json",
+    "saved_file_is_usable_evidence": false
+  },
+  "20250129_carlos_designated": {
+    "url": "https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=9373&cod_modulo=630&link=S&numeroAto=29012025&orgao=NI&seqAto=001&tipo=DSN&valorAno=2025",
+    "saved_file": "sabino_20250129_carlos_designated.html",
+    "fetch_status": 200
+  },
+  "20250131_dou": {
+    "url": "https://www.escavador.com/diarios/6020489/DOU/secao-2/2025-01-31?page=2",
+    "saved_file": "sabino_20250131_dou.html",
+    "fetch_status": 403,
+    "saved_raw_assertions": "sabino_selected_raw_assertions.json",
+    "saved_file_is_usable_evidence": false
+  },
+  "20250203_dou": {
+    "url": "https://www.escavador.com/diarios/6021154/DOU/secao-2/2025-02-03?page=2",
+    "saved_file": "sabino_20250203_dou.html",
+    "fetch_status": 403,
+    "saved_raw_assertions": "sabino_selected_raw_assertions.json",
+    "saved_file_is_usable_evidence": false
+  },
+  "20251008_ana_actual": {
+    "url": "https://turismoemfoco.com.br/v1/2025/10/09/na-abertura-da-abav-expo-2025-ana-carla-lopes-emociona-com-discurso-que-reforca-o-turismo-reponsavel/",
+    "saved_file": "sabino_20251008_ana_actual.html",
+    "fetch_status": 200
+  },
+  "20251113_dou": {
+    "url": "https://sintse.tse.jus.br/documentos/2025/Nov/13/para-conhecimento-institucional/decretos-de-12-de-novembro-de-2025-exonera-a-pedido-carlos-henrique-baqueta-favaro-do-cargo-de-ministro-de-estado-da-agricultura-e",
+    "saved_file": "sabino_20251113_dou.html",
+    "fetch_status": 204,
+    "saved_raw_assertions": "sabino_selected_raw_assertions.json",
+    "saved_file_is_usable_evidence": false
+  },
+  "20251114_dou": {
+    "url": "https://sintse.tse.jus.br/documentos/2025/Nov/14/para-conhecimento-institucional/decretos-de-13-de-novembro-de-2025-nomeia-carlos-henrique-baqueta-favaro-para-exercer-o-cargo-de",
+    "saved_file": "sabino_20251114_dou.html",
+    "fetch_status": 204,
+    "saved_raw_assertions": "sabino_selected_raw_assertions.json",
+    "saved_file_is_usable_evidence": false
+  },
+  "20251114_ana_orla": {
+    "url": "https://radardigitalbrasilia.com.br/turismo/ministerio-do-turismo-assina-acordo-interministerial-para-fortalecimento-do-programa-orla-na-cop30/",
+    "saved_file": "sabino_20251114_ana_orla.html",
+    "fetch_status": 200
+  },
+  "20251219_dou": {
+    "url": "https://sintse.tse.jus.br/documentos/2025/Dez/19/para-conhecimento-institucional/decretos-de-18-de-dezembro-de-2025-exonera-a-pedido-celso-sabino-de-oliveira-do-cargo-de-ministro-de",
+    "saved_file": "sabino_20251219_dou.html",
+    "fetch_status": 204,
+    "saved_raw_assertions": "sabino_selected_raw_assertions.json",
+    "saved_file_is_usable_evidence": false
+  },
+  "20251218_correio": {
+    "url": "https://edicao.correiobraziliense.com.br/correiobraziliense/2025/12/18/all.pdf",
+    "saved_file": "sabino_20251218_correio.pdf",
+    "fetch_status": 200
+  },
+  "20231205_parliamentary_exercise": {
+    "url": "https://www.camara.leg.br/internet/votacao/mostraVotacao.asp?ideVotacao=11877",
+    "saved_file": "sabino_20231205_actual_parliamentary_exercise.html",
+    "fetch_status": 200
+  },
+  "20231204_senate_meeting": {
+    "url": "https://www12.senado.leg.br/noticias/materias/2023/12/04/colapso-do-solo-em-maceio-rodrigo-cunha-e-prefeito-pedem-uniao-para-enfrentar-crise",
+    "saved_file": "sabino_20231204_actual_ministerial_meeting.html",
+    "fetch_status": 200
+  },
+  "20231204_ana_portaria": {
+    "url": "https://biblioteca.mpf.mp.br/repositorio/bitstreams/4a768b27-e766-4c74-adc1-c63c084abb82/download",
+    "saved_file": "sabino_20231205_ana_portaria.pdf",
+    "fetch_status": 200
+  },
+  "substitution_decree_8851": {
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8851.htm",
+    "saved_file": "sabino_decree8851_web_assertion.txt",
+    "retrieval": "web search full text; direct HTTP request timed out"
+  },
+  "ana_se_appointment": {
+    "url": "https://repositorio.cgu.gov.br/bitstream/1/77740/1/Portaria_3845_2023.pdf",
+    "saved_file": "sabino_ana_se_november_2023.pdf"
+  },
+  "ana_se_continuity_dec2024": {
+    "url": "https://agenciagov.ebc.com.br/noticias/202412/comunidades-indigenas-terao-apoio-do-governo-federal-para-desenvolver-roteiros-e-experiencias-turisticas-de-forma-sustentavel",
+    "saved_file": "sabino_ana_se_december_2024.html"
+  },
+  "20251009_dou": {
+    "url": "https://portaldocomercio.org.br/publicacoes_posts/boletim-informativo-diario-bid-030-2025-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2-2/",
+    "saved_file": "sabino_20251009_dou_index.html",
+    "fetch_status": 403,
+    "saved_raw_assertions": "sabino_selected_raw_assertions.json",
+    "saved_file_is_usable_evidence": false
+  },
+  "existing_gustavo_possession_source": {
+    "url": "https://www1.folha.uol.com.br/poder/2025/12/lula-da-posse-a-novo-ministro-do-turismo-em-aceno-a-ala-do-centrao-e-com-presenca-de-motta.shtml",
+    "canonical_evidence_id": "LEG-4f3b9ee61eb5",
+    "canonical_service_id": "service-lula_2023_presente-2-47",
+    "retrieval": "Previously reviewed by canonical dataset; not newly fetched in this bounded succession task."
+  }
+}

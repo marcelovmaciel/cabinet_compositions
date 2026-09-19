@@ -1,0 +1,17 @@
+{
+  "uf": "SP",
+  "municipio": "9534",
+  "city": "PRESIDENTE PRUDENTE",
+  "party": "PSOL",
+  "id": 63,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 105,
+      "totalElements": 105,
+      "response_sha256": "53fb9babfbc6e8078165138bdd048482cbe1cae3781b9fbd846a8bf84a3baf60",
+      "retrieved_utc": "2026-09-11T01:00:07Z"
+    }
+  ],
+  "matches": []
+}

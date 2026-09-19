@@ -1,0 +1,107 @@
+[
+  {
+    "path": "research/completion/web_039.txt",
+    "bytes": 30766,
+    "sha256": "14a9e382f32c2b17f77760923f4fcf89b996a1c83b6eab304b5db7e1a3881b35"
+  },
+  {
+    "path": "research/completion/web_041.txt",
+    "bytes": 27857,
+    "sha256": "39f31b3be265fbc8dbfc9c6baad5591533bb6cbded98f794e119fab9b6271dc6"
+  },
+  {
+    "path": "research/completion/web_075.txt",
+    "bytes": 27966,
+    "sha256": "0f35e64edf7b69e968e3ee41106d92b2dedc3bc67b5f7a686ccfadda518d14a0"
+  },
+  {
+    "path": "research/completion/web_076.txt",
+    "bytes": 30264,
+    "sha256": "f9bbebb946e05a44cbd5a1b8370aed1d28a5af5c31122099ddb5ae38eb13f39f"
+  },
+  {
+    "path": "research/completion/web_084.txt",
+    "bytes": 10736,
+    "sha256": "405428558bee136f86303ee5fd2edf23bd056a3106a25ce55ca3bb24ce3af9c9"
+  },
+  {
+    "path": "research/completion/web_085.txt",
+    "bytes": 15211,
+    "sha256": "e291329b07893888594c1f528ee10d232b103f9c8661e870b0604089738cb45f"
+  },
+  {
+    "path": "research/completion/web_086.txt",
+    "bytes": 9985,
+    "sha256": "96c2b4696a3594255397326d26b931c3968f51131f346e58a23da0f7ce005aac"
+  },
+  {
+    "path": "research/completion/web_092.txt",
+    "bytes": 26918,
+    "sha256": "700d0f87c109a045e0d062615eae4c3ec166874f07e77539343d1d23c409ca51"
+  },
+  {
+    "path": "research/completion/web_109.txt",
+    "bytes": 28203,
+    "sha256": "1300c4e9cba77c461aa869a981860c3b211c3b616917be082ef273f5b665e891"
+  },
+  {
+    "path": "research/completion/web_189.txt",
+    "bytes": 29090,
+    "sha256": "88c470679ec05f80941203f0ef1621c2a4d3e5392b84bb03d40113f00d71957f"
+  },
+  {
+    "path": "research/completion/web_196.txt",
+    "bytes": 28783,
+    "sha256": "b3be127f1cdd2ebbab085d80c32488742d8b01a4093ba566169b66fbc5f87db7"
+  },
+  {
+    "path": "research/completion/web_198.txt",
+    "bytes": 32852,
+    "sha256": "c7ba3121f035a290c1ab394ccaefc44b1a2cde3cb055382340ff36397a40db11"
+  },
+  {
+    "path": "research/completion/web_268.txt",
+    "bytes": 33875,
+    "sha256": "56aaeb417b2d33dc8a829545c43cd83cc48bc10b77bf395f52cced28216f2249"
+  },
+  {
+    "path": "research/completion/web_269.txt",
+    "bytes": 27075,
+    "sha256": "919ec24374448b1814f1661db40fa93be9bf62dc9a04f941b7d9be84ee17f283"
+  },
+  {
+    "path": "research/followup_root/web_registry_10.json",
+    "bytes": 33092,
+    "sha256": "2610bbdb0c8196fef10dd070050de13b2a2f1f5bae04b7884e9bd65ea38210bf"
+  },
+  {
+    "path": "research/followup_ivani/sobral_alepi_pdl32_2021_ocr.txt",
+    "bytes": 5827,
+    "sha256": "d3f3fed47b28d74a780b7ad419a86db28f2324a839cc8830d13ace0bcde4d70f"
+  },
+  {
+    "path": "research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md",
+    "bytes": 2537,
+    "sha256": "9ceb98e52419650f6dfc908b2496026aef6101b99e9dc2dd4bee78b6d08afe3e"
+  },
+  {
+    "path": "research/completion/web_088.txt",
+    "bytes": 12688,
+    "sha256": "c54efd539aa4bc2e7a6e4ca19404c9cb8dfd2fd58b95c39207daf126adfae115"
+  },
+  {
+    "path": "research/completion/web_094.txt",
+    "bytes": 20494,
+    "sha256": "33cc47551ea8aa9333237f0a8f9bd9fa7081d93f5dbaf84566292117978529b5"
+  },
+  {
+    "path": "research/completion/web_095.txt",
+    "bytes": 31045,
+    "sha256": "11d22b8a0d091245ec5455031693f728adb48c0adf326eca178e0fd608e1153f"
+  },
+  {
+    "path": "research/completion/orgaos_temer.pdf",
+    "bytes": 292465,
+    "sha256": "acadd544a6c4550e1915dfa4d73cde0fa1378f1491c0f6a3df8602a85aedae51"
+  }
+]

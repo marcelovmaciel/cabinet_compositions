@@ -1,0 +1,17 @@
+{
+  "party": "PCB",
+  "id": 68,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=68&currentPage=0&pageSize=10000",
+      "records": 37,
+      "totalElements": 37,
+      "response_sha256": "c65a7c5ef6fa9e5d153d9a30b98d0eb52c7d40f748ea0fc3662e3d46e2714f2b",
+      "retrieved_utc": "2026-09-10T23:38:03Z"
+    }
+  ],
+  "matches": []
+}

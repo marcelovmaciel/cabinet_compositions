@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "PCO",
+  "id": 37,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 253,
+      "totalElements": 253,
+      "response_sha256": "3500daabd13bd74b491795d717e1c8e53dcf4a97bc634ece3cdd1459e8f20a59",
+      "retrieved_utc": "2026-09-10T23:42:17Z"
+    }
+  ],
+  "matches": []
+}

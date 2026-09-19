@@ -1,0 +1,17 @@
+{
+  "party": "PDT",
+  "id": 70,
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "Londrina",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 1598,
+      "totalElements": 1598,
+      "response_sha256": "8ef33fd80c44a321d4de1240025f0ef4f4ffdb1eb5b6b32deb964a838377f3f8",
+      "retrieved_utc": "2026-09-10T23:39:47Z"
+    }
+  ],
+  "matches": []
+}

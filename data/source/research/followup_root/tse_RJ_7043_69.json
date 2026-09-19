@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "PP",
+  "id": 69,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=69&currentPage=0&pageSize=10000",
+      "records": 6012,
+      "totalElements": 6012,
+      "response_sha256": "579abd5b39019d9d28861cb259d7bb22973f0e378812c8ca13bbcf6f4ecc51ad",
+      "retrieved_utc": "2026-09-10T23:42:58Z"
+    }
+  ],
+  "matches": []
+}

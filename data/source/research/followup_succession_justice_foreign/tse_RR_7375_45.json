@@ -1,0 +1,17 @@
+{
+  "party": "PCDOB",
+  "id": 45,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 594,
+      "totalElements": 594,
+      "response_sha256": "1ede9562943a46985c37151743eb496bdc359c33d0973aa192e97ec7450c939d",
+      "retrieved_utc": "2026-09-10T23:41:10Z"
+    }
+  ],
+  "matches": []
+}

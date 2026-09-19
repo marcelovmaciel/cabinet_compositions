@@ -1,0 +1,22 @@
+[
+  {
+    "file": "cabinet_dataset/research/completion/sources/atlas_nt53.html",
+    "url": "https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/nota_tecnica/211026_nt_diest_n53.pdf",
+    "status": 403
+  },
+  {
+    "file": "cabinet_dataset/research/completion/sources/teoria_pesquisa_1033.pdf",
+    "url": "https://www.teoriaepesquisa.ufscar.br/index.php/tp/article/download/1033/653/2612",
+    "status": 200
+  },
+  {
+    "file": "cabinet_dataset/research/completion/sources/integracao_ribeiro.html",
+    "url": "https://www.bemparana.com.br/noticias/politica/ex-no-2-da-integracao-levanta-irregularidades-em-licitacoes/",
+    "status": 403
+  },
+  {
+    "file": "cabinet_dataset/research/completion/sources/maria_helena_2018.html",
+    "url": "https://www.bnews.com.br/noticias/politica/202442-temer-escolhe-secretario-de-educacao-basica-para-ministro-da-educacao.html",
+    "status": 200
+  }
+]

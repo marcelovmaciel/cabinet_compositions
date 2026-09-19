@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6865",
+  "city": "BELFORD ROXO",
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6865&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 492,
+      "totalElements": 492,
+      "response_sha256": "e8e9fc555444f2d4b7ea5b0c1af0b4f3376067fa83bf020dd44907c0e5841b2b",
+      "retrieved_utc": "2026-09-10T23:40:15Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,14 @@
+{
+  "party": "PSB",
+  "id": 49,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=49&currentPage=0&pageSize=10000",
+      "records": 1363,
+      "totalElements": 1363,
+      "response_sha256": "5ddb95e83691b77edae77449809bdbbec5635022cc7d4a53d98c569a6cc56c25",
+      "retrieved_utc": "2026-09-10T23:43:19Z"
+    }
+  ],
+  "matches": []
+}

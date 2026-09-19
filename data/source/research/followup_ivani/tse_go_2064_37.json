@@ -1,0 +1,16 @@
+{
+  "party": "PCO",
+  "id": 37,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 7,
+      "totalElements": 7,
+      "response_sha256": "5d1eba7ba6a4efc8177b1ad9a86a7d1dfc41e048ca7127f21ef3ee0b44294f51",
+      "retrieved_utc": "2026-09-10T23:35:33Z"
+    }
+  ],
+  "matches": []
+}

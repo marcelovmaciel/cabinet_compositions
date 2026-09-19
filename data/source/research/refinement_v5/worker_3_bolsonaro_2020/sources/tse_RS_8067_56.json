@@ -1,0 +1,17 @@
+{
+  "uf": "RS",
+  "municipio": "8067",
+  "city": "SANANDUVA",
+  "party": "PSDB",
+  "id": 56,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=56&currentPage=0&pageSize=10000",
+      "records": 83,
+      "totalElements": 83,
+      "response_sha256": "f4a624be72a769bae9c5144786165ae847f8992ae0ce33dc0a297db4936c7671",
+      "retrieved_utc": "2026-09-11T00:59:44Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,17 @@
+{
+  "party": "AGIR",
+  "id": 57,
+  "uf": "RS",
+  "municipio": "7733",
+  "city": "Garibaldi",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 1,
+      "totalElements": 1,
+      "response_sha256": "c58647f4d405661c0110796eacb41dd41793519a4a68b147e9c787fdfd264a89",
+      "retrieved_utc": "2026-09-10T23:37:42Z"
+    }
+  ],
+  "matches": []
+}

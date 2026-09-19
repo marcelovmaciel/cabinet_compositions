@@ -1,0 +1,9 @@
+# C075 — Ana Carla Machado Lopes: PSDB
+
+Primary: **PSDB**, applying dated-affiliation continuity to her five qualifying vacancy spells (14 calendar days). The historical list explicitly gives **2 October 2013** as her PSDB entry, **Belém/PA**, in a snapshot described as obtained from TSE on **27 July 2016**. The precise target row and original HTML are retained in `ana_carla_psdb_2016_target_assertion.json`; unrelated registry rows were not retained.
+
+Identity is a strong contextual adjudication from rare exact full name and municipality. The official MTur CV links her Para legal and ALEPA career to her later federal ministry role; the February11 2019 Para gazette independently records the same full name as PSDB leadership chief of staff (printedpage77). That gazette contains an administrative dismissal effectiveFebruary1, not personal party departure. The staff role is identity/context evidence, not an affiliation proxy.
+
+Targeted searches for departure, expulsion, new affiliation, PSL/União succession and explicit non-affiliation found no specific personal event contradicting PSDB continuity. Two contemporaneous2025 reports expressly state she is not in União Brasil; this is consistent with PSDB and prevents transferring her along with Sabino. A missing currentTSE row is not a dated departure certificate. No unsupported none alternative is introduced.
+
+The2016snapshot is old: label2023–2025 coverage **adjudicated continuity**, not exact contemporaneous certification. Identity was not verified using an unmasked unique identifier. These are retained evidentiary limitations, not fabricated rival party alternatives. `ana_carla_C075_adjudication.json` contains exact URLs, source scopes, all qualifying service identifiers, the proposed affiliation span, and the targeted-search log.

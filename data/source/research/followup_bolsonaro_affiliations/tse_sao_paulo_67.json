@@ -1,0 +1,14 @@
+{
+  "party": "PSTU",
+  "id": 67,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=67&currentPage=0&pageSize=10000",
+      "records": 895,
+      "totalElements": 895,
+      "response_sha256": "d3362b3e18672d3c10d5dbc2650a77930798cff0f3c33334f7d1afc007fc3c5e",
+      "retrieved_utc": "2026-09-10T23:47:48Z"
+    }
+  ],
+  "matches": []
+}

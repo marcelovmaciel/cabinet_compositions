@@ -1,0 +1,17 @@
+{
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "LONDRINA",
+  "party": "PCDOB",
+  "id": 45,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 241,
+      "totalElements": 241,
+      "response_sha256": "8cccd8dfe07159d34a9b79edb29ff89e1829a907b8f85c6732bbc23c6aaabbe3",
+      "retrieved_utc": "2026-09-11T00:59:25Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,24 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "PL",
+  "id": 38,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=38&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 12678,
+      "response_sha256": "2a4480003b34d0da2fcaa102eb1cecc1f80835695929619d45f56908c497d0d2",
+      "retrieved_utc": "2026-09-10T23:42:42Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=38&currentPage=1&pageSize=10000",
+      "records": 2678,
+      "totalElements": 12678,
+      "response_sha256": "de35f0ce717cf04c5c1b99d2e1e58cbded3aede0a231bda610d3b6351df3dbba",
+      "retrieved_utc": "2026-09-10T23:42:47Z"
+    }
+  ],
+  "matches": []
+}

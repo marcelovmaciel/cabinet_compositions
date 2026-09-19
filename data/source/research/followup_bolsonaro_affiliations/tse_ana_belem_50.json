@@ -1,0 +1,14 @@
+{
+  "party": "AVANTE",
+  "id": 50,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 374,
+      "totalElements": 374,
+      "response_sha256": "99b705b3ecd9a2337ae1a8b653b8bcaf9f6d93c613b57b2a163342d77cc8be97",
+      "retrieved_utc": "2026-09-10T23:48:21Z"
+    }
+  ],
+  "matches": []
+}

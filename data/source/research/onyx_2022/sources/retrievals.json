@@ -1,0 +1,111 @@
+[
+  {
+    "source_id": "camara_biografia",
+    "url": "https://www.camara.leg.br/deputados/74399/biografia",
+    "retrieved_utc": "2026-09-11T19:21:57.808015+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 51861,
+    "sha256": "24093bdd4e8320e1f7577361ad70ba77f8ee378ac5d85e7caf7abbb8e3e5a3e8",
+    "saved_path": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/audit/onyx_2022/sources/camara_biografia.txt"
+  },
+  {
+    "source_id": "camara_historico",
+    "url": "https://dadosabertos.camara.leg.br/api/v2/deputados/74399/historico",
+    "retrieved_utc": "2026-09-11T19:21:57.808458+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 17761,
+    "sha256": "a1eb8b27e112f704332f58693075e037bd6848b442c38171fc8a66c4fba82ff5",
+    "saved_path": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/audit/onyx_2022/sources/camara_historico.txt",
+    "relevant_records": [
+      {
+        "siglaPartido": "UNIÃO",
+        "dataHora": "2022-02-23T00:00",
+        "situacao": "Licença",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Alteração de partido"
+      },
+      {
+        "siglaPartido": "UNIÃO",
+        "dataHora": "2022-03-31T09:49",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Entrada - Reassunção"
+      },
+      {
+        "siglaPartido": "PL",
+        "dataHora": "2022-04-05T16:25",
+        "situacao": "Exercício",
+        "condicaoEleitoral": "Titular",
+        "descricaoStatus": "Alteração de partido"
+      }
+    ]
+  },
+  {
+    "source_id": "correio_20220310",
+    "url": "https://www.correiodopovo.com.br/colunistas/taline-oppitz/onyx-lorenzoni-filia-se-ao-pl-1.786509",
+    "retrieved_utc": "2026-09-11T19:21:57.808880+00:00",
+    "status": 200,
+    "content_type": "text/html;charset=utf-8",
+    "bytes": 440696,
+    "sha256": "de36ceb2ae8ba5ebfd3f2990f25eabd34d2408a3921f38880ae7160781d4cb19",
+    "saved_path": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/audit/onyx_2022/sources/correio_20220310.txt"
+  },
+  {
+    "source_id": "jornal_comercio_20220311",
+    "url": "https://www.jornaldocomercio.com/_conteudo/politica/2022/03/837268-onyx-lorenzoni-se-filia-ao-pl.html",
+    "retrieved_utc": "2026-09-11T19:21:57.809243+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 55715,
+    "sha256": "d2d739b4c82ab1440559b87c4eb3c33c17cc546295752d787c32278a7f684984",
+    "saved_path": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/audit/onyx_2022/sources/jornal_comercio_20220311.txt"
+  },
+  {
+    "source_id": "dou_20220331_original",
+    "url": "https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?jornal=529&pagina=2&data=31/03/2022&captchafield=firstAccess",
+    "retrieved_utc": "2026-09-11T19:21:58.155067+00:00",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "source_id": "dou_20220331_mirror",
+    "url": "https://static.poder360.com.br/2022/03/dou-trabalho-31mar2022.pdf",
+    "retrieved_utc": "2026-09-11T19:21:58.203204+00:00",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 37131,
+    "sha256": "678e7912109f53ec644c7688169b0d5e700a934f7d36cce2732c26cf8e3baf36",
+    "saved_path": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/audit/onyx_2022/sources/dou_20220331_mirror.pdf"
+  },
+  {
+    "source_id": "tse_merger",
+    "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Fevereiro/tse-aprova-registro-do-partido-uniao-brasil",
+    "retrieved_utc": "2026-09-11T19:21:58.210524+00:00",
+    "status": 403,
+    "content_type": "text/html",
+    "bytes": 491,
+    "sha256": "329f6aa74de29cb09a611399ddaa8561c7b4dec3f5b883ede7337d2706324387",
+    "saved_path": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/audit/onyx_2022/sources/tse_merger.txt"
+  },
+  {
+    "source_id": "pl_rs_legacy_download",
+    "url": "https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pl_rs.zip",
+    "retrieved_utc": "2026-09-11T19:21:58.373498+00:00",
+    "status": 403,
+    "content_type": "text/html",
+    "bytes": 460,
+    "sha256": "4168850b5fb8227f4b3c975fadf4748d13bcca75f7a71c7b1059c70e84f5138e",
+    "saved_path": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/audit/onyx_2022/sources/pl_rs_legacy_download.txt"
+  },
+  {
+    "source_id": "ceremony_20220322",
+    "url": "https://clicemfoco.com.br/noticia/7535-pl-d-aacute-largada-na-campanha-de-onyx-ao-piratini-e-celebra-filia-ccedil-",
+    "retrieved_utc": "2026-09-11T19:21:58.375422+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 34479,
+    "sha256": "0a0b70b9f26c745d5437b217b12a792b9131adc90bd22361843d2353c2f30f3a",
+    "saved_path": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/audit/onyx_2022/sources/ceremony_20220322.txt"
+  }
+]

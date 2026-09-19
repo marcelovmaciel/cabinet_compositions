@@ -1,0 +1,34 @@
+{
+  "replaces_service_id": "service-lula_2023_presente-2-46",
+  "person_name": "Celso Sabino de Oliveira",
+  "person_id": "person-96c220ae0629",
+  "office_id": "lula_3-turismo",
+  "administration_id": "lula_3",
+  "segments": [
+    {
+      "start_inclusive": "2023-07-18",
+      "end_exclusive": "2023-11-30"
+    },
+    {
+      "start_inclusive": "2023-12-06",
+      "end_exclusive": "2024-12-03"
+    },
+    {
+      "start_inclusive": "2024-12-06",
+      "end_exclusive": "2025-02-01"
+    },
+    {
+      "start_inclusive": "2025-02-03",
+      "end_exclusive": "2025-10-08"
+    },
+    {
+      "start_inclusive": "2025-10-09",
+      "end_exclusive": "2025-11-13"
+    },
+    {
+      "start_inclusive": "2025-11-17",
+      "end_exclusive": "2025-12-19"
+    }
+  ],
+  "note": "Keep affiliation spells separate; interruptions do not imply personal party changes."
+}

@@ -1,0 +1,127 @@
+{
+  "url": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/consulta?tpAbrangencia=82&sgUe=PA&sqPartido=45&isComposicoesHistoricas=true&dataInicioVigencia=01%2F01%2F2013&dataFimVigencia=19%2F03%2F2026",
+  "status": 200,
+  "retrieved_utc": "2026-09-11T01:03:31.041610+00:00",
+  "response": [
+    {
+      "sqOrgaoPartidario": 578561,
+      "numero": 45,
+      "sigla": "PSDB",
+      "nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "tipoOrgao": "Órgão provisório",
+      "dataInicioVigencia": "18/12/2025",
+      "dataFimVigencia": "07/12/2026",
+      "protocolo": "915917604496",
+      "situacaoiVigencia": "Vigente",
+      "abrangencia": "Estadual",
+      "qtdeRegistros": null,
+      "orgaoPartidario": null,
+      "membros": null,
+      "anotacaoOrgaoPartidarioInfo": null,
+      "uf": "PA",
+      "sgUeSede": "PA",
+      "municipio": "",
+      "zona": "",
+      "situacoes": [
+        "Anotado; "
+      ],
+      "emitirComissaoExecutiva": true
+    },
+    {
+      "sqOrgaoPartidario": 472995,
+      "numero": 45,
+      "sigla": "PSDB",
+      "nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "tipoOrgao": "Órgão definitivo",
+      "dataInicioVigencia": "29/10/2023",
+      "dataFimVigencia": "05/12/2025",
+      "protocolo": "303137702962",
+      "situacaoiVigencia": "Não Vigente",
+      "abrangencia": "Estadual",
+      "qtdeRegistros": null,
+      "orgaoPartidario": null,
+      "membros": null,
+      "anotacaoOrgaoPartidarioInfo": null,
+      "uf": "PA",
+      "sgUeSede": "PA",
+      "municipio": "",
+      "zona": "",
+      "situacoes": [
+        "Anotado; "
+      ],
+      "emitirComissaoExecutiva": true
+    },
+    {
+      "sqOrgaoPartidario": 274194,
+      "numero": 45,
+      "sigla": "PSDB",
+      "nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "tipoOrgao": "Órgão definitivo",
+      "dataInicioVigencia": "05/05/2019",
+      "dataFimVigencia": "29/10/2023",
+      "protocolo": "322615087526",
+      "situacaoiVigencia": "Não Vigente",
+      "abrangencia": "Estadual",
+      "qtdeRegistros": null,
+      "orgaoPartidario": null,
+      "membros": null,
+      "anotacaoOrgaoPartidarioInfo": null,
+      "uf": "PA",
+      "sgUeSede": "PA",
+      "municipio": "",
+      "zona": "",
+      "situacoes": [
+        "Anotado; "
+      ],
+      "emitirComissaoExecutiva": true
+    },
+    {
+      "sqOrgaoPartidario": 240260,
+      "numero": 45,
+      "sigla": "PSDB",
+      "nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "tipoOrgao": "Órgão definitivo",
+      "dataInicioVigencia": "02/12/2017",
+      "dataFimVigencia": "30/04/2019",
+      "protocolo": "838015647409",
+      "situacaoiVigencia": "Não Vigente",
+      "abrangencia": "Estadual",
+      "qtdeRegistros": null,
+      "orgaoPartidario": null,
+      "membros": null,
+      "anotacaoOrgaoPartidarioInfo": null,
+      "uf": "PA",
+      "sgUeSede": "PA",
+      "municipio": "",
+      "zona": "",
+      "situacoes": [
+        "Anotado; "
+      ],
+      "emitirComissaoExecutiva": true
+    },
+    {
+      "sqOrgaoPartidario": 153381,
+      "numero": 45,
+      "sigla": "PSDB",
+      "nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+      "tipoOrgao": "Órgão definitivo",
+      "dataInicioVigencia": "19/04/2017",
+      "dataFimVigencia": "27/11/2017",
+      "protocolo": null,
+      "situacaoiVigencia": "Não Vigente",
+      "abrangencia": "Estadual",
+      "qtdeRegistros": null,
+      "orgaoPartidario": null,
+      "membros": null,
+      "anotacaoOrgaoPartidarioInfo": null,
+      "uf": "PA",
+      "sgUeSede": "PA",
+      "municipio": "",
+      "zona": "",
+      "situacoes": [
+        "Anotado; "
+      ],
+      "emitirComissaoExecutiva": true
+    }
+  ]
+}

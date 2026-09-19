@@ -1,0 +1,17 @@
+{
+  "party": "PRTB",
+  "id": 39,
+  "uf": "RS",
+  "municipio": "7733",
+  "city": "Garibaldi",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=39&currentPage=0&pageSize=10000",
+      "records": 1,
+      "totalElements": 1,
+      "response_sha256": "fbbdc3f2f1a57169da16ab61f1667700d423849da06782ec1dbe2aacc98c7bc3",
+      "retrieved_utc": "2026-09-10T23:37:46Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,16 @@
+{
+  "party": "UNIÃO",
+  "id": 72,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=72&currentPage=0&pageSize=10000",
+      "records": 6459,
+      "totalElements": 6459,
+      "response_sha256": "e960a3975e3cd1ba259163e07fc5364e3b7cdfc11c7220ccc59fb64ba493b68d",
+      "retrieved_utc": "2026-09-10T23:37:18Z"
+    }
+  ],
+  "matches": []
+}

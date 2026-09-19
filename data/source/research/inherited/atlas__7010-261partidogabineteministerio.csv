@@ -1,0 +1,709 @@
+﻿Governante;Data de entrada;Data de saída;Classificação;Ministérios;Partido da Pasta;Ministro;Data de entrada;Data de saída;Partido do Ministro
+Sarney;15/03/1985;15/03/1990;Órgão da PR;Casa Civil;sfp;José Hugo Castelo Branco;15/03/1985;14/02/1986;sfp
+Sarney;15/03/1985;15/03/1990;Órgão da PR;Casa Civil;PFL;Marco Maciel;15/02/1986;30/04/1987;PFL
+Sarney;15/03/1985;15/03/1990;Órgão da PR;Casa Civil;sfp;Ronaldo Costa Couto;30/04/1987;15/12/1989;sfp
+Sarney;15/03/1985;15/03/1990;Órgão da PR;Casa Civil;PMDB;Luís Roberto Ponte;21/12/1989;14/03/1990;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Justiça;PMDB;Fernando Soares Lyra;15/03/1985;14/02/1986;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Justiça;PMDB;Paulo Brossard;14/02/1986;19/01/1989;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Justiça;sfp;Oscar Dias Correia;19/01/1989;09/08/1989;sfp
+Sarney;15/03/1985;15/03/1990;Ministério;Justiça;sfp;Saulo Ramos;09/08/1989;14/03/1990;sfp
+Sarney;15/03/1985;15/03/1990;Ministério;Exército;sfp;Leônidas Pires Gonçalves;15/03/1985;14/03/1990;sfp
+Sarney;15/03/1985;15/03/1990;Ministério;Relações Exteriores;PFL;Olavo Setúbal;15/03/1985;14/02/1986;sfp
+Sarney;15/03/1985;15/03/1990;Ministério;Relações Exteriores;PFL;Roberto Costa de Abreu Sodré;14/02/1986;14/03/1990;PFL
+Sarney;15/03/1985;15/03/1990;Ministério;Fazenda;sfp;Francisco Dornelles;15/03/1985;26/08/1985;sfp
+Sarney;15/03/1985;15/03/1990;Ministério;Fazenda;PMDB;Dilson Domingos Funaro;27/08/1985;29/04/1987;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Fazenda;PMDB;Luís Carlos Bresser Pereira;29/04/1987;21/12/1987;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Fazenda;sfp;Maílson da Nóbrega;21/12/1987;14/03/1990;sfp
+Sarney;15/03/1985;15/03/1990;Ministério;Transportes;PMDB;Affonso Alves de Camargo Neto;15/03/1985;14/02/1986;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Transportes;PMDB;José Reinaldo Carneiro Tavares;15/02/1986;14/03/1990;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Agricultura;PMDB;Pedro Simon;15/03/1985;14/02/1986;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Agricultura;PMDB;Íris Rezende;14/02/1986;14/03/1990;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Educação;PFL;Marco Maciel;15/03/1985;14/02/1986;PFL
+Sarney;15/03/1985;15/03/1990;Ministério;Educação;PFL;Jorge Konder Bornhausen;14/02/1986;06/10/1987;PFL
+Sarney;15/03/1985;15/03/1990;Ministério;Educação;PFL;Hugo Napoleão do Rego Neto;30/10/1987;17/01/1989;PFL
+Sarney;15/03/1985;15/03/1990;Ministério;Educação;PMDB;Carlos Corrêa de Menezes Sant'anna ;17/01/1989;14/03/1990;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Trabalho;PMDB;Almir Pazzianotto;15/03/1985;27/09/1988;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Trabalho;sfp;Ronaldo Costa Couto (interino);14/10/1988;13/01/1989;sfp
+Sarney;15/03/1985;15/03/1990;Ministério;Trabalho;sfp;Dorothea Furquim Werneck;13/01/1989;14/03/1990;sfp
+Sarney;15/03/1985;15/03/1990;Ministério;Saúde;PMDB;Carlos Corrêa de Menezes Sant'anna ;15/03/1985;14/02/1986;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Saúde;PMDB;Roberto Figueira Santos;14/02/1986;22/10/1987;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Saúde;PMDB;Luiz Carlos Borges da Silveira ;23/10/1987;17/01/1989;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Saúde;sfp;Seigo Tsuzuki;17/01/1989;14/03/1990;sfp
+Sarney;15/03/1985;15/03/1990;Ministério;Indústria e Comércio;PMDB;Roberto Herbster Gusmão;15/03/1985;14/02/1986;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Indústria e Comércio;PMDB;José Hugo Castelo Branco;14/02/1986;04/08/1988;sfp
+Sarney;15/03/1985;15/03/1990;Ministério;Indústria e Comércio/ Desenvolvimento Industrial, Ciência e Tecnologia;PMDB;Roberto Cardoso Alves;17/08/1988;14/03/1990;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Minas e Energia;PFL;Aureliano Chaves;15/03/1985;22/12/1988;PFL
+Sarney;15/03/1985;15/03/1990;Ministério;Minas e Energia;PMDB;Vicente Fialho;17/01/1989;14/03/1990;sfp
+Sarney;15/03/1985;15/03/1990;Secretaria;Planejamento;PMDB;João Sayad;15/03/1985;25/03/1987;PMDB
+Sarney;15/03/1985;15/03/1990;Secretaria;Planejamento e Coordenação;PMDB;Aníbal Teixeira de Sousa;25/03/1987;22/01/1988;PMDB
+Sarney;15/03/1985;15/03/1990;Secretaria;Planejamento e Coordenação;PMDB;João Batista de Abreu;22/01/1988;14/03/1990;sfp
+Sarney;15/03/1985;15/03/1990;Ministério;Interior;sfp;Ronaldo Costa Couto;15/03/1985;30/04/1987;sfp
+Sarney;15/03/1985;15/03/1990;Ministério;Interior;PFL;Joaquim Francisco de Freitas Cavalcanti;30/04/1987;07/08/1987;PFL
+Sarney;15/03/1985;15/03/1990;Ministério;Interior;PFL;João Alves Filho;07/08/1987;14/03/1990;PFL
+Sarney;15/03/1985;15/03/1990;Ministério;Comunicações;ind;Antônio Carlos Peixoto de Magalhães;15/03/1985;31/12/1985;PDS
+Sarney;15/03/1985;15/03/1990;Ministério;Comunicações;PFL;Antônio Carlos Peixoto de Magalhães;01/01/1986;14/03/1990;PFL
+Sarney;15/03/1985;15/03/1990;Ministério;Previdência e Assistência Social;PMDB;Waldir Pires;15/03/1985;14/02/1986;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Previdência e Assistência Social;PMDB;Raphael de Almeida Magalhães;15/02/1986;22/10/1987;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Previdência e Assistência Social;PMDB;Renato Archer;23/10/1987;29/07/1988;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Previdência e Assistência Social;PMDB;Jáder Barbalho;29/07/1988;14/03/1990;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Ciência e Tecnologia;PMDB;Renato Archer;15/03/1985;22/10/1987;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Ciência e Tecnologia;PMDB;Luiz Henrique da Silveira;23/10/1987;29/07/1988;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Ciência e Tecnologia;PMDB;Ralph Biasi;16/08/1988;15/01/1989;PMDB
+Sarney;15/03/1985;15/03/1990;Secretaria;Ciência e Tecnologia;PMDB;Décio Leal de Zagottis;03/04/1989;14/03/1990;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Cultura;PMDB;José Aparecido de Oliveira;15/03/1985;09/05/1985;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Cultura;PMDB;Aluísio Pimenta;29/05/1985;14/02/1986;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Cultura;PMDB;Celso Furtado;15/02/1986;01/08/1988;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Cultura;PMDB;José Aparecido de Oliveira;21/09/1988;14/03/1990;PMDB
+Sarney;15/03/1985;15/03/1990;Programa/Ministério;Política Fundiária/ Reforma e Desenvolvimento Agrário;PMDB;Nelson Ribeiro;15/03/1985;28/05/1986;sfp
+Sarney;15/03/1985;15/03/1990;Ministério;Reforma e Desenvolvimento Agrário;PMDB;Dante de Oliveira;28/05/1986;02/06/1987;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Reforma e Desenvolvimento Agrário;PMDB;Marcos Freire;04/06/1987;08/09/1987;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Reforma e Desenvolvimento Agrário;PMDB;Jáder Barbalho;22/09/1987;29/07/1988;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Reforma e Desenvolvimento Agrário;PMDB;Leopoldo Bessone;17/08/1988;15/02/1989;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Desenvolvimento Urbano e Meio Ambiente;PMDB;Flávio Peixoto;15/03/1985;14/02/1986;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Desenvolvimento Urbano e Meio Ambiente;PMDB;Deni Lineu Schwartz;14/02/1986;23/10/1987;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério;Habitação, Urbanismo e Meio Ambiente/ Habitação e Bem- Estar Social;PMDB;Prisco Viana;23/10/1987;15/02/1989;PMDB
+Sarney;15/03/1985;15/03/1990;Ministério/Secretaria;Administração Pública;PMDB;Aluízio Alves;15/03/1985;15/02/1989;PMDB
+Sarney;15/03/1985;15/03/1990;Programa;Desburocratização;PFL;Paulo Lustosa;15/03/1985;14/02/1986;PFL
+Sarney;15/03/1985;15/03/1990;Ministério;Irrigação;PMDB;Vicente Fialho;14/02/1986;15/02/1989;PMDB
+Collor;15/03/1990;29/12/1992;Ministério;Justiça;ind;Bernardo Cabral;15/03/1990;13/10/1990;PMDB
+Collor;15/03/1990;29/12/1992;Ministério;Justiça;PDS;Jarbas Passarinho;13/10/1990;02/04/1992;PDS
+Collor;15/03/1990;29/12/1992;Ministério;Justiça;sfp;Célio de Oliveira Borja;02/04/1992;01/10/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Exército;sfp;Carlos Tinoco Ribeiro Gomes;15/03/1990;01/10/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Relações Exteriores;sfp;José Francisco Rezek;15/03/1990;13/04/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Relações Exteriores;ind;Celso Lafer;13/04/1992;01/10/1992;PSDB
+Collor;15/03/1990;29/12/1992;Ministério;Economia, Fazenda e Planejamento;ind;Zélia Cardoso de Mello;15/03/1990;10/05/1991;PMDB
+Collor;15/03/1990;29/12/1992;Ministério;Economia, Fazenda e Planejamento;sfp;Marcílio Marques Moreira;10/05/1991;01/10/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Infraestrutura;sfp;Ozires Silva;15/03/1990;27/03/1991;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Infraestrutura;sfp;Eduardo Teixeira;27/03/1991;10/05/1991;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Infraestrutura;sfp;João Eduardo Cerdeiro Santana;10/05/1991;13/04/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Transportes e Comunicações;PTB;Affonso Camargo Neto;13/04/1992;01/10/1992;PTB
+Collor;15/03/1990;29/12/1992;Ministério;Agricultura e Reforma Agrária;PTR;Joaquim Roriz;15/03/1990;29/03/1990;PTR
+Collor;15/03/1990;29/12/1992;Ministério;Agricultura e Reforma Agrária;sfp;Antônio Cabrera Mano Filho;03/04/1990;12/04/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Agricultura e Reforma Agrária;PRN;Antônio Cabrera Mano Filho;13/04/1992;01/10/1992;PRN
+Collor;15/03/1990;29/12/1992;Ministério;Educação;PFL;Carlos Chiarelli;15/03/1990;22/08/1991;PFL
+Collor;15/03/1990;29/12/1992;Ministério;Educação;sfp;José Goldemberg;22/08/1991;05/08/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Educação;PFL;Eraldo Tinoco Melo;05/08/1992;01/10/1992;PFL
+Collor;15/03/1990;29/12/1992;Ministério;Trabalho e Previdência Social;sfp;Antônio Rogério Magri;15/03/1990;20/01/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Trabalho e Previdência Social;PFL;Reinhold Stephanes;20/01/1992;13/04/1992;PFL
+Collor;15/03/1990;29/12/1992;Ministério;Trabalho e Administração;PL;João Mellão Neto;13/04/1992;01/10/1992;PL
+Collor;15/03/1990;29/12/1992;Ministério;Saúde;PFL;Alceni Ângelo Guerra;15/03/1990;24/01/1992;PFL
+Collor;15/03/1990;29/12/1992;Ministério;Saúde;sfp;Adib Jatene;13/02/1992;01/10/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Minas e Energia;PDS;Marcus Vinicius Pratini de Moraes;13/04/1992;01/10/1992;PDS
+Collor;15/03/1990;29/12/1992;Secretaria;Desenvolvimento Regional;sfp;Egberto Batista;29/03/1990;12/04/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Desenvolvimento Regional;PFL;Ângelo Calmon de Sá;13/04/1992;01/10/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Previdência Social;PFL;Reinhold Stephanes;13/04/1992;01/10/1992;PFL
+Collor;15/03/1990;29/12/1992;Secretaria;Meio Ambiente;sfp;José Lutzenberger;15/03/1990;22/03/1992;sfp
+Collor;15/03/1990;29/12/1992;Secretaria;Meio Ambiente;sfp;José Goldemberg (interino);23/03/1992;13/07/1992;sfp
+Collor;15/03/1990;29/12/1992;Secretaria;Meio Ambiente;sfp;Flávio Miragaia Perri;14/07/1992;01/10/1992;sfp
+Collor;15/03/1990;29/12/1992;Secretaria;Ciência e Tecnologia;sfp;José Goldemberg;15/03/1990;21/08/1991;sfp
+Collor;15/03/1990;29/12/1992;Secretaria;Ciência e Tecnologia;sfp;Edson Machado de Sousa;22/08/1991;02/04/1992;sfp
+Collor;15/03/1990;29/12/1992;Secretaria;Ciência e Tecnologia;ind;Hélio Jaguaribe;03/04/1992;01/10/1992;PSDB
+Collor;15/03/1990;29/12/1992;Secretaria;Cultura;sfp;Ipojuca Pontes;15/03/1990;10/03/1991;sfp
+Collor;15/03/1990;29/12/1992;Secretaria;Cultura;sfp;Sérgio Rouanet;11/03/1991;01/10/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Ação Social;sfp;Margarida Procópio;15/03/1990;20/01/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Ação Social;PFL;Ricardo Fiúza;20/01/1992;01/10/1992;PFL
+Collor;15/03/1990;29/12/1992;Secretaria;Desportos;sfp;Arthur Antunes Coimbra;15/03/1990;23/04/1991;sfp
+Collor;15/03/1990;29/12/1992;Secretaria;Desportos;sfp;Bernard Rajzman;24/04/1991;01/10/1992;sfp
+Collor;15/03/1990;29/12/1992;Secretaria;Assuntos Estratégicos;sfp;Pedro Paulo Leoni Ramos;15/03/1990;05/04/1992;sfp
+Collor;15/03/1990;29/12/1992;Secretaria;Assuntos Estratégicos;sfp;Eliezer Batista;06/04/1992;01/10/1992;sfp
+Collor;15/03/1990;29/12/1992;Secretaria;Governo;PFL;Jorge Konder Bornhausen;02/04/1992;10/09/1992;PFL
+Collor;15/03/1990;29/12/1992;Secretaria;Governo;PFL;Ricardo Fiúza;11/09/1992;01/10/1992;PFL
+Collor;15/03/1990;29/12/1992;Secretaria;Administração Federal;sfp;João Santana;15/03/1990;09/05/1991;sfp
+Collor;15/03/1990;29/12/1992;Secretaria;Administração Federal;sfp;Carlos Moreira Garcia;10/05/1991;12/04/1992;sfp
+Collor;15/03/1990;29/12/1992;Ministério;Integração Latino-Americana;PFL;Carlos Chiarelli;22/08/1991;24/01/1992;PFL
+Collor;15/03/1990;29/12/1992;Ministério;Criança;sfp;Carlos Moreira Garcia;26/06/1992;01/10/1992;sfp
+Itamar;29/12/1992;01/01/1995;Órgão da PR;Casa Civil;sfp;Henrique Hargreaves;05/10/1992;01/11/1993;sfp
+Itamar;29/12/1992;01/01/1995;Órgão da PR;Casa Civil;sfp;Tarcísio Carlos de Almeida Cunha (interino);01/11/1993;08/02/1994;sfp
+Itamar;29/12/1992;01/01/1995;Órgão da PR;Casa Civil;sfp;Henrique Hargreaves;08/02/1994;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Justiça;PDT;Maurício Corrêa;03/10/1992;02/04/1993;PDT
+Itamar;29/12/1992;01/01/1995;Ministério;Justiça;ind;Maurício Corrêa;03/04/1993;04/04/1994;PDT
+Itamar;29/12/1992;01/01/1995;Ministério;Justiça;sfp;Alexandre Dupeyrat;05/04/1994;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Exército;sfp;Zenildo Gonzaga Zoroastro de Lucena;05/10/1992;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Relações Exteriores;PSDB;Fernando Henrique Cardoso;05/10/1992;20/05/1993;PSDB
+Itamar;29/12/1992;01/01/1995;Ministério;Relações Exteriores;sfp;Luís Felipe Lampreia (interino);20/05/1993;20/07/1993;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Relações Exteriores;sfp;Celso Amorim;20/07/1993;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Fazenda;PFL;Gustavo Krause;05/10/1992;16/12/1992;PFL
+Itamar;29/12/1992;01/01/1995;Ministério;Fazenda;ind;Paulo Roberto Haddad;17/12/1992;01/03/1993;PSDB
+Itamar;29/12/1992;01/01/1995;Ministério;Fazenda;PFL;Eliseu Resende;01/03/1993;19/05/1993;PFL
+Itamar;29/12/1992;01/01/1995;Ministério;Fazenda;PSDB;Fernando Henrique Cardoso;19/05/1993;05/04/1994;PSDB
+Itamar;29/12/1992;01/01/1995;Ministério;Fazenda;PSDB;Rubens Ricúpero;05/04/1994;07/09/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Fazenda;PSDB;Ciro Gomes;07/09/1994;31/12/1994;PSDB
+Itamar;29/12/1992;01/01/1995;Ministério;Transportes;PMDB;Alberto Goldman;14/10/1992;21/12/1993;PMDB
+Itamar;29/12/1992;01/01/1995;Ministério;Transportes;sfp;Margarida Coimbra do Nascimento;21/12/1993;08/03/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Transportes;sfp;Rubens Bayma Dennis;08/03/1994;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Agricultura, Abastecimento e Reforma Agrária;PMDB;Lázaro Ferreira Barbosa;14/10/1992;14/11/1992;PMDB
+Itamar;29/12/1992;01/01/1995;Ministério;Agricultura, Abastecimento e Reforma Agrária;PMDB;Nuri Andraus Gassani;07/06/1993;16/06/1993;PMDB
+Itamar;29/12/1992;01/01/1995;Ministério;Agricultura, Abastecimento e Reforma Agrária;PMDB;José Antônio Barros Munhoz;17/06/1993;01/09/1993;PMDB
+Itamar;29/12/1992;01/01/1995;Ministério;Agricultura, Abastecimento e Reforma Agrária;PMDB;Dejandir Dalpasquale;13/10/1993;21/12/1993;PMDB
+Itamar;29/12/1992;01/01/1995;Ministério;Agricultura, Abastecimento e Reforma Agrária;PMDB;Synval Guazzelli;25/01/1994;31/12/1994;PMDB
+Itamar;29/12/1992;01/01/1995;Ministério;Educação e Desporto;ind;Murilio de Avellar Hingel;05/10/1992;31/12/1994;PMDB
+Itamar;29/12/1992;01/01/1995;Ministério;Trabalho;sfp;Walter Barelli;08/10/1992;04/04/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Trabalho;sfp;Marcelo Pimentel;10/05/1994;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Saúde;PSB;Jamil Haddad;08/10/1992;19/08/1993;PSB
+Itamar;29/12/1992;01/01/1995;Ministério;Saúde;PP;Henrique Santillo;30/08/1993;31/12/1994;PP
+Itamar;29/12/1992;01/01/1995;Ministério;Indústria, Comércio e Turismo;PTB;José Eduardo Andrade Vieira;14/10/1992;23/12/1993;PTB
+Itamar;29/12/1992;01/01/1995;Ministério;Indústria, Comércio e Turismo;PFL;Élcio Alvares;25/01/1994;31/12/1994;PFL
+Itamar;29/12/1992;01/01/1995;Ministério;Minas e Energia;PSDB;Paulino Cícero de Vasconcelos;08/10/1992;28/12/1993;PSDB
+Itamar;29/12/1992;01/01/1995;Ministério;Minas e Energia;sfp;José Israel Vargas (interino);29/12/1993;08/03/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Minas e Energia;sfp;Alexis Stepanenko;08/03/1994;21/09/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Minas e Energia;sfp;Delcídio Gomes (interino);21/09/1994;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Secretaria;Planejamento, Orçamento e Coordenação;ind;Paulo Roberto Haddad;19/10/1992;28/01/1993;PSDB
+Itamar;29/12/1992;01/01/1995;Secretaria;Planejamento, Orçamento e Coordenação;ind;Yeda Crusius;28/01/1993;07/05/1993;PSDB
+Itamar;29/12/1992;01/01/1995;Secretaria;Planejamento, Orçamento e Coordenação;sfp;Alexis Stepanenko;07/05/1993;08/03/1994;sfp
+Itamar;29/12/1992;01/01/1995;Secretaria;Planejamento, Orçamento e Coordenação;PSDB;Beni Veras;08/03/1994;31/12/1994;PSDB
+Itamar;29/12/1992;01/01/1995;Ministério;Integração Regional;PFL;Alexandre Alves Costa;08/10/1992;23/12/1993;PFL
+Itamar;29/12/1992;01/01/1995;Ministério;Integração Regional;sfp;Romildo Canhim (interino);23/12/1993;08/03/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Integração Regional;PMDB;Aluízio Alves;08/03/1994;31/12/1994;PMDB
+Itamar;29/12/1992;01/01/1995;Ministério;Comunicações;PFL;Hugo Napoleão do Rego Neto;19/10/1992;23/12/1993;PFL
+Itamar;29/12/1992;01/01/1995;Ministério;Comunicações;sfp;Djalma Bastos de Morais;23/12/1993;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Previdência Social;PMDB;Antônio Britto;14/10/1992;14/12/1993;PMDB
+Itamar;29/12/1992;01/01/1995;Ministério;Previdência Social;sfp;Sérgio Cutolo;14/12/1993;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Meio Ambiente;PMDB;Fernando Coutinho Jorge;14/10/1992;16/09/1993;PMDB
+Itamar;29/12/1992;01/01/1995;Ministério;Meio Ambiente e Amazônia Legal;sfp;Rubens Ricúpero;16/09/1993;05/04/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Meio Ambiente e Amazônia Legal;sfp;Henrique Brandão Cavalcanti;05/04/1994;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Ciência e Tecnologia;sfp;José Israel Vargas;27/10/1992;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Cultura;PSB;Antônio Houaiss;19/10/1992;02/09/1993;PSB
+Itamar;29/12/1992;01/01/1995;Ministério;Cultura;sfp;José Jerônimo Moscardo de Sousa;02/09/1993;09/12/1993;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Cultura;sfp;Luís Roberto do Nascimento e Silva;15/12/1993;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Ministério;Bem-Estar Social;PSDB;Jutahy Magalhães Júnior;05/10/1992;28/12/1993;PSDB
+Itamar;29/12/1992;01/01/1995;Ministério;Bem-Estar Social;sfp;Leonor Franco;28/12/1993;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Secretaria;Assuntos Estratégicos;sfp;Mário César Flores;22/10/1992;31/12/1994;sfp
+Itamar;29/12/1992;01/01/1995;Secretaria;Administração Federal;ind;Luiza Erundina;27/01/1993;20/05/1993;PT
+Itamar;29/12/1992;01/01/1995;Secretaria;Administração Federal;sfp;Romildo Canhim;20/05/1993;31/12/1994;sfp
+FHC 1;01/01/1995;01/01/1999;Órgão da PR;Casa Civil;PSDB;Clóvis Carvalho;01/01/1995;31/12/1998;PSDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Justiça;PMDB;Nelson Jobim;01/01/1995;08/04/1997;PMDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Justiça;PMDB;Íris Rezende;22/05/1997;01/04/1998;PMDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Justiça;PMDB;Renan Calheiros;07/04/1998;31/12/1998;PMDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Exército;sfp;Zenildo Gonzaga Zoroastro de Lucena;01/01/1995;31/12/1998;sfp
+FHC 1;01/01/1995;01/01/1999;Ministério;Relações Exteriores;sfp;Luís Felipe Lampreia;01/01/1995;31/12/1998;sfp
+FHC 1;01/01/1995;01/01/1999;Ministério;Fazenda ;sfp;Pedro Malan;01/01/1995;31/12/1998;sfp
+FHC 1;01/01/1995;01/01/1999;Ministério;Transportes;PMDB;Odacir Klein;01/01/1995;16/08/1996;PMDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Transportes;PMDB;Alcides Saldanha (interino);16/08/1996;21/05/1997;PMDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Transportes;PMDB;Eliseu Padilha;22/05/1997;31/12/1998;PMDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Agricultura e Abastecimento;PTB;José Eduardo Andrade Vieira;01/01/1995;02/05/1996;PTB
+FHC 1;01/01/1995;01/01/1999;Ministério;Agricultura e Abastecimento;PTB;Arlindo Porto;08/05/1996;04/04/1998;PTB
+FHC 1;01/01/1995;01/01/1999;Ministério;Agricultura e Abastecimento;PPB;Francisco Turra;07/04/1998;31/12/1998;PPB
+FHC 1;01/01/1995;01/01/1999;Ministério;Educação e Desporto;PSDB;Paulo Renato Sousa;01/01/1995;31/12/1998;PSDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Trabalho;PTB;Paulo Paiva;01/01/1995;31/03/1998;PTB
+FHC 1;01/01/1995;01/01/1999;Ministério;Trabalho;sfp;Edward Amadeo;07/04/1998;31/12/1998;sfp
+FHC 1;01/01/1995;01/01/1999;Ministério;Saúde;sfp;Adib Jatene;01/01/1995;07/11/1996;sfp
+FHC 1;01/01/1995;01/01/1999;Ministério;Saúde;PSDB;Carlos César de Albuquerque;18/12/1996;31/03/1998;PSDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Saúde;PSDB;José Serra;31/03/1998;31/12/1998;PSDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Indústria, Comércio e Turismo;PSDB;Dorothea Furquim Werneck;01/01/1995;02/05/1996;PSDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Indústria, Comércio e Turismo;PPB;Francisco Dornelles;07/05/1996;31/03/1998;PPB
+FHC 1;01/01/1995;01/01/1999;Ministério;Indústria, Comércio e Turismo;PPB;José Botafogo Gonçalves;31/03/1998;31/12/1998;PPB
+FHC 1;01/01/1995;01/01/1999;Ministério;Minas e Energia;PFL;Raimundo Brito;01/01/1995;31/12/1998;PFL
+FHC 1;01/01/1995;01/01/1999;Ministério;Planejamento e Orçamento;PSDB;José Serra;01/01/1995;01/06/1996;PSDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Planejamento e Orçamento;PSDB;Antônio Kandir;04/06/1996;31/03/1998;PSDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Planejamento e Orçamento;PTB;Paulo Paiva;31/03/1998;31/12/1998;PTB
+FHC 1;01/01/1995;01/01/1999;Ministério;Comunicações;PSDB;Sérgio Motta;01/01/1995;13/04/1998;PSDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Comunicações;PSDB;Luís Carlos Mendonça de Barros;30/04/1998;23/11/1998;PSDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Previdência e Assistência Social;PFL;Reinhold Stephanes;01/01/1995;03/04/1998;PFL
+FHC 1;01/01/1995;01/01/1999;Ministério;Previdência e Assistência Social;PFL;Waldeck Ornélas;07/04/1998;31/12/1998;PFL
+FHC 1;01/01/1995;01/01/1999;Ministério;Meio Ambiente, Recursos Hídricos e Amazônia Legal;PFL;Gustavo Krause;01/01/1995;31/12/1998;PFL
+FHC 1;01/01/1995;01/01/1999;Ministério;Ciência e Tecnologia;sfp;José Israel Vargas;01/01/1995;31/12/1998;sfp
+FHC 1;01/01/1995;01/01/1999;Ministério;Cultura;sfp;Francisco Weffort;01/01/1995;31/12/1998;sfp
+FHC 1;01/01/1995;01/01/1999;Ministério;Política Fundiária;ind;Raul Jungmann;30/04/1996;31/12/1998;PPS
+FHC 1;01/01/1995;01/01/1999;Ministério;Esportes;sfp;Edson Arantes do Nascimento;01/01/1995;30/04/1998;sfp
+FHC 1;01/01/1995;01/01/1999;Secretaria;Assuntos Estratégicos;sfp;Ronaldo Sardenberg;01/01/1995;31/12/1998;sfp
+FHC 1;01/01/1995;01/01/1999;Ministério;Coordenação de Assuntos Políticos;PMDB;Luís Carlos Santos;29/04/1996;02/04/1998;PMDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Administração e Reforma do Estado;PSDB;Luís Carlos Bresser Pereira;01/01/1995;31/12/1998;PSDB
+FHC 1;01/01/1995;01/01/1999;Ministério;Reforma Institucional;PFL;Antônio de Almendra Freitas Neto;07/04/1998;31/12/1998;PFL
+FHC 2;01/01/1999;01/01/2003;Órgão da PR;Casa Civil;PSDB;Clóvis Carvalho;01/01/1999;18/07/1999;PSDB
+FHC 2;01/01/1999;01/01/2003;Órgão da PR;Casa Civil;sfp;Pedro Parente;19/07/1999;31/12/2002;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Justiça;PMDB;Renan Calheiros;01/01/1999;19/07/1999;PMDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Justiça;sfp;José Carlos Dias;19/07/1999;14/04/2000;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Justiça;PSDB;José Gregori;14/04/2000;14/11/2001;PSDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Justiça;PSDB;Aloysio Nunes;14/11/2001;03/04/2002;PSDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Justiça;PSDB;Miguel Reale Júnior;03/04/2002;10/07/2002;PSDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Justiça;sfp;Paulo de Tarso Ramos Ribeiro;10/07/2002;31/12/2002;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Defesa;PFL;Élcio Álvares;01/01/1999;24/01/2000;PFL
+FHC 2;01/01/1999;01/01/2003;Ministério;Defesa;sfp;Geraldo Magela Diniz Quintão;24/01/2000;31/12/2002;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Relações Exteriores;sfp;Luiz Felipe Lampreia;01/01/1999;12/01/2001;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Relações Exteriores;PSDB;Celso Lafer;29/01/2001;31/12/2002;PSDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Fazenda ;sfp;Pedro Malan;01/01/1999;31/12/2002;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Transportes;PMDB;Eliseu Padilha;01/01/1999;16/11/2001;PMDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Transportes;sfp;Alderico Lima (interino);16/11/2001;03/04/2002;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Transportes;PMDB;João Henrique de Almeida Sousa;03/04/2002;31/12/2002;PMDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Agricultura e Abastecimento;PPB;Francisco Turra;01/01/1999;19/07/1999;PPB
+FHC 2;01/01/1999;01/01/2003;Ministério;Agricultura e Abastecimento/ Agricultura, Pecuária e Abastecimento;PPB;Pratini de Moraes;19/07/1999;31/12/2002;PPB
+FHC 2;01/01/1999;01/01/2003;Ministério;Educação;PSDB;Paulo Renato Sousa;01/01/1999;31/12/2002;PSDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Trabalho e Emprego;PPB;Francisco Dornelles;01/01/1999;03/04/2002;PPB
+FHC 2;01/01/1999;01/01/2003;Ministério;Trabalho e Emprego;PPB;Paulo Jobim Filho;03/04/2002;31/12/2002;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Saúde;PSDB;José Serra;01/01/1999;21/02/2002;PSDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Saúde;PSDB;Barjas Negri;21/02/2002;31/12/2002;PSDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Desenvolvimento, Indústria e Comércio;PSDB;Celso Lafer;01/01/1999;19/07/1999;PSDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Desenvolvimento, Indústria e Comércio/ Desenvolvimento, Indústria e Comércio Exterior;PSDB;Clóvis Carvalho;19/07/1999;08/09/1999;PSDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Desenvolvimento, Indústria e Comércio Exterior;sfp;Alcides Tápias;14/09/1999;31/07/2001;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Desenvolvimento, Indústria e Comércio Exterior;sfp;Sérgio Silva do Amaral;23/08/2001;31/12/2002;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Minas e Energia;PFL;Rodolpho Tourinho Neto;01/01/1999;23/02/2001;PFL
+FHC 2;01/01/1999;01/01/2003;Ministério;Minas e Energia;PFL;José Jorge de Vasconcelos Lima;13/03/2001;08/03/2002;PFL
+FHC 2;01/01/1999;01/01/2003;Ministério;Minas e Energia;ind;Francisco Luiz Gomide;03/04/2002;31/12/2002;PMDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Orçamento e Gestão;PTB;Paulo Paiva;01/01/1999;31/03/1999;PTB
+FHC 2;01/01/1999;01/01/2003;Ministério;Orçamento e Gestão;sfp;Pedro Parente;31/03/1999;18/07/1999;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Planejamento, Orçamento e Gestão;sfp;Martus Tavares;19/07/1999;03/04/2002;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Planejamento, Orçamento e Gestão;sfp;Guilherme Gomes Dias;03/04/2002;31/12/2002;sfp
+FHC 2;01/01/1999;01/01/2003;Secretaria;Políticas Regionais;PMDB;Ovídio de Ângelis;01/01/1999;18/07/1999;PMDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Integração Nacional;PMDB;Fernando Luiz Gonçalves Bezerra;19/07/1999;15/05/2001;PMDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Integração Nacional;PMDB;Ramez Tebet;20/06/2001;20/09/2001;PMDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Integração Nacional;PMDB;Pedro Augusto Sanguinetti Ferreira (interino);20/09/2001;14/11/2001;
+FHC 2;01/01/1999;01/01/2003;Ministério;Integração Nacional;PMDB;Ney Suassuna;14/11/2001;05/04/2002;PMDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Integração Nacional;PMDB;Mary Dayse Kinzo (interina);05/04/2002;05/06/2002;
+FHC 2;01/01/1999;01/01/2003;Ministério;Integração Nacional;PMDB;José Luciano Barbosa da Silva;05/06/2002;31/12/2002;PMDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Comunicações;PSDB;Pimenta da Veiga;01/01/1999;03/04/2002;PSDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Comunicações;PSDB;Juarez Martinho do Nascimento;03/04/2002;31/12/2002;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Previdência e Assistência Social;PFL;Waldeck Ornélas;01/01/1999;24/02/2001;PFL
+FHC 2;01/01/1999;01/01/2003;Ministério;Previdência e Assistência Social;PFL;Roberto Brant;12/03/2001;08/03/2002;PFL
+FHC 2;01/01/1999;01/01/2003;Ministério;Previdência e Assistência Social;sfp;José Cechin;08/03/2002;31/12/2002;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Meio Ambiente;PFL;José Sarney Filho;01/01/1999;05/03/2002;PFL
+FHC 2;01/01/1999;01/01/2003;Ministério;Meio Ambiente;sfp;José Carlos Carvalho;05/03/2002;31/12/2002;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Ciência e Tecnologia;PSDB;Luís Carlos Bresser Pereira;01/01/1999;19/07/1999;PSDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Ciência e Tecnologia;sfp;Ronaldo Sardenberg;19/07/1999;31/12/2002;sfp
+FHC 2;01/01/1999;01/01/2003;Ministério;Cultura;ind;Francisco Weffort;01/01/1999;31/12/2002;PT
+FHC 2;01/01/1999;01/01/2003;Ministério;Política Fundiária/ Política e Desenvolvimento Agrário;ind;Raul Jungmann;01/01/1999;04/04/2002;PPS
+FHC 2;01/01/1999;01/01/2003;Ministério;Política e Desenvolvimento Agrário;PSDB;José Abrão ;04/04/2002;31/12/2002;PSDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Esporte e Turismo;PFL;Rafael Greca;01/01/1999;02/05/2000;PFL
+FHC 2;01/01/1999;01/01/2003;Ministério;Esporte e Turismo;PFL;Carlos Melles;09/05/2000;08/03/2002;PFL
+FHC 2;01/01/1999;01/01/2003;Ministério;Esporte e Turismo;PSDB;Caio Luíz Cibella de Carvalho;03/04/2002;31/12/2002;PSDB
+FHC 2;01/01/1999;01/01/2003;Ministério;Projetos Especiais;sfp;Ronaldo Sardenberg;01/01/1999;19/07/1999;sfp
+FHC 2;01/01/1999;01/01/2003;Secretaria;Desenvolvimento Urbano;sfp;Sérgio Cutolo;26/01/1999;30/07/1999;sfp
+FHC 2;01/01/1999;01/01/2003;Secretaria;Desenvolvimento Urbano;PMDB;Ovídio de Angelis;03/08/1999;31/12/2002;PMDB
+FHC 2;01/01/1999;01/01/2003;Secretaria;Direitos Humanos;PSDB;José Gregori;01/01/1999;14/04/2000;PSDB
+FHC 2;01/01/1999;01/01/2003;Secretaria;Secretaria-Geral (relação com o Congresso);PSDB;Aloysio Nunes;03/08/1999;14/11/2001;PSDB
+FHC 2;01/01/1999;01/01/2003;Secretaria;Secretaria-Geral (relação com o Congresso);PSDB;Arthur Virgílio;14/11/2001;02/04/2002;PSDB
+FHC 2;01/01/1999;01/01/2003;Secretaria;Secretaria-Geral (relação com o Congresso);PSDB;Euclides Scalco;03/04/2002;31/12/2002;PSDB
+FHC 2;01/01/1999;01/01/2003;Secretaria;Relações Institucionais;PSDB;Eduardo Graeff;01/01/1999;30/07/1999;PSDB
+FHC 2;01/01/1999;01/01/2003;Secretaria;Administração e Patrimônio;sfp;Claúdia Costin;01/01/1999;30/07/1999;sfp
+FHC 2;01/01/1999;01/01/2003;Secretaria;Planejamento e Avaliação;sfp;Edward Amadeo;01/01/1999;30/07/1999;sfp
+Lula 1;01/01/2003;01/01/2007;Órgão da PR;Casa Civil;PT;José Dirceu;01/01/2003;21/06/2005;PT
+Lula 1;01/01/2003;01/01/2007;Órgão da PR;Casa Civil;PT;Dilma Rousseff;21/06/2005;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Justiça;sfp;Márcio Thomaz Bastos;01/01/2003;31/12/2006;sfp
+Lula 1;01/01/2003;01/01/2007;Ministério;Defesa;sfp;José Viegas Filho;01/01/2003;08/11/2004;sfp
+Lula 1;01/01/2003;01/01/2007;Ministério;Defesa;PL;José Alencar Gomes da Silva;08/11/2004;31/03/2006;PL
+Lula 1;01/01/2003;01/01/2007;Ministério;Defesa;PT;Waldir Pires;03/04/2006;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Relações Exteriores;sfp;Celso Amorim;01/01/2003;31/12/2006;sfp
+Lula 1;01/01/2003;01/01/2007;Ministério;Fazenda;PT;Antônio Palocci Filho;01/01/2003;28/03/2006;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Fazenda;PT;Guido Mantega;28/03/2006;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Transportes;PL;Anderson Adauto;01/01/2003;15/03/2004;PL
+Lula 1;01/01/2003;01/01/2007;Ministério;Transportes;PL;Alfredo Nascimento;15/03/2004;31/03/2006;PL
+Lula 1;01/01/2003;01/01/2007;Ministério;Transportes;PL;Paulo Sérgio Passos;03/04/2006;31/12/2006;PL
+Lula 1;01/01/2003;01/01/2007;Ministério;Agricultura, Pecuária e Abastecimento;sfp;Roberto Rodrigues;01/01/2003;03/07/2006;sfp
+Lula 1;01/01/2003;01/01/2007;Ministério;Agricultura, Pecuária e Abastecimento;sfp;Luis Carlos Guedes Pinto;03/07/2006;31/12/2006;sfp
+Lula 1;01/01/2003;01/01/2007;Ministério;Educação;PT;Cristóvam Buarque;01/01/2003;23/01/2004;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Educação;PT;Tarso Genro;23/01/2004;01/08/2005;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Educação;PT;Fernando Haddad;01/08/2005;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Trabalho e Emprego;PT;Jacques Wagner;01/01/2003;23/01/2004;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Trabalho e Emprego;PT;Ricardo Berzoini;23/01/2004;12/07/2005;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Trabalho e Emprego;PT;Luiz Marinho;12/07/2005;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Saúde;PT;Humberto Costa;01/01/2003;08/07/2005;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Saúde;PMDB;José Saraiva Felipe;08/07/2005;31/03/2006;PMDB
+Lula 1;01/01/2003;01/01/2007;Ministério;Saúde;PMDB;Agenor Álvares;03/04/2006;31/12/2006;PMDB
+Lula 1;01/01/2003;01/01/2007;Ministério;Desenvolvimento, Indústria e Comércio Exterior;sfp;Luiz Fernando Furlan;01/01/2003;31/12/2006;sfp
+Lula 1;01/01/2003;01/01/2007;Ministério;Minas e Energia;PT;Dilma Rousseff;01/01/2003;21/06/2005;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Minas e Energia;PMDB;Silas Rondeau;08/07/2005;31/12/2006;PMDB
+Lula 1;01/01/2003;01/01/2007;Ministério;Planejamento, Orçamento e Gestão;PT;Guido Mantega;01/01/2003;19/11/2004;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Planejamento, Orçamento e Gestão;PT;Nelson Machado (interino);19/11/2004;22/03/2005;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Planejamento, Orçamento e Gestão;PT;Paulo Bernardo;22/03/2005;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Integração Nacional;PPS;Ciro Gomes;01/01/2003;10/12/2004;PPS
+Lula 1;01/01/2003;01/01/2007;Ministério;Integração Nacional;ind;Ciro Gomes;11/12/2004;28/06/2005;PPS
+Lula 1;01/01/2003;01/01/2007;Ministério;Integração Nacional;PSB;Ciro Gomes;29/06/2005;31/03/2006;PSB
+Lula 1;01/01/2003;01/01/2007;Ministério;Integração Nacional;PSB;Pedro Brito do Nascimento;03/04/2006;31/12/2006;PSB
+Lula 1;01/01/2003;01/01/2007;Ministério;Comunicações;PDT;Miro Teixeira;01/01/2003;23/01/2004;PDT
+Lula 1;01/01/2003;01/01/2007;Ministério;Comunicações;PMDB;Eunício Oliveira;23/01/2004;08/07/2005;PMDB
+Lula 1;01/01/2003;01/01/2007;Ministério;Comunicações;PMDB;Hélio Costa;08/07/2005;31/12/2006;PMDB
+Lula 1;01/01/2003;01/01/2007;Ministério;Previdência Social;PT;Ricardo Berzoini;01/01/2003;23/01/2004;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Previdência Social;PMDB;Amir Lando;23/01/2004;22/03/2005;PMDB
+Lula 1;01/01/2003;01/01/2007;Ministério;Previdência Social;PMDB;Romero Jucá Filho;22/03/2005;22/07/2005;PMDB
+Lula 1;01/01/2003;01/01/2007;Ministério;Previdência Social;PT;Nelson Machado;22/07/2005;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Meio Ambiente;PT;Marina Silva;01/01/2003;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Ciência e Tecnologia;PSB;Roberto Amaral;01/01/2003;22/01/2004;PSB
+Lula 1;01/01/2003;01/01/2007;Ministério;Ciência e Tecnologia;PSB;Eduardo Campos;23/01/2004;21/07/2005;PSB
+Lula 1;01/01/2003;01/01/2007;Ministério;Ciência e Tecnologia;PSB;Sérgio Machado Rezende;21/07/2005;31/12/2006;PSB
+Lula 1;01/01/2003;01/01/2007;Ministério;Cultura;PV;Gilberto Gil;01/01/2003;22/05/2005;PV
+Lula 1;01/01/2003;01/01/2007;Ministério;Cultura;ind;Gilberto Gil;23/05/2005;31/12/2006;PV
+Lula 1;01/01/2003;01/01/2007;Ministério;Desenvolvimento Agrário;PT;Miguel Rossetto;01/01/2003;31/03/2006;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Desenvolvimento Agrário;PT;Guilherme Cassel;03/04/2006;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Secretaria;Assistência Social;PT;Benedita da Silva;01/01/2003;23/01/2004;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Desenvolvimento Social e Combate à Fome;PT;Patrus Ananias;23/01/2004;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Esporte;PCdoB;Agnelo Queiroz;01/01/2003;31/03/2006;PCdoB
+Lula 1;01/01/2003;01/01/2007;Ministério;Esporte;PCdoB;Orlando Silva;03/04/2006;31/12/2006;PCdoB
+Lula 1;01/01/2003;01/01/2007;Ministério;Cidades;PT;Olívio Dutra;01/01/2003;22/07/2005;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Cidades;PP;Márcio Fortes de Almeida;22/07/2005;31/12/2006;PP
+Lula 1;01/01/2003;01/01/2007;Ministério;Turismo;PTB;Walfrido Mares Guia;01/01/2003;31/12/2006;PTB
+Lula 1;01/01/2003;01/01/2007;Secretaria;Direitos Humanos;PT;Nilmário Miranda;01/01/2003;20/07/2005;PT
+Lula 1;01/01/2003;01/01/2007;Secretaria;Direitos Humanos;PT;Mário Mamede Filho (interino);20/07/2005;20/12/2005;
+Lula 1;01/01/2003;01/01/2007;Secretaria;Direitos Humanos;PT;Paulo de Tarso Vannuchi;21/12/2005;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Secretaria;Secretaria-Geral (juventude);PT;Luis Dulci;05/12/2005;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Secretaria;Coordenação Política e Assuntos Institucionais;PCdoB;Aldo Rebelo;23/01/2004;20/07/2005;PCdoB
+Lula 1;01/01/2003;01/01/2007;Secretaria;Coordenação Política e Assuntos Institucionais;PT;Jacques Wagner;20/07/2005;31/03/2006;PT
+Lula 1;01/01/2003;01/01/2007;Secretaria;Relações Institucionais;PT;Tarso Genro;03/04/2006;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Secretaria;Aqüicultura e Pesca;PT;José Fristsch;01/01/2003;31/03/2006;PT
+Lula 1;01/01/2003;01/01/2007;Secretaria;Aqüicultura e Pesca;PT;Altemir Gregolin;03/04/2006;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Secretaria;Mulheres;PT;Emília Fernandes;01/01/2003;23/01/2004;PT
+Lula 1;01/01/2003;01/01/2007;Secretaria;Mulheres;PT;Nicéia Freire;23/01/2004;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Secretaria;Igualdade Racial;PT;Matilde Ribeiro;21/03/2003;31/12/2006;PT
+Lula 1;01/01/2003;01/01/2007;Secretaria;Desenvolvimento Econômico e Social;PT;Tarso Genro;01/01/2003;22/01/2004;PT
+Lula 1;01/01/2003;01/01/2007;Secretaria;Desenvolvimento Econômico e Social;PT;Jacques Wagner;23/01/2004;22/07/2005;PT
+Lula 1;01/01/2003;01/01/2007;Ministério;Segurança Alimentar e Combate à Fome;PT;José Graziano;01/01/2003;23/01/2004;PT
+Lula 2;01/01/2007;01/01/2011;Órgão da PR;Casa Civil;PT;Dilma Rousseff;01/01/2007;30/03/2010;PT
+Lula 2;01/01/2007;01/01/2011;Órgão da PR;Casa Civil;PT;Erenice Guerra;30/03/2010;16/09/2010;PT
+Lula 2;01/01/2007;01/01/2011;Órgão da PR;Casa Civil;PT;Carlos Eduardo Esteves Lima (interino);17/09/2010;31/12/2010;sfp
+Lula 2;01/01/2007;01/01/2011;Ministério;Justiça;sfp;Márcio Thomaz Bastos;01/01/2007;16/03/2007;sfp
+Lula 2;01/01/2007;01/01/2011;Ministério;Justiça;PT;Tarso Genro;16/03/2007;10/02/2010;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Justiça;PT;Luiz Paulo Barreto;10/02/2010;31/12/2010;sfp
+Lula 2;01/01/2007;01/01/2011;Ministério;Defesa;PT;Waldir Pires;01/01/2007;25/07/2007;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Defesa;PMDB;Nelson Jobim;25/07/2007;31/12/2010;PMDB
+Lula 2;01/01/2007;01/01/2011;Ministério;Relações Exteriores;PT;Celso Amorim;01/01/2007;29/09/2009;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Relações Exteriores;PT;Celso Amorim;30/09/2009;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Fazenda ;PT;Guido Mantega;01/01/2007;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Transportes;PR;Paulo Sérgio Passos;01/01/2007;29/03/2007;PR
+Lula 2;01/01/2007;01/01/2011;Ministério;Transportes;PR;Alfredo Nascimento;29/03/2007;31/03/2010;PR
+Lula 2;01/01/2007;01/01/2011;Ministério;Transportes;PR;Paulo Sérgio Passos;31/03/2010;31/12/2010;PR
+Lula 2;01/01/2007;01/01/2011;Ministério;Agricultura, Pecuária e Abastecimento;sfp;Luis Carlos Guedes Pinto;01/01/2007;23/03/2007;sfp
+Lula 2;01/01/2007;01/01/2011;Ministério;Agricultura, Pecuária e Abastecimento;PMDB;Reinhold Stephanes;23/03/2007;31/03/2010;PMDB
+Lula 2;01/01/2007;01/01/2011;Ministério;Agricultura, Pecuária e Abastecimento;PMDB;Wagner Rossi;31/03/2010;31/12/2010;PMDB
+Lula 2;01/01/2007;01/01/2011;Ministério;Educação;PT;Fernando Haddad;01/01/2007;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Trabalho e Emprego;PT;Luiz Marinho;01/01/2007;29/03/2007;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Trabalho e Emprego;PDT;Carlos Lupi;29/03/2007;31/12/2010;PDT
+Lula 2;01/01/2007;01/01/2011;Ministério;Saúde;PMDB;Agenor Álvares;01/01/2007;16/03/2007;PMDB
+Lula 2;01/01/2007;01/01/2011;Ministério;Saúde;PMDB;José Gomes Temporão;16/03/2007;31/12/2010;PMDB
+Lula 2;01/01/2007;01/01/2011;Ministério;Desenvolvimento, Indústria e Comércio Exterior;sfp;Luiz Fernando Furlan;01/01/2007;29/03/2007;sfp
+Lula 2;01/01/2007;01/01/2011;Ministério;Desenvolvimento, Indústria e Comércio Exterior;sfp;Miguel Jorge;29/03/2007;31/12/2010;sfp
+Lula 2;01/01/2007;01/01/2011;Ministério;Minas e Energia;PMDB;Silas Rondeau;01/01/2007;24/05/2007;PMDB
+Lula 2;01/01/2007;01/01/2011;Ministério;Minas e Energia;sfp;Nelson José Hubner Moreira (interino);24/05/2007;21/01/2008;sfp
+Lula 2;01/01/2007;01/01/2011;Ministério;Minas e Energia;PMDB;Edison Lobão;21/01/2008;31/03/2010;PMDB
+Lula 2;01/01/2007;01/01/2011;Ministério;Minas e Energia;PMDB;Márcio Pereira Zimmermann;31/03/2010;31/12/2010;sfp
+Lula 2;01/01/2007;01/01/2011;Ministério;Planejamento, Orçamento e Gestão;PT;Paulo Bernardo;01/01/2007;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Integração Nacional;PSB;Pedro Brito do Nascimento;01/01/2007;16/03/2007;PSB
+Lula 2;01/01/2007;01/01/2011;Ministério;Integração Nacional;PMDB;Geddel Vieira Lima;16/03/2007;31/03/2010;PMDB
+Lula 2;01/01/2007;01/01/2011;Ministério;Integração Nacional;PMDB;João Santana;31/03/2010;31/12/2010;PMDB
+Lula 2;01/01/2007;01/01/2011;Ministério;Comunicações;PMDB;Hélio Costa;01/01/2007;31/03/2010;PMDB
+Lula 2;01/01/2007;01/01/2011;Ministério;Comunicações;PMDB;José Artur Filardi Leite;31/03/2010;31/12/2010;PMDB
+Lula 2;01/01/2007;01/01/2011;Ministério;Previdência Social;PT;Nelson Machado;01/01/2007;29/03/2007;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Previdência Social;PT;Luiz Marinho;29/03/2007;04/06/2008;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Previdência Social;PT;José Barroso Pimentel;11/06/2008;31/03/2010;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Previdência Social;PT;Carlos Eduardo Gabas;31/03/2010;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Meio Ambiente;PT;Marina Silva;01/01/2007;15/05/2008;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Meio Ambiente;PT;Carlos Minc;27/05/2008;31/03/2010;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Meio Ambiente;sfp;Izabela Teixeira;31/03/2010;31/12/2010;sfp
+Lula 2;01/01/2007;01/01/2011;Ministério;Ciência e Tecnologia;PSB;Sérgio Machado Resende;01/01/2007;31/12/2010;PSB
+Lula 2;01/01/2007;01/01/2011;Ministério;Cultura;PV;Gilberto Gil;01/01/2007;01/08/2008;PV
+Lula 2;01/01/2007;01/01/2011;Ministério;Cultura;PV;Juca Ferreira;01/08/2008;09/03/2010;PV
+Lula 2;01/01/2007;01/01/2011;Ministério;Cultura;ind;Juca Ferreira;10/03/2010;31/12/2010;PV
+Lula 2;01/01/2007;01/01/2011;Ministério;Desenvolvimento Agrário;PT;Guilherme Cassel;01/01/2007;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Desenvolvimento Social e Combate à Fome;PT;Patrus Ananias;01/01/2007;31/03/2010;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Desenvolvimento Social e Combate à Fome;PT;Márcia Lopes;31/03/2010;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Esporte;PCdoB;Orlando Silva;01/01/2007;31/12/2010;PCdoB
+Lula 2;01/01/2007;01/01/2011;Secretaria/Ministério/Secretaria;Planejamento de Longo Prazo/ Assuntos Estratégicos;PRB;Roberto Mangabeira Unger;18/06/2007;03/07/2009;PRB
+Lula 2;01/01/2007;01/01/2011;Secretaria;Assuntos Estratégicos;PRB;Daniel Vargas (interino);04/07/2009;20/10/2009;sfp
+Lula 2;01/01/2007;01/01/2011;Secretaria;Assuntos Estratégicos;PRB;Samuel Pinheiro Guimarães;20/10/2009;31/12/2010;sfp
+Lula 2;01/01/2007;01/01/2011;Ministério;Cidades;PP;Márcio Fortes de Almeida;01/01/2007;31/12/2010;PP
+Lula 2;01/01/2007;01/01/2011;Ministério;Turismo;PTB;Walfrido Mares Guia;01/01/2007;23/03/2007;PTB
+Lula 2;01/01/2007;01/01/2011;Ministério;Turismo;PT;Marta Suplicy;23/03/2007;04/06/2008;PT
+Lula 2;01/01/2007;01/01/2011;Ministério;Turismo;PT;Luiz Barretto Filho;04/06/2008;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Secretaria;Direitos Humanos;PT;Paulo de Tarso Vannuchi;01/01/2007;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Secretaria;Secretaria-Geral (juventude);PT;Luis Dulci;01/01/2007;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Secretaria;Relações Institucionais;PT;Tarso Genro;01/01/2007;16/03/2007;PT
+Lula 2;01/01/2007;01/01/2011;Secretaria;Relações Institucionais;PTB;Walfrido Mares Guia;23/03/2007;26/11/2007;PTB
+Lula 2;01/01/2007;01/01/2011;Secretaria;Relações Institucionais;PTB;José Múcio Monteiro;26/11/2007;28/09/2009;PTB
+Lula 2;01/01/2007;01/01/2011;Secretaria;Relações Institucionais;PT;Alexandre Padilha;28/09/2009;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Secretaria/Ministério;Aqüicultura e Pesca;PT;Altemir Gregolin;01/01/2007;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Secretaria;Mulheres;PT;Nicéa Freire;01/01/2007;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Secretaria;Igualdade Racial;PT;Matilde Ribeiro;01/01/2007;06/02/2008;PT
+Lula 2;01/01/2007;01/01/2011;Secretaria;Igualdade Racial;PT;Édson Santos;20/02/2008;31/03/2010;PT
+Lula 2;01/01/2007;01/01/2011;Secretaria;Igualdade Racial;PT;Eloi Ferreira Araújo;01/04/2010;31/12/2010;PT
+Lula 2;01/01/2007;01/01/2011;Secretaria;Portos;PSB;Pedro Brito do Nascimento;15/05/2007;31/12/2010;PSB
+Dilma 1;01/01/2011;01/01/2015;Órgão da PR;Casa Civil;PT;Antônio Palocci Filho;01/01/2011;07/06/2011;PT
+Dilma 1;01/01/2011;01/01/2015;Órgão da PR;Casa Civil;PT;Gleisi Hoffmann;08/06/2011;03/02/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Órgão da PR;Casa Civil;PT;Aloízio Mercadante;03/02/2014;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Justiça;PT;José Eduardo Cardozo;01/01/2011;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Defesa;PMDB;Nelson Jobim;01/01/2011;04/08/2011;PMDB
+Dilma 1;01/01/2011;01/01/2015;Ministério;Defesa;PT;Celso Amorim;04/08/2011;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Relações Exteriores;sfp;Antônio Patriota;01/01/2011;26/08/2013;sfp
+Dilma 1;01/01/2011;01/01/2015;Ministério;Relações Exteriores;sfp;Luiz Alberto Figueiredo Machado;26/08/2013;31/12/2014;sfp
+Dilma 1;01/01/2011;01/01/2015;Ministério;Fazenda ;PT;Guido Mantega;01/01/2011;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Transportes;PR;Alfredo Nascimento;01/01/2011;06/07/2011;PR
+Dilma 1;01/01/2011;01/01/2015;Ministério;Transportes;ind;Paulo Sérgio Passos;07/07/2011;03/04/2013;PR
+Dilma 1;01/01/2011;01/01/2015;Ministério;Transportes;PR;César Borges;03/04/2013;26/06/2014;PR
+Dilma 1;01/01/2011;01/01/2015;Ministério;Transportes;PR;Paulo Sérgio Passos;26/06/2014;31/12/2014;PR
+Dilma 1;01/01/2011;01/01/2015;Ministério;Agricultura, Pecuária e Abastecimento;PMDB;Wagner Rossi;01/01/2011;17/08/2011;PMDB
+Dilma 1;01/01/2011;01/01/2015;Ministério;Agricultura, Pecuária e Abastecimento;PMDB;Mendes Ribeiro Filho;23/08/2011;16/03/2013;PMDB
+Dilma 1;01/01/2011;01/01/2015;Ministério;Agricultura, Pecuária e Abastecimento;PMDB;Antônio Andrade;15/03/2013;17/03/2014;PMDB
+Dilma 1;01/01/2011;01/01/2015;Ministério;Agricultura, Pecuária e Abastecimento;PMDB;Neri Geller;17/03/2014;31/12/2014;PMDB
+Dilma 1;01/01/2011;01/01/2015;Ministério;Educação;PT;Fernando Haddad;01/01/2011;23/01/2012;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Educação;PT;Aloízio Mercadante;24/01/2012;02/02/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Educação;PT;Henrique Paim;03/02/2014;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Trabalho e Emprego;PDT;Carlos Lupi;01/01/2011;04/12/2011;PDT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Trabalho e Emprego;PDT;Paulo Roberto dos Santos Pinto (interino);05/12/2011;03/05/2012;PDT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Trabalho e Emprego;PDT;Brizola Neto;03/05/2012;15/03/2013;PDT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Trabalho e Emprego;PDT;Manoel Dias;15/03/2013;31/12/2014;PDT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Saúde;PT;Alexandre Padilha;01/01/2011;03/02/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Saúde;PT;Arthur Chioro;03/02/2014;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Desenvolvimento, Indústria e Comércio Exterior;PT;Fernando Pimentel;01/01/2011;13/02/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Desenvolvimento, Indústria e Comércio Exterior;PT;Mauro Borges Lemos (interino);14/02/2014;31/12/2014;sfp
+Dilma 1;01/01/2011;01/01/2015;Ministério;Minas e Energia;PMDB;Edison Lobão;01/01/2011;31/12/2014;PMDB
+Dilma 1;01/01/2011;01/01/2015;Ministério;Planejamento, Orçamento e Gestão;PT;Miriam Belchior;01/01/2011;31/12/2014;sfp
+Dilma 1;01/01/2011;01/01/2015;Ministério;Integração Nacional;PSB;Fernando Bezerra Coelho Filho;01/01/2011;01/10/2013;PSB
+Dilma 1;01/01/2011;01/01/2015;Ministério;Integração Nacional;sfp;Francisco José Coelho Teixeira (interino);02/10/2013;31/12/2014;sfp
+Dilma 1;01/01/2011;01/01/2015;Ministério;Comunicações;PT;Paulo Bernardo;01/01/2011;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Previdência Social;PMDB;Garibaldi Alves Filho;01/01/2011;31/12/2014;PMDB
+Dilma 1;01/01/2011;01/01/2015;Ministério;Meio Ambiente;sfp;Izabella Teixeira;01/01/2011;31/12/2014;sfp
+Dilma 1;01/01/2011;01/01/2015;Ministério;Ciência, Tecnologia e Inovação;PT;Aloízio Mercadante;01/01/2011;24/01/2012;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Ciência, Tecnologia e Inovação;sfp;Marco Antônio Raupp;24/01/2012;17/03/2014;sfp
+Dilma 1;01/01/2011;01/01/2015;Ministério;Ciência, Tecnologia e Inovação;sfp;Clelio Campolina Diniz;17/03/2014;31/12/2014;sfp
+Dilma 1;01/01/2011;01/01/2015;Ministério;Cultura;sfp;Anna de Hollanda;01/01/2011;13/09/2012;sfp
+Dilma 1;01/01/2011;01/01/2015;Ministério;Cultura;PT;Marta Suplicy;13/09/2012;13/11/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Desenvolvimento Agrário;PT;Afonso Florence;01/01/2011;14/03/2012;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Desenvolvimento Agrário;PT;Pepe Vargas;14/03/2012;17/03/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Desenvolvimento Agrário;PT;Miguel Rossetto;17/03/2014;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Desenvolvimento Social e Combate à Fome;PT;Tereza Campello;01/01/2011;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Esporte;PCdoB;Orlando Silva;01/01/2011;26/10/2011;PCdoB
+Dilma 1;01/01/2011;01/01/2015;Ministério;Esporte;PCdoB;Aldo Rebelo;31/10/2011;31/12/2014;PCdoB
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Assuntos Estratégicos;PMDB;Moreira Franco;01/01/2011;15/03/2013;PMDB
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Assuntos Estratégicos;sfp;Marcelo Neri;22/03/2013;31/12/2014;sfp
+Dilma 1;01/01/2011;01/01/2015;Ministério;Cidades;PP;Mário Negromonte;01/01/2011;02/02/2012;PP
+Dilma 1;01/01/2011;01/01/2015;Ministério;Cidades;PP;Aguinaldo Ribeiro;02/02/2012;16/03/2014;PP
+Dilma 1;01/01/2011;01/01/2015;Ministério;Cidades;PP;Gilberto Occhi;17/03/2014;31/12/2014;PP
+Dilma 1;01/01/2011;01/01/2015;Ministério;Turismo;PMDB;Pedro Novais;01/01/2011;14/09/2011;PMDB
+Dilma 1;01/01/2011;01/01/2015;Ministério;Turismo;PMDB;Gastão Vieira;14/09/2011;17/03/2014;PMDB
+Dilma 1;01/01/2011;01/01/2015;Ministério;Turismo;PMDB;Vinicius Nobre Lages;17/03/2014;31/12/2014;PMDB
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Direitos Humanos;PT;Maria do Rosário;01/01/2011;01/04/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Direitos Humanos;PT;Ideli Salvatti;01/04/2014;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Secretaria-Geral (juventude);PT;Gilberto Carvalho;01/01/2011;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Relações Institucionais;PT;Luiz Sérgio;01/01/2011;13/06/2011;PT
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Relações Institucionais;PT;Ideli Salvatti;13/06/2011;01/04/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Relações Institucionais;PT;Ricardo Berzoini;01/04/2014;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Pesca e Aquicultura;PT;Ideli Salvatti;01/01/2011;13/06/2011;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Pesca e Aquicultura;PT;Luiz Sérgio;13/06/2011;01/03/2012;PT
+Dilma 1;01/01/2011;01/01/2015;Ministério;Pesca e Aquicultura;PRB;Marcelo Crivella;02/03/2012;17/03/2014;PRB
+Dilma 1;01/01/2011;01/01/2015;Ministério;Pesca e Aquicultura;PRB;Eduardo Lopes;17/03/2014;31/12/2014;PRB
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Mulheres;PT;Iriny Lopes;01/01/2011;10/02/2012;PT
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Mulheres;PT;Eleonora Menicucci;10/02/2012;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Igualdade Racial;PT;Luiza Bairros;01/01/2011;31/12/2014;PT
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Portos;PSB;Leônidas Cristino;01/01/2011;03/10/2013;PSB
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Portos;sfp;Antonio Henrique Pinheiro Silveira (interino);04/10/2013;26/06/2014;sfp
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Portos;ind;César Borges;26/06/2014;31/12/2014;PR
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Aviação Civil;sfp;Wagner Bittencourt;18/03/2011;15/03/2013;sfp
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Aviação Civil;PMDB;Moreira Franco;15/03/2013;31/12/2014;PMDB
+Dilma 1;01/01/2011;01/01/2015;Secretaria;Micro e Pequenas Empresas;PSD;Guilherme Afif Domingos;08/05/2013;31/12/2014;PSD
+Dilma 2;01/01/2015;31/08/2016;Órgão da PR;Casa Civil;PT;Aloízio Mercadante;01/01/2015;05/10/2015;PT
+Dilma 2;01/01/2015;31/08/2016;Órgão da PR;Casa Civil;PT;Jacques Wagner;05/10/2015;16/03/2016;PT
+Dilma 2;01/01/2015;31/08/2016;Órgão da PR;Casa Civil;PT;Luís Inácio Lula da Silva;16/03/2016;18/03/2016;PT
+Dilma 2;01/01/2015;31/08/2016;Órgão da PR;Casa Civil;PT;Eva Chiavon (interina);22/03/2016;11/05/2016;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Justiça;PT;José Eduardo Cardozo;01/01/2015;03/03/2016;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Justiça;PT;Wellington César Lima e Silva;03/03/2016;15/03/2016;sfp
+Dilma 2;01/01/2015;31/08/2016;Ministério;Justiça;PT;Eugênio Aragão;17/03/2016;12/05/2016;sfp
+Dilma 2;01/01/2015;31/08/2016;Ministério;Defesa;PT;Jacques Wagner;01/01/2015;02/10/2015;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Defesa;PCdoB;Aldo Rebelo;02/10/2015;12/05/2016;PCdoB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Relações Exteriores;sfp;Mauro Vieira;01/01/2015;12/05/2016;sfp
+Dilma 2;01/01/2015;31/08/2016;Ministério;Fazenda ;sfp;Joaquim Levy;01/01/2015;21/12/2015;sfp
+Dilma 2;01/01/2015;31/08/2016;Ministério;Fazenda ;sfp;Nelson Barbosa;21/12/2015;12/05/2016;sfp
+Dilma 2;01/01/2015;31/08/2016;Ministério;Transportes;PR;Antônio Carlos Rodrigues;01/01/2015;12/05/2016;PR
+Dilma 2;01/01/2015;31/08/2016;Ministério;Agricultura, Pecuária e Abastecimento;PMDB;Kátia Abreu;01/01/2015;30/03/2016;PMDB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Agricultura, Pecuária e Abastecimento;ind;Kátia Abreu;31/03/2016;12/05/2016;PMDB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Educação;ind;Cid Gomes;01/01/2015;18/03/2015;PROS
+Dilma 2;01/01/2015;31/08/2016;Ministério;Educação;sfp;Renato Janine Ribeiro;06/04/2015;05/10/2015;sfp
+Dilma 2;01/01/2015;31/08/2016;Ministério;Educação;PT;Aloízio Mercadante;05/10/2015;12/05/2016;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Trabalho e Emprego;PDT;Manoel Dias;01/01/2015;05/10/2015;PDT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Trabalho e Previdência Social;PT;Miguel Rossetto;05/10/2015;12/05/2016;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Saúde;PT;Arthur Chioro;01/01/2015;05/10/2015;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Saúde;PMDB;Marcelo Castro;05/10/2015;30/03/2016;PMDB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Saúde;ind;Marcelo Castro;31/03/2016;11/05/2016;PMDB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Desenvolvimento, Indústria e Comércio;PTB;Armando Monteiro;01/01/2015;16/03/2016;PTB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Desenvolvimento, Indústria e Comércio;ind;Armando Monteiro;17/03/2016;12/05/2016;PTB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Minas e Energia;PMDB;Eduardo Braga;01/01/2015;30/03/2016;PMDB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Minas e Energia;ind;Eduardo Braga;31/03/2016;22/04/2016;PMDB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Planejamento, Orçamento e Gestão;sfp;Nelson Barbosa;01/01/2015;21/12/2015;sfp
+Dilma 2;01/01/2015;31/08/2016;Ministério;Planejamento, Orçamento e Gestão;sfp;Valdir Simão;21/12/2015;12/05/2016;sfp
+Dilma 2;01/01/2015;31/08/2016;Ministério;Integração Nacional;PP;Gilberto Occhi;01/01/2015;13/04/2016;PP
+Dilma 2;01/01/2015;31/08/2016;Ministério;Comunicações;PT;Ricardo Berzoini;01/01/2015;05/10/2015;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Comunicações;PDT;André Figueiredo;05/10/2015;12/05/2016;PDT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Previdência Social;PT;Carlos Eduardo Gabas;01/01/2015;05/10/2015;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Meio Ambiente;sfp;Izabella Teixeira;01/01/2015;12/05/2016;sfp
+Dilma 2;01/01/2015;31/08/2016;Ministério;Ciência, Tecnologia e Inovação;PCdoB;Aldo Rebelo;01/01/2015;05/10/2015;PCdoB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Ciência, Tecnologia e Inovação;PMDB;Celso Pansera;05/10/2015;30/03/2016;PMDB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Ciência, Tecnologia e Inovação;ind;Celso Pansera;31/03/2016;14/04/2016;PMDB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Cultura;PT;Juca Ferreira;01/01/2015;12/05/2016;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Desenvolvimento Agrário;PT;Patrus Ananias;01/01/2015;12/05/2016;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Desenvolvimento Social e Combate à Fome;PT;Tereza Campello;01/01/2015;12/05/2016;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Esporte;PRB;George Hilton;01/01/2015;30/03/2016;PRB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Esporte;PCdoB;Ricardo Leyser (interino);31/03/2016;12/05/2016;PCdoB
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Assuntos Estratégicos;ind;Roberto Mangabeira Unger;05/02/2015;16/09/2015;PMDB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Cidades;PSD;Gilberto Kassab;01/01/2015;19/04/2016;PSD
+Dilma 2;01/01/2015;31/08/2016;Ministério;Cidades;PT;Inês da Silva Magalhães;19/04/2016;12/05/2016;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Turismo;PMDB;Vinicius Nobre Lages;01/01/2015;16/04/2015;PMDB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Turismo;PMDB;Henrique Eduardo Alves;16/04/2015;30/03/2016;PMDB
+Dilma 2;01/01/2015;31/08/2016;Ministério;Turismo;PT;Alessandro Golombiewski Teixeira;22/04/2016;12/05/2016;PT
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Direitos Humanos;PT;Ideli Salvatti;01/01/2015;10/04/2015;PT
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Direitos Humanos;PT;Pepe Vargas;10/04/2015;05/10/2015;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Direitos Humanos;sfp;Nilma Lino Gomes;05/10/2015;11/05/2016;sfp
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Secretaria-Geral (juventude);PT;Miguel Rossetto;01/01/2015;05/10/2015;PT
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Relações Institucionais;PT;Pepe Vargas;01/01/2015;10/04/2015;PT
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Governo;PT;Ricardo Berzoini;05/10/2015;12/05/2016;PT
+Dilma 2;01/01/2015;31/08/2016;Ministério;Pesca e Aquicultura;PMDB;Helder Barbalho;01/01/2015;05/10/2015;PMDB
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Mulheres;PT;Eleonora Menicucci;01/01/2015;05/10/2015;PT
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Igualdade Racial;sfp;Nilma Lino Gomes;01/01/2015;05/10/2015;sfp
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Portos;PMDB;Edinho Araújo;01/01/2015;05/10/2015;PMDB
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Portos;PMDB;Helder Barbalho;05/10/2015;30/03/2016;PMDB
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Portos;ind;Helder Barbalho;31/03/2016;21/04/2016;PMDB
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Portos;sfp;Maurício Muniz Barreto de Carvalho;22/04/2016;11/05/2016;sfp
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Aviação Civil;PMDB;Eliseu Padilha;01/01/2015;09/12/2015;PMDB
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Aviação Civil;sfp;Guilherme Walder Mora Ramalho (interino);09/12/2015;15/03/2016;sfp
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Aviação Civil;PMDB;Mauro Lopes;16/03/2016;30/03/2016;PMDB
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Aviação Civil;ind;Mauro Lopes;31/03/2016;14/04/2016;PMDB
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Aviação Civil;PT;Carlos Eduardo Gabas;29/04/2016;11/05/2016;PT
+Dilma 2;01/01/2015;31/08/2016;Secretaria;Micro e Pequenas Empresas;PSD;Guilherme Afif Domingos;01/01/2015;05/10/2015;PSD
+Temer;31/08/2016;31/12/2018;Órgão da PR;Casa Civil;PMDB;Eliseu Padilha;12/05/2016;31/12/2018;PMDB
+Temer;31/08/2016;31/12/2018;Ministério;Justiça e Cidadania;PSDB;Alexandre de Moraes;12/05/2016;22/02/2017;PSDB
+Temer;31/08/2016;31/12/2018;Ministério;Justiça e Segurança Pública;PMDB;Osmar Serraglio;07/03/2017;31/05/2017;PMDB
+Temer;31/08/2016;31/12/2018;Ministério;Justiça e Segurança Pública;sfp;Torquato Jardim;31/05/2017;31/12/2018;sfp
+Temer;31/08/2016;31/12/2018;Ministério;Defesa;PPS;Raul Jungmann;12/05/2016;21/05/2017;PPS
+Temer;31/08/2016;31/12/2018;Ministério;Defesa;ind;Raul Jungmann;22/05/2017;27/02/2018;PPS
+Temer;31/08/2016;31/12/2018;Ministério;Defesa;sfp;Joaquim Silva e Luna;27/02/2018;31/12/2018;sfp
+Temer;31/08/2016;31/12/2018;Ministério;Relações Exteriores;PSDB;José Serra;12/05/2016;22/02/2017;PSDB
+Temer;31/08/2016;31/12/2018;Ministério;Relações Exteriores;PSDB;Aloysio Nunes;07/03/2017;29/11/2017;PSDB
+Temer;31/08/2016;31/12/2018;Ministério;Relações Exteriores;ind;Aloysio Nunes;30/11/2017;31/12/2018;PSDB
+Temer;31/08/2016;31/12/2018;Ministério;Fazenda ;ind;Henrique Meirelles;12/05/2016;06/04/2018;PSDB
+Temer;31/08/2016;31/12/2018;Ministério;Fazenda ;sfp;Eduardo Guardia;10/04/2018;31/12/2018;sfp
+Temer;31/08/2016;31/12/2018;Ministério;Transportes, Portos e Aviação Civil;PR;Maurício Quintella Lessa;12/05/2016;02/04/2018;PR
+Temer;31/08/2016;31/12/2018;Ministério;Transportes, Portos e Aviação Civil;PR;Valter Casimiro Silveira;02/04/2018;31/12/2018;PR
+Temer;31/08/2016;31/12/2018;Ministério;Agricultura, Pecuária e Abastecimento;PP;Blairo Maggi;12/05/2016;31/12/2018;PP
+Temer;31/08/2016;31/12/2018;Ministério;Educação;DEM;Mendonça Filho;12/05/2016;06/04/2018;DEM
+Temer;31/08/2016;31/12/2018;Ministério;Educação;DEM;Rossieli Soares;10/04/2018;31/12/2018;sfp
+Temer;31/08/2016;31/12/2018;Ministério;Trabalho;PTB;Ronaldo Nogueira;12/05/2016;29/12/2017;PTB
+Temer;31/08/2016;31/12/2018;Ministério;Trabalho;PTB;Helton Yomura;29/12/2017;05/07/2018;PTB
+Temer;31/08/2016;31/12/2018;Ministério;Trabalho;sfp;Caio Luiz de Almeida Vieira de Mello;10/07/2018;31/12/2018;sfp
+Temer;31/08/2016;31/12/2018;Ministério;Saúde;PP;Ricardo Barros;12/05/2016;01/04/2018;PP
+Temer;31/08/2016;31/12/2018;Ministério;Saúde;PP;Gilberto Occhi;02/04/2018;31/12/2018;PP
+Temer;31/08/2016;31/12/2018;Ministério;Indústria, Comércio Exterior e Serviços;PRB;Marcos Pereira;12/05/2016;05/01/2018;PRB
+Temer;31/08/2016;31/12/2018;Ministério;Indústria, Comércio Exterior e Serviços;PRB;Marcos Jorge de Lima;05/01/2018;31/12/2018;PRB
+Temer;31/08/2016;31/12/2018;Ministério;Minas e Energia;sfp;Marco Antônio Martins Almeida;22/04/2016;11/05/2016;sfp
+Temer;31/08/2016;31/12/2018;Ministério;Minas e Energia;PSB;Fernando Bezerra Coelho Filho;12/05/2016;21/05/2017;PSB
+Temer;31/08/2016;31/12/2018;Ministério;Minas e Energia;ind;Fernando Bezerra Coelho Filho;22/05/2017;06/04/2018;PSB
+Temer;31/08/2016;31/12/2018;Ministério;Minas e Energia;PMDB;Moreira Franco;10/04/2018;31/12/2018;PMDB
+Temer;31/08/2016;31/12/2018;Ministério;Planejamento, Desenvolvimento e Gestão;PMDB;Romero Jucá;12/05/2016;23/05/2016;PMDB
+Temer;31/08/2016;31/12/2018;Ministério;Planejamento, Desenvolvimento e Gestão;PMDB;Dyogo Oliveira;23/05/2016;06/04/2018;sfp
+Temer;31/08/2016;31/12/2018;Ministério;Planejamento, Desenvolvimento e Gestão;PMDB;Esteves Conalgo;10/04/2018;31/12/2018;sfp
+Temer;31/08/2016;31/12/2018;Ministério;Integração Nacional;PMDB;Helder Barbalho;12/05/2016;06/04/2018;PMDB
+Temer;31/08/2016;31/12/2018;Ministério;Integração Nacional;PMDB;Antônio de Pádua de Deus;10/04/2018;31/12/2018;PMDB
+Temer;31/08/2016;31/12/2018;Ministério;Meio Ambiente;ind;Sarney Filho;12/05/2016;06/04/2018;PV
+Temer;31/08/2016;31/12/2018;Ministério;Meio Ambiente;ind;Edson Duarte;06/04/2018;31/12/2018;PV
+Temer;31/08/2016;31/12/2018;Ministério;Ciência, Tecnologia, Inovações e Comunicações;PSD;Gilberto Kassab;12/05/2016;31/12/2018;PSD
+Temer;31/08/2016;31/12/2018;Ministério;Cultura;PMDB;Marcelo Calero;24/05/2016;22/11/2016;PMDB
+Temer;31/08/2016;31/12/2018;Ministério;Cultura;PPS;Roberto Freire;23/11/2016;22/05/2017;PPS
+Temer;31/08/2016;31/12/2018;Ministério;Cultura;sfp;João Batista de Andrade (interino);22/05/2017;24/07/2017;sfp
+Temer;31/08/2016;31/12/2018;Ministério;Cultura;sfp;Sérgio Sá Leitão;25/07/2017;31/12/2018;sfp
+Temer;31/08/2016;31/12/2018;Ministério;Desenvolvimento Social e Agrário;PMDB;Osmar Terra;12/05/2016;06/04/2018;PMDB
+Temer;31/08/2016;31/12/2018;Ministério;Desenvolvimento Social e Agrário;PMDB;Alberto Beltrame;10/04/2018;31/12/2018;sfp
+Temer;31/08/2016;31/12/2018;Ministério;Esporte;PMDB;Leonardo Picciani;12/05/2016;06/04/2018;PMDB
+Temer;31/08/2016;31/12/2018;Ministério;Esporte;PMDB;Leandro Cruz Fróes da Silva;10/04/2018;31/12/2018;sfp
+Temer;31/08/2016;31/12/2018;Ministério;Cidades;PSDB;Bruno Araújo;12/05/2016;13/11/2017;PSDB
+Temer;31/08/2016;31/12/2018;Ministério;Cidades;PP;Alexandre Baldy;22/11/2017;31/12/2018;PP
+Temer;31/08/2016;31/12/2018;Ministério;Turismo;PMDB;Henrique Eduardo Alves;12/05/2016;16/06/2016;PMDB
+Temer;31/08/2016;31/12/2018;Ministério;Turismo;;Alberto Alves (interino);17/06/2016;05/10/2016;
+Temer;31/08/2016;31/12/2018;Ministério;Turismo;PMDB;Marx Beltrão;05/10/2016;06/04/2018;PMDB
+Temer;31/08/2016;31/12/2018;Ministério;Turismo;PMDB;Vinicius Lummertz;10/04/2018;31/12/2018;PMDB
+Temer;31/08/2016;31/12/2018;Ministério;Direitos Humanos;PSDB;Luislinda Valois;03/02/2017;29/11/2017;PSDB
+Temer;31/08/2016;31/12/2018;Ministério;Direitos Humanos;ind;Luislinda Valois;30/11/2017;19/02/2018;PSDB
+Temer;31/08/2016;31/12/2018;Ministério;Direitos Humanos;sfp;Gustavo Rocha;20/02/2018;31/12/2018;sfp
+Temer;31/08/2016;31/12/2018;Secretaria;Secretaria-Geral (mulheres e juventude);PMDB;Moreira Franco;01/11/2017;10/04/2018;PMDB
+Temer;31/08/2016;31/12/2018;Secretaria;Secretaria-Geral (mulheres e juventude);ind;Ronaldo Fonseca;28/05/2018;31/12/2018;Podemos
+Temer;31/08/2016;31/12/2018;Secretaria;Governo;PMDB;Geddel Vieira Lima;12/05/2016;25/11/2016;PMDB
+Temer;31/08/2016;31/12/2018;Secretaria;Governo;PSDB;Antônio Imbassahy;03/02/2017;14/12/2017;PSDB
+Temer;31/08/2016;31/12/2018;Secretaria;Governo;PMDB;Carlos Marun;15/12/2017;31/12/2018;PMDB
+Temer;31/08/2016;31/12/2018;Ministério;Segurança Pública;ind;Raul Jungmann;27/02/2018;31/12/2018;PPS
+Bolsonaro;01/01/2019;31/12/2022;Órgão da PR;Casa Civil;ind;Onyx Lorenzoni;01/01/2019;17/02/2020;DEM
+Bolsonaro;01/01/2019;31/12/2022;Órgão da PR;Casa Civil;sfp;Walter Souza Braga Netto;18/02/2020;30/03/2021;sfp
+Bolsonaro;01/01/2019;31/12/2022;Órgão da PR;Casa Civil;sfp;Luiz Eduardo Ramos;06/04/2021;03/08/2021;sfp
+Bolsonaro;01/01/2019;31/12/2022;Órgão da PR;Casa Civil;PP;Ciro Nogueira;04/08/2021;31/12/2022;PP
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Justiça e Segurança Pública;sfp;Sérgio Moro;01/01/2019;24/04/2020;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Justiça e Segurança Pública;sfp;André Mendonça;28/04/2020;30/03/2021;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Justiça e Segurança Pública;sfp;Anderson Gustavo Torres;06/04/2021;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Defesa;sfp;Fernando Azevedo e Silva;01/01/2019;30/03/2021;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Defesa;sfp;Walter Souza Braga Netto;06/04/2021;31/03/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Defesa;sfp;Paulo Sérgio Nogueira;31/03/2022;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Relações Exteriores;sfp;Ernesto Araújo;01/01/2019;30/03/2021;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Relações Exteriores;sfp;Carlos Alberto Franco França;06/04/2021;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Economia;sfp;Paulo Guedes;01/01/2019;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Infraestrutura;sfp;Tarcísio Gomes de Freitas;01/01/2019;30/03/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Infraestrutura;sfp;Marcelo Sampaio Cunha Filho;31/03/2022;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Agricultura;ind;Tereza Cristina;01/01/2019;31/03/2022;DEM
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Agricultura;ind;Marcos Montes Cordeiro;31/03/2022;31/12/2022;PSD
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Educação;sfp;Ricardo Vélez Rodríguez;01/01/2019;08/04/2019;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Educação;sfp;Abraham Weintraub;09/04/2019;18/06/2020;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Educação;sfp;Milton Ribeiro;08/07/2020;29/03/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Educação;sfp;Victor Godoy;30/03/2022;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Trabalho e Previdência;ind;Onyx Lorenzoni;28/07/2021;31/03/2022;DEM
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Trabalho e Previdência;sfp;José Carlos Oliveira;31/03/2022;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Saúde;ind;Luiz Henrique Mandetta;01/01/2019;15/04/2020;DEM
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Saúde;sfp;Nelson Teich;16/04/2020;15/05/2020;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Saúde;sfp;Eduardo Pazuello;16/05/2020;22/03/2021;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Saúde;sfp;Marcelo Queiroga;23/03/2021;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Minas e Energia;sfp;Bento Costa Lima Leite;01/01/2019;11/05/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Minas e Energia;sfp;Adolfo Sachsida;11/05/2022;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Desenvolvimento Regional;sfp;Gustavo Canuto;01/01/2019;10/02/2020;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Desenvolvimento Regional;ind;Rogério Marinho;11/02/2020;31/03/2022;PSDB
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Desenvolvimento Regional;sfp;Daniel de Oliveira Duarte Ferreira;31/03/2022;30/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Comunicações;ind;Fábio Faria;17/06/2020;23/03/2022;PSD
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Comunicações;PP;Fábio Faria;24/03/2022;21/12/2022;PP
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Meio Ambiente;ind;Ricardo Salles;01/01/2019;23/06/2021;Novo
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Meio Ambiente;sfp;Joaquim Álvaro Pereira Leite;23/06/2021;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Ciência, Tecnologia, Inovações e Comunicações;PSL;Marcos Pontes;01/01/2019;11/11/2019;PSL
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Ciência, Tecnologia, Inovações e Comunicações;ind;Marcos Pontes;12/11/2019;31/03/2022;PSL
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Ciência, Tecnologia, Inovações e Comunicações;sfp;Paulo Alvim;31/03/2022;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Cidadania e Ação Social;ind;Osmar Terra;01/01/2019;17/02/2020;MDB
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Cidadania e Ação Social;ind;Onyx Lorenzoni;18/02/2020;11/02/2021;DEM
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Cidadania e Ação Social;REP;João Roma;12/02/2021;31/03/2022;REP
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Cidadania e Ação Social;sfp;Ronaldo Vieira Bento;31/03/2022;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Turismo;PSL;Marcelo Álvaro Antonio;01/01/2019;11/11/2019;PSL
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Turismo;ind;Marcelo Álvaro Antonio;12/11/2019;09/12/2020;PSL
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Turismo;sfp;Gilson Machado Neto;09/12/2020;31/03/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Turismo;sfp;Carlos Alberto Gomes de Brito;31/03/2022;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Mulher, Família e Direitos Humanos;ind;Damares Alves;01/01/2019;31/03/2022;PP
+Bolsonaro;01/01/2019;31/12/2022;Ministério;Mulher, Família e Direitos Humanos;REP;Cristiane Rodrigues Britto;31/03/2022;31/12/2022;REP
+Bolsonaro;01/01/2019;31/12/2022;Secretaria;Secretaria-Geral (modernização do Estado);PSL;Gustavo Bebbiano;01/01/2019;18/02/2019;PSL
+Bolsonaro;01/01/2019;31/12/2022;Secretaria;Secretaria-Geral (modernização do Estado);sfp;Floriano Peixoto;19/02/2019;20/06/2019;sfp
+Bolsonaro;01/01/2019;31/12/2022;Secretaria;Secretaria-Geral (modernização do Estado);sfp;Jorge Oliveira;21/06/2019;31/12/2020;sfp
+Bolsonaro;01/01/2019;31/12/2022;Secretaria;Secretaria-Geral (modernização do Estado);ind;Onyx Lorenzoni;12/02/2021;28/07/2021;DEM
+Bolsonaro;01/01/2019;31/12/2022;Secretaria;Secretaria-Geral (modernização do Estado);sfp;Luiz Eduardo Ramos;03/08/2021;31/12/2022;sfp
+Bolsonaro;01/01/2019;31/12/2022;Secretaria;Governo;sfp;Carlos Alberto dos Santos Cruz;01/01/2019;12/06/2019;sfp
+Bolsonaro;01/01/2019;31/12/2022;Secretaria;Governo;sfp;Luiz Eduardo Ramos;13/06/2019;30/03/2021;sfp
+Bolsonaro;01/01/2019;31/12/2022;Secretaria;Governo;PL;Flávia Arruda;06/04/2021;31/03/2022;PL
+Bolsonaro;01/01/2019;31/12/2022;Secretaria;Governo;sfp;Célio Faria Júnior;31/03/2022;31/12/2022;sfp
+Lula 3;01/01/2023;;Órgão da PR;Casa Civil;PT;Rui Costa;01/01/2023;;PT
+Lula 3;01/01/2023;;Ministério;Justiça e Segurança Pública;PSB;Flávio Dino;01/01/2023;;PSB
+Lula 3;01/01/2023;;Ministério;Defesa;sfp;José Múcio Monteiro;01/01/2023;;sfp
+Lula 3;01/01/2023;;Ministério;Relações Exteriores;sfp;Mauro Vieira;01/01/2023;;sfp
+Lula 3;01/01/2023;;Ministério;Fazenda;PT;Fernando Haddad;01/01/2023;;PT
+Lula 3;01/01/2023;;Ministério;Transportes;MDB;Renan Filho;01/01/2023;;MDB
+Lula 3;01/01/2023;;Ministério;Agricultura;PSD;Carlos Fávaro;01/01/2023;;PSD
+Lula 3;01/01/2023;;Ministério;Educação;PT;Camilo Santana;01/01/2023;;PT
+Lula 3;01/01/2023;;Ministério;Trabalho;PT;Luiz Marinho;01/01/2023;;PT
+Lula 3;01/01/2023;;Ministério;Saúde;sfp;Nísia Trindade;01/01/2023;;sfp
+Lula 3;01/01/2023;;Ministério;Indústria e Comércio;PSB;Geraldo Alckmin;01/01/2023;;PSB
+Lula 3;01/01/2023;;Ministério;Minas e Energia;PSD;Alexandre Silveira;01/01/2023;;PSD
+Lula 3;01/01/2023;;Ministério;Planejamento, Desenvolvimento e Gestão;MDB;Simone Tebet;01/01/2023;;MDB
+Lula 3;01/01/2023;;Ministério;Integração Nacional e Desenvolvimento Regional;União;Waldez Góes;01/01/2023;;PDT
+Lula 3;01/01/2023;;Ministério;Comunicações;União;Juscelino Filho;01/01/2023;;União
+Lula 3;01/01/2023;;Ministério;Previdência Social;PDT;Carlos Lupi;01/01/2023;;PDT
+Lula 3;01/01/2023;;Ministério;Meio Ambiente;Rede;Marina Silva;01/01/2023;;Rede
+Lula 3;01/01/2023;;Ministério;Ciência e Tecnologia;PCdoB;Luciana Santos;01/01/2023;;PCdoB
+Lula 3;01/01/2023;;Ministério;Cultura;sfp;Margareth Menezes;01/01/2023;;sfp
+Lula 3;01/01/2023;;Ministério;Desenvolvimento Agrário;PT;Paulo Teixeira;01/01/2023;;PT
+Lula 3;01/01/2023;;Ministério;Desenvolvimento Social;PT;Wellington Dias;01/01/2023;;PT
+Lula 3;01/01/2023;;Ministério;Esporte;sfp;Ana Moser;01/01/2023;12/09/2023;sfp
+Lula 3;01/01/2023;;Ministério;Esporte;ind;André Luiz de Carvalho Ribeiro (André Fufuca);13/09/2023;;PP
+Lula 3;01/01/2023;;Ministério;Cidades;MDB;Jader Filho;01/01/2023;;MDB
+Lula 3;01/01/2023;;Ministério;Turismo;União;Daniela Carneiro;01/01/2023;13/07/2023;União
+Lula 3;01/01/2023;;Ministério;Turismo;União;Celso Sabino;14/07/2023;;União
+Lula 3;01/01/2023;;Ministério;Direitos Humanos;sfp;Silvio Almeida;01/01/2023;;sfp
+Lula 3;01/01/2023;;Secretaria;Secretaria-Geral (participação social);PT;Márcio Macedo;01/01/2023;;PT
+Lula 3;01/01/2023;;Secretaria;Relações Institucionais;PT;Alexandre Padilha;01/01/2023;;PT
+Lula 3;01/01/2023;;Ministério;Gestão e Inovação em Serviços Públicos;sfp;Esther Dweck;01/01/2023;;sfp
+Lula 3;01/01/2023;;Ministério;Pesca;PSD;André de Paula;01/01/2023;;PSD
+Lula 3;01/01/2023;;Ministério;Mulheres;PT;Cida Gonçalves;01/01/2023;;PT
+Lula 3;01/01/2023;;Secretaria;Igualdade Racial;sfp;Anielle Franco;01/01/2023;;sfp
+Lula 3;01/01/2023;;Ministério;Portos e Aeroportos;PSB;Márcio França;01/01/2023;12/09/2023;PSB
+Lula 3;01/01/2023;;Ministério;Portos e Aeroportos;ind;Sílvio Costa Filho;13/09/2023;;REP
+Lula 3;01/01/2023;;Ministério;Micro e Pequenas Empresas;PSB;Márcio França;13/09/2023;;PSB
+Lula 3;01/01/2023;;Ministério;Povos Indígenas;PSOL;Sônia Guajajara;01/01/2023;;PSOL

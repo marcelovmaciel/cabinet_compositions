@@ -1,0 +1,46 @@
+{
+  "party": "PSOL",
+  "id": 63,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 19340,
+      "response_sha256": "1d7a48fa103bc2a9b5abc8c180b6f7ae3a163a915958d1cb966c42bd8cb52f61",
+      "retrieved_utc": "2026-09-10T23:47:30Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=63&currentPage=1&pageSize=10000",
+      "records": 9340,
+      "totalElements": 19340,
+      "response_sha256": "b377643df4730f60b67e7d67a16d521727c5081a3c6548c14c4cecfc9ae65057",
+      "retrieved_utc": "2026-09-10T23:47:46Z"
+    }
+  ],
+  "matches": [
+    {
+      "sqRegistroFiliacao": 57797409,
+      "cdMotivoCancelamento": null,
+      "cdMotivoDesfiliacao": null,
+      "desSituacaoEleitor": "REGULAR",
+      "dtCancelamento": null,
+      "dtDesfiliacao": null,
+      "dtExclusao": null,
+      "dtFiliacao": [
+        2023,
+        3,
+        17
+      ],
+      "tsCadastroDesfiliacao": null,
+      "nmEleitor": "IVANI DOS SANTOS",
+      "nomLocalidade": "SÃO PAULO",
+      "sgPartido": "PSOL",
+      "sgUe": "SP",
+      "stRegistroFiliacao": 1,
+      "tpSexo": 4,
+      "indPendencia": 0,
+      "indOrigem": 0,
+      "public_registry_identity_sha256": "d150a494db1f7516a81a3d07de101d2ee19df79e4a11f7b47561912f403f1f82"
+    }
+  ]
+}

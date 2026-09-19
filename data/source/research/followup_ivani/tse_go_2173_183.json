@@ -1,0 +1,16 @@
+{
+  "party": "MISSÃO",
+  "id": 183,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 271,
+      "totalElements": 271,
+      "response_sha256": "c5f64fd95d2e55adf9c41ede573d0f8df4a8a36c95a4796415dfec58296f444c",
+      "retrieved_utc": "2026-09-10T23:36:04Z"
+    }
+  ],
+  "matches": []
+}

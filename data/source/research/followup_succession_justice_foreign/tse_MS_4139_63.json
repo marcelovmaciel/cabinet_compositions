@@ -1,0 +1,17 @@
+{
+  "party": "PSOL",
+  "id": 63,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 1614,
+      "totalElements": 1614,
+      "response_sha256": "7e0243bd3d68fb4138b30f4cb06545dbfedba5d6d464e004c45e446d7ec38319",
+      "retrieved_utc": "2026-09-10T23:40:43Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,17 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 991,
+      "totalElements": 991,
+      "response_sha256": "f3a84279d9c51e6ca32eea70115e84ba8c1e61d7d1c47bfe43332f32ca16cbdb",
+      "retrieved_utc": "2026-09-10T23:38:20Z"
+    }
+  ],
+  "matches": []
+}

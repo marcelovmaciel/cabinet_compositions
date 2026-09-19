@@ -1,0 +1,1126 @@
+[
+  {
+    "file": "affiliations.csv",
+    "key": [
+      "affiliation-034b56f974be"
+    ],
+    "before": {
+      "affiliation_id": "affiliation-034b56f974be",
+      "person_id": "person-87ad75f8d2f9",
+      "start_inclusive": "2022-03-28",
+      "end_exclusive": "2022-03-31",
+      "state": "PARTY",
+      "party_id": "REPUBLICANOS",
+      "support": "dated assertion plus targeted-search continuity",
+      "date_status": "evidence_supported",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "AFF-013;AFF-014;AFF-015;AFF-055;AFF-056;BOL-E01;BOL-E02;BOL-E18",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW;R17"
+    },
+    "after": {
+      "affiliation_id": "affiliation-034b56f974be",
+      "person_id": "person-87ad75f8d2f9",
+      "start_inclusive": "2022-03-28",
+      "end_exclusive": "2022-03-31",
+      "state": "PARTY",
+      "party_id": "REPUBLICANOS",
+      "support": "dated assertion plus targeted-search continuity",
+      "date_status": "evidence_supported",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "AFF-013;AFF-014;AFF-015;AFF-055;AFF-056;BOL-E01;BOL-E02;BOL-E18;V5W6E03;V5W6E07;V5W6E09;V5W6E10",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW;R17;V5W6D02"
+    }
+  },
+  {
+    "file": "affiliations.csv",
+    "key": [
+      "affiliation-22af2be40aed"
+    ],
+    "before": {
+      "affiliation_id": "affiliation-22af2be40aed",
+      "person_id": "person-20d6d1c35408",
+      "start_inclusive": "2021-11-30",
+      "end_exclusive": "2022-03-31",
+      "state": "PARTY",
+      "party_id": "PL",
+      "support": "dated assertion plus targeted-search continuity",
+      "date_status": "evidence_supported",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "AFF-024;AFF-025;BOL-E12;BOL-E13",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW;R16"
+    },
+    "after": {
+      "affiliation_id": "affiliation-22af2be40aed",
+      "person_id": "person-20d6d1c35408",
+      "start_inclusive": "2021-11-30",
+      "end_exclusive": "2022-03-31",
+      "state": "PARTY",
+      "party_id": "PL",
+      "support": "dated assertion plus targeted-search continuity",
+      "date_status": "evidence_supported",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "AFF-024;AFF-025;BOL-E12;BOL-E13;V5W6E04;V5W6E05;V5W6E06;V5W6E08;V5W6E09;V5W6E10",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW;R16;V5W6D03"
+    }
+  },
+  {
+    "file": "affiliations.csv",
+    "key": [
+      "affiliation-55eb812b0488"
+    ],
+    "before": {
+      "affiliation_id": "affiliation-55eb812b0488",
+      "person_id": "person-20d6d1c35408",
+      "start_inclusive": "2020-06-18",
+      "end_exclusive": "2021-11-30",
+      "state": "UNAFFILIATED",
+      "party_id": "",
+      "support": "dated assertion plus targeted-search continuity",
+      "date_status": "bounded_date_convention",
+      "date_earliest": "2020-02-12",
+      "date_latest": "2020-06-18",
+      "alternatives": "[\"PSDB\", \"UNAFFILIATED\"]",
+      "evidence_ids": "AFF-024;AFF-025;BOL-E12;BOL-E13",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW;R16"
+    },
+    "after": {
+      "affiliation_id": "affiliation-55eb812b0488",
+      "person_id": "person-20d6d1c35408",
+      "start_inclusive": "2020-06-18",
+      "end_exclusive": "2021-11-30",
+      "state": "UNAFFILIATED",
+      "party_id": "",
+      "support": "contemporary_positive_and_completed_departure_observations_with_narrowed_date_bounds",
+      "date_status": "bounded_date_convention",
+      "date_earliest": "2020-06-16",
+      "date_latest": "2020-06-18",
+      "alternatives": "[\"PSDB\", \"UNAFFILIATED\"]",
+      "evidence_ids": "AFF-024;AFF-025;BOL-E12;BOL-E13;V5W6E04;V5W6E05;V5W6E06;V5W6E08;V5W6E09;V5W6E10",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW;R16;V5W6D03"
+    }
+  },
+  {
+    "file": "affiliations.csv",
+    "key": [
+      "affiliation-66214824b17e"
+    ],
+    "before": {
+      "affiliation_id": "affiliation-66214824b17e",
+      "person_id": "person-1c11e767f427",
+      "start_inclusive": "2022-05-11",
+      "end_exclusive": "2023-01-01",
+      "state": "PARTY",
+      "party_id": "UNIAO",
+      "support": "adjudicated_positive_membership_continuity_with_conflicting_historical_nonaffiliation_assertions",
+      "date_status": "adjudicated_continuity",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[\"UNIAO\",\"UNAFFILIATED\"]",
+      "evidence_ids": "AFF-044;BOL-E07;BOL-E08;C061;LEG-5b2c802041f5",
+      "decision_ids": "C061;PERSON-CONTINUITY-REVIEW;R26"
+    },
+    "after": {
+      "affiliation_id": "affiliation-66214824b17e",
+      "person_id": "person-1c11e767f427",
+      "start_inclusive": "2022-05-11",
+      "end_exclusive": "2023-01-01",
+      "state": "PARTY",
+      "party_id": "UNIAO",
+      "support": "official_registry_historical_membership_exact_identity_and_documented_merger_continuity",
+      "date_status": "evidence_supported",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "AFF-044;BOL-E07;BOL-E08;C061;LEG-5b2c802041f5;V5W6E01;V5W6E02",
+      "decision_ids": "C061;PERSON-CONTINUITY-REVIEW;R26;V5W6D01"
+    }
+  },
+  {
+    "file": "affiliations.csv",
+    "key": [
+      "affiliation-92b6d60a8748"
+    ],
+    "before": {
+      "affiliation_id": "affiliation-92b6d60a8748",
+      "person_id": "person-20d6d1c35408",
+      "start_inclusive": "2020-02-11",
+      "end_exclusive": "2020-06-18",
+      "state": "PARTY",
+      "party_id": "PSDB",
+      "support": "dated assertion plus targeted-search continuity",
+      "date_status": "bounded_date_convention",
+      "date_earliest": "2020-02-12",
+      "date_latest": "2020-06-18",
+      "alternatives": "[\"PSDB\", \"UNAFFILIATED\"]",
+      "evidence_ids": "AFF-024;AFF-025;BOL-E12;BOL-E13",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW;R16"
+    },
+    "after": {
+      "affiliation_id": "affiliation-92b6d60a8748",
+      "person_id": "person-20d6d1c35408",
+      "start_inclusive": "2020-02-11",
+      "end_exclusive": "2020-06-18",
+      "state": "PARTY",
+      "party_id": "PSDB",
+      "support": "contemporary_positive_and_completed_departure_observations_with_narrowed_date_bounds",
+      "date_status": "bounded_date_convention",
+      "date_earliest": "2020-06-16",
+      "date_latest": "2020-06-18",
+      "alternatives": "[\"PSDB\", \"UNAFFILIATED\"]",
+      "evidence_ids": "AFF-024;AFF-025;BOL-E12;BOL-E13;V5W6E04;V5W6E05;V5W6E06;V5W6E08;V5W6E09;V5W6E10",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW;R16;V5W6D03"
+    }
+  },
+  {
+    "file": "affiliations.csv",
+    "key": [
+      "affiliation-b2eb8d8beb97"
+    ],
+    "before": {
+      "affiliation_id": "affiliation-b2eb8d8beb97",
+      "person_id": "person-87ad75f8d2f9",
+      "start_inclusive": "2019-01-01",
+      "end_exclusive": "2020-09-19",
+      "state": "PARTY",
+      "party_id": "PP",
+      "support": "dated assertion plus targeted-search continuity",
+      "date_status": "bounded_date_convention",
+      "date_earliest": "2020-08-27",
+      "date_latest": "2020-09-19",
+      "alternatives": "[\"PP\", \"UNAFFILIATED\"]",
+      "evidence_ids": "AFF-013;AFF-014;AFF-015;AFF-055;AFF-056;BOL-E01;BOL-E02;BOL-E18",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW;R17"
+    },
+    "after": {
+      "affiliation_id": "affiliation-b2eb8d8beb97",
+      "person_id": "person-87ad75f8d2f9",
+      "start_inclusive": "2019-01-01",
+      "end_exclusive": "2020-09-19",
+      "state": "PARTY",
+      "party_id": "PP",
+      "support": "contemporary_positive_and_completed_departure_observations_with_narrowed_date_bounds",
+      "date_status": "bounded_date_convention",
+      "date_earliest": "2020-09-04",
+      "date_latest": "2020-09-19",
+      "alternatives": "[\"PP\", \"UNAFFILIATED\"]",
+      "evidence_ids": "AFF-013;AFF-014;AFF-015;AFF-055;AFF-056;BOL-E01;BOL-E02;BOL-E18;V5W6E03;V5W6E07;V5W6E09;V5W6E10",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW;R17;V5W6D02"
+    }
+  },
+  {
+    "file": "affiliations.csv",
+    "key": [
+      "affiliation-f17728f50dd7"
+    ],
+    "before": {
+      "affiliation_id": "affiliation-f17728f50dd7",
+      "person_id": "person-87ad75f8d2f9",
+      "start_inclusive": "2020-09-19",
+      "end_exclusive": "2022-03-28",
+      "state": "UNAFFILIATED",
+      "party_id": "",
+      "support": "dated assertion plus targeted-search continuity",
+      "date_status": "bounded_date_convention",
+      "date_earliest": "2020-08-27",
+      "date_latest": "2020-09-19",
+      "alternatives": "[\"PP\", \"UNAFFILIATED\"]",
+      "evidence_ids": "AFF-013;AFF-014;AFF-015;AFF-055;AFF-056;BOL-E01;BOL-E02;BOL-E18",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW;R17"
+    },
+    "after": {
+      "affiliation_id": "affiliation-f17728f50dd7",
+      "person_id": "person-87ad75f8d2f9",
+      "start_inclusive": "2020-09-19",
+      "end_exclusive": "2022-03-28",
+      "state": "UNAFFILIATED",
+      "party_id": "",
+      "support": "contemporary_positive_and_completed_departure_observations_with_narrowed_date_bounds",
+      "date_status": "bounded_date_convention",
+      "date_earliest": "2020-09-04",
+      "date_latest": "2020-09-19",
+      "alternatives": "[\"PP\", \"UNAFFILIATED\"]",
+      "evidence_ids": "AFF-013;AFF-014;AFF-015;AFF-055;AFF-056;BOL-E01;BOL-E02;BOL-E18;V5W6E03;V5W6E07;V5W6E09;V5W6E10",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW;R17;V5W6D02"
+    }
+  },
+  {
+    "file": "change_search_register.csv",
+    "key": [
+      "person-1c11e767f427"
+    ],
+    "before": {
+      "person_id": "person-1c11e767f427",
+      "person_name": "Adolfo Sachsida",
+      "merged_service_start": "2022-05-11",
+      "merged_service_end": "2023-01-01",
+      "search_terms": "Adolfo Sachsida; partido; filiação; desfiliação; troca; expulsão",
+      "search_scope": "all pinned Atlas person-party rows; all prior observations across portfolios; targeted affiliation discrepancy/evidence ledgers; explicit research corrections when present",
+      "search_date": "2026-09-10",
+      "evidence_ids": "AFF-044;BOL-E07;BOL-E08;C061;LEG-5b2c802041f5",
+      "result": "primary_adjudication_with_source_specific_evidence_and_retained_alternatives",
+      "coverage_limit": "Local targeted contradiction screen; not a claim of exhaustive external web or registry search; unknown retained where no observation exists"
+    },
+    "after": {
+      "person_id": "person-1c11e767f427",
+      "person_name": "Adolfo Sachsida",
+      "merged_service_start": "2022-05-11",
+      "merged_service_end": "2023-01-01",
+      "search_terms": "Adolfo Sachsida; partido; filiação; desfiliação; troca; expulsão",
+      "search_scope": "all pinned Atlas person-party rows; all prior observations across portfolios; targeted affiliation discrepancy/evidence ledgers; explicit research corrections when present; v5 official TSE historical fields; public Filia client semantics; official identity cross-check; Senado timeline conflicts; newer contemporary positive observations and direct party statements",
+      "search_date": "2026-09-10",
+      "evidence_ids": "AFF-044;BOL-E07;BOL-E08;C061;LEG-5b2c802041f5;V5W6E01;V5W6E02",
+      "result": "resolved_official_registry_historical_membership",
+      "coverage_limit": "Scoped current TSE lists are not an exhaustive historical negative. Exact old withdrawal dates unavailable for Marinho and Damares; report-based bounds retained. Sachsida official historical entry and successor record support continuity, not a day-by-day2022 certificate."
+    }
+  },
+  {
+    "file": "change_search_register.csv",
+    "key": [
+      "person-20d6d1c35408"
+    ],
+    "before": {
+      "person_id": "person-20d6d1c35408",
+      "person_name": "Rogério Marinho",
+      "merged_service_start": "2020-02-11",
+      "merged_service_end": "2022-03-31",
+      "search_terms": "Rogério Marinho; partido; filiação; desfiliação; troca; expulsão",
+      "search_scope": "all pinned Atlas person-party rows; all prior observations across portfolios; targeted affiliation discrepancy/evidence ledgers; explicit research corrections when present",
+      "search_date": "2026-09-10",
+      "evidence_ids": "AFF-024;AFF-025;BOL-E12;BOL-E13",
+      "result": "primary_adjudication_with_source_specific_evidence_and_retained_alternatives",
+      "coverage_limit": "Local targeted contradiction screen; not a claim of exhaustive external web or registry search; unknown retained where no observation exists"
+    },
+    "after": {
+      "person_id": "person-20d6d1c35408",
+      "person_name": "Rogério Marinho",
+      "merged_service_start": "2020-02-11",
+      "merged_service_end": "2022-03-31",
+      "search_terms": "Rogério Marinho; partido; filiação; desfiliação; troca; expulsão",
+      "search_scope": "all pinned Atlas person-party rows; all prior observations across portfolios; targeted affiliation discrepancy/evidence ledgers; explicit research corrections when present; v5 official TSE historical fields; public Filia client semantics; official identity cross-check; Senado timeline conflicts; newer contemporary positive observations and direct party statements",
+      "search_date": "2026-09-10",
+      "evidence_ids": "AFF-024;AFF-025;BOL-E12;BOL-E13;V5W6E04;V5W6E05;V5W6E06;V5W6E08;V5W6E09;V5W6E10",
+      "result": "narrowed_bounded_departure_with_primary_date_unchanged",
+      "coverage_limit": "Scoped current TSE lists are not an exhaustive historical negative. Exact old withdrawal dates unavailable for Marinho and Damares; report-based bounds retained. Sachsida official historical entry and successor record support continuity, not a day-by-day2022 certificate."
+    }
+  },
+  {
+    "file": "change_search_register.csv",
+    "key": [
+      "person-87ad75f8d2f9"
+    ],
+    "before": {
+      "person_id": "person-87ad75f8d2f9",
+      "person_name": "Damares Alves",
+      "merged_service_start": "2019-01-01",
+      "merged_service_end": "2022-03-31",
+      "search_terms": "Damares Alves; partido; filiação; desfiliação; troca; expulsão",
+      "search_scope": "all pinned Atlas person-party rows; all prior observations across portfolios; targeted affiliation discrepancy/evidence ledgers; explicit research corrections when present",
+      "search_date": "2026-09-10",
+      "evidence_ids": "AFF-013;AFF-014;AFF-015;AFF-055;AFF-056;BOL-E01;BOL-E02;BOL-E18",
+      "result": "primary_adjudication_with_source_specific_evidence_and_retained_alternatives",
+      "coverage_limit": "Local targeted contradiction screen; not a claim of exhaustive external web or registry search; unknown retained where no observation exists"
+    },
+    "after": {
+      "person_id": "person-87ad75f8d2f9",
+      "person_name": "Damares Alves",
+      "merged_service_start": "2019-01-01",
+      "merged_service_end": "2022-03-31",
+      "search_terms": "Damares Alves; partido; filiação; desfiliação; troca; expulsão",
+      "search_scope": "all pinned Atlas person-party rows; all prior observations across portfolios; targeted affiliation discrepancy/evidence ledgers; explicit research corrections when present; v5 official TSE historical fields; public Filia client semantics; official identity cross-check; Senado timeline conflicts; newer contemporary positive observations and direct party statements",
+      "search_date": "2026-09-10",
+      "evidence_ids": "AFF-013;AFF-014;AFF-015;AFF-055;AFF-056;BOL-E01;BOL-E02;BOL-E18;V5W6E03;V5W6E07;V5W6E09;V5W6E10",
+      "result": "narrowed_bounded_departure_with_primary_date_unchanged",
+      "coverage_limit": "Scoped current TSE lists are not an exhaustive historical negative. Exact old withdrawal dates unavailable for Marinho and Damares; report-based bounds retained. Sachsida official historical entry and successor record support continuity, not a day-by-day2022 certificate."
+    }
+  },
+  {
+    "file": "completion_case_review.csv",
+    "key": [
+      "R16"
+    ],
+    "before": {
+      "case_id": "R16",
+      "subjects": "Rogério Marinho",
+      "administration_id": "bolsonaro",
+      "reviewed_finding": "PSDB departure is bounded, despite conflicting retrospective reports.",
+      "change_dimensions": "personal_affiliation;date",
+      "primary_adjudication": "Primary June 18 2020; admissible February 12-June 18 range preserved.",
+      "decision_ids": "R16",
+      "evidence_ids": "AFF-024;AFF-025;BOL-E12;BOL-E13",
+      "residual_dependency": "transition-person-20d6d1c35408",
+      "review_basis": "Underlying inherited assertions and source-specific completion decisions; exact requested case_change_dimensions.csv unavailable"
+    },
+    "after": {
+      "case_id": "R16",
+      "subjects": "Rogério Marinho",
+      "administration_id": "bolsonaro",
+      "reviewed_finding": "PSDB departure newly bounded June16–18 2020 from contemporary June15 personal-membership observation and June19 earlier-departure report.",
+      "change_dimensions": "personal_affiliation;date",
+      "primary_adjudication": "Primary June18 unchanged; former February12 lower bound superseded; exact withdrawal day remains unresolved.",
+      "decision_ids": "R16;V5W6D03",
+      "evidence_ids": "AFF-024;AFF-025;BOL-E12;BOL-E13;V5W6E04;V5W6E05;V5W6E06;V5W6E08;V5W6E09;V5W6E10",
+      "residual_dependency": "transition-person-20d6d1c35408",
+      "review_basis": "Underlying inherited assertions and source-specific completion decisions; exact requested case_change_dimensions.csv unavailable"
+    }
+  },
+  {
+    "file": "completion_case_review.csv",
+    "key": [
+      "R17"
+    ],
+    "before": {
+      "case_id": "R17",
+      "subjects": "Damares Alves",
+      "administration_id": "bolsonaro",
+      "reviewed_finding": "PP departure in 2020 supersedes stale 2021 recollection; Republicanos entry March 28 2022.",
+      "change_dimensions": "personal_affiliation;date",
+      "primary_adjudication": "Primary September 19 2020 within August 27-September 19 bounds.",
+      "decision_ids": "R17",
+      "evidence_ids": "AFF-013;AFF-014;AFF-015;AFF-055;AFF-056;BOL-E01;BOL-E02;BOL-E18",
+      "residual_dependency": "transition-person-87ad75f8d2f9",
+      "review_basis": "Underlying inherited assertions and source-specific completion decisions; exact requested case_change_dimensions.csv unavailable"
+    },
+    "after": {
+      "case_id": "R17",
+      "subjects": "Damares Alves",
+      "administration_id": "bolsonaro",
+      "reviewed_finding": "PP at entry corroborated by September3 2020 BBC since1995 observation; departure narrowed; Republicanos historical entry verified by TSE.",
+      "change_dimensions": "personal_affiliation;date",
+      "primary_adjudication": "Primary September19 unchanged; admissible September4–19 replaces August27–September19.",
+      "decision_ids": "R17;V5W6D02",
+      "evidence_ids": "AFF-013;AFF-014;AFF-015;AFF-055;AFF-056;BOL-E01;BOL-E02;BOL-E18;V5W6E03;V5W6E07;V5W6E09;V5W6E10",
+      "residual_dependency": "transition-person-87ad75f8d2f9",
+      "review_basis": "Underlying inherited assertions and source-specific completion decisions; exact requested case_change_dimensions.csv unavailable"
+    }
+  },
+  {
+    "file": "completion_case_review.csv",
+    "key": [
+      "R26"
+    ],
+    "before": {
+      "case_id": "R26",
+      "subjects": "Adolfo Sachsida",
+      "administration_id": "bolsonaro",
+      "reviewed_finding": "Primary DEM-to-União continuity retained with explicit contrary historical non-affiliation assertions.",
+      "change_dimensions": "personal_affiliation;organizational_event",
+      "primary_adjudication": "Positive dated DEM observation supports primary; no conclusive personal exit fact.",
+      "decision_ids": "R26;C061",
+      "evidence_ids": "AFF-044;BOL-E07;BOL-E08;C061;LEG-5b2c802041f5",
+      "residual_dependency": "Unaffiliated alternative would remove União May 11-December 31 2022",
+      "review_basis": "Underlying inherited assertions and source-specific completion decisions; exact requested case_change_dimensions.csv unavailable"
+    },
+    "after": {
+      "case_id": "R26",
+      "subjects": "Adolfo Sachsida",
+      "administration_id": "bolsonaro",
+      "reviewed_finding": "Exact-identity official TSE historical2013 membership in successor UNIAO supersedes nonaffiliation alternative.",
+      "change_dimensions": "personal_affiliation;organizational_event",
+      "primary_adjudication": "UNIAO throughout actual2022 service supported by historical membership field, exact official identity and merger continuity; contradictory compilation assertions retained but not selected as viable alternatives.",
+      "decision_ids": "R26;C061;V5W6D01",
+      "evidence_ids": "AFF-044;BOL-E07;BOL-E08;C061;LEG-5b2c802041f5;V5W6E01;V5W6E02",
+      "residual_dependency": "",
+      "review_basis": "Underlying inherited assertions and source-specific completion decisions; exact requested case_change_dimensions.csv unavailable"
+    }
+  },
+  {
+    "file": "completion_research_register.csv",
+    "key": [
+      "V5W6-search-person-1c11e767f427"
+    ],
+    "before": null,
+    "after": {
+      "research_id": "V5W6-search-person-1c11e767f427",
+      "dependency_id": "person-1c11e767f427",
+      "person_name": "Adolfo Sachsida",
+      "service_intervals": "2022-05-11/2023-01-01",
+      "name_variants": "Adolfo Sachsida",
+      "query_family": "Official TSE scoped historical membership fields; identity records; public client source semantics; official parliamentary affiliation chronology; targeted contemporary positive and departure reports",
+      "saved_result_files": "research/refinement_v5/worker_6_bolsonaro_affiliations/RESEARCH.md;research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_72.json",
+      "source_review_finding": "Supersede C061/R26 residual UNAFFILIATED alternative for Sachsida. Exact identifier in TCU bulletin matches the TSE official UNIAO record, whose historical entry is May27 2013, status REGULAR, no departure/cancellation/exclusion and no pending marker. MME identifies the same public officeholder. Together with independently dated2017 DEM membership, the unchanged historical entry in successor registry directly supports continuing predecessor membership through February8 2022 merger and ministerial service. Atlas sfp and Spanish/German historical no-party labels remain retained conflicting source assertions, but no longer credible competing trajectories against exact-person official historical record. Academic2024 DEM label remains obsolete and non-independent. This does not call the2026 extract a contemporaneous2022 certificate or prove arbitrary unrecorded events impossible; apply declared historical-observation continuity with targeted contradictory-event search, now backed by registry evidence. No service dates changed.",
+      "unresolved_fact": "",
+      "search_date": "2026-09-10",
+      "completion_status": "resolved_official_registry_historical_membership"
+    }
+  },
+  {
+    "file": "completion_research_register.csv",
+    "key": [
+      "V5W6-search-person-20d6d1c35408"
+    ],
+    "before": null,
+    "after": {
+      "research_id": "V5W6-search-person-20d6d1c35408",
+      "dependency_id": "person-20d6d1c35408",
+      "person_name": "Rogério Marinho",
+      "service_intervals": "2020-02-11/2022-03-31",
+      "name_variants": "Rogerio Simonetti Marinho;Rogério Marinho",
+      "query_family": "Official TSE scoped historical membership fields; identity records; public client source semantics; official parliamentary affiliation chronology; targeted contemporary positive and departure reports",
+      "saved_result_files": "research/refinement_v5/worker_6_bolsonaro_affiliations/RESEARCH.md;research/refinement_v5/worker_6_bolsonaro_affiliations/sources/mercopress_20200615.html",
+      "source_review_finding": "Marinho dated positive observations now include explicit May4 Veja affiliated-to-PSDB and June15 MercoPress belongs-to-PSDB; the latter expressly separates personal membership from party sponsorship. They corroborate June19 CNN few-days-earlier departure over February2021 retrospective February2020 and June28 column three-month-lag claims. Narrow departure to June16–18 inclusive using next day after latest positive report and day before completed-earlier-departure announcement; primary remains June18 under existing convention. This is a contemporary-report date adjudication, not an exact TSE exit certificate. June20 reproductions of personal and PSDB/RN president statements confirm completed consensual withdrawal, outweighing later Senado parliamentary timeline extending PSDB to November29 2021. Official TSE confirms PL entry November30 2021, not earlier PSDB withdrawal. Retain all conflicting observations; current PSDB non-match cannot date the departure.",
+      "unresolved_fact": "Exact PSDB exit within June16–18 2020 remains unavailable; narrowed bounds are contemporary-report adjudication.",
+      "search_date": "2026-09-10",
+      "completion_status": "narrowed_date_bounds"
+    }
+  },
+  {
+    "file": "completion_research_register.csv",
+    "key": [
+      "V5W6-search-person-87ad75f8d2f9"
+    ],
+    "before": null,
+    "after": {
+      "research_id": "V5W6-search-person-87ad75f8d2f9",
+      "dependency_id": "person-87ad75f8d2f9",
+      "person_name": "Damares Alves",
+      "service_intervals": "2019-01-01/2022-03-31",
+      "name_variants": "Damares Regina Alves;Damares Alves",
+      "query_family": "Official TSE scoped historical membership fields; identity records; public client source semantics; official parliamentary affiliation chronology; targeted contemporary positive and departure reports",
+      "saved_result_files": "research/refinement_v5/worker_6_bolsonaro_affiliations/RESEARCH.md;research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_006.json",
+      "source_review_finding": "Damares PP at January2019 entry is corroborated by two contemporary accounts expressly describing affiliation since1995, not by later Republicanos membership. BBC September3 2020 current PP statement advances the last supported positive observation beyond August26. Combined with September20 completed-earlier-departure report, narrow admissible daily exit to September4–19 inclusive; retain primary September19 by existing latest-admissible convention. Subsequent2021 PP labels and O Globo2022 retrospective2021 departure year remain outweighed by contemporary completed2020 departure. Official TSE historical Republicanos entry March28 2022 confirms existing later transition; Senado October2 election-day entry is not used. Current PP non-match supplies no withdrawal date.",
+      "unresolved_fact": "Exact PP exit within September4–19 2020 remains unavailable.",
+      "search_date": "2026-09-10",
+      "completion_status": "narrowed_date_bounds"
+    }
+  },
+  {
+    "file": "decisions.csv",
+    "key": [
+      "V5W6D01"
+    ],
+    "before": null,
+    "after": {
+      "decision_id": "V5W6D01",
+      "disposition": "resolved_official_registry_historical_membership_with_exact_identity",
+      "evidence_ids": "V5W6E01;V5W6E02;AFF-044;BOL-E07;BOL-E08;C061",
+      "rationale": "Supersede C061/R26 residual UNAFFILIATED alternative for Sachsida. Exact identifier in TCU bulletin matches the TSE official UNIAO record, whose historical entry is May27 2013, status REGULAR, no departure/cancellation/exclusion and no pending marker. MME identifies the same public officeholder. Together with independently dated2017 DEM membership, the unchanged historical entry in successor registry directly supports continuing predecessor membership through February8 2022 merger and ministerial service. Atlas sfp and Spanish/German historical no-party labels remain retained conflicting source assertions, but no longer credible competing trajectories against exact-person official historical record. Academic2024 DEM label remains obsolete and non-independent. This does not call the2026 extract a contemporaneous2022 certificate or prove arbitrary unrecorded events impossible; apply declared historical-observation continuity with targeted contradictory-event search, now backed by registry evidence. No service dates changed.",
+      "alternatives": "[]"
+    }
+  },
+  {
+    "file": "decisions.csv",
+    "key": [
+      "V5W6D02"
+    ],
+    "before": null,
+    "after": {
+      "decision_id": "V5W6D02",
+      "disposition": "narrowed_bounded_departure_date",
+      "evidence_ids": "V5W6E03;V5W6E07;V5W6E09;V5W6E10;AFF-013;BOL-E01;BOL-E02;AFF-015",
+      "rationale": "Damares PP at January2019 entry is corroborated by two contemporary accounts expressly describing affiliation since1995, not by later Republicanos membership. BBC September3 2020 current PP statement advances the last supported positive observation beyond August26. Combined with September20 completed-earlier-departure report, narrow admissible daily exit to September4–19 inclusive; retain primary September19 by existing latest-admissible convention. Subsequent2021 PP labels and O Globo2022 retrospective2021 departure year remain outweighed by contemporary completed2020 departure. Official TSE historical Republicanos entry March28 2022 confirms existing later transition; Senado October2 election-day entry is not used. Current PP non-match supplies no withdrawal date.",
+      "alternatives": "[\"PP\",\"UNAFFILIATED\"]"
+    }
+  },
+  {
+    "file": "decisions.csv",
+    "key": [
+      "V5W6D03"
+    ],
+    "before": null,
+    "after": {
+      "decision_id": "V5W6D03",
+      "disposition": "narrowed_bounded_departure_date",
+      "evidence_ids": "V5W6E04;V5W6E05;V5W6E06;V5W6E08;V5W6E09;V5W6E10;AFF-024;BOL-E12;BOL-E13",
+      "rationale": "Marinho dated positive observations now include explicit May4 Veja affiliated-to-PSDB and June15 MercoPress belongs-to-PSDB; the latter expressly separates personal membership from party sponsorship. They corroborate June19 CNN few-days-earlier departure over February2021 retrospective February2020 and June28 column three-month-lag claims. Narrow departure to June16–18 inclusive using next day after latest positive report and day before completed-earlier-departure announcement; primary remains June18 under existing convention. This is a contemporary-report date adjudication, not an exact TSE exit certificate. June20 reproductions of personal and PSDB/RN president statements confirm completed consensual withdrawal, outweighing later Senado parliamentary timeline extending PSDB to November29 2021. Official TSE confirms PL entry November30 2021, not earlier PSDB withdrawal. Retain all conflicting observations; current PSDB non-match cannot date the departure.",
+      "alternatives": "[\"PSDB\",\"UNAFFILIATED\"]"
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W6E01"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E01",
+      "asserted_fact": "Official TSE record for exact-identity Adolfo Sachsida: historical affiliation 2013-05-27; successor party UNIAO; registration 1/REGULAR; no departure, cancellation, exclusion or pending marker.",
+      "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=72&currentPage=0&pageSize=10000",
+      "publisher": "Tribunal Superior Eleitoral",
+      "publication_date": "",
+      "retrieval_date": "2026-09-10",
+      "access_status": "retrieved_original_or_official_scoped_extract",
+      "rationale": "The dated membership field belongs to predecessor DEM in 2013; apply organizational merger in 2022, not UNIAO in 2013. Exact identity verified against TCU, with MME office corroboration. Current registry is not a day-by-day 2022 certificate, but directly preserves the historical membership without an intervening exit/re-entry event."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W6E02"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E02",
+      "asserted_fact": "Official TCU bulletin identifies Adolfo Sachsida by full identifier matching TSE; MME 2022 accountability roll names the minister with matching masked identifier.",
+      "source_locator": "https://btcu.apps.tcu.gov.br/api/obterDocumentoPdf/78140553;https://www.gov.br/mme/pt-br/acesso-a-informacao/auditorias/prestacao-contas/ROLDERESPONSVEIS2022.pdf",
+      "publisher": "Tribunal de Contas da Uniao; Ministerio de Minas e Energia",
+      "publication_date": "2025-05-23;2022",
+      "retrieval_date": "2026-09-10",
+      "access_status": "retrieved_original_or_official_scoped_extract",
+      "rationale": "TCU PDF p94; MME PDF p1. Only used for identity and office relationship; routine travel segments in accountability roll do not change titular service."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W6E03"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E03",
+      "asserted_fact": "BBC September 3 2020 report expressly states Damares is affiliated to PP since 1995.",
+      "source_locator": "https://www.terra.com.br/noticias/brasil/politica/como-damares-alves-saiu-de-ministra-periferica-a-figura-de-proa-do-bolsonarismo,c43b61593800e064750998fd6ae73306mx8zt50d.html",
+      "publisher": "BBC News Brasil, Andre Shalders; syndicated Terra",
+      "publication_date": "2020-09-03",
+      "retrieval_date": "2026-09-10",
+      "access_status": "web_full_article_text_reviewed",
+      "rationale": "Later contemporary positive observation than August26 O Globo/iG; supports PP at government entry and narrows lower departure boundary to September4 under existing next-day convention. No exact withdrawal day established."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W6E04"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E04",
+      "asserted_fact": "MercoPress June15 2020 expressly says Rogério Marinho belongs to PSDB and distinguishes his personal membership from sponsorship of his appointment.",
+      "source_locator": "https://es.mercopress.com/2020/06/15/partido-de-cardoso-se-baja-de-la-iniciativa-de-juicio-politico-a-bolsonaro",
+      "publisher": "MercoPress, South Atlantic News Agency",
+      "publication_date": "2020-06-15",
+      "retrieval_date": "2026-09-10",
+      "access_status": "retrieved_original_or_official_scoped_extract",
+      "rationale": "Dated present-tense personal affiliation supports June16 lower departure boundary when combined with June19 CNN completed-prior-departure report. This is a report-based adjudication, not registry-certified exit date."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W6E05"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E05",
+      "asserted_fact": "Veja May4 2020 explicitly describes Marinho as affiliated to PSDB while reporting Sudene appointment.",
+      "source_locator": "https://veja.abril.com.br/coluna/radar/rogerio-marinho-entrega-diretoria-da-sudene-a-ex-deputado-tucano/",
+      "publisher": "Veja, Marcela Mattos",
+      "publication_date": "2020-05-04",
+      "retrieval_date": "2026-09-10",
+      "access_status": "web_full_article_text_reviewed",
+      "rationale": "Explicit personal membership, not inferred from appointment of a party colleague. Supports rejection of February/March departure retrospectives."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W6E06"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E06",
+      "asserted_fact": "June20 PSDB/RN president and Marinho personal statements confirm consensual completed party departure; neither gives exact exit day.",
+      "source_locator": "https://www.poder360.com.br/governo/ministro-de-bolsonaro-rogerio-marinho-deixa-psdb/",
+      "publisher": "Ezequiel Ferreira and Rogerio Marinho statements reproduced by Poder360",
+      "publication_date": "2020-06-20",
+      "retrieval_date": "2026-09-10",
+      "access_status": "web_full_article_text_reviewed",
+      "rationale": "Direct first-person and party statements defeat later stale continuous PSDB labels; June19 CNN supplies latest boundary June18."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W6E07"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E07",
+      "asserted_fact": "Official TSE names Damares Regina Alves with historical Republicanos entry March28 2022 and no recorded departure/cancellation.",
+      "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=51&currentPage=0&pageSize=10000",
+      "publisher": "Tribunal Superior Eleitoral",
+      "publication_date": "",
+      "retrieval_date": "2026-09-10",
+      "access_status": "retrieved_original_or_official_scoped_extract",
+      "rationale": "Corroborates existing March28 entry and later event; does not establish earlier PP departure or back-project Republicanos to 2019."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W6E08"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E08",
+      "asserted_fact": "Official TSE names Rogerio Simonetti Marinho with historical PL entry November30 2021 and no recorded departure/cancellation.",
+      "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=38&currentPage=0&pageSize=10000",
+      "publisher": "Tribunal Superior Eleitoral",
+      "publication_date": "",
+      "retrieval_date": "2026-09-10",
+      "access_status": "retrieved_original_or_official_scoped_extract",
+      "rationale": "Matches existing dated PL entry; no PSDB departure date inferred from current-list non-match."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W6E09"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E09",
+      "asserted_fact": "Senado retrospective parliamentary affiliation API gives Marinho PSDB end November29 2021; Damares Republicanos entry October2 2022, unlike the contemporary joining events and TSE historical entries.",
+      "source_locator": "https://legis.senado.leg.br/dadosabertos/senador/4694/filiacoes;https://legis.senado.leg.br/dadosabertos/senador/6335/filiacoes",
+      "publisher": "Senado Federal",
+      "publication_date": "",
+      "retrieval_date": "2026-09-10",
+      "access_status": "retrieved_original_or_official_scoped_extract",
+      "rationale": "Retain source conflict. Do not privilege later parliamentary chronology over personal and party confirmed 2020 departure; Damares entry coincides with election day and is directly contradicted by TSE March28. This comparison shows why the API is not used as an exact electoral-register certificate."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W6E10"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E10",
+      "asserted_fact": "Public Filia client supplies geographic and party list filters, not historical snapshot date; retired legacy full-list downloads return403. Current DF PP and RN PSDB non-matches cannot identify withdrawal dates.",
+      "source_locator": "https://filia2-consulta.tse.jus.br/main.1e6ec99219486578.js;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_psdb_rn.zip;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pp_df.zip",
+      "publisher": "Tribunal Superior Eleitoral",
+      "publication_date": "",
+      "retrieval_date": "2026-09-10",
+      "access_status": "retrieved_original_or_official_scoped_extract",
+      "rationale": "No nonaffiliation inference from incomplete/current geographic lists. Certificate request was not made; no challenge bypass. Registrar history remains unavailable for these two exact withdrawal days."
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E01",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/sachsida_identity_verification.json",
+      "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=72&currentPage=0&pageSize=10000",
+      "official_cross_source_identity_verification"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E01",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/sachsida_identity_verification.json",
+      "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=72&currentPage=0&pageSize=10000",
+      "snapshot_kind": "official_cross_source_identity_verification",
+      "sha256": "8484bfa4def8e32ee2cf23beb939a0701920022a586df27e25e60693db2c7044"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E01",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_72.json",
+      "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=72&currentPage=0&pageSize=10000",
+      "official_api_scoped_record_and_all_page_response_hashes"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E01",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_72.json",
+      "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=72&currentPage=0&pageSize=10000",
+      "snapshot_kind": "official_api_scoped_record_and_all_page_response_hashes",
+      "sha256": "bfe4292447264a51b971452bc13962d6c34c6fced8c5f6ce45713aab42ce927c"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E02",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/mme_rol2022.pdf",
+      "https://btcu.apps.tcu.gov.br/api/obterDocumentoPdf/78140553;https://www.gov.br/mme/pt-br/acesso-a-informacao/auditorias/prestacao-contas/ROLDERESPONSVEIS2022.pdf",
+      "official_pdf"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E02",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/mme_rol2022.pdf",
+      "source_locator": "https://btcu.apps.tcu.gov.br/api/obterDocumentoPdf/78140553;https://www.gov.br/mme/pt-br/acesso-a-informacao/auditorias/prestacao-contas/ROLDERESPONSVEIS2022.pdf",
+      "snapshot_kind": "official_pdf",
+      "sha256": "d1e99e3813c647256647de72ee983d5fa249c336db5fa0a2fd667b47a4218d0d"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E02",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/sachsida_identity_verification.json",
+      "https://btcu.apps.tcu.gov.br/api/obterDocumentoPdf/78140553;https://www.gov.br/mme/pt-br/acesso-a-informacao/auditorias/prestacao-contas/ROLDERESPONSVEIS2022.pdf",
+      "official_identity_hash_match"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E02",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/sachsida_identity_verification.json",
+      "source_locator": "https://btcu.apps.tcu.gov.br/api/obterDocumentoPdf/78140553;https://www.gov.br/mme/pt-br/acesso-a-informacao/auditorias/prestacao-contas/ROLDERESPONSVEIS2022.pdf",
+      "snapshot_kind": "official_identity_hash_match",
+      "sha256": "8484bfa4def8e32ee2cf23beb939a0701920022a586df27e25e60693db2c7044"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E02",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tcu_78140553.pdf",
+      "https://btcu.apps.tcu.gov.br/api/obterDocumentoPdf/78140553;https://www.gov.br/mme/pt-br/acesso-a-informacao/auditorias/prestacao-contas/ROLDERESPONSVEIS2022.pdf",
+      "official_pdf"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E02",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tcu_78140553.pdf",
+      "source_locator": "https://btcu.apps.tcu.gov.br/api/obterDocumentoPdf/78140553;https://www.gov.br/mme/pt-br/acesso-a-informacao/auditorias/prestacao-contas/ROLDERESPONSVEIS2022.pdf",
+      "snapshot_kind": "official_pdf",
+      "sha256": "1e6be4e635f3c3733c0b16416d9773a8c1c07f2cf37bea4d34c53b7a6ff0e979"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E03",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_006.json",
+      "https://www.terra.com.br/noticias/brasil/politica/como-damares-alves-saiu-de-ministra-periferica-a-figura-de-proa-do-bolsonarismo,c43b61593800e064750998fd6ae73306mx8zt50d.html",
+      "retained_web_full_article_text"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E03",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_006.json",
+      "source_locator": "https://www.terra.com.br/noticias/brasil/politica/como-damares-alves-saiu-de-ministra-periferica-a-figura-de-proa-do-bolsonarismo,c43b61593800e064750998fd6ae73306mx8zt50d.html",
+      "snapshot_kind": "retained_web_full_article_text",
+      "sha256": "a97c168fa8590415b31e241ab3d08f91728cda7fd647245acf03cd58b618e77d"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E03",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_015.json",
+      "https://www.terra.com.br/noticias/brasil/politica/como-damares-alves-saiu-de-ministra-periferica-a-figura-de-proa-do-bolsonarismo,c43b61593800e064750998fd6ae73306mx8zt50d.html",
+      "publication_date_and_original_bbc_locator"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E03",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_015.json",
+      "source_locator": "https://www.terra.com.br/noticias/brasil/politica/como-damares-alves-saiu-de-ministra-periferica-a-figura-de-proa-do-bolsonarismo,c43b61593800e064750998fd6ae73306mx8zt50d.html",
+      "snapshot_kind": "publication_date_and_original_bbc_locator",
+      "sha256": "e48aabd95cddaa4348a80c16aec6bd3d7a49498af472b8ecafe5e28f2e3af5d0"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E04",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/mercopress_20200615.html",
+      "https://es.mercopress.com/2020/06/15/partido-de-cardoso-se-baja-de-la-iniciativa-de-juicio-politico-a-bolsonaro",
+      "retrieved_original_html"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E04",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/mercopress_20200615.html",
+      "source_locator": "https://es.mercopress.com/2020/06/15/partido-de-cardoso-se-baja-de-la-iniciativa-de-juicio-politico-a-bolsonaro",
+      "snapshot_kind": "retrieved_original_html",
+      "sha256": "f28b288529fe4b2dc62cc6d509201563f0685525e11b8557df3d155dd68fb9ba"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E04",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_017.json",
+      "https://es.mercopress.com/2020/06/15/partido-de-cardoso-se-baja-de-la-iniciativa-de-juicio-politico-a-bolsonaro",
+      "retained_web_full_article_text"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E04",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_017.json",
+      "source_locator": "https://es.mercopress.com/2020/06/15/partido-de-cardoso-se-baja-de-la-iniciativa-de-juicio-politico-a-bolsonaro",
+      "snapshot_kind": "retained_web_full_article_text",
+      "sha256": "a50a7f5a104930e1b617eeb80fd35a9148d26162d927395904114e3ed7fd2d28"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E05",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_013.json",
+      "https://veja.abril.com.br/coluna/radar/rogerio-marinho-entrega-diretoria-da-sudene-a-ex-deputado-tucano/",
+      "retained_web_full_article_text"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E05",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_013.json",
+      "source_locator": "https://veja.abril.com.br/coluna/radar/rogerio-marinho-entrega-diretoria-da-sudene-a-ex-deputado-tucano/",
+      "snapshot_kind": "retained_web_full_article_text",
+      "sha256": "852b1699776eb37cf58c555c2a7860c49547f38e1c47945999256f7b6d868993"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E05",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_015.json",
+      "https://veja.abril.com.br/coluna/radar/rogerio-marinho-entrega-diretoria-da-sudene-a-ex-deputado-tucano/",
+      "retained_web_direct_open_result"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E05",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_015.json",
+      "source_locator": "https://veja.abril.com.br/coluna/radar/rogerio-marinho-entrega-diretoria-da-sudene-a-ex-deputado-tucano/",
+      "snapshot_kind": "retained_web_direct_open_result",
+      "sha256": "e48aabd95cddaa4348a80c16aec6bd3d7a49498af472b8ecafe5e28f2e3af5d0"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E06",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_012.json",
+      "https://www.poder360.com.br/governo/ministro-de-bolsonaro-rogerio-marinho-deixa-psdb/",
+      "retained_full_personal_and_party_statements"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E06",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_012.json",
+      "source_locator": "https://www.poder360.com.br/governo/ministro-de-bolsonaro-rogerio-marinho-deixa-psdb/",
+      "snapshot_kind": "retained_full_personal_and_party_statements",
+      "sha256": "aef74bc2aa616487d4870c4772400abf417fc39c193078131e75c5a29124be31"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E07",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_51.json",
+      "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=51&currentPage=0&pageSize=10000",
+      "official_api_scoped_record_and_response_hash"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E07",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_51.json",
+      "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=51&currentPage=0&pageSize=10000",
+      "snapshot_kind": "official_api_scoped_record_and_response_hash",
+      "sha256": "bc37c28a301be45926882d7fe061f11ba19aaafa656b88feb69d9c63cba610ed"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E08",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_RN_38.json",
+      "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=38&currentPage=0&pageSize=10000",
+      "official_api_scoped_record_and_response_hash"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E08",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_RN_38.json",
+      "source_locator": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=38&currentPage=0&pageSize=10000",
+      "snapshot_kind": "official_api_scoped_record_and_response_hash",
+      "sha256": "259be54239bb53fa5c060c8d5d5c38458f4e5cbac0ed3974ca85ea1b1dec7699"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E09",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/senado_filiacoes_4694.xml",
+      "https://legis.senado.leg.br/dadosabertos/senador/4694/filiacoes;https://legis.senado.leg.br/dadosabertos/senador/6335/filiacoes",
+      "official_api_original_response"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E09",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/senado_filiacoes_4694.xml",
+      "source_locator": "https://legis.senado.leg.br/dadosabertos/senador/4694/filiacoes;https://legis.senado.leg.br/dadosabertos/senador/6335/filiacoes",
+      "snapshot_kind": "official_api_original_response",
+      "sha256": "18d13d5ad52bb45e0a5e781cf450bfee8f425cb86b856ba8fcb50b47a74db416"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E09",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/senado_filiacoes_6335.xml",
+      "https://legis.senado.leg.br/dadosabertos/senador/4694/filiacoes;https://legis.senado.leg.br/dadosabertos/senador/6335/filiacoes",
+      "official_api_original_response"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E09",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/senado_filiacoes_6335.xml",
+      "source_locator": "https://legis.senado.leg.br/dadosabertos/senador/4694/filiacoes;https://legis.senado.leg.br/dadosabertos/senador/6335/filiacoes",
+      "snapshot_kind": "official_api_original_response",
+      "sha256": "4dd8b8cfd90b5abca974d5e1df548ee3d84507f819b383a7dac6f2a099ae619d"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E10",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/filia_public_client_semantics.txt",
+      "https://filia2-consulta.tse.jus.br/main.1e6ec99219486578.js;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_psdb_rn.zip;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pp_df.zip",
+      "scoped_public_client_excerpt_and_query_limit"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E10",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/filia_public_client_semantics.txt",
+      "source_locator": "https://filia2-consulta.tse.jus.br/main.1e6ec99219486578.js;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_psdb_rn.zip;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pp_df.zip",
+      "snapshot_kind": "scoped_public_client_excerpt_and_query_limit",
+      "sha256": "98dd31c06592848a5a2898be79f3e310346b82e1ceb90eb72c6325f1a9b21f56"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E10",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/retrievals_01.json",
+      "https://filia2-consulta.tse.jus.br/main.1e6ec99219486578.js;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_psdb_rn.zip;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pp_df.zip",
+      "official_download_attempt_status_and_hashes"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E10",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/retrievals_01.json",
+      "source_locator": "https://filia2-consulta.tse.jus.br/main.1e6ec99219486578.js;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_psdb_rn.zip;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pp_df.zip",
+      "snapshot_kind": "official_download_attempt_status_and_hashes",
+      "sha256": "234c831a1c5d0f288298bfc555f28d15ce865868428084e105be9605349211b6"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E10",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_69.json",
+      "https://filia2-consulta.tse.jus.br/main.1e6ec99219486578.js;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_psdb_rn.zip;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pp_df.zip",
+      "official_current_list_no_match_scoped_log"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E10",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_69.json",
+      "source_locator": "https://filia2-consulta.tse.jus.br/main.1e6ec99219486578.js;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_psdb_rn.zip;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pp_df.zip",
+      "snapshot_kind": "official_current_list_no_match_scoped_log",
+      "sha256": "6122c54fcf30f0d248e9a1a11fd37eb5ce5842ab841695013dd1a51de0600265"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W6E10",
+      "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_RN_56.json",
+      "https://filia2-consulta.tse.jus.br/main.1e6ec99219486578.js;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_psdb_rn.zip;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pp_df.zip",
+      "official_current_list_no_match_scoped_log"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W6E10",
+      "snapshot_path": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_RN_56.json",
+      "source_locator": "https://filia2-consulta.tse.jus.br/main.1e6ec99219486578.js;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_psdb_rn.zip;https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pp_df.zip",
+      "snapshot_kind": "official_current_list_no_match_scoped_log",
+      "sha256": "ea5c4867c8560c81b3f69b38ef31497cf4237b8a7de5a82245d5e7b4295a362e"
+    }
+  },
+  {
+    "file": "sensitivity_constraints.csv",
+    "key": [
+      "transition-person-20d6d1c35408"
+    ],
+    "before": {
+      "uncertainty_id": "transition-person-20d6d1c35408",
+      "event_type": "affiliation_change",
+      "person_id": "person-20d6d1c35408",
+      "earliest_effective_date": "2020-02-12",
+      "latest_effective_date": "2020-06-18",
+      "baseline_effective_date": "2020-06-18",
+      "before_state": "PARTY",
+      "before_party_id": "PSDB",
+      "after_state": "UNAFFILIATED",
+      "after_party_id": "",
+      "linked_affiliation_ids": "affiliation-55eb812b0488;affiliation-92b6d60a8748",
+      "linked_service_ids": "service-jair_bolsonaro-0-52",
+      "candidate_dates": "2020-02-12;2020-02-13;2020-02-14;2020-02-15;2020-02-16;2020-02-17;2020-02-18;2020-02-19;2020-02-20;2020-02-21;2020-02-22;2020-02-23;2020-02-24;2020-02-25;2020-02-26;2020-02-27;2020-02-28;2020-02-29;2020-03-01;2020-03-02;2020-03-03;2020-03-04;2020-03-05;2020-03-06;2020-03-07;2020-03-08;2020-03-09;2020-03-10;2020-03-11;2020-03-12;2020-03-13;2020-03-14;2020-03-15;2020-03-16;2020-03-17;2020-03-18;2020-03-19;2020-03-20;2020-03-21;2020-03-22;2020-03-23;2020-03-24;2020-03-25;2020-03-26;2020-03-27;2020-03-28;2020-03-29;2020-03-30;2020-03-31;2020-04-01;2020-04-02;2020-04-03;2020-04-04;2020-04-05;2020-04-06;2020-04-07;2020-04-08;2020-04-09;2020-04-10;2020-04-11;2020-04-12;2020-04-13;2020-04-14;2020-04-15;2020-04-16;2020-04-17;2020-04-18;2020-04-19;2020-04-20;2020-04-21;2020-04-22;2020-04-23;2020-04-24;2020-04-25;2020-04-26;2020-04-27;2020-04-28;2020-04-29;2020-04-30;2020-05-01;2020-05-02;2020-05-03;2020-05-04;2020-05-05;2020-05-06;2020-05-07;2020-05-08;2020-05-09;2020-05-10;2020-05-11;2020-05-12;2020-05-13;2020-05-14;2020-05-15;2020-05-16;2020-05-17;2020-05-18;2020-05-19;2020-05-20;2020-05-21;2020-05-22;2020-05-23;2020-05-24;2020-05-25;2020-05-26;2020-05-27;2020-05-28;2020-05-29;2020-05-30;2020-05-31;2020-06-01;2020-06-02;2020-06-03;2020-06-04;2020-06-05;2020-06-06;2020-06-07;2020-06-08;2020-06-09;2020-06-10;2020-06-11;2020-06-12;2020-06-13;2020-06-14;2020-06-15;2020-06-16;2020-06-17;2020-06-18",
+      "constraints": "Exactly one transition, linked adjacent before/after states; all intermediate dates admissible. Intersect actual service and preserve concurrent events.",
+      "evidence_ids": "AFF-024;AFF-025;BOL-E12;BOL-E13"
+    },
+    "after": {
+      "uncertainty_id": "transition-person-20d6d1c35408",
+      "event_type": "affiliation_change",
+      "person_id": "person-20d6d1c35408",
+      "earliest_effective_date": "2020-06-16",
+      "latest_effective_date": "2020-06-18",
+      "baseline_effective_date": "2020-06-18",
+      "before_state": "PARTY",
+      "before_party_id": "PSDB",
+      "after_state": "UNAFFILIATED",
+      "after_party_id": "",
+      "linked_affiliation_ids": "affiliation-55eb812b0488;affiliation-92b6d60a8748",
+      "linked_service_ids": "service-jair_bolsonaro-0-52",
+      "candidate_dates": "2020-06-16;2020-06-17;2020-06-18",
+      "constraints": "Exactly one transition; linked adjacent before/after states; every date within newly narrowed bounds admissible. Bounds adjudicated from latest positive contemporary report and completed-prior-departure report, not certified exact registry exit. Intersect actual service and preserve concurrent events.",
+      "evidence_ids": "AFF-024;AFF-025;BOL-E12;BOL-E13;V5W6E04;V5W6E05;V5W6E06;V5W6E08;V5W6E09;V5W6E10"
+    }
+  },
+  {
+    "file": "sensitivity_constraints.csv",
+    "key": [
+      "transition-person-87ad75f8d2f9"
+    ],
+    "before": {
+      "uncertainty_id": "transition-person-87ad75f8d2f9",
+      "event_type": "affiliation_change",
+      "person_id": "person-87ad75f8d2f9",
+      "earliest_effective_date": "2020-08-27",
+      "latest_effective_date": "2020-09-19",
+      "baseline_effective_date": "2020-09-19",
+      "before_state": "PARTY",
+      "before_party_id": "PP",
+      "after_state": "UNAFFILIATED",
+      "after_party_id": "",
+      "linked_affiliation_ids": "affiliation-b2eb8d8beb97;affiliation-f17728f50dd7",
+      "linked_service_ids": "service-jair_bolsonaro-0-63",
+      "candidate_dates": "2020-08-27;2020-08-28;2020-08-29;2020-08-30;2020-08-31;2020-09-01;2020-09-02;2020-09-03;2020-09-04;2020-09-05;2020-09-06;2020-09-07;2020-09-08;2020-09-09;2020-09-10;2020-09-11;2020-09-12;2020-09-13;2020-09-14;2020-09-15;2020-09-16;2020-09-17;2020-09-18;2020-09-19",
+      "constraints": "Exactly one transition, linked adjacent before/after states; all intermediate dates admissible. Intersect actual service and preserve concurrent events.",
+      "evidence_ids": "AFF-013;AFF-014;AFF-015;AFF-055;AFF-056;BOL-E01;BOL-E02;BOL-E18"
+    },
+    "after": {
+      "uncertainty_id": "transition-person-87ad75f8d2f9",
+      "event_type": "affiliation_change",
+      "person_id": "person-87ad75f8d2f9",
+      "earliest_effective_date": "2020-09-04",
+      "latest_effective_date": "2020-09-19",
+      "baseline_effective_date": "2020-09-19",
+      "before_state": "PARTY",
+      "before_party_id": "PP",
+      "after_state": "UNAFFILIATED",
+      "after_party_id": "",
+      "linked_affiliation_ids": "affiliation-b2eb8d8beb97;affiliation-f17728f50dd7",
+      "linked_service_ids": "service-jair_bolsonaro-0-63",
+      "candidate_dates": "2020-09-04;2020-09-05;2020-09-06;2020-09-07;2020-09-08;2020-09-09;2020-09-10;2020-09-11;2020-09-12;2020-09-13;2020-09-14;2020-09-15;2020-09-16;2020-09-17;2020-09-18;2020-09-19",
+      "constraints": "Exactly one transition; linked adjacent before/after states; every date within newly narrowed bounds admissible. Bounds adjudicated from latest positive contemporary report and completed-prior-departure report, not certified exact registry exit. Intersect actual service and preserve concurrent events.",
+      "evidence_ids": "AFF-013;AFF-014;AFF-015;AFF-055;AFF-056;BOL-E01;BOL-E02;BOL-E18;V5W6E03;V5W6E07;V5W6E09;V5W6E10"
+    }
+  }
+]

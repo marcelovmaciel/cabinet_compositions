@@ -1,0 +1,14 @@
+{
+  "party": "MISSÃO",
+  "id": 183,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 35,
+      "totalElements": 35,
+      "response_sha256": "3a7836b34a24198d167037ed46effa83d4c169db56226f1be5edcdec80244788",
+      "retrieved_utc": "2026-09-11T00:08:23Z"
+    }
+  ],
+  "matches": []
+}

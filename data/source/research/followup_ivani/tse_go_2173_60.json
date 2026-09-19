@@ -1,0 +1,16 @@
+{
+  "party": "DEMOCRATA",
+  "id": 60,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=60&currentPage=0&pageSize=10000",
+      "records": 277,
+      "totalElements": 277,
+      "response_sha256": "f7f11967757f2eb0ceed0b6d01c23ed46a30486b67fe816dd13a74097f77cb17",
+      "retrieved_utc": "2026-09-10T23:36:03Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,222 @@
+Internal Error ()
+citeturn68view0 [wordlim: 200] Source: open({"ref_id":"https://oglobo.globo.com/politica/jose-levi-do-amaral-discreto-interino-que-assumiu-ministerio-da-justica-20892679","lineno":null}); Total lines: 1
+L0: URL https://oglobo.globo.com/politica/jose-levi-do-amaral-discreto-interino-que-assumiu-ministerio-da-justica-20892679 is not safe to open (non-retryable error)
+--------------------------------------------------------------------------------
+Kabinett Bolsonaro – Wikipedia (https://de.wikipedia.org/wiki/Kabinett_Bolsonaro)
+citeturn68view1 [wordlim: 200] Crawled: 2 months ago; Content type: text/html; Source: open({"ref_id":"https://de.wikipedia.org/wiki/Kabinett_Bolsonaro","lineno":null}); Total lines: 380
+L0: cite0†Zum Inhalt springen L1: 
+L2:   Hauptmenü
+L3: 
+L4: Hauptmenü
+L5: 
+L6: In die Seitenleiste verschieben Verbergen
+L7: 
+L8: Navigation
+L9: 
+L10:   * cite1†Hauptseite L11:   * cite2†Themenportale L12:   * cite3†Zufälliger Artikel L13:   * cite4†Spezialseiten L14: 
+L15: Mitmachen
+L16: 
+L17:   * cite5†Artikel verbessern L18:   * cite6†Neuen Artikel anlegen L19:   * cite7†Autorenportal L20:   * cite8†Hilfe L21:   * cite9†Letzte Änderungen L22:   * cite10†Kontakt L23: 
+L24: cite1†  L25: 
+L26:  cite11† Suche  L27: 
+L28: Suchen
+L29: 
+L30:   Erscheinungsbild
+L31: 
+L32:   * cite12†Jetzt spenden†donate.wikimedia.org L33:   * cite13†Benutzerkonto erstellen L34:   * cite14†Anmelden L35:   Meine Werkzeuge
+L36: 
+L37:   * cite12† Jetzt spenden†donate.wikimedia.org L38:   * cite13† Benutzerkonto erstellen L39:   * cite14† Anmelden L40: ## Inhaltsverzeichnis
+L41: 
+L42: In die Seitenleiste verschieben Verbergen
+L43: 
+L44:   *  (Anfang)
+L45:   *  1 Präsident und Vizepräsident
+L46:   *  cite15† 2 Mitglieder des Kabinetts  L47:   *  cite16† 3 Einzelnachweise  L48: 
+L49:   Inhaltsverzeichnis umschalten
+L50: # Kabinett Bolsonaro
+L51: 
+L52:   5 Sprachen
+L53: 
+L54:   * cite17†English†en.wikipedia.org L55:   * cite18†Español†es.wikipedia.org L56:   * cite19†Français†fr.wikipedia.org L57:   * cite20†Italiano†it.wikipedia.org L58:   * cite21†Português†pt.wikipedia.org L59: 
+L60: cite22†Links bearbeiten†www.wikidata.org L61: 
+L62:   * cite23†Artikel L63:   * cite24†Diskussion L64: 
+L65:   Deutsch
+L66: 
+L67:   * cite23†Lesen L68:   * cite25†Bearbeiten L69:   * cite26†Quelltext bearbeiten L70:   * cite27†Versionsgeschichte L71: 
+L72:   Werkzeuge
+L73: 
+L74: Werkzeuge
+L75: 
+L76: In die Seitenleiste verschieben Verbergen
+L77: 
+L78: Aktionen
+L79:   * cite23† Lesen L80:   * cite25† Bearbeiten L81:   * cite26† Quelltext bearbeiten L82:   * cite27† Versionsgeschichte L83: 
+L84: Allgemein
+L85: 
+L86:   * cite28†Links auf diese Seite L87:   * cite29†Änderungen an verlinkten Seiten L88:   * cite30†Permanenter Link L89:   * cite31†Seiten­­informationen L90:   * cite32†Artikel zitieren L91:   * cite33†Kurzlink L92:   * cite34†Zum Legacy-Parser wechseln L93: 
+L94: Drucken/exportieren
+L95: 
+L96:   * cite35†Als PDF herunterladen L97:   * cite36†Druckversion L98: 
+L99: In anderen Projekten
+L100: 
+L101:   * cite37†Commons†commons.wikimedia.org L102:   * cite38†Wikidata-Datenobjekt†www.wikidata.org L103: Erscheinungsbild
+L104: 
+L105: In die Seitenleiste verschieben Verbergen
+L106: 
+L107: aus Wikipedia, der freien Enzyklopädie
+L108: 
+L109: Das Kabinett Bolsonaro wurde vom 1. Januar 2019 bis zum 31. Dezember 2022 von den Regierungsmitgliedern des cite39†brasilianischen Präsidenten cite40†Jair Bolsonaro gebildet. Es löste das cite41†Kabinett Temer ab. Im Januar 2023 wurde es vom dritten cite42†Kabinett Lula da Silva abgelöst.
+L110:   Kabinett Bolsonaro
+L111: Regierung der Föderativen Republik Brasilien
+L112: cite246†Image: Gruppenbild der Regierung Brasiliens, 1. Januar 2019.†de.wikipedia.org L113: cite39†Präsident der Föderativen Republik Brasilien cite40†Jair Bolsonaro L114: Wahl  cite43†2018 L115: Beginn  1. Januar 2019
+L116: Ende  1. Januar 2023
+L117: Dauer  4 Jahre und 0 Tage
+L118: Vorgänger  cite41†Kabinett Temer L119: Nachfolger  cite42†Kabinett Lula da Silva III L120: In der Regierung waren seit 2019 zwei Ministerinnen, drei Generäle und ein Admiral vertreten.
+L121: In der cite44†Abgeordnetenkammer stützte sich die Regierung anfangs auf eine Koalition von insgesamt 14 Parteien, die ein breites politisches Spektrum aus sozialdemokratischen (cite45†SD ), liberalen (cite46†PODE , cite47†NOVO ), liberal-konservativen (cite48†MDB , cite49†PTB , cite50†DEM , cite51†PSD ), konservativen (cite52†PL , cite53†PP ), cite54†rechtsreligiösen (cite55†PRB , cite56†PSC , cite57†PATRI ) und nationalistischen (cite58†PSL , cite59†PRTB ) Programmen abdecken.
+L122: Solch große Koalitionen sind in Brasilien nicht ungewöhnlich.[ 1 ][ 2 ][ 3 ] Im Laufe seiner Präsidentschaft überwarf sich Bolsonaro mit einigen seiner früheren Unterstützer, im März 2021 stützte er sich auf einen Block mehrerer Mitte-Rechts-Parteien und sein Auftreten wird als weniger konfrontativ beschrieben.[ 4 ] Im cite60†Bundessenat wurden bei Amtsbeginn 10 Parteien mit 58 von 81 Senatoren den Regierungsunterstützern zugerechnet.
+L123: Präsident Bolsonaro verharmloste und leugnete die cite61†Covid-19-Pandemie in Brasilien mehrfach; um den 1. Juni 2020 waren cite62†500.000 Menschen plus eine hohe Dunkelziffer infiziert und zehntausende gestorben . Drei Wochen später hatte sich die Zahl der Infizierten verdoppelt. Die Regierung Bolsonaro stand unter zunehmendem Druck der brasilianischen Justiz.[ 5 ] Für Diskussion sorgte die Videoaufzeichnung der Kabinettssitzung vom 22.
+L124: April 2020, die nach Beschluss des Obersten Gerichtshofes veröffentlicht wurde.[ 6 ] Acht der 23 Kabinettsminister Bolsonaros wurden bis August 2020 positiv auf das Coronavirus getestet.[ 7 ]
+L125: Am 1. April tauschte Bolsonaro sechs Minister aus und besetzte die Spitzen des Militärs in Brasilien neu. General Paulo Sérgio Nogueira de Oliveira wurde zum Armeechef ernannt.[ 8 ]
+L126: 
+L127: Nachdem die Justiz Ermittlungen gegen Umweltminister cite63†Ricardo de Aquino Salles aufgenommen hatte wegen des Verdachts, in illegalen Holzhandel verwickelt zu sein, trat er am 23. Juni 2021 zurück. Zu seinem Nachfolger wurde cite64†Joaquim Álvaro Pereira Leite ernannt.[ 9 ]
+L128: Zum 31. März 2022 wurden insgesamt neun Kabinettsmitglieder ausgetauscht.
+L129: ## Präsident und Vizepräsident
+L130: 
+L131: [cite65†Bearbeiten | cite66†Quelltext bearbeiten ]
+L132:   Amt Amtsinhaber Amtszeit Partei
+L133:  Präsident der Föderativen Republik Brasilien
+L134: cite39†Presidente do Brasil cite247†Image†de.wikipedia.org cite40†Jair Messias Bolsonaro seit 1. Januar 2019[ 10 ] cite58†PSL L135: (bis 2019)
+L136: cite67†ALIANÇA L137: (von 2019 bis 2021)
+L138: cite52†PL L139: (seit 22. November 2022)
+L140:  Vizepräsident der Föderativen Republik Brasilien
+L141: cite68†Vice-presidente do Brasil cite248†Image†de.wikipedia.org cite69†Antônio Hamilton Martins Mourão seit 1. Januar 2019[ 10 ] cite59†PRTB L142: ## Mitglieder des Kabinetts
+L143: 
+L144: [cite70†Bearbeiten | cite71†Quelltext bearbeiten ]
+L145: 
+L146:  Amt Amtsinhaber Amtszeit Partei
+L147:  cite72†Kabinettschef L148: cite73†Ministro-Chefe da Casa Civil do Brasil cite249†Image†de.wikipedia.org cite74†Onyx Dornelles Lorenzoni 1. Januar 2019 – 14. Februar 2020[ 11 ] cite50†DEM L149:  cite250†Image†de.wikipedia.org cite75†Walter Souza Braga Netto L150: 
+L151: Armeegeneral
+L152: 
+L153: 18. Februar 2020 – 29. März 2021[ 12 ] parteilos
+L154:  cite251†Image†de.wikipedia.org cite76†Luiz Eduardo Ramos L155: 
+L156: Armeegeneral
+L157: 30. März 2021 – 26. Juli 2021[ 13 ] parteilos
+L158:  cite252†Image†de.wikipedia.org cite77†Ciro Nogueira Lima Filho seit 26. Juli 2021 cite78†PP L159:  Wirtschaftsminister
+L160: cite79†Ministério da Economia cite253†Image†de.wikipedia.org cite80†Paulo Roberto Nunes Guedes seit 1. Januar 2019[ 11 ] parteilos
+L161:  Wissenschaftsminister
+L162: (Ministerium für Wissenschaft, Technologie,
+L163: Innovation und Kommunikation)
+L164: cite81†Ministério da Ciência, Tecnologia, Inovações e Comunicações cite254†Image†de.wikipedia.org cite82†Marcos Cesar Pontes 1. Januar 2019[ 14 ] bis 30. März 2022 cite58†PSL L165:  cite255†Image†de.wikipedia.org cite83†Paulo Alvim seit 31. März 2022[ 15 ] parteilos
+L166:  Justizminister
+L167: cite84†Ministério da Justiça e Segurança Pública cite256†Image†de.wikipedia.org cite85†Sérgio Fernando Moro 1. Januar 2019[ 16 ] – 24. April 2020[ 17 ] parteilos
+L168:  cite257†Image†de.wikipedia.org cite86†André Luiz de Almeida Mendonça 28. April 2020 – 29. März 2021[ 18 ] parteilos
+L169:  cite258†Image†de.wikipedia.org cite87†Anderson Torres seit 29. März 2021[ 13 ] parteilos
+L170:  Landwirtschaftsministerin
+L171: cite88†Ministério da Agricultura, Pecuária e Abastecimento cite259†Image†de.wikipedia.org cite89†Tereza Cristina Corrêa da Costa Dias 1. Januar 2019[ 19 ] bis 30. März 2022 cite50†DEM L172:  cite260†Image†de.wikipedia.org cite90†Marcos Montes Cordeiro seit 31. März 2022 PSD
+L173:  Leiter des Kabinetts für Institutionale Sicherheit
+L174: cite91†Gabinete de Segurança Institucional da Presidência da República cite261†Image†de.wikipedia.org cite92†Augusto Heleno Ribeiro Pereira L175: Armeegeneral seit 1. Januar 2019[ 20 ] cite57†PATRI L176:  Verteidigungsminister
+L177: cite93†Ministério da Defesa cite262†Image†de.wikipedia.org cite94†Fernando Azevedo e Silva L178: Heeresgeneral 1. Januar 2019[ 21 ] – 29. März 2021[ 22 ] parteilos
+L179:  cite263†Image†de.wikipedia.org cite75†Walter Souza Braga Netto L180: Heeresgeneral 30. März 2021[ 23 ] bis 30. März 2022 parteilos
+L181:  cite264†Image†de.wikipedia.org cite95†Paulo Sérgio Nogueira de Oliveira L182: Heeresgeneral seit 31. März 2022 parteilos
+L183:  Außenminister
+L184: cite96†Ministério das Relações Exteriores cite265†Image†de.wikipedia.org cite97†Ernesto Henrique Fraga Araújo 1. Januar 2019 – 29. März 2021[ 24 ] parteilos
+L185:  cite266†Image†de.wikipedia.org cite98†Carlos Alberto França seit 30. März 2021[ 23 ] parteilos
+L186:  Präsident der Zentralbank Brasiliens
+L187: cite99†Banco Central do Brasil cite267†Image†de.wikipedia.org cite100†Ilan Goldfajn 9. Juni 2016 – 28. Februar 2019 parteilos
+L188:  cite268†Image†de.wikipedia.org cite101†Roberto de Oliveira Campos Neto seit 28. Februar 2019[ 25 ] parteilos
+L189:  Transparenz-, Steueraufsicht-
+L190: und Kontrollminister
+L191: (Transparenzminister)
+L192: cite102†Ministério da Transparência, Fiscalização e Controladoria-Geral da União cite269†Image†de.wikipedia.org cite103†Wagner de Campos Rosário seit 1. Januar 2019[ 26 ] parteilos
+L193:  Gesundheitsminister
+L194: cite104†Ministério da Saúde cite270†Image†de.wikipedia.org cite105†Luiz Henrique Mandetta 1. Januar 2019 – 16. April 2020[ 27 ][ 28 ] cite50†DEM L195:  cite271†Image†de.wikipedia.org cite106†Nelson Luiz Sperle Teich 16. April 2020 – 15. Mai 2020[ 29 ][ 30 ][ 31 ] parteilos
+L196:  cite272†Image†de.wikipedia.org cite107†Eduardo Pazuello 16. September 2020 – 16. März 2021
+L197: (ab Juni 2020 bereits geschäftsführend)[ 32 ]
+L198: parteilos
+L199:  cite273†Image†de.wikipedia.org cite108†Marcelo Queiroga seit 16. März 2021[ 33 ] parteilos
+L200:  Bundesstaatsanwalt
+L201: cite109†Advocacia-Geral da União cite274†Image†de.wikipedia.org cite86†André Luiz de Almeida Mendonça 1. Januar 2019[ 34 ] – 27. April 2020[ 18 ] parteilos
+L202:  cite275†Image†de.wikipedia.org cite110†José Levi Mello do Amaral Júnior 28. April 2020 – 29. März 2021[ 18 ] parteilos
+L203:  cite276†Image†de.wikipedia.org cite86†André Luiz de Almeida Mendonça 29. März 2021 – 6. August 2021[ 13 ] parteilos
+L204:  cite277†Image†de.wikipedia.org cite111†Bruno Bianco seit 6. August 2021 parteilos
+L205:  Generalsekretariat
+L206: der Präsidentschaft der Republik
+L207: cite112†Secretaria-Geral da Presidência da República cite278†Image†de.wikipedia.org cite113†Gustavo Bebianno Rocha 1. Januar 2019 – 18. Februar 2019[ 35 ] cite58†PSL L208:  cite279†Image†de.wikipedia.org cite114†Floriano Peixoto Vieira Neto L209: cite280†Image†de.wikipedia.org cite115†Lieutenant General (Ret.) 18. Februar 2019 – 20. Juni 2019[ 36 ] parteilos
+L210:  cite281†Image†de.wikipedia.org cite116†Jorge Antônio de Oliveira Francisco 21. Juni 2019 – 31. Dezember 2020[ 37 ] parteilos
+L211:  cite282†Image†de.wikipedia.org cite117†Pedro César Nunes Ferreira Marques de Souza 31. Dezember 2020 – 12. Februar 2021[ 38 ]
+L212: kommissarisch
+L213: 
+L214:  cite283†Image†de.wikipedia.org cite74†Onyx Dornelles Lorenzoni 12. Februar 2021 – 26. Juli 2021[ 39 ] cite50†DEM L215:  cite284†Image†de.wikipedia.org cite76†Luiz Eduardo Ramos L216: 
+L217: Armeegeneral
+L218: seit 26. Juli 2021 parteilos
+L219:  Bildungsminister
+L220: Ministério da Educação cite285†Image†de.wikipedia.org cite118†Ricardo Vélez Rodríguez 1. Januar 2019 – 8. April 2019[ 40 ] parteilos
+L221:  cite286†Image†de.wikipedia.org cite119†Abraham Bragança de Vasconcellos Weintraub 8. April 2019[ 41 ] – 19. Juni 2020[ 42 ] parteilos
+L222:  cite287†Image†de.wikipedia.org cite120†Antonio Paulo Vogel L223: interimistisch 20. Juni 2020 – 16. Juli 2020[ 43 ] parteilos
+L224:  cite288†Image†de.wikipedia.org cite121†Milton Ribeiro 16. Juli 2020[ 44 ] bis 28. März 2022 parteilos
+L225:  cite289†Image†de.wikipedia.org cite122†Victor Godoy Veiga seit 29. März 2022 parteilos
+L226:  Regierungssekretariat
+L227: cite123†Secretaria de Governo do Brasil cite290†Image†de.wikipedia.org cite124†Carlos Alberto dos Santos Cruz L228: Heeresgeneral 1. Januar 2019 – 13. Juni 2019[ 45 ] parteilos
+L229:  cite291†Image†de.wikipedia.org cite76†Luiz Eduardo Ramos Baptista Pereira L230: Heeresgeneral 13. Juni 2019 – 29. März 2021[ 46 ] parteilos
+L231:  cite292†Image†de.wikipedia.org cite125†Flávia Arruda seit 29. März 2021[ 47 ] bis 31. März 2022 cite52†PL L232:  cite293†Image†de.wikipedia.org cite126†Célio Faria Júnior seit 31. März 2022 parteilos
+L233:  Infrastrukturminister
+L234: cite127†Ministério da Infraestrutura cite294†Image†de.wikipedia.org cite128†Tarcísio Gomes de Freitas 1. Januar 2019[ 48 ] bis 31. März 2022 parteilos
+L235:  cite295†Image†de.wikipedia.org cite129†Marcelo Sampaio seit 31. März 2022 parteilos
+L236:  Regionalentwicklungsminister
+L237: cite130†Ministério do Desenvolvimento Regional cite296†Image†de.wikipedia.org cite131†Gustavo Henrique Rigodanzo Canuto 1. Januar 2019 – 6. Februar 2020[ 49 ] parteilos
+L238:  cite297†Image†de.wikipedia.org cite132†Rogério Simonetti Marinho 11. Februar 2020[ 50 ] bis 31. März 2022 cite133†PSDB L239:  cite298†Image†de.wikipedia.org cite134†Daniel de Oliveira Duarte Ferreira seit 31. März 2022 parteilos
+L240:  Bürgerschaftsminister
+L241: cite135†Ministério da Cidadania cite299†Image†de.wikipedia.org cite136†Osmar Gasparini Terra 1. Januar 2019 – 14. Februar 2020[ 51 ] cite48†MDB L242:  cite300†Image†de.wikipedia.org cite74†Onyx Dornelles Lorenzoni 18. Februar 2020[ 52 ] – 12. Februar 2021 cite50†DEM L243:  cite301†Image†de.wikipedia.org cite137†João Roma 12. Februar 2021[ 53 ] – 30. März 2022 cite138†REP L244:  cite302†Image†de.wikipedia.org cite139†Ronaldo Vieira Bento seit 30. März 2022[ 54 ]
+L245:  Tourismusminister
+L246: cite140†Ministério do Turismo cite303†Image†de.wikipedia.org cite141†Marcelo Álvaro Antônio 1. Januar 2019 – 9. Dezember 2020[ 55 ] cite58†PSL L247:  cite304†Image†de.wikipedia.org cite142†Gilson Machado Neto 9. Dezember 2020 bis 31. März 2022 cite56†PSC L248:  cite305†Image†de.wikipedia.org cite143†Carlos Alberto Gomes de Brito seit 31. März 2022 parteilos
+L249:  Bergbau- und Energieminister
+L250: cite144†Ministério de Minas e Energia cite306†Image†de.wikipedia.org cite145†Bento Costa Lima Leite de Albuquerque Júnior L251: Geschwaderadmiral 1. Januar 2019[ 56 ] bis 11. Mai 2022 parteilos
+L252:  cite307†Image†de.wikipedia.org cite146†Adolfo Sachsida Seit 11. Mai 2022[ 57 ] Parteilos
+L253:  Frauen-, Familien-
+L254: und Menschenrechtsministerin
+L255: cite147†Ministério da Mulher, Família e dos Direitos Humanos cite308†Image†de.wikipedia.org cite148†Damares Regina Alves 1. Januar 2019[ 58 ] bis 30. März 2022 cite78†PP L256:  cite309†Image†de.wikipedia.org cite149†Cristiane Britto seit 30. März 2022 parteilos
+L257:  Umweltminister
+L258: cite150†Ministério do Meio Ambiente cite310†Image†de.wikipedia.org cite63†Ricardo de Aquino Salles 1. Januar 2019[ 59 ] bis 23. Juni 2021[ 60 ] cite47†NOVO L259:  cite311†Image†de.wikipedia.org cite64†Joaquim Álvaro Pereira Leite seit 23. Juni 2021[ 61 ] parteilos
+L260:  Kommunikationsminister
+L261: cite151†Ministério das Comunicações L262: 
+L263: cite312†Image†de.wikipedia.org cite152†Fábio Faria seit 10. Juni 2020[ 62 ] cite51†PSD L264:  Arbeits- und Beschäftigungsminister
+L265: 
+L266: cite153†Ministro do Trabalho e Previdência L267: 
+L268: cite313†Image†de.wikipedia.org cite74†Onyx Dornelles Lorenzoni 26. Juli 2021 bis 30. März 2022 DEM
+L269:  cite314†Image†de.wikipedia.org cite154†José Carlos Oliveira seit 31. März 2022[ 63 ] parteilos
+L270:  Sekretär für strategische Angelegenheiten
+L271: 
+L272: cite155†Secretário de Estudos Estratégicos L273: cite315†Image†de.wikipedia.org cite107†Eduardo Pazuello seit 1. Juni 2021 parteilos
+L274: ## Einzelnachweise
+L275: 
+L276: [cite156†Bearbeiten | cite157†Quelltext bearbeiten ]
+L277:   1. ↑ cite158†Bancada do Podemos vai apoiar Bolsonaro, anuncia Alvaro Dias†catve.com L278:   2. ↑ cite159†Sem Alvaro Dias, bancada da Câmara do Podemos anuncia apoio a Bolsonaro†oglobo.globo.com L279:   3. ↑ cite160†Álvaro Dias diz que seu partido, o Podemos, articula bloco de apoio a Bolsonaro no Senado†web.archive.org (cite161†Memento vom 19. Juli 2019 im cite162†Internet Archive )
+L280:   4. ↑ cite163†Nach massiver Kritik: Brasiliens Außenminister tritt zurück - tagesschau.de†www.tagesschau.de L281:   5. ↑ sueddeutsche.de 19. Juni 2020: cite164†Regierung Bolsonaro im freien Fall†www.sueddeutsche.de (Reportage von Christoph Gurk)
+L282:   6. ↑ Philipp Lichterbeck: cite165†Die Verbalgranaten des Jair Bolsonaro.†www.tagesspiegel.de Der Tagesspiegel, 23. Mai 2020, abgerufen am 24. Juni 2020.
+L283:   7. ↑ cite166†sueddeutsche.de†www.sueddeutsche.de L284:   8. ↑ siehe auch cite167†englische Wikipedia†en.wikipedia.org L285:   9. ↑ Rodrigo Pedroso, Jessie Yeung: cite168†Ricardo Salles, Brazil's controversial environment minister, resigns amid Amazon illegal logging probe | CNN.†www.cnn.com In: cnn.com. 24. Juni 2021, abgerufen am 13. Februar 2024 (englisch).
+L286:   10. 1 2 AFP: cite169†Brasiliens neuer Präsident Bolsonaro kündigt radikalen Neuanfang an.†web.archive.org Archiviert vom cite170†Original†redirecter.toolforge.org (nicht mehr online verfügbar) am 2. Januar 2019; abgerufen am 25. April 2020.
+L287:   11. 1 2 cite171†Bolsonaro anuncia nomes de três ministros em eventual governo.†politica.estadao.com.br In: com.br. cite172†Estadão , 11. Oktober 2018, abgerufen am 14. Januar 2019 (brasilianisches Portugiesisch).
+L288:   12. ↑ Victor Ribeiro: cite173†Braga Netto assume Casa Civil e Lorenzoni vai para Ministério da Cidadania.†agenciabrasil.ebc.com.br In: Radioagência Nacional. Empresa Brasil de Comunicação S/A - EBC, 18. Februar 2020, abgerufen am 19. April 2020 (portugiesisch).
+L289:   13. 1 2 3 Deutscher Ärzteverlag GmbH, Redaktion Deutsches Ärzteblatt: cite174†Brasiliens Präsident Bolsonaro tauscht sechs Minister aus.†www.aerzteblatt.de 30. März 2021, abgerufen am 30. März 2021.
+L290:   14. ↑ cite175†Marcos Pontes aceita convite de Bolsonaro para ser ministro da Ciência.†www.correiodopovo.com.br In: cite176†Correio do Povo , Porto Alegre. 30. Oktober 2018, abgerufen am 14. Januar 2019 (brasilianisches Portugiesisch).
+L291:   15. ↑ cite177†Paulo Alvim assume Ministério da Ciência, Tecnologia e Inovações.†agenciabrasil.ebc.com.br 31. März 2022, abgerufen am 17. April 2022 (brasilianisches Portugiesisch).
+L292:   16. ↑ Clara Cerioni: cite178†Sérgio Moro aceita ser ministro da Justiça de Bolsonaro.†web.archive.org In: cite179†Exame . 1. November 2018, archiviert vom cite180†Original†redirecter.toolforge.org (nicht mehr online verfügbar) am 5. November 2018; abgerufen am 14. Januar 2019 (brasilianisches Portugiesisch).
+L293:   17. ↑ tagesschau.de: cite181†Justizminister tritt im Streit mit Bolsonaro zurück.†www.tagesschau.de Abgerufen am 24. April 2020.
+L294:   18. 1 2 3 Eliane Cantanhêde, Jussara Soares, Paulo Roberto Netto, Luiz Vassallo: cite182†Bolsonaro nomeia André Mendonça para o lugar de Moro e Ramagem para chefiar a PF.†politica.estadao.com.br In: Estadão. Grupo Estado, 28. April 2020, abgerufen am 28. April 2020 (portugiesisch).
+L295:   19. ↑ Leonencio Nossa, Ligia Formenti, Eduardo Rodrigues: cite183†Bolsonaro escolhe deputada Tereza Cristina para chefiar Ministério da Agricultura.†politica.estadao.com.br In: cite172†Estadão . 7. November 2018, abgerufen am 14. Januar 2019 (brasilianisches Portugiesisch).
+L296:   20. ↑ Tânia Monteiro: cite184†"Inteligência não é bisbilhotar ninguém", diz general Augusto Heleno.†noticias.uol.com.br In: noticias.uol.com.br. 25. Dezember 2018, abgerufen am 14. Januar 2019 (brasilianisches Portugiesisch).
+L297:   21. ↑ cite185†Bolsonaro anuncia General Fernando Azevedo e Silva para o Ministério da Defesa.†veja.abril.com.br In: cite186†Veja . 13. November 2018, abgerufen am 14. Januar 2019 (brasilianisches Portugiesisch).
+L298:   22. ↑ tagesschau.de: cite163†Brasilien: Außen- und Verteidigungsminister treten zurück.†www.tagesschau.de 29. März 2021, abgerufen am 30. März 2021.
+L299:   23. 1 2 cite187†Brasilien: Präsident Jair Bolsonaro tauscht sechs Minister auf einmal aus.†www.spiegel.de In: Der Spiegel. Abgerufen am 30. März 2021.
+L300:   24. ↑ tagesschau.de: cite163†Brasilien: Außen- und Verteidigungsminister treten zurück.†www.tagesschau.de Abgerufen am 30. März 2021.
+L301:   25. ↑ Daniel Carvalho Mariana Carneiro: cite188†Senado aprova Roberto Campos Neto como novo presidente do BC.†www1.folha.uol.com.br In: Folha de S.Paulo. 26. Februar 2019, abgerufen am 20. April 2020 (portugiesisch).
+L302:   26. ↑ Guilherme Mazui: cite189†Bolsonaro anuncia que vai manter Wagner Rosário como ministro da Controladoria-Geral da União.†g1.globo.com In: globo.com. G1, 20. November 2018, abgerufen am 14. Januar 2019 (brasilianisches Portugiesisch).
+L303:   27. ↑ Guilherme Mazui: cite190†Bolsonaro anuncia deputado Mandetta como futuro ministro da Saúde.†g1.globo.com In: globo.com. G1, 20. November 2018, abgerufen am 14. Januar 2019 (brasilianisches Portugiesisch).
+L304:   28. ↑ FOCUS Online: cite191†Rio de Janeiro: Brasilien: Bolsonaro feuert seinen Gesundheitsminister.†www.focus.de Abgerufen am 17. April 2020.
+L305:   29. ↑ Imprensa Nacional: cite192†Decretos de 16 de abril de 2020.†www.in.gov.br In: gov.br. Diário Oficial da União, 16. April 2020, abgerufen am 17. April 2020 (brasilianisches Portugiesisch).
+L306:   30. ↑ n-tv Nachrichten: cite193†Brasiliens Gesundheitsminister wirft hin.†www.n-tv.de Abgerufen am 15. Mai 2020.
+L307:   31. ↑ Fabiano Andrade: cite194†Teich deixa o Ministério da Saúde antes de completar um mês no cargo.†g1.globo.com In: globo.com. cite195†G1 , Mai 2020, abgerufen am 15. Mai 2020 (brasilianisches Portugiesisch).
+L308:   32. ↑ Tânia Monteiro e Luci Ribeiro: cite196†Teich se demite e expõe governo em crise; general assume Saúde - Política.†politica.estadao.com.br In: Estadão. Grupo Estado, 15. Mai 2020, abgerufen am 17. Mai 2020 (portugiesisch).
+--------------------------------------------------------------------------------
+Kabinett Temer – Wikipedia (https://de.wikipedia.org/wiki/Kabinett_Temer)
+citeturn68view2 [wordlim: 200] Crawled: 6 months ago; Content type: text/html; Source: open({"ref_id":"https://de.wikipedia.org/wiki/Kabinett_Temer","lineno":null}); Total lines: 280

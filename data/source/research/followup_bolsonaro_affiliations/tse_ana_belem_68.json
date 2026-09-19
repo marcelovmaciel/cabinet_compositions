@@ -1,0 +1,14 @@
+{
+  "party": "PCB",
+  "id": 68,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=68&currentPage=0&pageSize=10000",
+      "records": 355,
+      "totalElements": 355,
+      "response_sha256": "61a1bb85bfc80c4417446eb26b79a7bb562d596b1dc64f334a4070427f024e23",
+      "retrieved_utc": "2026-09-10T23:48:29Z"
+    }
+  ],
+  "matches": []
+}

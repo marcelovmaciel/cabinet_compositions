@@ -1,0 +1,14 @@
+{
+  "party": "PCO",
+  "id": 37,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 539,
+      "totalElements": 539,
+      "response_sha256": "0500089f2e7044622de0446dc33c7cb57bddecceba0301b28cc831dae70c1663",
+      "retrieved_utc": "2026-09-10T23:44:36Z"
+    }
+  ],
+  "matches": []
+}

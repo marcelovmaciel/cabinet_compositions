@@ -1,0 +1,20 @@
+DSpace Repository :: Login (https://repositorio.ipea.gov.br/bitstreams/2469c87b-3082-405d-aba8-13971cabb8f7/download)
+citeturn237view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://repositorio.ipea.gov.br/bitstreams/2469c87b-3082-405d-aba8-13971cabb8f7/download","lineno":null}); Total lines: 23
+L0:   * cite0†Portal do Governo Brasileiro†brasil.gov.br L1:   * cite1†Atualize sua Barra de Governo†epwg.governoeletronico.gov.br L2: 
+L3: [Button: Skip to main content ]
+L4: 
+L5: [Input: ]
+L6: 
+L7: cite2†Image: Repository logo L8: # Please log in to DSpace
+L9: 
+L10: [Input: Email address][Input: Password] Log in
+L11: 
+L12: cite3†New user? Click here to register. cite4†Have you forgotten your password? L13: 
+L14: cite5†Image REPOSITÓRIO DO CONHECIMENTO DO IPEA
+L15: 
+L16: cite6†Image L17: 
+L18: Redes sociais
+L19: 
+L20: © Instituto de Pesquisa Econômica Aplicada Ipea (Ipea)
+L21: 
+L22: Please ensure Javascript is enabled for purposes of cite7†website accessibility†userway.org 

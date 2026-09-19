@@ -1,0 +1,17 @@
+{
+  "party": "MOBILIZA",
+  "id": 48,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 194,
+      "totalElements": 194,
+      "response_sha256": "cc14325ff57841813d8cc0636d66c19b09f82a917fb78edd822aa9991b824b01",
+      "retrieved_utc": "2026-09-10T23:38:01Z"
+    }
+  ],
+  "matches": []
+}

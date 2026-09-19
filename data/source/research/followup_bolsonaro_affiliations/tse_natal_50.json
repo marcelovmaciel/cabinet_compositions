@@ -1,0 +1,14 @@
+{
+  "party": "AVANTE",
+  "id": 50,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 685,
+      "totalElements": 685,
+      "response_sha256": "8ca57dac01437bbf08afe043a8fd50f4aa31c563908bfb059e3d32f3336553fc",
+      "retrieved_utc": "2026-09-10T23:43:05Z"
+    }
+  ],
+  "matches": []
+}

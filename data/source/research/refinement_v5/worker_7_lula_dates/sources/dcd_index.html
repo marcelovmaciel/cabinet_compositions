@@ -1,0 +1,972 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="//www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666"
+    />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="apple-itunes-app" content="app-id=1049343067" />
+    <meta name="google-play-app" content="app-id=br.leg.camara.infolegmovel" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+ <link rel="stylesheet" type="text/css" href="https://www2.camara.leg.br/ploneExterno.css" />
+<link rel="stylesheet" type="text/css" href="https://www.camara.leg.br/tema/global/camara-custom.css" />
+    <script
+      type="text/javascript"
+      src="//www2.camara.leg.br/portal_javascripts/camara_leg_viradadigital/ploneExterno.js"
+    ></script>
+
+    <link
+      rel="search"
+      href="//www2.camara.leg.br/busca-portal"
+      title="Buscar neste site"
+    />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="//www.camara.leg.br/tema/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="//www.camara.leg.br/tema/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="//www.camara.leg.br/tema/favicon-16x16.png">
+    <link rel="manifest" href="//www.camara.leg.br/tema/site.webmanifest">
+    <link rel="mask-icon" href="//www.camara.leg.br/tema/safari-pinned-tab.svg" color="#009e49">
+    <meta name="msapplication-TileColor" content="#00a300">
+    <meta name="msapplication-TileImage" content="//www.camara.leg.br/tema/mstile-144x144.png">
+    <meta name="theme-color" content="#009e49">
+
+    <link rel="canonical" href="#" />
+    <script type="text/javascript">
+      $("link[rel='canonical']").attr('href', window.location.href)
+    </script>
+
+
+		<title>Pesquisa em Publicações Oficiais da Câmara dos Deputados</title>
+		<!--link rel="stylesheet" type="text/css" href="http://www.camara.gov.br/internet/library/Camara.css"-->
+
+	     <script type="text/javascript"> 
+/* - GoogleAnalyticsTracker.js - */
+// http://www2.camara.gov.br/portal_javascripts/GoogleAnalyticsTracker.js?original=1
+var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-17416078-9']);_gaq.push(['_setDomainName','.camara.gov.br']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s)})();
+</script> 
+		<script LANGUAGE="JavaScript">
+		//-------------------------------------------------------------------
+		//--> Verifica a versão do Browser
+		//-------------------------------------------------------------------
+		var isNav4 = false, isNav5 = false, isIE4 = false
+		var strSeperator = "/"; 
+		// If you are using any Java validation on the back side you will want to use the / because 
+		// Java date validations do not recognize the dash as a valid date separator.
+		var vDateType = 3; // Valor Global que define o formato de data
+		//                1 = mm/dd/aaaa
+		//                2 = aaaa/dd/mm  (Unable to do date check at this time)
+		//                3 = dd/mm/aaaaa
+		var vYearType = 4; //Set to 2 or 4 for number of digits in the year for Netscape
+		var vYearLength = 2; // Set to 4 if you want to force the user to enter 4 digits for the year before validating.
+		var err = 0; // Set the error code to a default of zero
+		
+		if(navigator.appName == "Netscape") {
+			if (navigator.appVersion < "5") {
+				isNav4 = true;
+				isNav5 = false;
+			}
+			else
+				if (navigator.appVersion > "4") {
+					isNav4 = false;
+					isNav5 = true;
+				}
+			}
+		else {
+			isIE4 = true;
+		}
+		// Fim da Função
+		
+		function proxPagina(f) {
+		
+		  if (f.selCodColecaoCsv.value == "C") {
+			  f.action = "constituinte_principal.asp";
+			  f.target = "_self";
+		  }
+		  else {
+			  f.action = "dc_20b.asp";
+			  
+		  }
+		  f.submit();
+		}
+		//-------------------------------------------------------------------
+		//--> Formata Data.
+		//-------------------------------------------------------------------
+		function DateFormat(obj, e, dateCheck) {
+			vDateType = 3;
+			vDateValue = obj.value
+			// vDateName = object name
+			// vDateValue = value in the field being checked
+			// e = event
+			// dateCheck:
+			//		True  = Verify that the vDateValue is a valid date
+			//		False = Format values being entered into vDateValue only
+			// vDateType
+			//		1 = mm/dd/yyyy
+			//		2 = yyyy/mm/dd
+			//		3 = dd/mm/yyyy
+			// Enter a tilde sign for the first number and you can check the variable information.
+			if (vDateValue == "~") {
+				alert("AppVersion = "+navigator.appVersion+" \nNav. 4 Version = "+isNav4+" \nNav. 5 Version = "+isNav5+" \nIE Version = "+isIE4+" \nYear Type = "+vYearType+" \nDate Type = "+vDateType+" \nSeparator = "+strSeperator);
+				obj.value = "";
+				obj.focus();
+				return true;
+			}
+			var whichCode = (window.Event) ? e.which : e.keyCode;
+			// Check to see if a seperator is already present.
+			// bypass the date if a seperator is present and the length greater than 8
+			if (vDateValue.length > 8 && isNav4) {
+				if ((vDateValue.indexOf("-") >= 1) || (vDateValue.indexOf("/") >= 1)) {
+					return true;
+				}
+			}
+			//Eliminate all the ASCII codes that are not valid
+			var alphaCheck = " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ/-";
+			if (alphaCheck.indexOf(vDateValue) >= 1) {
+				if (isNav4) {
+					obj.value = "";
+					obj.focus();
+					obj.select();
+					return false;
+				}
+				else {
+					obj.value = obj.value.substr(0, (vDateValue.length-1));
+					return false;
+				}
+			}
+			//Ignore the Netscape value for backspace. IE has no value
+			if ((whichCode == 8)) {
+				return false;
+			}
+			else {
+				//Create numeric string values for 0123456789/
+				//The codes provided include both keyboard and keypad values
+				var strCheck = '47,48,49,50,51,52,53,54,55,56,57,58,59,95,96,97,98,99,100,101,102,103,104,105';
+				if (strCheck.indexOf(whichCode) != -1) {
+					if (isNav4) {
+						if (((vDateValue.length < 6 && dateCheck) || (vDateValue.length == 7 && dateCheck)) && (vDateValue.length >=1)) {
+							alert("Data inválida\nPor favor, informe a data novamente");
+							obj.value = "";
+							obj.focus();
+							obj.select();
+							return false;
+						}
+						if (vDateValue.length == 6 && dateCheck) {
+							var mDay = obj.value.substr(2,2);
+							var mMonth = obj.value.substr(0,2);
+							var mYear = obj.value.substr(4,4)
+							//Turn a two digit year into a 4 digit year
+							if (mYear.length == 2 && vYearType == 4) {
+								var mToday = new Date();
+								//If the year is greater than 30 years from now use 19, otherwise use 20
+								var checkYear = mToday.getFullYear() + 30; 
+								var mCheckYear = '20' + mYear;
+								if (mCheckYear >= checkYear) {
+									mYear = '19' + mYear;
+								}
+								else {
+									mYear = '20' + mYear;
+								}
+							}
+							var vDateValueCheck = mMonth+strSeperator+mDay+strSeperator+mYear;
+							if (!dateValid(vDateValueCheck)) {
+								alert("Data inválida\nPor favor, informe a data novamente");
+								obj.value = "";
+								obj.focus();
+								obj.select();
+								return false;
+							}
+							return true;
+						}
+						else {
+							// Reformat the date for validation and set date type to a 1
+							if (vDateValue.length >= 8  && dateCheck) {
+								// mmddyyyy 
+								if (vDateType == 1) {
+									var mDay = obj.value.substr(2,2);
+									var mMonth = obj.value.substr(0,2);
+									var mYear = obj.value.substr(4,4)
+									obj.value = mMonth+strSeperator+mDay+strSeperator+mYear;
+								}
+								// yyyymmdd
+								if (vDateType == 2)	{
+									var mYear = obj.value.substr(0,4)
+									var mMonth = obj.value.substr(4,2);
+									var mDay = obj.value.substr(6,2);
+									obj.value = mYear+strSeperator+mMonth+strSeperator+mDay;
+								}
+								// ddmmyyyy
+								if (vDateType == 3)	{
+									var mMonth = obj.value.substr(2,2);
+									var mDay = obj.value.substr(0,2);
+									var mYear = obj.value.substr(4,4)
+									obj.value = mDay+strSeperator+mMonth+strSeperator+mYear;
+								}
+								// Create a temporary variable for storing the DateType and change
+								//		the DateType to a 1 for validation.
+								var vDateTypeTemp = vDateType;
+								vDateType = 1;
+								var vDateValueCheck = mMonth+strSeperator+mDay+strSeperator+mYear;
+								if (!dateValid(vDateValueCheck)) {
+									alert("Data inválida\nPor favor, informe a data novamente");
+									vDateType = vDateTypeTemp;
+									obj.value = "";
+									obj.focus();
+									obj.select();
+									return false;
+								}
+								vDateType = vDateTypeTemp;
+								return true;
+							}
+							else {
+								if (((vDateValue.length < 8 && dateCheck) || (vDateValue.length == 9 && dateCheck)) && (vDateValue.length >=1)) {
+									alert("Data inválida\nPor favor, informe a data novamente");
+									obj.value = "";
+									obj.focus();
+									obj.select();
+									return false;
+								}
+							}
+						}
+					}
+					else {
+						// Nao é navegador Netscape Check
+						if (((vDateValue.length < 8 && dateCheck) || (vDateValue.length == 9 && dateCheck)) && (vDateValue.length >=1)) {
+							alert("Data inválida\nPor favor, informe a data novamente");
+							obj.value = "";
+							obj.focus();
+							return true;
+						}
+						// Reformat date to format that can be validated. mm/dd/yyyy
+						if (vDateValue.length >= 8 && dateCheck) {
+							// Additional date formats can be entered here and parsed out to
+							// a valid date format that the validation routine will recognize.
+							// mm/dd/yyyy
+							if (vDateType == 1) {
+								var mMonth = obj.value.substr(0,2);
+								var mDay = obj.value.substr(3,2);
+								var mYear = obj.value.substr(6,4)
+							}
+							// yyyy/mm/dd
+							if (vDateType == 2)	{
+								var mYear = obj.value.substr(0,4)
+								var mMonth = obj.value.substr(5,2);
+								var mDay = obj.value.substr(8,2);
+							}
+							// dd/mm/yyyy
+							if (vDateType == 3)	{
+								var mDay = obj.value.substr(0,2);
+								var mMonth = obj.value.substr(3,2);
+								var mYear = obj.value.substr(6,4)
+							}
+							if (vYearLength == 4) {
+								if (mYear.length < 4) {
+									alert("Data inválida\nPor favor, informe a data novamente");
+									obj.value = "";
+									obj.focus();
+									return true;
+								}
+							}
+							// Create temp. variable for storing the current vDateType
+							var vDateTypeTemp = vDateType;
+							// Change vDateType to a 1 for standard date format for validation
+							// Type will be changed back when validation is completed.
+							vDateType = 1;
+							// Store reformatted date to new variable for validation.
+							var vDateValueCheck = mMonth+strSeperator+mDay+strSeperator+mYear;
+							if (mYear.length == 2 && vYearType == 4 && dateCheck) {
+								//Turn a two digit year into a 4 digit year
+								var mToday = new Date();
+								//If the year is greater than 30 years from now use 19, otherwise use 20
+								var checkYear = mToday.getFullYear() + 30; 
+								var mCheckYear = '20' + mYear;
+								if (mCheckYear >= checkYear) {
+									mYear = '19' + mYear;
+								}
+								else {
+									mYear = '20' + mYear;
+									vDateValueCheck = mMonth+strSeperator+mDay+strSeperator+mYear;
+									// Store the new value back to the field.  This function will
+									// not work with date type of 2 since the year is entered first.
+									// mm/dd/yyyy
+									if (vDateTypeTemp == 1) {
+										obj.value = mMonth+strSeperator+mDay+strSeperator+mYear;
+									}
+									// dd/mm/yyyy
+									if (vDateTypeTemp == 3) {
+										obj.value = mDay+strSeperator+mMonth+strSeperator+mYear;
+									}
+								}
+							}
+							if (!dateValid(vDateValueCheck)) {
+								alert("Data inválida\nPor favor, informe a data novamente");
+								vDateType = vDateTypeTemp;
+								obj.value = "";
+								obj.focus();
+								return true;
+							}
+							vDateType = vDateTypeTemp;
+							return true;
+						}
+						else {
+							if (vDateType == 1) {
+								if (vDateValue.length == 2) {
+									obj.value = vDateValue+strSeperator;
+								}
+								if (vDateValue.length == 5) {
+									obj.value = vDateValue+strSeperator;
+								}
+							}
+							if (vDateType == 2) {
+								if (vDateValue.length == 4) {
+									obj.value = vDateValue+strSeperator;
+								}
+								if (vDateValue.length == 7) {
+									obj.value = vDateValue+strSeperator;
+								}
+							} 
+							if (vDateType == 3) {
+								if (vDateValue.length == 2) {
+									obj.value = vDateValue+strSeperator;
+								}
+								if (vDateValue.length == 5) {
+									obj.value = vDateValue+strSeperator;
+								}
+							}
+							return true;
+						}
+					}
+					if (vDateValue.length == 10 && dateCheck) {
+						if (!dateValid(obj)) {
+							// Un-comment the next line of code for debugging the dateValid() function error messages
+							//alert(err);  
+							alert("Data inválida\nPor favor, informe a data novamente");
+							obj.focus();
+							obj.select();
+						}
+					}
+					return false;
+				}
+				else {
+					// If the value is not in the string return the string minus the last
+					// key entered.
+					if (isNav4) {
+						obj.value = "";
+						obj.focus();
+						obj.select();
+						return false;
+					}	else {
+							if(!dateCheck){
+							obj.value = obj.value.substr(0, (vDateValue.length-1));
+							return false;
+							}
+					}
+				}
+			}
+		}
+		//-------------------------------------------------------------------
+		//--> Fim da Função
+		//-------------------------------------------------------------------
+		
+		//-------------------------------------------------------------------
+		//--> Valida Data
+		//-------------------------------------------------------------------
+		function dateValid(objName) {
+			var strDate;
+			var strDateArray;
+			var strDay;
+			var strMonth;
+			var strYear;
+			var intday;
+			var intMonth;
+			var intYear;
+			var booFound = false;
+			var datefield = objName;
+			var strSeparatorArray = new Array("-"," ","/",".");
+			var intElementNr;
+			// var err = 0;
+			var strMonthArray = new Array(12);
+			strMonthArray[0] = "Jan";
+			strMonthArray[1] = "Feb";
+			strMonthArray[2] = "Mar";
+			strMonthArray[3] = "Apr";
+			strMonthArray[4] = "May";
+			strMonthArray[5] = "Jun";
+			strMonthArray[6] = "Jul";
+			strMonthArray[7] = "Aug";
+			strMonthArray[8] = "Sep";
+			strMonthArray[9] = "Oct";
+			strMonthArray[10] = "Nov";
+			strMonthArray[11] = "Dec";
+			//strDate = datefield.value;
+			strDate = objName;
+			if (strDate.length < 1) {
+				return true;
+			}
+			for (intElementNr = 0; intElementNr < strSeparatorArray.length; intElementNr++) {
+				if (strDate.indexOf(strSeparatorArray[intElementNr]) != -1) {
+					strDateArray = strDate.split(strSeparatorArray[intElementNr]);
+					if (strDateArray.length != 3) {
+						err = 1;
+						return false;
+					}
+					else {
+						strDay = strDateArray[0];
+						strMonth = strDateArray[1];
+						strYear = strDateArray[2];
+					}
+					booFound = true;
+				}
+			}
+			if (booFound == false) {
+				if (strDate.length>5) {
+					strDay = strDate.substr(0, 2);
+					strMonth = strDate.substr(2, 2);
+					strYear = strDate.substr(4);
+				}
+			}
+			//Adjustment for short years entered
+			if (strYear.length == 2) {
+				strYear = '20' + strYear;
+			}
+			strTemp = strDay;
+			strDay = strMonth;
+			strMonth = strTemp;
+			intday = parseInt(strDay, 10);
+			if (isNaN(intday)) {
+				err = 2;
+				return false;
+			}
+			intMonth = parseInt(strMonth, 10);
+			if (isNaN(intMonth)) {
+				for (i = 0;i<12;i++) {
+					if (strMonth.toUpperCase() == strMonthArray[i].toUpperCase()) {
+						intMonth = i+1;
+						strMonth = strMonthArray[i];
+						i = 12;
+					}
+				}
+				if (isNaN(intMonth)) {
+					err = 3;
+					return false;
+				}
+			}
+			intYear = parseInt(strYear, 10);
+			if (isNaN(intYear)) {
+				err = 4;
+				return false;
+			}
+			if (intMonth>12 || intMonth<1) {
+				err = 5;
+				return false;
+			}
+			if ((intMonth == 1 || intMonth == 3 || intMonth == 5 || intMonth == 7 || intMonth == 8 || intMonth == 10 || intMonth == 12) && (intday > 31 || intday < 1)) {
+				err = 6;
+				return false;
+			}
+			if ((intMonth == 4 || intMonth == 6 || intMonth == 9 || intMonth == 11) && (intday > 30 || intday < 1)) {
+				err = 7;
+				return false;
+			}
+			if (intMonth == 2) {
+				if (intday < 1) {
+					err = 8;
+					return false;
+				}
+				if (LeapYear(intYear) == true) {
+					if (intday > 29) {
+						err = 9;
+						return false;
+					}
+				}
+				else {
+					if (intday > 28) {
+						err = 10;
+						return false;
+					}
+				}
+			}
+			return true;
+		}
+		//-------------------------------------------------------------------
+		//--> Fim da Função
+		//-------------------------------------------------------------------
+		
+		//-------------------------------------------------------------------
+		//--> Verifica Ano Bissexto
+		//-------------------------------------------------------------------
+		function LeapYear(intYear) {
+			if (intYear % 100 == 0) {
+				if (intYear % 400 == 0) {
+					return true;
+				}
+			}
+			else {
+				if ((intYear % 4) == 0) {
+					return true;
+				}
+			}
+			return false;
+		}
+		//-------------------------------------------------------------------
+		//--> Fim da Função
+		//-------------------------------------------------------------------
+		
+		//-------------------------------------------------------------------
+		//--> Valida Campo Numérico
+		//-------------------------------------------------------------------
+		function Valida_Numero (num, ev, numCheck) {
+		  vNumeroValue = num.value
+		  var alpha1Check = " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ/-";
+		  if (alpha1Check.indexOf(vNumeroValue) >= 1) {
+			if (isNav4) {
+			  num.value = "";
+			  num.focus();
+			  num.select();
+			  return false;
+			}
+			else {
+			  num.value = num.value.substr(0, (vNumeroValue.length-1));
+			  return false;
+			}
+		  }  
+		//return true;
+		}
+		//-------------------------------------------------------------------
+		//--> Fim da Função
+		//-------------------------------------------------------------------
+		
+		//-------------------------------------------------------------------
+		//--> Corpo Principal
+		//-------------------------------------------------------------------
+		</script>
+		<script language="JavaScript">
+			<!--
+				var agt=navigator.userAgent.toLowerCase(); 
+				var ie=(agt.indexOf("msie") != -1); 
+				window.moveTo(0,0);
+				if (ie) { window.resizeTo(screen.availWidth,screen.availHeight); }
+				else {window.outerHeight = screen.availHeight; window.outerWidth = screen.availWidth;}
+			//-->
+		</script>	
+
+
+
+	</head>
+
+	<body class="template-layouts_topo portaltype-plone-site site-Camara userrole-anonymous" dir="ltr">
+      <div class="js-mmenu-container">
+    
+    <header class="l-cabecalho-portal" role="banner"><ul aria-label="Acesso direto" class="acesso-direto"><!-- Links para saltar diretamente para &#225;reas importantes da p&#225;gina accesskey 2 = conte&#250;do e 3 = navega&#231;&#227;o --><li>
+        <a class="acesso-direto__link" href="#main-content" accesskey="2">Ir ao conteúdo</a>
+      </li>
+      <li>
+        <a class="acesso-direto__link" href="#main-nav" accesskey="3">Ir à navegação principal</a>
+      </li>
+    </ul><!--[if lte IE 9]>
+      <p class="browserupgrade">Voc&#234; est&#225; usando um navegador <strong>defasado</strong>. Por favor, <a href="https://browsehappy.com/">atualize seu navegador</a> para melhorar sua experi&#234;ncia e sua seguran&#231;a.</p>
+      <![endif]--><div class="nav-top">
+     <div class="container nav-top--container">
+
+        <ul title="Ferramentas de apoio" class="links-apoio {{#if menu}}links-apoio--menu-global{{/if}}"><li class="links-apoio__item links-apoio__item--acessibilidade">
+            <a href="//www2.camara.leg.br/acessibilidade/recursos-de-acessibilidade" accesskey="0">Acessibilidade</a>
+          </li>
+          <li class="links-apoio__item links-apoio__item--faleconosco">
+            <a href="https://camara.custhelp.com/" accesskey="9">Fale Conosco</a>
+          </li>
+          <li class="links-apoio__item links-apoio__item--acessoinfo">
+            <a href="//www2.camara.leg.br/transparencia/acesso-a-informacao">Acesso à Informação</a>
+          </li>
+        </ul><ul class="orgaos-parceiros" aria-label="Órgãos parceiros"><li class="orgaos-parceiros__item orgaos-parceiros__item--congresso">
+            <a href="https://www.congressonacional.leg.br/">
+              <span>Congresso</span>
+            </a>
+          </li>
+          <li class="orgaos-parceiros__item orgaos-parceiros__item--senado">
+            <a href="https://www12.senado.leg.br/">
+              <span>Senado</span>
+            </a>
+          </li>
+          <li class="orgaos-parceiros__item orgaos-parceiros__item--tcu">
+            <a href="https://portal.tcu.gov.br">
+              <span>Tribunal de Contas da União</span>
+            </a>
+          </li>
+        </ul></div>
+    </div>
+    
+    <div id="home-camara-menu">
+  <nav class="menu-global navbar navbar-expand-lg" role="navigation" aria-label="Navegação principal" id="menuglobal"><div class="container menu-global--container">
+      <a href="//www.camara.leg.br" class="menu-global__logo navbar-brand" accesskey="1">
+        <span class="sr-only">Página inicial</span>
+      </a>
+
+      <!-- icone menu -->
+      <button class="menu-global--btnmenu navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="menu-global--icon"></span>
+      </button>
+
+      <!-- icone busca -->
+      <button class="menu-global--btnsearch" type="button" data-toggle="collapse" data-target="#buscaportal" aria-controls="buscaportal" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="fa fa-search"></span>
+      </button>
+
+      <div class="navbar-collapse hidden-sm hidden-md hidden-xs" id="navbarportal">
+        <ul aria-label="Navegação Principal" id="main-nav" class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a class="menu-global__item-institucional nav-link dropdown-toggle" href="#" id="institucional" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Institucional</a>
+            <ul class="dropdown-menu" aria-labelledby="institucional">
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/transparencia/">Transparência</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/a-camara/estruturaadm/mesa/presidencia">Presidência</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/historia-e-arquivo/">História e arquivo</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/papel-e-estrutura/">Papel e estrutura</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/biblioteca-e-publicacoes/">Biblioteca e publicações</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/programas-educacionais/">Programas educacionais</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/a-camara/visiteacamara">Visite</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="menu-global__item-deputados nav-link dropdown-toggle" href="#" id="deputados" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Deputados</a>
+            <ul class="dropdown-menu" aria-labelledby="deputados">
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/deputados/pesquisa">Quem são</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/deputados/liderancas-partidarias">Lideranças e bancadas</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/deputados/frentes-e-grupos-parlamentares">Frentes e grupos parlamentares</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="menu-global__item-atvlegislativa nav-link dropdown-toggle" href="#" id="atvlegislativa" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Atividade Legislativa</a>
+            <ul class="dropdown-menu" aria-labelledby="atvlegislativa">
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/agenda">Agenda</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/busca-portal/proposicoes/pesquisa-simplificada">Propostas legislativas</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/plenario">Plenário</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/comissoes">Comissões</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/discursos-e-notas-taquigraficas">Discursos e debates</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/estudos-e-notas-tecnicas">Estudos legislativos</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/orcamento-da-uniao">Orçamento da União</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/legislacao">Legislação</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/entenda-o-processo-legislativo/">Entenda o processo legislativo</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/atividade-legislativa/participe">Participe</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="menu-global__item-comunicacao nav-link dropdown-toggle" href="#" id="comunicacao" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Comunicação</a>
+            <ul class="dropdown-menu" aria-labelledby="comunicacao">
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/camaranoticias">Notícias</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/camaranoticias/tv">TV Câmara</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/camaranoticias/radio">Rádio Câmara</a></li>
+              <li class="dropdown-item"><a href="https://www2.camara.leg.br/comunicacao/assessoria-de-imprensa">Assessoria de Imprensa</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/banco-imagens">Banco de Imagens</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="menu-global__item-temas nav-link dropdown-toggle" href="#" id="temas" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Assuntos</a>
+            <ul class="dropdown-menu" aria-labelledby="temas">
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/agropecuaria">Agropecuária</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/cidades-e-transportes">Cidades e transportes</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/ciencia-tecnologia-e-comunicacoes">Ciência, tecnologia e comunicações</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/consumidor">Consumidor</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/direitos-humanos">Direitos humanos</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/economia">Economia</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/educacao-cultura-e-esportes">Educação, cultura e esportes</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/meio-ambiente-e-energia">Meio ambiente e energia</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/politica-e-administracao-publica">Política e administração pública</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/relacoes-exteriores">Relações exteriores</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/saude">Saúde</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/seguranca">Segurança</a></li>
+              <li class="dropdown-item"><a href="https://www.camara.leg.br/temas/trabalho-previdencia-e-assistencia">Trabalho, previdência e assistência</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div class="collapse box-search" id="buscaportal">
+	  
+		<form role="search" accesskey="4" class="box-search__busca form-inline" method="get" action="https://www.camara.leg.br/busca-portal">
+            <label for="termo-busca-geral" class="sr-only box-search__label">Pesquise no Portal da Câmara</label>
+            <input class="form-control box-search__campo" type="search" name="pesquisa" id="termo-busca-geral" placeholder="Buscar" aria-label="Search">
+            <button class="btn sr-only box-search__botao" type="submit">Buscar</button>
+        </form>
+        <!--<form role="search" accesskey="4" class="box-search__busca form-inline">
+		<form role="search" accesskey="4" class="box-search__busca form-inline" method="get" action="https://www.camara.leg.br/busca-portal">
+          <label for="termo-busca-geral" class="sr-only box-search__label">Pesquise no Portal da Câmara</label>
+          <input class="form-control box-search__campo" type="search" name="termo" id="termo-busca-geral" placeholder="O que você busca ?" aria-label="Search">
+		  <button class="btn sr-only box-search__botao" type="submit" name="pesquisar">
+            Buscar
+          </button>
+          <!-- Colque aqui a estrutura de seu formulário de busca -->
+        </form>
+      </div>
+    </div>
+  </nav></div>
+	
+    
+  </header>
+		<div id="portal-top" class="diazo_layouts_topo">
+		
+
+      
+			<div class="breadcrumbs-marcacao">
+        <div class="container">
+				<div id="portal-breadcrumbs">
+
+					<span id="breadcrumbs-home">
+        <a href="//www2.camara.leg.br">Página Inicial</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+					</span>
+					<a href='//www2.camara.leg.br/a-camara/'>Institucional</a> /  <a href='//www2.camara.leg.br/a-camara/documentos-e-pesquisa/'>Publicações e Acervos</a> / <a href='//www2.camara.leg.br/a-camara/documentos-e-pesquisa/diariosdacamara'>Boletins, Diários e Anais</a> / Diários da Câmara dos Deputados
+
+        </div></div>
+
+        <div class="row">
+            <div id="menu-secoes-internas" class="col-md-12 menu-secoes-internas"><div id="portal-mainsection">
+      <div class="l-identificacao-landing">
+        <div class="container">
+          <h1 class="titulo-landing"><a href="//imagem.camara.leg.br/diarios.asp">Diários da Câmara dos Deputados</a></h1>
+        </div>
+      </div>
+    </div></div>
+          </div>
+        
+        
+			</div>
+		</div>
+		<div id="marcacao-conteudo-portal" class="conteudo-portal container nopadding-right nopadding-left">
+
+<div class="coluna-centro col-md-12">
+<div id="portal-column-content" class="sl">
+    <div id="portal-content-wrapper">
+         <div id="region-content" class="documentContent">
+                <a name="documentContent"></a>
+                <div id="content">
+				
+		<div class="panel panel-default">
+		<div class="panel-heading">Pesquisa em Diários</div>
+		<div class="panel-body">
+
+	<form class="form" action ="" method="post" name="frm_dcd" id="frm_dcd">
+		<input type="hidden" name="largura">
+		<input type="hidden" name="altura">
+		<input type="hidden" name="tipoForm" value="diarios">		
+
+<div class="row">
+		
+		<div class="form-group col-sm-3">
+					<label for="selCodColecaoCsv">Coleção:</label>
+					<select name="selCodColecaoCsv" id="selCodColecaoCsv" size="1" onclick="if (selCodColecaoCsv.value == 'C') return proxPagina(frm_dcd)">
+					
+						<option value="D" selected>Diários da Câmara dos Deputados</OPTION>
+						<option value="J" >Diários do Congresso Nacional</OPTION>
+						<option value="C">Assembléias Nacionais Constituintes</OPTION>
+						<option value="A">Anais da Câmara dos Deputados</OPTION></SELECT>
+					
+				</div>
+
+				<div class="form-group col-sm-2">
+					<label for="Datain">Data:</label>
+					<input class="form-control" name="Datain" title="Informe a data no formato DDMMAAAA"  maxlength="10" onKeyPress="DateFormat(this,event,false)" onBlur="DateFormat(this,event,true)">
+				</div>
+    			<div class="form-group col-sm-2">
+					<label for="txPagina">Página Inicial:</label>
+					<input class="form-control" id="txPagina" onKeyUp="Valida_Numero(this,event,false)" maxLength="6" name="txPagina">
+				</div>
+    			<div class="form-group col-sm-3">
+					<label for="txSuplemento">Suplemento:</label>
+					<select name="txSuplemento" id="txSuplemento"  class="form-control">
+						<option value="" SELECTED>---</OPTION>
+						<option value="1">Suplemento</OPTION>
+						<option value="2">Suplemento - A</OPTION>
+						<option value="3">Suplemento - B</OPTION>
+						<option value="4">Suplemento - C</OPTION>
+						<option value="5">Suplemento - D</OPTION>
+						<option value="6">Suplemento - E</OPTION>
+						<option value="7">Suplemento - F</OPTION>
+						<option value="8">Suplemento - G</OPTION>
+						<option value="9">Suplemento - H</OPTION>
+						<option value="10">Suplemento - I</OPTION>
+						<option value="11">Suplemento - J</OPTION>
+						<option value="12">Suplemento - K</OPTION>
+						<option value="13">Suplemento - L</OPTION>
+						<option value="14">Suplemento - M</OPTION>
+						<option value="15">Suplemento - N</OPTION>
+						<option value="16">Suplemento - O</OPTION>
+						<option value="17">Suplemento - P</OPTION>
+						<option value="18">Suplemento - Q</OPTION>
+						<option value="19">Suplemento - R</OPTION>
+						<option value="20">Suplemento - S</OPTION>
+						<option value="21">Suplemento - T</OPTION>
+						<option value="22">Suplemento - U</OPTION>
+						<option value="23">Suplemento - V</OPTION>
+						<option value="24">Suplemento - W</OPTION>
+						<option value="25">Suplemento - X</OPTION>
+						<option value="26">Suplemento - Y</OPTION>
+					</select>
+				</div>
+				</div>
+				<div>
+      				<input class="btn btn-primary" id="enviar" onClick="return proxPagina(frm_dcd);" type="submit" value="Pesquisar" name="enviar"> 
+				
+				</div>
+
+	</form>
+	</div>
+	<div class="panel-footer">
+		<span class="glyphicon glyphicon-link" aria-hidden="true"></span> <a href="pesquisa_diario_basica.asp">Pesquisa anual - Calendário &raquo;</a>
+	</div>
+	</div>
+	
+	<div class="well">
+	<p>
+		<b>Acervo:</b><br />
+		Estão disponíveis as seguintes publicações 
+		oficiais da Câmara dos Deputados:
+		<br /><br />
+		1) <b>Diários da Câmara dos Deputados</b>:&nbsp;a partir de 16 de novembro de 1890. <br /> 
+		<ul>
+			<blockquote>
+			<p> Histórico dos nomes da Coleção de Diários da Câmara dos Deputados: </p>
+			<ul>
+				<li>De 1890 a 1917, Diário do Congresso Nacional - Estados Unidos do Brazil; </li>
+				<li>De 1917 a 1930, Diário do Congresso Nacional - Estados Unidos do Brasil; </li>
+				<li>Em 1934, Diário da Câmara dos Deputados - Estados Unidos do Brasil; </li>
+				<li>De 1934 a 1937, Diário do Poder Legislativo - Estados Unidos do Brasil; </li>
+				<li>De 1946 a 1953, Diário do Congresso Nacional - Estados Unidos do Brasil; </li>
+				<li>De 1953 a 1995, Diário do Congresso Nacional - Seção I;</li>
+				<li>De 1995 até hoje, Diário da Câmara dos Deputados. </li>
+			</ul>
+			</blockquote>
+		</ul>
+		2) <b>Diários do Congresso Nacional</b>:&nbsp;a partir de 1º de agosto de 1953. <br />
+		3) <b>Anais da Câmara dos Deputados</b>:&nbsp;29 de abril de 1826 a 17 de junho de 1974.<br />
+		4) <b>Anais e Diários das Assembléias Constituintes</b>:&nbsp; 17 de abril de 1823 a 01 de junho de 1994.<br />
+	</p>
+
+	</div>
+<p>
+<span class="glyphicon glyphicon-link" aria-hidden="true"></span>
+<a  href="dicas.asp"><b>Ajuda</b></a>&nbsp;&nbsp;&nbsp;
+<span class="glyphicon glyphicon-link" aria-hidden="true"></span> 
+<a href="ajuda/Solução para visualizar diários e anais da câmara.pdf"><b>Problemas na visualiza&ccedil;&atilde;o dos di&aacute;rios? Saiba como solucionar</b></a>
+</p>	
+
+</div></div></div></div></div>
+</div>
+
+<!-- início da estrutura do rodape -->
+    <footer role="contentinfo" class="rodape-portal">
+
+      <!-- Coloque aqui a lista de redes sociais da Câmara -->
+      <div class="rodape-portal-links rodape-portal-links--redes-sociais">
+          <div class="container">
+              <ul class="rodape-portal-links__lista" aria-label="Câmara nas redes sociais">
+                  <li class="rodape-portal-links__item">
+                      <a href="https://t.me/CamaradosDeputados" class="rodape-portal-links__link">
+                          <span class="g-social-icon-outline g-social-icon-outline--telegram" aria-hidden="true"></span>
+                          <span class="sr-only">Telegram</span>
+                      </a>
+                  </li>
+                  <li class="rodape-portal-links__item">
+                      <a href="https://www.facebook.com/camaradeputados" class="rodape-portal-links__link">
+                          <span class="g-social-icon-outline g-social-icon-outline--facebook" aria-hidden="true"></span>
+                          <span class="sr-only">Facebook</span>
+                      </a>
+                  </li>
+
+                  <li class="rodape-portal-links__item">
+                      <a href="https://twitter.com/camaradeputados" class="rodape-portal-links__link">
+                          <span class="g-social-icon-outline g-social-icon-outline--twitter" aria-hidden="true"></span>
+                          <span class="sr-only">Twitter</span>
+                      </a>
+                  </li>
+
+                  <li class="rodape-portal-links__item">
+                      <a href="https://www.youtube.com/channel/UC-ZkSRh-7UEuwXJQ9UMCFJA" class="rodape-portal-links__link">
+                          <span class="g-social-icon-outline g-social-icon-outline--youtube" aria-hidden="true"></span>
+                          <span class="sr-only">Youtube</span>
+                      </a>
+                  </li>
+
+                  <li class="rodape-portal-links__item">
+                      <a href="https://www.instagram.com/camaradeputados" class="rodape-portal-links__link">
+                          <span class="g-social-icon-outline g-social-icon-outline--instagram" aria-hidden="true"></span>
+                          <span class="sr-only">Instagram</span>
+                      </a>
+                  </li>
+              </ul>
+          </div>
+      </div>
+      <!-- Coloque aqui o endereço e demais informações de assinatura -->
+      <address class="rodape-portal-info">
+          <div class="container">
+
+              <div class="rodape-portal-info__nome">
+                  <p>
+                      <strong>56ª Legislatura - 3ª Sessão Legislativa Ordinária</strong>
+                  </p>
+              </div>
+
+              <div class="l-rodape-info">
+                  <div class="l-rodape-info__local rodape-portal-info__texto">
+                      <span class="rodape-info">Câmara dos Deputados - Palácio do Congresso Nacional - Praça dos Três Poderes</span>
+                      <span class="rodape-info">Brasília - DF - Brasil - CEP 70160-900</span>
+                      <span class="rodape-info"><span class="rodape-info__destaque">CNPJ:</span> 00.530.352/0001-59</span>
+                  </div>
+
+                  <div class="l-rodape-info__telefones rodape-portal-info__texto">
+                      <ul class="list-unstyled" aria-label="Número para contato e horário de atendimento">
+                          <li><span class="rodape-info__destaque">Disque-Câmara:</span> 0800-0-619-619, de 9h às 19h</li>
+                          <li><span class="rodape-info__destaque">Atendimento presencial:</span> de 9h às 19h</li>
+                      </ul>
+                  </div>
+              </div>
+              <div class="acesso-provedor text-right">
+                <a title="Autenticar-se no site" href="/login_form">
+                  <i class="fas fa-lock" aria-hidden="true"></i>
+                </a>
+              </div>
+          </div>
+      </address>
+
+      <!-- Coloque aqui a lista de links de apoio do rodapé -->
+      <div class="rodape-portal-links rodape-portal-links--apoio">
+          <div class="container">
+              <ul class="rodape-portal-links__lista" aria-label="Links de apoio">
+                  <li class="rodape-portal-links__item">
+                      <a href="https://www2.camara.leg.br/sobre-o-portal" class="rodape-portal-links__link">Sobre o Portal</a>
+                  </li>
+
+                <li class="rodape-portal-links__item">
+                    <a href="https://www2.camara.leg.br/termo-de-uso-e-politica-de-privacidade" class="rodape-portal-links__link">Termos de Uso</a>
+                </li>
+
+                  <li class="rodape-portal-links__item">
+                      <a href="https://www2.camara.leg.br/aplicativos/" class="rodape-portal-links__link">Aplicativos</a>
+                  </li>
+
+                  <li class="rodape-portal-links__item">
+                      <a href="https://camaranet.camara.leg.br" class="rodape-portal-links__link">Extranet</a>
+                  </li>
+              </ul>
+          </div>
+      </div>
+    </footer>
+<!-- Fim da estrutura do rodape -->
+</div>
+</body>
+
+</html>
+
+<script>
+// function redirecionarSeGov() {
+//  if (window.location.href.indexOf("imagem.camara.gov.br") != -1) {
+//     window.location.href = "http://imagem.camara.leg.br/diarios.asp";
+//   }
+// }
+// redirecionarSeGov();
+</script>

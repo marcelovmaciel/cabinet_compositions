@@ -1,0 +1,142 @@
+[
+  {
+    "party": "psdb",
+    "source_count": 27532
+  },
+  {
+    "party": "pmdb",
+    "source_count": 25434
+  },
+  {
+    "party": "dem",
+    "source_count": 18599
+  },
+  {
+    "party": "psc",
+    "source_count": 14155
+  },
+  {
+    "party": "pp",
+    "source_count": 14033
+  },
+  {
+    "party": "pt",
+    "source_count": 13838
+  },
+  {
+    "party": "pdt",
+    "source_count": 12132
+  },
+  {
+    "party": "pr",
+    "source_count": 11413
+  },
+  {
+    "party": "pps",
+    "source_count": 5450
+  },
+  {
+    "party": "psb",
+    "source_count": 5220
+  },
+  {
+    "party": "ptb",
+    "source_count": 4980
+  },
+  {
+    "party": "prtb",
+    "source_count": 3929
+  },
+  {
+    "party": "phs",
+    "source_count": 2948
+  },
+  {
+    "party": "psol",
+    "source_count": 2858
+  },
+  {
+    "party": "prb",
+    "source_count": 2769
+  },
+  {
+    "party": "ptdob",
+    "source_count": 2394
+  },
+  {
+    "party": "pmn",
+    "source_count": 2363
+  },
+  {
+    "party": "ptc",
+    "source_count": 2254
+  },
+  {
+    "party": "pcdob",
+    "source_count": 1598
+  },
+  {
+    "party": "prp",
+    "source_count": 1429
+  },
+  {
+    "party": "psl",
+    "source_count": 1124
+  },
+  {
+    "party": "pv",
+    "source_count": 1061
+  },
+  {
+    "party": "ptn",
+    "source_count": 774
+  },
+  {
+    "party": "ppl",
+    "source_count": 704
+  },
+  {
+    "party": "pros",
+    "source_count": 694
+  },
+  {
+    "party": "pcb",
+    "source_count": 553
+  },
+  {
+    "party": "pstu",
+    "source_count": 515
+  },
+  {
+    "party": "pen",
+    "source_count": 442
+  },
+  {
+    "party": "psd",
+    "source_count": 404
+  },
+  {
+    "party": "psdc",
+    "source_count": 383
+  },
+  {
+    "party": "rede",
+    "source_count": 331
+  },
+  {
+    "party": "sd",
+    "source_count": 290
+  },
+  {
+    "party": "novo",
+    "source_count": 75
+  },
+  {
+    "party": "pco",
+    "source_count": 37
+  },
+  {
+    "party": "pmb",
+    "source_count": 8
+  }
+]

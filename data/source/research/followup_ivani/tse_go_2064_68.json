@@ -1,0 +1,16 @@
+{
+  "party": "PCB",
+  "id": 68,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=68&currentPage=0&pageSize=10000",
+      "records": 4,
+      "totalElements": 4,
+      "response_sha256": "e350275c40f2e328f880ba92b8e878eff41a95396d2ca19d3a040b6560abfb30",
+      "retrieved_utc": "2026-09-10T23:35:31Z"
+    }
+  ],
+  "matches": []
+}

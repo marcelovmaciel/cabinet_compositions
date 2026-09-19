@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "PCDOB",
+  "id": 45,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 6654,
+      "totalElements": 6654,
+      "response_sha256": "52a172581d41b6d60e4f4110e25ac64f261a5397084577ec567263e84b2badb8",
+      "retrieved_utc": "2026-09-10T23:42:16Z"
+    }
+  ],
+  "matches": []
+}

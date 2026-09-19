@@ -1,0 +1,21 @@
+{
+  "party": "PSB",
+  "id": 49,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=49&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 15262,
+      "response_sha256": "6923306892f46aec8423b8aafe8149cfced3aad01797effdd3c979e4af1d8909",
+      "retrieved_utc": "2026-09-10T23:46:56Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=49&currentPage=1&pageSize=10000",
+      "records": 5262,
+      "totalElements": 15262,
+      "response_sha256": "532cda9aa7e5ea6d52a5d68fbd54b9b46b3a0f3fb28600a9037a1d2ec97a8a0c",
+      "retrieved_utc": "2026-09-10T23:47:06Z"
+    }
+  ],
+  "matches": []
+}

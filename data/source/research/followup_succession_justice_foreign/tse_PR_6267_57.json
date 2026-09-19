@@ -1,0 +1,17 @@
+{
+  "party": "AGIR",
+  "id": 57,
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "Londrina",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 150,
+      "totalElements": 150,
+      "response_sha256": "3f8c878492815aed5c82e6d6611301dd65e44590d158c4347f5011548a2faa61",
+      "retrieved_utc": "2026-09-10T23:39:37Z"
+    }
+  ],
+  "matches": []
+}

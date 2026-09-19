@@ -1,0 +1,16 @@
+{
+  "party": "REDE",
+  "id": 64,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=64&currentPage=0&pageSize=10000",
+      "records": 201,
+      "totalElements": 201,
+      "response_sha256": "5001df81fba619a1bdafbb2e0d4384fbd2e370c41c3a00903bb6ac0a289fba92",
+      "retrieved_utc": "2026-09-10T23:36:53Z"
+    }
+  ],
+  "matches": []
+}

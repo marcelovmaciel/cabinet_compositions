@@ -1,0 +1,16 @@
+{
+  "uf": "RS",
+  "municipio": "7733",
+  "party": "PCDOB",
+  "id": 45,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 28,
+      "totalElements": 28,
+      "response_sha256": "e6552b5be04b8ad41813e798a7f69b0c228a1671681c76e527c1811b48eb5742",
+      "retrieved_utc": "2026-09-11T01:12:00Z"
+    }
+  ],
+  "matches": []
+}

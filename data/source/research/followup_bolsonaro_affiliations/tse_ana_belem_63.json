@@ -1,0 +1,21 @@
+{
+  "party": "PSOL",
+  "id": 63,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 19915,
+      "response_sha256": "0b71c6ccd147cbf19164a7d3e822c2dbb1080f50fe03a97dd15cd0742495c1d6",
+      "retrieved_utc": "2026-09-10T23:49:27Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=63&currentPage=1&pageSize=10000",
+      "records": 9915,
+      "totalElements": 19915,
+      "response_sha256": "b1fa01b8219a0ced0059c995c4d939ffd7ba5a5fd39906ad514836be962b3950",
+      "retrieved_utc": "2026-09-10T23:49:59Z"
+    }
+  ],
+  "matches": []
+}

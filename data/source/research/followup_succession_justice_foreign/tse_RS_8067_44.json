@@ -1,0 +1,17 @@
+{
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "uf": "RS",
+  "municipio": "8067",
+  "city": "Sananduva",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 1,
+      "totalElements": 1,
+      "response_sha256": "820a4ed26c340760a029f24a145f5a3084202a184d94d4923318af412de4c9fb",
+      "retrieved_utc": "2026-09-10T23:37:57Z"
+    }
+  ],
+  "matches": []
+}

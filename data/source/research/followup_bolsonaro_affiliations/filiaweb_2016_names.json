@@ -1,0 +1,24 @@
+[
+  {
+    "name_query": "IVANI DOS SANTOS",
+    "url": "https://www.filiaweb.com/filiacaos/busca",
+    "status": 200,
+    "retrieval_date": "2026-09-10",
+    "claimed_snapshot_date": "2016-07-27",
+    "html_sha256": "3fa15d2518f93024d50fb9bba281ad87850d572451590d25ae1f93cc95f916eb",
+    "result_summary": "Global token search capped50; returned unrelatedpartialnames, no scope-relevant exactmatch in rendered result",
+    "scoped_matches": [],
+    "unrelated_person_rows_retained": false
+  },
+  {
+    "name_query": "CARLOS HENRIQUE MENEZES SOBRAL",
+    "url": "https://www.filiaweb.com/filiacaos/busca",
+    "status": 200,
+    "retrieval_date": "2026-09-10",
+    "claimed_snapshot_date": "2016-07-27",
+    "html_sha256": "3940edabc81e307e4946a942b80992725f67d864c8e0c57aaff0fa615d492c79",
+    "result_summary": "No results returned for full-namequery",
+    "scoped_matches": [],
+    "unrelated_person_rows_retained": false
+  }
+]

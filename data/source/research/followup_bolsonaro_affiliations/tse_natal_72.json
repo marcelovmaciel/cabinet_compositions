@@ -1,0 +1,14 @@
+{
+  "party": "UNIÃO",
+  "id": 72,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=72&currentPage=0&pageSize=10000",
+      "records": 3059,
+      "totalElements": 3059,
+      "response_sha256": "d2fc7c42a32efba8d4bad24d27c153477eb4a0b95ca04356c8a1dd1dc51e1274",
+      "retrieved_utc": "2026-09-10T23:43:36Z"
+    }
+  ],
+  "matches": []
+}

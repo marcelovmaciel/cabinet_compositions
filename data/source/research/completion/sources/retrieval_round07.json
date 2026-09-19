@@ -1,0 +1,19 @@
+[
+  {
+    "name": "dou_14feb2020_p1",
+    "url": "https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=14%2F02%2F2020&jornal=529&pagina=1",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "name": "dou_extra14feb2020",
+    "url": "https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=14%2F02%2F2020&jornal=604&pagina=1",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
+    "name": "cidadania_boletim08_2020",
+    "url": "https://www.mds.gov.br/webarquivos/intranet/boletins_servicos/2020/Boletim%2008.pdf",
+    "status": 200,
+    "content_type": "application/pdf",
+    "size": 526532
+  }
+]

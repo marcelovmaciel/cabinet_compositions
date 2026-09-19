@@ -1,0 +1,24 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "PP",
+  "id": 69,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=69&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 10200,
+      "response_sha256": "9ffa1685689bb334e9797972c748b21a25e085bdf1b099d740a1cdb0c319eb46",
+      "retrieved_utc": "2026-09-10T23:38:06Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=69&currentPage=1&pageSize=10000",
+      "records": 200,
+      "totalElements": 10200,
+      "response_sha256": "601a77056098707dc7a29ae2b25bab61b6b1e2502eef9fc01bd16c0d08043fc5",
+      "retrieved_utc": "2026-09-10T23:38:07Z"
+    }
+  ],
+  "matches": []
+}

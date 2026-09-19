@@ -1,0 +1,17 @@
+{
+  "uf": "PA",
+  "municipio": "4563",
+  "city": "BELÉM",
+  "party": "PDT",
+  "id": 70,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 3838,
+      "totalElements": 3838,
+      "response_sha256": "61d18cb9bdc1c31ac90f3247315bff8af1b885477038882d53aa18082eea2b62",
+      "retrieved_utc": "2026-09-10T23:39:07Z"
+    }
+  ],
+  "matches": []
+}

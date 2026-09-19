@@ -1,0 +1,1997 @@
+{
+  "target_name": "LUIZ PONTEL DE SOUZA",
+  "retrieval_civil_date": "2026-09-10",
+  "universe": "All 39 party identifiers returned by official TSE public app, for the three specified municipalities only; current response, not a dated 2020 snapshot",
+  "negative_scope_warning": "No exact-name match does not establish non-affiliation, a past departure date, or absence outside these localities.",
+  "queries": [
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PRD",
+      "id": 182,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=182&currentPage=0&pageSize=10000",
+          "records": 2668,
+          "totalElements": 2668,
+          "response_sha256": "7515878bdf191073062adcb09a2aeaf0f4036ab11dcdee0e14c232797c7f9226",
+          "retrieved_utc": "2026-09-11T00:59:37Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "MISSÃO",
+      "id": 183,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=183&currentPage=0&pageSize=10000",
+          "records": 140,
+          "totalElements": 140,
+          "response_sha256": "dc8d1aaed97de98193a631a9370996e61e2b3f838e9df236ac6492a81ecaea19",
+          "retrieved_utc": "2026-09-11T00:59:23Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PRP",
+      "id": 36,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=36&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:34Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PCO",
+      "id": 37,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=37&currentPage=0&pageSize=10000",
+          "records": 15,
+          "totalElements": 15,
+          "response_sha256": "b199b2ac6d2d81e4e3c78a372096ab7c04bfc3c9beb49d716e8b795374ccf331",
+          "retrieved_utc": "2026-09-11T00:59:25Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PL",
+      "id": 38,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=38&currentPage=0&pageSize=10000",
+          "records": 1753,
+          "totalElements": 1753,
+          "response_sha256": "28d669c7e6af72848abc19aea282c9505829b567214e43ce150a0d04519528db",
+          "retrieved_utc": "2026-09-11T00:59:30Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PRTB",
+      "id": 39,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=39&currentPage=0&pageSize=10000",
+          "records": 202,
+          "totalElements": 202,
+          "response_sha256": "f547046ea2814ee51d0ea83bea09d9141bdfb333cd1fc798d6040044d1a697f0",
+          "retrieved_utc": "2026-09-11T00:59:35Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PHS",
+      "id": 40,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=40&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:25Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PTB",
+      "id": 41,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=41&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:40Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "MDB",
+      "id": 42,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=42&currentPage=0&pageSize=10000",
+          "records": 9883,
+          "totalElements": 9883,
+          "response_sha256": "f2f35afa74e4781a21736bbfa883e5b28e90857c3bfb55a8b2140802cfe77a44",
+          "retrieved_utc": "2026-09-11T00:59:33Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PODE",
+      "id": 43,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=43&currentPage=0&pageSize=10000",
+          "records": 1296,
+          "totalElements": 1296,
+          "response_sha256": "2070ac4f34feff71664bd317f9ed4828a2b236e72e395834a02c693073e8c22b",
+          "retrieved_utc": "2026-09-11T00:59:31Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "SOLIDARIEDADE",
+      "id": 44,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=44&currentPage=0&pageSize=10000",
+          "records": 269,
+          "totalElements": 269,
+          "response_sha256": "209d6b874a829bbe6adcf32ed41d13adb576b4438b90d9a64e151459d131b674",
+          "retrieved_utc": "2026-09-11T00:59:41Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PCDOB",
+      "id": 45,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=45&currentPage=0&pageSize=10000",
+          "records": 241,
+          "totalElements": 241,
+          "response_sha256": "8cccd8dfe07159d34a9b79edb29ff89e1829a907b8f85c6732bbc23c6aaabbe3",
+          "retrieved_utc": "2026-09-11T00:59:25Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "CIDADANIA",
+      "id": 46,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=46&currentPage=0&pageSize=10000",
+          "records": 739,
+          "totalElements": 739,
+          "response_sha256": "73733a4f6092d49c25904e1cb4d55f05e892f25b1b5b81959b2ca612105860ba",
+          "retrieved_utc": "2026-09-11T00:59:21Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PT",
+      "id": 47,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=47&currentPage=0&pageSize=10000",
+          "records": 3859,
+          "totalElements": 3859,
+          "response_sha256": "c7952e042eb6f140acebeba99aba028db0e9a780dd914226bc83dabdde5dfca3",
+          "retrieved_utc": "2026-09-11T00:59:47Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "MOBILIZA",
+      "id": 48,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=48&currentPage=0&pageSize=10000",
+          "records": 304,
+          "totalElements": 304,
+          "response_sha256": "ce58e713a71c8a384ad9dd13d8a53edf9fbd90fb1752da67a853df11cb7a0e8c",
+          "retrieved_utc": "2026-09-11T00:59:23Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PSB",
+      "id": 49,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=49&currentPage=0&pageSize=10000",
+          "records": 899,
+          "totalElements": 899,
+          "response_sha256": "9b08e8421a0655c6f0bad36768aa7794db8e1b96790828e79088116765f00536",
+          "retrieved_utc": "2026-09-11T00:59:37Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "AVANTE",
+      "id": 50,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=50&currentPage=0&pageSize=10000",
+          "records": 324,
+          "totalElements": 324,
+          "response_sha256": "996bad0b8e8eb3596591e0d1ccc7fbf8bcc31790df0a3d04c3b087cdcbb14aca",
+          "retrieved_utc": "2026-09-11T00:59:19Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "REPUBLICANOS",
+      "id": 51,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=51&currentPage=0&pageSize=10000",
+          "records": 925,
+          "totalElements": 925,
+          "response_sha256": "b4b45ecba4ecb698c7aa03e27b15d83415037836b0d2407b7a0f480af2d93114",
+          "retrieved_utc": "2026-09-11T00:59:17Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PV",
+      "id": 52,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=52&currentPage=0&pageSize=10000",
+          "records": 472,
+          "totalElements": 472,
+          "response_sha256": "39992e90339113d14e1a485c50b366a7cd94c53d9be5c2f501e23a9caddf1c56",
+          "retrieved_utc": "2026-09-11T00:59:41Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PSD",
+      "id": 53,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=53&currentPage=0&pageSize=10000",
+          "records": 504,
+          "totalElements": 504,
+          "response_sha256": "0169f34b78a06b12e4319392b7d269c6bee7b15ff9b2744856dbb7ed8f2701e8",
+          "retrieved_utc": "2026-09-11T00:59:39Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PATRIOTA",
+      "id": 54,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=54&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:24Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PSC",
+      "id": 55,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=55&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:38Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PSDB",
+      "id": 56,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=56&currentPage=0&pageSize=10000",
+          "records": 3046,
+          "totalElements": 3046,
+          "response_sha256": "30e5cdbcb7e4e2b91e3e8c1c51086c44613aa6c0aca6c10405e13bf1b07879de",
+          "retrieved_utc": "2026-09-11T00:59:22Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "AGIR",
+      "id": 57,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=57&currentPage=0&pageSize=10000",
+          "records": 150,
+          "totalElements": 150,
+          "response_sha256": "3f8c878492815aed5c82e6d6611301dd65e44590d158c4347f5011548a2faa61",
+          "retrieved_utc": "2026-09-11T00:59:18Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "NOVO",
+      "id": 58,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=58&currentPage=0&pageSize=10000",
+          "records": 408,
+          "totalElements": 408,
+          "response_sha256": "45867910743e9ee5a4c99fc15439676b053968d3411f2952ef389a1e7824070d",
+          "retrieved_utc": "2026-09-11T00:59:24Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "DC",
+      "id": 59,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=59&currentPage=0&pageSize=10000",
+          "records": 221,
+          "totalElements": 221,
+          "response_sha256": "882dea0a088af3b8ca87948ed5ac58fb108a1d1088df9d3a2ca737edad360a85",
+          "retrieved_utc": "2026-09-11T00:59:22Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "DEMOCRATA",
+      "id": 60,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=60&currentPage=0&pageSize=10000",
+          "records": 81,
+          "totalElements": 81,
+          "response_sha256": "28f0059eb128ca962c9060507522ac9d30cb4c2976f5c955c3d36796b2ae0905",
+          "retrieved_utc": "2026-09-11T00:59:22Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PSL",
+      "id": 61,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=61&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:38Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "DEM",
+      "id": 62,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=62&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:22Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PSOL",
+      "id": 63,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=63&currentPage=0&pageSize=10000",
+          "records": 225,
+          "totalElements": 225,
+          "response_sha256": "5c1efcf8e0c5688179457d5f513b4342133ce1803c91fa6e7068360d45c88c2d",
+          "retrieved_utc": "2026-09-11T00:59:39Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "REDE",
+      "id": 64,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=64&currentPage=0&pageSize=10000",
+          "records": 39,
+          "totalElements": 39,
+          "response_sha256": "7d9ef03f885a58d7f15fb5fb94665c36920bd573c07bbd3b8f78849f5478300c",
+          "retrieved_utc": "2026-09-11T00:59:40Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PPL",
+      "id": 65,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=65&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:32Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PROS",
+      "id": 66,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=66&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:34Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PSTU",
+      "id": 67,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=67&currentPage=0&pageSize=10000",
+          "records": 2,
+          "totalElements": 2,
+          "response_sha256": "bcf86471d86b117ad2f9c1b5f6c6f04f623d1c349564c1da96d4df9d00946f02",
+          "retrieved_utc": "2026-09-11T00:59:39Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PCB",
+      "id": 68,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=68&currentPage=0&pageSize=10000",
+          "records": 41,
+          "totalElements": 41,
+          "response_sha256": "2546f11fec76f20d79fe0a3a213bc9304fc7022c7d43cbb61e047a5ea4bff49f",
+          "retrieved_utc": "2026-09-11T00:59:24Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PP",
+      "id": 69,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=69&currentPage=0&pageSize=10000",
+          "records": 4123,
+          "totalElements": 4123,
+          "response_sha256": "054dec78fe7c029848a801c3c36ed6027a92e01319d7dd319aafa9fcb5a56e94",
+          "retrieved_utc": "2026-09-11T00:59:39Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "PDT",
+      "id": 70,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=70&currentPage=0&pageSize=10000",
+          "records": 1598,
+          "totalElements": 1598,
+          "response_sha256": "8ef33fd80c44a321d4de1240025f0ef4f4ffdb1eb5b6b32deb964a838377f3f8",
+          "retrieved_utc": "2026-09-11T00:59:28Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "UP",
+      "id": 71,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=71&currentPage=0&pageSize=10000",
+          "records": 65,
+          "totalElements": 65,
+          "response_sha256": "fee9d69b07a754ac128dbafb9ee2edf968ed611a11ce3020623997483486be1f",
+          "retrieved_utc": "2026-09-11T00:59:42Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "PR",
+      "municipio": "6267",
+      "city": "LONDRINA",
+      "party": "UNIÃO",
+      "id": 72,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=72&currentPage=0&pageSize=10000",
+          "records": 3234,
+          "totalElements": 3234,
+          "response_sha256": "130e05452c6d6105791b184f0bf5b2241fdba35edbca3c0fd62300dfa975083c",
+          "retrieved_utc": "2026-09-11T00:59:48Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PRD",
+      "id": 182,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=182&currentPage=0&pageSize=10000",
+          "records": 67,
+          "totalElements": 67,
+          "response_sha256": "3f96e6d3049d86fbd4694f29293048e5cbfd0a32078878191cf9b1926fb423bb",
+          "retrieved_utc": "2026-09-11T00:59:51Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "MISSÃO",
+      "id": 183,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=183&currentPage=0&pageSize=10000",
+          "records": 2,
+          "totalElements": 2,
+          "response_sha256": "6a20434721cba66fe0bf907652fca82a6c3a63d764304d97eafc137dd0b0cea1",
+          "retrieved_utc": "2026-09-11T00:59:48Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PRP",
+      "id": 36,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=36&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:51Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PCO",
+      "id": 37,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=37&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:49Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PL",
+      "id": 38,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=38&currentPage=0&pageSize=10000",
+          "records": 184,
+          "totalElements": 184,
+          "response_sha256": "76367a3f8847b2089e5595e0676afe435bf1f98105637cda3ecc92364cb197ca",
+          "retrieved_utc": "2026-09-11T00:59:50Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PRTB",
+      "id": 39,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=39&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:51Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PHS",
+      "id": 40,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=40&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:49Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PTB",
+      "id": 41,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=41&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:52Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "MDB",
+      "id": 42,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=42&currentPage=0&pageSize=10000",
+          "records": 562,
+          "totalElements": 562,
+          "response_sha256": "a478ecf53d4b2a6a363ce93a38282e733e982b40f0a21fb12a99ec3dad898dc9",
+          "retrieved_utc": "2026-09-11T00:59:44Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PODE",
+      "id": 43,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=43&currentPage=0&pageSize=10000",
+          "records": 28,
+          "totalElements": 28,
+          "response_sha256": "3ba013c31422793a3dfeb03dab66a3752b31235d032077e792800d81758830bf",
+          "retrieved_utc": "2026-09-11T00:59:50Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "SOLIDARIEDADE",
+      "id": 44,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=44&currentPage=0&pageSize=10000",
+          "records": 1,
+          "totalElements": 1,
+          "response_sha256": "820a4ed26c340760a029f24a145f5a3084202a184d94d4923318af412de4c9fb",
+          "retrieved_utc": "2026-09-11T00:59:53Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PCDOB",
+      "id": 45,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=45&currentPage=0&pageSize=10000",
+          "records": 3,
+          "totalElements": 3,
+          "response_sha256": "2649e0b12625d940b69fdf17577bc9d7bd5812619516068f7448bbbe8a67f591",
+          "retrieved_utc": "2026-09-11T00:59:49Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "CIDADANIA",
+      "id": 46,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=46&currentPage=0&pageSize=10000",
+          "records": 25,
+          "totalElements": 25,
+          "response_sha256": "309ed6e8f0e5a951f6027ab31dfef6a180c0f39687d0419405c8be47ea40782e",
+          "retrieved_utc": "2026-09-11T00:59:47Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PT",
+      "id": 47,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=47&currentPage=0&pageSize=10000",
+          "records": 277,
+          "totalElements": 277,
+          "response_sha256": "8448129c4e9599161e1dc8cccf66c4ca75b0fd1e4f83ea5ce570fafd1858dc3e",
+          "retrieved_utc": "2026-09-11T00:59:53Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "MOBILIZA",
+      "id": 48,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=48&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:48Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PSB",
+      "id": 49,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=49&currentPage=0&pageSize=10000",
+          "records": 11,
+          "totalElements": 11,
+          "response_sha256": "499acc2508a9939a5224336284bd209442550150792d95feff9edefaa6b5b6d0",
+          "retrieved_utc": "2026-09-11T00:59:51Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "AVANTE",
+      "id": 50,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=50&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:46Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "REPUBLICANOS",
+      "id": 51,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=51&currentPage=0&pageSize=10000",
+          "records": 42,
+          "totalElements": 42,
+          "response_sha256": "4183d72d9d9f57b7ed980ddfe9155fe20c4e1a5388ecc88177cdca4224542d14",
+          "retrieved_utc": "2026-09-11T00:59:45Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PV",
+      "id": 52,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=52&currentPage=0&pageSize=10000",
+          "records": 25,
+          "totalElements": 25,
+          "response_sha256": "d6139a90b448bc0f58bf958adafbf4d88cef6efcb86a17fe4f01b5ee60b1cb70",
+          "retrieved_utc": "2026-09-11T00:59:53Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PSD",
+      "id": 53,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=53&currentPage=0&pageSize=10000",
+          "records": 10,
+          "totalElements": 10,
+          "response_sha256": "725df7b21eebe7d88d17644c4e3dc27813b06409e2c2ef87fad9bcf9ce6399b8",
+          "retrieved_utc": "2026-09-11T00:59:52Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PATRIOTA",
+      "id": 54,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=54&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:49Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PSC",
+      "id": 55,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=55&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:51Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PSDB",
+      "id": 56,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=56&currentPage=0&pageSize=10000",
+          "records": 83,
+          "totalElements": 83,
+          "response_sha256": "f4a624be72a769bae9c5144786165ae847f8992ae0ce33dc0a297db4936c7671",
+          "retrieved_utc": "2026-09-11T00:59:44Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "AGIR",
+      "id": 57,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=57&currentPage=0&pageSize=10000",
+          "records": 1,
+          "totalElements": 1,
+          "response_sha256": "88611e64c743464bab953d339b30cc4910066e8cb236e2e512ef8c9c069e8ee1",
+          "retrieved_utc": "2026-09-11T00:59:46Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "NOVO",
+      "id": 58,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=58&currentPage=0&pageSize=10000",
+          "records": 16,
+          "totalElements": 16,
+          "response_sha256": "8986d0a88de7ec6c02a529b475635f488b9eda442eca716e1dd55dd38cfc7a4e",
+          "retrieved_utc": "2026-09-11T00:59:49Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "DC",
+      "id": 59,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=59&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:47Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "DEMOCRATA",
+      "id": 60,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=60&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:48Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PSL",
+      "id": 61,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=61&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:52Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "DEM",
+      "id": 62,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=62&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:47Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PSOL",
+      "id": 63,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=63&currentPage=0&pageSize=10000",
+          "records": 1,
+          "totalElements": 1,
+          "response_sha256": "554411964788e37321402f68f913edffcc3df7ceb9279f178d03ecc3483184a9",
+          "retrieved_utc": "2026-09-11T00:59:52Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "REDE",
+      "id": 64,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=64&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:53Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PPL",
+      "id": 65,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=65&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:50Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PROS",
+      "id": 66,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=66&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:51Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PSTU",
+      "id": 67,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=67&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:52Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PCB",
+      "id": 68,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=68&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:49Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PP",
+      "id": 69,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=69&currentPage=0&pageSize=10000",
+          "records": 483,
+          "totalElements": 483,
+          "response_sha256": "b084923b87c94fa59dda1e7ef86bd54425b056080461c754afb4c6005fbfe045",
+          "retrieved_utc": "2026-09-11T00:59:51Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "PDT",
+      "id": 70,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=70&currentPage=0&pageSize=10000",
+          "records": 154,
+          "totalElements": 154,
+          "response_sha256": "db8619c04adc3e230cc2c03a2e842f6571eb9458dbb323ace0ab6f51302d3a9d",
+          "retrieved_utc": "2026-09-11T00:59:49Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "UP",
+      "id": 71,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=71&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:53Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "RS",
+      "municipio": "8067",
+      "city": "SANANDUVA",
+      "party": "UNIÃO",
+      "id": 72,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=72&currentPage=0&pageSize=10000",
+          "records": 59,
+          "totalElements": 59,
+          "response_sha256": "663005df9053b6773cbda37f15976e292b13ea45016b6e62f141e4c6ed94cf06",
+          "retrieved_utc": "2026-09-11T00:59:53Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PRD",
+      "id": 182,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=182&currentPage=0&pageSize=10000",
+          "records": 2071,
+          "totalElements": 2071,
+          "response_sha256": "42227bbe566dfc226ee073863c88fbd23ef2a55a4ad1241dfd80c072337e97f0",
+          "retrieved_utc": "2026-09-11T01:00:10Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "MISSÃO",
+      "id": 183,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=183&currentPage=0&pageSize=10000",
+          "records": 52,
+          "totalElements": 52,
+          "response_sha256": "6c6f0e34b4c201ba78981480b7daef850409d1a73f6aba46bb16019006839014",
+          "retrieved_utc": "2026-09-11T00:59:58Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PRP",
+      "id": 36,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=36&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T01:00:05Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PCO",
+      "id": 37,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=37&currentPage=0&pageSize=10000",
+          "records": 3,
+          "totalElements": 3,
+          "response_sha256": "aa7b375ec3f571f0f22a234f1e1a804a178be691291562d83cdd549b384dd821",
+          "retrieved_utc": "2026-09-11T01:00:00Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PL",
+      "id": 38,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=38&currentPage=0&pageSize=10000",
+          "records": 756,
+          "totalElements": 756,
+          "response_sha256": "cba75c8bd5bbf953b305bf3e50fb0663974c3226b95f539b8d0af1cd43d34669",
+          "retrieved_utc": "2026-09-11T01:00:04Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PRTB",
+      "id": 39,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=39&currentPage=0&pageSize=10000",
+          "records": 86,
+          "totalElements": 86,
+          "response_sha256": "ab753adf1d458295030eab79c16e29468449bbcd33fa98a223319db7c5bf093d",
+          "retrieved_utc": "2026-09-11T01:00:05Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PHS",
+      "id": 40,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=40&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T01:00:00Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PTB",
+      "id": 41,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=41&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T01:00:08Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "MDB",
+      "id": 42,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=42&currentPage=0&pageSize=10000",
+          "records": 2169,
+          "totalElements": 2169,
+          "response_sha256": "28afb0ba29b4069bc7bf1273e16dd552c821d3729ffd7b990cbf527caf467bf7",
+          "retrieved_utc": "2026-09-11T00:59:59Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PODE",
+      "id": 43,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=43&currentPage=0&pageSize=10000",
+          "records": 517,
+          "totalElements": 517,
+          "response_sha256": "8b42bc7fcfb1297a55c5807b1c0be25610b45059c48b5111a4f3c0e2f5159ead",
+          "retrieved_utc": "2026-09-11T01:00:03Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "SOLIDARIEDADE",
+      "id": 44,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=44&currentPage=0&pageSize=10000",
+          "records": 159,
+          "totalElements": 159,
+          "response_sha256": "6a7f9a97c03fcfe4588097952e5756fba2fd503325a7516756004b73c6dae3be",
+          "retrieved_utc": "2026-09-11T01:00:11Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PCDOB",
+      "id": 45,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=45&currentPage=0&pageSize=10000",
+          "records": 299,
+          "totalElements": 299,
+          "response_sha256": "d36655f985ef0eb7a63751bff6ed049047c2fb7761049d73755baf912548d4ee",
+          "retrieved_utc": "2026-09-11T01:00:00Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "CIDADANIA",
+      "id": 46,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=46&currentPage=0&pageSize=10000",
+          "records": 276,
+          "totalElements": 276,
+          "response_sha256": "d00804ae938b6c3908e03a9c1fb18711f0b66a0f15e9ca57cc17164cb9d028c4",
+          "retrieved_utc": "2026-09-11T00:59:56Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PT",
+      "id": 47,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=47&currentPage=0&pageSize=10000",
+          "records": 1128,
+          "totalElements": 1128,
+          "response_sha256": "de61ba23e99989c6785b79fec5da797d78419d63445d63b5fd999d4a07dea183",
+          "retrieved_utc": "2026-09-11T01:00:10Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "MOBILIZA",
+      "id": 48,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=48&currentPage=0&pageSize=10000",
+          "records": 21,
+          "totalElements": 21,
+          "response_sha256": "8b11725882dfaeb5719d3162f53dcd833dd14561aa9f22907815556b6448af1a",
+          "retrieved_utc": "2026-09-11T00:59:59Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PSB",
+      "id": 49,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=49&currentPage=0&pageSize=10000",
+          "records": 482,
+          "totalElements": 482,
+          "response_sha256": "bc9b6a827a5fddd9a340bc8af579c584e1c4f48a482dff5432b393118311e794",
+          "retrieved_utc": "2026-09-11T01:00:07Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "AVANTE",
+      "id": 50,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=50&currentPage=0&pageSize=10000",
+          "records": 84,
+          "totalElements": 84,
+          "response_sha256": "c813187ee7f08ad223cfaa6870c45a30169c973cddf90d1d2d237f5c299062cb",
+          "retrieved_utc": "2026-09-11T00:59:56Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "REPUBLICANOS",
+      "id": 51,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=51&currentPage=0&pageSize=10000",
+          "records": 424,
+          "totalElements": 424,
+          "response_sha256": "35ce04c3885c0f3bf710f591218f2c8e56831717f471d8cc6be635237fe13158",
+          "retrieved_utc": "2026-09-11T00:59:54Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PV",
+      "id": 52,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=52&currentPage=0&pageSize=10000",
+          "records": 532,
+          "totalElements": 532,
+          "response_sha256": "38ca9f9e6a39c20e749ae0a41b0a102f06391e4dc6d5e5d58dc14b75ca189b58",
+          "retrieved_utc": "2026-09-11T01:00:10Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PSD",
+      "id": 53,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=53&currentPage=0&pageSize=10000",
+          "records": 306,
+          "totalElements": 306,
+          "response_sha256": "5ab4adb020f11c15c9dcf13e1d72f67ee4b366530e35411b8b437402f6cf6552",
+          "retrieved_utc": "2026-09-11T01:00:07Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PATRIOTA",
+      "id": 54,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=54&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:59Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PSC",
+      "id": 55,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=55&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T01:00:05Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PSDB",
+      "id": 56,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=56&currentPage=0&pageSize=10000",
+          "records": 2602,
+          "totalElements": 2602,
+          "response_sha256": "550478ad9892d97e1a7a9f909d2d650eeaf6388e35b7c0e4924d30740570c932",
+          "retrieved_utc": "2026-09-11T00:59:58Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "AGIR",
+      "id": 57,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=57&currentPage=0&pageSize=10000",
+          "records": 56,
+          "totalElements": 56,
+          "response_sha256": "55200c9fae4ca68ff4169397d643f85c54c141807637f1a4bddf00650d21ae0a",
+          "retrieved_utc": "2026-09-11T00:59:55Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "NOVO",
+      "id": 58,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=58&currentPage=0&pageSize=10000",
+          "records": 277,
+          "totalElements": 277,
+          "response_sha256": "6da15d611ea636335ec81ad805aaef958f82e086b2e0fcdc32e8b1b1d843177a",
+          "retrieved_utc": "2026-09-11T00:59:59Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "DC",
+      "id": 59,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=59&currentPage=0&pageSize=10000",
+          "records": 75,
+          "totalElements": 75,
+          "response_sha256": "b982d1956a0cdacf3c3c7a86d62f33b40d72a84ddb5e10499a1d4dc8bdc1713b",
+          "retrieved_utc": "2026-09-11T00:59:57Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "DEMOCRATA",
+      "id": 60,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=60&currentPage=0&pageSize=10000",
+          "records": 5,
+          "totalElements": 5,
+          "response_sha256": "ab6af589d4fe932b5c42403de17cf7c816c4d66070980630dd36f222a0683d9d",
+          "retrieved_utc": "2026-09-11T00:59:58Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PSL",
+      "id": 61,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=61&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T01:00:07Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "DEM",
+      "id": 62,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=62&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:57Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PSOL",
+      "id": 63,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=63&currentPage=0&pageSize=10000",
+          "records": 105,
+          "totalElements": 105,
+          "response_sha256": "53fb9babfbc6e8078165138bdd048482cbe1cae3781b9fbd846a8bf84a3baf60",
+          "retrieved_utc": "2026-09-11T01:00:07Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "REDE",
+      "id": 64,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=64&currentPage=0&pageSize=10000",
+          "records": 4,
+          "totalElements": 4,
+          "response_sha256": "99634ffbbc48106d1343ae48ed85fb197923d7a6f8411640337dd5d90a7107be",
+          "retrieved_utc": "2026-09-11T01:00:10Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PPL",
+      "id": 65,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=65&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T01:00:03Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PROS",
+      "id": 66,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=66&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T01:00:04Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PSTU",
+      "id": 67,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=67&currentPage=0&pageSize=10000",
+          "records": 2,
+          "totalElements": 2,
+          "response_sha256": "6d4957da5f019b23675cac6f6bc2fed5df45df5354db46fc078c2b7cff841fc9",
+          "retrieved_utc": "2026-09-11T01:00:07Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PCB",
+      "id": 68,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=68&currentPage=0&pageSize=10000",
+          "records": 0,
+          "totalElements": 0,
+          "response_sha256": "841a3a5ba323e5fe5fa25dea8c1c1a0125c0aaff9621828c09ddc5b7a17b6b3c",
+          "retrieved_utc": "2026-09-11T00:59:59Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PP",
+      "id": 69,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=69&currentPage=0&pageSize=10000",
+          "records": 455,
+          "totalElements": 455,
+          "response_sha256": "6f5bb624ad2b4b91b979d071f6d10244579e6fc9209348b1d145578cc21a6e6a",
+          "retrieved_utc": "2026-09-11T01:00:04Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "PDT",
+      "id": 70,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=70&currentPage=0&pageSize=10000",
+          "records": 924,
+          "totalElements": 924,
+          "response_sha256": "904fe0d7ed8e2bf097ff8aa752598d0e5651e6bf77b123abc06ea95dfc9dc759",
+          "retrieved_utc": "2026-09-11T01:00:03Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "UP",
+      "id": 71,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=71&currentPage=0&pageSize=10000",
+          "records": 2,
+          "totalElements": 2,
+          "response_sha256": "0b0e447e31ead574c73b398c58eb29bbea19999854ca34753bd673060a818f89",
+          "retrieved_utc": "2026-09-11T01:00:11Z"
+        }
+      ],
+      "matches": []
+    },
+    {
+      "uf": "SP",
+      "municipio": "9534",
+      "city": "PRESIDENTE PRUDENTE",
+      "party": "UNIÃO",
+      "id": 72,
+      "pages": [
+        {
+          "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=72&currentPage=0&pageSize=10000",
+          "records": 601,
+          "totalElements": 601,
+          "response_sha256": "1e714ae711e4e0bdcffc16dfb2c360ede4ab3e10f65b9b7fa9177ca744ff4e64",
+          "retrieved_utc": "2026-09-11T01:00:12Z"
+        }
+      ],
+      "matches": []
+    }
+  ]
+}

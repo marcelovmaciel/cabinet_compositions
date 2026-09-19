@@ -1,0 +1,21 @@
+{
+  "party": "PDT",
+  "id": 70,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 11875,
+      "response_sha256": "15bfe70e0b06cfb684adab324d39914ac462aa17fdc6c8539a34c8e8ff5c1cac",
+      "retrieved_utc": "2026-09-10T23:35:12Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=70&currentPage=1&pageSize=10000",
+      "records": 1875,
+      "totalElements": 11875,
+      "response_sha256": "04215a4ac7bc7b165ccd9037fe9cf7e6a7163dc85d4eb1a4d2c9ee4ada69623f",
+      "retrieved_utc": "2026-09-10T23:35:16Z"
+    }
+  ],
+  "matches": []
+}

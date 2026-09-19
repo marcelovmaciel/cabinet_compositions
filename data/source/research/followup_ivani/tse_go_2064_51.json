@@ -1,0 +1,16 @@
+{
+  "party": "REPUBLICANOS",
+  "id": 51,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=51&currentPage=0&pageSize=10000",
+      "records": 591,
+      "totalElements": 591,
+      "response_sha256": "54a7420bf5ff7cd4e29e310032651b14ba0838637aeff28cdee25f18bbc1cb94",
+      "retrieved_utc": "2026-09-10T23:35:51Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,9 @@
+{
+  "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/localidades/SP/municipios",
+  "data": {
+    "timestamp": "2026-09-11T00:58:29.929+00:00",
+    "status": 404,
+    "error": "Not Found",
+    "path": "/filia-consulta/rest/v1/localidades/SP/municipios"
+  }
+}

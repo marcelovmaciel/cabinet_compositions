@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "CIDADANIA",
+  "id": 46,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 4296,
+      "totalElements": 4296,
+      "response_sha256": "5f198b88b615ff0a88b0b667b7ecb63299e5bfcd29d4bc24ec1d9ab1570280af",
+      "retrieved_utc": "2026-09-10T23:41:36Z"
+    }
+  ],
+  "matches": []
+}

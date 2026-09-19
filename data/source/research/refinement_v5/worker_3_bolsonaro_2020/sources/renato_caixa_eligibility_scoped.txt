@@ -1,0 +1,11 @@
+Source: https://api.mziq.com/mzfilemanager/v2/d/3972906b-e50b-4f74-ab74-4d0d32125d11/4b015055-675f-db8a-8597-81266eb9317a?origin=1
+Title: Minutes 104, Caixa Seguridade Eligibility Committee, March 14, 2022
+Retrieved: 2026-09-10
+Scope: page 1, item 1 and 1.1 only; identifier redacted. Full original inspected (2 pages); source PDF hash in retrieval JSON.
+
+1      Evaluation of the nominee Renato de Lima França, CPF: [redacted; official identifier hash retained in prior identity-reference snapshot], nominated for
+the position of member of the Fiscal Council of XS3 Seguros S.A., replacing the Counselor, Mr.
+Murilo Vaz Goncalves.
+1.1    Unanimous favorable opinion and issued Opinion No. 014/2022.
+
+

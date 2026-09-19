@@ -1,0 +1,17 @@
+{
+  "uf": "SP",
+  "municipio": "9534",
+  "city": "PRESIDENTE PRUDENTE",
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 159,
+      "totalElements": 159,
+      "response_sha256": "6a7f9a97c03fcfe4588097952e5756fba2fd503325a7516756004b73c6dae3be",
+      "retrieved_utc": "2026-09-11T01:00:11Z"
+    }
+  ],
+  "matches": []
+}

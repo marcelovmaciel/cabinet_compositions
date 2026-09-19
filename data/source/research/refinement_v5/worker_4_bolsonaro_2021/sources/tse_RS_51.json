@@ -1,0 +1,16 @@
+{
+  "uf": "RS",
+  "municipio": "7733",
+  "party": "REPUBLICANOS",
+  "id": 51,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=51&currentPage=0&pageSize=10000",
+      "records": 88,
+      "totalElements": 88,
+      "response_sha256": "739cdeff499106bd9db34e9025d89f95e3cf0db9e5a964134f7c5876068a0d7f",
+      "retrieved_utc": "2026-09-11T01:12:06Z"
+    }
+  ],
+  "matches": []
+}

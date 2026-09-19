@@ -1,0 +1,14 @@
+{
+  "party": "AGIR",
+  "id": 57,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 1293,
+      "totalElements": 1293,
+      "response_sha256": "ea923c80aeeabe1a89736cd8adc353ff99e18d293db4db6005d38814596aa7c6",
+      "retrieved_utc": "2026-09-10T23:43:57Z"
+    }
+  ],
+  "matches": []
+}

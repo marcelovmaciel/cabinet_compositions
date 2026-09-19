@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "AVANTE",
+  "id": 50,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 401,
+      "totalElements": 401,
+      "response_sha256": "c18426b93e9071971e70bd21c5d5b9faee7d7473707823dbf58038fee742f787",
+      "retrieved_utc": "2026-09-10T23:44:23Z"
+    }
+  ],
+  "matches": []
+}

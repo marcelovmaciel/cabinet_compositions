@@ -1,0 +1,977 @@
+[
+  {
+    "codLocalidadeTse": 31011,
+    "codObjeto": "8767",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "AMPARO DE SÃO FRANCISCO"
+  },
+  {
+    "codLocalidadeTse": 31038,
+    "codObjeto": "8768",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "AQUIDABÃ"
+  },
+  {
+    "codLocalidadeTse": 31054,
+    "codObjeto": "8769",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "ARACAJU"
+  },
+  {
+    "codLocalidadeTse": 31070,
+    "codObjeto": "8770",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "ARAUÁ"
+  },
+  {
+    "codLocalidadeTse": 31097,
+    "codObjeto": "8771",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "AREIA BRANCA"
+  },
+  {
+    "codLocalidadeTse": 31119,
+    "codObjeto": "8773",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "BARRA DOS COQUEIROS"
+  },
+  {
+    "codLocalidadeTse": 31151,
+    "codObjeto": "8775",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "BOQUIM"
+  },
+  {
+    "codLocalidadeTse": 31135,
+    "codObjeto": "8776",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "BREJO GRANDE"
+  },
+  {
+    "codLocalidadeTse": 31194,
+    "codObjeto": "8777",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "CAMPO DO BRITO"
+  },
+  {
+    "codLocalidadeTse": 31216,
+    "codObjeto": "8778",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "CANHOBA"
+  },
+  {
+    "codLocalidadeTse": 31232,
+    "codObjeto": "8779",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "CANINDÉ DE SÃO FRANCISCO"
+  },
+  {
+    "codLocalidadeTse": 31259,
+    "codObjeto": "8780",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "CAPELA"
+  },
+  {
+    "codLocalidadeTse": 31275,
+    "codObjeto": "8781",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "CARIRA"
+  },
+  {
+    "codLocalidadeTse": 31291,
+    "codObjeto": "8782",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "CARMÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 31313,
+    "codObjeto": "8783",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "CEDRO DE SÃO JOÃO"
+  },
+  {
+    "codLocalidadeTse": 31330,
+    "codObjeto": "8784",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "CRISTINÁPOLIS"
+  },
+  {
+    "codLocalidadeTse": 31372,
+    "codObjeto": "8785",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "CUMBE"
+  },
+  {
+    "codLocalidadeTse": 31399,
+    "codObjeto": "8786",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "DIVINA PASTORA"
+  },
+  {
+    "codLocalidadeTse": 31410,
+    "codObjeto": "8787",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "ESTÂNCIA"
+  },
+  {
+    "codLocalidadeTse": 31437,
+    "codObjeto": "8788",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "FEIRA NOVA"
+  },
+  {
+    "codLocalidadeTse": 31453,
+    "codObjeto": "8789",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "FREI PAULO"
+  },
+  {
+    "codLocalidadeTse": 31496,
+    "codObjeto": "8790",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "GARARU"
+  },
+  {
+    "codLocalidadeTse": 31470,
+    "codObjeto": "8791",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "GENERAL MAYNARD"
+  },
+  {
+    "codLocalidadeTse": 31518,
+    "codObjeto": "8792",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "GRACCHO CARDOSO"
+  },
+  {
+    "codLocalidadeTse": 31534,
+    "codObjeto": "8793",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "ILHA DAS FLORES"
+  },
+  {
+    "codLocalidadeTse": 31550,
+    "codObjeto": "8794",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "INDIAROBA"
+  },
+  {
+    "codLocalidadeTse": 31577,
+    "codObjeto": "8795",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "ITABAIANA"
+  },
+  {
+    "codLocalidadeTse": 31593,
+    "codObjeto": "8796",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "ITABAIANINHA"
+  },
+  {
+    "codLocalidadeTse": 31615,
+    "codObjeto": "8797",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "ITABI"
+  },
+  {
+    "codLocalidadeTse": 31631,
+    "codObjeto": "8798",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "ITAPORANGA D'AJUDA"
+  },
+  {
+    "codLocalidadeTse": 31658,
+    "codObjeto": "8799",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "JAPARATUBA"
+  },
+  {
+    "codLocalidadeTse": 31674,
+    "codObjeto": "8800",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "JAPOATÃ"
+  },
+  {
+    "codLocalidadeTse": 31690,
+    "codObjeto": "8801",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "LAGARTO"
+  },
+  {
+    "codLocalidadeTse": 31712,
+    "codObjeto": "8803",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "LARANJEIRAS"
+  },
+  {
+    "codLocalidadeTse": 31739,
+    "codObjeto": "8804",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "MACAMBIRA"
+  },
+  {
+    "codLocalidadeTse": 31755,
+    "codObjeto": "8805",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "MALHADA DOS BOIS"
+  },
+  {
+    "codLocalidadeTse": 31771,
+    "codObjeto": "8806",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "MALHADOR"
+  },
+  {
+    "codLocalidadeTse": 31798,
+    "codObjeto": "8807",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "MARUIM"
+  },
+  {
+    "codLocalidadeTse": 31810,
+    "codObjeto": "8809",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "MOITA BONITA"
+  },
+  {
+    "codLocalidadeTse": 31836,
+    "codObjeto": "8810",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "MONTE ALEGRE DE SERGIPE"
+  },
+  {
+    "codLocalidadeTse": 31852,
+    "codObjeto": "8812",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "MURIBECA"
+  },
+  {
+    "codLocalidadeTse": 31879,
+    "codObjeto": "8813",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "NEÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 31356,
+    "codObjeto": "8814",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "NOSSA SENHORA APARECIDA"
+  },
+  {
+    "codLocalidadeTse": 31895,
+    "codObjeto": "8815",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "NOSSA SENHORA DA GLÓRIA"
+  },
+  {
+    "codLocalidadeTse": 31917,
+    "codObjeto": "8816",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "NOSSA SENHORA DAS DORES"
+  },
+  {
+    "codLocalidadeTse": 31933,
+    "codObjeto": "8817",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "NOSSA SENHORA DE LOURDES"
+  },
+  {
+    "codLocalidadeTse": 31950,
+    "codObjeto": "8818",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "NOSSA SENHORA DO SOCORRO"
+  },
+  {
+    "codLocalidadeTse": 31976,
+    "codObjeto": "8819",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "PACATUBA"
+  },
+  {
+    "codLocalidadeTse": 31992,
+    "codObjeto": "8821",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "PEDRA MOLE"
+  },
+  {
+    "codLocalidadeTse": 32018,
+    "codObjeto": "8823",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "PEDRINHAS"
+  },
+  {
+    "codLocalidadeTse": 32034,
+    "codObjeto": "8824",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "PINHÃO"
+  },
+  {
+    "codLocalidadeTse": 32050,
+    "codObjeto": "8825",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "PIRAMBU"
+  },
+  {
+    "codLocalidadeTse": 32115,
+    "codObjeto": "8828",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "PORTO DA FOLHA"
+  },
+  {
+    "codLocalidadeTse": 32077,
+    "codObjeto": "8826",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "POÇO REDONDO"
+  },
+  {
+    "codLocalidadeTse": 32093,
+    "codObjeto": "8827",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "POÇO VERDE"
+  },
+  {
+    "codLocalidadeTse": 32131,
+    "codObjeto": "8829",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "PROPRIÁ"
+  },
+  {
+    "codLocalidadeTse": 32174,
+    "codObjeto": "8831",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "RIACHUELO"
+  },
+  {
+    "codLocalidadeTse": 32158,
+    "codObjeto": "8830",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "RIACHÃO DO DANTAS"
+  },
+  {
+    "codLocalidadeTse": 32190,
+    "codObjeto": "8832",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "RIBEIRÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 32212,
+    "codObjeto": "8833",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "ROSÁRIO DO CATETE"
+  },
+  {
+    "codLocalidadeTse": 32239,
+    "codObjeto": "8834",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "SALGADO"
+  },
+  {
+    "codLocalidadeTse": 32255,
+    "codObjeto": "8836",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "SANTA LUZIA DO ITANHY"
+  },
+  {
+    "codLocalidadeTse": 32298,
+    "codObjeto": "8837",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "SANTA ROSA DE LIMA"
+  },
+  {
+    "codLocalidadeTse": 31003,
+    "codObjeto": "8838",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "SANTANA DO SÃO FRANCISCO"
+  },
+  {
+    "codLocalidadeTse": 32310,
+    "codObjeto": "8839",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "SANTO AMARO DAS BROTAS"
+  },
+  {
+    "codLocalidadeTse": 32417,
+    "codObjeto": "8846",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "SIMÃO DIAS"
+  },
+  {
+    "codLocalidadeTse": 32433,
+    "codObjeto": "8847",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "SIRIRI"
+  },
+  {
+    "codLocalidadeTse": 32336,
+    "codObjeto": "8840",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "SÃO CRISTÓVÃO"
+  },
+  {
+    "codLocalidadeTse": 32352,
+    "codObjeto": "8841",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "SÃO DOMINGOS"
+  },
+  {
+    "codLocalidadeTse": 32379,
+    "codObjeto": "8842",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "SÃO FRANCISCO"
+  },
+  {
+    "codLocalidadeTse": 32395,
+    "codObjeto": "8845",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "SÃO MIGUEL DO ALEIXO"
+  },
+  {
+    "codLocalidadeTse": 32450,
+    "codObjeto": "8848",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "TELHA"
+  },
+  {
+    "codLocalidadeTse": 32476,
+    "codObjeto": "8849",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "TOBIAS BARRETO"
+  },
+  {
+    "codLocalidadeTse": 32492,
+    "codObjeto": "8850",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "TOMAR DO GERU"
+  },
+  {
+    "codLocalidadeTse": 32514,
+    "codObjeto": "8851",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "21",
+      "codObjetoMunicCapital": "8769",
+      "codUf": 21,
+      "nomUf": "SERGIPE",
+      "sglUf": "SE"
+    },
+    "nomLocalidade": "UMBAÚBA"
+  }
+]

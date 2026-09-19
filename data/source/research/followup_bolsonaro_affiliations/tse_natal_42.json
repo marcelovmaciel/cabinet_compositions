@@ -1,0 +1,14 @@
+{
+  "party": "MDB",
+  "id": 42,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 2915,
+      "totalElements": 2915,
+      "response_sha256": "d1d75828cb980856a9fb7fd6f125fe558a60f31d4afa697ad805eee67611f788",
+      "retrieved_utc": "2026-09-10T23:43:11Z"
+    }
+  ],
+  "matches": []
+}

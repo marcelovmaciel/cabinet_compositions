@@ -1,0 +1,10 @@
+{
+  "person": "Adolfo Sachsida",
+  "official_source": "https://btcu.apps.tcu.gov.br/api/obterDocumentoPdf/78140553",
+  "official_source_sha256": "1e6be4e635f3c3733c0b16416d9773a8c1c07f2cf37bea4d34c53b7a6ff0e979",
+  "official_pdf_page": 94,
+  "public_registry_identity_sha256": "280510161b8c9cef2e06692266ebc79fcb8293eed774f8b12583b2f18ca78319",
+  "exact_identity_match": true,
+  "second_office_source": "https://www.gov.br/mme/pt-br/acesso-a-informacao/auditorias/prestacao-contas/ROLDERESPONSVEIS2022.pdf",
+  "second_source_relation": "2022 MME accountability roll explicitly names minister Adolfo Sachsida and masked identifier; six visible middle digits match TCU/TSE. No personal number reproduced in this extract."
+}

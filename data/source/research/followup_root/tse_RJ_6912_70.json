@@ -1,0 +1,24 @@
+{
+  "uf": "RJ",
+  "municipio": "6912",
+  "city": "DUQUE DE CAXIAS",
+  "party": "PDT",
+  "id": 70,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6912&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 11120,
+      "response_sha256": "b986423dc0f9456d9034eff6d2edd5c912d5a369326e344e146862fc3e604f2d",
+      "retrieved_utc": "2026-09-10T23:40:43Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6912&sqPartido=70&currentPage=1&pageSize=10000",
+      "records": 1120,
+      "totalElements": 11120,
+      "response_sha256": "f2d0a18a0553a206050d007e5c50f297bec1f32dfa0e09ba133364fecad8ba80",
+      "retrieved_utc": "2026-09-10T23:40:47Z"
+    }
+  ],
+  "matches": []
+}

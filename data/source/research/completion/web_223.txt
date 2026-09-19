@@ -1,0 +1,7 @@
+Internal Error ()
+citeturn224view0 [wordlim: 200] Source: open({"ref_id":"https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=14%2F02%2F2020&jornal=529&pagina=1","lineno":null}); Total lines: 1
+L0: URL https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=14%2F02%2F2020&jornal=529&pagina=1 is not safe to open (non-retryable error)
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn224view1 [wordlim: 200] Source: open({"ref_id":"https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=14%2F02%2F2020&jornal=604&pagina=1","lineno":null}); Total lines: 1
+L0: Failed to fetch https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=14%2F02%2F2020&jornal=604&pagina=1: Cache miss

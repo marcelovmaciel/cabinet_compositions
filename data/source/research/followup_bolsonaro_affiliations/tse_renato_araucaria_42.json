@@ -1,0 +1,14 @@
+{
+  "party": "MDB",
+  "id": 42,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 1236,
+      "totalElements": 1236,
+      "response_sha256": "add82132e51d8cae877d20537ed8e548e4758a489ac2a2b8e0d953dce918035d",
+      "retrieved_utc": "2026-09-11T00:08:30Z"
+    }
+  ],
+  "matches": []
+}

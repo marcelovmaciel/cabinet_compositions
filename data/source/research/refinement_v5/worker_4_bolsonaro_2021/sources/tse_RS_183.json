@@ -1,0 +1,16 @@
+{
+  "uf": "RS",
+  "municipio": "7733",
+  "party": "MISSÃO",
+  "id": 183,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 5,
+      "totalElements": 5,
+      "response_sha256": "e90082b7d9dc73ff306d6ad1bbddade37009d359fcdec92cda5d74f39a8045eb",
+      "retrieved_utc": "2026-09-11T01:11:59Z"
+    }
+  ],
+  "matches": []
+}

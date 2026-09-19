@@ -1,0 +1,17 @@
+{
+  "party": "MOBILIZA",
+  "id": 48,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 808,
+      "totalElements": 808,
+      "response_sha256": "cfb8f95384632a6f60d77defbe5f27387940781a3b3af51c83fd176b5c149f90",
+      "retrieved_utc": "2026-09-10T23:41:09Z"
+    }
+  ],
+  "matches": []
+}

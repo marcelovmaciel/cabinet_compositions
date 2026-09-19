@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6865",
+  "city": "BELFORD ROXO",
+  "party": "MOBILIZA",
+  "id": 48,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6865&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 811,
+      "totalElements": 811,
+      "response_sha256": "b1bf3b2daec87f1cb36b1b45e418c90218add420b71275110a2e65f15023da73",
+      "retrieved_utc": "2026-09-10T23:40:00Z"
+    }
+  ],
+  "matches": []
+}

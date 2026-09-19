@@ -1,0 +1,17 @@
+{
+  "party": "PSB",
+  "id": 49,
+  "uf": "RS",
+  "municipio": "8067",
+  "city": "Sananduva",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=49&currentPage=0&pageSize=10000",
+      "records": 11,
+      "totalElements": 11,
+      "response_sha256": "499acc2508a9939a5224336284bd209442550150792d95feff9edefaa6b5b6d0",
+      "retrieved_utc": "2026-09-10T23:37:55Z"
+    }
+  ],
+  "matches": []
+}

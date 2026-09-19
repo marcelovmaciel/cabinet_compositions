@@ -1,0 +1,16 @@
+{
+  "party": "PSD",
+  "id": 53,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=53&currentPage=0&pageSize=10000",
+      "records": 1090,
+      "totalElements": 1090,
+      "response_sha256": "1c021ad1172955418696e7e4e3835393721c00871d2dc562145d7648c9f24025",
+      "retrieved_utc": "2026-09-10T23:36:42Z"
+    }
+  ],
+  "matches": []
+}

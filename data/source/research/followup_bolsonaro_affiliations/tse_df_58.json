@@ -1,0 +1,43 @@
+{
+  "party": "NOVO",
+  "id": 58,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 1780,
+      "totalElements": 1780,
+      "response_sha256": "3ba852c7cf751da6e7dca1b2381d9d595bde8ab5aa4b51c7d3ef0a89920eff35",
+      "retrieved_utc": "2026-09-10T23:34:48Z"
+    }
+  ],
+  "matches": [
+    {
+      "sqRegistroFiliacao": 6778114,
+      "cdMotivoCancelamento": null,
+      "cdMotivoDesfiliacao": 2,
+      "desSituacaoEleitor": "REGULAR",
+      "dtCancelamento": null,
+      "dtDesfiliacao": [
+        2021,
+        2,
+        3
+      ],
+      "dtExclusao": null,
+      "dtFiliacao": [
+        2017,
+        10,
+        28
+      ],
+      "tsCadastroDesfiliacao": null,
+      "nmEleitor": "HELDER MELILLO LOPES CUNHA SILVA",
+      "nomLocalidade": "BRASÍLIA",
+      "sgPartido": "NOVO",
+      "sgUe": "DF",
+      "stRegistroFiliacao": 1,
+      "tpSexo": 2,
+      "indPendencia": 1,
+      "indOrigem": 0,
+      "public_registry_identity_sha256": "62357a61157ca222d3a5676270198bda24b80b7987ce51ad0cd41531aefba87b"
+    }
+  ]
+}

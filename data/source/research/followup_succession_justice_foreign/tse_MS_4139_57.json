@@ -1,0 +1,17 @@
+{
+  "party": "AGIR",
+  "id": 57,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 565,
+      "totalElements": 565,
+      "response_sha256": "0dca201017bd6a79742c863bb8103b1ad807fe3bf815b7bcb7d764491f406eca",
+      "retrieved_utc": "2026-09-10T23:40:05Z"
+    }
+  ],
+  "matches": []
+}

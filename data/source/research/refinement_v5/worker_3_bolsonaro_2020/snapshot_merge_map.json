@@ -1,0 +1,727 @@
+[
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/RESEARCH.md",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/RESEARCH.md",
+    "sha256": "0259900d55ead467e6602b3473ae8979ed996c73776182119c9e6719ea70d41f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/prior_files.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/prior_files.json",
+    "sha256": "290b8f17731b982ebbf4f677cada795163a6a8cb1b2f6a4bdc72f084d53a183e"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/prior_review_inventory.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/prior_review_inventory.json",
+    "sha256": "8272c348987eb912c6e3dbd86910867e662f8f7ed58d2c00668658e4cb8c98f3"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/prior_target_blocks.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/prior_target_blocks.json",
+    "sha256": "8465f7a79a9545e14adad09283752533a4af874264650ae07cbdec62efa7b2bd"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/scan_tse_new_localities.py",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/scan_tse_new_localities.py",
+    "sha256": "896a30248ec357de53ba838aaf5424af541d94674a708f3a8e3d73a1249ce060"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/TSE_NEW_LOCALITIES_SUMMARY.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/TSE_NEW_LOCALITIES_SUMMARY.json",
+    "sha256": "d375316c7e6a6bff17c44ecec32efb63ab73a19c74a442cabb2ebbc26537e6f3"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/adpf_2021_scoped.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/adpf_2021_scoped.json",
+    "sha256": "336e08ecf68b8c25c7c1573c24f75a63bd5fa03bc38d5e204f4ab86e1ce5a4d1"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/mj_2018_profiles.login.html",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/mj_2018_profiles.login.html",
+    "sha256": "9f2861cf03fb03f2628a80fcb08220b73ececd8226f1ac90f049cf68cd0eb5f7"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/mj_2018_profiles_retrieval.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/mj_2018_profiles_retrieval.json",
+    "sha256": "a501382e19bbe05ceedbe3c3e04fd910a58be73246f9e30fc8ad31f9f4378487"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/municipality_PR.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/municipality_PR.json",
+    "sha256": "f3c9fc0496f993772e539f8524d258bdffa2facdb2b472da829f04a56432b9b3"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/municipality_RS.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/municipality_RS.json",
+    "sha256": "c4f9025a1e640f8f2466cd218a7546e7ffe1ba094cf0aae83838903760f9d377"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/municipality_SP.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/municipality_SP.json",
+    "sha256": "c26e698914c6de4bbb43f2c637feb005f527d1207addcf279e78007b49f7c43b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/renato_caixa_eligibility_20220314_retrieval.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/renato_caixa_eligibility_20220314_retrieval.json",
+    "sha256": "39f5274461921b06f351d16b282c8f8fedba631d42d008bc2f2becf19306b523"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/renato_caixa_eligibility_scoped.txt",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/renato_caixa_eligibility_scoped.txt",
+    "sha256": "0eb72fa7419bc762a3f62003635aa42bcc7a2e7621b23c2f59572b97ec2831d4"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_182.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_182.json",
+    "sha256": "3a028322f7efba485a9194c9d98c8c5b69f253a46a1fba0940e9ff7924d831cd"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_183.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_183.json",
+    "sha256": "0161e37197986a4532c9f75d2e921cfe9da8c174433bb346fe792d3cc1a1acf4"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_36.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_36.json",
+    "sha256": "9dff7d6c7ba91c0122e0e1de65c344ca15dee3dba5b7d49ee1302cedd6120427"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_37.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_37.json",
+    "sha256": "a5c56b586f89c789666b0e7cc388e425c3cff6820015c2fdf595cf241df470c3"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_38.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_38.json",
+    "sha256": "da32ede23dffd47d0e2cc8ac58a2ce7fd08ec4536317a1e96277e44728c9ed40"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_39.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_39.json",
+    "sha256": "9f9bcfcc3a49777ca61b6eb5c1132bbf3d74194ddd8af4b08b9c9cc8c00f4b33"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_40.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_40.json",
+    "sha256": "eb2f9b4e60b347a48a1bbef87ae6a5027189856a1a4dc86ce9ac15f5a6fd75f9"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_41.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_41.json",
+    "sha256": "cadc7188524ca57242191823c9ede8a90fdaa13319d0a8d2f1261a5d904c0ffb"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_42.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_42.json",
+    "sha256": "f5ca0aa40d7f9ce616420b44899e8f7ffadfab4c64ff975b2bbe7f4947a6db0f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_43.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_43.json",
+    "sha256": "343be59975c46a213cffe2951295826c17862fa01aaa70a3e8317e538e6994f5"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_44.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_44.json",
+    "sha256": "61ccadc18077d0b38390e2105fb28e2790ac5ca93f9b2d26c52803fd0b5194eb"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_45.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_45.json",
+    "sha256": "812bbafedb02f30ca04f930ea0383ed8f06d233bd3e20aa56e46754230265e9a"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_46.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_46.json",
+    "sha256": "675c654fbbb3f6e30e07c494b6732be25e20fb3c6379d1801ebb3f6ef12dab9b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_47.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_47.json",
+    "sha256": "264088f5561d0aef70db570250dcf994ff327d6397ea6aa81700765d7789a0ec"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_48.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_48.json",
+    "sha256": "f48957347d98cabae294a40cdcbec62d8ac311ec953a0efa49f6092406435771"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_49.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_49.json",
+    "sha256": "b3eb1cc116491eaba077121677682def0d27cb465ceaa93e0908480567d860ae"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_50.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_50.json",
+    "sha256": "6879e309987abe7c3996d760abc3f082e85d719f2cb7a5a8959f91b53ff0c482"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_51.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_51.json",
+    "sha256": "ea54447d6ae293ab780b5c147e750e17040893fda3a57a3dd1f54a9f979f671a"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_52.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_52.json",
+    "sha256": "d97f39c46085b312418b1926d54fbd0fbda77d6d3a4d9e34dc516e13f22af099"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_53.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_53.json",
+    "sha256": "b3095d9104183f371fea2c0bacb496911e837e39342d941df5c8da66548fcb25"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_54.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_54.json",
+    "sha256": "36e1a8d3a9b90217a9ac16b8f4d814efd4aa71071d9a2111e7dc615d6ba50650"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_55.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_55.json",
+    "sha256": "19f2493a7c7a3419f00f2d6f7d633bf838f0814c1c846735376cf9439b969bb8"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_56.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_56.json",
+    "sha256": "b1d081e19033b439faac420567e7ac849cba91b054dfc44e971384d48fc849f9"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_57.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_57.json",
+    "sha256": "86afe7f2d1156d7c33e2eee6dde4089ea188de57d3560cb51e9d07bdf8c1862b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_58.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_58.json",
+    "sha256": "fbe2117d2077e3ad2423d39b1bf17fed079029831eaefd958510131dd25e1e85"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_59.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_59.json",
+    "sha256": "adade4fcd1533791c6f943c8346711377739ff8ad9db08772a4fb4880ee9cc2e"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_60.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_60.json",
+    "sha256": "e568b8b59370b615579474a9eb2ed3968ed6764443cc3c46fd578325aed851fb"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_61.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_61.json",
+    "sha256": "8da540f867f0435d37ff909a16f3ad1e4248004a1be32ef3f136affa6996bd61"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_62.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_62.json",
+    "sha256": "ff2459411dc32251f9ff1acd0fa8b1c019dcfa1b6bfecd275fc9d74794a394d3"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_63.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_63.json",
+    "sha256": "191ed7b720a2925c0240f0566c0b708259415246e3fccff7e2b1a20399ce4658"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_64.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_64.json",
+    "sha256": "9baa7a165adae729cf02192f0f4c4d29fdfb2d3676646e96771647930dbb329c"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_65.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_65.json",
+    "sha256": "6840f4ab848e6e7f9a2610277f39f4cb00c626582d37c60d1aa0b7a03158ce06"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_66.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_66.json",
+    "sha256": "dbd41b3bfd015ddb123ea5878ca360e8da910ad82b8f1b8209e83747d84903ea"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_67.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_67.json",
+    "sha256": "4cf9c6cf61d9759788d8046cf8d93371c56cecb900c8c2b34a828617b0dbac82"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_68.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_68.json",
+    "sha256": "95e9c01c76cf28dbcc16f3c7113611eee5d41daf93d6edac225cbe1d475ca908"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_69.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_69.json",
+    "sha256": "466cd93e1818573fd9db54b71188f2c8f1da99ce3ba998a7533660db7bbd50c0"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_70.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_70.json",
+    "sha256": "4a48feca674e34f162ba9a5eab9b433a620aecb04bfcdfc0b17df0b6c76dfc1f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_71.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_71.json",
+    "sha256": "a035422ea393bccdd341a4e5930cc7f9b93773705f9020c9e2dd186d7aa45998"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_72.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_PR_6267_72.json",
+    "sha256": "efd895e48f85ef35d0b4fe4eaeca5fd6f1fffd8df7f62895a742af765f2b4cd7"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_182.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_182.json",
+    "sha256": "cab4dbf8a69ec2e210149739cf887e8686ef09d3ca4c9f61c1f580244345a77c"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_183.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_183.json",
+    "sha256": "2776381bb2b1bf72bd77257ebc2a3ce5b23271892bf4c6efbe5f89b179028560"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_36.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_36.json",
+    "sha256": "574e793f78a94169180d97161749516bcfa9e90dc000b5313b7e2b5edcbae74d"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_37.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_37.json",
+    "sha256": "9f7d34252420ed93ad5b1b9633bc73bcf3c72831c06662f25ab369f8e7e0950e"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_38.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_38.json",
+    "sha256": "9af2925fff4e24a6de26a5923485f103fb9dcfe453c1d90c466e83bdf8dd6e91"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_39.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_39.json",
+    "sha256": "204d8c0dcf6d2fca7909ffffd8dc9218f85ea388e6c3b68c9ed21ebf08ddf3e4"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_40.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_40.json",
+    "sha256": "8f74be91b9fd7346ab19b2f493596095b5fc6072f855c2694a0ed5dd0ec55f86"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_41.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_41.json",
+    "sha256": "3c26e991476934eb3f3e76161c0590e280025926786c6cd27cf71e0a3cd227b4"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_42.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_42.json",
+    "sha256": "40df9e279638de016cbba64a0f42b2163c52da777f73532629be7906b339404c"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_43.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_43.json",
+    "sha256": "54a5e689e3aa67bdf644c81a74cbb60181848280a91b021e6810b5576042063c"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_44.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_44.json",
+    "sha256": "9e5a3be25249009486cb31c9edac860e19a7659186dc4bcdd7a1e2fe1cbd8a8a"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_45.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_45.json",
+    "sha256": "308fccfcb370a8dc9332d1b39710a4db85a3aea479bad2c0ec1c96cf761374d0"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_46.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_46.json",
+    "sha256": "e18afaefa9825dd71211d1a04051fc512e1ebb0f97407bdd0fdf61b4d93c4335"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_47.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_47.json",
+    "sha256": "c06066bbb8e32109d7b718455f2d7f2ee23d1cba5f2ee5af37d78e23c1e6b67b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_48.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_48.json",
+    "sha256": "c2d784fad2153e74c8621ac47c82ee9d0218a1d6ca456b1114e65c612f9522d8"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_49.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_49.json",
+    "sha256": "b1ca2094fa33cc4284e4219f78a88f2d012be987394558a2bd2795c8a92c29f1"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_50.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_50.json",
+    "sha256": "cf0352f8a3fad121b4b353833fda6d25d368881b859f2215448b1757db756ac5"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_51.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_51.json",
+    "sha256": "5dd76175d9e7d732f53636eff0e1b24b04ebb2a47001417d8cff081e039b4836"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_52.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_52.json",
+    "sha256": "a81426aa4f8562a84935d929b5966dcee76fcb8ea72e979cad0ff927ba541d8c"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_53.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_53.json",
+    "sha256": "34d3d544351317c9db9f689f2bd7c19069f4b5174364b801a62040b4cf196592"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_54.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_54.json",
+    "sha256": "e51d6068f8ace52f95e6f92ab18c2eb7629d650b11923ea6b5f269008b967db2"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_55.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_55.json",
+    "sha256": "0340d5b0b17dd7f751d7df366414de009446da81987e6a9050aa1ed2efd8fa74"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_56.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_56.json",
+    "sha256": "93984b454c83934e7d1e676b81c4fcb5040708ffe67fc65416bd8b876ad427db"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_57.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_57.json",
+    "sha256": "8a66a7b846e8b309013274288ce3d78784ba66c0407ce999f94a9da679185ae9"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_58.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_58.json",
+    "sha256": "040e6d1e9754c223ef5e8d124b7bd331bb8e91e281312d69b61f02ea8cd1194f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_59.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_59.json",
+    "sha256": "1298da7604c42aca70c55bc097cd793b0a2ee876518d75d9e8dc0b88485dea9a"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_60.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_60.json",
+    "sha256": "f9519e60d1073501dfed28dadc781ae1626e869729f1d3d44ff824a54a26fc6f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_61.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_61.json",
+    "sha256": "8afdd56552cdfa40e76d30c5dabcd82df051346f80a997a4a7d70ca37d09d0e8"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_62.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_62.json",
+    "sha256": "a5b63546cf0822faf7b665358c0094d74cc4b6d9ead972f11431c2029f6b6d4f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_63.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_63.json",
+    "sha256": "da4307f3fe95b805cffa55251fe89a1b8669940c01c538c2b83c5ccece5f66ee"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_64.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_64.json",
+    "sha256": "d09207094c31e584150aadb558528fba8bd9864f9f6be48ae0c4ebc7d567bf94"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_65.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_65.json",
+    "sha256": "fd8d9a7b335fceee079d53ef030c7cd87b7433b10215f3c81e746cbb95fbebac"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_66.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_66.json",
+    "sha256": "a57a0dcd29af03cdce75cdecc5b11212a3ad986a6bfa4ce11c4cdb7049a6d72b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_67.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_67.json",
+    "sha256": "a3ff3ed3d63e44faaf6fb51ab875edd7020414cbd3ab911824a70a3daae877ca"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_68.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_68.json",
+    "sha256": "b1ee869a63bf40221bd4861e83e7e2732bfc563d77d7e16d3302b0e871c4b6ee"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_69.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_69.json",
+    "sha256": "ac20c16f32ad6cab5113f1a139c2af670e1b2b2f48dc3d5bf926e311f4bfd622"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_70.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_70.json",
+    "sha256": "a3caffacf8c06b3cce75ee0bbe8b27b68dec372a4006e0becd534eabc887b2e4"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_71.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_71.json",
+    "sha256": "457a93dab4ec51cb4a2bba95e991e180609e6176bff90c9f04a80df88d660d66"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_72.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_RS_8067_72.json",
+    "sha256": "98c90b3eda788fa9e19a9c97284556b1229e14b5ee5eeaefa4b2f3fe37c2c345"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_182.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_182.json",
+    "sha256": "16dcf1fd5bfc0a734911c5fc3e6ae7846bccf6c8d730f28751104a3d83f10c27"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_183.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_183.json",
+    "sha256": "d2300de80a53745beca8f867104c6a2b9922df6bbd2279b7b43182b84a09d3e8"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_36.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_36.json",
+    "sha256": "20e7827484294c0e9f33c7462e7d1d0b409e8f6a464f6582cf0d200f61876eda"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_37.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_37.json",
+    "sha256": "3deb600029cf2b4d9f3c234cba46dc9fbcd6c704caa87d1ac3389191a6415e4a"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_38.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_38.json",
+    "sha256": "fc25f10d3890e7efec1b1953158d9b644896129625e0273fb369d4682466725d"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_39.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_39.json",
+    "sha256": "0960ee92fbd395afc7e46bafeccc4f8050be4544e1b1b6ae1f3e4bb6a55dbf68"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_40.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_40.json",
+    "sha256": "6bbb770c9e8e1a596ac6acca5b361fcae732e4baf34b0e8b409987f8e6428bd3"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_41.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_41.json",
+    "sha256": "d2816a85d4bec5215d352b0d5aa14341d5f5af93ddab7058db1973780f310e37"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_42.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_42.json",
+    "sha256": "933c162430fbb290d933a9641beb03fa48f312cdf848b9028547f625e027830d"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_43.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_43.json",
+    "sha256": "44a5ac19e2658b657b6490ac60a13873b80eedafb8878fe80833bba880a6ab07"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_44.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_44.json",
+    "sha256": "6cacecd182a08d5c67170b0acecc74194e8fc89ebd4b960f4f39915b98832c3d"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_45.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_45.json",
+    "sha256": "48a7c2fd5d4e9473af38699430c9bc949d3028da7a38f1b6971ce6c12245f586"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_46.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_46.json",
+    "sha256": "76cd6b4944d9615e06c513fdc8a7b81112a1cbff35687f00da272f4546cbc4a9"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_47.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_47.json",
+    "sha256": "4a6d032051c2abe005da19e4b3c8fe161d582ff62d3bfb634510998c58c0a795"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_48.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_48.json",
+    "sha256": "158bad0b232ed2ed0a698710ab1e09f23740a090d09a9b33d6d6b69e706e81a2"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_49.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_49.json",
+    "sha256": "f01a5f8d545d24ed875f07d95f1cbf1419591a6cc8a7a2a870e90731ebeb5600"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_50.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_50.json",
+    "sha256": "99f390359c2b74d61ec049d47f13384edd90b0db08bb1d6df96e8ad4b272fe19"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_51.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_51.json",
+    "sha256": "74bffb98deed5f720328f32fdbc36156317c37b0a06dd65f4c96dd016e4d6eb0"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_52.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_52.json",
+    "sha256": "2e4f8b7a500b6dcb76925470202858f5bd11fe706aff9ab43b20dd4e0ca551d4"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_53.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_53.json",
+    "sha256": "5fcfd331a5653ac3e6b74367a0ab4c58fd573d6a3084ecad27273374f945776c"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_54.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_54.json",
+    "sha256": "02f699885e5de927a3da71180b7f4a613b32b5b9af7766caa47fa1a047d1366e"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_55.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_55.json",
+    "sha256": "8649a277b3eaed6c4366af56d58db4b0f17f749a4de5671924563a94dce6cf3b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_56.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_56.json",
+    "sha256": "239145177fa98922d562346224775a39251b59b234dc332bf5d98220313a773f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_57.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_57.json",
+    "sha256": "b64820131ffc729a12e7a224f4cc48b276b541c5df0ca91133ab7f4baab52c7b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_58.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_58.json",
+    "sha256": "a8ac6080af177fd6dbb332ff556c2d21238e390808bba958e640fb155b536025"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_59.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_59.json",
+    "sha256": "2c49635a4a97662fb867b1426c508d57df9de10721bed4d1032ea95853d2dfb1"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_60.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_60.json",
+    "sha256": "e1363755a8e51dc6f2d6fd229059a57cab5cce9d2b7d5605619d60c2778188ba"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_61.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_61.json",
+    "sha256": "c87dea2d45c1350cac77272fcc7357d0558318253f732784fa1b949f7c62875b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_62.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_62.json",
+    "sha256": "8bce42d0e841c13054ec2982dc4b5b81d5cf37c0a3162ba5eb9d4f35779e43df"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_63.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_63.json",
+    "sha256": "f244feb7bb6572adb725d0708b242f4d8d20b8605eda00925832c253aa95e994"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_64.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_64.json",
+    "sha256": "a5ad4ade4f9a977d712ecdbb20c487d0dfa87ae130fa81e03bf60a0ea5c5dc3b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_65.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_65.json",
+    "sha256": "61fca2ea33ae9ed2b463e3a70b3034802adb93261b0bda217d3a96527f4cb4d1"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_66.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_66.json",
+    "sha256": "50fba8b6f71b82749b5051194d61220c5ebac61e7d8baa1aece39c03caed072f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_67.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_67.json",
+    "sha256": "d2c45aa3079dbff7b8d49eec7cf1a99564280cb94de3e1f4fcd4e785524c8712"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_68.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_68.json",
+    "sha256": "bdfeb725228dd5041df9a01c496e49ef3a50a65ea39faaf43e7b5af085adc625"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_69.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_69.json",
+    "sha256": "2cd75ff0296fcd61c175f95aa97363de0fc003e6c409a6fe2efcbb746d342c2d"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_70.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_70.json",
+    "sha256": "219f469cb17f9c94d6f6e86aa82edb2482320e5d5130b6d3d7b257477304f2cb"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_71.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_71.json",
+    "sha256": "3b5e3f3811b983e76d22ada4898e94a31858233f644c8dbfab254271a033d2b2"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_72.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_SP_9534_72.json",
+    "sha256": "79c046adff9ebf3df137463e7e3051c37165c12b8d8805e495a3c17cfe081c0e"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_municipalities_PR.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_municipalities_PR.json",
+    "sha256": "18919179f01ae68d69986fbb9365a93ceacb12115e7aec3f5f5c1340cabd9c62"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_municipalities_RS.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_municipalities_RS.json",
+    "sha256": "5a7646e12a900ce5036f095c315e4d8a6ba41dbb60307d19f07f38fdbe39bb2a"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_municipalities_SP.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_municipalities_SP.json",
+    "sha256": "444560c8cfbd1c89af5f7b2d8705b582af3df43f3484969357675ac5d9e4c9ea"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/tse_pontel_all_new_localities.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/tse_pontel_all_new_localities.json",
+    "sha256": "0913cf791b80cd22e480d88474c711907c55dbb8263fe6710366c6262c02360a"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/web_001.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/web_001.json",
+    "sha256": "b8da37fd73bbd37d5d8556841f6c436e721ed8c3958b34f708b78e29bb47af52"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/web_002.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/web_002.json",
+    "sha256": "7d07463d03a9949c4547a118dd9727761fffd04717f308b9c622afb333aee911"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/web_003.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/web_003.json",
+    "sha256": "fc17a78f38e84c32ae220dd3fc8eec80a9f40645d676281268b3d2512549274f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/web_004.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/web_004.json",
+    "sha256": "111429029c7f6d6e0437bb9de3ee8e1b9664fd87b36709ec55e2533066a54092"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/web_005.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/web_005.json",
+    "sha256": "0f5a033eb58206f9c62ecd870c12084a0b7833c8e836ef08da454d075c29d3c4"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/web_006.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/web_006.json",
+    "sha256": "fe1bdb039e0a4a6f43eaf05b16730d95eae79e91d14d74bd46042412321ff920"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/web_007.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/web_007.json",
+    "sha256": "a77b487147c778ac3546bdca283c99c6980585f05dbe26a3ec8783f4c1070cd8"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/web_008.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/web_008.json",
+    "sha256": "e1220f9b979a511fd6e42474f74c8c7b1157f0a35e233d63bd8b6f6c10d89e08"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/sources/web_009.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/sources/web_009.json",
+    "sha256": "f32e3da5bb02f5fbc02ee0a1aa13b73ca449543e0651e05b941f6bc23e11e520"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_3_bolsonaro_2020/verification.json",
+    "destination": "research/refinement_v5/worker_3_bolsonaro_2020/verification.json",
+    "sha256": "f3c86d363700e3ce7f6fa221ab800c323f29f2a8317b9b68f8cf15a681717d8c"
+  }
+]

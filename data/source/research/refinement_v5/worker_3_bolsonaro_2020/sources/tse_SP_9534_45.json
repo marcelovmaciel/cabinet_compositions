@@ -1,0 +1,17 @@
+{
+  "uf": "SP",
+  "municipio": "9534",
+  "city": "PRESIDENTE PRUDENTE",
+  "party": "PCDOB",
+  "id": 45,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 299,
+      "totalElements": 299,
+      "response_sha256": "d36655f985ef0eb7a63751bff6ed049047c2fb7761049d73755baf912548d4ee",
+      "retrieved_utc": "2026-09-11T01:00:00Z"
+    }
+  ],
+  "matches": []
+}

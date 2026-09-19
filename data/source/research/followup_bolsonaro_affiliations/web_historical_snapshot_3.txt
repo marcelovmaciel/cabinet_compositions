@@ -1,0 +1,353 @@
+Pesquisa Engajamento - Partido Novo (https://novo.org.br/pesquisa-engajamento/)
+citeturn461search0 [wordlim: 200] Crawled: 2 weeks ago; Estamos realizando uma pesquisa para conhecer melhor o perfil, as motivações e o nível de engajamento dos nossos filiados. ... #### Seção 2: Perfil Político ... Autorizo o Partido NOVO a utilizar meus dados de nome e e-mail para envio de correspondências, comunicados e newsletters, respeitando os princípios de finalidade, adequação, necessidade e transparência previstos na legislação.
+
+# PESQUISA DE FILIADOS NOVO 2026
+
+Carregando formulário...
+
+[Input]
+
+### Olá!
+
+Estamos realizando uma pesquisa para conhecer melhor o perfil, as motivações e o nível de engajamento dos nossos filiados.
+
+Sua participação é fundamental para entendermos como você se relaciona com o Partido NOVO, suas formas de contribuição e sua disposição para as eleições de 2026.
+
+Com suas respostas, poderemos aprimorar nossa comunicação, fortalecer o engajamento e preparar melhor o partido para os próximos desafios.
+
+⏱ Tempo estimado: aproximadamente 2 a 3 minutos
+
+Por favor, informe seus dados abaixo e responda todas as seções da pesquisa.
+
+Agradecemos muito sua colaboração!
+
+#### Seção 1: Identificação
+
+CPF [Input: 000.000.000-00]
+
+* * *
+
+#### Seção 2: Perfil Político
+
+1. Por que você quer ver o Partido NOVO crescer? (Selecione aqueles com os quais você mais se identifica)
+
+[Input] Estado mais simples, leve e eficiente.
+[Input] Renovação política do País.
+[Input] Um Brasil com mais oportunidades e conectado ao mundo.
+--------------------------------------------------------------------------------
+Brasil - Recrutamento e perfil dos dirigentes públicos brasileiros nas áreas econômicas e sociais entre 1995 e 2012 Recrutamento e perfil dos dirigentes públicos brasileiros nas áreas econômicas e sociais entre 1995 e 2012 (https://www.scielo.br/j/rap/a/Qy5hCPjLqpGNL7Ksy8cWQwS/?lang=pt)
+citeturn461search1 [wordlim: 200] Published: 8.0 years ago; Crawled: 4 days ago; Sobre o perfil político dos dirigentes públicos, trabalharemos com duas variáveis: filiação a partidos políticos ao assumirem o cargo e a qual partido eram filiados.Nossos dados mostram que entre todos os ocupantes de cargos de DAS 5 e 6 e NE do governo Fernando Henrique, cerca de 18% eram filiados a partidos políticos.
+### 4.4 Filiação partidária dos dirigentes
+
+Sobre o perfil político dos dirigentes públicos, trabalharemos com duas variáveis: filiação a partidos políticos ao assumirem o cargo e a qual partido eram filiados. Nossos dados mostram que entre todos os ocupantes de cargos de DAS 5 e 6 e NE do governo Fernando Henrique, cerca de 18% eram filiados a partidos políticos. Esse número passou para 25% no governo Lula da Silva e terminou em 23,5% no governo Dilma Rousseff. Por esses dados, pode-se inferir que o capital político-partidário tem peso pouco expressivo, embora seja mais alto nos governos Lula da Silva.
+
+Para os quatro ministérios em pauta, temos 56 filiados a partidos políticos, ou seja, 21% do total de 268 dirigentes examinados: 17 dos 78 pesquisados em Fernando Henrique Cardoso; 26 dos 129 em Lula da Silva e 13 dos 61 em Dilma Rousseff. A distribuição percentual dos filiados a partidos, nos quatro ministérios, está no gráfico 10. O que chama mais atenção, em todos os governos, é a pouca presença de filiados na Fazenda, se comparado aos demais ministérios.
+--------------------------------------------------------------------------------
+08_NEC86_Schattan_p120a139.indd (https://biblat.unam.mx/hevila/NovosestudosCEBRAP/2010/no86/8.pdf)
+citeturn461search12 [wordlim: 200] Published: 16.3 years ago; No caso do perfil político, os dados mostram uma forte predominân‑cia de conselheiros filiados ou simpáticos ao PT em cinco dos seis CLs,
+observações. A primeira refere‑se à expressiva participação de não‑bran‑
+cos, especialmente no conselho de Cidade Tiradentes, onde 70% dos 
+membros declararam ser negros ou pardos. Em segundo lugar, 23% dos 
+conselheiros não tinham o primeiro grau completo. Por fim, há um no‑
+tável equilíbrio de gênero entre os conselheiros. Essas observações suge‑
+rem que o perfil sociodemográfico dos membros dos CLs se correlaciona 
+ao da população das suas áreas de abrangência e que esse fato pode ser 
+relacionado com a experiência de mobilização social destas áreas.
+No caso do perfil político, os dados mostram uma forte predominân‑
+cia de conselheiros filiados ou simpáticos ao PT em cinco dos seis CLs, 
+mas essa predominância é mais expressiva nas subprefeituras de áreas 
+com maior experiência de mobilização social. Os casos de ligação com ou‑
+tros partidos foram encontrados em duas das subprefeituras onde há me‑
+nor experiência de mobilização. De modo similar, o indicador referente ao 
+--------------------------------------------------------------------------------
+Microsoft Word - tese final.doc (https://repositorio.ufscar.br/bitstreams/0042280f-f20e-41ff-bc16-cbcf6324b425/download)
+citeturn461search13 [wordlim: 200] Published: 14.8 years ago; Crawled: 14.8 years ago; Diante disso, o objetivo deste segundo capítulo é verificar o perfil político social dos representantes da RCC. ... A que partidos são filiados? ... Para responder a essas e outras perguntas, montamos um extenso banco de dados contendo as seguintes informações: nome, profissão, escolaridade, sexo, partido, número de votação obtido, partido filiado, cargo ocupado na RCC, patrimônio, nascimento, estado e cidade de origem e ano de mandato.
+
+Diante disso, o objetivo deste segundo capítulo é verificar o perfil político social dos representantes da RCC. Para isso, buscamos responder às seguintes questões: Quem são esses políticos? Qual é sua origem social e sua escolaridade? Quais são os vínculos destes políticos com a RCC antes e depois de sua vitória nas eleições? A que partidos são filiados? Quais os estados que mais elegeram políticos vinculados à RCC e qual a razão desse desempenho? Existe diferença nos perfis desses políticos entre as cinco regiões do Brasil? A nossa hipótese é a de que, dada a importância do controle da representação da RCC nas arenas políticas, os candidatos selecionados e eleitos devem ter fortes vínculos com o alto escalão dessa Igreja.
+
+Para responder a essas e outras perguntas, montamos um extenso banco de dados contendo as seguintes informações: nome, profissão, escolaridade, sexo, partido, número de votação obtido, partido filiado, cargo ocupado na RCC, patrimônio, nascimento, estado e cidade de origem e ano de mandato. A maioria das informações foi obtida no TRE – Tribunal Regional Eleitoral dos Estados. Outras informações foram pesquisadas nos sites pessoais dos políticos ou na própria RCC. Essas variáveis foram inseridas no programa estatístico para ciências sociais Statistical Package for the Social Sciences (SPSS), com o objetivo do cruzamento das informações para a verificação desta hipótese.
+
+Este capítulo está dividido em duas sessões. A primeira analisa o perfil social: sexo, escolaridade e profissão. A segunda analisa o perfil político: cargos ocupados no interior da RCC, filiação partidária e cargos eleitos. Em cada sessão, analisaremos os dados das cinco regiões do
+
+42--------------------------------------------------------------------------------
+O que é - DIAP - Departamento Intersindical de Assessoria Parlamentar (https://www.diap.org.br/index.php/o-diap/o-que-e)
+citeturn461search2 [wordlim: 200] Crawled: last month; O DIAP, além da correspondência que mantém com seus filiados, edita regularmente o BOLETIM INFORMATIVO enviado para todas as entidades filiadas. ... As entidaddes filiadas ao DIAP também tem acesso a banco de dados com informações sobre a legislação de interesse do mundo do trabalho (leis e MPs em vigor), os projetos de interesse do movimento sindical, perfil político e participação dos deputados e senadores em bancadas e frentes parlamentares, bases eleitorais e eventual acompanhamento de projetos de interesse específico de categoria profissional filiada ao Departamento.
+
+O DIAP, portanto, entende que exerce saudável pressão democrática, colaborando para a melhoria e o aperfeiçoamento das instituições, porque os pleitos que defende são legais, legítimos, morais e têm apenas um objetivo: a defesa da causa pública.
+
+Corpo técnico
+Em sua estrutura, o DIAP possui uma Diretoria Técnica que atua junto à Diretoria Executiva e coordena as reuniões de técnicos e consultores, a emissão de pareceres, o controle de projetos, a atuação sobre os parlamentares e a informação e orientação às entidades sindicais. Possui, também, assessores permanentes que cuidam da elaboração dos boletins, jornais e outras publicações.
+
+Produtos do DIAP
+Os produtos do DIAP são distribuídos prioritariamente às entidades filiadas. Além da Agência DIAP de Notícias, que veicula diariamente as últimas informações sobre as atividades e acontecimentos do Congresso Nacional, destacamos o informativo mensal (Boletim do DIAP) e as publicações anuais Os “Cabeças” do Congresso Nacional e Agenda Para Falar com os Poderes.
+As entidaddes filiadas ao DIAP também tem acesso a banco de dados com informações sobre a legislação de interesse do mundo do trabalho (leis e MPs em vigor), os projetos de interesse do movimento sindical, perfil político e participação dos deputados e senadores em bancadas e frentes parlamentares, bases eleitorais e eventual acompanhamento de projetos de interesse específico de categoria profissional filiada ao Departamento.
+--------------------------------------------------------------------------------
+Condições de trabalho, perfil político- (https://www.gov.br/fundaj/pt-br/composicao/dipes-1/publicacoes/relatorios-de-pesquisas/pesquisas-concluidas/pesquisas-em-2010-atualmente/condies_de_trabalho_perfil_politico_ideologico_e_ao_sindical_dos_docentes_das_instituies_federais_de_ensino_superior.pdf)
+citeturn461search14 [wordlim: 200] Published: 10 months ago; Pretende-se aqui fazer tão somente um esforço de síntese quanto aos dados ... Em relação às preferências político-ideológicas, deve-se ressaltar que mais de90% não são filiados a partidos políticos, e mais de 60% não têm preferência partidária.
+velhos priorizam o ensino. A maioria dos docentes entrevistados ingressou na 
+instituição nos últimos 5 ou 6 anos. Mais de 60% ganham vencimentos entre 5 e 10 mil 
+reais mensais, e declarou possuir um padrão de vida superior ao de seus pais ou 
+responsáveis. 
+Em relação às preferências político-ideológicas, deve-se ressaltar que mais de 
+90% não são filiados a partidos políticos, e mais de 60% não têm preferência partidária. 
+Já entre os filiados a agremiações partidárias, mais de 70% declaram serem filiados ao 
+Partido dos Trabalhadores.  
+Quase sete em cada dez docentes considera que o governo Lula melhorou as 
+condições de vida da população.  A maioria é favorável a políticas como o REUNI, o 
+ENEM e o ProUni. Em contrapartida, 45% deles são contrários à reforma que instituiu 
+o Funpresp (seguidos por um número considerável de pessoas que não tinha opinião 
+formada sobre o assunto). Finalmente, quase a metade desconhece ou não tem opinião 
+formada sobre políticas como a da EBSERH e das Fundações. 
+43--------------------------------------------------------------------------------
+Capítulo 1 – Dirigentes públicos nos ministérios econômicos e sociais (https://www.editora.puc-rio.br/media/T%C3%A9cnicos_intelectuais_e_pol%C3%ADticos%20final.pdf)
+citeturn461search15 [wordlim: 200] Published: 8.0 years ago; Crawled: 7.1 years ago; Sobre o perfil político dos dirigentes públicos, trabalharemos com duas variáveis: filiação a partidos políticos ao assumirem o cargo e a qual partido eram filiados.Nossos dados mostram que, entre todos os ocupantes de cargos de DAS 5 e 6 e NE do governo Fernando Henrique, cerca de 18% eram filiados a partidos políticos.
+</visual_element>
+
+Uma informação adicional a tirar desses dados é a de que, no decorrer dos 20 anos abordados na pesquisa, nota-se que a escolaridade das mães aumentou, à exceção do caso do Ministério da Saúde. Esse indicador, que ajuda a entender a origem de classe dos dirigentes, também auxilia a entender a expansão, ainda que lenta, dos níveis educacionais das mulheres do país e as possibilidades de ascensão social.
+
+**Filiação partidária dos dirigentes**
+
+Sobre o perfil político dos dirigentes públicos, trabalharemos com duas variáveis: filiação a partidos políticos ao assumirem o cargo e a qual partido eram filiados. Nossos dados mostram que, entre todos os ocupantes de cargos de DAS 5 e 6 e NE do governo Fernando Henrique, cerca de 18% eram filiados a partidos políticos. Esse número passou para 25% no governo Lula da Silva e terminou em 23,5% no governo Dilma Rousseff.
+
+Para os quatro ministérios em pauta, temos 56 filiados a partidos políticos, ou seja, 21% do total de 268 dirigentes examinados: 17 dos 78 pesquisados em Fernando Henrique, 26 dos 129 em Lula da Silva e 13 dos 61 em Dilma Rousseff. A distribuição percentual dos filiados a partidos, nos quatro ministérios, está no Gráfico 12. O que chama mais a atenção, em todos os governos, é a pouca presença de filiados na Fazenda, se comparada aos demais ministérios.--------------------------------------------------------------------------------
+layout (https://ojs.uel.br/revistas/uel/index.php/mediacoes/article/download/2174/1866/7107)
+citeturn461search16 [wordlim: 200] Crawled: 3 months ago; A *Agência* é enviada por *e-mail* exclusivamente às entidades filiadas, mas após o envio personalizado para os filiados, o DIAP a disponibiliza na página que mantém na Internet. ... O Sistema DIAP consiste em um banco de dados com informações sobre a legislação de interesse do mundo do trabalho (leis e MP’s em vigor); os projetos de interesse do movimento sindical; perfil político e participação dos deputados e senadores em bancadas e frentes parlamentares; bases eleitorais referentes às eleições de 1998, e eventual acompanhamento de projetos de interesse específico de categoria profissional filiada ao DIAP.
+
+A *Agência DIAP* é um importante instrumento de informação e hoje é o principal veículo de comunicação entre o Departamento e as entidades filiadas. A *Agência* é enviada por *e-mail* exclusivamente às entidades filiadas, mas após o envio personalizado para os filiados, o DIAP a disponibiliza na página que mantém na Internet.
+
+Outro produto recém lançado pelo DIAP, com acesso restrito mediante senha para as entidades filiadas, é o Sistema DIAP. O Sistema DIAP consiste em um banco de dados com informações sobre a legislação de interesse do mundo do trabalho (leis e MP’s em vigor); os projetos de interesse do movimento sindical; perfil político e participação dos deputados e senadores em bancadas e frentes parlamentares; bases eleitorais referentes às eleições de 1998, e eventual acompanhamento de projetos de interesse específico de categoria profissional filiada ao DIAP.
+
+O lançamento de livros também é uma constante. O livro *Quem é Quem* foi editado em 1986 e apresentava a atuação dos parlamentares sobre as matérias de interesse dos trabalhadores. Já o livro *Quem Foi Quem na Constituinte*, publicado em 1988, apresentava a análise da atuação dos constituintes. Em 1991, o DIAP traçou o perfil dos primeiros deputados distritais de Brasília e os apresentou no livro *Quem é Quem na Câmara Distrital*.
+
+Em 1993, foi lançado o livro *A Cabeça do Congresso - Quem é Quem na Revisão Constitucional*. Em 1994, lançou a série anual “*Os Cabeças*” do *Congresso Nacional*, sobre a elite parlamentar, e a série *AGENDA - Para Falar com os Poderes Legislativo, Executivo e Judiciário*.
+
+O DIAP publica também as séries *Caderno Debate, Estudos Políticos* e *Estudos Técnicos*.
+
+DIAP: O LOBBYING DO TRABALHADOR NO CONGRESSO NACIONAL • 233--------------------------------------------------------------------------------
+Maurício Estevam Cardoso (https://repositorio.ufmg.br/server/api/core/bitstreams/9dbc9ad2-2e6a-4427-9926-9710a95d5bf8/content)
+citeturn461search17 [wordlim: 200] Published: 10.9 years ago; Fonte: Dados trabalhados pelo autor, 2014.O perfil político dos(as) DMEs é retratado a seguir (GRAF. ... qual partido político são filiados(as), argumentando não se lembrarem, mas que se tratava do
+110
+  Gráfico 7 - Faixas de rendimento salarial dos(as) DMEs (em salários mínimos) 
+ 
+Fonte: Dados trabalhados pelo autor, 2014. 
+ 
+O perfil político dos(as) DMEs é retratado a seguir (GRAF. 8). Constata-se que a 
+maioria dos(as) entrevistados(as) possui filiação partidária, 62% dos respondentes, número 
+próximo ao levantamento realizado pelo Inep (INEP, 2011), que é de 67,7% para todo Brasil. 
+Dado curioso diz respeito ao fato de três dos(as) entrevistados(as) não saberem responder à 
+qual partido político são filiados(as), argumentando não se lembrarem, mas que se tratava do 
+mesmo partido do prefeito do município. As implicações desses dados serão analisadas 
+adiante, no Capítulo 5, quando será abordada a questão da constituição da subjetividade do(a) 
+DME. 
+        Gráfico 8 - Filiação partidária dos(as) entrevistados(as) 
+ 
+Fonte: Dados trabalhados pelo autor, 2014. 
+O GRAF. 9 aponta que a grande maioria dos(as) DMEs entrevistados(as) dos 
+municípios selecionados para a pesquisa encontra-se no primeiro mandato, 76%, dado que 
+corresponde ao levantamento da Undime, indicando que mais de 70% das prefeituras no--------------------------------------------------------------------------------
+Descubra Quem São os Filiados do PT: Lista Completa! (https://listologia.com/lista-de-filiados-do-pt/)
+citeturn461search3 [wordlim: 200] Crawled: 4 months ago; O perfil político e demográfico dos filiados do PT: quem são essas pessoas? ... De acordo com os dados do TSE, o PT é o partido com maior número de filiados no Brasil, com mais de 1,3 milhão de pessoas registradas.
+
+De acordo com os dados do TSE, o PT é o partido com maior número de filiados no Brasil, com mais de 1,3 milhão de pessoas registradas. Os estados com maior número de filiados são São Paulo, Minas Gerais e Bahia. Além disso, a militância petista é composta majoritariamente por mulheres (57%) e tem uma média de idade de 45 anos.
+
+## O perfil político e demográfico dos filiados do PT: quem são essas pessoas?
+
+Os filiados do PT são uma amostra diversa da sociedade brasileira. Há desde trabalhadores rurais e urbanos até intelectuais e profissionais liberais. A maioria dos filiados se identifica como de esquerda (57%) e tem ensino superior completo (40%). Além disso, a militância petista é composta por uma grande diversidade étnica e racial.
+
+## A influência dos filiados do PT nas decisões do partido
+
+Os filiados do PT têm grande importância nas decisões do partido. Eles participam de assembleias, congressos e outras instâncias de deliberação, onde discutem e votam as diretrizes políticas e estratégias eleitorais. --------------------------------------------------------------------------------
+Brasil - Uma análise do perfil dos secretários de saúde: interfaces entre saúde e os processos político-eleitorais Uma análise do perfil dos secretários de saúde: interfaces entre saúde e os processos político-eleitorais (https://www.scielo.br/j/sdeb/a/cPNsXtvRXJv6mPLNgm4yLCQ/?lang=pt)
+citeturn461search4 [wordlim: 200] Published: 4.0 years ago; Crawled: 3 days ago; Assim, enquanto políticos em geral, especialmente os que de fato ocuparam cargos no legislativo ou executivo, podem ser facilmente detectados com simples busca na internet, os filiados precisaram da busca pormenorizada no repositório do TSE. ... Considerando o conjunto das informações, obteve-se uma ‘fotografia’ do perfil dos secretários de saúde, isto é, informações restritas ao momento temporal específico da coleta dos dados, pouco tempo após um ano decorrido da emergência da crise sanitária da Covid-19.
+Depois, pelo título de eleitor, foi gerada a Certidão de Filiação - tipo Histórico^{^{21}}, que registra as movimentações de filiação. É importante ressaltar que existe uma diferença entre ‘políticos’ e ‘filiados’. Enquanto o primeiro grupo está inscrito por completo no segundo, a recíproca não é verdadeira, ou seja, nem todos os filiados a partidos políticos podem ser considerados ‘políticos’, ou seja, aqueles que ocuparam (ou, para este trabalho, no mínimo, concorreram, ainda que sem vitória) cargos através de eleições, no legislativo e no executivo. Assim, enquanto políticos em geral, especialmente os que de fato ocuparam cargos no legislativo ou executivo, podem ser facilmente detectados com simples busca na internet, os filiados precisaram da busca pormenorizada no repositório do TSE. Os políticos de carreira, pela intrínseca visibilidade pública, foram identificados em rápida pesquisa em buscadores da internet, muitos com perfis nos sites das casas que ocuparam (Assembleias Legislativas, Câmara dos Deputados etc.), além de constarem em manchetes da mídia e entrevistas.
+--------------------------------------------------------------------------------
+Religiosos nas Candidaturas de 2026 no Brasil - INESC (https://inesc.org.br/direita-concentra-566-das-candidaturas-com-referencia-religiosa-no-nome-de-urna/)
+citeturn461search5 [wordlim: 200] Published: yesterday; Crawled: yesterday; Homens, candidatos a deputado estadual, pastores e filiados a partidos de direita predominam entre as 445 candidaturas que utilizam referências religiosas no nome de urna nas eleições de 2026. ... Os dados integram um estudo da série Perfil do Poder, produzido pelo Instituto de Estudos Socioeconômicos (Inesc) em parceria com o Common Data. ... No recorte político-partidário, são 45 candidaturas de direita, 14 de centro e 11 de esquerda.
+
+# Direita concentra 56,6% das candidaturas com referência religiosa no nome de urna
+
+09/09/2026, às 14:00 | Tempo estimado de leitura: 7 min
+
+Estudo do Inesc e do Common Data identifica 445 candidaturas com termos religiosos no nome de urna
+
+Image
+
+Homens, candidatos a deputado estadual, pastores e filiados a partidos de direita predominam entre as 445 candidaturas que utilizam referências religiosas no nome de urna nas eleições de 2026. O grupo corresponde a 2,2% das 20.448 candidaturas registradas no país. Entre os nomes identificados, 295 (66,3%) são de homens, 285 (64%) utilizam o termo pastor ou suas variações e 252 (56,6%) concorrem por partidos classificados como de direita. Os dados integram um estudo da série Perfil do Poder, produzido pelo Instituto de Estudos Socioeconômicos (Inesc) em parceria com o Common Data.
+
+A concentração também aparece nos cargos em disputa. Das 445 candidaturas mapeadas, 229 (51,5%) concorrem a deputado estadual e 181 (40,7%) a deputado federal. --------------------------------------------------------------------------------
+Polijetro | Inteligência Eleitoral com IA para 2026 (https://polijetro.com/)
+citeturn461search6 [wordlim: 200] Crawled: today; Image: Filipe Wesley, Fundador da Polijetro ... Image: Mapa eleitoral do Brasil com dados de votação por município ... Narrativas de risco, menções e emoções do eleitorado monitorados continuamente — com score de risco, verificação de fontes e resposta em um clique. ... #### Perfil completo do apoiador
+#eleicoes2026
+
++340%⏳
+
+#politicabr
+
+📊
+
+#votocerto
+
+😊
+
+#campanha2026
+
+🤝
+
+Lideranças e Apoios
+
+## Rastreie apoios com QR Code e cabos eleitorais
+
+Cada cabo eleitoral recebe um link e QR Code exclusivo. Apoiadores escaneiam, registram apoio e você acompanha rankings em tempo real.
+
+#### QR Code por cabo eleitoral
+
+Links únicos rastreáveis para cada cabo de campanha.
+
+#### Perfil completo do apoiador
+
+Nome, telefone, bairro, faixa etária e profissão.
+
+#### Comunicação integrada
+
+WhatsApp, e-mail e exportação CSV para contato direto.
+
+#### Ranking de cabos eleitorais
+
+Dashboard com performance e metas de cada cabo.
+
+Ranking de Cabos Eleitorais
+
+563 apoios
+
+#1
+
+Maria Silva
+
+234
+
+#2
+
+João Santos
+
+187
+
+#3
+
+Ana Costa
+
+142
+
+QR Code exclusivo por cabo
+
+Link rastreável para registro de apoios
+
+IA Avançada
+
+Gemini & GPT
+
+Câmara dos Deputados
+
+Dados oficiais
+
+Criptografia AES-256
+
+Dados seguros
+
+LGPD
+
+Lei 13.709/2018
+
+Image: Operador 1Image: Operador 2Image: Operador 3Image: Operador 4
+--------------------------------------------------------------------------------
+15º Encontro da ABCP - Áreas Temáticas - AT01 - Comportamento Político (https://www.abcp2026.sinteseeventos.com.br/atividade/view?ID_ATIVIDADE=32&q=eyJwYXJhbXMiOiJ7XCJJRF9BVElWSURBREVcIjpcIjMyXCJ9IiwiaCI6IjQyZWU1NTA5YzdhMTU1MzIzODViZTNiYjEwYjZiOTE1In0%3D)
+citeturn461search7 [wordlim: 200] Crawled: today; Resumo: A classificação ideológica dos partidos é central para a análise da política democrática, pois estrutura a comparação em sistemas partidários, orienta a interpretação do comportamento político e fundamenta avaliações sobre representação e responsividade das legendas. ... Empiricamente, o estudo combina três fontes: (i) a autoposição ideológica de parlamentares do Brazilian Legislative Survey (BLS); (ii) a classificação atribuída por especialistas (Bolognesi, Ribeiro e Codato, 2025); e (iii) o Survey CEPP (Centro de Estudos de Partidos Políticos), que mensura a posição ideológica atribuída pelos filiados às suas próprias legendas. ... Download do Trabalho ... Utilizamos dados do INCT-ReDem (2025) com 1.504 cidadãos e 170 deputados, aplicando o modelo de Kriesi, Saris e Moncagatta (2016): dimensões liberal, social e participativa.
+Empiricamente, o estudo combina três fontes: (i) a autoposição ideológica de parlamentares do Brazilian Legislative Survey (BLS); (ii) a classificação atribuída por especialistas (Bolognesi, Ribeiro e Codato, 2025); e (iii) o Survey CEPP (Centro de Estudos de Partidos Políticos), que mensura a posição ideológica atribuída pelos filiados às suas próprias legendas.
+Argumentamos que a incorporação da percepção dos filiados produz ajustes não triviais no posicionamento ideológico dos partidos, ainda que não rompa completamente com as classificações existentes. Além disso, identificamos que a dimensão desses ajustes pode variar entre partidos, indicando padrões de convergência limitada e dissonância moderada entre insiders e outsiders.
+Ocultar
+Download do Trabalho
+
+  * Fernando Meireles (IESP-UERJ), Bruno Marques Schaefer (IESP-UERJ)
+Limited Returns: Credit Attribution and the Co-optation of Cash Transfer Programs
+Resumo: Can politicians capture electoral returns by co-op... Veja mais! --------------------------------------------------------------------------------
+A proteção de dados pessoais em processos eleitorais - ANJ (https://www.anj.org.br/a-protecao-de-dados-pessoais-em-processos-eleitorais/)
+citeturn461search8 [wordlim: 200] Published: 6.1 years ago; Crawled: last week; Listas de filiados são os exemplos mais evidentes de dados pessoais sensíveis em contextos político-eleitorais.
+Esse dado é sensível?
+A discussão das condições e dos limites para o uso de dados pessoais por campanhas passa, primeiro, por uma compreensão a respeito do que é um dado pessoal e o que é um dado pessoal sensível.
+A LGPD, a exemplo do Decreto nº 8771/16 que regulamentou o Marco Civil da Internet, adota uma definição expansionista de dado pessoal, caracterizando como dado pessoal toda informação relacionada a pessoa natural identificada ou identificável.
+Dentro dessa categoria de informações caracterizadas como dado pessoal, a lei estabelece uma outra categoria mais restrita, os dados pessoais sensíveis. São considerados como dados pessoais sensíveis os dados pessoais sobre origem racial ou étnica; sobre convicção religiosa; sobre opinião política; sobre filiação a sindicato ou a organização de caráter religioso, filosófico ou político; referente à saúde ou à vida sexual; além de dados genéticos ou biométricos.
+A essa categoria de dados pessoais, a lei confere um maior grau de proteção e estabelece hipóteses mais restritas para o seu tratamento, que se aplicam também a qualquer tratamento de dados pessoais que revele dados pessoais sensíveis.
+Essa categorização tem relevância na medida em que o reconhecimento de um dado como sensível traz implicações a respeito das condições e limites do seu uso por campanhas político-eleitorais. Listas de filiados são os exemplos mais evidentes de dados pessoais sensíveis em contextos político-eleitorais.
+--------------------------------------------------------------------------------
+(PDF) A reconfiguração do sindicalismo brasileiro nos anos 2000: as bases sociais e o perfil político-ideológico da Conlutas (https://www.researchgate.net/publication/262747053_A_reconfiguracao_do_sindicalismo_brasileiro_nos_anos_2000_as_bases_sociais_e_o_perfil_politico-ideologico_da_Conlutas)
+citeturn461search9 [wordlim: 200] Published: 13.3 years ago; Crawled: 4 months ago; Fonte: Banco de Dados da Conlutas e Banco de dados das pesquisadoras. ... Congresso, filiados a partido político; 13,3% dos delegados afirmaram que, embora no momento não ... compreendermos o perfil político-ideológico dos delegados da Conlutas.
+Deficiência/ doença 50,0 12,5 25,0 - 12,5 100
+
+Fonte: Banco de Dados da Conlutas e Banco de dados das pesquisadoras.
+
+Quando perguntados sobre a preferência partidária (Tabela17), 78,2% dos delegados da
+
+Conlutas disseram ter alguma preferência. Destes, 72,5% preferiam o PSTU e 11,4% o PSOL
+
+16
+
+.
+
+Tabela
+
+Tabela Tabela
+
+Tabela 17
+
+1717
+
+17
+
+Delegados por preferência partidária (%)
+
+Delegados por preferência partidária (%)Delegados por preferência partidária (%)
+
+Delegados por preferência partidária (%)
+
+Partidos
+
+PartidosPartidos
+
+Partidos
+
+%
+
+%%
+
+%
+
+PSTU 72,5
+
+PSOL 11,8
+
+Outras preferências no campo da esquerda 5,7
+
+Pequenas agremiações de esquerda 4,7
+
+PSOL-PSTU-PCB, PSB, PDT e PV 3,3
+
+PSDB e PMDB 1,0
+
+PT 0,9
+
+Total 100
+
+Fonte: Banco de Dados da Conlutas e Banco de dados das pesquisadoras.
+
+Em relação à filiação partidária, 59% dos delegados da Conlutas eram, no momento do
+
+Congresso, filiados a partido político; 13,3% dos delegados afirmaram que, embora no momento não
+
+16
+
+Apenas para termos uma perspectiv a comparativa, quando realizou sua pesquisa sobre a CUT, Rodrigues (1990) identificou
+--------------------------------------------------------------------------------
+12º Encontro ABCP - Áreas Temáticas - AT01. Comportamento Político (https://abcp2020.sinteseeventos.com.br/simposio/view?ID_SIMPOSIO=1)
+citeturn461search10 [wordlim: 200] Crawled: 2 weeks ago; Resumo: Considerando a relevância do Partido dos Trabalhadores (PT) à estruturação do sistema partidário brasileiro, seu destaque em termos de identificação eleitoral, a relevância de movimentos sindicais, religiosos e associativos em sua fundação e a alteração das bases sociais partidárias após a eleição de Lula à presidência em 2002, nosso objetivo foi investigar como os filiados petistas atuam, tanto no interior da instituição quanto no âmbito social, tomando como material empírico um banco de dados com amostra representativa dos filiados ao partido. ... Resumo: Desde 2013, o cenário político nacional é de instabilidade e oscilações em indicadores que perpassam as organizações partidárias e seus papeis no nosso sistema multipartidário, sendo que uma parcela dos brasileiros tem se manifestado intolerante aos que possuem posições distintas. ... Diante disso, postula-se que o fenômeno de ocupações das escolas apontam para um novo tipo de civismo, crítico dos modelos tradicionais de mobilização e favorável aos modelos mais espontâneos de ação direta, com perfil mais individualizado e com foco em temas voltados para qualidade de vida.
+--------------------------------------------------------------------------------
+Brasil - Os efeitos da migração interpartidária na conduta parlamentar Os efeitos da migração interpartidária na conduta parlamentar (https://www.scielo.br/j/dados/a/Xkk9JTFSzZKfN8ynS34dvXg/)
+citeturn461search11 [wordlim: 200] Published: 19.0 years ago; Crawled: last week; Sem dúvida, os parlamentares não podem justificar a sua mudança de filiação por motivos relacionados à discordância programática ou ao problema de relacionamento com os seus líderes, visto que os migrantes, assim como seus correligionários, estavam bem situados na legenda à qual estiveram filiados. ... Os desertores escolhem uma alternativa de filiação compatível com o seu perfil político. ... Isto significa que, apesar de terem mudado de filiação, continuam votando com a antiga coalizão a qual pertence o partido que os elegeu.

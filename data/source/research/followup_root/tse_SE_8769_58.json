@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "NOVO",
+  "id": 58,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 323,
+      "totalElements": 323,
+      "response_sha256": "a9674056691a25deb13f2a85fdb377d32726f80216b553ed9f26a64a2a20cd0e",
+      "retrieved_utc": "2026-09-10T23:44:30Z"
+    }
+  ],
+  "matches": []
+}

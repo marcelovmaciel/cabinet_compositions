@@ -1,0 +1,17 @@
+{
+  "party": "MOBILIZA",
+  "id": 48,
+  "uf": "SP",
+  "municipio": "9534",
+  "city": "Presidente Prudente",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 21,
+      "totalElements": 21,
+      "response_sha256": "8b11725882dfaeb5719d3162f53dcd833dd14561aa9f22907815556b6448af1a",
+      "retrieved_utc": "2026-09-10T23:39:20Z"
+    }
+  ],
+  "matches": []
+}

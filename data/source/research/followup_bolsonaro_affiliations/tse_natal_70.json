@@ -1,0 +1,14 @@
+{
+  "party": "PDT",
+  "id": 70,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 1168,
+      "totalElements": 1168,
+      "response_sha256": "8465ab6c22b26e87c3dc58335cb2499bb3b19dbfc14e25c0a63287d950714b73",
+      "retrieved_utc": "2026-09-10T23:43:10Z"
+    }
+  ],
+  "matches": []
+}

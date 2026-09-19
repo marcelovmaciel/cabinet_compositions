@@ -1,0 +1,452 @@
+Novo Sistema de Filiação Partidária será apresentado aos partidos políticos — Tribunal Superior Eleitoral (https://www.tse.jus.br/comunicacao/noticias/2023/Novembro/novo-sistema-de-filiacao-partidaria-sera-apresentado-aos-partidos-politicos)
+citeturn3search0 [wordlim: 200] Published: 2.8 years ago; Crawled: 4 months ago; Novo Sistema de Filiação Partidária será apresentado aos partidos políticos Encontro no dia 28 de novembro reunirá representantes das agremiações e servidores da Justiça Eleitoral https://www.tse.jus.br/comunicacao/noticias/2023/Novembro/novo-sistema-de-filiacao-partidaria-sera-apresentado-aos-partidos-politicos https://www.tse.jus.br/@@site-logo/logo.jpg ... O Tribunal Superior Eleitoral (TSE) vai apresentar a nova versão do Sistema de Filiação Partidária (Filia) em encontro que reunirá representantes dos partidos políticos e servidores dos Tribunais Regionais Eleitorais (TREs) e dos cartórios eleitorais espalhados pelo Brasil. ... Já o Módulo Externo, de uso das legendas, permite o cadastramento de usuários credenciados das respectivas esferas partidárias, a inserção dos dados dos filiados no sistema para submissão à Justiça Eleitoral.
+
+Novo Sistema de Filiação Partidária será apresentado aos partidos políticos Encontro no dia 28 de novembro reunirá representantes das agremiações e servidores da Justiça Eleitoral https://www.tse.jus.br/comunicacao/noticias/2023/Novembro/novo-sistema-de-filiacao-partidaria-sera-apresentado-aos-partidos-politicos https://www.tse.jus.br/@@site-logo/logo.jpg
+
+## Novo Sistema de Filiação Partidária será apresentado aos partidos políticos
+
+Encontro no dia 28 de novembro reunirá representantes das agremiações e servidores da Justiça Eleitoral
+
+22/11/2023 08:35 - Atualizado em 06/03/2025 01:04
+
+Compartilhar página via e-mailCompartilhar pagina via FacebookCompartilhar pagina via WhatsApp
+
+Image: Novo Sistema de Filiação Partidária (Filia) 22.11.2023
+
+O Tribunal Superior Eleitoral (TSE) vai apresentar a nova versão do Sistema de Filiação Partidária (Filia) em encontro que reunirá representantes dos partidos políticos e servidores dos Tribunais Regionais Eleitorais (TREs) e dos cartórios eleitorais espalhados pelo Brasil. O evento ocorrerá no Auditório III do edifício-sede do TSE, no dia 28 de novembro, terça-feira, das 14h às 17h.
+
+Organizado pelas Secretarias Judiciária (SJD) e de Tecnologia da Informação (STI) do TSE, o encontro tem o objetivo de detalhar as novas funcionalidades do Filia e esclarecer eventuais dúvidas sobre a nova versão do sistema.
+
+O evento será transmitido pelo canal do TSE no YouTube.
+
+Funcionalidades
+
+A nova versão do Filia foi ajustada conforme as alterações promovidas pela Lei nº 13.877/2019 e pela Resolução TSE nº 23.668/2021. Ela contempla várias melhorias, como a alteração do processamento das filiações partidárias, que passará a ser automático e diário; a notificação do presidente nacional do partido, no caso de mudança de agremiação por filiado eleito; e a possibilidade de notificação de filiado, via e-Título, nos casos de filiação sub judice.
+
+O novo Filia também aprimorou a sua integração com o cadastro eleitoral para atualizar informações relativas à suspensão e ao restabelecimento dos direitos políticos, nome completo do filiado e situações de óbito, além de aperfeiçoar os modelos da certidão de filiação partidária, inclusive com a criação da certidão de filiação suspensa. 
+
+Módulos
+
+O FILIA é composto por três módulos: Interno, Externo e Consulta Pública. O Módulo Interno, de uso obrigatório e exclusivo da Justiça Eleitoral, tem como objetivo o gerenciamento das informações relativas a filiações partidárias, bem como o cadastramento de usuário e senha do representante nacional do partido.
+
+Já o Módulo Externo, de uso das legendas, permite o cadastramento de usuários credenciados das respectivas esferas partidárias, a inserção dos dados dos filiados no sistema para submissão à Justiça Eleitoral.
+
+Qualquer órgão partidário poderá registrar as filiações no sistema, observadas as disposições estatutárias e os níveis de permissão de acesso. Somente poderão ser cadastrados nos perfis de Administrador Nacional, Administrador Estadual/Regional e Administrador Municipal/Zonal os presidentes, vice-presidentes ou delegados credenciados das respectivas esferas partidárias.
+
+Já o Módulo Consulta Pública permite a emissão e a validação de certidão.
+
+De acordo com a Resolução TSE nº 23.668, permanece disponibilizado, exclusivamente aos presidentes dos órgãos partidários nacionais e estaduais/regionais, conforme sua circunscrição eleitoral, o acesso a todas as informações biográficas de seus filiados constantes do cadastro eleitoral, incluídas as relacionadas a nome completo, gênero, número do título de eleitor e de inscrição no Cadastro de Pessoa Física, endereço e telefones, observada a Lei Geral de Proteção de Dados Pessoais, sendo vedada a disponibilização de dados biométricos do eleitor (Lei nº 9.096/1995, artigo 19, parágrafos 3º e 4º).
+
+MC/LC, DM
+
+#### Gestor responsável
+
+Secretaria de Comunicação e Multimídia
+
+Telefones:
++55(61) 3030-7077/7080
+
+E-mail:
+imprensa@tse.jus.br
+
+Última atualização: 06.03.2025 01:04--------------------------------------------------------------------------------
+Tribunal Superior Eleitoral (https://ptmg.org.br/wp-content/uploads/2024/02/guia-do-usuario-sistema-de-filiacao-partidaria-filia.pdf)
+citeturn3search12 [wordlim: 200] Tela do sistema “Sistema de Filiação Partidária - Externo” com barra superior azul e ícones à direita; página “Detalhar Usuário” exibindo dados do usuário em dois blocos.Primeiro bloco: Partido = “00 - Sigla - Nome Partido”; Título Eleitor = “1111 1111 1111”; CPF = “222 222 222 - 00”; Nome Eleitor = “JOSE DE TAL”; Situação = “Ativo”; E-mail = “teste@tse.jus.br”.
+Tribunal Superior Eleitoral  
+Secretaria de Tecnologia da Informação  
+
+Guia do usuário  
+Sistema de Filiação Partidária – FILIA  
+Módulo Externo  
+
+- Seja um membro ativo e vigente do partido informado;
+- Esteja “Anotado”;
+- Possua cargo igual a “Presidente”, “Delegado” ou “Vice Presidente”;
+- Possua abrangência equivalente à informada no FILIA (A abrangência nos dois sistemas FILIA e SGIP3 devem ser iguais).
+
+11.3 Detalhar Cadastro de usuário
+
+Para realizar o detalhamento dos dados do usuário, selecione a opção 🔍 na grid de resultados, o sistema apresenta a seguinte tela:
+
+<visual_element id="e1">
+Tela do sistema “Sistema de Filiação Partidária - Externo” com barra superior azul e ícones à direita; página “Detalhar Usuário” exibindo dados do usuário em dois blocos. Primeiro bloco: Partido = “00 - Sigla - Nome Partido”; Título Eleitor = “1111 1111 1111”; CPF = “222 222 222 - 00”; Nome Eleitor = “JOSE DE TAL”; Situação = “Ativo”; E-mail = “teste@tse.jus.br”. Segundo bloco: Perfil = “Administrador”; Abrangência = “Nacional”. Botão central inferior “Voltar”.
+</visual_element>
+
+Arquivo: Filia_Externo
+
+Versão do modelo: 3.0 19/09/23
+
+Página 39 de 52--------------------------------------------------------------------------------
+Suporte aos sistemas de filiação partidária (FILIA), gerenciamento e informações partidárias (SGIP3) e candidaturas(CANDex) — Tribunal Regional Eleitoral do Tocantins (https://www.tre-to.jus.br/eleitor/arquivos-nova-carta-de-servicos/copy34_of_emissao-do-titulo-eleitoral-alistamento)
+citeturn3search1 [wordlim: 200] Crawled: 4 months ago; POSTAL 181 - PLANO DIRETOR NORTE - Palmas - TO  | Site institucional: https://filia-externo.tse.jus.br/#/ https://sgip3.tse.jus.br/sgip3-externo/paginas/principal.xhtml https://www.tse.jus.br/eleicoes/eleicoes-2020/sistema-de-candidaturas-modulo-externo-candex-2020 e-mail: seadip@tre-to.jus.br  | (63) 3229-9659 ... Palmas-TO  (Tocantins)Brasil CEP: 77006-214
+
+# Tribunal Regional Eleitoral do Tocantins
+
+## Suporte aos sistemas de filiação partidária (FILIA), gerenciamento e informações partidárias (SGIP3) e candidaturas(CANDex)
+
+Compartilhar página via e-mailCompartilhar pagina via FacebookCompartilhar pagina via WhatsApp
+
+### O que é:
+
+Orientações aos partidos políticos sobre gerenciamento de usuários, cadastros de filiados, relações internas de filiados, emissão e certidão de filiação partidária e consulta de relações oficiais e internas de filiados,  informações referentes a órgãos de direção de partidos políticos de seus integrantes e delegados, bem como orientações aos pedidos de registro de candidaturas.
+
+### Onde:
+
+FORMA DE ACESSO/ LOCAL DE ATENDIMENTO
+Presencial  | Internet/Online  | Telefone
+Na secretaria do tribunal: Quadra 202 Norte - Av. Teotônio Segurado, Conjunto 01 Lotes 1 e 2 4º andar. CEP: 77.006-214 - CX. POSTAL 181 - PLANO DIRETOR NORTE - Palmas - TO  | Site institucional: https://filia-externo.tse.jus.br/#/ https://sgip3.tse.jus.br/sgip3-externo/paginas/principal.xhtml https://www.tse.jus.br/eleicoes/eleicoes-2020/sistema-de-candidaturas-modulo-externo-candex-2020 e-mail: seadip@tre-to.jus.br  | (63) 3229-9659
+
+### Quando:
+
+HORÁRIOS DE ATENDIMENTO
+ Segunda a sexta-feira, das 13 às 19 horas.                                                               
+
+### 
+
+### Como:
+
+REQUISITOS PARA SOLICITAÇÃO DO SERVIÇO
+DOCUMENTOS  | CONDIÇÕES
+Não é necessário a apresentação de documentos para ter acesso às informações desejadas.  | Atendimento imediato.
+
+Unidade Responsável:
+
+Coordenadoria Judiciária/COJUD
+
+Seção de Autuação, Distribuição e Registros Partidários/SEADIP
+
+## Endereço e telefones do tribunal.
+
+Tribunal Regional Eleitoral do Tocantins
+
+Av. Teotônio Segurado, Quadra 202 Norte, Conjunto 01, Lotes 01 e 02
+Palmas-TO  (Tocantins)Brasil CEP: 77006-214
+Tel:(+55-63) 3234-9000
+--------------------------------------------------------------------------------
+Formulário de Referência - 2022 - PETROLEO BRASILEIRO S.A. PETROBRAS (https://www.latibex.com/docs/Documentos/LED/2023/02/07/TRACN_20220401_123519_B11_123353_20220101_DOC001.pdf)
+citeturn3search13 [wordlim: 200] Published: 3.6 years ago; Formulário de Referência - 2022 - PETROLEO BRASILEIRO S.A.PETROBRAS ... N/A ... Jônathas Assunção Salvador Nery de Castro - 992.040.291-53 ... RICARDO SORIANO DE ALENCAR - 606.468.451-87
+Formulário de Referência - 2022 - PETROLEO BRASILEIRO S.A. PETROBRAS  
+Versão : 17
+
+João Henrique Rittershaussen - 430.522.316-34  
+N/A
+
+Salvador Dahan - 272.672.828-65  
+N/A
+
+Edison Antônio Costa Britto Garcia - 244.897.191-91  
+N/A
+
+Iêda Aparecida de Moura Cagni - 820.132.251-72  
+N/A
+
+Jônathas Assunção Salvador Nery de Castro - 992.040.291-53  
+N/A
+
+Marcelo Gasparino da Silva - 807.383.469-34  
+N/A
+
+Marcelo Mesquita de Siqueira Filho - 951.406.977-34  
+N/A
+
+Rosangela Buzanelli Torres - 002.629.247-57  
+N/A
+
+Gileno Gurjão Barreto - 315.099.595-72  
+N/A
+
+José João Abdalla Filho - 245.730.788-00  
+N/A
+
+RICARDO SORIANO DE ALENCAR - 606.468.451-87  
+N/A
+
+Francisco Petros Oliveira Lima Papathanasiadis - 050.199.968-07  
+N/A
+
+Jean Paul Terra Prates - 867.212.837-00  
+N/A
+
+Robert Juenemann - 426.077.100-06  
+N/A
+
+Janete Duarte Mol - 706.380.636-04  
+N/A
+
+Otavio Ladeira de Medeiros - 065.675.548-27  
+N/A
+
+Marisete Fatima Dadald Pereira - 409.905.160-91
+
+PÁGINA: 526 de 781--------------------------------------------------------------------------------
+Formulário de Referência - 2022 - PETROLEO BRASILEIRO S.A. PETROBRAS (https://www.latibex.com/docs/Documentos/LED/2022/09/21/TRACN_20220920_000000_A99_120659_20220101_DOC001.pdf)
+citeturn3search14 [wordlim: 200] Published: 4.0 years ago; Formulário de Referência - 2022 - PETROLEO BRASILEIRO S.A.PETROBRAS ... Jônathas Assunção Salvador Nery de Castro - 992.040.291-53 ... RICARDO SORIANO DE ALENCAR - 606.468.451-87
+Formulário de Referência - 2022 - PETROLEO BRASILEIRO S.A. PETROBRAS  
+Versão : 7
+
+João Henrique Rittershaussen - 430.522.316-34  
+N/A
+
+Rafael Chaves Santos - 763.445.330-72  
+N/A
+
+Salvador Dahan - 272.672.828-65  
+N/A
+
+EDISON ANTONIO COSTA BRITTO GARCIA - 244.897.191-91  
+N/A
+
+Iêda Aparecida de Moura Cagni - 820.132.251-72  
+N/A
+
+Jônathas Assunção Salvador Nery de Castro - 992.040.291-53  
+N/A
+
+Marcelo Gasparino da Silva - 807.383.469-34  
+N/A
+
+Marcelo Mesquita de Siqueira Filho - 951.406.977-34  
+N/A
+
+Rosangela Buzanelli Torres - 002.629.247-57  
+N/A
+
+Gileno Gurjão Barreto - 315.099.595-72  
+N/A
+
+José João Abdalla Filho - 245.730.788-00  
+N/A
+
+RICARDO SORIANO DE ALENCAR - 606.468.451-87  
+N/A
+
+Francisco Petros Oliveira Lima Papathanasiadis - 050.199.968-07  
+N/A
+
+Caio Mário Paes de Andrade - 326.865.105-44  
+N/A
+
+Patrícia Valente Stierli - 010.551.368-78  
+N/A
+
+Robert Juenemann - 426.077.100-06  
+N/A
+
+Janete Duarte Mol - 706.380.636-04
+
+PÁGINA: 533 de 780--------------------------------------------------------------------------------
+ (https://sessoespub.tre-rs.jus.br/votos/29476/show_text)
+citeturn3search2 [wordlim: 200] Published: 6.0 years ago; Crawled: 5 months ago; Na segunda semana dos meses de abril e outubro de cada ano, o partido, por seus órgãos de direção municipal/zonal, estadual/regional ou nacional, enviará à Justiça Eleitoral para arquivamento, publicação e cumprimento dos prazos de filiação para efeito de candidatura, a relação atualizada dos nomes de todos os seus filiados na respectiva zona eleitoral, da qual constará, também, o número dos títulos eleitorais e das seções em que estão inscritos e a data do deferimento das respectivas filiações (Lei nº 9.096/1995, art. 19, caput). ... As relações de filiados deverão ser elaboradas pelo partido em aplicação específica do Módulo Externo do FILIA e submetidas à Justiça Eleitoral pela rede mundial de computadores, em ambiente próprio do sítio eletrônico do TSE reservado aos partidos políticos. ... O segundo documento é uma imagem extraída do site https://filia-externo. tse.jus.br, em 10.08.2020, às 15:38, que atesta que o eleitor SANDRO GADINI encontrasse filiado ao PT do Município de Ronda Alta desde 27.03.1991 (ID 6659333).
+
+Art. 12. As relações de filiados deverão ser elaboradas pelo partido em aplicação específica do Módulo Externo do FILIA e submetidas à Justiça Eleitoral pela rede mundial de computadores, em ambiente próprio do sítio eletrônico do TSE reservado aos partidos políticos.
+
+Parágrafo único. Para efeito do disposto nesta resolução, adotar-se-á a seguinte nomenclatura:
+
+[...]
+
+II - relação especial relação cujos dados serão fornecidos pelos partidos políticos em cumprimento a determinação judicial, nos termos do § 2º do art. 11 desta resolução, que será efetivada, no Módulo Interno do FILIA, pelo cartório eleitoral;
+
+Art. 16. As relações especiais, submetidas à Justiça Eleitoral em atendimento do disposto no § 2º do art. 11 desta resolução, serão processadas em procedimento próprio nos meses de junho e dezembro.
+
+§ 1º O pedido a que se refere o caput deste artigo deverá ser encaminhado ao juízo do domicílio eleitoral do filiado, que decidirá a respeito da determinação ao partido para fins de submissão pelo FILIA da relação de filiados para processamento especial.
+
+Provimento negado. (Recurso Eleitoral nº 6181, Acórdão de 15/08/2016, Relator(a) DR. JAMIL ANDRAUS HANNA BANNURA) (grifado).
+
+ 
+
+A título de desfecho, e em relação ao pedido subsidiário, reproduzo a manifestação do d. Procurador Regional Eleitoral, a qual adoto expressamente como razões de decidir, litteris:
+
+Para comprovar sua filiação, o requerente anexou à inicial 4 (quatro) documentos.
+
+Com efeito, o primeiro deles é uma imagem de WhatsApp da página do Sistema de Filiados do PT (sisfil.pt.org.br) (ID 6659283).
+
+O segundo documento é uma imagem extraída do site https://filia-externo. tse.jus.br, em 10.08.2020, às 15:38, que atesta que o eleitor SANDRO GADINI encontrasse filiado ao PT do Município de Ronda Alta desde 27.03.1991 (ID 6659333).
+
+O terceiro documento é uma Certidão emitida pela Justiça Eleitoral, em 13.08.2020, em que consta o nome de SANDRO GADINI como ocupante do cargo de Presidente da Comissão Executiva no exercício de 29/01/2003 a 09/10/2005 e situação de INATIVO em cor vermelha (ID 6659383).
+
+--------------------------------------------------------------------------------
+Presidente! Fique atento para as seguintes orientações – Partido Progressista (https://www.pp-rs.org.br/orientacoes-para-registro-e-convencao-estadual-2023/)
+citeturn3search3 [wordlim: 200] Published: 3.1 years ago; Crawled: 2 months ago; 1 – CERTIDÃO DE COMPOSIÇÃO PARTIDÁRIA – Está disponível, a partir de 1º de agosto, no site do TSE (https://www.tse.jus.br/partidos/partidos-registrados-no-tse/informacoes-partidarias/modulo-consulta-sgip3). ... 2 – SENHA DO SISTEMA DE FILIAÇÕES FILIA – Informamos que o TSE implantou um novo sistema eletrônico para processamento das filiações, substituindo o anterior FILIAWEB pelo atual FILIA – o qual deverá ser “baixado” para processamentos das novas filiações, através do site do TRE – O sistema é “on-line” Sistema de Filiação Partidária – Módulo Externo (tse.jus.br).
+
+  * agosto 1, 2023
+  * Convenção
+
+# Presidente! Fique atento para as seguintes orientações
+
+Prezados(as) Presidentes Municipais,
+
+Com cumprimentos e admiração, dirijo-me a essa Presidência para parabenizar o Diretório e a Executiva Municipal pela posse oficial da gestão 2023/2023, que inicia sua vigência em 1º/08/2023 a 31/07/2026, desejando sucesso em busca da vitória nas Eleições Municipais de 2024, desafio que se inicia desde agora. Nesse sentido, vimos encaminhar as orientações relacionadas ao processo de registro da Certidão de Composição Partidária e do Sistema FILIA do TSE, além das informações do Colégio Eleitoral e o Registro de Chapas da Convenção Estadual que ocorrerá na data de 19 de agosto de 2023, apresentados na Resolução nº 125/2023 disponível no site do PP-RS em Resoluções – Partido Progressista (pp-rs.org.br).
+
+ 
+
+1 – CERTIDÃO DE COMPOSIÇÃO PARTIDÁRIA – Está disponível, a partir de 1º de agosto, no site do TSE (https://www.tse.jus.br/partidos/partidos-registrados-no-tse/informacoes-partidarias/modulo-consulta-sgip3). Em posse dessa Certidão, o Presidente Municipal deverá tomar as devidas providências junto à Receita Federal (atualizar CNPJ) e às instituições bancárias para atualização dos cadastros e também realizar a Prestação de Contas.
+
+ 
+
+2 – SENHA DO SISTEMA DE FILIAÇÕES FILIA – Informamos que o TSE implantou um novo sistema eletrônico para processamento das filiações, substituindo o anterior FILIAWEB pelo atual FILIA – o qual deverá ser “baixado” para processamentos das novas filiações, através do site do TRE – O sistema é “on-line” Sistema de Filiação Partidária – Módulo Externo (tse.jus.br).
+
+As senhas serão enviadas entre os dias 1º até 04 de agosto pelo Diretório Estadual aos novos Presidentes Municipais através do e-mail indicado no cadastro da nova Executiva na Secretaria-Geral PP/RS. O FILIA poderá ser administrado somente pelos Presidentes das respectivas esferas partidárias (obs: outros membros da Executiva como Secretários ou Tesoureiros não são aceitos pelo Sistema).
+--------------------------------------------------------------------------------
+Confira aqui os acessos rápidos dos serviços dos Cartórios Eleitorais — Tribunal Regional Eleitoral de Mato Grosso do Sul (https://www.tre-ms.jus.br/comunicacao/noticias/2023/Outubro/confira-aqui-os-acessos-rapidos-dos-servicos-dos-cartorios-eleitorais)
+citeturn3search4 [wordlim: 200] Published: 2.9 years ago; Crawled: today; https://www.tse.jus.br/partidos/contas-partidarias/prestacao-de-contas/consulta-prestacao-contas ... Anotação de órgão partidário – SGIP e Sistema FILIA ... Módulo Externo do Sistema Candidaturas – CANDex
+
+  1. Anotação de órgão partidário – SGIP e Sistema FILIA
+
+             Telefones: (67) 2107-7148, (67) 2107-7139 ou e-mail: scapd@tre-ms.jus.br
+
+  1. Módulo Externo do Sistema Candidaturas – CANDex
+
+            Telefones: (67) 2107-7132, (67) 2107-7024 E-mail: srdcm.suporte@tre-ms.jus.br
+
+
+  * PARA DEMANDAS ADMINISTRATIVAS URGENTES RELACIONADAS À SECRETARIA DE ADMINISTRAÇÃO E FINANÇAS DO TRE-MS - SAF
+
+         csg@tre-ms.jus.br
+
+         (67) 3326-5450
+
+
+#ParaTodosVerem: Foto da fachada do Cartório Eleitoral. Prédio em cor cinza, com inscrição na marquise CARTÓRIO ELEITORAL, porta de entrada em vidro, ao lado uma parede cilindirca em vermelho, grades verdes com pequeno espaço gramado a frente do prédio, algumas plantas ao redor da grade.
+
+
+#### Gestor responsável
+
+Assessoria Comunicação e Cerimonial
+
+Telefones:
++55(67) 2107-7000
+
+E-mail:
+ascom@tre-ms.jus.br
+
+Última atualização: 06.03.2025 17:04
+
+## Acesso rápido
+
+Acesso rápido [Input: Filtrar por...]
+
+Buscar em todo site
+
+Mapa do site
+
+Serviços eleitorais
+
+  * Assistente Virtual - Eva
+  * Título on line
+  * Atendimento ao eleitor
+  * Canal do Mesário
+  * Carta de serviços ao Usuário
+  * Certidões
+  * Débitos do eleitor
+  * Denúncias Eleitorais
+  * Disque-Eleitor
+  * Dúvidas frequentes
+  * Eleitor no exterior
+  * Justificativa Eleitoral
+  * Mesário voluntário
+  * Recadastramento biométrico
+  * Restituição de multas
+  * Cancelamento de inscrição de eleitores
+  * Título e local de votação
+  * Transferência Temporária
+--------------------------------------------------------------------------------
+Carta de Serviços da Justiça Eleitoral de Santa Catarina — Tribunal Regional Eleitoral de Santa Catarina (https://www.tre-sc.jus.br/institucional/cartas-de-servico-1)
+citeturn3search5 [wordlim: 200] Crawled: 2 days ago; O acesso ao Sistema de Filiação Partidária (FILIA) foi concedido ao presidente nacional de cada partido político com registro de estatuto no TSE, como administrador nacional do sistema. ... Formulário eletrônico para manifestação: https://apps.tre-sc.jus.br/sei/controlador_externo.php? ... Sistema disponibilizado pela Justiça Eleitoral na internet para o gerenciamento do cadastro de filiados pelo partido político (https://www.tse.jus.br/partidos/partidos-registrados-no-tse/informacoes-partidarias/modulo-consulta-sgip3).
+
+Dúvidas? Ligue 0800-647-3888, nos dias úteis, de segunda a sexta-feira, das 13h às 19h.
+
+Principais etapas para processamento do serviço:
+
+Acesse o site da Justiça Eleitoral e selecione Partidos, em seguida Filiação partidária e Sistema de Filiação Partidária (FILIA) (https://www.tse.jus.br/partidos/filiacao-partidaria/filiacao-partidaria)
+
+Documentos e requisitos necessários:
+
+O acesso ao Sistema de Filiação Partidária (FILIA) foi concedido ao presidente nacional de cada partido político com registro de estatuto no TSE, como administrador nacional do sistema.
+
+Os demais administradores nacionais, que serão cadastrados pelos respectivos presidentes nacionais, devem estar anotados no SGIP3, como membros ativos, “vice-presidente” ou “delegado”.
+
+Os administradores nacionais poderão cadastrar os administradores de abrangência inferior.
+
+Prioridades de atendimento:
+
+Serviço disponível na internet, sem prioridade estabelecida.
+
+Previsão de tempo de espera para atendimento:
+
+Serviço disponível na internet de forma permanente (alguns serviços poderão estar suspensos durante o período eleitoral).
+
+Eventuais custos:
+
+Os serviços prestados pela Justiça Eleitoral são gratuitos.
+
+Unidade Gestora responsável pelo serviço:
+
+Coordenadoria de Partidos Políticos
+
+Serviço prestado em meio digital?
+
+Sim, totalmente.
+
+Serviço relacionado a qual macroprocesso da Cadeia de Valor do TRE-SC?
+
+Gestão dos cadastros eleitorais.
+
+Sistema de Gerenciamento de Informações Partidárias (SGIP)
+
+O que é? (descrição)
+
+Serviço desenvolvido pela Justiça Eleitoral para gerenciamento de informações partidárias.
+
+Quem pode usar?
+
+O serviço pode ser utilizado por usuários dos partidos políticos.
+
+Forma de atendimento:
+
+Via internet.
+
+Onde o serviço é prestado?
+
+Sistema disponibilizado pela Justiça Eleitoral na internet para o gerenciamento do cadastro de filiados pelo partido político (https://www.tse.jus.br/partidos/partidos-registrados-no-tse/informacoes-partidarias/modulo-consulta-sgip3).
+
+Mais informações:
+
+O SGIP possibilita gerenciar o cadastramento de delegados e órgãos partidários; validar a autenticidade de documentos; e consultar a participação de eleitor em órgão partidário.
+
+Acesse o manual do usuário (https://www.tse.jus.br/partidos/partidos-registrados-no-tse/informacoes-partidarias/manual-sgip) para obter mais informações sobre o sistema.
+
+--------------------------------------------------------------------------------
+Serviços diversos — Tribunal Regional Eleitoral de Goiás (https://www.tre-go.jus.br/servicos-eleitorais/carta-de-servicos-ao-cidadao/topicos/copy3_of_eleicoes)
+citeturn3search6 [wordlim: 200] Crawled: 4 months ago;  • Tribunais Regionais Eleitorais (TREs): Responsáveis por analisar os pedidos de registro de candidatos a governador, vice-governador, senador, deputado federal, deputado estadual ou distrital. ... Sistema de Candidaturas – Módulo Externo (CANDex): Será publicado na aba Eleições/ Selecionar ano respectivo/ Selecionar o Módulo Externo (CANDex) do ano ... • Resolução TSE nº 23.596/2019 - Filiação Partidária ...  • Para cadastrar usuários no sistema, o representante legal do partido deve encaminhar os seguintes dados para o e-mail segdp-lista@tre-go.jus.br ... o TSE concederá a senha do sistema FILIA ao Presidente Nacional, o qual poderá descentralizar aos órgãos de direção estaduais e municipais, de acordo com o formato de organização interna adotado.
+Sistema de Candidaturas – Módulo Externo (CANDex): Será publicado na aba Eleições/ Selecionar ano respectivo/ Selecionar o Módulo Externo (CANDex) do ano
+
+Requisitos para acesso e documentos necessários:
+Qualquer pessoa pode se candidatar a um cargo eletivo, desde que cumpra as regras da Constituição e da lei e não esteja em nenhuma situação que a impeça de concorrer.
+Para ser candidato, é necessário:
+– ser brasileiro;
+– estar em dia com os direitos políticos;
+– ter título de eleitor;
+– ter domicílio eleitoral na região onde pretende concorrer;
+– ser filiado a um partido político;
+– cumprir a idade mínima exigida para o cargo.
+A idade mínima é:
+– 35 anos para presidente, vice-presidente e senador;
+– 30 anos para governador e vice-governador;
+– 21 anos para deputado federal, deputado estadual ou distrital, prefeito e vice-prefeito;
+– 18 anos para vereador.
+Em regra, a idade mínima é verificada na data da posse. No caso do cargo de vereador, a idade de 18 anos é conferida em 15 de agosto do ano da eleição. --------------------------------------------------------------------------------
+Desfiliação, Automática - Jurisprudência | Jusbrasil (https://www.jusbrasil.com.br/jurisprudencia/busca?q=desfilia%C3%A7%C3%A3o%2C+autom%C3%A1tica)
+citeturn3search7 [wordlim: 200] Crawled: 5 months ago; O autor sustentou que o requerido havia se desfiliado do partido sem justa causa, desrespeitando decisão judicial que, em ação anterior, havia julgado improcedente o pedido de desfiliação com base em carta de anuência do órgão municipal do PSD. ... RAZÕES DE DECIDIR Constatação, por meio de prova documental trazida pelo TSE e referente ao Sistema FILIA, de que o requerido ainda estava filiado ao PSD na data do ajuizamento da ação.
+--------------------------------------------------------------------------------
+Guia do Sistema de Filiação Partidária | PDF | Autenticação | Senha (https://pt.scribd.com/document/948040919/PDF-Documentguia-Do-Usuario-Sistema-de-Filiacao-Partidaria-Filia-26-05-24)
+citeturn3search8 [wordlim: 200] Published: 2.6 years ago; Crawled: 10 months ago; Ao acionar o link, você será direcionado para a tela de login do FILIA Módulo Externo. ... 2- Informe a senha provisória encaminhada no e-mail cadastrado.
+--------------------------------------------------------------------------------
+DIÁRIO DA JUSTIÇA ELEITORAL DE SANTA CATARINA (https://livrozilla.com/doc/1561237/di%C3%A1rio-da-justi%C3%A7a-eleitoral-de-santa-catarina)
+citeturn3search9 [wordlim: 200] Published: 12.8 years ago; Crawled: 2 weeks ago;     CRESC n. 07/2012, a medida que se impõe é o imediato    cancelamento de ambas as filiações envolvidas em duplicidade, ...     O CANCELAMENTO IMEDIATO de todas as filiações partidárias do
+--------------------------------------------------------------------------------
+Diário de Justiça do Estado de São Paulo - 28/09/2022 - Primeira Instancia do Interior parte 1 - Pg. 2127 | Escavador (https://www.escavador.com/diarios/5569758/DJSP/primeira-instancia-do-interior-parte-1/2022-09-28?page=2127)
+citeturn3search10 [wordlim: 200] Published: 4.0 years ago; Crawled: 3 weeks ago; Campinas - - Jose Aglailson Xavier - - JONATAS DE OLIVEIRA PORTELA - - Supergasbras Energia Ltda - - Cervejaria Petrópolis ... Ciso MedCentro Integrado de Seguranca Ocupacional e Medicina Ltda - - Braskem Sa - - FIRST S.A. - - BASF POLIURETANOS LTDA -
+--------------------------------------------------------------------------------
+Associação Futebol Aveiro Manual: AI Chat & PDF | Manualzz (https://manualzz.com/doc/6012258/associa%C3%A7%C3%A3o-futebol-aveiro-manual)
+citeturn3search11 [wordlim: 200] Published: 15.2 years ago; Crawled: 3 days ago;     coladas no local correcto, e fotoc&oacute;pia simples do Bilhete de Identidade ou Cart&atilde;o do Cidad&atilde;o, sejam ...     As quotas de Filia&ccedil;&atilde;o e Inscri&ccedil;&atilde;o de Categoria a pagar pelos Clubes no acto de entrega da ...     Com in&iacute;cio na &eacute;poca 2011/2012 o processo de revalida&ccedil;&atilde;o de inscri&ccedil;&otilde;es poder&aacute; ser feito
+

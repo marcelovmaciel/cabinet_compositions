@@ -1,0 +1,71 @@
+{
+  "url": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=100311&isMembrosAtivos=false",
+  "status": 200,
+  "retrieved_at": "2026-09-11T00:48:20.070850+00:00",
+  "response_sha256": "7691cff881e0f3b903a6d4b7fcdd4f71f38d1f3cfd7ce0ba3b1e5e3c25db2ecd",
+  "orgaoPartidarioSummary": {
+    "sqOrgaoPartidario": null,
+    "numero": null,
+    "sigla": null,
+    "nome": null,
+    "tipoOrgao": null,
+    "dataInicioVigencia": null,
+    "dataFimVigencia": null,
+    "protocolo": null,
+    "situacaoiVigencia": null,
+    "abrangencia": null,
+    "qtdeRegistros": null,
+    "anotacaoOrgaoPartidarioInfo": [
+      {
+        "nrProtocolo": null,
+        "tpAnotacao": null,
+        "dtProtocolo": null,
+        "nrRegistroPai": 100311,
+        "numero": 15,
+        "sigla": "MDB",
+        "tipoOrgao": "Órgão definitivo",
+        "dataInicioVigencia": "05/02/2016",
+        "dataFimVigencia": "18/01/2019",
+        "dataDecisaoDespacho": "18/01/2019",
+        "cnpj": "00886861000119",
+        "tipoAtividade": "Proposta de alteração",
+        "situacaoVigencia": "Não Vigente",
+        "abrangencia": "Estadual",
+        "qtdeRegistros": null,
+        "uf": "GO",
+        "sgUeSede": "GO",
+        "municipio": "",
+        "zona": "",
+        "situacoes": null,
+        "dataDaAcao": "2020-03-09 17:39:55.0",
+        "situacaoDaAnotacao": "Validada",
+        "tipoRegistro": "H"
+      }
+    ],
+    "uf": null,
+    "sgUeSede": null,
+    "municipio": null,
+    "zona": null,
+    "situacoes": [
+      "Anotado; "
+    ],
+    "emitirComissaoExecutiva": true
+  },
+  "member_keys": [
+    "id",
+    "nomeMembro",
+    "nomeCargo",
+    "dataInicioExercicio",
+    "dataFimExercicio",
+    "situacao",
+    "respAdministrativo",
+    "respFinanceiro",
+    "nrTitulo",
+    "cpf",
+    "des_raca_cor",
+    "des_genero"
+  ],
+  "member_count": 149,
+  "matches": [],
+  "scope": "All members returned by the public governance endpoint for the selected organ, including inactive members; not all party members."
+}

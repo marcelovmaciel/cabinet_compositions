@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6912",
+  "city": "DUQUE DE CAXIAS",
+  "party": "DEMOCRATA",
+  "id": 60,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6912&sqPartido=60&currentPage=0&pageSize=10000",
+      "records": 176,
+      "totalElements": 176,
+      "response_sha256": "32128b1b9b1104194a41d7709416d3da01f832d725770059f28b4b4851619171",
+      "retrieved_utc": "2026-09-10T23:40:24Z"
+    }
+  ],
+  "matches": []
+}

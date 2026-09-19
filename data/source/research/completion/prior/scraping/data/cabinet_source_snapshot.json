@@ -1,0 +1,11 @@
+{
+  "source_as_of": "2026-03-19",
+  "generated_at": "2026-08-28T00:00:00Z",
+  "wikipedia_revisions": {
+    "dilma_rousseff": 71552388,
+    "michel_temer": 71604023,
+    "jair_bolsonaro": 71536920,
+    "lula_2023_presente": 71991733
+  },
+  "notes": "Pinned revisions reproduce the pre-PSC-repair cabinet source snapshot. source_as_of retains the existing analysis cutoff; later live-page edits are intentionally excluded from this baseline repair."
+}

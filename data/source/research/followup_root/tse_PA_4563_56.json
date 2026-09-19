@@ -1,0 +1,42 @@
+{
+  "uf": "PA",
+  "municipio": "4563",
+  "city": "BELÉM",
+  "party": "PSDB",
+  "id": 56,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=56&currentPage=0&pageSize=10000",
+      "records": 3743,
+      "totalElements": 3743,
+      "response_sha256": "318a92aa1aee83cf85bdbbccbc0672a3ca812f4d59a4dce7753858eb522e7ee3",
+      "retrieved_utc": "2026-09-10T23:38:44Z"
+    }
+  ],
+  "matches": [
+    {
+      "sqRegistroFiliacao": 24678127,
+      "cdMotivoCancelamento": null,
+      "cdMotivoDesfiliacao": null,
+      "desSituacaoEleitor": "REGULAR",
+      "dtCancelamento": null,
+      "dtDesfiliacao": null,
+      "dtExclusao": null,
+      "dtFiliacao": [
+        1997,
+        1,
+        31
+      ],
+      "tsCadastroDesfiliacao": null,
+      "nmEleitor": "MARIO RAMOS RIBEIRO",
+      "nomLocalidade": "BELÉM",
+      "sgPartido": "PSDB",
+      "sgUe": "PA",
+      "stRegistroFiliacao": 1,
+      "tpSexo": 2,
+      "indPendencia": 0,
+      "indOrigem": 0,
+      "public_registry_identity_sha256": "3d6f9994683705da8ee73683c3025f47c3e5337c73f4355d58a8785fbcb2b137"
+    }
+  ]
+}

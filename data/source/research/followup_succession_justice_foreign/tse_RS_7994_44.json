@@ -1,0 +1,17 @@
+{
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 1443,
+      "totalElements": 1443,
+      "response_sha256": "a38bdc832e004aab1dddb8ba484f896742671f7e535fd3b44fb697b4bb668a1e",
+      "retrieved_utc": "2026-09-10T23:39:07Z"
+    }
+  ],
+  "matches": []
+}

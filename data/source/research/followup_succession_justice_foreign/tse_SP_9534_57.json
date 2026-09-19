@@ -1,0 +1,17 @@
+{
+  "party": "AGIR",
+  "id": 57,
+  "uf": "SP",
+  "municipio": "9534",
+  "city": "Presidente Prudente",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 56,
+      "totalElements": 56,
+      "response_sha256": "55200c9fae4ca68ff4169397d643f85c54c141807637f1a4bddf00650d21ae0a",
+      "retrieved_utc": "2026-09-10T23:39:09Z"
+    }
+  ],
+  "matches": []
+}

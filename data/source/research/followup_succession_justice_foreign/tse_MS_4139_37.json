@@ -1,0 +1,17 @@
+{
+  "party": "PCO",
+  "id": 37,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 33,
+      "totalElements": 33,
+      "response_sha256": "7cac3c93bfd497abf4e72cfc681ef4c61471e4170f13aab743eebc4cba22464f",
+      "retrieved_utc": "2026-09-10T23:40:15Z"
+    }
+  ],
+  "matches": []
+}

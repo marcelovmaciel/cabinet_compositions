@@ -1,0 +1,17 @@
+{
+  "party": "PDT",
+  "id": 70,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 3421,
+      "totalElements": 3421,
+      "response_sha256": "2c7a9647dcd2a26e9526d8f5e12c606d3e339a5af3fb2332a2d5bc0068c29311",
+      "retrieved_utc": "2026-09-10T23:41:17Z"
+    }
+  ],
+  "matches": []
+}

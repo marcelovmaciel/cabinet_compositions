@@ -1,0 +1,109 @@
+[
+  {
+    "case_id": "SABINO-2023-RETURN",
+    "event": "effective resumption of ministerial service",
+    "lower_bound": "2023-12-04",
+    "upper_bound": "2023-12-06",
+    "primary_date": "2023-12-06",
+    "primary_convention": "Latest supported bound where records of actual service conflict.",
+    "primary_evidence": [
+      "camara_bio",
+      "20231205_parliamentary_exercise",
+      "20231204_ana_portaria"
+    ],
+    "alternative_date": "2023-12-04",
+    "alternative_evidence": [
+      "20231204_cnn_actual_return",
+      "20231204_senate_meeting"
+    ],
+    "explanation": "CNN reports resumed command Dec4 and Senate describes a ministerial meeting that day. Neither is discarded. Actual parliamentary roll call Dec5 and licence Dec6 prevent treating Dec4 as exact uncontested return. Ana Carla signature alone would not establish absence; here independently documented dismissal and continued legislative exercise are essential.",
+    "affected_interval": [
+      "2023-12-04",
+      "2023-12-06"
+    ],
+    "affected_people": [
+      "Celso Sabino de Oliveira",
+      "Ana Carla Machado Lopes"
+    ],
+    "aggregate_effect": "Requires party-witness evaluation; Sabino represents UNIAO, Ana Carla affiliation remains unestablished here."
+  },
+  {
+    "case_id": "SABINO-2024-RETURN",
+    "event": "publication versus source index date",
+    "primary_date": "2024-12-06",
+    "rejected_index_date": "2024-12-09",
+    "explanation": "TSE URL has Dec9 but reproduced DOU issue235-A is Friday Dec6; do not use index/upload date as event date. Camara confirms licence Dec6.",
+    "sources": [
+      "20241206_dou",
+      "camara_bio"
+    ]
+  },
+  {
+    "case_id": "SABINO-2025-FEB-DEPARTURE",
+    "event": "signature/publication/effective distinction",
+    "signature_date": "2025-01-30",
+    "publication_date": "2025-01-31",
+    "primary_date": "2025-02-01",
+    "explanation": "Dismissal expressly effective Feb1; Carlos designation covers Feb1-2 and Camara confirms return Feb1.",
+    "sources": [
+      "20250131_dou",
+      "20250129_carlos_designated",
+      "camara_bio"
+    ]
+  },
+  {
+    "case_id": "SABINO-2025-NOV-RETURN",
+    "event": "effective resumption of ministerial service",
+    "lower_bound": "2025-11-14",
+    "upper_bound": "2025-11-17",
+    "primary_date": "2025-11-17",
+    "primary_convention": "Latest admissible date for genuinely bounded effective return.",
+    "primary_evidence": [
+      "camara_bio",
+      "20251114_ana_orla"
+    ],
+    "alternative_date": "2025-11-14",
+    "alternative_evidence": [
+      "20251114_dou"
+    ],
+    "explanation": "Reappointment decree13 published14, and contemporaneous ministry statement expected return14; parliamentary licence begins17. Ana Carla explicitly scheduled as minister substitute Nov14. Preserve3-day date uncertainty; scheduled event is not proof she actually executed agreement.",
+    "affected_interval": [
+      "2025-11-14",
+      "2025-11-17"
+    ],
+    "affected_people": [
+      "Celso Sabino de Oliveira",
+      "Ana Carla Machado Lopes"
+    ],
+    "aggregate_effect": "Requires party-witness evaluation; Sabino represents UNIAO, Ana Carla affiliation remains unestablished here."
+  },
+  {
+    "case_id": "SABINO-2025-DEC-SUCCESSION",
+    "event": "dismissal and successor appointment versus possession",
+    "dismissal_signature_date": "2025-12-18",
+    "dismissal_publication_date": "2025-12-19",
+    "primary_sabino_end_exclusive": "2025-12-19",
+    "gustavo_appointment_publication": "2025-12-19",
+    "primary_gustavo_start": "2025-12-23",
+    "explanation": "Do not keep Sabino in office until Gustavo possession. Camara records Sabino legislative return19; contemporaneous Correio identifies Ana Carla as intervening head until Gustavo assumes23. Existing Gustavo actual-possession source remains authoritative for his start.",
+    "sources": [
+      "camara_bio",
+      "20251219_dou",
+      "20251218_correio",
+      "existing_gustavo_possession_source"
+    ]
+  },
+  {
+    "case_id": "SABINO-2024-ACTOR",
+    "event": "identity of vacancy substitute",
+    "primary_person": "Ana Carla Machado Lopes",
+    "basis": "Decree8851 art1III plus continuously documented deputy appointment; not a direct vacancy-specific naming instrument.",
+    "sources": [
+      "substitution_decree_8851",
+      "ana_se_appointment",
+      "ana_se_continuity_dec2024"
+    ],
+    "credible_alternative_named_actor": null,
+    "explanation": "Targeted searches found no competing presidential designation. This is a reasoned primary institutional succession adjudication with a stated evidence limitation; it does not justify assigning her any party."
+  }
+]

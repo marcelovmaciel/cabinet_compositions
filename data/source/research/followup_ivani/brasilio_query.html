@@ -1,0 +1,247 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  
+  <meta charset="utf-8">
+  <!--Import Google Icon Font-->
+  <link rel="stylesheet" type="text/css" href="/static/css/material_icons.6beede8524d0.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="/static/css/materialize-social.76b1c156c64c.css">
+
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" type="text/css" href="/static/css/materialize.min.fba7562ce0e0.css">
+  <link rel="stylesheet" type="text/css" href="/static/css/dataTables.material.min.9adca8410e07.css">
+  <link rel="stylesheet" type="text/css" href="/static/css/base.7d12b8b133a4.css">
+  <link rel="stylesheet" type="text/css" href="/static/css/application.6980b2e32fe6.css">
+  <!--Let browser know website is optimized for mobile-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="/static/img/favicon.3ee9236ca0bc.ico">
+  <title>Brasil.IO</title>
+
+  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117698282-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'UA-117698282-1');
+  </script>
+  <script src="/static/js/jquery.c1e57137510f.js"></script>
+  <script src="/static/js/materialize.min.d923fe16aca4.js"></script>
+  <script src="/static/js/application.9edace3e6111.js"></script>
+  
+  
+
+</head>
+
+<body>
+  <nav class="nav-extended">
+    <div class="nav-wrapper indigo">
+      <a href="/" class="brand-logo" title="Ir à página inicial">
+        <img id="logo" src="/static/img/logo/logo_br-io_fundo-escuro.bbbaf8e79edf.png" alt="Logo da Brasil.IO">
+      </a>
+      <a href="#" data-target="mobile-demo" class="sidenav-trigger" title="Menu"><i class="material-icons">menu</i></a>
+      <ul class="right hide-on-med-and-down">
+        
+
+
+<li><a class="dropdown-trigger" href="#!" data-target="desktop_unauthenticated-dropdown">
+  Sua conta
+  <i class="material-icons right">arrow_drop_down</i>
+</a></li>
+<ul id="desktop_unauthenticated-dropdown" class="dropdown-content">
+  <li><a href="/auth/entrar/">Cadastre-se</a></li>
+  <li><a href="/auth/login/">Login</a></li>
+</ul>
+
+
+<li><a class="dropdown-trigger" href="#!" data-target="desktop-data-dropdown">
+  Dados
+  <i class="material-icons right">arrow_drop_down</i>
+</a></li>
+<ul id="desktop-data-dropdown" class="dropdown-content">
+  <li><a href="/datasets/">Datasets</a></li>
+  <li><a href="/especiais/">Páginas Especiais</a></li>
+  <li><a href="/api/v1/">API</a></li>
+</ul>
+
+<li><a class="dropdown-trigger" href="#!" data-target="desktop-about-dropdown">
+  Sobre
+  <i class="material-icons right">arrow_drop_down</i>
+</a></li>
+<ul id="desktop-about-dropdown" class="dropdown-content">
+  <li><a href="/manifesto/">Manifesto</a></li>
+  <li><a href="/colabore/">Colabore</a></li>
+</ul>
+
+<li><a href="https://blog.brasil.io/">Blog</a></li>
+<li><a class="btn" href="/doe/">APOIE</a></li>
+
+<script>
+  $(".dropdown-trigger").dropdown();
+</script>
+
+
+      </ul>
+    </div>
+    
+  </nav>
+
+  <ul class="sidenav" id="mobile-demo">
+    
+
+
+<li><a class="dropdown-trigger" href="#!" data-target="mobile_unauthenticated-dropdown">
+  Sua conta
+  <i class="material-icons right">arrow_drop_down</i>
+</a></li>
+<ul id="mobile_unauthenticated-dropdown" class="dropdown-content">
+  <li><a href="/auth/entrar/">Cadastre-se</a></li>
+  <li><a href="/auth/login/">Login</a></li>
+</ul>
+
+
+<li><a class="dropdown-trigger" href="#!" data-target="mobile-data-dropdown">
+  Dados
+  <i class="material-icons right">arrow_drop_down</i>
+</a></li>
+<ul id="mobile-data-dropdown" class="dropdown-content">
+  <li><a href="/datasets/">Datasets</a></li>
+  <li><a href="/especiais/">Páginas Especiais</a></li>
+  <li><a href="/api/v1/">API</a></li>
+</ul>
+
+<li><a class="dropdown-trigger" href="#!" data-target="mobile-about-dropdown">
+  Sobre
+  <i class="material-icons right">arrow_drop_down</i>
+</a></li>
+<ul id="mobile-about-dropdown" class="dropdown-content">
+  <li><a href="/manifesto/">Manifesto</a></li>
+  <li><a href="/colabore/">Colabore</a></li>
+</ul>
+
+<li><a href="https://blog.brasil.io/">Blog</a></li>
+<li><a class="btn" href="/doe/">APOIE</a></li>
+
+<script>
+  $(".dropdown-trigger").dropdown();
+</script>
+
+
+  </ul>
+
+  
+
+  <main class="container">
+    
+
+  <div class="row m-t-15">
+    <div class="col s12 m8 offset-m2">
+      <h4>Login</h4>
+
+      
+
+      
+          
+            <p class="red-text text-lighten-3">
+              Faça o login para acessar a página.
+            </p>
+          
+      
+
+      <form method="post" action="/auth/login/">
+        <input type="hidden" name="csrfmiddlewaretoken" value="1g5wOZgqN8T1nkFYVRiWryzCwuNsLNZ7aVb27hVnxBq2Cise5M3vI0QRvFSgrSVn">
+        <label for="id_username">Usuário:</label>
+        <input type="text" name="username" autofocus autocapitalize="none" autocomplete="username" maxlength="150" required id="id_username">
+
+        <label for="id_password">Senha:</label>
+        <input type="password" name="password" autocomplete="current-password" required id="id_password">
+
+        <div class="text-center">
+          <input class="btn" type="submit" value="login" />
+          <input type="hidden" name="next" value="/dataset/eleicoes-brasil/filiados/?nome_do_filiado=IVANI DOS SANTOS" />
+          <p>
+            <a href="/auth/troca-senha/">
+              Esqueci minha senha
+            </a>
+          </p>
+        </div>
+      </form>
+    </div>
+  </div>
+
+
+  </main>
+
+  <footer class="page-footer indigo darken-3">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text">Receba nossas novidades</h5>
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+            <form
+              action="https://cafe.us18.list-manage.com/subscribe/post?u=80b85fdff0e6a974bff762825&amp;id=ef97ff9b61"
+              method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
+              target="_blank" novalidate>
+
+              <div id="mc_embed_signup_scroll ">
+                <div class="row">
+                  <div class="mc-field-group input-field col m4">
+                    <input type="email" placeholder="Digite seu e-mail" value="" name="EMAIL"
+                      class="required email white-text email-newsletter" id="mce-EMAIL">
+                    <label for="mce-EMAIL">Newsletter</label>
+                  </div>
+
+                  <div id="mce-responses" class="clear">
+                    <div class="response" id="mce-error-response" style="display:none"></div>
+                    <div class="response" id="mce-success-response" style="display:none"></div>
+                  </div>
+                  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                  <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                    <input type="text" name="b_80b85fdff0e6a974bff762825_ef97ff9b61" tabindex="-1" value="">
+                  </div>
+                  <div class="clear col m4">
+                    <input type="submit" value="Inscrever" name="subscribe" id="mc-embedded-subscribe"
+                      class=" btn btn-dark-blue" style="float: left;">
+                  </div>
+                </div>
+              </div>
+
+            </form>
+          </div>
+          <!--End mc_embed_signup-->
+        </div>
+
+        <div class="col l4 offset-l2 s12">
+          <h5 class="white-text">Links</h5>
+          <ul>
+            <li><a href="https://t.me/brasil_io">
+                Nosso Canal no Telegram
+                <img style="height: 1.2em" src="/static/img/logo-telegram.2c84be4c4dec.png" alt="Logo Telegram"></a>
+            </li>
+            <li><a href="https://twitter.com/brasil_io">
+                Nosso Twitter
+                <img style="height: 1.2em" src="/static/img/logo-twitter.590897c3ebed.png" alt="Logo Twitter"></a>
+            </li>
+            <li><a href="/contato/">Entre em contato conosco</a></li>
+            <li><a href="/colabore/">Colabore conosco</a></li>
+
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <div class="container left">
+        O Brasil.io é mantido com muito carinho por
+        <a href="https://twitter.com/turicas">Álvaro Justen</a> e
+        <a href="/contribuidores/">contribuidores.</a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>

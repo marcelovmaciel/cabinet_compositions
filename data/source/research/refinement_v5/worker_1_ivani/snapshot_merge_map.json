@@ -1,0 +1,242 @@
+[
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/caseiro_commits.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/caseiro_commits.meta.json",
+    "sha256": "b087d11bbe3e897b9746a1270ea9321b2898960380377f59c5d382de2062d456"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/caseiro_commits.txt",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/caseiro_commits.txt",
+    "sha256": "ed67c6bdef80f4abe07ce1d7f72f9f36ac1727a0e3b17fad5b7f2502ef3dfc8c"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/caseiro_output_listing.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/caseiro_output_listing.meta.json",
+    "sha256": "1d1bd6af10a1255876fbcac291564a76154fb2d2496ed56ed4e5f3d532e3c9e4"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/caseiro_output_listing.txt",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/caseiro_output_listing.txt",
+    "sha256": "c625a7ff1617e45f772482c57a06f106ce95fa6858d91e904810fd8516f86aa0"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/caseiro_readme.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/caseiro_readme.meta.json",
+    "sha256": "fe86a038ef1d11334a373d5ee29801cac84c8cb82d7f026cbb5eb6654b18787e"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/caseiro_readme.txt",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/caseiro_readme.txt",
+    "sha256": "6857a2b3ab5876059cddd9001d687d68be225ef8c62f542f243ec779350dc916"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/caseiro_repo.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/caseiro_repo.meta.json",
+    "sha256": "9889cae29699d9e01da8086a7b41bae0957d1cdef8810e8567dc484b94f3e372"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/caseiro_repo.txt",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/caseiro_repo.txt",
+    "sha256": "b3388dc0cee47242b4a7fc896c5249cd117d39cd455fb4372f2a0b46c850b8f1"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/caseiro_script.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/caseiro_script.meta.json",
+    "sha256": "e174c9bf8022de53d3897e6c1dd4c3d172f9dae5e135202d9236ecd40cf1c5e3"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/caseiro_script.txt",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/caseiro_script.txt",
+    "sha256": "f0da871a68bc51794d0853434c3c3fa1eb9a3cef2277e53bf48430211e3978a9"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/gabriel_caseiro_data.html",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/gabriel_caseiro_data.html",
+    "sha256": "a4044166da7a1695d94239f1b5d2e54ff9bb20855cef7063cfc6c0dceb7cb4f7"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/gabriel_caseiro_data.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/gabriel_caseiro_data.meta.json",
+    "sha256": "991fa3dcafdfcfbd6b330c69f5b1afe1b8689d243cd46f36cdb2fb91958f2069"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/perfil_politico_app.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/perfil_politico_app.meta.json",
+    "sha256": "ff121f060648467ddf9ee36dd6a9e0ebe1634c87f74023c06de02569ebf28f09"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/perfil_politico_app.txt",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/perfil_politico_app.txt",
+    "sha256": "92453a108caef2c00ec8d7d282da60ba8e9df46e69a13642c3894163cf7d43be"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/perfil_politico_index.html",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/perfil_politico_index.html",
+    "sha256": "bb344ffd0e714a6c69c9f328cf5f0b99e2d0b6cc53c5f632dd2f917c28db9364"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/perfil_politico_index.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/perfil_politico_index.meta.json",
+    "sha256": "509cba3e6ba6b869c22561ca5b3d0f0e3a67dc84576f8612897b505b435d57e8"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/search_01.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/search_01.json",
+    "sha256": "f16e51b6f60cf47f96427ea62f6762e9dcabd119a9af0129c04ef2cbc11b0eb7"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/search_02.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/search_02.json",
+    "sha256": "d15102300598c48b829670b7950f5bd327838ac630829693711de61a72c3a1b4"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/search_03.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/search_03.json",
+    "sha256": "135d4ea9664939b2040d5cbc22c717e8c7acbc36292508ec041143284b619119"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/search_04.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/search_04.json",
+    "sha256": "83f67029321227b2833161b746b7fa8ff7940a2590df6e589fabac7c1020dd5c"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/search_05.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/search_05.json",
+    "sha256": "fde6ae201b967e9898c58a60a749a63e438e8837458e2065e3e54cfc71bcc3dd"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/search_06.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/search_06.json",
+    "sha256": "bf3c0a65f013c04cef5801e0c40b34e2003022073e2458cba063b56671f8ada6"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/search_07.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/search_07.json",
+    "sha256": "52d7f952cf6c2ad52fb8751582d068f901bd2d7bbcb0bf6ec34690c7b32f5ee1"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/search_08.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/search_08.json",
+    "sha256": "658ca03dd949f7b263b48b005193f4862d06469f244598ff7a5e64428ae9551a"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/search_09.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/search_09.json",
+    "sha256": "c4182d5fc8a435180113c160dfa592a683d5db8ac56a4f0cdeeb450ce29e95cd"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_df_2016_2017.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_df_2016_2017.json",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_df_2016_2017.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_df_2016_2017.meta.json",
+    "sha256": "ccfe91013aba691a1ac094f24652ef4f8ac14e85328823952712341bd240838b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_df_regional_2016_2017.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_df_regional_2016_2017.json",
+    "sha256": "7dbfe646303163851537dfe4d9017e08b9981eb108cdf89716fcbe587bf0c650"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_go_2016_2017.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_go_2016_2017.json",
+    "sha256": "8bf950e59ce6820d9828a88f90beab40b035a25aaa67c49d5287d69c4e042d5b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_go_2016_2017.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_go_2016_2017.meta.json",
+    "sha256": "fbcf6361c6b10f8567a4846dbc3fae2bdc7cfd1bcec9a920156f01b341751cf5"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_members_100311_scoped.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_members_100311_scoped.json",
+    "sha256": "ee0e5abdf2f3906762b1d3d0bfbc3e6ec049e61f47b2c29c67403dab7a310c2b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_members_70945_scoped.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_members_70945_scoped.json",
+    "sha256": "b04f50c83fa80fdbbc84bffece022fb7f2968c2b41bb982c736557cda257f45c"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_members_70946_scoped.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_members_70946_scoped.json",
+    "sha256": "ce5ffe5e04aeb80665d1d7e72667642d739bf578d17d00d1e59c2d2d019c39dc"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_members_94158_scoped.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_members_94158_scoped.json",
+    "sha256": "20d34749478723421831fe89b91beca517de9f79dc1be553f27c3ca157632df4"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_national_2016_2017.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_national_2016_2017.json",
+    "sha256": "972cd0eec216c6c3d75e82a2828d6e487b847bcb9ffdbd662af88e546ad2459e"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_national_2016_2017.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_national_2016_2017.meta.json",
+    "sha256": "7794796491419b728ae12abcde734586c7aaa82b414768a33df74ddecba09460"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_official.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_official.meta.json",
+    "sha256": "99e8fa150a2b6c5a57bae1aeacf787cf6cacd90ebe1675e047a0ff3a3a4efabe"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_official.txt",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_official.txt",
+    "sha256": "b13419a0ab8111c277c94369d1bc743f7ea1daa41ed8d58a34e4e52c90724e7b"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_public_index.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_public_index.meta.json",
+    "sha256": "b272fc8b47e891a313039941b50b2f26f1c7c78a62740bbbe0bdf3ca4b0bdcfa"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_public_index.txt",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_public_index.txt",
+    "sha256": "a2b63c69b38c52d10214463de988f3038dbace94513b7544ef210e1d8cbf1d93"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_public_js.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_public_js.meta.json",
+    "sha256": "96f196589ff6069eda4485a8e49ac09972f184909588867497f490307283b458"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/sgip_public_js.txt",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/sgip_public_js.txt",
+    "sha256": "5730f42ba2a866103f068a5e66a8914969dec87d4c9455faec3760e4950752e1"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/uniceub_2006_thesis.http410.txt",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/uniceub_2006_thesis.http410.txt",
+    "sha256": "1af29706d2a6b604a0e552114f17bb1789014da70e98d6cf05af542bafaca04f"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/sources/uniceub_2006_thesis.meta.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/sources/uniceub_2006_thesis.meta.json",
+    "sha256": "7d8b82f670477e3e76b13c4696fd74dd593333139db29d65e8daee66851faacc"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/RESEARCH.md",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/RESEARCH.md",
+    "sha256": "39b1a42c73e438088e96d295e376791e4b0f1c6aecc750ea07580eef99eaed41"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/prior_inventory.csv",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/prior_inventory.csv",
+    "sha256": "24eb52fabeaaf1cf53856f8bb8816859fe185e139acd41e7cd4b8e981c02c3d7"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/verification.json",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/verification.json",
+    "sha256": "e17848d1721691b08028087a0097e7ad518a579f22689fc8277bf34bf8482c68"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_1_ivani/HANDOFF.md",
+    "destination": "cabinet_dataset/research/refinement_v5/worker_1_ivani/HANDOFF.md",
+    "sha256": "4efeb4e549b89d2d6fbb9afbb16184f83e553d5c360e0d42a7e0210fdc2c8329"
+  }
+]

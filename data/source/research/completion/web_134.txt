@@ -1,0 +1,200 @@
+DOUInforme 12.06.2020 — Conselho da Justiça Federal (https://www.cjf.jus.br/cjf/noticias/2020/06-junho/douinforme-12-06.2020)
+citeturn133search0 [wordlim: 200] Published: 6.2 years ago; Crawled: 3 weeks ago; Acompanhe os principais assuntos de interesse da Justiça Federal presentes no Diário Oficial da União e nos diários do Poder Judiciário Federal ... 980, DE 10 DE JUNHO DE 2020Altera a Lei nº 13.844, de 18 de junho de 2019, para criar o Ministério da Ciência, Tecnologia e Inovações e o Ministério das Comunicações.
+
+# DOUInforme 12.06.2020
+
+## Informativo
+
+por publicado: 15/06/2020 10h23 última modificação: 15/06/2020 10h25
+
+Tweet
+
+Acompanhe os principais assuntos de interesse da Justiça Federal presentes no Diário Oficial da União e nos diários do Poder Judiciário Federal
+
+ Image: DOU Informe
+
+Brasília, 12 de junho de 2020
+
+ 
+
+Atos do Poder Executivo 
+
+PRESIDÊNCIA DA REPÚBLICA
+
+MEDIDA PROVISÓRIA N. 980, DE 10 DE JUNHO DE 2020
+
+Altera a Lei nº 13.844, de 18 de junho de 2019, para criar o Ministério da Ciência, Tecnologia e Inovações e o Ministério das Comunicações.
+
+Fonte: D.O.U., Seção 1, Edição Extra B, p. 1-2, quarta-feira, 10 de junho de 2020. 
+
+Tags: Administração Pública. Estrutura Organizacional. Ministério das Comunicações.
+
+ 
+
+DECRETO N. 10.395, DE 10 DE JUNHO DE 2020
+
+Altera o Anexo ao Decreto nº 9.660, de 1º de janeiro de 2019, que dispõe sobre a vinculação das entidades da administração pública federal indireta.
+
+Fonte: D.O.U., Seção 1, Edição Extra B, p. 2, quarta-feira, 10 de junho de 2020. 
+
+Tags: Administração Pública. Estrutura Organizacional. Poder Executivo.
+
+ 
+
+DECRETO N. 10.394, DE 10 DE JUNHO DE 2020
+
+Altera o Decreto nº 10.341, de 6 de maio de 2020, que autoriza o emprego das Forças Armadas na Garantia da Lei e da Ordem e em ações subsidiárias na faixa de fronteira, nas terras indígenas, nas unidades federais de conservação ambiental e em outras áreas federais nos Estados da Amazônia Legal.
+
+Fonte: D.O.U., Seção 1, Edição Extra A, p. 1, quarta-feira, 10 de junho de 2020. 
+
+--------------------------------------------------------------------------------
+MINISTÉRIO DAS COMUNICAÇÕES (https://www.gov.br/mcom/pt-br/acesso-a-informacao/licitacoes-e-contratos-1/arquivos/contratos-antigos/SEI_MCOM7271919ProjetoBsico.pdf)
+citeturn133search12 [wordlim: 200] Published: 2.9 years ago; A presente contratação pretende atender às necessidades tecnológicas e de negócio da Secretaria Especial de Comunicação Social – SECOI e Secretaria de Publicidade e Promoção - SEPUP, que eram vinculadas à Presidência da República – PR e agora integram a estrutura do Ministério das Comunicações - MCOM. ... A partir da publicação da Medida Provisória nº 980, de 10 de junho de 2020, o Ministério das Comunicações – MCOM foi criado e o então Ministério da Ciência, Tecnologia, Inovações e Comunicações – MCTIC, extinto. ... Assim, dentre as várias tecnologias utilizadas, foram identificados 17 (dezessete) sistemas desenvolvidos e sustentados pela SECOI e SEPUP que utilizam o Oracle Database para armazenamento de dados, conforme tabela abaixo:
+
+3.2. **Análise do cenário atual**
+
+3.2.1. A partir da publicação da Medida Provisória nº 980, de 10 de junho de 2020, o Ministério das Comunicações – MCOM foi criado e o então Ministério da Ciência, Tecnologia, Inovações e Comunicações – MCTIC, extinto. As competências do MCOM abrangem as seguintes áreas:
+
+I - política nacional de telecomunicações;
+
+II - política nacional de radiodifusão;
+
+III - serviços postais, telecomunicações e radiodifusão;
+
+IV - política de comunicação e divulgação do Governo federal;
+
+V - relacionamento do Governo federal com a imprensa regional, nacional e internacional;
+
+VI - convocação de redes obrigatórias de rádio e televisão;
+
+VII - pesquisa de opinião pública; e
+
+VIII - sistema brasileiro de televisão pública.
+
+3.3. Já o Decreto nº 10.462, de 14 de agosto de 2020 aprovou a estrutura regimental do MCOM, sendo este composto pelas seguintes Secretarias:
+
+1. Secretaria de Radiodifusão - SERAD;
+
+2. Secretaria de Telecomunicações - SETEL;
+
+3. Secretaria de Publicidade e Promoção - SEPUP;
+
+4. Secretaria de Comunicação Institucional - SECOM; e
+
+5. Secretaria Executiva - SEXEC.
+
+3.3.1. Adicionalmente, a Portaria Conjunta SG-PR MCOM nº 71, de 10 de setembro de 2020, também estabeleceu, em um primeiro momento, que o apoio administrativo prestado ao MCOM pela Secretaria-Geral da Presidência da República para a SECOI e SEPUP seria realizado até 31 de dezembro de 2020, o qual foi prorrogado posteriormente pela Portaria Conjunta SG-PR MCOM nº 106, de 28 de dezembro de 2021 até o dia 31 de março de 2021.
+
+3.3.2. Nesse sentido, foi realizado um mapeamento dos sistemas utilizados e mantidos pelas Secretarias que necessitarão ser migrados para a infraestrutura de rede do MCOM. Assim, dentre as várias tecnologias utilizadas, foram identificados 17 (dezessete) sistemas desenvolvidos e sustentados pela SECOI e SEPUP que utilizam o Oracle Database para armazenamento de dados, conforme tabela abaixo:--------------------------------------------------------------------------------
+2021 — Ministério das Comunicações (https://www.gov.br/mcom/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/rol-de-responsaveis-1/2021)
+citeturn133search1 [wordlim: 200] Published: 4.4 years ago; Crawled: 3 days ago; Ministro de Estado  | Fábio Faria   | ***.287.284-**  | fabio.faria@mcom.gov.br  | Decreto de 10 de junho de 2020  | 10/06/2020  | Em exercício   | Em exercício ... Ministro de Estado -Substituto  | Vitor Elisio Goes de Oliveira Menezes  | ***.763.905-**  | vitor.menezes@mcom.gov.br  | Decretos de 04 de novembro de 2020  | 05/11/2020  | Decretos de 16 de agosto de 2021  | 17/08/2021
+
+Você está aqui: Página Inicial Acesso à Informação Transparência e Prestação de Contas Rol de Responsáveis 2021
+
+Info
+    
+
+# 2021
+
+Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência
+
+Publicado em 05/05/2022 10h38 Atualizado em 20/05/2022 17h19
+
+FUNÇÃO GERENCIAL  | NOME  | CPF  | E-MAIL  | DOC DE NOMEAÇÃO  | DATA DE NOMEAÇÃO  | DOC DE EXONERAÇÃO  | DATA DE EXONERAÇÃO
+Ministro de Estado  | Fábio Faria   | ***.287.284-**  | fabio.faria@mcom.gov.br  | Decreto de 10 de junho de 2020  | 10/06/2020  | Em exercício   | Em exercício 
+Ministro de Estado -Substituto Eventual  | Maximiliano Salvadori Martinhão  | ***.543.988-**  | max@mcom.gov.br  | Decretos de 5 de novembro de 2021  | 08/11/2021  | Decretos de 5 de novembro de 2021  | 17/11/2021
+Ministro de Estado -Substituto Eventual  | Maximiliano Salvadori Martinhão  | ***.543.988-**  | max@mcom.gov.br  | Decreto de 23 de setembro 2021  | 24/09/2021  | Decreto de 23 de setembro 2021  | 03/10/2021
+Ministro de Estado -Substituto Eventual  | Maximiliano Salvadori Martinhão  | ***.543.988-**  | max@mcom.gov.br  | Decreto de 19 de agosto de 2021  | 20/08/2021  | Decreto de 19 de agosto de 2021  | 04/09/2021
+Ministro de Estado -Substituto  | Vitor Elisio Goes de Oliveira Menezes  | ***.763.905-**  | vitor.menezes@mcom.gov.br  | Decretos de 04 de novembro de 2020  | 05/11/2020  | Decretos de 16 de agosto de 2021  | 17/08/2021
+--------------------------------------------------------------------------------
+<table id="e1"> (https://www.gov.br/mcom/pt-br/acesso-a-informacao/licitacoes-e-contratos-1/arquivos/Edital.pdf)
+citeturn133search13 [wordlim: 200] Published: 4.8 years ago; <tr><td>84</td><td>INSTALAÇÃO SALA TIPO II</td><td>1538</td><td>17</td><td>0</td><td>17</td><td>Unidade</td></tr> ... 3.1.1 A partir da publicação da Medida Provisória nº 980, de 10 de junho de 2020, o Ministério das Comunicações – MCOM foi criado e o então Ministério da Ciência, Tecnologia, Inovações e Comunicações – MCTIC, extinto. ... 3.1.3 Assim, conforme o novo Regimento Interno do MCOM (Portaria nº 697/2020), cabe à Coordenação-Geral de Tecnologia da Informação - CGTI, entre outras competências, coordenar e acompanhar as ações relativas à gestão da infraestrutura e serviços de tecnologia da informação e comunicações, como também avaliar e controlar a qualidade dos serviços contratados com empresas terceirizadas para fornecimento de links de comunicação, acesso à internet, correio eletrônico e outros que se façam necessários à condução da administração de redes.
+<table id="e1">
+<tr><td>84</td><td>INSTALAÇÃO SALA TIPO II</td><td>1538</td><td>17</td><td>0</td><td>17</td><td>Unidade</td></tr>
+<tr><td>85</td><td>INSTALAÇÃO SALÃO NOBRE</td><td>1538</td><td>0</td><td>1</td><td>1</td><td>Unidade</td></tr>
+<tr><td>86</td><td>INSTALAÇÃO SALA DE REUNIÃO DA SECRETARIA EXECUTIVA</td><td>1538</td><td>1</td><td>0</td><td>1</td><td>Unidade</td></tr>
+<tr><td>87</td><td>TREINAMENTO 1</td><td>3840</td><td>1</td><td>1</td><td>2</td><td>Unidade</td></tr>
+<tr><td>88</td><td>TREINAMENTO 2</td><td>3840</td><td>1</td><td>1</td><td>2</td><td>Unidade</td></tr>
+<tr><td>89</td><td>OPERAÇÃO ASSISTIDA</td><td>21032</td><td>1</td><td>1</td><td>2</td><td>Unidade</td></tr>
+</table>
+
+3 – JUSTIFICATIVA PARA A CONTRATAÇÃO
+
+3.1. Contextualização e Justificativa da Contratação
+
+3.1.1 A partir da publicação da Medida Provisória nº 980, de 10 de junho de 2020, o Ministério das Comunicações – MCOM foi criado e o então Ministério da Ciência, Tecnologia, Inovações e Comunicações – MCTIC, extinto. --------------------------------------------------------------------------------
+Leis — Ministério das Comunicações (https://www.gov.br/mcom/pt-br/acesso-a-informacao/legislacao/teste)
+citeturn133search2 [wordlim: 200] Published: 5.8 years ago; Crawled: yesterday; Lei nº 14.074, de 14 de outubro de 2020 Cria o Ministério das Comunicações e o Ministério da Ciência, Tecnologia e InovaçõesMedida Provisória nº 980, de 10 de junho de 2020 ... LEI Nº 14.109, de 16 de dezembro de 2020 Altera as Leis nos 9.472, de 16 de julho de 1997, e 9.998, de 17 de agosto de 2000, para dispor sobre a finalidade, a destinação dos recursos, a administração e os objetivos do Fundo de Universalização dos Serviços de Telecomunicações (Fust).
+EMENDA CONSTITUCIONAL Nº 8, de 15 de agosto de 1995Altera o inciso XI e a alínea "a" do inciso XII do art. 21 da Constituição Federal.
+
+Lei nº 14.074, de 14 de outubro de 2020Cria o Ministério das Comunicações e o Ministério da Ciência, Tecnologia e Inovações
+
+Medida Provisória nº 980, de 10 de junho de 2020
+Cria o Ministério das Comunicações e o Ministério da Ciência, Tecnologia e Inovações
+LEI Nº 14.109, de 16 de dezembro de 2020Altera as Leis nos 9.472, de 16 de julho de 1997, e 9.998, de 17 de agosto de 2000, para dispor sobre a finalidade, a destinação dos recursos, a administração e os objetivos do Fundo de Universalização dos Serviços de Telecomunicações (Fust).
+
+LEI Nº 14.108, de 16 de dezembro de 2020Altera as Leis nos 12.715, de 17 de setembro de 2012, e 9.472, de 16 de julho de 1997, para dispor sobre os valores da Taxa de Fiscalização de Instalação, da Taxa de Fiscalização de Funcionamento, da Contribuição para o Fomento da Radiodifusão Pública e da Contribuição para o Desenvolvimento da Indústria Cinematográfica Nacional (Condecine) das estações de telecomunicações que integrem sistemas de comunicação máquina a máquina, e sobre a dispensa de licenciamento de funcionamento prévio dessas estações.
+
+LEI Nº 13.979, de 6 de fevereiro de 2020Dispõe sobre as medidas para enfrentamento da emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019.
+
+LEI Nº 13.879, de 3 de outubro de 2019Altera a Lei nº 9.472, de 16 de julho de 1997, para permitir a adaptação da modalidade de outorga de serviço de telecomunicações de concessão para autorização, e a Lei nº 9.998, de 17 de agosto de 2000, e revoga dispositivos da Lei nº 9.472, de 16 de julho de 1997.
+
+--------------------------------------------------------------------------------
+22/07/2022 14:25 (https://www.gov.br/mcom/pt-br/media/acesso-a-informacao/licitacoes-e-contratos/2022/pregoes/pregao-11-2022/anexo-i-do-edital-pe-11-2022-termo-de-referencia-pe-11-022.pdf)
+citeturn133search14 [wordlim: 200] Published: 4.1 years ago; O Ministério das Comunicações foi criado a partir do desmembramento do Ministério da Ciência, Tecnologia e Inovaçõespor meio da Medida Provisória nº 980 de 10 de junho de 2020, que alterou a Lei nº 13.844, de 18 de junho de 2019. ... Além disso, é de competência do Ministério atuar na política de comunicação e divulgação do Governo Federal; no ... 1/17
+--------------------------------------------------------------------------------
+MPV 980/2020 - [ MPV 980/2020 ]. Recriação do Ministério das Comunicações - 980/20 :: Proposições Legislativas::Medida Provisória 980/2020 (Federal::Legislativo::Congresso Nacional - Brasil) :: (https://www.lexml.gov.br/urn/urn%3Alex%3Abr%3Acongresso.nacional%3Amedida.provisoria%3Bmpv%3A2020-06-10%3B980)
+citeturn133search3 [wordlim: 200] Published: 6.3 years ago; Crawled: 4 months ago; Emenda [ Acrescente-se, onde couber, o seguinte Art. à Medida Provisória nº 980/2020: “Art Fica criado o Conselho Multissetorial de Acompanhamento de Políticas Públicas em Comunicações, vinculado ao Ministério das Comunicações, constituído por: I – 4 (quatro) representantes do Ministério das Comunicações; II – 1 (um) representante da Agência Nacional de Telecomunicações (Anatel); III – 1 (um) representante da Casa Civil da Presidência da República; IV – 2 (dois) representantes das prestadoras de serviços de telecomunicações, dos quais 1 (um) representando as prestadoras de pequeno porte; V – 2 (dois) representantes de empresas de radiodifusão; VI – 4 (quatro) representantes da sociedade civil; VII – 4 (quatro) representantes da comunidade técnica e acadêmica. ... Emenda [ Acrescenta entre as áreas de Competência do Ministério das Comunicações, inciso ao artigo 26-6, dado pelo Art. 1 da Medida Provisória 980, de 10 de junho de 2020 ] ... Emenda [ Recria o Conselho Curador da Empresa Brasil de Comunicação – EBC, criado pela Lei 11.652/2008, e extinto pela MP 744 de Michel Temer e depois pela Lei 13.417/2017, que promoveram o desmonte do principal canal de comunicação pública do país.
+--------------------------------------------------------------------------------
+Bolsonaro recria Ministério das Comunicações e nomeia o deputado Fábio Faria; Wajngarten será secretário executivo - TELA VIVA News (https://telaviva.com.br/10/06/2020/bolsonaro-recria-ministerio-das-comunicacoes-e-nomeia-o-deputado-fabio-faria/)
+citeturn133search4 [wordlim: 200] Published: 6.3 years ago; Crawled: 6 months ago; 10 de junho de 2020   Atualizado em 11 de junho de 2020O presidente da República Jair Bolsonaro anunciou na noite desta quarta-feira, 10, o desmembramento do Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC) e a recriação do Ministério das Comunicações (Minicom). ... Segundo apurou este noticiário, a expectativa é que a posse aconteça na próxima quarta, 17. ... Fábio Faria tem alguma proximidade com o setor de comunicações também por ter sido membro da Comissão de Ciência, Tecnologia, Comunicações e Informática da Câmara dos Deputados entre 2016 e 2019. ... Isso inclui a EBC (Empresa Brasil de Comunicação), que estava vinculada à Secretaria de Governo e passou a ser vinculada ao Minicom pelo Decreto 10.395/2020, publicado juntamente com a MP 980. ... Além da nova função, o recriado Ministério de Comunicações leva consigo a secretaria de telecomunicações e a secretaria de radiodifusão do MCTIC, que volta a ser apenas Ministério de Ciência, Tecnologia e Inovação.
+--------------------------------------------------------------------------------
+2022 — Ministério das Comunicações (https://www.gov.br/mcom/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/rol-de-responsaveis-1/2022)
+citeturn133search5 [wordlim: 200] Published: 4.4 years ago; Crawled: last week; Publicado em 05/05/2022 10h38 Atualizado em 02/01/2023 17h26 ... Ministro de Estado  | Fábio Faria   | ***.287.284-**  | fabio.faria@mcom.gov.br  | Decreto de 10 de junho de 2020  | 10/06/2020  | Decreto de 20 de dezembro de 2022, DOU 21/12/2022  | 21/12/2022
+--------------------------------------------------------------------------------
+08/10/2021 10:43 (https://www.gov.br/mcom/pt-br/acesso-a-informacao/licitacoes-e-contratos-1/arquivos/trge.pdf)
+citeturn133search15 [wordlim: 200] Published: 9 months ago; legais e normativas vigentes, especialmente as da Lei 8.666, de 1993, da Lei nº 10.520, de 17 de julho de 2002, do Decreto nº 7.892, de 23 de janeiro ...  O Ministério das Comunicações foi criado a partir do desmembramento do Ministério da Ciência, Tecnologia e Inovações por meioda Medida Provisória nº 980 de 10 de junho de 2020, que alterou a Lei nº 13.844, de 18 de junho de 2019. ... Além disso, é de competência do Ministério atuar na política de comunicação e divulgação do Governo Federal; no relacionamento do
+--------------------------------------------------------------------------------
+Legislação Federal - Senado Federal (https://legis.senado.gov.br/norma/31052300/publicacao/34619158)
+citeturn133search6 [wordlim: 200] Published: 7.2 years ago; Crawled: yesterday; IV - política de comunicação e divulgação do governo federal; ... Integram a estrutura básica do Ministério das Comunicações: (“Caput” do artigo acrescido pela Medida Provisória nº 980, de 10/6/2020, convertida e com redação dada pela Lei nº 14.074, de 14/10/2020)
+--------------------------------------------------------------------------------
+Marco institucional: Avaliação da OCDE sobre Telecomunicações e Radiodifusão no Brasil 2020 (https://www.oecd.org/pt/publications/avaliacao-da-ocde-sobre-telecomunicacoes-e-radiodifusao-no-brasil-2020_0a4936dd-pt/full-report/component-7.html)
+citeturn133search7 [wordlim: 200] Published: 5.9 years ago; Crawled: 2 months ago; Em 10 de junho de 2020, o Presidente da República anunciou a recriação do Ministério das Comunicações (MC). ... Até o momento da redação deste documento, as implicações para o marco institucional desse Ministério recém-recriado ainda estavam sendo definidas.
+--------------------------------------------------------------------------------
+Lista de ministros das Comunicações do Brasil (https://pt.wikipedia.org/wiki/Lista_de_ministros_das_Comunica%C3%A7%C3%B5es_do_Brasil)
+citeturn133search16 [wordlim: 200] Crawled: 10 months ago; () | Ministério dos Transportes e Comunicações | 14 de abril de 1992 | 2 de outubro de 199210 | 100x100px | Hugo Napoleão do Rego Neto ... () | Ministério das Comunicações | 17 de junho de 2020 | 21 de dezembro de 2022
+--------------------------------------------------------------------------------
+MPV 980/2020 - Congresso Nacional (https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/142490)
+citeturn133search8 [wordlim: 200] Published: 6.3 years ago; Crawled: last week;     Acrescente-se, onde couber, o seguinte Art. à Medida Provisória nº 980/2020: “Art Fica criado o Conselho Multissetorial de Acompanhamento de Políticas Públicas em Comunicações, vinculado ao Ministério das Comunicações, constituído por: I – 4 (quatro) representantes do Ministério das Comunicações; II – 1 (um) representante da Agência Nacional de Telecomunicações (Anatel); III – 1 (um) representante da Casa Civil da Presidência da República; IV – 2 (dois) representantes das prestadoras de serviços de telecomunicações, dos quais 1 (um) representando as prestadoras de pequeno porte; V – 2 (dois) representantes de empresas de radiodifusão; VI – 4 (quatro) representantes da sociedade civil; VII – 4 (quatro) representantes da comunidade técnica e acadêmica. ...     Recebido o Ofício n. 207/2020, que encaminha, nos termos do § 8º do art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o Ato Conjunto das Mesas da Câmara dos Deputados e do Senado Federal n° 1, de 31 de março de 2020, a Medida Provisória nº 980 , de 2020, que "Altera a Lei nº 13.844, de 18 de junho de 2019, para criar o Ministério da Ciência, Tecnologia e Inovações e o Ministério das Comunicações"..
+--------------------------------------------------------------------------------
+Câmara aprova MP que recria o Ministério das Comunicações - Portal da Câmara dos Deputados (https://www.camara.leg.br/noticias/694311-camara-aprova-mp-que-recria-o-ministerio-das-comunicacoes)
+citeturn133search9 [wordlim: 200] Published: 6.0 years ago; Crawled: 2 days ago; Da Agência Câmara - 21/09/2020 - 17:58 ... Segundo o texto aprovado para a MP, do deputado Cacá Leão (PP-BA), em vez da transformação do cargo de natureza especial do secretário de Comunicação Social no cargo de secretário-executivo do novo ministério, ele será obtido com a extinção de 145 funções gratificadas (FG) do Ministério da Economia. ... Além da publicidade oficial do governo, o novo ministério cuidará da política nacional de telecomunicações e de radiodifusão; dos serviços postais; do relacionamento do governo federal com a imprensa; e do sistema brasileiro de televisão pública. ... Quanto às gratificações de representação recebidas por servidores, militares e empregados designados para atuar na Secom, o parecer permite a continuidade de seu pagamento enquanto essas pessoas permanecerem em exercício nessa secretaria, contanto que tenham sido nomeados até 10 de junho de 2020 (data de edição da MP).
+--------------------------------------------------------------------------------
+29/06/2021
+SEI/MCTI - 7513686 - Projeto Básico
+MIN (https://www.gov.br/mcom/pt-br/acesso-a-informacao/licitacoes-e-contratos-1/arquivos/projeto-basico.pdf)
+citeturn133search17 [wordlim: 200] Published: 7 months ago; Prestação pelo SERPRO de serviços para disponibilização de acesso/consulta às bases de dados dos sistemas da Receita Federal do Brasil (RFB), para fins de ... WS),  observados os termos da Instrução Normativa (IN) RFB nº 19, de 17 de fevereiro de 1998, Portaria MF nº 457, de 08 de dezembro de 2016 e em ... A partir da publicação da Medida Provisória nº 980, de 10 de junho de 2020, o Ministério das Comunicações – MCOM foi criado e o então Ministério ... IV. política de comunicação e divulgação do Governo federal;
+--------------------------------------------------------------------------------
+Medida Provisória 980 (https://www.legjur.com/legislacao/art/mpv_00009802020)
+citeturn133search10 [wordlim: 200] Published: 6.3 years ago; Crawled: 5 months ago; ### MEDIDA PROVISÓRIA 980, DE 10 DE JUNHO DE 2020 ... Altera a Lei 13.844, de 18/06/2019, para criar o Ministério da Ciência, Tecnologia e Inovações e o Ministério das Comunicações. ...   * 17/08/2020 Alteração no Art.
+--------------------------------------------------------------------------------
+L14074 (https://presidencia.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14074.htm)
+citeturn133search11 [wordlim: 200] Published: 5.9 years ago; Crawled: 4 months ago; Os servidores, os militares e os empregados designados para o exercício de Gratificações de Representação da Presidência da República no âmbito da Secretaria Especial de Comunicação Social da Secretaria de Governo da Presidência da República até 10 de junho de 2020 poderão percebê-las enquanto permanecerem em exercício na Secretaria Especial de Comunicação Social do Ministério das Comunicações. ... > § 2º As Gratificações de Representação da Presidência da República e as Gratificações de Exercício em Cargo de Confiança destinadas aos órgãos da Presidência da República de que tratam os §§ 1º e 1º-A deste artigo retornarão automaticamente à Presidência da República quando ocorrer o fim do exercício dos servidores, dos militares e dos empregados para elas designados.”
+--------------------------------------------------------------------------------
+10/12/2021 06:52 (https://www.gov.br/mcom/pt-br/acesso-a-informacao/licitacoes-e-contratos-1/arquivos/SEI_MCTI8795851Edital.pdf)
+citeturn133search18 [wordlim: 200] Published: 4 months ago; 3.1.1 A partir da publicação da Medida Provisória nº 980, de 10 de junho de 2020, o Ministério das Comunicações – MCOM foicriado e o então Ministério da Ciência, Tecnologia, Inovações e Comunicações – MCOM, extinto. ... IV-política de comunicação e divulgação do Governo Federal; ... 17/51
+--------------------------------------------------------------------------------
+Ministério da Ciência, Tecnologia e Inovação (https://pt.wikipedia.org/wiki/Minist%C3%A9rio_da_Ci%C3%AAncia%2C_Tecnologia_e_Inova%C3%A7%C3%A3o)
+citeturn133search19 [wordlim: 200] Crawled: 4 months ago; Em 10 de junho de 2020, o ex-presidente Jair Bolsonaro anunciou que decidiu recriar o Ministério das Comunicações, separando-o do MCTIC, com Fábio Faria no cargo de ministro.
+--------------------------------------------------------------------------------
+Фария, Фабиу (https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%B8%D1%8F%2C_%D0%A4%D0%B0%D0%B1%D0%B8%D1%83)
+citeturn133search20 [wordlim: 200] Crawled: 5 months ago; 10 июня 2020 года президент Жаир Болсонару объявил через социальные сети о воссоздании Министерства связи и назначил Фабиу Фарию главой нового ведомства Церемония вступления в должность состоялась 17 июня 2020 года.. ... - Bolsonaro anuncia recriação do Ministério das Comunicações e deputado Fábio Faria como ministro. ... - Decreto de 10 de junho de 2020.
+--------------------------------------------------------------------------------
+Empresa Brasil de Comunicação (https://pt.wikipedia.org/wiki/Empresa_Brasil_de_Comunica%C3%A7%C3%A3o)
+citeturn133search21 [wordlim: 200] Crawled: 5 months ago; A EBC, por ser uma empresa estatal, é um órgão da administração indireta federal, sendo vinculada, desde 10 de junho de 2020, ao Ministério das Comunicações.Antes era vinculada à Secretaria de Governo, por meio da Secretaria de Comunicação Social. ... O Conselho de Administração da EBC é, atualmente, formado por um Presidente, indicado pela Casa Civil da Presidência da República, pelo Diretor-Presidente da diretoria executiva, por um membro indicado pelo Ministério da Educação, por um membro indicado pelo Ministério da Cultura, por um membro indicado pelo Ministério da Economia, por um membro indicado pelo Ministério da Ciência, Tecnologia, Inovações e Comunicações, um membro representante dos empregados da EBC e dois membros independentes, indicados conforme a Lei nº 13.303, de 30 de junho de 2016.
+--------------------------------------------------------------------------------
+Lista de membros do gabinete de Jair Bolsonaro (https://pt.wikipedia.org/wiki/Lista_de_membros_do_gabinete_de_Jair_Bolsonaro)
+citeturn133search22 [wordlim: 200] Crawled: 8 months ago; Ministério das Comunicações | 150px | Fábio Faria | PSD / PP | 17 de junho de 2020 | 21 de dezembro de 2022 | ... Ciência, Tecnologia e Comunicação ... Secretário Executivo do Ministério das Comunicações | Vitor Elisio Góes de Oliveira Menezes |  | 21 de Dezembro de 2020 |
+--------------------------------------------------------------------------------
+Fábio Faria (político) (https://pt.wikipedia.org/wiki/F%C3%A1bio_Faria_%28pol%C3%ADtico%29)
+citeturn133search23 [wordlim: 200] Crawled: 4 months ago; Em 16 de junho de 2020, um dia antes da posse de Fábio Faria como Ministro das Comunicações, o PSOL levou uma representação à Comissão de Ética Pública da Presidência da República contra a nomeação devido às ligações de Fábio Faria com diversas empresas do setor, incluindo uma rádio no Rio Grande do Norte e empresas do grupo SBT. ... 2014 | Estadual do Rio Grande do Norte | PSD | Deputado Federal | 166.427 | 10,53% | Eleito |

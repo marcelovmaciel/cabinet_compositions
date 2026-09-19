@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "PCB",
+  "id": 68,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=68&currentPage=0&pageSize=10000",
+      "records": 87,
+      "totalElements": 87,
+      "response_sha256": "dbd06b319a3f4ca0f9c952c1ff1e43dd0353cdc2c8624c2a90f1e2c2e3a4c93a",
+      "retrieved_utc": "2026-09-10T23:44:31Z"
+    }
+  ],
+  "matches": []
+}

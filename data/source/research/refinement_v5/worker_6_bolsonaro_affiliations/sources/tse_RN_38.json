@@ -1,0 +1,41 @@
+{
+  "uf": "RN",
+  "municipio": "7220",
+  "party": "PL",
+  "id": 38,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=38&currentPage=0&pageSize=10000",
+      "records": 2311,
+      "totalElements": 2311,
+      "response_sha256": "80e4c282ce89f6d9148a50e41f7eee4d6277cd95932cada41277c2f72253e0a7",
+      "retrieved_utc": "2026-09-11T00:43:35Z"
+    }
+  ],
+  "matches": [
+    {
+      "sqRegistroFiliacao": 57151215,
+      "cdMotivoCancelamento": null,
+      "cdMotivoDesfiliacao": null,
+      "desSituacaoEleitor": "REGULAR",
+      "dtCancelamento": null,
+      "dtDesfiliacao": null,
+      "dtExclusao": null,
+      "dtFiliacao": [
+        2021,
+        11,
+        30
+      ],
+      "tsCadastroDesfiliacao": null,
+      "nmEleitor": "ROGERIO SIMONETTI MARINHO",
+      "nomLocalidade": "NATAL",
+      "sgPartido": "PL",
+      "sgUe": "RN",
+      "stRegistroFiliacao": 1,
+      "tpSexo": 2,
+      "indPendencia": 0,
+      "indOrigem": 0,
+      "public_registry_identity_sha256": "80869167a240a20f7cdc028efc15e1840aa7ecf426a1d7f9d73193fa273a7e1a"
+    }
+  ]
+}

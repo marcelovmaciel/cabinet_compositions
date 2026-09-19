@@ -1,0 +1,16 @@
+{
+  "party": "PSTU",
+  "id": 67,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=67&currentPage=0&pageSize=10000",
+      "records": 42,
+      "totalElements": 42,
+      "response_sha256": "de10138e17232a59c985533f78a64dffaa06f9d6801441c442afe892214a891b",
+      "retrieved_utc": "2026-09-10T23:35:44Z"
+    }
+  ],
+  "matches": []
+}

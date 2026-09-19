@@ -1,0 +1,10 @@
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;tse&#46;jus&#46;br&#47;comunicacao&#47;noticias&#47;2022&#47;Fevereiro&#47;tse&#45;aprova&#45;registro&#45;do&#45;partido&#45;uniao&#45;brasil" on this server.<P>
+Reference&#32;&#35;18&#46;e52a1102&#46;1789154518&#46;b2537e3b
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;e52a1102&#46;1789154518&#46;b2537e3b</P>
+</BODY>
+</HTML>

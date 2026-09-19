@@ -1,0 +1,140 @@
+Gouvernement Temer — Wikipédia (https://fr.wikipedia.org/wiki/Gouvernement_Temer)
+citeturn37view0 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"https://fr.wikipedia.org/wiki/Gouvernement_Temer","lineno":null}); Total lines: 528
+L0: cite0†Aller au contenu L1: 
+L2: [Input] Menu principal
+L3: 
+L4: Menu principal
+L5: 
+L6: [Button: déplacer vers la barre latérale] [Button: masquer]
+L7: 
+L8: Navigation
+L9: 
+L10:   * cite1†Page d’accueil L11:   * cite2†Portails thématiques L12:   * cite3†Article au hasard L13:   * cite4†Contact L14: 
+L15: Contribuer
+L16: 
+L17:   * cite5†Débuter sur Wikipédia L18:   * cite6†Aide L19:   * cite7†Communauté L20:   * cite8†Pages spéciales L21:   * cite9†Modifications récentes L22: 
+L23: cite10†Rechercher L24: 
+L25: [Input: Rechercher sur Wikipédia]
+L26: 
+L27: [Input]
+L28: 
+L29: [Button: Rechercher]
+L30: 
+L31: [Input] Apparence
+L32:   * cite11†Faire un don†donate.wikimedia.org L33:   * cite12†Créer un compte L34:   * cite13†Se connecter L35: 
+L36: [Input] Outils personnels
+L37: 
+L38:   * cite11†Faire un don†donate.wikimedia.org L39:   * cite12†Créer un compte L40:   * cite13†Se connecter L41: ## Sommaire
+L42: 
+L43: [Button: déplacer vers la barre latérale] [Button: masquer]
+L44:   * cite14†Début L45:   * cite15†1 Historique et coalition Afficher / masquer la sous-section Historique et coalition
+L46:     * cite16†1.1 Critiques et représentativité L47:   * cite17†2 Composition Afficher / masquer la sous-section Composition
+L48:     * cite18†2.1 Initiale (12 mai 2016) L49:     * cite19†2.2 Remaniement du 24 mai 2016 L50:     * cite20†2.3 Remaniement du 2 juin 2016 L51:     * cite21†2.4 Remaniement du 7 février 2017 L52:     * cite22†2.5 Remaniement du 7 mars 2017 L53:     * cite23†2.6 Remaniement du 31 mai 2017 L54:     * cite24†2.7 Remaniement du 27 février 2018 L55:   * cite25†3 Notes et références L56: [Input] Basculer la table des matières
+L57: # Gouvernement Temer
+L58: 
+L59: [Input] 3 langues
+L60: 
+L61:   * cite26†Deutsch†de.wikipedia.org L62:   * cite27†English†en.wikipedia.org L63:   * cite28†Português†pt.wikipedia.org L64: 
+L65: cite29†Modifier les liens†www.wikidata.org L66: 
+L67:   * cite30†Article L68:   * cite31†Discussion L69: 
+L70: [Input] français
+L71: 
+L72:   * cite30†Lire L73:   * cite32†Modifier L74:   * cite33†Modifier le code L75:   * cite34†Voir l’historique L76: 
+L77: [Input] Outils
+L78: 
+L79: Outils
+L80: 
+L81: [Button: déplacer vers la barre latérale] [Button: masquer]
+L82: 
+L83: Actions
+L84: 
+L85:   * cite30†Lire L86:   * cite32†Modifier L87:   * cite33†Modifier le code L88:   * cite34†Voir l’historique L89: Général
+L90: 
+L91:   * cite35†Pages liées L92:   * cite36†Suivi des pages liées L93:   * cite37†Téléverser un fichier L94:   * cite38†Lien permanent L95:   * cite39†Informations sur la page L96:   * cite40†Citer cette page L97:   * cite41†Obtenir l'URL raccourcie L98:   * cite42†Utiliser l'ancien analyseur L99: 
+L100: Imprimer / exporter
+L101: 
+L102:   * cite43†Créer un livre L103:   * cite44†Télécharger comme PDF L104:   * cite45†Version imprimable L105: 
+L106: Dans d’autres projets
+L107: 
+L108:   * cite46†Wikimedia Commons†commons.wikimedia.org L109:   * cite47†Élément Wikidata†www.wikidata.org L110: 
+L111: Apparence
+L112: [Button: déplacer vers la barre latérale] [Button: masquer]
+L113: 
+L114: Gouvernement Michel Temer
+L115: 
+L116: cite48†République fédérative du Brésil L117: 
+L118: Première réunion du conseil des ministres.
+L119: cite49†Président de la République | cite50†Michel Temer L120: Formation  | cite51†12 cite52†mai cite53†2016 L121: Fin  | cite54†31 cite55†décembre cite56†2018 L122: Durée  | 2 ans, 7 mois et 19 jours
+L123: Composition initiale
+L124: cite57†Coalition | cite58†MDB -cite59†PR -cite60†PSD -cite61†PSB -
+L125: cite62†PTB -cite63†PV -cite64†Démocrates -
+L126: cite65†PRB -cite66†PPS -cite67†PSDB L127: Ministres  | 24
+L128: Femmes  | 0
+L129: Hommes  | 24
+L130: Représentation
+L131: cite68†Chambre des députés | 396  /  513
+L132: cite69†Sénat | 66  /  81
+L133: 
+L134: cite70†Rousseff II (2) cite71†Bolsonaro L135: Le gouvernement Michel Temer (en cite72†portugais : Governo Michel Temer) est le cite73†cabinet chargé du cite74†pouvoir exécutif au sein du cite75†gouvernement fédéral du Brésil en fonction^{cite76†[1] } du 12 mai 2016 au 31 décembre 2018.
+L136: 
+L137: Il s'agit, jusqu'au 31 août 2016, d'un cite77†gouvernement provisoire formé après la suspension de la présidente cite78†Dilma Rousseff ^{cite79†[2] }, puis après la destitution définitive de celle-ci, le gouvernement devient permanent. Il est dirigé par le président cite50†Michel Temer .
+L138: ## Historique et coalition
+L139: 
+L140: [cite80†modifier | cite81†modifier le code ]
+L141: 
+L142: Ce gouvernement est formé à la suite de la cite82†suspension de la présidente cite78†Dilma Rousseff .
+L143: 
+L144: Le premier conseil des ministres a lieu le 13 mai 2016.
+L145: 
+L146: Le cite83†31 août , cite78†Dilma Rousseff est destituée et cite50†Michel Temer est confirmé dans ses fonctions^{cite84†[3] }.
+L147: 
+L148: Le non-retrait des droits civiques de Dilma Rousseff par le cite69†Sénat ^{cite85†[4] } fragilise la majorité parlementaire du gouvernement^{cite86†[5] }.
+L149: Le 22 février 2017, le ministre des Affaires étrangères, cite87†José Serra , démissionne pour raisons de santé^{cite88†[6] }. Le jour-même, Marcos Galvão lui succède par cite89†intérim ^{cite90†[7] }. Le 3 mars 2017, cite91†Aloysio Nunes est nommé pour le remplacer^{cite92†[8] }.
+L150: 
+L151: Les ministères des Droits humains et de la Réforme agraire sont supprimés. Michel Temer voulait également initialement supprimer le ministère de la Culture mais doit y renoncer, faisant face à des protestations^{cite93†[9] }.
+L152: Le 27 février 2018, le ministre de la Défense cite94†Raul Jungmann est nommé ministre de la Sécurité (Intérieur)^{cite95†[10] }. Pour la première fois depuis trente ans et le retour de la démocratie, un militaire, Joaquim Silva e Luna, est nommé ministre, succédant ainsi à Jungmann^{cite96†[11] }.
+L153: ### Critiques et représentativité
+L154: 
+L155: [cite97†modifier | cite98†modifier le code ]
+L156: 
+L157: Manifestations hostiles au gouvernement Temer.
+L158: Pour la première fois depuis le cite99†rétablissement de la démocratie en 1985, aucune femme n'est ministre^{cite100†[12] }. Le gouvernement sortant comptait quant à lui quinze femmes^{cite101†[13] }. De plus, le ministère de la Culture perd son indépendance. Par ailleurs, tous les ministres sont des Blancs^{cite102†[14] }. C'est pour ces deux raisons que la composition de ce gouvernement a été critiquée^{cite103†[15] }^{,}^{cite104†[16] }.
+L159: Le 22 mai 2016, le ministre de l'Éducation annonce le rétablissement prochain du ministère de la Culture^{cite105†[17] }, après des manifestations d'artistes à cite106†Rio de Janeiro ^{cite107†[18] }. Le secrétaire d'État à la Culture, Marcelo Calero, est désigné pour le diriger^{cite108†[19] }.
+L160: Le 24 mai 2016, le ministre du Plan, cite109†Romero Jucá , est démis de ses fonctions après la révélation d'écoutes compromettantes sur le cite110†scandale Petrobras ^{cite111†[20] }. cite112†Dyogo Henrique de Oliveira assure l'intérim.
+L161: Le 30 mai 2016, le ministre de la Transparence, poste nouvellement créé pour lutter contre la corruption dont le titulaire est cite113†Fabiano Silveira a démissionné, la deuxième en une semaine, après la divulgation d’un enregistrement où on entend le ministre critiquer l’enquête en cours sur l'cite110†affaire de corruption Petrobras ^{cite114†[21] }. Le 2 juin 2016, cite115†Torquato Jardim cite116†(en)†en.wikipedia.org lui succède^{cite117†[22] }.
+L162: Le 16 juin 2016, le ministre du Tourisme, cite118†Henrique Eduardo Alves , soupçonné de corruption, démissionne^{cite119†[23] }.
+L163: Le 25 novembre 2016, démissionne Geddel Vieira Lima, secrétaire du gouvernement, accusé de trafic d'influences dans le cadre d'un projet immobilier contesté par le ministre de la Culture Marcelo Calero, qui avait alors démissionné le cite120†18 du même mois ^{cite121†[24] }. Entretemps, Roberto Freire est nommé ministre de la Culture^{cite122†[25] }, puis en février 2017, Antônio Imbassahy devient secrétaire du Gouvernement^{cite123†[26] }.
+L164: Le 3 février 2017, à l'occasion d'un remaniement, cite124†Luislinda Valois , première femme à intégrer le gouvernement Temer, est nommée ministre des droits de l'homme^{cite125†[27] }.
+L165: Le 7 février 2017, le ministre de la Justice, cite126†Alexandre de Moraes , est nommé comme juge de la Cour suprême par le président cite50†Michel Temer , ce qui suscite une polémique^{cite127†[28] }. Le 22 février 2017, José Levi Mello do Amaral Júnior lui succède^{cite128†[29] }. Le cite129†8 février , la Justice suspend la nomination de Wellington Moreira Franco au poste de Secrétaire général de la Présidence, pour son implication dans l'cite110†opération Lava Jato ^{cite130†[30] }.
+L166: Le 22 février 2017, la Cour suprême annule cette suspension^{cite131†[31] }.
+L167: cite132†Eliseu Padilha , chef de la casa civil, est lui aussi mêlé à l'cite110†opération Lava Jato ^{cite133†[32] }.
+L168: En août 2017, Michel Temer décide d'abroger le statut de réserve naturelle d'une partie de la cite134†forêt amazonienne , mesurant 4 millions d'hectares, pour y permettre l'exploitation minière par des entreprises privées et la reconversion de la forêt en cultures pour les entreprises de l’agro-business. Cette autorisation a finalement été suspendue 7 jours plus tard par le tribunal fédéral de Brasilia.
+L169: Le gouvernement s'expose à des accusations de conflit d’intérêt, le ministre de l'Agriculture cite135†Blairo Maggi et sa famille étant propriétaires de la plus grosse société de production de soja au monde^{cite136†[33] }.
+L170: En cite137†janvier cite56†2018 , cite138†Cristiane Brasil est nommée ministre du Travail dans le gouvernement Temer^{cite139†[34] }. Cependant, accusée d'avoir fait travailler ses domestiques sans les déclarer et avec une forte charge de travail, la Cour suprême suspend son entrée en fonction^{cite140†[35] }.
+L171: ## Composition
+L172: 
+L173: [cite141†modifier | cite142†modifier le code ]
+L174: ### Initiale (12 mai 2016)
+L175: 
+L176: [cite143†modifier | cite144†modifier le code ]
+L177: Portefeuille  | Ministre
+L178: --- | ---
+L179: cite145†Président de la République | cite50†Michel Temer (intérim)
+L180: Ministre des Affaires étrangères et du Commerce extérieur  | cite87†José Serra L181: Ministre de l'Agriculture  | cite135†Blairo Maggi L182: Ministre de la Défense  | cite94†Raul Jungmann L183: Ministre du Développement agraire et social  | Osmar Terra
+L184: Ministre du Développement, de l'Industrie et du Commerce  | Marcos Pereira
+L185: Ministre de l'Éducation et de la Culture  | Mendonça Filho
+L186: Ministre de l'Environnement  | Sarney Filho
+L187: Ministre de la Maison civile  | cite132†Eliseu Padilha ^{cite146†[36] }
+L188: Ministre des Finances  | cite147†Henrique Meirelles L189: Ministre de l'Intégration nationale  | cite148†Helder Barbalho L190: Ministre de la Justice et de la Citoyenneté  | cite126†Alexandre de Moraes L191: Ministre des Mines et de l'Énergie  | Fernando Bezerra Coelho Filho
+L192: Ministre du Plan  | cite109†Romero Jucá L193: Ministre de la Santé  | Ricardo Barros
+L194: Ministre de la Science, des Technologies et des Communications  | cite149†Gilberto Kassab L195: Ministre des Sports  | Leonardo Picciani
+L196: Ministre du Tourisme  | cite118†Henrique Eduardo Alves L197: Ministre de la Transparence  | cite113†Fabiano Silveira L198: Ministre des Transports  | Maurício Quintella Lessa
+L199: Ministre du Travail  | Ronaldo Nogueira
+L200: Ministre de la Ville  | Bruno Araújo
+L201: Secrétaire du Gouvernement  | Geddel Vieira Lima
+--------------------------------------------------------------------------------
+Gouvernement Bolsonaro — Wikipédia (https://fr.wikipedia.org/wiki/Gouvernement_Bolsonaro)
+citeturn37view1 [wordlim: 200] Crawled: 5 months ago; Content type: text/html; Source: open({"ref_id":"https://fr.wikipedia.org/wiki/Gouvernement_Bolsonaro","lineno":null}); Total lines: 385
+--------------------------------------------------------------------------------
+Gouvernement Rousseff II — Wikipédia (https://fr.wikipedia.org/wiki/Gouvernement_Rousseff_II)
+citeturn37view2 [wordlim: 200] Crawled: last year; Content type: text/html; Source: open({"ref_id":"https://fr.wikipedia.org/wiki/Gouvernement_Rousseff_II","lineno":null}); Total lines: 287

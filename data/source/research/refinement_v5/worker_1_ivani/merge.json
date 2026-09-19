@@ -1,0 +1,270 @@
+{
+  "format": "csv-row-upserts-v1",
+  "worker": "worker_1_ivani",
+  "base": "cabinet_dataset/refinement_v5/baseline/inputs",
+  "files": {
+    "affiliations.csv": {
+      "key": [
+        "affiliation_id"
+      ],
+      "upserts": [
+        {
+          "affiliation_id": "affiliation-C035-ivani-dos-santos-2016-11-25",
+          "person_id": "person-ivani-dos-santos",
+          "start_inclusive": "2016-11-25",
+          "end_exclusive": "2017-02-03",
+          "state": "UNKNOWN",
+          "party_id": "",
+          "support": "Personal affiliation remains unresolved after historical SGIP3 governing-body screening and new firsthand-biography/registry-semantics review. Governing-body non-hits, partial registry absence and PMDB employment do not establish non-affiliation or exhaust the alternatives.",
+          "date_status": "unresolved_personal_affiliation",
+          "date_earliest": "",
+          "date_latest": "",
+          "alternatives": "[]",
+          "evidence_ids": "C035;V5W1E001;V5W1E002;V5W1E003",
+          "decision_ids": "C035;V5W1D001"
+        },
+        {
+          "affiliation_id": "affiliation-C035-ivani-dos-santos-2017-08-02-2017-08-02",
+          "person_id": "person-ivani-dos-santos",
+          "start_inclusive": "2017-08-02",
+          "end_exclusive": "2017-08-03",
+          "state": "UNKNOWN",
+          "party_id": "",
+          "support": "Personal affiliation remains unresolved after historical SGIP3 governing-body screening and new firsthand-biography/registry-semantics review. Governing-body non-hits, partial registry absence and PMDB employment do not establish non-affiliation or exhaust the alternatives.",
+          "date_status": "unresolved_personal_affiliation",
+          "date_earliest": "",
+          "date_latest": "",
+          "alternatives": "[]",
+          "evidence_ids": "C035;V5W1E001;V5W1E002;V5W1E003",
+          "decision_ids": "C035;V5W1D001"
+        },
+        {
+          "affiliation_id": "affiliation-C035-ivani-dos-santos-2017-10-20-2017-10-20",
+          "person_id": "person-ivani-dos-santos",
+          "start_inclusive": "2017-10-20",
+          "end_exclusive": "2017-10-26",
+          "state": "UNKNOWN",
+          "party_id": "",
+          "support": "Personal affiliation remains unresolved after historical SGIP3 governing-body screening and new firsthand-biography/registry-semantics review. Governing-body non-hits, partial registry absence and PMDB employment do not establish non-affiliation or exhaust the alternatives.",
+          "date_status": "unresolved_personal_affiliation",
+          "date_earliest": "",
+          "date_latest": "",
+          "alternatives": "[]",
+          "evidence_ids": "C035;V5W1E001;V5W1E002;V5W1E003",
+          "decision_ids": "C035;V5W1D001"
+        }
+      ],
+      "deletes": []
+    },
+    "completion_research_register.csv": {
+      "key": [
+        "research_id"
+      ],
+      "upserts": [
+        {
+          "research_id": "completion-search-ivani-dos-santos",
+          "dependency_id": "person-ivani-dos-santos",
+          "person_name": "Ivani dos Santos",
+          "service_intervals": "2016-11-25/2017-02-03;2017-08-02/2017-08-03;2017-10-20/2017-10-26",
+          "name_variants": "Ivani dos Santos;Ivany dos Santos",
+          "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches; v5: official historical SGIP3 national/GO/DF governing-body membership; academic firsthand narrative; public/private registry-history semantics; 2024 researcher archive provenance",
+          "saved_result_files": "research/completion/web_055.txt;research/completion/web_056.txt;research/completion/web_057.txt;research/completion/web_059.txt;research/completion/web_067.txt;research/completion/web_072.txt;research/completion/web_075.txt;research/completion/web_076.txt;research/completion/web_082.txt;research/completion/web_083.txt;research/completion/web_089.txt;research/completion/web_091.txt;research/completion/web_094.txt;research/completion/web_097.txt;research/completion/web_117.txt;research/completion/web_194.txt;research/completion/web_198.txt;research/completion/web_219.txt;research/completion/web_243.txt;research/completion/web_244.txt;research/completion/web_246.txt;research/completion/web_248.txt;research/completion/web_267.txt;research/completion/web_271.txt;research/completion/web_293.txt;research/completion/web_307.txt;research/completion/web_308.txt;research/completion/web_309.txt;research/completion/web_310.txt;research/completion/web_311.txt;research/completion/web_312.txt;research/completion/web_313.txt;research/completion/web_314.txt;research/completion/web_315.txt;research/completion/web_316.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md;research/refinement_v5/worker_1_ivani/RESEARCH.md;research/refinement_v5/worker_1_ivani/sources/search_02.json;research/refinement_v5/worker_1_ivani/sources/search_03.json;research/refinement_v5/worker_1_ivani/sources/sgip_members_70945_scoped.json;research/refinement_v5/worker_1_ivani/sources/sgip_members_70946_scoped.json;research/refinement_v5/worker_1_ivani/sources/sgip_members_100311_scoped.json;research/refinement_v5/worker_1_ivani/sources/sgip_members_94158_scoped.json",
+          "source_review_finding": "Thirty years of PMDB leadership employment, official November 2016 acting appointment and 2017 minister-substitute acts establish identity and service, but not personal affiliation. Apparent membership-list hits concern longer or different names and cannot be assigned to her. Follow-up rechecked formal vacancy service, spelling Ivany, and an indexed 2014 party-accounts document. The original TSE PDF returned HTTP 403; the available excerpt establishes no personal affiliation, so no primary affiliation change was made. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation. V5 new primary channel: SGIP3 returns national executive (36 members), national directory (219), Goias directory (149), and Distrito Federal regional directory (127) with validity overlapping 2016-2017; all 531 returned governing-member entries screened with no Ivani/Ivany hit. This is not exhaustive party membership and SGIP migration limits remain. A newly found 2006 exact-name UniCEUB monograph describes a federal legislative career but provides no party-state observation; identity compatibility is not unique identification. Official Filia manuals distinguish public lists from complete histories. Gabriel Caseiro archive is a July 2024 current-list capture, not an exhaustive 2016-2017 history. Preserve UNKNOWN and all 77 unresolved days.",
+          "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+          "search_date": "2026-09-10",
+          "completion_status": "blocked"
+        }
+      ],
+      "deletes": []
+    },
+    "decisions.csv": {
+      "key": [
+        "decision_id"
+      ],
+      "upserts": [
+        {
+          "decision_id": "V5W1D001",
+          "disposition": "retain_unresolved_affiliation_after_new_primary_channels",
+          "evidence_ids": "C035;V5W1E001;V5W1E002;V5W1E003",
+          "rationale": "Retain the three Ivani dos Santos UNKNOWN affiliation intervals and genuine vacancy-acting services. Newly checked historical PMDB/MDB governing-body records do not identify her; such bodies are a strict subset of party affiliates and have migration limits. The academic source has no party-state observation and its identity is only compatible. Registry documentation does not establish an exhaustive exact-person historical negative. No supported finite alternative set follows, so all 77 days remain completion blockers. Neither service dates nor party sets change.",
+          "alternatives": "[]"
+        }
+      ],
+      "deletes": []
+    },
+    "evidence.csv": {
+      "key": [
+        "evidence_id"
+      ],
+      "upserts": [
+        {
+          "evidence_id": "V5W1E001",
+          "asserted_fact": "The public SGIP3 historical query returned four PMDB/MDB governing bodies whose stated validity overlaps 2016-2017. All returned members, including inactive members, were screened: national executive 36; national directory 219; Goias directory 149; Distrito Federal regional directory 127. No Ivani or Ivany name occurred among these 531 entries.",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70945&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=100311&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+          "publisher": "Tribunal Superior Eleitoral - SGIP3 public consultation",
+          "publication_date": "",
+          "retrieval_date": "2026-09-10",
+          "access_status": "retrieved_public_api_scoped_snapshot",
+          "rationale": "Genuinely new historical party-governance channel. This negative covers returned governing-body membership only, not all formal party affiliates, and does not support UNAFFILIATED or an exhaustive PMDB/non-affiliation alternative set. SGIP3 warns that pre-May-2017 organs can require the separate historical base; validity dates alone do not prove complete historical member coverage."
+        },
+        {
+          "evidence_id": "V5W1E002",
+          "asserted_fact": "Official Filia documentation distinguishes internal, official and excluded records and an elector history containing affiliation records; official-list changes depend on processing. Complete histories and public-list outputs are not interchangeable.",
+          "source_locator": "https://www.tre-to.jus.br/partidos/filiacao-partidaria/sistema-filiawb/guia-filiaweb-operacoes;https://www.tse.jus.br/partidos/filiacao-partidaria/arquivos/tse-manual-sistema-filiacao-partidaria-externo/%40%40display-file/file/TSE-manual-filia-externo.pdf",
+          "publisher": "TRE Tocantins; Tribunal Superior Eleitoral",
+          "publication_date": "",
+          "retrieval_date": "2026-09-10",
+          "access_status": "retrieved_web_source_text",
+          "rationale": "Source-semantics review does not turn the earlier current or July 2016 municipal-list absence into an exhaustive historical exact-person negative. No authoritative person-specific history covering the three 2016-2017 spells was recovered."
+        },
+        {
+          "evidence_id": "V5W1E003",
+          "asserted_fact": "A March 2006 UniCEUB monograph under the exact name Ivani dos Santos describes its author as a federal legislative employee for 28 years. Examined autobiographical material and targeted full-document term search yielded no personal affiliation or explicit non-affiliation observation.",
+          "source_locator": "https://repositorio.uniceub.br/jspui/handle/235/10435;https://repositorio.uniceub.br/jspui/bitstream/235/10435/1/50505052.pdf",
+          "publisher": "Centro Universitario de Brasilia - UniCEUB institutional repository",
+          "publication_date": "2006-03",
+          "retrieval_date": "2026-09-10",
+          "access_status": "web_extracted_pdf_text_direct_download_http_410",
+          "rationale": "New firsthand biographical channel; exact name and professional history are compatible with the officeholder, but no unique identity match is claimed. It supplies no party-state observation, even conditional on that identity. The direct PDF request returned HTTP 410; retained web extraction is not labelled a successful original download."
+        }
+      ],
+      "deletes": []
+    },
+    "evidence_snapshot_links.csv": {
+      "key": [
+        "evidence_id",
+        "snapshot_path",
+        "source_locator"
+      ],
+      "upserts": [
+        {
+          "evidence_id": "V5W1E001",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/sgip_public_index.txt",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70945&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=100311&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+          "snapshot_kind": "scoped_api_retrieval",
+          "sha256": "a2b63c69b38c52d10214463de988f3038dbace94513b7544ef210e1d8cbf1d93"
+        },
+        {
+          "evidence_id": "V5W1E001",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/sgip_public_js.txt",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70945&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=100311&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+          "snapshot_kind": "scoped_api_retrieval",
+          "sha256": "5730f42ba2a866103f068a5e66a8914969dec87d4c9455faec3760e4950752e1"
+        },
+        {
+          "evidence_id": "V5W1E001",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/sgip_national_2016_2017.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70945&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=100311&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+          "snapshot_kind": "scoped_api_retrieval",
+          "sha256": "972cd0eec216c6c3d75e82a2828d6e487b847bcb9ffdbd662af88e546ad2459e"
+        },
+        {
+          "evidence_id": "V5W1E001",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/sgip_national_2016_2017.meta.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70945&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=100311&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+          "snapshot_kind": "scoped_api_retrieval",
+          "sha256": "7794796491419b728ae12abcde734586c7aaa82b414768a33df74ddecba09460"
+        },
+        {
+          "evidence_id": "V5W1E001",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/sgip_go_2016_2017.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70945&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=100311&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+          "snapshot_kind": "scoped_api_retrieval",
+          "sha256": "8bf950e59ce6820d9828a88f90beab40b035a25aaa67c49d5287d69c4e042d5b"
+        },
+        {
+          "evidence_id": "V5W1E001",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/sgip_go_2016_2017.meta.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70945&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=100311&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+          "snapshot_kind": "scoped_api_retrieval",
+          "sha256": "fbcf6361c6b10f8567a4846dbc3fae2bdc7cfd1bcec9a920156f01b341751cf5"
+        },
+        {
+          "evidence_id": "V5W1E001",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/sgip_df_regional_2016_2017.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70945&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=100311&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+          "snapshot_kind": "scoped_api_retrieval",
+          "sha256": "7dbfe646303163851537dfe4d9017e08b9981eb108cdf89716fcbe587bf0c650"
+        },
+        {
+          "evidence_id": "V5W1E001",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/sgip_members_70945_scoped.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70945&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=100311&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+          "snapshot_kind": "scoped_api_retrieval",
+          "sha256": "b04f50c83fa80fdbbc84bffece022fb7f2968c2b41bb982c736557cda257f45c"
+        },
+        {
+          "evidence_id": "V5W1E001",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/sgip_members_70946_scoped.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70945&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=100311&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+          "snapshot_kind": "scoped_api_retrieval",
+          "sha256": "ce5ffe5e04aeb80665d1d7e72667642d739bf578d17d00d1e59c2d2d019c39dc"
+        },
+        {
+          "evidence_id": "V5W1E001",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/sgip_members_100311_scoped.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70945&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=100311&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+          "snapshot_kind": "scoped_api_retrieval",
+          "sha256": "ee0e5abdf2f3906762b1d3d0bfbc3e6ec049e61f47b2c29c67403dab7a310c2b"
+        },
+        {
+          "evidence_id": "V5W1E001",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/sgip_members_94158_scoped.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70945&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70946&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=100311&isMembrosAtivos=false;https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94158&isMembrosAtivos=false",
+          "snapshot_kind": "scoped_api_retrieval",
+          "sha256": "20d34749478723421831fe89b91beca517de9f79dc1be553f27c3ca157632df4"
+        },
+        {
+          "evidence_id": "V5W1E002",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/search_03.json",
+          "source_locator": "https://www.tre-to.jus.br/partidos/filiacao-partidaria/sistema-filiawb/guia-filiaweb-operacoes;https://www.tse.jus.br/partidos/filiacao-partidaria/arquivos/tse-manual-sistema-filiacao-partidaria-externo/%40%40display-file/file/TSE-manual-filia-externo.pdf",
+          "snapshot_kind": "web_extraction_or_retrieval_log",
+          "sha256": "135d4ea9664939b2040d5cbc22c717e8c7acbc36292508ec041143284b619119"
+        },
+        {
+          "evidence_id": "V5W1E002",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/search_06.json",
+          "source_locator": "https://www.tre-to.jus.br/partidos/filiacao-partidaria/sistema-filiawb/guia-filiaweb-operacoes;https://www.tse.jus.br/partidos/filiacao-partidaria/arquivos/tse-manual-sistema-filiacao-partidaria-externo/%40%40display-file/file/TSE-manual-filia-externo.pdf",
+          "snapshot_kind": "web_extraction_or_retrieval_log",
+          "sha256": "bf3c0a65f013c04cef5801e0c40b34e2003022073e2458cba063b56671f8ada6"
+        },
+        {
+          "evidence_id": "V5W1E002",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/search_09.json",
+          "source_locator": "https://www.tre-to.jus.br/partidos/filiacao-partidaria/sistema-filiawb/guia-filiaweb-operacoes;https://www.tse.jus.br/partidos/filiacao-partidaria/arquivos/tse-manual-sistema-filiacao-partidaria-externo/%40%40display-file/file/TSE-manual-filia-externo.pdf",
+          "snapshot_kind": "web_extraction_or_retrieval_log",
+          "sha256": "c4182d5fc8a435180113c160dfa592a683d5db8ac56a4f0cdeeb450ce29e95cd"
+        },
+        {
+          "evidence_id": "V5W1E003",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/search_02.json",
+          "source_locator": "https://repositorio.uniceub.br/jspui/handle/235/10435;https://repositorio.uniceub.br/jspui/bitstream/235/10435/1/50505052.pdf",
+          "snapshot_kind": "web_extraction_or_retrieval_log",
+          "sha256": "d15102300598c48b829670b7950f5bd327838ac630829693711de61a72c3a1b4"
+        },
+        {
+          "evidence_id": "V5W1E003",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/search_03.json",
+          "source_locator": "https://repositorio.uniceub.br/jspui/handle/235/10435;https://repositorio.uniceub.br/jspui/bitstream/235/10435/1/50505052.pdf",
+          "snapshot_kind": "web_extraction_or_retrieval_log",
+          "sha256": "135d4ea9664939b2040d5cbc22c717e8c7acbc36292508ec041143284b619119"
+        },
+        {
+          "evidence_id": "V5W1E003",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/uniceub_2006_thesis.http410.txt",
+          "source_locator": "https://repositorio.uniceub.br/jspui/handle/235/10435;https://repositorio.uniceub.br/jspui/bitstream/235/10435/1/50505052.pdf",
+          "snapshot_kind": "web_extraction_or_retrieval_log",
+          "sha256": "1af29706d2a6b604a0e552114f17bb1789014da70e98d6cf05af542bafaca04f"
+        },
+        {
+          "evidence_id": "V5W1E003",
+          "snapshot_path": "research/refinement_v5/worker_1_ivani/sources/uniceub_2006_thesis.meta.json",
+          "source_locator": "https://repositorio.uniceub.br/jspui/handle/235/10435;https://repositorio.uniceub.br/jspui/bitstream/235/10435/1/50505052.pdf",
+          "snapshot_kind": "web_extraction_or_retrieval_log",
+          "sha256": "7d8b82f670477e3e76b13c4696fd74dd593333139db29d65e8daee66851faacc"
+        }
+      ],
+      "deletes": []
+    }
+  }
+}

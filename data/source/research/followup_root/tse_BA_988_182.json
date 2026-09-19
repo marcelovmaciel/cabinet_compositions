@@ -1,0 +1,17 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "PRD",
+  "id": 182,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=182&currentPage=0&pageSize=10000",
+      "records": 6808,
+      "totalElements": 6808,
+      "response_sha256": "acf86a854799de91fbf39e63f9188acea243d771e96fad65d0ab4f446c081c51",
+      "retrieved_utc": "2026-09-10T23:38:01Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,17 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "DEMOCRATA",
+  "id": 60,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=60&currentPage=0&pageSize=10000",
+      "records": 252,
+      "totalElements": 252,
+      "response_sha256": "25cc6cab87a057de2f6a430833599125ba1b29c96bb6e14dbd066ec996470197",
+      "retrieved_utc": "2026-09-10T23:37:29Z"
+    }
+  ],
+  "matches": []
+}

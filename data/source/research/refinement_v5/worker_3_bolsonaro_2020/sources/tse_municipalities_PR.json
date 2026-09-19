@@ -1,0 +1,5189 @@
+[
+  {
+    "codLocalidadeTse": 74012,
+    "codObjeto": "5729",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ABATIÁ"
+  },
+  {
+    "codLocalidadeTse": 74039,
+    "codObjeto": "5733",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ADRIANÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 74055,
+    "codObjeto": "5741",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "AGUDOS DO SUL"
+  },
+  {
+    "codLocalidadeTse": 74071,
+    "codObjeto": "5744",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ALMIRANTE TAMANDARÉ"
+  },
+  {
+    "codLocalidadeTse": 84557,
+    "codObjeto": "5745",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ALTAMIRA DO PARANÁ"
+  },
+  {
+    "codLocalidadeTse": 74098,
+    "codObjeto": "5753",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ALTO PARANÁ"
+  },
+  {
+    "codLocalidadeTse": 74926,
+    "codObjeto": "6812",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ALTO PARAÍSO"
+  },
+  {
+    "codLocalidadeTse": 74110,
+    "codObjeto": "5754",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ALTO PIQUIRI"
+  },
+  {
+    "codLocalidadeTse": 79510,
+    "codObjeto": "5759",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ALTÔNIA"
+  },
+  {
+    "codLocalidadeTse": 74136,
+    "codObjeto": "5761",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ALVORADA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 74152,
+    "codObjeto": "5762",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "AMAPORÃ"
+  },
+  {
+    "codLocalidadeTse": 74179,
+    "codObjeto": "5764",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "AMPÉRE"
+  },
+  {
+    "codLocalidadeTse": 74101,
+    "codObjeto": "5765",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ANAHY"
+  },
+  {
+    "codLocalidadeTse": 74195,
+    "codObjeto": "5766",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ANDIRÁ"
+  },
+  {
+    "codLocalidadeTse": 74217,
+    "codObjeto": "5772",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ANTONINA"
+  },
+  {
+    "codLocalidadeTse": 74233,
+    "codObjeto": "5774",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ANTÔNIO OLINTO"
+  },
+  {
+    "codLocalidadeTse": 74250,
+    "codObjeto": "5778",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "APUCARANA"
+  },
+  {
+    "codLocalidadeTse": 74276,
+    "codObjeto": "5781",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ARAPONGAS"
+  },
+  {
+    "codLocalidadeTse": 74292,
+    "codObjeto": "5782",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ARAPOTI"
+  },
+  {
+    "codLocalidadeTse": 75108,
+    "codObjeto": "5783",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ARAPUÃ"
+  },
+  {
+    "codLocalidadeTse": 74314,
+    "codObjeto": "5786",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ARARUNA"
+  },
+  {
+    "codLocalidadeTse": 74357,
+    "codObjeto": "5787",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ARAUCÁRIA"
+  },
+  {
+    "codLocalidadeTse": 75086,
+    "codObjeto": "5791",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ARIRANHA DO IVAÍ"
+  },
+  {
+    "codLocalidadeTse": 74373,
+    "codObjeto": "5794",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ASSAÍ"
+  },
+  {
+    "codLocalidadeTse": 79537,
+    "codObjeto": "5795",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ASSIS CHATEAUBRIAND"
+  },
+  {
+    "codLocalidadeTse": 74390,
+    "codObjeto": "5796",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ASTORGA"
+  },
+  {
+    "codLocalidadeTse": 74411,
+    "codObjeto": "5797",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ATALAIA"
+  },
+  {
+    "codLocalidadeTse": 74438,
+    "codObjeto": "5802",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BALSA NOVA"
+  },
+  {
+    "codLocalidadeTse": 74454,
+    "codObjeto": "5803",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BANDEIRANTES"
+  },
+  {
+    "codLocalidadeTse": 74470,
+    "codObjeto": "5807",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BARBOSA FERRAZ"
+  },
+  {
+    "codLocalidadeTse": 74519,
+    "codObjeto": "5810",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BARRA DO JACARÉ"
+  },
+  {
+    "codLocalidadeTse": 74497,
+    "codObjeto": "5817",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BARRACÃO"
+  },
+  {
+    "codLocalidadeTse": 75124,
+    "codObjeto": "5832",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BELA VISTA DA CAROBA"
+  },
+  {
+    "codLocalidadeTse": 74535,
+    "codObjeto": "5834",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BELA VISTA DO PARAÍSO"
+  },
+  {
+    "codLocalidadeTse": 74551,
+    "codObjeto": "5840",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BITURUNA"
+  },
+  {
+    "codLocalidadeTse": 74578,
+    "codObjeto": "5841",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BOA ESPERANÇA"
+  },
+  {
+    "codLocalidadeTse": 74144,
+    "codObjeto": "5843",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BOA ESPERANÇA DO IGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 75140,
+    "codObjeto": "5844",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BOA VENTURA DE SÃO ROQUE"
+  },
+  {
+    "codLocalidadeTse": 79812,
+    "codObjeto": "5850",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BOA VISTA DA APARECIDA"
+  },
+  {
+    "codLocalidadeTse": 74594,
+    "codObjeto": "5852",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BOCAIÚVA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 75167,
+    "codObjeto": "5854",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BOM JESUS DO SUL"
+  },
+  {
+    "codLocalidadeTse": 74616,
+    "codObjeto": "5860",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BOM SUCESSO"
+  },
+  {
+    "codLocalidadeTse": 74160,
+    "codObjeto": "5862",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BOM SUCESSO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 74632,
+    "codObjeto": "5866",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BORRAZÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 79839,
+    "codObjeto": "5869",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BRAGANEY"
+  },
+  {
+    "codLocalidadeTse": 74187,
+    "codObjeto": "5871",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "BRASILÂNDIA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 74659,
+    "codObjeto": "5884",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAFEARA"
+  },
+  {
+    "codLocalidadeTse": 79855,
+    "codObjeto": "5886",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAFELÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 74209,
+    "codObjeto": "5887",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAFEZAL DO SUL"
+  },
+  {
+    "codLocalidadeTse": 74675,
+    "codObjeto": "5890",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CALIFÓRNIA"
+  },
+  {
+    "codLocalidadeTse": 74691,
+    "codObjeto": "5892",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAMBARÁ"
+  },
+  {
+    "codLocalidadeTse": 74730,
+    "codObjeto": "5895",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAMBIRA"
+  },
+  {
+    "codLocalidadeTse": 74713,
+    "codObjeto": "5893",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAMBÉ"
+  },
+  {
+    "codLocalidadeTse": 74756,
+    "codObjeto": "5900",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAMPINA DA LAGOA"
+  },
+  {
+    "codLocalidadeTse": 75183,
+    "codObjeto": "5902",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAMPINA DO SIMÃO"
+  },
+  {
+    "codLocalidadeTse": 74772,
+    "codObjeto": "5904",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAMPINA GRANDE DO SUL"
+  },
+  {
+    "codLocalidadeTse": 74780,
+    "codObjeto": "5906",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAMPO BONITO"
+  },
+  {
+    "codLocalidadeTse": 74799,
+    "codObjeto": "5908",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAMPO DO TENENTE"
+  },
+  {
+    "codLocalidadeTse": 74810,
+    "codObjeto": "5909",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAMPO LARGO"
+  },
+  {
+    "codLocalidadeTse": 75205,
+    "codObjeto": "5911",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAMPO MAGRO"
+  },
+  {
+    "codLocalidadeTse": 74837,
+    "codObjeto": "5912",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAMPO MOURÃO"
+  },
+  {
+    "codLocalidadeTse": 74225,
+    "codObjeto": "5914",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CANDÓI"
+  },
+  {
+    "codLocalidadeTse": 84514,
+    "codObjeto": "5916",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CANTAGALO"
+  },
+  {
+    "codLocalidadeTse": 74870,
+    "codObjeto": "5918",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAPANEMA"
+  },
+  {
+    "codLocalidadeTse": 74896,
+    "codObjeto": "5925",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CAPITÃO LEÔNIDAS MARQUES"
+  },
+  {
+    "codLocalidadeTse": 75221,
+    "codObjeto": "5931",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CARAMBEÍ"
+  },
+  {
+    "codLocalidadeTse": 74918,
+    "codObjeto": "5936",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CARLÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 74934,
+    "codObjeto": "5939",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CASCAVEL"
+  },
+  {
+    "codLocalidadeTse": 74950,
+    "codObjeto": "5940",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CASTRO"
+  },
+  {
+    "codLocalidadeTse": 74977,
+    "codObjeto": "5941",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CATANDUVAS"
+  },
+  {
+    "codLocalidadeTse": 74993,
+    "codObjeto": "5948",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CENTENÁRIO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 75019,
+    "codObjeto": "5954",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CERRO AZUL"
+  },
+  {
+    "codLocalidadeTse": 75035,
+    "codObjeto": "5957",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CHOPINZINHO"
+  },
+  {
+    "codLocalidadeTse": 75051,
+    "codObjeto": "5958",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CIANORTE"
+  },
+  {
+    "codLocalidadeTse": 75078,
+    "codObjeto": "5959",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CIDADE GAÚCHA"
+  },
+  {
+    "codLocalidadeTse": 75094,
+    "codObjeto": "5961",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CLEVELÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 75132,
+    "codObjeto": "5963",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "COLOMBO"
+  },
+  {
+    "codLocalidadeTse": 75159,
+    "codObjeto": "5982",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "COLORADO"
+  },
+  {
+    "codLocalidadeTse": 75175,
+    "codObjeto": "5989",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CONGONHINHAS"
+  },
+  {
+    "codLocalidadeTse": 75191,
+    "codObjeto": "5990",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CONSELHEIRO MAIRINCK"
+  },
+  {
+    "codLocalidadeTse": 75213,
+    "codObjeto": "5992",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CONTENDA"
+  },
+  {
+    "codLocalidadeTse": 75230,
+    "codObjeto": "5994",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CORBÉLIA"
+  },
+  {
+    "codLocalidadeTse": 75256,
+    "codObjeto": "5995",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CORNÉLIO PROCÓPIO"
+  },
+  {
+    "codLocalidadeTse": 75248,
+    "codObjeto": "5996",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CORONEL DOMINGOS SOARES"
+  },
+  {
+    "codLocalidadeTse": 75272,
+    "codObjeto": "5998",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CORONEL VIVIDA"
+  },
+  {
+    "codLocalidadeTse": 75280,
+    "codObjeto": "6000",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CORUMBATAÍ DO SUL"
+  },
+  {
+    "codLocalidadeTse": 75337,
+    "codObjeto": "6007",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CRUZ MACHADO"
+  },
+  {
+    "codLocalidadeTse": 74241,
+    "codObjeto": "6008",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CRUZEIRO DO IGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 75299,
+    "codObjeto": "6010",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CRUZEIRO DO OESTE"
+  },
+  {
+    "codLocalidadeTse": 75310,
+    "codObjeto": "6011",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CRUZEIRO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 75264,
+    "codObjeto": "6012",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CRUZMALTINA"
+  },
+  {
+    "codLocalidadeTse": 75353,
+    "codObjeto": "6014",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CURITIBA"
+  },
+  {
+    "codLocalidadeTse": 75370,
+    "codObjeto": "6015",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CURIÚVA"
+  },
+  {
+    "codLocalidadeTse": 74853,
+    "codObjeto": "5913",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CÂNDIDO DE ABREU"
+  },
+  {
+    "codLocalidadeTse": 79570,
+    "codObjeto": "5956",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "CÉU AZUL"
+  },
+  {
+    "codLocalidadeTse": 75400,
+    "codObjeto": "6022",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "DIAMANTE D'OESTE"
+  },
+  {
+    "codLocalidadeTse": 75396,
+    "codObjeto": "6023",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "DIAMANTE DO NORTE"
+  },
+  {
+    "codLocalidadeTse": 74268,
+    "codObjeto": "6024",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "DIAMANTE DO SUL"
+  },
+  {
+    "codLocalidadeTse": 75418,
+    "codObjeto": "6029",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "DOIS VIZINHOS"
+  },
+  {
+    "codLocalidadeTse": 84654,
+    "codObjeto": "6032",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "DOURADINA"
+  },
+  {
+    "codLocalidadeTse": 75434,
+    "codObjeto": "6034",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "DOUTOR CAMARGO"
+  },
+  {
+    "codLocalidadeTse": 74942,
+    "codObjeto": "6037",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "DOUTOR ULYSSES"
+  },
+  {
+    "codLocalidadeTse": 75477,
+    "codObjeto": "6046",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ENGENHEIRO BELTRÃO"
+  },
+  {
+    "codLocalidadeTse": 74284,
+    "codObjeto": "6048",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ENTRE RIOS DO OESTE"
+  },
+  {
+    "codLocalidadeTse": 75450,
+    "codObjeto": "6045",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ENÉAS MARQUES"
+  },
+  {
+    "codLocalidadeTse": 75302,
+    "codObjeto": "6050",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ESPERANÇA NOVA"
+  },
+  {
+    "codLocalidadeTse": 75329,
+    "codObjeto": "6051",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ESPIGÃO ALTO DO IGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 74306,
+    "codObjeto": "6058",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FAROL"
+  },
+  {
+    "codLocalidadeTse": 75493,
+    "codObjeto": "6060",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FAXINAL"
+  },
+  {
+    "codLocalidadeTse": 74322,
+    "codObjeto": "6067",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FAZENDA RIO GRANDE"
+  },
+  {
+    "codLocalidadeTse": 75345,
+    "codObjeto": "6072",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FERNANDES PINHEIRO"
+  },
+  {
+    "codLocalidadeTse": 84573,
+    "codObjeto": "6076",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FIGUEIRA"
+  },
+  {
+    "codLocalidadeTse": 74349,
+    "codObjeto": "6080",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FLOR DA SERRA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 75531,
+    "codObjeto": "6081",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FLORAÍ"
+  },
+  {
+    "codLocalidadeTse": 75558,
+    "codObjeto": "6082",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FLORESTA"
+  },
+  {
+    "codLocalidadeTse": 75574,
+    "codObjeto": "6083",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FLORESTÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 75590,
+    "codObjeto": "6085",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FLÓRIDA"
+  },
+  {
+    "codLocalidadeTse": 75612,
+    "codObjeto": "6089",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FORMOSA DO OESTE"
+  },
+  {
+    "codLocalidadeTse": 75639,
+    "codObjeto": "6090",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FOZ DO IGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 75361,
+    "codObjeto": "6091",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FOZ DO JORDÃO"
+  },
+  {
+    "codLocalidadeTse": 79774,
+    "codObjeto": "6092",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FRANCISCO ALVES"
+  },
+  {
+    "codLocalidadeTse": 75655,
+    "codObjeto": "6093",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FRANCISCO BELTRÃO"
+  },
+  {
+    "codLocalidadeTse": 75515,
+    "codObjeto": "6071",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "FÊNIX"
+  },
+  {
+    "codLocalidadeTse": 75671,
+    "codObjeto": "6103",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GENERAL CARNEIRO"
+  },
+  {
+    "codLocalidadeTse": 74004,
+    "codObjeto": "6106",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GODOY MOREIRA"
+  },
+  {
+    "codLocalidadeTse": 75698,
+    "codObjeto": "6107",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GOIOERÊ"
+  },
+  {
+    "codLocalidadeTse": 75388,
+    "codObjeto": "6108",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GOIOXIM"
+  },
+  {
+    "codLocalidadeTse": 79596,
+    "codObjeto": "6112",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GRANDES RIOS"
+  },
+  {
+    "codLocalidadeTse": 75736,
+    "codObjeto": "6115",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GUAIRAÇÁ"
+  },
+  {
+    "codLocalidadeTse": 75426,
+    "codObjeto": "6119",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GUAMIRANGA"
+  },
+  {
+    "codLocalidadeTse": 75752,
+    "codObjeto": "6121",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GUAPIRAMA"
+  },
+  {
+    "codLocalidadeTse": 75779,
+    "codObjeto": "6123",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GUAPOREMA"
+  },
+  {
+    "codLocalidadeTse": 75795,
+    "codObjeto": "6125",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GUARACI"
+  },
+  {
+    "codLocalidadeTse": 75817,
+    "codObjeto": "6129",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GUARANIAÇU"
+  },
+  {
+    "codLocalidadeTse": 75833,
+    "codObjeto": "6130",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GUARAPUAVA"
+  },
+  {
+    "codLocalidadeTse": 75850,
+    "codObjeto": "6132",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GUARAQUEÇABA"
+  },
+  {
+    "codLocalidadeTse": 75876,
+    "codObjeto": "6134",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GUARATUBA"
+  },
+  {
+    "codLocalidadeTse": 75710,
+    "codObjeto": "6114",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "GUAÍRA"
+  },
+  {
+    "codLocalidadeTse": 74365,
+    "codObjeto": "6144",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "HONÓRIO SERPA"
+  },
+  {
+    "codLocalidadeTse": 75892,
+    "codObjeto": "6146",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IBAITI"
+  },
+  {
+    "codLocalidadeTse": 74020,
+    "codObjeto": "6147",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IBEMA"
+  },
+  {
+    "codLocalidadeTse": 75914,
+    "codObjeto": "6149",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IBIPORÃ"
+  },
+  {
+    "codLocalidadeTse": 75930,
+    "codObjeto": "6151",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ICARAÍMA"
+  },
+  {
+    "codLocalidadeTse": 75957,
+    "codObjeto": "6154",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IGUARAÇU"
+  },
+  {
+    "codLocalidadeTse": 74381,
+    "codObjeto": "6156",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IGUATU"
+  },
+  {
+    "codLocalidadeTse": 75442,
+    "codObjeto": "6160",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IMBAÚ"
+  },
+  {
+    "codLocalidadeTse": 75973,
+    "codObjeto": "6162",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IMBITUVA"
+  },
+  {
+    "codLocalidadeTse": 76015,
+    "codObjeto": "6164",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "INAJÁ"
+  },
+  {
+    "codLocalidadeTse": 79618,
+    "codObjeto": "6166",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "INDIANÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 75990,
+    "codObjeto": "6163",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "INÁCIO MARTINS"
+  },
+  {
+    "codLocalidadeTse": 76031,
+    "codObjeto": "6171",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IPIRANGA"
+  },
+  {
+    "codLocalidadeTse": 76058,
+    "codObjeto": "6174",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IPORÃ"
+  },
+  {
+    "codLocalidadeTse": 74403,
+    "codObjeto": "6175",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IRACEMA DO OESTE"
+  },
+  {
+    "codLocalidadeTse": 76074,
+    "codObjeto": "6177",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IRATI"
+  },
+  {
+    "codLocalidadeTse": 76090,
+    "codObjeto": "6179",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IRETAMA"
+  },
+  {
+    "codLocalidadeTse": 76112,
+    "codObjeto": "6180",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ITAGUAJÉ"
+  },
+  {
+    "codLocalidadeTse": 75000,
+    "codObjeto": "6182",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ITAIPULÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 76139,
+    "codObjeto": "6183",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ITAMBARACÁ"
+  },
+  {
+    "codLocalidadeTse": 76155,
+    "codObjeto": "6184",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ITAMBÉ"
+  },
+  {
+    "codLocalidadeTse": 76171,
+    "codObjeto": "6188",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ITAPEJARA D'OESTE"
+  },
+  {
+    "codLocalidadeTse": 74446,
+    "codObjeto": "6189",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ITAPERUÇU"
+  },
+  {
+    "codLocalidadeTse": 76198,
+    "codObjeto": "6191",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ITAÚNA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 76236,
+    "codObjeto": "6195",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IVAIPORÃ"
+  },
+  {
+    "codLocalidadeTse": 76252,
+    "codObjeto": "6198",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IVATUBA"
+  },
+  {
+    "codLocalidadeTse": 74462,
+    "codObjeto": "6197",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IVATÉ"
+  },
+  {
+    "codLocalidadeTse": 76210,
+    "codObjeto": "6193",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "IVAÍ"
+  },
+  {
+    "codLocalidadeTse": 76279,
+    "codObjeto": "6200",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JABOTI"
+  },
+  {
+    "codLocalidadeTse": 76295,
+    "codObjeto": "6204",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JACAREZINHO"
+  },
+  {
+    "codLocalidadeTse": 76317,
+    "codObjeto": "6210",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JAGUAPITÃ"
+  },
+  {
+    "codLocalidadeTse": 76333,
+    "codObjeto": "6211",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JAGUARIAÍVA"
+  },
+  {
+    "codLocalidadeTse": 76350,
+    "codObjeto": "6212",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JANDAIA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 76376,
+    "codObjeto": "6215",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JANIÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 76392,
+    "codObjeto": "6216",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JAPIRA"
+  },
+  {
+    "codLocalidadeTse": 76414,
+    "codObjeto": "6217",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JAPURÁ"
+  },
+  {
+    "codLocalidadeTse": 76430,
+    "codObjeto": "6220",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JARDIM ALEGRE"
+  },
+  {
+    "codLocalidadeTse": 76457,
+    "codObjeto": "6221",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JARDIM OLINDA"
+  },
+  {
+    "codLocalidadeTse": 76473,
+    "codObjeto": "6225",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JATAIZINHO"
+  },
+  {
+    "codLocalidadeTse": 79979,
+    "codObjeto": "6227",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JESUÍTAS"
+  },
+  {
+    "codLocalidadeTse": 76490,
+    "codObjeto": "6229",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JOAQUIM TÁVORA"
+  },
+  {
+    "codLocalidadeTse": 76511,
+    "codObjeto": "6233",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JUNDIAÍ DO SUL"
+  },
+  {
+    "codLocalidadeTse": 84638,
+    "codObjeto": "6234",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JURANDA"
+  },
+  {
+    "codLocalidadeTse": 76538,
+    "codObjeto": "6235",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "JUSSARA"
+  },
+  {
+    "codLocalidadeTse": 76554,
+    "codObjeto": "6237",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "KALORÉ"
+  },
+  {
+    "codLocalidadeTse": 76570,
+    "codObjeto": "6253",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "LAPA"
+  },
+  {
+    "codLocalidadeTse": 74985,
+    "codObjeto": "6255",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "LARANJAL"
+  },
+  {
+    "codLocalidadeTse": 76597,
+    "codObjeto": "6256",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "LARANJEIRAS DO SUL"
+  },
+  {
+    "codLocalidadeTse": 76619,
+    "codObjeto": "6260",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "LEÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 74489,
+    "codObjeto": "6262",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "LIDIANÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 74047,
+    "codObjeto": "6263",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "LINDOESTE"
+  },
+  {
+    "codLocalidadeTse": 76635,
+    "codObjeto": "6265",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "LOANDA"
+  },
+  {
+    "codLocalidadeTse": 76651,
+    "codObjeto": "6266",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "LOBATO"
+  },
+  {
+    "codLocalidadeTse": 76678,
+    "codObjeto": "6267",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "LONDRINA"
+  },
+  {
+    "codLocalidadeTse": 75809,
+    "codObjeto": "6271",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "LUIZIANA"
+  },
+  {
+    "codLocalidadeTse": 84590,
+    "codObjeto": "6272",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "LUNARDELLI"
+  },
+  {
+    "codLocalidadeTse": 76694,
+    "codObjeto": "6273",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "LUPIONÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 76716,
+    "codObjeto": "6278",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MALLET"
+  },
+  {
+    "codLocalidadeTse": 76732,
+    "codObjeto": "6280",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MAMBORÊ"
+  },
+  {
+    "codLocalidadeTse": 76775,
+    "codObjeto": "6283",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MANDAGUARI"
+  },
+  {
+    "codLocalidadeTse": 76759,
+    "codObjeto": "6282",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MANDAGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 76791,
+    "codObjeto": "6285",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MANDIRITUBA"
+  },
+  {
+    "codLocalidadeTse": 75469,
+    "codObjeto": "6286",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MANFRINÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 75116,
+    "codObjeto": "6287",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MANGUEIRINHA"
+  },
+  {
+    "codLocalidadeTse": 76813,
+    "codObjeto": "6288",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MANOEL RIBAS"
+  },
+  {
+    "codLocalidadeTse": 76830,
+    "codObjeto": "6296",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MARECHAL CÂNDIDO RONDON"
+  },
+  {
+    "codLocalidadeTse": 76856,
+    "codObjeto": "6298",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MARIA HELENA"
+  },
+  {
+    "codLocalidadeTse": 76872,
+    "codObjeto": "6300",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MARIALVA"
+  },
+  {
+    "codLocalidadeTse": 79758,
+    "codObjeto": "6303",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MARILENA"
+  },
+  {
+    "codLocalidadeTse": 76899,
+    "codObjeto": "6305",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MARILUZ"
+  },
+  {
+    "codLocalidadeTse": 74330,
+    "codObjeto": "6302",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MARILÂNDIA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 76910,
+    "codObjeto": "6307",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MARINGÁ"
+  },
+  {
+    "codLocalidadeTse": 74500,
+    "codObjeto": "6309",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MARIPÁ"
+  },
+  {
+    "codLocalidadeTse": 76937,
+    "codObjeto": "6308",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MARIÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 76953,
+    "codObjeto": "6313",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MARMELEIRO"
+  },
+  {
+    "codLocalidadeTse": 75485,
+    "codObjeto": "6315",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MARQUINHO"
+  },
+  {
+    "codLocalidadeTse": 76970,
+    "codObjeto": "6318",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MARUMBI"
+  },
+  {
+    "codLocalidadeTse": 76996,
+    "codObjeto": "6319",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MATELÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 79634,
+    "codObjeto": "6320",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MATINHOS"
+  },
+  {
+    "codLocalidadeTse": 74527,
+    "codObjeto": "6323",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MATO RICO"
+  },
+  {
+    "codLocalidadeTse": 74543,
+    "codObjeto": "6324",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MAUÁ DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 77011,
+    "codObjeto": "6325",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MEDIANEIRA"
+  },
+  {
+    "codLocalidadeTse": 74560,
+    "codObjeto": "6329",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MERCEDES"
+  },
+  {
+    "codLocalidadeTse": 77038,
+    "codObjeto": "6330",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MIRADOR"
+  },
+  {
+    "codLocalidadeTse": 77054,
+    "codObjeto": "6333",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MIRASELVA"
+  },
+  {
+    "codLocalidadeTse": 84697,
+    "codObjeto": "6334",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MISSAL"
+  },
+  {
+    "codLocalidadeTse": 77070,
+    "codObjeto": "6337",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MOREIRA SALES"
+  },
+  {
+    "codLocalidadeTse": 77097,
+    "codObjeto": "6338",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MORRETES"
+  },
+  {
+    "codLocalidadeTse": 77119,
+    "codObjeto": "6341",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "MUNHOZ DE MELLO"
+  },
+  {
+    "codLocalidadeTse": 77135,
+    "codObjeto": "6348",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOSSA SENHORA DAS GRAÇAS"
+  },
+  {
+    "codLocalidadeTse": 77151,
+    "codObjeto": "6351",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA ALIANÇA DO IVAÍ"
+  },
+  {
+    "codLocalidadeTse": 77178,
+    "codObjeto": "6353",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA AMÉRICA DA COLINA"
+  },
+  {
+    "codLocalidadeTse": 79650,
+    "codObjeto": "6355",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA AURORA"
+  },
+  {
+    "codLocalidadeTse": 77194,
+    "codObjeto": "6360",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA CANTU"
+  },
+  {
+    "codLocalidadeTse": 77216,
+    "codObjeto": "6363",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA ESPERANÇA"
+  },
+  {
+    "codLocalidadeTse": 75027,
+    "codObjeto": "6364",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA ESPERANÇA DO SUDOESTE"
+  },
+  {
+    "codLocalidadeTse": 77232,
+    "codObjeto": "6365",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA FÁTIMA"
+  },
+  {
+    "codLocalidadeTse": 74586,
+    "codObjeto": "6366",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA LARANJEIRAS"
+  },
+  {
+    "codLocalidadeTse": 77259,
+    "codObjeto": "6367",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA LONDRINA"
+  },
+  {
+    "codLocalidadeTse": 79677,
+    "codObjeto": "6369",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA OLÍMPIA"
+  },
+  {
+    "codLocalidadeTse": 79952,
+    "codObjeto": "6370",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA PRATA DO IGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 74608,
+    "codObjeto": "6372",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA SANTA BÁRBARA"
+  },
+  {
+    "codLocalidadeTse": 79790,
+    "codObjeto": "6373",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA SANTA ROSA"
+  },
+  {
+    "codLocalidadeTse": 75760,
+    "codObjeto": "6374",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVA TEBAS"
+  },
+  {
+    "codLocalidadeTse": 74420,
+    "codObjeto": "6379",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "NOVO ITACOLOMI"
+  },
+  {
+    "codLocalidadeTse": 77275,
+    "codObjeto": "6389",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ORTIGUEIRA"
+  },
+  {
+    "codLocalidadeTse": 77291,
+    "codObjeto": "6391",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "OURIZONA"
+  },
+  {
+    "codLocalidadeTse": 74063,
+    "codObjeto": "6392",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "OURO VERDE DO OESTE"
+  },
+  {
+    "codLocalidadeTse": 77313,
+    "codObjeto": "6395",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PAIÇANDU"
+  },
+  {
+    "codLocalidadeTse": 77330,
+    "codObjeto": "6400",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PALMAS"
+  },
+  {
+    "codLocalidadeTse": 77356,
+    "codObjeto": "6401",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PALMEIRA"
+  },
+  {
+    "codLocalidadeTse": 77372,
+    "codObjeto": "6405",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PALMITAL"
+  },
+  {
+    "codLocalidadeTse": 77399,
+    "codObjeto": "6409",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PALOTINA"
+  },
+  {
+    "codLocalidadeTse": 77437,
+    "codObjeto": "6415",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PARANACITY"
+  },
+  {
+    "codLocalidadeTse": 77453,
+    "codObjeto": "6417",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PARANAGUÁ"
+  },
+  {
+    "codLocalidadeTse": 77470,
+    "codObjeto": "6418",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PARANAPOEMA"
+  },
+  {
+    "codLocalidadeTse": 77496,
+    "codObjeto": "6419",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PARANAVAÍ"
+  },
+  {
+    "codLocalidadeTse": 77410,
+    "codObjeto": "6413",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PARAÍSO DO NORTE"
+  },
+  {
+    "codLocalidadeTse": 74624,
+    "codObjeto": "6425",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PATO BRAGADO"
+  },
+  {
+    "codLocalidadeTse": 77518,
+    "codObjeto": "6426",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PATO BRANCO"
+  },
+  {
+    "codLocalidadeTse": 77534,
+    "codObjeto": "6429",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PAULA FREITAS"
+  },
+  {
+    "codLocalidadeTse": 77550,
+    "codObjeto": "6431",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PAULO FRONTIN"
+  },
+  {
+    "codLocalidadeTse": 77577,
+    "codObjeto": "6432",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PEABIRU"
+  },
+  {
+    "codLocalidadeTse": 75507,
+    "codObjeto": "6437",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PEROBAL"
+  },
+  {
+    "codLocalidadeTse": 75043,
+    "codObjeto": "6444",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PINHAIS"
+  },
+  {
+    "codLocalidadeTse": 74640,
+    "codObjeto": "6445",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PINHAL DE SÃO BENTO"
+  },
+  {
+    "codLocalidadeTse": 77631,
+    "codObjeto": "6447",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PINHALÃO"
+  },
+  {
+    "codLocalidadeTse": 77658,
+    "codObjeto": "6453",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PINHÃO"
+  },
+  {
+    "codLocalidadeTse": 77690,
+    "codObjeto": "6459",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PIRAQUARA"
+  },
+  {
+    "codLocalidadeTse": 77674,
+    "codObjeto": "6457",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PIRAÍ DO SUL"
+  },
+  {
+    "codLocalidadeTse": 77712,
+    "codObjeto": "6461",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PITANGA"
+  },
+  {
+    "codLocalidadeTse": 74667,
+    "codObjeto": "6462",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PITANGUEIRAS"
+  },
+  {
+    "codLocalidadeTse": 77615,
+    "codObjeto": "6442",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PIÊN"
+  },
+  {
+    "codLocalidadeTse": 77739,
+    "codObjeto": "6464",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PLANALTINA DO PARANÁ"
+  },
+  {
+    "codLocalidadeTse": 77755,
+    "codObjeto": "6465",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PLANALTO"
+  },
+  {
+    "codLocalidadeTse": 77771,
+    "codObjeto": "6470",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PONTA GROSSA"
+  },
+  {
+    "codLocalidadeTse": 75523,
+    "codObjeto": "6472",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PONTAL DO PARANÁ"
+  },
+  {
+    "codLocalidadeTse": 77798,
+    "codObjeto": "6473",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PORECATU"
+  },
+  {
+    "codLocalidadeTse": 77810,
+    "codObjeto": "6476",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PORTO AMAZONAS"
+  },
+  {
+    "codLocalidadeTse": 75540,
+    "codObjeto": "6477",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PORTO BARREIRO"
+  },
+  {
+    "codLocalidadeTse": 77836,
+    "codObjeto": "6484",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PORTO RICO"
+  },
+  {
+    "codLocalidadeTse": 77852,
+    "codObjeto": "6489",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PORTO VITÓRIA"
+  },
+  {
+    "codLocalidadeTse": 75566,
+    "codObjeto": "6490",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PRADO FERREIRA"
+  },
+  {
+    "codLocalidadeTse": 79910,
+    "codObjeto": "6491",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PRANCHITA"
+  },
+  {
+    "codLocalidadeTse": 77879,
+    "codObjeto": "6494",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PRESIDENTE CASTELO BRANCO"
+  },
+  {
+    "codLocalidadeTse": 77895,
+    "codObjeto": "6496",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PRIMEIRO DE MAIO"
+  },
+  {
+    "codLocalidadeTse": 77917,
+    "codObjeto": "6498",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PRUDENTÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 79693,
+    "codObjeto": "6438",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PÉROLA"
+  },
+  {
+    "codLocalidadeTse": 77593,
+    "codObjeto": "6439",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "PÉROLA D'OESTE"
+  },
+  {
+    "codLocalidadeTse": 75582,
+    "codObjeto": "6838",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "QUARTO CENTENÁRIO"
+  },
+  {
+    "codLocalidadeTse": 77933,
+    "codObjeto": "6500",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "QUATIGUÁ"
+  },
+  {
+    "codLocalidadeTse": 77950,
+    "codObjeto": "6501",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "QUATRO BARRAS"
+  },
+  {
+    "codLocalidadeTse": 74683,
+    "codObjeto": "6502",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "QUATRO PONTES"
+  },
+  {
+    "codLocalidadeTse": 79553,
+    "codObjeto": "6504",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "QUEDAS DO IGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 77976,
+    "codObjeto": "6506",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "QUERÊNCIA DO NORTE"
+  },
+  {
+    "codLocalidadeTse": 77992,
+    "codObjeto": "6507",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "QUINTA DO SOL"
+  },
+  {
+    "codLocalidadeTse": 78018,
+    "codObjeto": "6509",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "QUITANDINHA"
+  },
+  {
+    "codLocalidadeTse": 74705,
+    "codObjeto": "6510",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RAMILÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 78034,
+    "codObjeto": "6511",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RANCHO ALEGRE"
+  },
+  {
+    "codLocalidadeTse": 74721,
+    "codObjeto": "6512",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RANCHO ALEGRE D'OESTE"
+  },
+  {
+    "codLocalidadeTse": 78050,
+    "codObjeto": "6513",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "REALEZA"
+  },
+  {
+    "codLocalidadeTse": 78077,
+    "codObjeto": "6514",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "REBOUÇAS"
+  },
+  {
+    "codLocalidadeTse": 78093,
+    "codObjeto": "6517",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RENASCENÇA"
+  },
+  {
+    "codLocalidadeTse": 78115,
+    "codObjeto": "6518",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RESERVA"
+  },
+  {
+    "codLocalidadeTse": 75604,
+    "codObjeto": "6519",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RESERVA DO IGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 78131,
+    "codObjeto": "6523",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RIBEIRÃO CLARO"
+  },
+  {
+    "codLocalidadeTse": 78158,
+    "codObjeto": "6524",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RIBEIRÃO DO PINHAL"
+  },
+  {
+    "codLocalidadeTse": 78174,
+    "codObjeto": "6527",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RIO AZUL"
+  },
+  {
+    "codLocalidadeTse": 78190,
+    "codObjeto": "6528",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RIO BOM"
+  },
+  {
+    "codLocalidadeTse": 74748,
+    "codObjeto": "6530",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RIO BONITO DO IGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 75620,
+    "codObjeto": "6531",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RIO BRANCO DO IVAÍ"
+  },
+  {
+    "codLocalidadeTse": 78212,
+    "codObjeto": "6532",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RIO BRANCO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 78239,
+    "codObjeto": "6543",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RIO NEGRO"
+  },
+  {
+    "codLocalidadeTse": 78255,
+    "codObjeto": "6554",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ROLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 78271,
+    "codObjeto": "6556",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RONCADOR"
+  },
+  {
+    "codLocalidadeTse": 78298,
+    "codObjeto": "6558",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "RONDON"
+  },
+  {
+    "codLocalidadeTse": 75744,
+    "codObjeto": "6559",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ROSÁRIO DO IVAÍ"
+  },
+  {
+    "codLocalidadeTse": 78310,
+    "codObjeto": "6560",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SABÁUDIA"
+  },
+  {
+    "codLocalidadeTse": 78336,
+    "codObjeto": "6562",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SALGADO FILHO"
+  },
+  {
+    "codLocalidadeTse": 78352,
+    "codObjeto": "6565",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SALTO DO ITARARÉ"
+  },
+  {
+    "codLocalidadeTse": 78379,
+    "codObjeto": "6566",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SALTO DO LONTRA"
+  },
+  {
+    "codLocalidadeTse": 78395,
+    "codObjeto": "6569",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA AMÉLIA"
+  },
+  {
+    "codLocalidadeTse": 78417,
+    "codObjeto": "6570",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA CECÍLIA DO PAVÃO"
+  },
+  {
+    "codLocalidadeTse": 78433,
+    "codObjeto": "6572",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA CRUZ DE MONTE CASTELO"
+  },
+  {
+    "codLocalidadeTse": 78450,
+    "codObjeto": "6575",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA FÉ"
+  },
+  {
+    "codLocalidadeTse": 79715,
+    "codObjeto": "6577",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA HELENA"
+  },
+  {
+    "codLocalidadeTse": 78476,
+    "codObjeto": "6578",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA INÊS"
+  },
+  {
+    "codLocalidadeTse": 78492,
+    "codObjeto": "6579",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA ISABEL DO IVAÍ"
+  },
+  {
+    "codLocalidadeTse": 78514,
+    "codObjeto": "6580",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA IZABEL DO OESTE"
+  },
+  {
+    "codLocalidadeTse": 74764,
+    "codObjeto": "6581",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA LÚCIA"
+  },
+  {
+    "codLocalidadeTse": 74802,
+    "codObjeto": "6587",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA MARIA DO OESTE"
+  },
+  {
+    "codLocalidadeTse": 78530,
+    "codObjeto": "6589",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA MARIANA"
+  },
+  {
+    "codLocalidadeTse": 74829,
+    "codObjeto": "6590",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA MÔNICA"
+  },
+  {
+    "codLocalidadeTse": 74080,
+    "codObjeto": "6597",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA TEREZA DO OESTE"
+  },
+  {
+    "codLocalidadeTse": 84670,
+    "codObjeto": "6598",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTA TEREZINHA DE ITAIPU"
+  },
+  {
+    "codLocalidadeTse": 78557,
+    "codObjeto": "6601",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTANA DO ITARARÉ"
+  },
+  {
+    "codLocalidadeTse": 78590,
+    "codObjeto": "6604",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DA PLATINA"
+  },
+  {
+    "codLocalidadeTse": 78611,
+    "codObjeto": "6605",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DO CAIUÁ"
+  },
+  {
+    "codLocalidadeTse": 78638,
+    "codObjeto": "6608",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DO PARAÍSO"
+  },
+  {
+    "codLocalidadeTse": 78573,
+    "codObjeto": "6609",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DO SUDOESTE"
+  },
+  {
+    "codLocalidadeTse": 78654,
+    "codObjeto": "6610",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SANTO INÁCIO"
+  },
+  {
+    "codLocalidadeTse": 78999,
+    "codObjeto": "6708",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SAPOPEMA"
+  },
+  {
+    "codLocalidadeTse": 84611,
+    "codObjeto": "6709",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SARANDI"
+  },
+  {
+    "codLocalidadeTse": 75060,
+    "codObjeto": "6711",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SAUDADE DO IGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 79014,
+    "codObjeto": "6718",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SENGÉS"
+  },
+  {
+    "codLocalidadeTse": 75647,
+    "codObjeto": "6722",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SERRANÓPOLIS DO IGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 79030,
+    "codObjeto": "6727",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SERTANEJA"
+  },
+  {
+    "codLocalidadeTse": 79057,
+    "codObjeto": "6728",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SERTANÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 79073,
+    "codObjeto": "6734",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SIQUEIRA CAMPOS"
+  },
+  {
+    "codLocalidadeTse": 75787,
+    "codObjeto": "6737",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SULINA"
+  },
+  {
+    "codLocalidadeTse": 78670,
+    "codObjeto": "6616",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO CARLOS DO IVAÍ"
+  },
+  {
+    "codLocalidadeTse": 78697,
+    "codObjeto": "6632",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO JERÔNIMO DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 78816,
+    "codObjeto": "6646",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO JORGE D'OESTE"
+  },
+  {
+    "codLocalidadeTse": 78794,
+    "codObjeto": "6647",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO JORGE DO IVAÍ"
+  },
+  {
+    "codLocalidadeTse": 79995,
+    "codObjeto": "6648",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO JORGE DO PATROCÍNIO"
+  },
+  {
+    "codLocalidadeTse": 78832,
+    "codObjeto": "6651",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO JOSÉ DA BOA VISTA"
+  },
+  {
+    "codLocalidadeTse": 84719,
+    "codObjeto": "6652",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO JOSÉ DAS PALMEIRAS"
+  },
+  {
+    "codLocalidadeTse": 78859,
+    "codObjeto": "6656",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO JOSÉ DOS PINHAIS"
+  },
+  {
+    "codLocalidadeTse": 78719,
+    "codObjeto": "6633",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO JOÃO"
+  },
+  {
+    "codLocalidadeTse": 78735,
+    "codObjeto": "6639",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO JOÃO DO CAIUÁ"
+  },
+  {
+    "codLocalidadeTse": 78751,
+    "codObjeto": "6640",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO JOÃO DO IVAÍ"
+  },
+  {
+    "codLocalidadeTse": 78778,
+    "codObjeto": "6642",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO JOÃO DO TRIUNFO"
+  },
+  {
+    "codLocalidadeTse": 74845,
+    "codObjeto": "6670",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO MANOEL DO PARANÁ"
+  },
+  {
+    "codLocalidadeTse": 78875,
+    "codObjeto": "6674",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO MATEUS DO SUL"
+  },
+  {
+    "codLocalidadeTse": 78891,
+    "codObjeto": "6679",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO MIGUEL DO IGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 74861,
+    "codObjeto": "6687",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO PEDRO DO IGUAÇU"
+  },
+  {
+    "codLocalidadeTse": 78913,
+    "codObjeto": "6688",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO PEDRO DO IVAÍ"
+  },
+  {
+    "codLocalidadeTse": 78930,
+    "codObjeto": "6689",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO PEDRO DO PARANÁ"
+  },
+  {
+    "codLocalidadeTse": 78956,
+    "codObjeto": "6702",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO SEBASTIÃO DA AMOREIRA"
+  },
+  {
+    "codLocalidadeTse": 78972,
+    "codObjeto": "6704",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "SÃO TOMÉ"
+  },
+  {
+    "codLocalidadeTse": 75663,
+    "codObjeto": "6742",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TAMARANA"
+  },
+  {
+    "codLocalidadeTse": 79090,
+    "codObjeto": "6744",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TAMBOARA"
+  },
+  {
+    "codLocalidadeTse": 79111,
+    "codObjeto": "6746",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TAPEJARA"
+  },
+  {
+    "codLocalidadeTse": 79731,
+    "codObjeto": "6747",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TAPIRA"
+  },
+  {
+    "codLocalidadeTse": 79138,
+    "codObjeto": "6753",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TEIXEIRA SOARES"
+  },
+  {
+    "codLocalidadeTse": 79154,
+    "codObjeto": "6754",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TELÊMACO BORBA"
+  },
+  {
+    "codLocalidadeTse": 79170,
+    "codObjeto": "6758",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TERRA BOA"
+  },
+  {
+    "codLocalidadeTse": 79197,
+    "codObjeto": "6760",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TERRA RICA"
+  },
+  {
+    "codLocalidadeTse": 79219,
+    "codObjeto": "6761",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TERRA ROXA"
+  },
+  {
+    "codLocalidadeTse": 79235,
+    "codObjeto": "6762",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TIBAGI"
+  },
+  {
+    "codLocalidadeTse": 79251,
+    "codObjeto": "6763",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TIJUCAS DO SUL"
+  },
+  {
+    "codLocalidadeTse": 79278,
+    "codObjeto": "6770",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TOLEDO"
+  },
+  {
+    "codLocalidadeTse": 79294,
+    "codObjeto": "6772",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TOMAZINA"
+  },
+  {
+    "codLocalidadeTse": 79871,
+    "codObjeto": "6774",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TRÊS BARRAS DO PARANÁ"
+  },
+  {
+    "codLocalidadeTse": 74888,
+    "codObjeto": "6786",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TUNAS DO PARANÁ"
+  },
+  {
+    "codLocalidadeTse": 79316,
+    "codObjeto": "6787",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TUNEIRAS DO OESTE"
+  },
+  {
+    "codLocalidadeTse": 79936,
+    "codObjeto": "6788",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TUPÃSSI"
+  },
+  {
+    "codLocalidadeTse": 84530,
+    "codObjeto": "6790",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "TURVO"
+  },
+  {
+    "codLocalidadeTse": 79332,
+    "codObjeto": "6793",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "UBIRATÃ"
+  },
+  {
+    "codLocalidadeTse": 79359,
+    "codObjeto": "6794",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "UMUARAMA"
+  },
+  {
+    "codLocalidadeTse": 79391,
+    "codObjeto": "6798",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "UNIFLOR"
+  },
+  {
+    "codLocalidadeTse": 79375,
+    "codObjeto": "6796",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "UNIÃO DA VITÓRIA"
+  },
+  {
+    "codLocalidadeTse": 79413,
+    "codObjeto": "6799",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "URAÍ"
+  },
+  {
+    "codLocalidadeTse": 74900,
+    "codObjeto": "6806",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "VENTANIA"
+  },
+  {
+    "codLocalidadeTse": 79898,
+    "codObjeto": "6807",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "VERA CRUZ DO OESTE"
+  },
+  {
+    "codLocalidadeTse": 79456,
+    "codObjeto": "6809",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "VERÊ"
+  },
+  {
+    "codLocalidadeTse": 74969,
+    "codObjeto": "6827",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "VIRMOND"
+  },
+  {
+    "codLocalidadeTse": 79472,
+    "codObjeto": "6832",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "VITORINO"
+  },
+  {
+    "codLocalidadeTse": 79430,
+    "codObjeto": "6834",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "WENCESLAU BRAZ"
+  },
+  {
+    "codLocalidadeTse": 79499,
+    "codObjeto": "6835",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "XAMBRÊ"
+  },
+  {
+    "codLocalidadeTse": 74128,
+    "codObjeto": "5769",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "6",
+      "codObjetoMunicCapital": "6014",
+      "codUf": 6,
+      "nomUf": "PARANÁ",
+      "sglUf": "PR"
+    },
+    "nomLocalidade": "ÂNGULO"
+  }
+]

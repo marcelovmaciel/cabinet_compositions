@@ -1,0 +1,220 @@
+[
+  {
+    "prefix": "tse_df_",
+    "completed_party_queries": 39,
+    "records_inspected": 231889,
+    "errors": [],
+    "matches": [
+      {
+        "sqRegistroFiliacao": 6778114,
+        "cdMotivoCancelamento": null,
+        "cdMotivoDesfiliacao": 2,
+        "desSituacaoEleitor": "REGULAR",
+        "dtCancelamento": null,
+        "dtDesfiliacao": [
+          2021,
+          2,
+          3
+        ],
+        "dtExclusao": null,
+        "dtFiliacao": [
+          2017,
+          10,
+          28
+        ],
+        "tsCadastroDesfiliacao": null,
+        "nmEleitor": "HELDER MELILLO LOPES CUNHA SILVA",
+        "nomLocalidade": "BRASÍLIA",
+        "sgPartido": "NOVO",
+        "sgUe": "DF",
+        "stRegistroFiliacao": 1,
+        "tpSexo": 2,
+        "indPendencia": 1,
+        "indOrigem": 0,
+        "public_registry_identity_sha256": "62357a61157ca222d3a5676270198bda24b80b7987ce51ad0cd41531aefba87b"
+      }
+    ],
+    "interpretation": "No-match is not evidence of non-affiliation. Only identity-confirmed positive scoped results can support reconstruction."
+  },
+  {
+    "prefix": "tse_natal_",
+    "completed_party_queries": 39,
+    "records_inspected": 36758,
+    "errors": [],
+    "matches": [],
+    "interpretation": "No-match is not evidence of non-affiliation. Only identity-confirmed positive scoped results can support reconstruction."
+  },
+  {
+    "prefix": "tse_sao_paulo_",
+    "completed_party_queries": 39,
+    "records_inspected": 542016,
+    "errors": [],
+    "matches": [
+      {
+        "sqRegistroFiliacao": 56340825,
+        "cdMotivoCancelamento": null,
+        "cdMotivoDesfiliacao": 6,
+        "desSituacaoEleitor": "REGULAR",
+        "dtCancelamento": null,
+        "dtDesfiliacao": [
+          2021,
+          4,
+          9
+        ],
+        "dtExclusao": null,
+        "dtFiliacao": [
+          2018,
+          10,
+          14
+        ],
+        "tsCadastroDesfiliacao": null,
+        "nmEleitor": "IVANI DOS SANTOS",
+        "nomLocalidade": "SÃO PAULO",
+        "sgPartido": "UNIÃO",
+        "sgUe": "SP",
+        "stRegistroFiliacao": 1,
+        "tpSexo": 2,
+        "indPendencia": 1,
+        "indOrigem": 0,
+        "public_registry_identity_sha256": "19a891f4228de48bbcd2bc263ec46338e5b232b2ef8611f5253903d8def2729e"
+      },
+      {
+        "sqRegistroFiliacao": 14505970,
+        "cdMotivoCancelamento": null,
+        "cdMotivoDesfiliacao": null,
+        "desSituacaoEleitor": "REGULAR",
+        "dtCancelamento": null,
+        "dtDesfiliacao": null,
+        "dtExclusao": null,
+        "dtFiliacao": [
+          1997,
+          10,
+          3
+        ],
+        "tsCadastroDesfiliacao": null,
+        "nmEleitor": "IVANI DOS SANTOS",
+        "nomLocalidade": "SÃO PAULO",
+        "sgPartido": "PT",
+        "sgUe": "SP",
+        "stRegistroFiliacao": 1,
+        "tpSexo": 4,
+        "indPendencia": 0,
+        "indOrigem": 0,
+        "public_registry_identity_sha256": "8c5d92410f7eb8375f6477869e75f1982b61178c4aec8386f8176f96f8292383"
+      },
+      {
+        "sqRegistroFiliacao": 60042738,
+        "cdMotivoCancelamento": null,
+        "cdMotivoDesfiliacao": null,
+        "desSituacaoEleitor": "REGULAR",
+        "dtCancelamento": null,
+        "dtDesfiliacao": null,
+        "dtExclusao": null,
+        "dtFiliacao": [
+          2025,
+          11,
+          28
+        ],
+        "tsCadastroDesfiliacao": null,
+        "nmEleitor": "IVANI DOS SANTOS",
+        "nomLocalidade": "SÃO PAULO",
+        "sgPartido": "PT",
+        "sgUe": "SP",
+        "stRegistroFiliacao": 1,
+        "tpSexo": 4,
+        "indPendencia": 0,
+        "indOrigem": 1,
+        "public_registry_identity_sha256": "249c2eff4ac87c8e0d3ff8c27611fa2a6fcf34a5f4c4e469402c4764d5f56a02"
+      },
+      {
+        "sqRegistroFiliacao": 58202871,
+        "cdMotivoCancelamento": null,
+        "cdMotivoDesfiliacao": null,
+        "desSituacaoEleitor": "REGULAR",
+        "dtCancelamento": null,
+        "dtDesfiliacao": null,
+        "dtExclusao": null,
+        "dtFiliacao": [
+          2023,
+          8,
+          30
+        ],
+        "tsCadastroDesfiliacao": null,
+        "nmEleitor": "IVANI DOS SANTOS",
+        "nomLocalidade": "SÃO PAULO",
+        "sgPartido": "PT",
+        "sgUe": "SP",
+        "stRegistroFiliacao": 1,
+        "tpSexo": 4,
+        "indPendencia": 0,
+        "indOrigem": 0,
+        "public_registry_identity_sha256": "d87ca9520b8b6ad9ee2a5b8886052b01bd292255037d07fbc61e4d8504665b04"
+      },
+      {
+        "sqRegistroFiliacao": 16164335,
+        "cdMotivoCancelamento": null,
+        "cdMotivoDesfiliacao": null,
+        "desSituacaoEleitor": "REGULAR",
+        "dtCancelamento": null,
+        "dtDesfiliacao": null,
+        "dtExclusao": null,
+        "dtFiliacao": [
+          1988,
+          3,
+          7
+        ],
+        "tsCadastroDesfiliacao": null,
+        "nmEleitor": "IVANI DOS SANTOS",
+        "nomLocalidade": "SÃO PAULO",
+        "sgPartido": "MDB",
+        "sgUe": "SP",
+        "stRegistroFiliacao": 1,
+        "tpSexo": 4,
+        "indPendencia": 0,
+        "indOrigem": 0,
+        "public_registry_identity_sha256": "747c3ebcbe6c78ad6f3ebd0e142928332a18b4f3b7e4b0c92cb43e2ccf391156"
+      },
+      {
+        "sqRegistroFiliacao": 57797409,
+        "cdMotivoCancelamento": null,
+        "cdMotivoDesfiliacao": null,
+        "desSituacaoEleitor": "REGULAR",
+        "dtCancelamento": null,
+        "dtDesfiliacao": null,
+        "dtExclusao": null,
+        "dtFiliacao": [
+          2023,
+          3,
+          17
+        ],
+        "tsCadastroDesfiliacao": null,
+        "nmEleitor": "IVANI DOS SANTOS",
+        "nomLocalidade": "SÃO PAULO",
+        "sgPartido": "PSOL",
+        "sgUe": "SP",
+        "stRegistroFiliacao": 1,
+        "tpSexo": 4,
+        "indPendencia": 0,
+        "indOrigem": 0,
+        "public_registry_identity_sha256": "d150a494db1f7516a81a3d07de101d2ee19df79e4a11f7b47561912f403f1f82"
+      }
+    ],
+    "interpretation": "No-match is not evidence of non-affiliation. Only identity-confirmed positive scoped results can support reconstruction."
+  },
+  {
+    "prefix": "tse_ana_df_",
+    "completed_party_queries": 39,
+    "records_inspected": 231889,
+    "errors": [],
+    "matches": [],
+    "interpretation": "No-match is not evidence of non-affiliation. Only identity-confirmed positive scoped results can support reconstruction."
+  },
+  {
+    "prefix": "tse_ana_belem_",
+    "completed_party_queries": 39,
+    "records_inspected": 98727,
+    "errors": [],
+    "matches": [],
+    "interpretation": "No-match is not evidence of non-affiliation. Only identity-confirmed positive scoped results can support reconstruction."
+  }
+]

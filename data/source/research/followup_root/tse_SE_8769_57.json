@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "AGIR",
+  "id": 57,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 538,
+      "totalElements": 538,
+      "response_sha256": "aaf3beb325de88d626557da0442f37b64b7c1130629b8f7f7ce723919c57d371",
+      "retrieved_utc": "2026-09-10T23:44:22Z"
+    }
+  ],
+  "matches": []
+}

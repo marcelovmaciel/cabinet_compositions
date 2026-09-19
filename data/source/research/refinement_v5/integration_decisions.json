@@ -1,0 +1,47 @@
+[
+  {
+    "worker": "worker_1_ivani",
+    "status": "accepted",
+    "reason": "New non-exhaustive primary checks improve provenance only; all three UNKNOWN spells and 77 days retained; no party or service change."
+  },
+  {
+    "worker": "worker_5_bolsonaro_2022",
+    "status": "accepted",
+    "reason": "Official roll and substitute acts correct Maria capacity without changing dates; TSE client decodes Helder request but not completed historical exit; both late blockers remain UNKNOWN."
+  },
+  {
+    "worker": "worker_6_bolsonaro_affiliations",
+    "status": "accepted",
+    "reason": "Exact TCU/TSE identifier and MME minister roll establish Sachsida match; historical 2013 entry/regular/no departure supports formal successor continuity over weaker no-party labels. Contemporary explicit June15 Marinho and September3 Damares observations tighten bounds under unchanged convention. Primary dates and sets unchanged. Root independently checked decisive snapshots."
+  },
+  {
+    "worker": "worker_3_bolsonaro_2020",
+    "status": "accepted",
+    "reason": "Original personnel/association sources and scoped registry queries add no temporally valid personal affiliation; preserve three UNKNOWN records and all service dates."
+  },
+  {
+    "worker": "worker_2_temer_end",
+    "status": "accepted",
+    "reason": "Original dismissal effectiveJan1 and vacancy statute confirm existing finalTemer service; scoped registry checks do not establish2018 affiliation. Retain historical UNKNOWN."
+  },
+  {
+    "worker": "worker_4_bolsonaro_2021",
+    "status": "accepted",
+    "reason": "Original personnel dossiers and specified access limits do not establish affiliation; retain three UNKNOWNs and existing succession bounds. Shared Jonathas research conflict resolved by preserving both independent append-only source findings, with no substantive disagreement."
+  },
+  {
+    "worker": "worker_7_lula_dates",
+    "status": "accepted",
+    "reason": "New actual ministerial acts and parliamentary notification semantics strengthen source provenance but do not rule out same-day handoffs. Keep December4-6 and November14-17 bounds and all primary endpoints. Governing-body absence does not rebut Ana Carla historical PSDB observation."
+  },
+  {
+    "worker": "parent",
+    "status": "implemented",
+    "reason": "Corrected residual date-alternative scope using existing joint bounds; no primary historical states or officeholding rules changed. Preserved inherited mutable decisions snapshot at an immutable research path."
+  },
+  {
+    "worker": "parent",
+    "status": "implemented_user_authorized_primary_fill",
+    "reason": "Latest user instruction explicitly requires full primary coverage with flags. Added12 separate no-additional-party assumptions for100unique days/9people, leaving historical affiliation UNKNOWN, unrestricted alternatives and historical-complete validator intact. Primary periods coalesce across evidence-status changes and all actual party witnesses remain mandatory."
+  }
+]

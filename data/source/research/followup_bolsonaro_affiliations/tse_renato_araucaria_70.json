@@ -1,0 +1,14 @@
+{
+  "party": "PDT",
+  "id": 70,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 608,
+      "totalElements": 608,
+      "response_sha256": "f72e812c4e29fa52b4708867c1b53285664fede14161f2926a25bf4655e02e1d",
+      "retrieved_utc": "2026-09-11T00:08:27Z"
+    }
+  ],
+  "matches": []
+}

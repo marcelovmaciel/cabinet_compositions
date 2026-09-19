@@ -1,0 +1,33 @@
+{
+  "url": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=543279&isMembrosAtivos=false",
+  "status": 200,
+  "retrieved_utc": "2026-09-11T01:03:35.572247+00:00",
+  "sha256_response": "2bfe4a7e1a1266a84f93fc8bad82bf70f7222ef102e435fd7d1a44f9afa96c84",
+  "governing_body": {
+    "sqOrgaoPartidario": 543279,
+    "numero": 45,
+    "sigla": "PSDB",
+    "nome": "PARTIDO DA SOCIAL DEMOCRACIA BRASILEIRA",
+    "tipoOrgao": "Comissão interventora",
+    "dataInicioVigencia": "29/08/2024",
+    "dataFimVigencia": "30/11/2025",
+    "protocolo": "335824709011",
+    "situacaoiVigencia": "Não Vigente",
+    "abrangencia": "Regional (DF)",
+    "qtdeRegistros": null,
+    "orgaoPartidario": null,
+    "membros": null,
+    "anotacaoOrgaoPartidarioInfo": null,
+    "uf": "DF",
+    "sgUeSede": "DF",
+    "municipio": "",
+    "zona": "",
+    "situacoes": [
+      "Anotado; "
+    ],
+    "emitirComissaoExecutiva": true
+  },
+  "returned_member_count": 7,
+  "scope": "Returned governing-body members, including inactive entries. Not an exhaustive affiliate list.",
+  "target_matches": []
+}

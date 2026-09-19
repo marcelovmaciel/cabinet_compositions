@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/motivo-desfiliacao",
+    "status": 404,
+    "content_type": "application/json",
+    "body_excerpt": "{\"timestamp\":\"2026-09-10T23:49:54.998+00:00\",\"status\":404,\"error\":\"Not Found\",\"path\":\"/filia-consult"
+  },
+  {
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/motivo-desfiliacao/todos",
+    "status": 404,
+    "content_type": "application/json",
+    "body_excerpt": "{\"timestamp\":\"2026-09-10T23:49:54.995+00:00\",\"status\":404,\"error\":\"Not Found\",\"path\":\"/filia-consult"
+  },
+  {
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/motivo-desfiliacao/todas",
+    "status": 404,
+    "content_type": "application/json",
+    "body_excerpt": "{\"timestamp\":\"2026-09-10T23:49:54.991+00:00\",\"status\":404,\"error\":\"Not Found\",\"path\":\"/filia-consult"
+  },
+  {
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/v3/api-docs",
+    "status": 404,
+    "content_type": "text/html;charset=utf-8",
+    "body_excerpt": "<!doctype html><html lang=\"en\"><head><title>HTTP Status 404 – Not Found</title><style type=\"text/css"
+  },
+  {
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/motivoDesfiliacao",
+    "status": 404,
+    "content_type": "application/json",
+    "body_excerpt": "{\"timestamp\":\"2026-09-10T23:49:55.433+00:00\",\"status\":404,\"error\":\"Not Found\",\"path\":\"/filia-consult"
+  },
+  {
+    "url": "https://filia2-consulta.tse.jus.br/filia-consulta/swagger-ui.html",
+    "status": 404,
+    "content_type": "text/html;charset=utf-8",
+    "body_excerpt": "<!doctype html><html lang=\"en\"><head><title>HTTP Status 404 – Not Found</title><style type=\"text/css"
+  }
+]

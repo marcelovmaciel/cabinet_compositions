@@ -1,0 +1,411 @@
+WALLACE NUNES DA SILVA - CNPJ 27753950000143 - Casa dos Dados (https://casadosdados.com.br/solucao/cnpj/wallace-nunes-da-silva-27753950000143)
+citeturn96search0 [wordlim: 200] Published: last month; Crawled: last week; # WALLACE NUNES DA SILVA - 27.753.950/0001-43 ... Nome do sócio - Qualificação - Data de entrada na sociedade
+# WALLACE NUNES DA SILVA - 27.753.950/0001-43
+
+[Input: CNPJ, Razão Social ou Sócio]
+
+[Button: ATIVA]
+
+Ultima Atualização:
+
+Data e hora da última consulta dos dados na Receita Federal
+
+08/08/2026 21:00
+
+CNPJ:
+
+27753950000143
+
+Razão Social:
+
+WALLACE NUNES DA SILVA
+
+Nome Fantasia:
+
+-
+
+Situação Cadastral:
+
+ATIVA
+
+Data da Situação:
+
+20/01/2026
+
+Motivo da Situação:
+
+SEM MOTIVO
+
+Data de Abertura:
+
+17/05/2017
+
+Matriz ou Filial:
+
+MATRIZ
+
+Natureza Jurídica:
+
+2135 - EMPRESÁRIO (INDIVIDUAL)
+
+Empresa MEI:
+
+Sim
+
+Data de Opção pelo MEI:
+
+17/05/2017
+
+Capital Social:
+
+R$ 4,500
+
+Logradouro:
+
+RUA PROFESSORA LEA BALDI
+
+Número:
+
+149
+
+Complemento:
+
+FUNDOS
+
+Bairro:
+
+MARIA ORTIZ
+
+CEP:
+
+29070-480
+
+Municipio:
+
+VITORIA
+
+Estado:
+
+ES
+
+Email:
+
+wallace.nunes.silva@gmail.com
+
+Telefone:
+
+27 998000878   Whatsapp
+
+CNAE Principal:
+
+3329501 - Serviços de montagem de móveis de qualquer material
+
+CNAEs Secundários:
+
+-
+
+Simples:
+
+Sim
+
+Data de Opção pelo Simples:
+
+17/05/2017
+
+Sócios:  
+
+Nome do sócio - Qualificação - Data de entrada na sociedade
+
+-
+
+Filiais  
+
+Atualizar Dados
+
+Ver endereço no mapa
+
+Deseja remover os dados da sua empresa? Preencha o formulário para a remoção--------------------------------------------------------------------------------
+Pessoal de gabinete do Deputado(a) Federal Daniela do Waguinho - Portal da Câmara dos Deputados (https://www.camara.leg.br/deputados/204459/pessoal-gabinete?ano=2024)
+citeturn96search1 [wordlim: 200] Crawled: 2 months ago; ELILDO NUNES DA COSTA  | SECRETÁRIO PARLAMENTAR  | SP25  | De 09/08/2023 a 31/03/2025  | Consultar ... WALLACE NUNES DA SILVA  | SECRETÁRIO PARLAMENTAR  | SP25  | De 03/09/2024 a 17/02/2026  | Consultar
+MARIA AUXILIADORA SILVA DA COSTA  | SECRETÁRIO PARLAMENTAR  | SP06  | De 17/07/2023 a 12/03/2024  | Consultar
+MISAIAS DA SILVA MACHADO  | SECRETÁRIO PARLAMENTAR  | SP14  | De 02/08/2023 a 13/05/2024  | Consultar
+PEDRO HENRIQUE DE ARANTES RODRIGUES  | SECRETÁRIO PARLAMENTAR  | SP08  | De 10/12/2024 a 17/02/2026  | Consultar
+RICARDO DE PONTES  | SECRETÁRIO PARLAMENTAR  | SP14  | De 03/09/2024 a 01/10/2025  | Consultar
+RICARDO DE PONTES  | SECRETÁRIO PARLAMENTAR  | SP25  | De 25/04/2024 a 02/09/2024  | Consultar
+TASSIA DOS SANTOS LEMES  | SECRETÁRIO PARLAMENTAR  | SP14  | De 13/03/2024 a 17/02/2026  | Consultar
+TASSIA DOS SANTOS LEMES  | SECRETÁRIO PARLAMENTAR  | SP13  | De 20/09/2023 a 12/03/2024  | Consultar
+WALLACE NUNES DA SILVA  | SECRETÁRIO PARLAMENTAR  | SP25  | De 03/09/2024 a 17/02/2026  | Consultar
+WALLACE NUNES DA SILVA  | SECRETÁRIO PARLAMENTAR  | SP25  | De 04/09/2023 a 01/04/2024  | Consultar
+WALLACE NUNES DA SILVA  | SECRETÁRIO PARLAMENTAR  | SP14  | De 13/08/2024 a 02/09/2024  | Consultar
+--------------------------------------------------------------------------------
+Tribunal Superior Eleitoral (https://www.tse.jus.br/internet/prestacao_contas/partidos/2011/pps/PC-269-16/anexo-4.pdf)
+citeturn96search12 [wordlim: 200] Published: 1.7 years ago; Ficha de Filiação ... Ivani dos Santos ... Ivanildo Alves da Silva
+Nome
+UF
+CPF
+Data de Pagamento
+Tipo de Boleto
+Valor 
+Ivani Maria de Assis 
+Lista de 1 aghie
+pelos FtIo P1
+icflição
+R$ 
+12,00 
+Ivani Monteiro
+ES
+02468861701
+0610612011
+Ficha de Filiação
+R$ 
+12,00 
+Ivani dos Santos
+PA
+69676437204
+0311012011
+Ficha de Filiação
+R$ 
+12,00 
+lvania Ferreira Porto
+AM
+66002044272
+1710812011
+Ficha de Filiação
+R$ 
+12,00 
+Ivania Meyre Marques Gil de Souza
+BA
+31114202487
+3010812011
+Ficha de Filiação
+R$ 
+12,00 
+Ivanias Gomes de Sousa
+TO
+28253280149
+03/11/2011
+Anuidade 2010
+R$ 
+12,00 
+Ivanias Gomes de Sousa
+TO
+28253280149
+03/11/2011
+Anuidade 2011
+R$ 
+12,00 
+Ivanice Rodrigues Mendes
+Al-
+32130333400
+0511012011
+Ficha de Filiação
+R$ 
+12,00 
+Ivanici Gomes Andrade
+MA
+02247809308
+0711012011
+Ficha de Filiação
+R$ 
+12,00 
+Ivanil José Nogueira
+RJ
+21284369668
+2011012011
+Ficha de Filiação
+R$ 
+12,00 
+Ivanilce Nina Nunes
+RR
+65308620210
+2710912011
+Ficha de Filiação
+ 
+Ivanilda Dutra Borges
+GO
+96504277168
+0611012011
+Ficha de Filiação
+R$ 
+12101 
+Ivanilda Felix de Lima
+PB
+93076983415
+0511012011
+--------------------------------------------------------------------------------
+Busca de Funcionários na Câmara dos Deputados - Portal da Câmara dos Deputados (https://www.camara.leg.br/transparencia/recursos-humanos//funcionarios?areaDeAtuacao=&categoriaFuncional=&emAtividade=true&lotacao=Gabinete+Daniela+do+Waguinho&search=)
+citeturn96search2 [wordlim: 200] Crawled: 4 months ago; Exibindo resultados de 1 a 20 de 20 encontrados Sobre Infraestrutura e patrimônio? ... ### WALLACE NUNES DA SILVA ... WALLACE NUNES DA SILVA  | Secretário Parlamentar  | Gabinetes dos Deputados  | Consulta
+  * Nível: SP12
+
+### WALLACE NUNES DA SILVA
+
+  * Categoria funcional: Secretário Parlamentar
+  * Unidade: Gabinete Daniela do Waguinho
+  * Situação: Em exercício
+  * Cargo: SECRETÁRIO PARLAMENTAR
+  * Nível: SP25
+
+Nome  | Categoria funcional  | Área de atuação  | Remuneração
+--- | --- | --- | ---
+ANA CRISTINA DA CUNHA SILVA  | Secretário Parlamentar  | Gabinetes dos Deputados  | Consulta
+BRUNO FERREIRA DE PAULA  | Secretário Parlamentar  | Gabinetes dos Deputados  | Consulta
+CARLOS WANDERSON SOUZA DA SILVA LOUREIRO  | Secretário Parlamentar  | Gabinetes dos Deputados  | Consulta
+DANIELA MOTE DE SOUZA CARNEIRO  | Deputado  | Gabinetes dos Deputados  | Consulta
+EDUARDO CUNHA COSTA  | Secretário Parlamentar  | Gabinetes dos Deputados  | Consulta
+ELILDO NUNES DA COSTA  | Secretário Parlamentar  | Gabinetes dos Deputados  | Consulta
+FERNANDO LÚCIO ESTEVES DE MAGALHÃES  | Secretário Parlamentar  | Gabinetes dos Deputados  | Consulta
+--------------------------------------------------------------------------------
+IVANI DOS SANTOS - CNPJ 44441296000151 | Fabricação de outros produtos têxteis não especificados anteriormente em Sao Paulo - (https://www.wcsasistemas.cyou/cnpj/44441296000151-ivani-dos-santos-22448906866)
+citeturn96search3 [wordlim: 200] Published: 5 months ago; Crawled: 5 months ago;     * Lista de Estabelecimentos e Filiais Registrados ... #### IVANI DOS SANTOS *********** ... IVANI DOS SANTOS *********** Porte da Empresa:
+
+Image: WCSA Sistemas e Soluções Tecnológicas WCSA Sistemas e Soluções Tecnológicas
+
+  * Painel
+  * Outros Serviços
+  * Menu
+    * Painel de Atividades Empresariais
+    * Busca por CNPJ e Empresas no Brasil
+    * Tabela de Códigos CNAE – Classificação de Atividades Econômicas
+    * Lista de Estabelecimentos e Filiais Registrados
+    * Empresas Atualizadas Recentemente no Cadastro
+
+#### IVANI DOS SANTOS ***********
+
+que tinha como atividade principal Fabricação de outros produtos têxteis não especificados anteriormente, estabelecida no município de Sao Paulo - SP , com o número 44441296 (base do seu CNPJ), teve sua abertura em 01/12/2021 (há 4 anos).
+
+De acordo com os dados públicos da RFB Base 16/03/2026, a empresa encontrava-se em situação cadastral ❌Baixada.
+
+## Outros Estabelecimentos
+
+CERTEC00.150.954/0001-80
+
+# IVANI DOS SANTOS ***********
+
+##   CNPJ - Número de Inscrição
+
+### 44.441.296/0001-51 – MATRIZ
+
+Data de Abertura:
+  01/12/2021 Nome Empresarial:
+IVANI DOS SANTOS *********** Porte da Empresa:
+01 – NÃO INFORMADO
+Situação Cadastral:
+08 - BAIXADA
+
+  CNAE Fiscal Principal
+1359-6/00 - Fabricação de outros produtos têxteis não especificados anteriormente
+
+  CNAE Fiscal Secundária
+
+Narureza Juridica
+213-5 - Empresário (Individual)
+
+Logradouro
+Rua Matimperere 590
+
+Bairro
+Jardim Vista Alegre
+
+CEP
+02.878-030
+
+Cidade
+Sao Paulo    UF: Image: SP SP
+
+Código País
+- BRASIL
+
+  Telefone
+(11)89709980
+
+ Correio Eletrônico
+iv*****@gmail.com - Site oficial de gmail.com
+
+imples acional
+Optante Pelo Simples
+  NÃO Data da Opção Pelo Simples
+  01/12/2021 Data da Exclusão do Simples
+  06/02/2026 Optante Pelo MEI
+  NÃO Data da Opção MEI
+01/12/2021 Data da Exclusão do MEI
+  06/02/2026
+
+1.0.27 - Base 16/03/2026
+--------------------------------------------------------------------------------
+DIÁRIO ELETRÔNICO DA JUSTIÇA FEDERAL DA 3ª REGIÃO (https://web.trf3.jus.br/diario/Consulta/BaixarPdf/27273)
+citeturn96search13 [wordlim: 200] Published: 4.8 years ago; AUTOR: GUSTAVO ALVES FONTES (SP375858 - WALLACE NUNES DA SILVA , SP379303 - VIVIANE LIMA ALMEIDA) ... benefício de auxílio-doença: I-) a qualidade de segurado; II-) o cumprimento do período de carência, quando for o caso; III-) ... cidadão estar filiado ao Regime Geral da Previdência Social e ter cumprido o período de carência, isto é, possuir o número mínimo
+Diante do exposto, JULGO IMPROCEDENTE O PEDIDO. 
+     Sem condenação em custas e honorários. Defiro os benefícios da assistência judiciária gratuita. 
+                        Publique-se. Registre-se. Intimem-se.
+0066498-36.2021.4.03.6301 - 13ª VARA GABINETE - SENTENÇA COM RESOLUÇÃO DE MÉRITO Nr. 2021/6301276826
+AUTOR: TIAGO DE LIMA LOPES (SP340293 - PAULA ROBERTA DIAS DE SOUZA ANDRADE) 
+RÉU: INSTITUTO NACIONAL DO SEGURO SOCIAL - I.N.S.S. (PREVID) (SP172114 - HERMES ARRAIS ALENCAR)
+Diante do exposto, com fundamento no artigo 487, inciso I, do Código de Processo Civil, resolvo o mérito e JULGO IMPROCEDENTE o 
+pedido.
+Defiro à parte autora os benefícios da gratuidade judicial, conforme artigos 98 e seguintes da lei processual.
+Sem condenação em custas e honorários nesta instância, nos termos do art. 55 da Lei nº 9.099/95.
+Publicada e registrada nesse ato. Intimem-se.
+5017747-51.2021.4.03.6100 - 4ª VARA GABINETE - SENTENÇA COM RESOLUÇÃO DE MÉRITO Nr. 2021/6301274300
+AUTOR: GUSTAVO ALVES FONTES (SP375858 - WALLACE NUNES DA SILVA , SP379303 - VIVIANE LIMA ALMEIDA) 
+--------------------------------------------------------------------------------
+diário oficial Nº 35.966  1 (https://www.ioepa.com.br/arquivos/2024/2024.09.18.DOE.pdf)
+citeturn96search14 [wordlim: 200] Published: 1.2 years ago; Fagner Barbosa Furtado / 10005365, Ana Carla da Silva Neves Neves Silva ... / 10011733, Wallace Lima da Silva / 10011405, Wallace Nunes de Freitas/ 10097800, Wallace Paulo Cardoso Pereira / 10049695, Wallace Vitor Silva ... Oliveira de Souza Rodrigues / 10037280, Welerson dos Santos Heverton / ... Silva / 10002356, Werik Sousa do Carmo / 10078509, Werleson da Silva
+Wagner Muniz da Cruz / 10008178, Wagner Viana Nunes / 10009839, Wa-
+laf Nunes da Costa / 10025464, Walason Magalhaes Conceicao / 10051580, 
+Walberth Nicacio dos Santos / 10046588, Walder Monteiro da Rocha / 
+10074342, Waldomiro Abreu da Fonseca Neto / 10011636, Waldomiro 
+Mourao de Oliveira Neto / 10018459, Walisson de Oliveira / 10009854, 
+Walkira Caroline Magalhaes Bentes / 10049514, Wallace Conceicao da Silva 
+/ 10011733, Wallace Lima da Silva / 10011405, Wallace Nunes de Freitas 
+/ 10097800, Wallace Paulo Cardoso Pereira / 10049695, Wallace Vitor Silva 
+da Cruz / 10102014, Wallacy Vinicius Silva Ferreira / 10005332, Wallesson 
+Costa / 10103752, Wallinson Geraldo Silva Araujo / 10075548, Wallison 
+Costa / 10063512, Wallison Gomes Macedo / 10075564, Wallison Henricky 
+Oliveira Caixeta / 10044648, Wallysson Vinicius Soares / 10005775, Walter 
+Silva Guimaraes / 10083638, Walter Vinicius Rodrigues Pinho / 10008410, 
+Walther Henrique Rodrigues Marques / 10014985, Walyf Lopes da Silva / 
+10094945, Wandercley Monteiro Cabral / 10078370, Wanderlan Sousa 
+Nascimento / 10057525, Wanderlei Ferreira Goncalves Junior / 10033715, 
+Wanderley Ferreira da Silva / 10041551, Wanderson Alves Lima / 
+10073815, Wanderson Gomes dos Santos / 10029005, Wanderson Martins 
+Cariri / 10074488, Wanderson Reis Pinheiro / 10015383, Wanessa Costa 
+Gomes / 10010841, Wanessa da Costa Correa / 10002765, Wanessa de 
+Paula Freitas / 10011286, Wanessa Lobato Rodrigues / 10013050, Wanil-
+son David dos Santos Alves / 10089356, Wanrley Araujo de Sousa Sampaio 
+/ 10084058, Warley Luiz Cruz de Souza / 10019463, Warner York Nasci-
+--------------------------------------------------------------------------------
+Wallace Nunes da Silva - Processos | Adv Dinâmico (https://advdinamico.com.br/nomes/wallace-nunes-da-silva)
+citeturn96search4 [wordlim: 200] Crawled: last week; Partes: CONCEIÇÃO MOTA XAVIER MARTINS Autor (RJ143859) ANA CAROLINA DE OLIVEIRA MENECHINI Advogado (RJ139227) WALLACE NUNES DA SILVA Advogado PROGNOSTICO ESCOLA DE ENFERMAGEM Réu +1 ... Partes: WALLACE NUNES DA SILVA Requerente (TJ000002) DEFENSOR PÚBLICO Advogado ESTADO DO RIO DE JANEIRO Requerido (TJ000007) PROCURADOR DO ESTADO Advogado +3 ... O relatório é formatado para impressão profissional, facilitando o compartilhamento físico.
+--------------------------------------------------------------------------------
+ORDEM DOS ADVOGADOS DO BRASIL (https://s.oab.org.br/arquivos/2019/10/ea2b1bcc-74a5-44f3-82bf-091e46f3690d.pdf)
+citeturn96search15 [wordlim: 200] Crawled: 3 months ago; 168077518, Adailton José Barros Dâmaso Tenório / 168059661, Alane De Fatima Maciel Almeida Garcia / 168048612, Alessandra Conceição Cavalcante De Castro / 168103517, Alessandra Feitosa Dos Santos / 168073219, Alessandro Duarte Lins Guerrera / 168032633, Alexandre Marçal De Barros Costa / 168112773, Aline Cristina Lopes Da Silva / 168053716, Aline Monique Balbino Angelo / 168082586, Albert De Omena Albuquerque / 168082359, Amanda Loureiro De Hollanda Ferreira / 168031130, Amanda Silva De Amorim / 168080977, Ana Carolina Correia Gomes Cabral / 168090337, Ana Cristina Brito Dos Santos / 168085843, Ana Fernanda Ferreira Falcao / 168084184, Anderson Luiz Da Silva / 168057594, André D'assumpção Cavalcanti / 168116389, Andréa Cláudia Moraes De Castro Brasil / 168078171, Andreza Alves Fortes Cavalcanti / 168120972, Anne Isadora Cavalcante Porciúncula / 168082379, Antonio Carlos Arruda De Azevedo / 168111827, Aroldo Luiz Andrade Novais / 168059175, Artur Rocha Regueira Costa Filho / 168110039, Bárbara Assis De Melo / 168062856, Bruna Costa De Araújo / 168090738, Bruna Lima Silveira / 168042497, Bruna Pacheco Tenório Soriano / 168022419, Bruno Berger Uchôa / 168054948, Bruno Galvão Moura Falcão / 168028329, Bruno Paiva De Souza Silva / 168120286, Camila Alice De Andrade / 168019854, Cândida Karoline Nascimento Santos / 168046926, Carlos Eduardo Cavalcanti De Araújo / 168119369, Cássia Regina Maciel Silva / 168058453, Catarina Firmino Da Silva / 168105021, Cesar Augusto Costa Dos Santos / 168070504, Cid De Cerqueira Calheiros / 168035213, Clístenes Oliveira De Omena / 168039919, Daniel Cavalcante Fernandes / 168119122, Daphne Consuelo Da Silva Oliveira / 168037033, Darlan Silva Leite / 168049372, Dimitri Constant Pacheco / 168111531, Ednalva Verçosa Da Silva / 168083122, Eduardo César Alves Amorim / 168015203, Egon Jose Figueiredo Da Silva / 168108751, Elen Marques Do Nascimento / 168024541, Elisangela Ferreira Amorim / 168011721, Emanoel Ferdinando Da Rocha Junior / 168075208, Erica Bomfim Aureliano / 168113814, Erika Freire Cardoso De Oliveira / 168056384, Eryka De Farias Porto / 168020395, Fabricio Amaral Ramires / 168089057, Felipe Lopes De Amaral / 168084310, Felipe Ribeiro Brandão Guimarães / 168024847, Fernanda Marinho De Melo Magalhães / 168109090, Flávio Pinto Costa Jucá / 168115960, Francisco De Assis Martins Gomes Rego / 168075405, Gabriel Cavalcanti Castro / 168120860, Gabriela Cabral De Mendonça Gomes / 168020804, Gabrielly Gouveia Costa / 168049373, George Flávio Pereira Chaves / 168085480, Georgina Maria De Omena Bomfim / 168074727, Gledson Souza Santos / 168035572, Glemerson Jatobá De Oliveira / 168045523, Gustavo Henrique Gonçalves Nobre / 168083849, Gustavo Ítalo Lopes Vilar Da Silva / 168034158, Helio Francisco Da Silva Filho / 168021837, Henrique Fernandes Campos / 168064461, Ingrid Maira Silva Machado / 168023983, Isabelle Fernanda Lima Do Nascimento / 168037689, Ítalo Eduardo Bentes Normande / 168077416, Izaura Fabíola Lins De Barros Lobo Cavalcanti / 168035724, Jacqueline Raimundo Machado / 168045610, Jamilson Santos De Farias / 168084051, João Pedro Pinho Rodrigues / 168080541, João Victor Thomaz De Souza Porangaba / 168092421, Jonas Cavalcante Guimarães / 168034432, Jonas Titaro De Melo Neto / 168016205, José Diogo Lima Dantas / 168121001, José Ernesto De Sousa Neto / 168099659, José Gian Vitor Rodrigues Dos Santos / 168033081, José Luciano De Menezes Júnior / 168105295, Jucielle Augusto Alves Da Silva / 168000234, Juliana De Oliveira Falcão / 168092946, Juliete Laura Rocha Maurício / 168024776, Karla Pinto Cavalcanti / 168031266, Karolline Siqueira De Almeida Selerino Nascimento / 168108439, Karolynne Kaya Maria Amorim Moura / 168045009, Kayo Fernandoz Sobrera De Araujo / 168106930, Kelly Ferreira Dos Santos Leite / 168121720, Kenya Farias De Souza / 168105173, Késsia Rayssa Tenório Da Silva / 168064344, Keylla Vivyan Caetano Da Silva / 168116176, Laís Leite De Oliveira / 168024083, Lara Lira De Omena / 168011012, Leandro Laurentino Rocha Da Silva / 168057500, Leila Sofia Da Guia Santos / 168105288, Leonardo Jatobá Reis / 168069317, Lilian Maria Nunes Silva / 168053005, Lívia Maria Gama Aquilino / 168002271, Luan Soares Leite / 168059884, Luanda Rosa Costa Lins / 168101553, Luiz Amancio Santos Da Silva / 168088147, Luiz Antonio Da Silva Júnior / 168064672, Madson Borges Delgado / 168005581, Marcela Moura Eugenio Alves / 168102922, Marcílio Rodrigues De Medeiros Filho / 168079913, Marcos Antônio Torres Uchôa / 168058149, Marcos Lopes Sales Junior / 168074560, Maria De Lourdes Ferreira Neves / 168048988, Maria Fernanda Torres De Andrade / 168081960, Maria Ivanilda Da Silva / 168067572, Mariana Wanderley Teixeira De Albuquerque / 168080637, Marília Soares Ferri / 168065724, Michele Gomes Alves / 168046855, Nathália Christine Costa Paes / 168065438, Nathália De Carvalho Brilhante Da Nóbrega / 168076276, Nathalia Moreira Leahy / 168055458, Nayara Marques De Oliveira / 168046145, Osvan Cleverson Amaral Monteiro / 168110158, Patrícia Albuquerque De Melo / 168101666, Paula Simony Lopes Ferreira / 168094182, Paulo Alexandre Teles De Souza / 168114791, Paulo Henrique Da Silva Júnior / 168105160, Pedro Accioly De Sá Peixoto Neto / 168094475, Pericles Terto Da Silva / 168108854, Phelipe De Ataide Oliveira / 16806923, Rebeca Albuquerque Gomes Da Silva / 168058762, Rita De Cassia Borges Carneiro Da Almeida / 168044367, Ronald De Melo Lima / 168097857, Sandra Lages Sarmento Albuquerque Marques / 168042704, Sarah De Oliveira Kummer / 168121107, Sibelle Maria Cavalcante Bastos / 168075412, Silvio José Figueirêdo Duarte / 168076387, Tasso
+--------------------------------------------------------------------------------
+Nº 57, sexta-feira, 23 de março de 2018 (https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=23%2F03%2F2018&jornal=530&pagina=217)
+citeturn96search16 [wordlim: 200] Published: 8 months ago; SILVA DE BRUM, 5459223659; IVANI DA SILVA OLIVEIRA, ... 1722843010; IVANI DOS SANTOS DONATO, 6065859617; IVANI ... IVANETE ALVES DA SILVA, 1284758980; IVANETE ALVES ... SOUZA FILHO, 5600547613; IVANILDO FRANCISCO SOUSA,
+--------------------------------------------------------------------------------
+Wallace Nunes da Silva - Processos | Escavador (https://www.escavador.com/nomes/wallace-nunes-da-silva-5ee96a12b0)
+citeturn96search5 [wordlim: 200] Crawled: 6 days ago; Ministério Público do Estado de Alagoas x Wallace Nunes da Silva e outros ... Luiz Paulo Oliveira dos Santos, Ministério Público do Estado de Alagoas, Wallace Nunes da Silva .
+--------------------------------------------------------------------------------
+7 "Wallace Nunes Da Silva" profiles | LinkedIn (https://www.linkedin.com/pub/dir/Wallace/Nunes%2BDa%2BSilva)
+citeturn96search6 [wordlim: 200] Crawled: last week;   * Wallace Nunes Da Silva São João de Meriti, RJ
+--------------------------------------------------------------------------------
+SEAPRJ-2024-ResultadoPreliminarProvaObjetiva_2025_03_18_a2kp94m%xcJE2#.pdf (https://portal.coseac.uff.br/wp-content/uploads/2025/03/SEAPRJ-2024-ResultadoPreliminarProvaObjetiva_2025_03_18_a2kp94mxcJE2.pdf)
+citeturn96search17 [wordlim: 200] Published: 1.5 years ago; <tr><td>9991020567</td><td>WALLACE NUNES DA SILVA MARQUES</td><td>10/02/1994</td><td>30,00</td><td>28,75</td><td>20,00</td><td>5,00</td><td>5,00</td><td>6,25</td><td>5,00</td><td>2,50</td><td>3,75</td><td>3,75</td><td>7,50</td><td>58,75</td></tr> ... <tr><td>9991006144</td><td>WALLACE SILVA DE ARAUJO</td><td>15/01/1993</td><td>23,75</td><td>18,75</td><td>15,00</td><td>7,50</td><td>1,25</td><td>2,50</td><td>5,00</td><td>1,25</td><td>2,50</td><td>3,75</td><td>3,75</td><td>42,50</td></tr>
+--------------------------------------------------------------------------------
+Maria Estella Dantas Antonichelli | Escavador (https://www.escavador.com/sobre/224659187/maria-estella-dantas)
+citeturn96search7 [wordlim: 200] Published: 3.3 years ago; Crawled: 3 weeks ago; # Maria Estella Dantas Antonichelli ... Integra atualmente o Conselho Fiscal da Fundação Sistel de Seguridade Social e o Conselho de Administração da Empresa Brasileira de Comunicação (EBC).Foi membro do Conselho de Administração da Central de Abastecimento do Rio Grande do Norte (Ceasa-RN) e da Agência de Fomento do Rio Grande do Norte (AGN) Graduada em Comunicação Social, com habilitação em Jornalismo, pela Universidade Federal do Rio Grande do Norte (1994). lecionou no curso de Jornalismo da Universidade Potiguar (UnP), atuou na Assessoria de Comunicação do Governo do Estado do Rio Grande do Norte, foi editora de texto de emissora afiliada Rede Globo no RN.
+--------------------------------------------------------------------------------
+WALLACE NUNES DA SILVA - CNPJ 22.802.137/0001-00 | MaisMei (https://www.maismei.com.br/diretorio-mei/sao-paulo/sao-paulo/22802137000100-wallace-nunes-da-silva)
+citeturn96search8 [wordlim: 200] Crawled: last year; # WALLACE NUNES DA SILVA CNPJ 22.802.137/0001-00 ... # Quer remover os dados do seu CNPJ do nosso site? ... WALLACE NUNES DA SILVA
+--------------------------------------------------------------------------------
+Ivani Dos Santos em Vargem Alta, ES | Construtores - Pedreiros | Solutudo (https://www.solutudo.com.br/empresas/es/vargem-alta/construtores-pedreiros/ivani-dos-santos-7894842)
+citeturn96search9 [wordlim: 200] Crawled: 2 weeks ago; A empresa Ivani Dos Santos que tem como razão social Ivani Dos Santos foi fundada em 14/04/2016 e está cadastrada na Solutudo no segmento de Construtores - Pedreiros com o CNPJ 24.592.731/0001-31. ... A empresa Ivani Dos Santos trabalha desde 2016 na categoria Construtores - Pedreiros na cidade de Vargem Alta, ES na Rua Projetada, Nº 00 - Casa - Depoartamento.
+--------------------------------------------------------------------------------
+Diário Oficial do Estado do Rio de Janeiro - 10/10/2014 - Poder Executivo (Suplemento) - Pg. 277 | Escavador (https://www.escavador.com/diarios/550294/DOERJ/poder-executivo-%28suplemento%29/2014-10-10?page=277)
+citeturn96search10 [wordlim: 200] Published: 11.9 years ago; Crawled: 1.2 years ago; 1618331  | WALLACE NUNES DA SILVA  | 0,00 ... 1533463  | WALLACE NUNES DE OLIVEIRA  | 10,00
+--------------------------------------------------------------------------------
+48.256.301 Wallace Nunes da Silva - 48256301000107 (https://cnpj.biz/48256301000107)
+citeturn96search11 [wordlim: 200] Crawled: 3 months ago; A empresa 48.256.301 Wallace Nunes da Silva de CNPJ 48.256.301/0001-07, foi fundada em 11/10/2022 na cidade Nova Iguaçu no estado Rio de Janeiro.
+--------------------------------------------------------------------------------
+Ivani Ribeiro (https://pt.wikipedia.org/wiki/Ivani_Ribeiro)
+citeturn96search18 [wordlim: 200] Crawled: 6 months ago; Ivani Ribeiro, nome artístico de Cleide Freitas Alves Ferreira, (São Vicente, 20 de fevereiro de 1916 — São Paulo, 17 de julho de 1995) foi uma atriz de rádio, escritor a e autor a brasileira de telenovela s. ... A regravação de O Profeta já havia sido cogitada anteriormente - mais precisamente em 2004, para substituir Chocolate com Pimenta, de Walcyr Carrasco (novela que havia sido inspirada em Amor com Amor Se Paga), mas a emissora acabou optando por Cabocla, de Benedito Ruy Barbosa, adaptado por suas filhas Edmara e Edilene Barbosa. ... foi produzida em 1996 e abordava a vida da terceira idade e a farsa dos sexos, reunindo veteranos há tempos afastados da televisão como Castro Gonzaga, Norma Geraldy, Alberto Peres, Ênio Santos e Vanda Lacerda, protagonizada por Cássia Kiss e Elizabeth Savalla; o roteiro desta novela é creditado a ambas, cabendo à Ivani o argumento e o roteiro redigido pela sua colaboradora Solange Castro Neves, que escreveu apenas os vinte e quatro primeiros capítulos e foi substituída por Lauro César Muniz.

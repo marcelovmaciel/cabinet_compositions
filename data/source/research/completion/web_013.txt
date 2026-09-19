@@ -1,0 +1,102 @@
+Michel Temer - Wikipedia, la enciclopedia libre (https://es.wikipedia.org/wiki/Michel_Temer)
+citeturn12view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://es.wikipedia.org/wiki/Michel_Temer","lineno":null}); Total lines: 556
+--------------------------------------------------------------------------------
+Dilma Rousseff - Wikipedia, la enciclopedia libre (https://es.wikipedia.org/wiki/Dilma_Rousseff)
+citeturn12view1 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://es.wikipedia.org/wiki/Dilma_Rousseff","lineno":null}); Total lines: 1162
+--------------------------------------------------------------------------------
+Cabinet of Jair Bolsonaro - Wikipedia (https://en.wikipedia.org/wiki/Cabinet_of_Jair_Bolsonaro)
+citeturn12view2 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: find({"ref_id":"turn9view0","pattern":"Bruno"}); Total lines: 317
+L175:  | cite51†Progressistas (PP)  | cite92†Liberal conservatism | cite96†Ciro Nogueira L176:  | cite52†Social Democratic Party (PSD)  | cite97†Conservative liberalism | cite98†Gilberto Kassab L177:  | cite53†Brazilian Democratic Movement (MDB)  | cite99†Catch-all party | cite100†Romero Jucá L178:  | cite70†New Party (NOVO)  | cite101†Classical liberalism | cite102†João Amoêdo L179:  | cite63†Brazilian Social Democracy Party (PSDB)  | cite103†Neoliberalism | cite104†Geraldo Alckmin L180:  | cite50†Liberal Party (PL)  | cite105†Conservatism | cite106†Valdemar Costa Neto L181: ## Cabinet
+L182: 
+L183: [cite107†edit ]
+L184: cite108†Esplanada dos Ministérios and the cite109†National Congress in background The cite110†Itamaraty Palace , seat of the cite111†Ministry of Foreign Affairs of Brazil The Justice Palace, seat of the cite112†Ministry of Justice and Public Security cite113†Army High Command HQ in Brasília
+L185: Party key  |  | cite49†PSL |  | cite88†PRTB |  | cite91†DEM |  | cite53†MDB L186:  | cite52†PSD |  | cite54†Republicanos |  | cite51†PP |  | cite63†PSDB L187:  | cite50†PL |  | cite55†PSC |  | cite70†NOVO |  | cite114†No party L188: Portfolio  | Portrait  | Minister  | Took office  | Left office  | Note
+L189: --- | --- | --- | --- | --- | ---
+L190: Cabinet ministers
+L191: cite47†Vice President |  |  | cite48†Hamilton Mourão | 1 January 2019  | 31 December 2022  | Acting President from 30 to 31 December 2022
+L192: cite115†Chief of Staff |  |  | cite116†Onyx Lorenzoni | 1 January 2019  | 18 February 2020  | Federal deputy on leave
+L193:  |  | cite117†Walter Braga Netto | 18 February 2020  | 29 March 2021  |
+L194:  |  | cite118†Luiz Eduardo Ramos | 29 March 2021  | 26 July 2021  |
+L195:  |  | cite96†Ciro Nogueira | 26 July 2021  | 30 December 2022  | Senator on leave
+L196: cite119†Secretary of Government |  |  | cite120†Santos Cruz | 1 January 2019  | 13 June 2019  |
+L197:  |  | cite118†Luiz Eduardo Ramos | 13 June 2019  | 29 March 2021  |
+L198:  |  | cite121†Flávia Arruda | 30 March 2021  | 31 March 2022  | Federal deputy on leave
+L199:  |  | cite122†Célio Faria Júnior | 31 March 2022  | 31 December 2022  |
+L200: Secretary-General of the Presidency  |  |  | cite123†Gustavo Bebianno | 1 January 2019  | 18 February 2019  |
+L201:  |  | cite124†Floriano Peixoto | 18 February 2019  | 20 June 2019  |
+L202:  |  | cite125†Jorge Oliveira | 20 June 2019  | 31 December 2020  |
+L203:  |  | cite116†Onyx Lorenzoni | 12 February 2021  | 28 July 2021  | Federal deputy on leave
+L204:  |  | cite118†Luiz Eduardo Ramos | 28 July 2021  | 31 December 2022  |
+L205: cite126†Attorney General |  |  | cite127†André Mendonça | 1 January 2019  | 28 April 2020  |
+L206:  |  | cite128†José Levi do Amaral | 28 April 2020  | 29 March 2021  |
+L207:  |  | cite127†André Mendonça | 29 March 2021  | 6 August 2021  |
+L208:  |  | cite129†Bruno Bianco | 6 August 2021  | 31 December 2022  |
+L209: cite130†Comptroller General |  |  | cite131†Wagner de Campos Rosário | 1 January 2019  | 31 December 2022  | Former member of cite79†Temer cabinet L210: cite132†Secretary of Institutional Security |  |  | cite133†Augusto Heleno | 1 January 2019  | 31 December 2022  |
+L211: cite134†Minister of Agriculture and Livestock |  |  | cite135†Tereza Cristina | 1 January 2019  | 30 March 2022  | Federal deputy on leave
+L212:  |  | Marcos Montes  | 30 March 2022  | 31 December 2022  | Federal deputy on leave
+L213: cite136†Minister of Citizenship |  |  | cite137†Osmar Terra | 1 January 2019  | 14 February 2020  | Federal deputy on leave, former member of cite79†Temer cabinet L214:  |  | cite116†Onyx Lorenzoni | 14 February 2020  | 12 February 2021  | Federal deputy on leave
+L215:  |  | cite138†João Roma | 12 February 2021  | 30 March 2022  | Federal deputy on leave
+L216:  |  | cite139†Ronaldo Vieira Bento | 30 March 2022  | 31 December 2022  |
+L217: cite140†Minister of Communications |  |  | cite141†Fábio Faria | 17 June 2020  | 21 December 2022  | Federal deputy on leave
+L218: cite142†Minister of Defense |  |  | cite143†Fernando Azevedo e Silva | 1 January 2019  | 29 March 2021  |
+L219:  |  | cite117†Walter Braga Netto | 29 March 2021  | 30 March 2022  |
+L220:  |  | cite144†Paulo Sérgio Nogueira | 30 March 2022  | 31 December 2022  |
+L221: cite145†Minister of the Economy |  |  | cite146†Paulo Guedes | 1 January 2019  | 31 December 2022  |
+L222: cite147†Minister of Education |  |  | cite148†Ricardo Vélez Rodríguez | 1 January 2019  | 8 April 2019  |
+L223:  |  | cite149†Abraham Weintraub | 8 April 2019  | 20 June 2020  |
+L224:  |  | cite150†Milton Ribeiro | 16 July 2020  | 28 March 2022  |
+L225:  |  | cite151†Victor Godoy | 28 March 2022  | 31 December 2022  |
+L226: cite152†Minister of Environment |  |  | cite153†Ricardo Salles | 1 January 2019  | 23 June 2021  |
+L227:  |  | cite154†Joaquim Leite | 29 March 2021  | 31 December 2022  |
+L228: cite111†Minister of Foreign Affairs |  |  | cite155†Ernesto Araújo | 1 January 2019  | 29 March 2021  |
+L229:  |  | cite156†Carlos França | 29 March 2021  | 31 December 2022  |
+L230: cite157†Minister of Health |  |  | cite158†Luiz Henrique Mandetta | 1 January 2019  | 16 April 2020  | Federal deputy on leave
+L231:  |  | cite159†Nelson Teich | 17 April 2020  | 15 May 2020  |
+L232:  |  | cite160†Eduardo Pazuello | 16 September 2020  | 23 March 2021  | Acting from 2 June to 16 September 2020
+L233:  |  | cite161†Marcelo Queiroga | 23 March 2021  | 31 December 2022  |
+L234: cite162†Minister of Infrastructure |  |  | cite163†Tarcísio de Freitas | 1 January 2019  | 30 March 2022  |
+L235:  |  | cite164†Marcelo Sampaio | 30 March 2022  | 31 December 2022  |
+L236: cite112†Minister of Justice and Public Security |  |  | cite165†Sergio Moro | 1 January 2019  | 24 April 2020  |
+L237:  |  | cite127†André Mendonça | 29 April 2020  | 29 March 2021  |
+L238:  |  | cite166†Anderson Torres | 29 March 2021  | 31 December 2022  |
+L239: cite167†Minister of Labour and Social Security |  |  | cite116†Onyx Lorenzoni | 28 July 2021  | 30 March 2022  | Federal deputy on leave
+L240:  |  | cite168†José Carlos Oliveira | 30 March 2022  | 31 December 2022  |
+L241: cite169†Minister of Mines and Energy |  |  | cite170†Bento Albuquerque | 1 January 2019  | 11 May 2022  |
+L242:  |  | cite171†Adolfo Sachsida | 11 May 2022  | 31 December 2022  |
+L243: cite172†Minister of Regional Development |  |  | cite173†Gustavo Canuto | 1 January 2019  | 11 February 2020  |
+L244:  |  | cite174†Rogério Marinho | 11 February 2020  | 30 March 2022  | Federal deputy on leave
+L245:  |  | cite175†Daniel Duarte Ferreira | 30 March 2022  | 31 December 2022  |
+L246: cite176†Minister of Science, Technology and Innovation |  |  | cite177†Marcos Pontes | 1 January 2019  | 30 March 2022  |
+L247:  |  | Paulo Alvim  | 30 March 2022  | 31 December 2022  |
+L248: cite178†Minister of Tourism |  |  | cite179†Marcelo Álvaro Antônio | 1 January 2019  | 9 December 2020  | Federal deputy on leave
+L249:  |  | cite180†Gilson Machado Neto | 9 December 2020  | 30 March 2022  |
+L250:  |  | cite181†Carlos Brito | 30 March 2022  | 31 December 2022  |
+L251: cite182†Minister of Woman, Family and Human Rights |  |  | cite183†Damares Alves | 1 January 2019  | 30 March 2022  |
+L252:  |  | cite184†Cristiane Britto | 30 March 2022  | 31 December 2022  |
+L253: Non-cabinet positions
+L254: President of the cite185†Central Bank of Brazil |  | cite186†Ilan Goldfajn | 9 June 2016  | 28 February 2019  |
+L255:  | cite187†Roberto Campos Neto | 28 February 2019  | 31 December 2024  |
+L256: Chairman of the cite188†Brazilian Development Bank |  | cite189†Joaquim Levy | 1 January 2019  | 17 June 2019  |
+L257:  | cite190†Gustavo Montezano | 17 June 2019  | 31 December 2022  |
+L258: CEO of cite191†Petrobras |  | Roberto Castello Branco  | 3 January 2019  | 13 April 2021  |
+L259:  | cite192†Joaquim Silva e Luna | 16 April 2021  | 28 March 2022  |
+L260:  | José Ferreira Coelho  | 14 April 2022  | 20 June 2022  |
+L261:  | cite193†Caio Paes de Andrade | 28 June 2022  | 4 January 2023  |
+L262: Chief of the cite194†Joint Staff of the Armed Forces |  | cite195†Raul Botelho | 19 January 2019  | 31 May 2021  |
+L263:  | cite196†Laerte de Souza Santos | 31 May 2021  | 31 December 2022  |
+L264: cite113†Commander of the Brazilian Army |  | cite197†Edson Leal Pujol | 11 January 2019  | 30 March 2021  |
+L265:  | cite144†Paulo Sérgio Nogueira | 30 March 2021  | 30 March 2022  |
+L266:  | cite198†Marco Antônio Freire Gomes | 30 March 2022  | 30 December 2022  |
+L267: cite199†Commander of the Brazilian Navy |  | cite200†Ilques Barbosa Junior | 9 January 2019  | 30 March 2021  |
+L268:  | cite201†Almir Garnier Santos | 30 March 2021  | 6 January 2023  |
+L269: cite202†Commander of the Brazilian Air Force |  | cite203†Antonio Carlos Moretti Bermudez | 4 January 2019  | 30 March 2021  |
+L270:  | cite204†Carlos de Almeida Baptista Júnior | 12 April 2021  | 2 January 2023  |
+L271: ## References
+L272: 
+L273: [cite205†edit ]
+L274: 
+L275:   1. cite206†↑ o autor (28 November 2018). cite207†"Saiba quem são os 22 ministros da esplanada de Bolsonaro, Poder360, accessed 12 December 2018"†www.poder360.com.br . Poder360.com.br. Retrieved 2 January 2019.
+--------------------------------------------------------------------------------
+Cabinet of Jair Bolsonaro - Wikipedia (https://en.wikipedia.org/wiki/Cabinet_of_Jair_Bolsonaro)
+citeturn12view3 [wordlim: 200] Crawled: 2 days ago; Content type: text/html; Source: find({"ref_id":"turn9view0","pattern":"Vogel"}); Total lines: 317
+No matching text found for "Vogel"

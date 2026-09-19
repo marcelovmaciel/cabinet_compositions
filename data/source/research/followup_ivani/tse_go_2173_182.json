@@ -1,0 +1,16 @@
+{
+  "party": "PRD",
+  "id": 182,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=182&currentPage=0&pageSize=10000",
+      "records": 5169,
+      "totalElements": 5169,
+      "response_sha256": "bc31cb8d0b970ae2777493d7ce0f39c1b754e2c8d3a10d46abc3abd4d22fba3c",
+      "retrieved_utc": "2026-09-10T23:36:39Z"
+    }
+  ],
+  "matches": []
+}

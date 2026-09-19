@@ -1,0 +1,550 @@
+[
+  {
+    "file": "affiliations.csv",
+    "key": [
+      "affiliation-49705e8c67b1"
+    ],
+    "before": {
+      "affiliation_id": "affiliation-49705e8c67b1",
+      "person_id": "person-561613fe4a6e",
+      "start_inclusive": "2022-12-21",
+      "end_exclusive": "2023-01-01",
+      "state": "UNKNOWN",
+      "party_id": "",
+      "support": "no_supported_prior_observation",
+      "date_status": "unidentified",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW"
+    },
+    "after": {
+      "affiliation_id": "affiliation-49705e8c67b1",
+      "person_id": "person-561613fe4a6e",
+      "start_inclusive": "2022-12-21",
+      "end_exclusive": "2023-01-01",
+      "state": "UNKNOWN",
+      "party_id": "",
+      "support": "Telebras 57th eligibility committee minutes of February 11 2022 review her Form C signed December 14 2021 and state that requirements/impediments were answered yes/no. Those are fiscal-council eligibility assertions, not an explicit personal non-affiliation declaration. The original proposal and 283rd board assessment address credentials and eligibility. No named personal party or universal non-affiliation observation is established. Prior PSD byline, Fabio Faria employment, and scoped registry non-matches remain insufficient; retain UNKNOWN.",
+      "date_status": "unresolved_personal_affiliation",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "V5W5E003",
+      "decision_ids": "PERSON-CONTINUITY-REVIEW;V5W5D003"
+    }
+  },
+  {
+    "file": "affiliations.csv",
+    "key": [
+      "affiliation-C036-jonathas-assuncao-salvador-nery-de-castro-2022-12-30"
+    ],
+    "before": {
+      "affiliation_id": "affiliation-C036-jonathas-assuncao-salvador-nery-de-castro-2022-12-30",
+      "person_id": "person-jonathas-assuncao-salvador-nery-de-castro",
+      "start_inclusive": "2022-12-30",
+      "end_exclusive": "2023-01-01",
+      "state": "UNKNOWN",
+      "party_id": "",
+      "support": "Substantive searches did not establish temporally relevant personal affiliation; employer and nomination are not personal affiliation",
+      "date_status": "unresolved_personal_affiliation",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "C036",
+      "decision_ids": "C036"
+    },
+    "after": {
+      "affiliation_id": "affiliation-C036-jonathas-assuncao-salvador-nery-de-castro-2022-12-30",
+      "person_id": "person-jonathas-assuncao-salvador-nery-de-castro",
+      "start_inclusive": "2022-12-30",
+      "end_exclusive": "2023-01-01",
+      "state": "UNKNOWN",
+      "party_id": "",
+      "support": "Newly retrieved issuer-authored Petrobras 2022 reference form version 7, available in Latibex September 21 2022, identifies the exact full name and Casa Civil office. Physical page 532 (printed page 527) records self-declared corporate independence, politically exposed person status and absence of specified convictions. Physical pages 526,538,572,574,575 add board appointment, committee/subordination information. None states personal party affiliation or non-affiliation. The N/A rows concern a different disclosure field and cannot be recoded as unaffiliated. Legacy Petrobras assembly link fails DNS; official August 15 2022 announcement confirms nomination only. Retain UNKNOWN for December 30-31 2022; these findings also cannot resolve March 30 2021 and are not backprojected there.",
+      "date_status": "unresolved_personal_affiliation",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[]",
+      "evidence_ids": "C036;V5W5E004",
+      "decision_ids": "C036;V5W5D004"
+    }
+  },
+  {
+    "file": "affiliations.csv",
+    "key": [
+      "affiliation-C044-helder-melillo-lopes-cunha-silva-2022-12-30"
+    ],
+    "before": {
+      "affiliation_id": "affiliation-C044-helder-melillo-lopes-cunha-silva-2022-12-30",
+      "person_id": "person-helder-melillo-lopes-cunha-silva",
+      "start_inclusive": "2022-12-30",
+      "end_exclusive": "2023-01-01",
+      "state": "PARTY",
+      "party_id": "NOVO",
+      "support": "Adjudicated primary formal-registry affiliation: official TSE row dates NOVO entry 2017-10-28 and retains REGULAR status and pending marker alongside departure field 2021-02-03. UNAFFILIATED alternative preserves departure interpretation; reason code2 and legacy date-field semantics remain unresolved. Not an assertion of a definitely voluntary request or exact legal certainty. Exact identity verified against official MDR2020 appointment by identifier hash.",
+      "date_status": "adjudicated_registry_pending_departure",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[\"NOVO\",\"UNAFFILIATED\"]",
+      "evidence_ids": "C044;C071",
+      "decision_ids": "C044;C071"
+    },
+    "after": {
+      "affiliation_id": "affiliation-C044-helder-melillo-lopes-cunha-silva-2022-12-30",
+      "person_id": "person-helder-melillo-lopes-cunha-silva",
+      "start_inclusive": "2022-12-30",
+      "end_exclusive": "2023-01-01",
+      "state": "PARTY",
+      "party_id": "NOVO",
+      "support": "Official TSE public client resolves cdMotivoDesfiliacao=2 as A pedido do eleitor, distinct from Expulsao=1 and Judicial=10. The same record-detail template binds the reason field through that enum and separately displays dtDesfiliacao and tsCadastroDesfiliacao. The party departure form sends its chosen date as dtDesfiliacao and warns that reason-2 departure is effectuated after elector notice to the electoral court. Thus a bare populated dtDesfiliacao does not by itself prove completed judicial termination. Retain the exact-identity NOVO entry 2017-10-28, dtDesfiliacao 2021-02-03, REGULAR status 1, pending marker 1, null cancellation/exclusion and null tsCadastroDesfiliacao. The decoded reason is a recorded request category, not independent proof of the signed request or court receipt. Historical migration and actual court-notice date remain unverified; primary NOVO and the credible UNAFFILIATED alternative both remain for December 30-31 2022. C071 is retained as the earlier research state, superseded here only on the decoded code and directly observed client field mapping.",
+      "date_status": "adjudicated_registry_pending_departure",
+      "date_earliest": "",
+      "date_latest": "",
+      "alternatives": "[\"NOVO\",\"UNAFFILIATED\"]",
+      "evidence_ids": "C044;C071;V5W5E001",
+      "decision_ids": "C044;C071;V5W5D001"
+    }
+  },
+  {
+    "file": "completion_research_register.csv",
+    "key": [
+      "completion-search-561613fe4a6e"
+    ],
+    "before": {
+      "research_id": "completion-search-561613fe4a6e",
+      "dependency_id": "person-561613fe4a6e",
+      "person_name": "Maria Estella Dantas Antonichelli",
+      "service_intervals": "2022-12-21/2023-01-01",
+      "name_variants": "Estella Dantas;Maria Estella Dantas Antonichelli",
+      "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches",
+      "saved_result_files": "research/completion/web_014.txt;research/completion/web_025.txt;research/completion/web_026.txt;research/completion/web_048.txt;research/completion/web_065.txt;research/completion/web_067.txt;research/completion/web_073.txt;research/completion/web_074.txt;research/completion/web_097.txt;research/completion/web_197.txt;research/completion/web_218.txt;research/completion/web_249.txt;research/completion/web_253.txt;research/completion/web_287.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md",
+      "source_review_finding": "Full-name and legal-name variants, 2022 resignation/office reporting, ministerial directory and board material inspected. A PSD news byline and Fabio Faria employment are not her own membership. Board independence is not non-affiliation. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation.",
+      "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+      "search_date": "2026-09-10",
+      "completion_status": "blocked"
+    },
+    "after": {
+      "research_id": "completion-search-561613fe4a6e",
+      "dependency_id": "person-561613fe4a6e",
+      "person_name": "Maria Estella Dantas Antonichelli",
+      "service_intervals": "2022-12-21/2023-01-01",
+      "name_variants": "Estella Dantas;Maria Estella Dantas Antonichelli",
+      "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches; original Telebras eligibility minutes/Form C scope; official MCom service roll and statutory substitute rule",
+      "saved_result_files": "research/completion/web_014.txt;research/completion/web_025.txt;research/completion/web_026.txt;research/completion/web_048.txt;research/completion/web_065.txt;research/completion/web_067.txt;research/completion/web_073.txt;research/completion/web_074.txt;research/completion/web_097.txt;research/completion/web_197.txt;research/completion/web_218.txt;research/completion/web_249.txt;research/completion/web_253.txt;research/completion/web_287.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md;research/refinement_v5/worker_5_bolsonaro_2022/RESEARCH.md;research/refinement_v5/worker_5_bolsonaro_2022/sources/fetch_manifest.json",
+      "source_review_finding": "Full-name and legal-name variants, 2022 resignation/office reporting, ministerial directory and board material inspected. A PSD news byline and Fabio Faria employment are not her own membership. Board independence is not non-affiliation. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation. V5: Telebras 57th eligibility committee minutes of February 11 2022 review her Form C signed December 14 2021 and state that requirements/impediments were answered yes/no. Those are fiscal-council eligibility assertions, not an explicit personal non-affiliation declaration. The original proposal and 283rd board assessment address credentials and eligibility. No named personal party or universal non-affiliation observation is established. Prior PSD byline, Fabio Faria employment, and scoped registry non-matches remain insufficient; retain UNKNOWN. Official MCom 2022 responsibility roll, updated January 2 2023, dates Fabio Faria dismissal December 21 2022 and lists Maria Estella Dantas Antonichelli as the continuing executive secretary. Decree 8851/2016 article 1 III supplies the executive-secretary substitute during vacancy, absent a specific presidential designation. The December 21 2022 interministerial order 6672, published January 3 2023, identifies Estella as Ministra de Estado das Comunicacoes Substituta; C028 independently records her December 30 substitute signature. Correct inherited capacity titular to vacancy_acting without changing the service interval [2022-12-21,2023-01-01). The January publication date of order 6672 is not an extension of ministerial service.",
+      "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+      "search_date": "2026-09-10",
+      "completion_status": "blocked"
+    }
+  },
+  {
+    "file": "completion_research_register.csv",
+    "key": [
+      "completion-search-helder-melillo-lopes-cunha-silva"
+    ],
+    "before": {
+      "research_id": "completion-search-helder-melillo-lopes-cunha-silva",
+      "dependency_id": "person-helder-melillo-lopes-cunha-silva",
+      "person_name": "Helder Melillo Lopes Cunha Silva",
+      "service_intervals": "2022-12-30/2023-01-01",
+      "name_variants": "Helder Melillo",
+      "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches",
+      "saved_result_files": "research/completion/web_102.txt;research/completion/web_103.txt;research/completion/web_105.txt;research/completion/web_266.txt;research/completion/web_287.txt;research/followup_bolsonaro_affiliations/HELDER_ADJUDICATION.md;research/followup_bolsonaro_affiliations/tse_df_58.json",
+      "source_review_finding": "Adjudicate primary NOVO for Helder’s December30–31 2022 service from the exact-identity TSE historical entry dated October28 2017 and still-REGULAR official record. Preserve the conflicting dtDesfiliacao February3 2021, pending marker, null cancellation/exclusion and null tsCadastroDesfiliacao. UNAFFILIATED remains a credible alternative for the whole service. Neither reasoncode2 nor the legacy API date-field migration has been fully decoded: do not call the departure definitely voluntary, definitively only party-entered, or a completed judicial cancellation. TSE manuals describe regular records with pending departure/cancellation, while Resolution23.596 articles21 and24 distinguish possible legal termination paths. These explain the conflict but do not settle this individual’s exact legal event. The primary is an explicitly uncertain formal-registry adjudication, not legal certainty or generic continuity overriding a known event. Current municipal-list non-matches for other people are not non-affiliation evidence.",
+      "unresolved_fact": "Exact effective departure remains disputed: primary NOVO versus unaffiliated alternative for December30-31 2022.",
+      "search_date": "2026-09-10",
+      "completion_status": "primary_adjudicated_with_set_changing_alternative"
+    },
+    "after": {
+      "research_id": "completion-search-helder-melillo-lopes-cunha-silva",
+      "dependency_id": "person-helder-melillo-lopes-cunha-silva",
+      "person_name": "Helder Melillo Lopes Cunha Silva",
+      "service_intervals": "2022-12-30/2023-01-01",
+      "name_variants": "Helder Melillo",
+      "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches; official public TSE application enums, record template, departure-form serialization and notice",
+      "saved_result_files": "research/completion/web_102.txt;research/completion/web_103.txt;research/completion/web_105.txt;research/completion/web_266.txt;research/completion/web_287.txt;research/followup_bolsonaro_affiliations/HELDER_ADJUDICATION.md;research/followup_bolsonaro_affiliations/tse_df_58.json;research/refinement_v5/worker_5_bolsonaro_2022/RESEARCH.md;research/refinement_v5/worker_5_bolsonaro_2022/sources/fetch_manifest.json",
+      "source_review_finding": "Official TSE public client resolves cdMotivoDesfiliacao=2 as A pedido do eleitor, distinct from Expulsao=1 and Judicial=10. The same record-detail template binds the reason field through that enum and separately displays dtDesfiliacao and tsCadastroDesfiliacao. The party departure form sends its chosen date as dtDesfiliacao and warns that reason-2 departure is effectuated after elector notice to the electoral court. Thus a bare populated dtDesfiliacao does not by itself prove completed judicial termination. Retain the exact-identity NOVO entry 2017-10-28, dtDesfiliacao 2021-02-03, REGULAR status 1, pending marker 1, null cancellation/exclusion and null tsCadastroDesfiliacao. The decoded reason is a recorded request category, not independent proof of the signed request or court receipt. Historical migration and actual court-notice date remain unverified; primary NOVO and the credible UNAFFILIATED alternative both remain for December 30-31 2022. C071 is retained as the earlier research state, superseded here only on the decoded code and directly observed client field mapping.",
+      "unresolved_fact": "Court-notice/effective termination date and historical migration remain unverified; reason 2 is now decoded as A pedido do eleitor.",
+      "search_date": "2026-09-10",
+      "completion_status": "primary_adjudicated_with_set_changing_alternative"
+    }
+  },
+  {
+    "file": "completion_research_register.csv",
+    "key": [
+      "completion-search-jonathas-assuncao-salvador-nery-de-castro"
+    ],
+    "before": {
+      "research_id": "completion-search-jonathas-assuncao-salvador-nery-de-castro",
+      "dependency_id": "person-jonathas-assuncao-salvador-nery-de-castro",
+      "person_name": "Jonathas Assunção Salvador Nery de Castro",
+      "service_intervals": "2022-12-30/2023-01-01;2021-03-30/2021-03-31",
+      "name_variants": "Jonathas Assuncao;Jonathas Assunção;Jonathas Assuncao Salvador",
+      "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches",
+      "saved_result_files": "research/completion/web_033.txt;research/completion/web_078.txt;research/completion/web_081.txt;research/completion/web_082.txt;research/completion/web_083.txt;research/completion/web_084.txt;research/completion/web_086.txt;research/completion/web_088.txt;research/completion/web_089.txt;research/completion/web_112.txt;research/completion/web_113.txt;research/completion/web_138.txt;research/completion/web_159.txt;research/completion/web_164.txt;research/completion/web_191.txt;research/completion/web_217.txt;research/completion/web_221.txt;research/completion/web_222.txt;research/completion/web_230.txt;research/completion/web_250.txt;research/completion/web_251.txt;research/completion/web_265.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md",
+      "source_review_finding": "Official rolls establish vacancy service. Petrobras 2022 nomination, governance and court records address executive-office ineligibility; those findings do not establish non-affiliation. Legacy assembly website returned 404. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation.",
+      "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+      "search_date": "2026-09-10",
+      "completion_status": "blocked"
+    },
+    "after": {
+      "research_id": "completion-search-jonathas-assuncao-salvador-nery-de-castro",
+      "dependency_id": "person-jonathas-assuncao-salvador-nery-de-castro",
+      "person_name": "Jonathas Assunção Salvador Nery de Castro",
+      "service_intervals": "2022-12-30/2023-01-01;2021-03-30/2021-03-31",
+      "name_variants": "Jonathas Assuncao;Jonathas Assunção;Jonathas Assuncao Salvador",
+      "query_family": "name variants + office + service years + partido/sem partido/filiação/desfiliação/expulsão/sucessão/interino; results also screened for wrong-person and wrong-subject matches; issuer-authored Petrobras 2022 reference filing via Latibex; official nomination announcement and legacy assembly route",
+      "saved_result_files": "research/completion/web_033.txt;research/completion/web_078.txt;research/completion/web_081.txt;research/completion/web_082.txt;research/completion/web_083.txt;research/completion/web_084.txt;research/completion/web_086.txt;research/completion/web_088.txt;research/completion/web_089.txt;research/completion/web_112.txt;research/completion/web_113.txt;research/completion/web_138.txt;research/completion/web_159.txt;research/completion/web_164.txt;research/completion/web_191.txt;research/completion/web_217.txt;research/completion/web_221.txt;research/completion/web_222.txt;research/completion/web_230.txt;research/completion/web_250.txt;research/completion/web_251.txt;research/completion/web_265.txt;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md;research/refinement_v5/worker_5_bolsonaro_2022/RESEARCH.md;research/refinement_v5/worker_5_bolsonaro_2022/sources/fetch_manifest.json",
+      "source_review_finding": "Official rolls establish vacancy service. Petrobras 2022 nomination, governance and court records address executive-office ineligibility; those findings do not establish non-affiliation. Legacy assembly website returned 404. Additional 2016-07-27 historical Brasília snapshot: all35 party lists,202pages,182698 rendered rows, no matching target. Historical and current-list absence is not evidence of non-affiliation. V5: Newly retrieved issuer-authored Petrobras 2022 reference form version 7, available in Latibex September 21 2022, identifies the exact full name and Casa Civil office. Physical page 532 (printed page 527) records self-declared corporate independence, politically exposed person status and absence of specified convictions. Physical pages 526,538,572,574,575 add board appointment, committee/subordination information. None states personal party affiliation or non-affiliation. The N/A rows concern a different disclosure field and cannot be recoded as unaffiliated. Legacy Petrobras assembly link fails DNS; official August 15 2022 announcement confirms nomination only. Retain UNKNOWN for December 30-31 2022; these findings also cannot resolve March 30 2021 and are not backprojected there.",
+      "unresolved_fact": "Personal affiliation or an explicit temporally relevant non-affiliation observation, or evidence supporting a defensible finite set of alternatives",
+      "search_date": "2026-09-10",
+      "completion_status": "blocked"
+    }
+  },
+  {
+    "file": "decisions.csv",
+    "key": [
+      "V5W5D001"
+    ],
+    "before": null,
+    "after": {
+      "decision_id": "V5W5D001",
+      "disposition": "refine_registry_reason_semantics_retain_alternative",
+      "evidence_ids": "V5W5E001",
+      "rationale": "Official TSE public client resolves cdMotivoDesfiliacao=2 as A pedido do eleitor, distinct from Expulsao=1 and Judicial=10. The same record-detail template binds the reason field through that enum and separately displays dtDesfiliacao and tsCadastroDesfiliacao. The party departure form sends its chosen date as dtDesfiliacao and warns that reason-2 departure is effectuated after elector notice to the electoral court. Thus a bare populated dtDesfiliacao does not by itself prove completed judicial termination. Retain the exact-identity NOVO entry 2017-10-28, dtDesfiliacao 2021-02-03, REGULAR status 1, pending marker 1, null cancellation/exclusion and null tsCadastroDesfiliacao. The decoded reason is a recorded request category, not independent proof of the signed request or court receipt. Historical migration and actual court-notice date remain unverified; primary NOVO and the credible UNAFFILIATED alternative both remain for December 30-31 2022. C071 is retained as the earlier research state, superseded here only on the decoded code and directly observed client field mapping.",
+      "alternatives": "[\"NOVO\",\"UNAFFILIATED\"]"
+    }
+  },
+  {
+    "file": "decisions.csv",
+    "key": [
+      "V5W5D002"
+    ],
+    "before": null,
+    "after": {
+      "decision_id": "V5W5D002",
+      "disposition": "correct_capacity_preserve_service_dates",
+      "evidence_ids": "V5W5E002",
+      "rationale": "Official MCom 2022 responsibility roll, updated January 2 2023, dates Fabio Faria dismissal December 21 2022 and lists Maria Estella Dantas Antonichelli as the continuing executive secretary. Decree 8851/2016 article 1 III supplies the executive-secretary substitute during vacancy, absent a specific presidential designation. The December 21 2022 interministerial order 6672, published January 3 2023, identifies Estella as Ministra de Estado das Comunicacoes Substituta; C028 independently records her December 30 substitute signature. Correct inherited capacity titular to vacancy_acting without changing the service interval [2022-12-21,2023-01-01). The January publication date of order 6672 is not an extension of ministerial service.",
+      "alternatives": "[]"
+    }
+  },
+  {
+    "file": "decisions.csv",
+    "key": [
+      "V5W5D003"
+    ],
+    "before": null,
+    "after": {
+      "decision_id": "V5W5D003",
+      "disposition": "retain_unresolved_personal_affiliation",
+      "evidence_ids": "V5W5E003",
+      "rationale": "Telebras 57th eligibility committee minutes of February 11 2022 review her Form C signed December 14 2021 and state that requirements/impediments were answered yes/no. Those are fiscal-council eligibility assertions, not an explicit personal non-affiliation declaration. The original proposal and 283rd board assessment address credentials and eligibility. No named personal party or universal non-affiliation observation is established. Prior PSD byline, Fabio Faria employment, and scoped registry non-matches remain insufficient; retain UNKNOWN.",
+      "alternatives": "[]"
+    }
+  },
+  {
+    "file": "decisions.csv",
+    "key": [
+      "V5W5D004"
+    ],
+    "before": null,
+    "after": {
+      "decision_id": "V5W5D004",
+      "disposition": "retain_unresolved_personal_affiliation",
+      "evidence_ids": "V5W5E004",
+      "rationale": "Newly retrieved issuer-authored Petrobras 2022 reference form version 7, available in Latibex September 21 2022, identifies the exact full name and Casa Civil office. Physical page 532 (printed page 527) records self-declared corporate independence, politically exposed person status and absence of specified convictions. Physical pages 526,538,572,574,575 add board appointment, committee/subordination information. None states personal party affiliation or non-affiliation. The N/A rows concern a different disclosure field and cannot be recoded as unaffiliated. Legacy Petrobras assembly link fails DNS; official August 15 2022 announcement confirms nomination only. Retain UNKNOWN for December 30-31 2022; these findings also cannot resolve March 30 2021 and are not backprojected there.",
+      "alternatives": "[]"
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W5E001"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E001",
+      "asserted_fact": "Official TSE client decodes Helder departure reason 2 and directly maps date fields; effective historical departure remains uncertain",
+      "source_locator": "https://filia2-externo.tse.jus.br/main.655678f4759dcc30.js;https://filia2-externo.tse.jus.br/672.9e4193a1e7e92416.js;https://filia2-externo.tse.jus.br/927.95ca5669143d8c8c.js;https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-596-de-20-de-agosto-de-2019",
+      "publisher": "Tribunal Superior Eleitoral",
+      "publication_date": "",
+      "retrieval_date": "2026-09-10",
+      "access_status": "official_public_client_source_retrieved_and_schema_traced",
+      "rationale": "Official TSE public client resolves cdMotivoDesfiliacao=2 as A pedido do eleitor, distinct from Expulsao=1 and Judicial=10. The same record-detail template binds the reason field through that enum and separately displays dtDesfiliacao and tsCadastroDesfiliacao. The party departure form sends its chosen date as dtDesfiliacao and warns that reason-2 departure is effectuated after elector notice to the electoral court. Thus a bare populated dtDesfiliacao does not by itself prove completed judicial termination. Retain the exact-identity NOVO entry 2017-10-28, dtDesfiliacao 2021-02-03, REGULAR status 1, pending marker 1, null cancellation/exclusion and null tsCadastroDesfiliacao. The decoded reason is a recorded request category, not independent proof of the signed request or court receipt. Historical migration and actual court-notice date remain unverified; primary NOVO and the credible UNAFFILIATED alternative both remain for December 30-31 2022. C071 is retained as the earlier research state, superseded here only on the decoded code and directly observed client field mapping."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W5E002"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E002",
+      "asserted_fact": "Maria Estella served as designated substitute in the Communications vacancy, not titular",
+      "source_locator": "https://www.gov.br/mcom/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/rol-de-responsaveis-1/2022;https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8851.htm;https://cgi.br/portarias/ano_numero/2022/6672/",
+      "publisher": "Ministerio das Comunicacoes; Presidencia; CGI.br official order repository",
+      "publication_date": "2023-01-02;2016-09-21;2023-01-03",
+      "retrieval_date": "2026-09-10",
+      "access_status": "official_roll_and_order_retrieved_decree_web_text",
+      "rationale": "Official MCom 2022 responsibility roll, updated January 2 2023, dates Fabio Faria dismissal December 21 2022 and lists Maria Estella Dantas Antonichelli as the continuing executive secretary. Decree 8851/2016 article 1 III supplies the executive-secretary substitute during vacancy, absent a specific presidential designation. The December 21 2022 interministerial order 6672, published January 3 2023, identifies Estella as Ministra de Estado das Comunicacoes Substituta; C028 independently records her December 30 substitute signature. Correct inherited capacity titular to vacancy_acting without changing the service interval [2022-12-21,2023-01-01). The January publication date of order 6672 is not an extension of ministerial service."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W5E003"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E003",
+      "asserted_fact": "Maria Estella Telebras eligibility declarations do not supply personal party state",
+      "source_locator": "https://www.telebras.com.br/wp-content/uploads/2022/04/Proposta-da-Administrac%CC%A7a%CC%83o-AGO-2022-Reapresentac%CC%A7a%CC%83o-assinada.pdf",
+      "publisher": "Telebras",
+      "publication_date": "2022-04",
+      "retrieval_date": "2026-09-10",
+      "access_status": "retained_original_nominee_dossier_and_committee_minutes_reviewed",
+      "rationale": "Telebras 57th eligibility committee minutes of February 11 2022 review her Form C signed December 14 2021 and state that requirements/impediments were answered yes/no. Those are fiscal-council eligibility assertions, not an explicit personal non-affiliation declaration. The original proposal and 283rd board assessment address credentials and eligibility. No named personal party or universal non-affiliation observation is established. Prior PSD byline, Fabio Faria employment, and scoped registry non-matches remain insufficient; retain UNKNOWN."
+    }
+  },
+  {
+    "file": "evidence.csv",
+    "key": [
+      "V5W5E004"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E004",
+      "asserted_fact": "Jonathas Petrobras reference filing contains independence and PEP declarations, not personal non-affiliation",
+      "source_locator": "https://www.latibex.com/docs/Documentos/LED/2022/09/21/TRACN_20220920_000000_A99_120659_20220101_DOC001.pdf",
+      "publisher": "Petrobras issuer filing hosted by Latibex",
+      "publication_date": "2022-09-20",
+      "retrieval_date": "2026-09-10",
+      "access_status": "issuer_original_pdf_retrieved_scoped_pages_reviewed",
+      "rationale": "Newly retrieved issuer-authored Petrobras 2022 reference form version 7, available in Latibex September 21 2022, identifies the exact full name and Casa Civil office. Physical page 532 (printed page 527) records self-declared corporate independence, politically exposed person status and absence of specified convictions. Physical pages 526,538,572,574,575 add board appointment, committee/subordination information. None states personal party affiliation or non-affiliation. The N/A rows concern a different disclosure field and cannot be recoded as unaffiliated. Legacy Petrobras assembly link fails DNS; official August 15 2022 announcement confirms nomination only. Retain UNKNOWN for December 30-31 2022; these findings also cannot resolve March 30 2021 and are not backprojected there."
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W5E001",
+      "research/refinement_v5/worker_5_bolsonaro_2022/sources/tse2_externo_672.9e4193a1e7e92416.js",
+      "https://filia2-externo.tse.jus.br/672.9e4193a1e7e92416.js",
+      "official_public_client_source"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E001",
+      "snapshot_path": "research/refinement_v5/worker_5_bolsonaro_2022/sources/tse2_externo_672.9e4193a1e7e92416.js",
+      "source_locator": "https://filia2-externo.tse.jus.br/672.9e4193a1e7e92416.js",
+      "snapshot_kind": "official_public_client_source",
+      "sha256": "a814fdcd7436feeb538ea995fdf3b2886c7e0bf4fb85766ec2c682a00edc6b53"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W5E001",
+      "research/refinement_v5/worker_5_bolsonaro_2022/sources/tse2_externo_927.95ca5669143d8c8c.js",
+      "https://filia2-externo.tse.jus.br/927.95ca5669143d8c8c.js",
+      "official_public_client_source"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E001",
+      "snapshot_path": "research/refinement_v5/worker_5_bolsonaro_2022/sources/tse2_externo_927.95ca5669143d8c8c.js",
+      "source_locator": "https://filia2-externo.tse.jus.br/927.95ca5669143d8c8c.js",
+      "snapshot_kind": "official_public_client_source",
+      "sha256": "c204df6986ebc0e5f159ed52656997f7687e0d893b33bc8854a8204fd81a1713"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W5E001",
+      "research/refinement_v5/worker_5_bolsonaro_2022/sources/tse2_externo_main.js",
+      "https://filia2-externo.tse.jus.br/main.655678f4759dcc30.js",
+      "official_public_client_source"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E001",
+      "snapshot_path": "research/refinement_v5/worker_5_bolsonaro_2022/sources/tse2_externo_main.js",
+      "source_locator": "https://filia2-externo.tse.jus.br/main.655678f4759dcc30.js",
+      "snapshot_kind": "official_public_client_source",
+      "sha256": "6d6617c6e93af57b24f0b8de9609ab01027976733bb8236d73706fa4b753a4e1"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W5E001",
+      "research/refinement_v5/worker_5_bolsonaro_2022/sources/web_010.txt",
+      "https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-596-de-20-de-agosto-de-2019",
+      "retrieved_official_source_web_text"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E001",
+      "snapshot_path": "research/refinement_v5/worker_5_bolsonaro_2022/sources/web_010.txt",
+      "source_locator": "https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-596-de-20-de-agosto-de-2019",
+      "snapshot_kind": "retrieved_official_source_web_text",
+      "sha256": "fd462cad1c082c7ef5171cabf848af65cb3e1d79e79fcb4136e9fc8e9e6da114"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W5E002",
+      "research/refinement_v5/worker_5_bolsonaro_2022/sources/cgi_order_6672.html",
+      "https://cgi.br/portarias/ano_numero/2022/6672/",
+      "official_source_html"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E002",
+      "snapshot_path": "research/refinement_v5/worker_5_bolsonaro_2022/sources/cgi_order_6672.html",
+      "source_locator": "https://cgi.br/portarias/ano_numero/2022/6672/",
+      "snapshot_kind": "official_source_html",
+      "sha256": "5e97c51a4ea1db3fb8acfa32012814ad4b1099f9718721d15c94ba015a72cb22"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W5E002",
+      "research/refinement_v5/worker_5_bolsonaro_2022/sources/mcom_roll_2022.html",
+      "https://www.gov.br/mcom/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/rol-de-responsaveis-1/2022",
+      "official_source_html"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E002",
+      "snapshot_path": "research/refinement_v5/worker_5_bolsonaro_2022/sources/mcom_roll_2022.html",
+      "source_locator": "https://www.gov.br/mcom/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/rol-de-responsaveis-1/2022",
+      "snapshot_kind": "official_source_html",
+      "sha256": "b9d81f165265d9812750c3a66bd617414b691d5fb13836e2a240254d80f09800"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W5E002",
+      "research/refinement_v5/worker_5_bolsonaro_2022/sources/web_012.txt",
+      "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8851.htm",
+      "retrieved_official_source_web_text"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E002",
+      "snapshot_path": "research/refinement_v5/worker_5_bolsonaro_2022/sources/web_012.txt",
+      "source_locator": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8851.htm",
+      "snapshot_kind": "retrieved_official_source_web_text",
+      "sha256": "1b926108a8754d5a4ccab04189b6ecc2a50fc11ed85a7dc03d54323f4f493394"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W5E003",
+      "research/refinement_v5/worker_5_bolsonaro_2022/sources/telebras_estella_eligibility_scoped.txt",
+      "https://www.telebras.com.br/wp-content/uploads/2022/04/Proposta-da-Administrac%CC%A7a%CC%83o-AGO-2022-Reapresentac%CC%A7a%CC%83o-assinada.pdf",
+      "scoped_text_from_retained_original_pdf"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E003",
+      "snapshot_path": "research/refinement_v5/worker_5_bolsonaro_2022/sources/telebras_estella_eligibility_scoped.txt",
+      "source_locator": "https://www.telebras.com.br/wp-content/uploads/2022/04/Proposta-da-Administrac%CC%A7a%CC%83o-AGO-2022-Reapresentac%CC%A7a%CC%83o-assinada.pdf",
+      "snapshot_kind": "scoped_text_from_retained_original_pdf",
+      "sha256": "71c7f509828419e77e1513b9f0038b412d7ddddfeda82e68414b2883c8ab8216"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W5E004",
+      "research/refinement_v5/worker_5_bolsonaro_2022/sources/petrobras_2022_fr.pdf",
+      "https://www.latibex.com/docs/Documentos/LED/2022/09/21/TRACN_20220920_000000_A99_120659_20220101_DOC001.pdf",
+      "issuer_original_pdf"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E004",
+      "snapshot_path": "research/refinement_v5/worker_5_bolsonaro_2022/sources/petrobras_2022_fr.pdf",
+      "source_locator": "https://www.latibex.com/docs/Documentos/LED/2022/09/21/TRACN_20220920_000000_A99_120659_20220101_DOC001.pdf",
+      "snapshot_kind": "issuer_original_pdf",
+      "sha256": "5997f78c9220abfc5831bac5bcef828fa933482a74f48f02be87d9aeff637a67"
+    }
+  },
+  {
+    "file": "evidence_snapshot_links.csv",
+    "key": [
+      "V5W5E004",
+      "research/refinement_v5/worker_5_bolsonaro_2022/sources/petrobras_jonathas_scoped.txt",
+      "https://www.latibex.com/docs/Documentos/LED/2022/09/21/TRACN_20220920_000000_A99_120659_20220101_DOC001.pdf",
+      "scoped_original_pdf_text"
+    ],
+    "before": null,
+    "after": {
+      "evidence_id": "V5W5E004",
+      "snapshot_path": "research/refinement_v5/worker_5_bolsonaro_2022/sources/petrobras_jonathas_scoped.txt",
+      "source_locator": "https://www.latibex.com/docs/Documentos/LED/2022/09/21/TRACN_20220920_000000_A99_120659_20220101_DOC001.pdf",
+      "snapshot_kind": "scoped_original_pdf_text",
+      "sha256": "2a09886134882047c6e4abad5f3c457f8dfae6378f51bd78e3aef899bd84f287"
+    }
+  },
+  {
+    "file": "services.csv",
+    "key": [
+      "service-jair_bolsonaro-0-11"
+    ],
+    "before": {
+      "service_id": "service-jair_bolsonaro-0-11",
+      "person_id": "person-561613fe4a6e",
+      "person_name": "Maria Estella Dantas Antonichelli",
+      "office_id": "bolsonaro-comunicacoes",
+      "office_name": "Ministério das Comunicações",
+      "administration_id": "bolsonaro",
+      "start_inclusive": "2022-12-21",
+      "end_exclusive": "2023-01-01",
+      "capacity": "titular",
+      "included": "true",
+      "scope_decision": "Minister of State criterion; inherited qualifying office reviewed with OFF legal scope ledger",
+      "raw_start": "2022-12-21",
+      "raw_end": "2022-12-31",
+      "raw_date_semantics": "compiled stated tenure endpoints; daily close boundary adjudication except explicit administration/cutoff inclusive last day",
+      "date_status": "adjudicated_source_boundary",
+      "date_earliest": "",
+      "date_latest": "",
+      "evidence_ids": "C028;LEG-3f060ebf15da",
+      "decision_ids": "C028;POPULATION-REVIEW",
+      "source_record_ids": "jair_bolsonaro:0:11"
+    },
+    "after": {
+      "service_id": "service-jair_bolsonaro-0-11",
+      "person_id": "person-561613fe4a6e",
+      "person_name": "Maria Estella Dantas Antonichelli",
+      "office_id": "bolsonaro-comunicacoes",
+      "office_name": "Ministério das Comunicações",
+      "administration_id": "bolsonaro",
+      "start_inclusive": "2022-12-21",
+      "end_exclusive": "2023-01-01",
+      "capacity": "vacancy_acting",
+      "included": "true",
+      "scope_decision": "Designated executive-secretary substitution during true vacancy following Fabio Faria dismissal; interval unchanged",
+      "raw_start": "2022-12-21",
+      "raw_end": "2022-12-31",
+      "raw_date_semantics": "compiled stated tenure endpoints; daily close boundary adjudication except explicit administration/cutoff inclusive last day",
+      "date_status": "adjudicated_source_boundary",
+      "date_earliest": "",
+      "date_latest": "",
+      "evidence_ids": "C028;LEG-3f060ebf15da;V5W5E002",
+      "decision_ids": "C028;POPULATION-REVIEW;V5W5D002",
+      "source_record_ids": "jair_bolsonaro:0:11"
+    }
+  }
+]

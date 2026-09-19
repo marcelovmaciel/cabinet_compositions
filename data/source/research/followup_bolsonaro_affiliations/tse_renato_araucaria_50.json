@@ -1,0 +1,14 @@
+{
+  "party": "AVANTE",
+  "id": 50,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 208,
+      "totalElements": 208,
+      "response_sha256": "94d42cdfcacb424087884900c44bed6ba9689e525209528a5d79e1c3cead0cb6",
+      "retrieved_utc": "2026-09-11T00:08:22Z"
+    }
+  ],
+  "matches": []
+}

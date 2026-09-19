@@ -1,0 +1,36 @@
+{
+  "party": 69,
+  "municipio": "PORTO ALEGRE",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=69&currentPage=0&pageSize=10000",
+      "status": 200,
+      "retrieved_utc": "2026-09-11T19:22:43.304253+00:00",
+      "response_sha256": "619c31eafb3614f5fd9c8d89df0538f18785728873d3c64c57f6c55b6c8d67b8",
+      "totalElements": 9066
+    }
+  ],
+  "matches": [
+    {
+      "cdMotivoCancelamento": null,
+      "cdMotivoDesfiliacao": null,
+      "desSituacaoEleitor": "REGULAR",
+      "dtCancelamento": null,
+      "dtDesfiliacao": null,
+      "dtExclusao": null,
+      "dtFiliacao": [
+        2025,
+        6,
+        16
+      ],
+      "tsCadastroDesfiliacao": null,
+      "nmEleitor": "ONYX DORNELLES LORENZONI",
+      "nomLocalidade": "PORTO ALEGRE",
+      "sgPartido": "PP",
+      "sgUe": "RS",
+      "stRegistroFiliacao": 1,
+      "indPendencia": 0,
+      "indOrigem": 1
+    }
+  ]
+}

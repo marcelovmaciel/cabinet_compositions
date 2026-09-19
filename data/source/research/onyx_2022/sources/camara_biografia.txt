@@ -1,0 +1,682 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt-br"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="pt-br"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="facebook-domain-verification" content="bxxobfdomarwwsu1tu7b9wv9oy0gw2" />
+  
+  <title>
+      Biografia do(a) Deputado(a) Federal Onyx Lorenzoni - Portal da Câmara dos Deputados
+  </title>
+  <meta name="description" content="Página do(a) Deputado(a) Onyx Lorenzoni na Câmara dos Deputados">
+  
+  <meta name="msapplication-TileColor" content="#00a300">
+  <meta name="msapplication-TileImage" content="https://www.camara.leg.br/tema/mstile-144x144.png">
+  <meta name="theme-color" content="#009e49">
+  
+  
+  <meta itemprop="name" content="Biografia do(a) Deputado(a) Federal Onyx Lorenzoni" />
+  
+  <meta itemprop="description" content="Página do(a) Deputado(a) Onyx Lorenzoni na Câmara dos Deputados" />
+  
+  <meta itemprop="image" content="https://www.camara.leg.br/internet/deputado/bandep/74399.jpgmaior.jpg" />
+  
+  <meta itemprop="url" content="https://www.camara.leg.br/deputados/74399/biografia" />
+  <meta property="og:site_name" content="Portal da Câmara dos Deputados" />
+  <meta property="fb:app_id" content="305358806340223" />
+  
+  <meta property="og:title" content="Biografia do(a) Deputado(a) Federal Onyx Lorenzoni" />
+  
+  <meta property="og:description" content="Página do(a) Deputado(a) Onyx Lorenzoni na Câmara dos Deputados">
+  
+  <meta property="og:url" content="https://www.camara.leg.br/deputados/74399/biografia" />
+  
+  <meta property="og:type" content="website" />
+  
+  <meta property="og:image:secure_url" content="https://www.camara.leg.br/internet/deputado/bandep/74399.jpgmaior.jpg" />
+  
+      <meta property="og:image" content="https://www.camara.leg.br/internet/deputado/bandep/74399.jpgmaior.jpg" />
+  <meta name="twitter:card" content="summary" />
+  
+  <meta name="twitter:title" content="Biografia do(a) Deputado(a) Federal Onyx Lorenzoni" />
+  
+  <meta name="twitter:description" content="Página do(a) Deputado(a) Onyx Lorenzoni na Câmara dos Deputados" />
+  
+  <meta name="twitter:image" content="https://www.camara.leg.br/internet/deputado/bandep/74399.jpgmaior.jpg" />
+  
+  
+  
+  
+
+  <link rel="apple-touch-icon" href="https://www.camara.leg.br/tema/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://www.camara.leg.br/tema/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://www.camara.leg.br/tema/apple-touch-icon-180x180.png">
+  <link rel="apple-touch-icon-precomposed" href="https://www.camara.leg.br/tema/apple-touch-icon-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://www.camara.leg.br/tema/apple-touch-icon-152x152-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://www.camara.leg.br/tema/apple-touch-icon-180x180-precomposed.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://www.camara.leg.br/tema/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://www.camara.leg.br/tema/favicon-16x16.png">
+  <link rel="manifest" href="https://www.camara.leg.br/tema/site.webmanifest">
+  <link rel="mask-icon" href="https://www.camara.leg.br/tema/safari-pinned-tab.svg" color="#009e49">
+  <link rel="stylesheet" rel="preload" as="style" href="https://www.camara.leg.br/tema/global/vendor-bundle.css">
+  <link rel="stylesheet" rel="preload" as="style" href="https://www.camara.leg.br/tema/global/camara-custom.css">
+
+        <link rel="stylesheet" href="https://www.camara.leg.br/tema/deputados/deputado.css">
+
+  <style type="text/css">
+    /* Regra geral para no-fouc */
+    .js .u-no-fouc {
+      visibility: hidden;
+      opacity: 0
+    }
+
+    /* Elementos no-fouc que não podem ocupar espaço durante a carga da página */
+    .js .u-no-fouc--no-size {
+      display: none
+    }
+  </style>
+  <script type="text/javascript">
+    // Concatena a classe 'js' à tag html
+    document.documentElement.className += ' js';
+  </script>
+
+</head>
+
+<body>
+  <div class="js-mmenu-container">
+    <header class="l-cabecalho-portal" role="banner">
+      <ul aria-label="Acesso direto" class="acesso-direto">
+        <!-- Links para saltar diretamente para áreas importantes da página accesskey 2 = conteúdo e 3 = navegação -->
+        <li><a class="acesso-direto__link" href="#main-content" accesskey="2">Ir ao conteúdo</a></li>
+        <li><a class="acesso-direto__link" href="#main-nav" accesskey="3">Ir à navegação principal</a></li>
+      </ul>
+    
+      <!--[if lte IE 9]>
+        <p class="browserupgrade">Você está usando um navegador <strong>defasado</strong>. Por favor, <a href="https://browsehappy.com/">atualize seu navegador</a> para melhorar sua experiência e sua segurança.</p>
+        <![endif]-->
+    
+      <div class="nav-top">
+        <div class="container nav-top--container">
+          <a href="https://www.camara.leg.br" class="logo-camara" accesskey="1"><span class="sr-only">Página inicial</span></a>
+    
+        <div class="nav-top__palacio">
+    
+        </div>
+        
+        <div class="nav-top__menu-superior">
+          <ul aria-label="Ferramentas de apoio" class="links-apoio ">
+              <li class="links-apoio__item links-apoio__item--acessibilidade"><a href="https://www2.camara.leg.br/acessibilidade/recursos-de-acessibilidade" accesskey="0">Acessibilidade</a></li>
+              <li class="links-apoio__item links-apoio__item--faleconosco"><a href="https://www.camara.leg.br/fale-conosco" accesskey="9">Fale Conosco</a></li>
+          </ul>
+          <ul class="orgaos-parceiros" aria-label="Órgãos parceiros">
+            <li class="orgaos-parceiros__item orgaos-parceiros__item--congresso"><a
+                href="http://www.congressonacional.leg.br"><span>Congresso</span></a></li>
+            <li class="orgaos-parceiros__item orgaos-parceiros__item--senado"><a
+                href="http://www.senado.leg.br"><span>Senado</span></a></li>
+          </ul>
+    
+          <div class="lista-idiomas">
+              <button class="botao-idioma-topo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-offset="4,0">
+                  <span class="botao-idioma-topo__sigla">PT</span>
+              </button>
+          
+              <ul class="dropdown-menu dropdown-menu-right l-lista-idiomas" aria-label="Idioma">
+                  <li class="l-lista-idiomas__item">
+                      <a href="https://www2.camara.leg.br/english" class="idioma-topo">
+                          <span class="idioma-topo__bandeira idioma-topo__bandeira--ingles" aria-hidden="true"></span>
+                          <span class="idioma-topo__nome">English</span>
+                          <span class="idioma-topo__sigla">EN</span>
+                      </a>
+                  </li>
+                  <li class="l-lista-idiomas__item">
+                      <a href="https://www2.camara.leg.br/espanol" class="idioma-topo">
+                          <span class="idioma-topo__bandeira idioma-topo__bandeira--espanhol" aria-hidden="true"></span>
+                          <span class="idioma-topo__nome">Español</span>
+                          <span class="idioma-topo__sigla">ES</span>            
+                      </a>
+                  </li>
+              </ul>
+          </div>
+            <a href="https://www.camara.leg.br/login" class="btn nav-top__botao-entrar">Entrar</a>
+        </div>
+        </div>
+      </div>
+    
+      <nav class="menu-global navbar navbar-expand-lg" role="navigation" aria-label="Navegação principal" id="menuglobal">
+        <div class="container menu-global--container">
+    
+          <!-- icone menu -->
+          <a href="#navbarportal" class="menu-global--btnmenu navbar-toggler"
+            aria-label="Navegação principal - abrir/fechar">
+            <span class="menu-global--icon"></span>
+          </a>
+    
+          <!-- icone busca -->
+          <button class="menu-global--btnsearch" type="button" data-toggle="collapse" data-target="#buscaportal"
+            aria-controls="buscaportal" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="fa fa-search"></span>
+          </button>
+    
+          <div class="js-mmenu u-no-fouc u-no-fouc--no-size" id="navbarportal">
+            <ul aria-label="Navegação Principal" id="main-nav" class="">
+                <li class="">
+                  <span class="menu-global__item-temas" id="temas">Assuntos</span>
+                  <ul class="" aria-labelledby="temas">
+                      <li class=""><a href="https://www.camara.leg.br/assuntos/agropecuaria">Agropecuária</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/assuntos/cidades-e-transportes">Cidades e transportes</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/assuntos/ciencia-tecnologia-e-comunicacoes">Ciência, tecnologia e comunicações</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/assuntos/consumidor">Consumidor</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/assuntos/direitos-humanos">Direitos humanos</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/assuntos/economia">Economia</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/assuntos/educacao-cultura-e-esportes">Educação, cultura e esportes</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/assuntos/meio-ambiente-e-energia">Meio ambiente e energia</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/assuntos/politica-e-administracao-publica">Política e administração pública</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/assuntos/relacoes-exteriores">Relações exteriores</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/assuntos/saude">Saúde</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/assuntos/seguranca">Segurança</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/assuntos/trabalho-previdencia-e-assistencia">Trabalho, previdência e assistência</a></li>
+                  </ul>
+                </li>
+                <li class="">
+                  <span class="menu-global__item-institucional" id="institucional">Institucional</span>
+                  <ul class="" aria-labelledby="institucional">
+                      <li class=""><a href="https://www.camara.leg.br/agenda">Agenda</a></li>
+                      <li class=""><a href="https://www2.camara.leg.br/transparencia/servicos-ao-cidadao">Serviços</a></li>
+                      <li class=""><a href="https://www2.camara.leg.br/a-camara/estruturaadm/mesa/presidencia">Presidência</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/biblioteca-e-publicacoes/">Biblioteca e publicações</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/escola-da-camara/">Escola da Câmara</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/papel-e-estrutura/">Papel e estrutura</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/historia-e-arquivo/">História e arquivo</a></li>
+                      <li class=""><a href="https://www2.camara.leg.br/a-camara/visiteacamara">Visite</a></li>
+                  </ul>
+                </li>
+                <li class="">
+                  <span class="menu-global__item-deputados" id="deputados">Deputados</span>
+                  <ul class="" aria-labelledby="deputados">
+                      <li class=""><a href="https://www.camara.leg.br/deputados/quem-sao">Quem são</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/deputados/liderancas-e-bancadas-partidarias">Lideranças e bancadas</a></li>
+                      <li class=""><a href="https://www2.camara.leg.br/deputados/frentes-e-grupos-parlamentares">Frentes e grupos parlamentares</a></li>
+                  </ul>
+                </li>
+                <li class="">
+                  <span class="menu-global__item-atvlegislativa" id="atvlegislativa">Atividade Legislativa</span>
+                  <ul class="" aria-labelledby="atvlegislativa">
+                      <li class=""><a href="https://www.camara.leg.br/busca-portal/proposicoes/pesquisa-simplificada">Propostas legislativas</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/plenario">Plenário</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/comissoes">Comissões</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/sessoesereunioes">Sessões e reuniões</a></li>
+                      <li class=""><a href="https://www2.camara.leg.br/atividade-legislativa/estudos-e-notas-tecnicas">Estudos legislativos</a></li>
+                      <li class=""><a href="https://www2.camara.leg.br/atividade-legislativa/orcamento-da-uniao">Orçamento da União</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/legislacao">Legislação</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/entenda-o-processo-legislativo/">Entenda o processo legislativo</a></li>
+                      <li class=""><a href="https://www2.camara.leg.br/atividade-legislativa/participe">Participe</a></li>
+                  </ul>
+                </li>
+                <li class="">
+                  <span class="menu-global__item-comunicacao" id="comunicacao">Comunicação</span>
+                  <ul class="" aria-labelledby="comunicacao">
+                      <li class=""><a href="https://www.camara.leg.br/noticias">Agência Câmara de Notícias</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/radio">Rádio Câmara</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/tv">TV Câmara</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/banco-imagens">Banco de Imagens</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/assessoria-de-imprensa">Assessoria de Imprensa</a></li>
+                      <li class=""><a href="https://www.camara.leg.br/comprove">Comprove uma notícia</a></li>
+                  </ul>
+                </li>
+                <li class="">
+                  <span class="menu-global__item-transprestcontas" id="transprestcontas">Transparência e prestação de contas</span>
+                  <ul class="" aria-labelledby="transprestcontas">
+                      <li class=""><a href="https://www.camara.leg.br/transparencia/">Transparência</a></li>
+                      <li class=""><a href="https://www2.camara.leg.br/transparencia/prestacao-de-contas">Prestação de contas</a></li>
+                      <li class=""><a href="https://dadosabertos.camara.leg.br/">Dados abertos</a></li>
+                  </ul>
+                </li>
+            </ul>
+          </div>
+    
+          <div class="collapse box-search" id="buscaportal">
+            <form role="search" accesskey="4" class="box-search__busca form-inline" method="get"
+              action="https://www.camara.leg.br/busca-geral">
+              <label for="termo-busca-geral" class="sr-only box-search__label">Pesquise no Portal da Câmara</label>
+              <input class="form-control box-search__campo" type="search" name="termo" id="termo-busca-geral"
+                placeholder="Buscar" aria-label="Search">
+              <button class="btn sr-only box-search__botao" type="submit">Buscar</button>
+              <!-- Colque aqui a estrutura de seu formulário de busca -->
+            </form>
+          </div>
+        </div>
+      </nav>
+    
+    </header>
+
+    <main role="main" id="main-content">
+      <!-- Os cabeçalhos devem aparecer nesta área -->
+        <div class="container largest-container">
+            <nav aria-label="Onde estou">
+                <ol class="breadcrumb portal-breadcrumbs">
+                    <li class="breadcrumb-item"><a href="/">Início</a></li>
+                    <li class="breadcrumb-item">
+                            <a href="https://www.camara.leg.br/deputados/quem-sao">
+                        Deputados
+                            </a>
+                    </li>
+                    <li class="breadcrumb-item">
+                            <a href="https://www.camara.leg.br/deputados/74399">
+                        Onyx Lorenzoni
+                            </a>
+                    </li>
+
+                    <li class="breadcrumb-item active" aria-current="page">Esta página</li>
+                </ol>
+            </nav>
+        </div>
+
+        <div class="g-contexto-compartilhamento u-template-breadcrumbs
+            
+            ">
+        </div>
+
+        <div class="container container-blocos-deputado deputado-inativo">
+
+            <section class="secao-conteudo">
+                <div class="container container--pagina-interna">
+                    <section class="identificacao-deputado" id="identificacao">
+                        <div class="l-identificacao-row">
+                            <div class="l-identificacao-foto">
+                                <div class="foto-deputado">
+                                    <img src="https://www.camara.leg.br/internet/deputado/bandep/74399.jpgmaior.jpg"
+                                        onerror="this.src='https://www.camara.leg.br/tema/assets/images/foto-deputado-sem-foto-peq.png'" class="foto-deputado__imagem"
+                                        alt="Foto do(a) deputado(a) Onyx Lorenzoni">
+                                    <span class="foto-deputado__partido-estado">PL-RS</span>
+                                </div>
+                            </div>
+                    
+                            <div class="l-identificacao-nome">
+                                    <h2 class="nome-deputado" id="nomedeputado">Onyx Lorenzoni</h2>
+                            </div>
+                    
+                            <div class="l-identificacao-cargo">
+                                <span class="cargo-periodo">Biografia</span>
+                            </div>
+                    
+                            <div class="l-identificacao-info">
+                                <ul class="informacoes-deputado" aria-labelledby="nomedeputado">
+                                    <li><span>Nome Civil:</span> ONYX DORNELLES LORENZONI</li>
+                                    <li><span>Nascimento:</span> 03/10/1954</li>
+                                    
+                                    <li><span>Naturalidade:</span> Porto Alegre, BRASIL</li>
+                                    <li><span>Profissões:</span> Empresário; Médico veterinário</li>
+                                    
+                                    <li><span>Escolaridade:</span> Superior</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>                    <section class="biografia-detalhes-deputado">
+                        <br/>
+                            <strong>Mandatos (na Câmara dos Deputados):</strong>
+                            <p> Deputado(a) Federal - 2003-2007, RS, PFL, Dt. Posse: 01/02/2003; Deputado(a) Federal - 2007-2011, RS, PFL, Dt. Posse: 01/02/2007; Deputado(a) Federal - 2011-2015, RS, DEM, Dt. Posse: 01/02/2011; Deputado(a) Federal - 2015-2019, RS, DEM, Dt. Posse: 01/02/2015; Deputado(a) Federal - 2019-2023, RS, DEM, Dt. Posse: 01/02/2019.</p>
+                    
+                        <div class="bioOutros" tal:condition="python: dados['MOSTRAPROPOSICOES'] == 'S'">
+                            <p>
+                                <a href='https://www.camara.leg.br/busca-portal?contextoBusca=BuscaProposicoes&pagina=1&order=data&abaEspecifica=true&q=autores.ideCadastro%3A 74399'
+                                title="Proposições de Autoria do Deputado">
+                                <strong>Proposições de Autoria do Deputado</strong>
+                                </a>
+                            </p>
+                            <p>
+                                <a href="https://www.camara.leg.br/busca-portal?contextoBusca=BuscaProposicoes&pagina=1&order=data&abaEspecifica=true&q=autores.ideCadastro%3A 74399%20AND%20estados.descricao%3A%22Transformado%20em%20Norma%20Jur%C3%ADdica%22"
+                                title="Proposições de Autoria do Deputado Transformadas em Norma Jurídica">
+                                <strong>Proposições de Autoria do Deputado Transformadas em Norma Jurídica</strong>
+                                </a>
+                            </p>
+                            <p>
+                                <a href='https://www.camara.leg.br/busca-portal?contextoBusca=BuscaProposicoes&pagina=1&order=data&abaEspecifica=true&q=relatores.ideCadastro%3A74399'
+                                title="Proposições Relatadas">
+                                <strong>Proposições Relatadas pelo Deputado</strong>
+                                </a>
+                            </p>
+                            <p>
+                                <a href="https://www.camara.leg.br/busca-portal?contextoBusca=BuscaProposicoes&pagina=1&order=data&abaEspecifica=true&q=relatores.ideCadastro%3A 74399%20AND%20estados.descricao%3A%22Transformado%20em%20Norma%20Jur%C3%ADdica%22"
+                                title="Proposições Relatadas Transformadas em Norma Jurídica">
+                                <strong>Proposições Relatadas Transformadas em Norma Jurídica</strong>
+                                </a>
+                            </p>
+                        </div>
+                    
+                    
+                    
+                            <strong>Licenças:</strong>
+                            <p>Licenciou-se do mandato de Deputado(a) Federal, na Legislatura 2015-2019, para assumir o cargo de Ministro Extraordinário Coordenador de Equipe de Transição Governamental, a partir de 5 de Novembro de 2018. Licenciou-se do mandato de Deputado(a) Federal, na Legislatura 2019-2023, para assumir o cargo de Ministro de Estado Chefe da Casa Civil da Presidência da República, a partir de 3 de Fevereiro de 2019. Reassumiu, em 7 de Fevereiro de 2019. Licenciou-se do mandato de Deputado(a) Federal, na Legislatura 2019-2023, para assumir o cargo de Chefe da Casa Civil da Presidência da República, a partir de 9 de Fevereiro de 2019. Reassumiu, em 9 de Julho de 2019. Licenciou-se do mandato de Deputado(a) Federal, na Legislatura 2019-2023, para assumir o cargo de Ministro de Estado Chefe da Casa Civil da Presidência da República, a partir de 15 de Julho de 2019. Reassumiu, em 6 de Agosto de 2019. Licenciou-se do mandato de Deputado(a) Federal, na Legislatura 2019-2023, para assumir o cargo de Ministro de Estado Chefe da Casa Civil da Presidência da República, a partir de 8 de Agosto de 2019. Reassumiu, em 29 de Janeiro de 2021. Licenciou-se do mandato de Deputado(a) Federal, na Legislatura 2019-2023, para assumir o cargo de Ministro de Estado da Cidadania, a partir de 2 de Fevereiro de 2021. Licenciou-se do mandato de Deputado(a) Federal, na Legislatura 2019-2023, para assumir o cargo de Ministro de Estado Chefe da Secretaria-Geral da Presidência da República, a partir de 18 de Fevereiro de 2021. Reassumiu, em 26 de Fevereiro de 2021. Licenciou-se do mandato de Deputado(a) Federal, na Legislatura 2019-2023, para assumir o cargo de Ministro de Estado Chefe da Secretaria-Geral da Presidência da República, a partir de 3 de Março de 2021. Licenciou-se do mandato de Deputado(a) Federal, na Legislatura 2019-2023, para assumir o cargo de Ministro de Estado do Trabalho e Previdência, a partir de 28 de Julho de 2021. Reassumiu, em 11 de Novembro de 2021. Licenciou-se do mandato de Deputado(a) Federal, na Legislatura 2019-2023, para assumir o cargo de Ministro de Estado do Trabalho e Previdência, a partir de 22 de Novembro de 2021. Reassumiu, em 31 de Março de 2022. </p>
+                    
+                    
+                    
+                    
+                            <strong>Filiações Partidárias:</strong>
+                            <p>PL, 2022</p>
+                    
+                            <strong>Atividades Partidárias:</strong>
+                            <p>Atividade Partidária - Câmara dos Deputados <br />Vice-Líder, PFL, 2003;  Líder, DEM, 6/2/2007-19/2/2008;  Vice-Líder, DEM, 22/4/2008-25/4/2008, 5/11/2008-, 18/2/2009-, 9/2/2011-1/2/2013, 5/2/2013-, 18/3/2015-16/4/2016, 17/4/2016-4/8/2016; 9/8/2016-27/02/2018; Líder Substituto, DEM, 3/11/2009-9/11/2009, 10/11/2009, 15/12/2009, 28/4/2011, 2/6/2011-3/6/2011, 20/10/2011-21/10/2011; Vice-Líder, PL, 14/12/2022 - 15/12/2022.</p>
+                    
+                            <strong>Atividades Parlamentares:</strong>
+                            <p> <br />CÂMARA DOS DEPUTADOS - 56ª Legislatura: <br /> <br />COMISSÃO PERMANENTE: <br />Comissão de Segurança Pública e Combate ao Crime Organizado - CSPCCO: Suplente, 27/04/2022 - 31/01/2023, Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR: Titular, 27/04/2022 - 31/01/2023,  <br /> <br />CÂMARA DOS DEPUTADOS - 55ª Legislatura: <br />Comissão de Segurança Pública e Combate ao Crime Organizado - CSPCCO: Suplente, 03/03/2015 - 02/02/2016, Comissão de Educação - CE: Suplente, 03/05/2016 - 02/02/2017, Comissão de Constituição e Justiça e de Cidadania - CCJC: Suplente, 03/05/2016 - 14/12/2016, 15/12/2016 - 02/02/2017, Comissão de Educação - CE: Suplente, 22/03/2017 - 02/02/2018, Comissão de Constituição e Justiça e de Cidadania - CCJC: Suplente, 22/03/2017 - 13/07/2017, 26/10/2017 - 02/02/2018, Comissão de Educação - CE: Suplente, 03/04/2018 - 31/01/2019, Comissão de Viação e Transportes - CVT: Suplente, 03/05/2018 - 15/05/2018, 16/05/2018 - 06/06/2018, 14/06/2018 - 25/06/2018, 03/07/2018 - 31/01/2019, Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR: Titular, 03/03/2015 - 02/02/2016, Comissão de Segurança Pública e Combate ao Crime Organizado - CSPCCO: Titular, 03/05/2016 - 02/02/2017, Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR: Titular, 03/05/2016 - 02/02/2017, 22/03/2017 - 02/02/2018, Comissão de Segurança Pública e Combate ao Crime Organizado - CSPCCO: Titular, 22/03/2017 - 02/02/2018, 03/04/2018 - 31/01/2019, Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR: Titular, 03/04/2018 - 31/01/2019,  <br />COMISSÃO ESPECIAL: <br />PL 0827/15 - LEI DE PROTEÇÃO DE CULTIVARES: 1º Vice-Presidente, 17/06/2015 - 31/01/2019, PL 4850/16 - ESTABELECE MEDIDAS CONTRA A CORRUPÇÃO: Relator, 13/07/2016 - 31/01/2019, PL 3722/12 - DESARMAMENTO: Suplente, 17/03/2015 - 16/09/2015, PL 1775/15 - REGISTRO CIVIL NACIONAL (RCN): Suplente, 30/06/2015 - 11/05/2017, PEC 172/12 - ENCARGO VINCULADO REPASSE NECESSÁRIO: Suplente, 01/07/2015 - 25/08/2015, PL 3722/12 - DESARMAMENTO: Suplente, 22/09/2015 - 22/10/2015, PL 6299/02 - REGULA DEFENSIVOS FITOSSANITÁRIOS: Suplente, 28/04/2016 - 31/01/2019, PL 5864/16 - CARREIRA DA RECEITA FEDERAL: Suplente, 22/08/2016 - 31/01/2019, PEC 287/16 - REFORMA DA PREVIDÊNCIA: Suplente, 09/02/2017 - 31/01/2019, PL 0827/15 - LEI DE PROTEÇÃO DE CULTIVARES: Titular, 11/06/2015 - 31/01/2019, PL 4850/16 - ESTABELECE MEDIDAS CONTRA A CORRUPÇÃO: Titular, 12/07/2016 - 31/01/2019,  <br />COMISSÃO PARLAMENTAR DE INQUÉRITO: <br />CPI - PETROBRAS: Suplente, 21/10/2015 - 22/10/2015, Titular, 25/02/2015 - 21/10/2015, CPI - MAUS-TRATOS DE ANIMAIS: Titular, 22/09/2015 - 02/02/2016,  <br />CONSELHO: <br />Conselho de Ética e Decoro Parlamentar: Suplente, 12/03/2015 - 10/06/2016, 05/07/2016 - 10/04/2017,  <br /> <br />CÂMARA DOS DEPUTADOS - 54ª Legislatura: <br /> <br />COMISSÃO PERMANENTE: <br />Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR: 1º Vice-Presidente, 26/02/2014 - 31/01/2015, Suplente, 01/03/2011 - 31/01/2012, Comissão de Educação - CE: Suplente, 12/07/2011 - 31/01/2012, Comissão de Defesa do Consumidor - CDC: Suplente, 16/08/2011 - 22/08/2011, Comissão de Fiscalização Financeira e Controle - CFFC: Suplente, 18/10/2011 - 16/11/2011, Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR: Suplente, 07/03/2012 - 02/02/2013, Comissão de Educação - CE: Suplente, 07/03/2012 - 02/02/2013, Comissão de Segurança Pública e Combate ao Crime Organizado - CSPCCO: Suplente, 07/03/2012 - 02/02/2013, Comissão de Fiscalização Financeira e Controle - CFFC: Suplente, 03/12/2012 - 02/02/2013, Comissão de Defesa do Consumidor - CDC: Suplente, 18/12/2012 - 02/02/2013, Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR: Suplente, 05/03/2013 - 12/03/2013, Comissão de Constituição e Justiça e de Cidadania - CCJC: Suplente, 05/03/2013 - 03/02/2014, Comissão de Segurança Pública e Combate ao Crime Organizado - CSPCCO: Suplente, 14/03/2013 - 03/02/2014, 25/02/2014 - 31/01/2015, Comissão de Constituição e Justiça e de Cidadania - CCJC: Suplente, 25/02/2014 - 08/04/2014, 10/04/2014 - 22/05/2014, 22/05/2014 - 16/09/2014, 28/10/2014 - 31/01/2015, Titular, 01/03/2011 - 16/08/2011, Comissão de Viação e Transportes - CVT: Titular, 16/08/2011 - 22/08/2011, Comissão de Constituição e Justiça e de Cidadania - CCJC: Titular, 22/08/2011 - 23/08/2011, Comissão de Ciência, Tecnologia e Inovação - CCTI: Titular, 23/08/2011 - 23/08/2011, Comissão de Constituição e Justiça e de Cidadania - CCJC: Titular, 23/08/2011 - 31/01/2012, 07/03/2012 - 02/02/2013, Comissão de Fiscalização Financeira e Controle - CFFC: Titular, 05/03/2013 - 12/03/2013, Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR: Titular, 12/03/2013 - 03/02/2014, Comissão de Cultura - CCULT: Titular, 07/08/2013 - 03/02/2014, Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR: Titular, 25/02/2014 - 31/01/2015,  <br />COMISSÃO ESPECIAL: <br />PL 8035/10 - PLANO NACIONAL DE EDUCAÇÃO: Suplente, 07/04/2011 - 26/06/2014, PEC 010/95 - SISTEMA DISTRITAL MISTO: Suplente, 01/06/2011 - 31/01/2015, PEC 061/11 - DRU (DESVINCULAÇÃO DE RECEITAS UNIÃO): Suplente, 27/09/2011 - 21/12/2011, PL 2330/11 - COPAS DO MUNDO E DAS CONFEDERAÇÕES: Suplente, 19/10/2011 - 07/11/2011, PL 6025/05 - CÓDIGO DE PROCESSO CIVIL: Suplente, 16/07/2013 - 17/07/2013, REDUÇÃO DOS IMPOSTOS SOBRE OS MEDICAMENTOS: Suplente, 14/05/2014 - 31/01/2015, PL 3722/12 - DISCIPLINA NORMAS SOBRE ARMAS DE FOGO: Suplente, 29/05/2014 - 31/01/2015, TRABALHO TERCEIRIZADO: Titular, 31/05/2011 - 23/11/2011, PEC 478/10 - IGUALDADE DE DIREITOS TRABALHISTAS: Titular, 13/09/2011 - 02/04/2013, PL 6826/10 - ATOS CONTRA A ADMINISTRAÇÃO PÚBLICA: Titular, 03/10/2011 - 01/08/2013, PL 7197/02 - MEDIDAS SÓCIO-EDUCATIVAS A INFRATORES: Titular, 12/06/2013 - 31/01/2015, PL 3555/04 - NORMAS GERAIS CONTRATO SEGURO PRIVADO: Titular, 24/02/2014 - 31/01/2015,  <br />COMISSÃO EXTERNA: <br />INVESTIGAÇÕES SOBRE A SBM OFFSHORE E A PETROBRAS: Titular, 25/03/2014 - 31/01/2015,  <br />CONSELHO: <br />Conselho de Ética e Decoro Parlamentar: Titular, 16/03/2011 - 25/03/2013, 25/03/2013 - 31/01/2015. <br />CÂMARA DOS DEPUTADOS - Legislaturas anteriores à 54ª <br />COMISSÕES PERMANENTES: Agricultura, Pecuária, Abastecimento Desenvolvimento Rural: Presidente, 4/3/2008-4/3/2009, e Titular, 3/2006-1/2007, 4/3/2008-2/2/2009, 4/3/2009-1/2/2010,3/3/2010-; Constituição e Justiça e de Cidadania: Suplente, -3/2005, 3/2005-3/2006, 3/2006-4/2006, 4/2006-1/2007, 28/2/2007-8/3/2007, 4/3/2009-1/2/2010, 3/3/2010-; Constituição e Justiça e de Redação: Titular; Desenvolvimento Econômico, Indústria e Comércio: Titular, 27/2/2007-19/3/2007; Desenvolvimento Urbano: Suplente, 20/3/2009-1/2/2010; Direitos Humanos e Minorias: Titular, 3/5/2007-9/8/2007;  Educação e Cultura: Titular, 3/2005-3/2006; Finanças e Tributação: Titular, -3/2005; Fiscalização Financeira e Controle: Suplente, 14/4/2010-10/11/2010; Meio Ambiente e Desenvolvimento Sustentável: Titular, 23/8/2007-6/12/2007; Minas e Energia: Suplente; Segurança Pública e Combate ao Crime Organizado: Titular, 5/3/2007-22/3/2007; Trabalho, Administração e Serviço Público: Titular, 15/8/2007-17/8/2007. <br />COMISSÕES ESPECIAIS:  Crise Econômico-Financeira - Agricultura: 2º Vice-Presidente, 25/3/2009-, e Titular, 24/3/2009-; MSC nº 183/04, Convenção da ONU Contra Corrupção: Titular-; PEC nº 40/03, Reforma da Previdência: 1º Vice-Presidente-, e Titular-; PEC nº 41/03, Reforma Tributária: Suplente-; PEC nº 58/03, Alienação de Terras: Titular-; PEC nº 215/03, Acumulação de Cargos para Militares: Titular, 4/2005-; PEC nº 227/04, Reforma da Previdência: 1º Vice-Presidente e Titular; PEC nº 334/96, Nepotismo: Titular, 5/2005-; PEC nº 349/01, Abolir o Voto Secreto: Suplente-; PEC nº 555/06, Contribuição de Inativos: Suplente, 24/3/2010-; PL nº 2.401/03, Biossegurança: Titular, -3/2005; PL nº 2.412/07, Execução Adm da Dívida Ativa: Titular, 2/2/2010; PL nº 2.502/07, Pré-Sal/Exploração e Produção: Suplente, 3/11/2009-4/11/2009, 4/11/2009-; PL nº 3.057/00, Parcelamento de Solo Urbano: Titular, 6/2006-; PL nº 3.960/08, Criação Cargos Banco Central e Pesca: Titular, 26/11/2008-; PL nº 4.679/01, Adição de Farinha de Mandioca: Titular, 4/2006-; PL nº 4.874/01, Estatuto do Desporto: Suplente-; PL nº 5.476/01, Tarifas da Telefonia Fixa: Suplente, 5/2005-; PL nº 7.200/06, Reforma Universitária: Titular, 7/2006-; Reforma da Previdência: 1º Vice-Presidente-, e Titular-; Reforma Trabalhista: Suplente-. <br />COMISSÕES EXTERNAS: Situação da Estiagem no RS: Titular, 30/4/2009-6/5/2009; CEXESTRS, Situação da Estiagem no Rio Grande do Sul: Titular, 16/3/2010-. <br />CPIs: Escutas Telefônicas Clandestinas: Suplente, 18/3/2009-12/5/2009; Extermínio no Nordeste: Titular; Pirataria de Produtos Industrializados: Titular; Tráfico de Armas: Suplente-.</p>
+                    
+                            <strong>Mandatos Externos:</strong>
+                            <p>Deputado(a) Estadual, RS, Partido: PL, Período: 1995 a 1998; Deputado(a) Estadual, RS, Partido: PFL, Período: 1999 a 2003.</p>
+                    
+                            <strong>Atividades Profissionais e Cargos Públicos:</strong>
+                            <p>Médico Veterinário ,  Hospital Veterinário Lorenzoni, Porto Alegre, RS, 1973; Empresário, Organização de Serviços Veterinários LTDA, Guaíba, RS, 1985; Ministro de Estado, Casa Civil/Presidência da República, Brasília, DF, 2019 - 2020; Ministro de Estado, Ministério da Cidadania, Brasília, DF, 2020 - 2021; Ministro de Estado,  Secretaria-Geral da Presidência da República, Brasília, DF, 2021 - 2021; Ministro de Estado, Ministério do Trabalho e da Previdência, 2021.</p>
+                    
+                            <strong>Atividades Sindicais Representativas de Classe Associativas e Conselhos:</strong>
+                            <p>Presidente, Sindicato dos Médicos Veterinários , Porto Alegre, RS, 1984 - 1990; Membro, Conselho do Sport Club Internacional, Porto Alegre, 1999.</p>
+                    
+                        <strong>Estudos e Cursos Diversos:</strong>
+                        <p>Medicina Veterinária, Universidade Federal de Santa Maria - UFSM , Santa Maria, RS, 1973 - 1976.</p>
+                    
+                            <strong>Obras Publicadas:</strong>
+                            <p>&#x0D; <br />500 dias do PT no Governo são outros 500.. Porto Alegre: Sulina, 2000.</p>
+                    
+                    
+                    
+                    </section>                </div>
+            </section>
+        </div>
+
+    </main>
+
+
+    <div class="user-feedback">
+    
+        <div class="user-feedback__trigger">
+            <a class="button button--normal-case" href="#user-feedback-form" data-toggle="modal">
+                <span class="btn__icon icon-loadspeaker" aria-hidden="true"></span>
+                comunicar erro ou fazer sugestão
+            </a>
+        </div>
+        <div class="user-feedback__modal">
+            <div id="user-feedback-form" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="user-feedback-form-heading">
+                <div class="modal-dialog modal-user-feedback__dialog" role="document">
+                    <div class="modal-content modal-user-feedback__content">
+    
+                        <div class="modal-header modal-user-feedback__header">
+                            <h2 id="user-feedback-form-heading" class="modal-user-feedback__heading">Comunicar erro ou fazer sugestão</h2>
+                            <button type="button" class="close modal-user-feedback__close" data-dismiss="modal" aria-label="Fechar">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+    
+                        <div class="modal-body modal-user-feedback__body">
+                            <p>
+                                Use esse formulário para comunicar erros ou fazer sugestões sobre o novo portal da Câmara dos Deputados.
+                                Para qualquer outro assunto, utilize o <a href="http://camara.custhelp.com/">Fale Conosco</a>.
+                            </p>
+                            <div id="mensagemErroFeedback" class="alert alert-danger alert-dismissible" style="display: none;" role="alert">
+                                <span id="textoMensagemErroFeedback">Mensagem</span>
+                                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+                            <form id="feedback">
+                                <div class="form-group">
+                                    <label for="feedbackEmail">Seu e-mail</label>
+                                    <input type="email" class="form-control" id="feedbackEmail" placeholder="Informe seu endereço de e-mail" required="required">
+                                </div>
+                                <div class="form-group">
+                                    <label for="feedbackContent">Descrição do erro ou sugestão (máximo de 500 caracteres).</label>
+                                    <textarea rows="6" class="form-control" id="feedbackContent" required="required" maxlength="500"></textarea>
+                                </div>
+                                <button id="btnEnviarSugestaoOuErro" type="submit" class="button">Enviar</button>
+                                <button type="reset" class="button button--secondary" data-dismiss="modal">Cancelar</button>
+                            </form>
+    
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+            <div class="user-feedback__modal user-feedback__modal--finish">
+                <div id="user-feedback-finish" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="user-feedback-finish-heading">
+                    <div class="modal-dialog modal-user-feedback__dialog" role="document">
+                        <div class="modal-content modal-user-feedback__content">
+        
+                            <div class="modal-header modal-user-feedback__header">
+                                <span id="user-feedback-finish-heading" class="modal-user-feedback__heading">Mensagem enviada</span>
+                                <button type="button" class="close modal-user-feedback__close" data-dismiss="modal" aria-label="Fechar">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                            </div>
+        
+                            <div class="modal-body modal-user-feedback__body">
+                                <p>Sua mensagem foi enviada.</p>
+                                <button type="button" class="button" data-dismiss="modal">Fechar</button>
+        
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+    </div><footer role="contentinfo" class="rodape-portal">
+    
+        <!-- Coloque aqui o endereço e demais informações de assinatura -->
+        <address class="rodape-portal-info">
+            <div class="container">
+    
+                <div class="rodape-portal-info__nome">
+                    <p>
+                        <strong id="legislaturaRodape"></strong>
+                    </p>
+                </div>
+    
+                <div class="l-rodape-info">
+                    <div class="l-rodape-info__local rodape-portal-info__texto">
+                        <span class="rodape-info">Câmara dos Deputados - Palácio do Congresso Nacional - Praça dos Três
+                            Poderes</span>
+                        <span class="rodape-info">Brasília - DF - Brasil - CEP 70160-900</span>
+                        <span class="rodape-info"><span class="rodape-info__destaque">CNPJ:</span> 00.530.352/0001-59</span>
+                    </div>
+    
+                    <div class="l-rodape-info__telefones rodape-portal-info__texto">
+                        <ul class="list-unstyled" aria-label="Número para contato e horário de atendimento">
+                            <li><span class="rodape-info__destaque">Disque-Câmara:</span>
+                                <a href="tel:0800-0-619-619">0800-0-619-619</a>, das 8h às 20h
+                            </li>
+                            <li><span class="rodape-info__destaque">Atendimento por WhatsApp:</span>
+                                <a href="https://wa.me//556132160000?text">(61) 3216-0000</a>, das 8h às 19h
+                            </li>
+                            <li><span class="rodape-info__destaque">Atendimento presencial:</span> das 9h às 19h</li>
+                        </ul>
+                    </div>
+                </div>
+    
+            </div>
+        </address>
+        <!-- Coloque aqui a lista de redes sociais da Câmara -->
+        <div class="rodape-portal-links rodape-portal-links--redes-sociais">
+            <div class="container">
+                <ul class="rodape-portal-links__lista" aria-label="Câmara nas redes sociais">
+                    <li class="rodape-portal-links__item">
+                        <a href="https://whatsapp.com/channel/0029Va2fexI3gvWgfMs6Fv31" class="rodape-portal-links__link">
+                            <span class="g-social-icon-outline g-social-icon-outline--whatsapp" aria-hidden="true"></span>
+                            <span class="sr-only">Whatsapp</span>
+                        </a>
+                    </li>
+    
+                    <li class="rodape-portal-links__item">
+                        <a href="https://t.me/CamaradosDeputados" class="rodape-portal-links__link">
+                            <span class="g-social-icon-outline g-social-icon-outline--telegram" aria-hidden="true"></span>
+                            <span class="sr-only">Telegram</span>
+                        </a>
+                    </li>
+    
+                    <li class="rodape-portal-links__item">
+                        <a href="https://www.facebook.com/camaradeputados" class="rodape-portal-links__link">
+                            <span class="g-social-icon-outline g-social-icon-outline--facebook" aria-hidden="true"></span>
+                            <span class="sr-only">Facebook</span>
+                        </a>
+                    </li>
+    
+                    <li class="rodape-portal-links__item">
+                        <a href="https://twitter.com/camaradeputados" class="rodape-portal-links__link">
+                            <span class="g-social-icon-outline g-social-icon-outline--twitter" aria-hidden="true"></span>
+                            <span class="sr-only">X</span>
+                        </a>
+                    </li>
+    
+                    <li class="rodape-portal-links__item">
+                        <a href="https://www.youtube.com/channel/UC-ZkSRh-7UEuwXJQ9UMCFJA"
+                            class="rodape-portal-links__link">
+                            <span class="g-social-icon-outline g-social-icon-outline--youtube" aria-hidden="true"></span>
+                            <span class="sr-only">Youtube</span>
+                        </a>
+                    </li>
+    
+                    <li class="rodape-portal-links__item">
+                        <a href="https://tiktok.com/@camaradosdeputados" class="rodape-portal-links__link">
+                            <span class="g-social-icon-outline g-social-icon-outline--tiktok" aria-hidden="true"></span>
+                            <span class="sr-only">Tiktok</span>
+                        </a>
+                    </li>
+    
+                    <li class="rodape-portal-links__item">
+                        <a href="https://www.instagram.com/camaradosdeputados" class="rodape-portal-links__link">
+                            <span class="g-social-icon-outline g-social-icon-outline--instagram" aria-hidden="true"></span>
+                            <span class="sr-only">Instagram</span>
+                        </a>
+                    </li>
+    
+                    <li class="rodape-portal-links__item">
+                        <a href="https://www.threads.com/@camaradosdeputados" class="rodape-portal-links__link">
+                            <span class="g-social-icon-outline g-social-icon-outline--threads" aria-hidden="true"></span>
+                            <span class="sr-only">Threads</span>
+                        </a>
+                    </li>
+    
+                    <li class="rodape-portal-links__item">
+                        <a href="https://bsky.app/profile/camara.leg.br" class="rodape-portal-links__link">
+                            <span class="g-social-icon-outline g-social-icon-outline--bluesky" aria-hidden="true"></span>
+                            <span class="sr-only">Bluesky</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <!-- Coloque aqui a lista de links de apoio do rodapé -->
+        <div class="rodape-portal-links rodape-portal-links--apoio">
+            <div class="container">
+                <ul class="rodape-portal-links__lista" aria-label="Links de apoio">
+                    <li class="rodape-portal-links__item">
+                        <a href="https://www2.camara.leg.br/sobre-o-portal" class="rodape-portal-links__link">Sobre o
+                            portal</a>
+                    </li>
+    
+                    <li class="rodape-portal-links__item">
+                        <a href="https://www2.camara.leg.br/termo-de-uso-e-politica-de-privacidade"
+                            class="rodape-portal-links__link">Termos de uso</a>
+                    </li>
+    
+                    <li class="rodape-portal-links__item">
+                        <a href="https://www2.camara.leg.br/aplicativos/" class="rodape-portal-links__link">Aplicativos</a>
+                    </li>
+    
+                    <li class="rodape-portal-links__item">
+                        <a href="https://www.camara.leg.br/extranet" class="rodape-portal-links__link">Extranet</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    
+    <script>
+        //Google Tag Manager
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-T3NRZN7V');
+        //End Google Tag Manager
+    
+        function numeroLegislatura(data) {
+            data.setDate(data.getDate() - 31);
+            return Math.floor((data.getFullYear() - 1795) / 4);
+        }
+    
+        function numeroSessaoLegislativa(data) {
+            data.setDate(data.getDate() - 1);
+            return ((data.getFullYear() - 1795) % 4) + 1;
+        }
+    
+        const hoje = new Date();
+        document.getElementById("legislaturaRodape").innerHTML = `${numeroLegislatura(hoje)}ª Legislatura - ${numeroSessaoLegislativa(hoje)}ª Sessão Legislativa Ordinária`
+    
+    </script>
+    
+    <script src="https://www.camara.leg.br/tema/global/vendor-bundle.js"></script>
+    <script src="https://www.camara.leg.br/tema/global/camara-bundle.js"></script>
+
+    <script>
+      /*
+       * Tratamento do problema do Flash Of Unstyled Content - FOUC
+       * Usa uma função imediatamente invocada para não poluir o namespace global.
+       * Há muito javascript aqui sem jQuery; tem que ser assim para maior robustez na solução.
+       * É preciso ter o cuidado de escrever código o mais compatível possível.
+       */
+      (function () {
+
+        var isJQueryLoaded;
+
+        // Remove a classe informada de todos os elementos que a possuam
+        function removeClass(className) {
+
+          var elements,
+            test;
+
+          // Cria uma expressão regular usando o nome da classe
+          test = new RegExp('(?:^|\\s)' + className + '(?!\\S)', 'g');
+          // Obtém uma HTMLCollection (live) com os elementos que possuem a classe
+          elements = document.getElementsByClassName(className);
+          // Enquanto houver elementos na coleção, remove a classe
+          while (elements.length > 0) {
+            elements[0].className = elements[0].className.replace(test, '');
+          }
+        }
+
+        // Teste para ver se o jQuery pôde ser carregado.
+        try {
+          // Se $ tiver sido definido, avalia como true.
+          // Se não tiver sido definido, provoca uma exceção.
+          isJQueryLoaded = ($ !== undefined);
+        } catch (e) {
+          isJQueryLoaded = false;
+        }
+
+        if (isJQueryLoaded) {
+          // Se o jQuery tiver sido carregado, remove as classes no-fouc quando no document.ready
+          $(function () {
+            $('.u-no-fouc').removeClass('u-no-fouc u-no-fouc--no-size');
+          });
+        } else {
+          // Se o jQuery não tiver sido carregado,
+          // não espera mais nada e remove as classes no-fouc imediatamente.
+          // Aqui, sem depender de qualquer biblioteca externa.
+          removeClass('u-no-fouc');
+          removeClass('u-no-fouc--no-size');
+        }
+      })();
+    </script>
+  </div>
+  <script defer src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+  <script defer src="https://www.camara.leg.br/tema/assets/vlibras-init.js"></script></body>
+
+</html>

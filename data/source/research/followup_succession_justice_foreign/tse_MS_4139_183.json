@@ -1,0 +1,17 @@
+{
+  "party": "MISSÃO",
+  "id": 183,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 264,
+      "totalElements": 264,
+      "response_sha256": "1a0dd7040848c0b0f2734228544642cce39a7f7bf0802d211ed458d4501ecfde",
+      "retrieved_utc": "2026-09-10T23:40:12Z"
+    }
+  ],
+  "matches": []
+}

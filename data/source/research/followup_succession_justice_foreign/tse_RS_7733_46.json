@@ -1,0 +1,17 @@
+{
+  "party": "CIDADANIA",
+  "id": 46,
+  "uf": "RS",
+  "municipio": "7733",
+  "city": "Garibaldi",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 10,
+      "totalElements": 10,
+      "response_sha256": "14ac5235f483b24f15a06f0df4f43902de446009c3f7dc434db21c7ad7280bca",
+      "retrieved_utc": "2026-09-10T23:37:40Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,14 @@
+{
+  "party": "DEMOCRATA",
+  "id": 60,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=60&currentPage=0&pageSize=10000",
+      "records": 166,
+      "totalElements": 166,
+      "response_sha256": "9e93690659090bbd7d45876aed70d40b4307089844a771e7cb41ad69e0c70bed",
+      "retrieved_utc": "2026-09-10T23:48:24Z"
+    }
+  ],
+  "matches": []
+}

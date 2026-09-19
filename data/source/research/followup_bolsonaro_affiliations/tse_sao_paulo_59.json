@@ -1,0 +1,14 @@
+{
+  "party": "DC",
+  "id": 59,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=59&currentPage=0&pageSize=10000",
+      "records": 5182,
+      "totalElements": 5182,
+      "response_sha256": "7177287254e9965f06acecdab01b048225a3ea0b87f996ecd09345a8ca806080",
+      "retrieved_utc": "2026-09-10T23:44:08Z"
+    }
+  ],
+  "matches": []
+}

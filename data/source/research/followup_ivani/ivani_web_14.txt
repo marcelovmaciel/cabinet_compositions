@@ -1,0 +1,138 @@
+Eleições Brasil - Datasets - Brasil.IO (https://www.brasil.io/dataset/eleicoes-brasil/filiados/)
+citeturn360view0 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({"ref_id":"https://www.brasil.io/dataset/eleicoes-brasil/filiados/","lineno":null}); Total lines: 167
+L0: cite0†  menu
+L1: 
+L2:   * Sua conta arrow_drop_down
+L3: 
+L4:     * cite1†Cadastre-se L5:     * cite2†Login L6:   * Dados arrow_drop_down
+L7: 
+L8:     * cite3†Datasets L9:     * cite4†Páginas Especiais L10:     * cite5†API L11:   * Sobre arrow_drop_down
+L12: 
+L13:     * cite6†Manifesto L14:     * cite7†Colabore L15:   * cite8†Blog†blog.brasil.io L16:   * cite9†APOIE L17: 
+L18:   * Sua conta arrow_drop_down
+L19: 
+L20:     * cite1†Cadastre-se L21:     * cite2†Login L22:   * Dados arrow_drop_down
+L23: 
+L24:     * cite3†Datasets L25:     * cite4†Páginas Especiais L26:     * cite5†API L27:   * Sobre arrow_drop_down
+L28:     * cite6†Manifesto L29:     * cite7†Colabore L30:   * cite8†Blog†blog.brasil.io L31:   * cite9†APOIE L32: #### Eleições Brasil
+L33: 
+L34: Dados das eleições brasileiras, desde 1996, capturados do TSE, como: filiados a partidos, candidatos e votação. Note que nem todos os arquivos estão completos - verifique no TSE os que estão completos.
+L35:   * Fonte original: cite10†Tribunal Superior Eleitoral do Brasil (TSE)†www.tse.jus.br L36:   * Libertado por: cite11†Álvaro Justen†twitter.com L37:   * Código-fonte: cite12†https://github.com/turicas/eleicoes-brasil†github.com L38:   * Licença: cite13†Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)†creativecommons.org L39:   * Links relacionados: cite14†Perguntas frequentes sobre a filiação partidária†www.tse.jus.br L40: 
+L41: Tabelas: cite15†bens_candidatos , cite16†candidatos , filiados, cite17†votacoes .
+L42: Quer baixar os dados completos ou precisa acessá-los de maneira automatizada? Antes de mais nada, cite18†leia a documentação†blog.brasil.io e depois cite19†baixe o dataset completo ou cite20†utilize nossa API .
+L43: 
+L44:   * cite21†Dados L45:   * cite22†Metadados L46: ##### Filtros
+L47: 
+L48: Busca
+L49: 
+L50: Data da Desfiliação
+L51: 
+L52: Data da Filiação
+L53: 
+L54: Data da Regularização
+L55: 
+L56: Data do Cancelamento
+L57: 
+L58: Data do Processamento
+L59: 
+L60: Motivo do Cancelamento  Todos A pedido do eleitor A pedido do partido Cancelamento automático Judicial (vazio)
+L61: 
+L62: Filiado
+L63: 
+L64: Município
+L65: 
+L66: Nome do Partido
+L67: 
+L68: Título de Eleitor
+L69: 
+L70: Partido  Todos AVANTE DEM NOVO PCB PC DO B PCO PDT PEN PHS PMB PMDB PMN PODE PP PPL PPS PR PRB PROS PRP PRTB PSB PSC PSD PSDB PSDC PSL PSOL PSTU PT PTB PTC PV REDE SD
+L71: Situação  Todos CANCELADO DESFILIADO REGULAR SUB JUDICE
+L72: 
+L73: Tipo do Registro  Todos OFICIAL
+L74: 
+L75: UF  Todos AC AL AM AP BA CE DF ES GO MA MG MS MT PA PB PE PI PR RJ RN RO RR RS SC SE SP TO
+L76: 
+L77: Zona Eleitoral
+L78: 
+L79: Dados capturados em 27 de Abril de 2018. Importação dos dados feita em 12 de Agosto de 2018 às 22:38:26.
+L80: 
+L81: cite19† Baixar dados completos em CSV  L82: 
+L83:   * 1-50 de um total de 22.019.796
+L84:   * cite23†chevron_right L85:   Data da Desfiliação Data da Filiação Data da Regularização Data do Cancelamento Data do Processamento Motivo do Cancelamento Filiado Título de Eleitor Partido Situação Tipo do Registro UF
+L86: 02 de Dezembro de 9990 15 de Abril de 2016 JOSE UBALDO BARBOSA SAMPAIO 062872260558 DEM REGULAR OFICIAL BA
+L87: 04 de Janeiro de 9988 20 de Janeiro de 2010 15 de Abril de 2016 Judicial JOAO DE DEUS DA SILVA 006325461570 PMDB CANCELADO OFICIAL PI
+L88: 08 de Outubro de 9820 15 de Abril de 2016 CILIA RABELLO POSSATTO 043159560175 PP REGULAR OFICIAL SP
+L89: 09 de Outubro de 9811 27 de Janeiro de 2011 17 de Abril de 2012 Judicial JOSE LUZIA DA COSTA 014984780248 PTB CANCELADO OFICIAL MG
+L90: 26 de Agosto de 9200 04 de Janeiro de 2010 15 de Abril de 2016 Cancelamento automático IZILDA MARIA DE ALMEIDA GOMES 004118131880 PR CANCELADO OFICIAL MT
+L91: 30 de Junho de 9200 04 de Janeiro de 2010 10 de Novembro de 2007 Judicial ORIVALDO PEREIRA DE OLIVEIRA 026594830582 PRP CANCELADO OFICIAL BA
+L92: 08 de Abril de 9216 29 de Fevereiro de 9200 08 de Janeiro de 2010 15 de Abril de 2016 Judicial KATIA CILENE CASSIANO DE ARAUJO 082703710507 PRTB CANCELADO OFICIAL BA
+L93: 14 de Junho de 9199 16 de Dezembro de 2009 19 de Outubro de 2011 Judicial JOSEMARIA DIAS ALMEIDA 078370310507 PMDB CANCELADO OFICIAL BA
+L94: 10 de Setembro de 9198 30 de Novembro de 9199 14 de Abril de 2018 Judicial JORGE SILVINO DAL CASTEL 037374020981 DEM CANCELADO OFICIAL SC
+L95: 08 de Agosto de 9195 30 de Novembro de 9196 14 de Abril de 2018 Judicial ISABEL MARCONCINI MUCER 007082890949 DEM CANCELADO OFICIAL SC
+L96: 12 de Abril de 9195 30 de Novembro de 9196 14 de Abril de 2018 Judicial HERONDINA SOUZA COELHO 006772820906 DEM CANCELADO OFICIAL SC
+L97: 08 de Janeiro de 9195 30 de Novembro de 9196 14 de Abril de 2018 Judicial JACKELINE DAROS ABREU DE OLIVEIRA 006789740990 DEM CANCELADO OFICIAL SC
+L98: 02 de Novembro de 8198 30 de Novembro de 8199 14 de Abril de 2018 Judicial ILTON DONATO DE ALMEIDA 006710240973 DEM CANCELADO OFICIAL SC
+L99: 30 de Setembro de 8000 15 de Outubro de 2011 VIVIANE FRANCIELI ROCHA 071780150671 DEM REGULAR OFICIAL PR
+L100: 25 de Abril de 7997 19 de Outubro de 2011 LENIR LUCAS 025385601074 PTB REGULAR OFICIAL GO
+L101: 20 de Agosto de 7200 18 de Abril de 2017 CARLOS ALBERTO RODRIGUES DE OLIVEIRA 050231301082 PSDB REGULAR OFICIAL GO
+L102: 13 de Abril de 7200 14 de Abril de 2018 CARMEM LUCIA FAUSTINO 265731380116 PDT REGULAR OFICIAL SP
+L103: 11 de Março de 6200 10 de Março de 6200 14 de Outubro de 2017 VALDINEI ARAUJO 067302560540 PMN DESFILIADO OFICIAL BA
+L104: 17 de Maio de 6198 18 de Dezembro de 6198 14 de Abril de 2018 Judicial JOSE XISTO MALAZARTE 007016341040 PMDB CANCELADO OFICIAL GO
+L105: 06 de Abril de 5200 25 de Janeiro de 2010 14 de Abril de 2018 Judicial DALGISA PEREIRA SILVA 025909641392 PC DO B CANCELADO OFICIAL PA
+L106: 27 de Agosto de 5198 15 de Abril de 2016 LEOVALDO MAGALHAES 025764160604 PP REGULAR OFICIAL PR
+L107: 16 de Maio de 5198 14 de Abril de 2018 LAURO VICENTE DA SILVA 008736760868 PTC REGULAR OFICIAL PE
+L108: 17 de Abril de 5006 14 de Abril de 2018 GABRIELA VIEIRA VARGAS 094298830418 PDT REGULAR OFICIAL RS
+L109: 30 de Setembro de 5005 09 de Setembro de 2011 14 de Abril de 2018 Judicial DIANA APARECIDA ATHAYDE FERNANDES 001195151384 PODE CANCELADO OFICIAL PA
+L110: 24 de Setembro de 5005 14 de Abril de 2018 IVETE MARIA DE SOUZA 000975392470 PTC REGULAR OFICIAL AC
+L111: 28 de Julho de 5005 11 de Maio de 2011 19 de Outubro de 2011 Judicial GERLANILDO MOURA CARVALHO 028486161511 PC DO B CANCELADO OFICIAL PI
+L112: 07 de Outubro de 5005 01 de Março de 5005 18 de Abril de 2017 MARIA DO PATROCINIO ALMEIDA PORTO 033882671236 PT DESFILIADO OFICIAL PB
+L113: 30 de Julho de 4997 10 de Novembro de 2007 CLEIDE ELENA RODRIGUES 128897240248 DEM REGULAR OFICIAL MG
+L114: 28 de Maio de 4200 20 de Maio de 2010 15 de Outubro de 2016 Judicial JOAO NEVES MOREIRA 025088221104 PT CANCELADO OFICIAL MA
+L115: 21 de Abril de 4200 15 de Abril de 2016 RICARDO DE JESUS MATOS 107051070590 PDT REGULAR OFICIAL BA
+L116: 20 de Abril de 4200 15 de Abril de 2016 MARCIA NIVEA RODRIGUES GAMA 089880570396 PT REGULAR OFICIAL RJ
+L117: 10 de Outubro de 3200 14 de Outubro de 2017 CALIANE DE OLIVEIRA FERREIRA 095389750507 PC DO B REGULAR OFICIAL BA
+L118: 30 de Setembro de 3200 04 de Janeiro de 2010 14 de Abril de 2018 Cancelamento automático RAIMUNDO NONATO DA SILVA CARDOSO 010470141104 PTB CANCELADO OFICIAL MA
+L119: 10 de Fevereiro de 3300 28 de Abril de 3200 28 de Abril de 3201 15 de Abril de 2016 Judicial LORENA DE BRITO TORAZZI 004438900965 PP CANCELADO OFICIAL SC
+L120: 31 de Março de 3200 15 de Abril de 2016 SEBASTIAO JOSE DA SILVEIRA 019726072240 PSB REGULAR OFICIAL RO
+L121: 29 de Setembro de 2999 30 de Setembro de 2999 14 de Abril de 2018 Judicial LUIZ ROBERTO RIBEIRO LONGO 007005680973 DEM CANCELADO OFICIAL SC
+L122: 29 de Abril de 2997 29 de Abril de 2996 14 de Outubro de 2017 SEBASTIAO CARVALHO MONTEIRO 028381232384 PMN DESFILIADO OFICIAL PA
+L123: 27 de Junho de 2994 31 de Maio de 2011 15 de Abril de 2016 Cancelamento automático GERALDA LAURENTINO DA SILVA 027546261287 PMDB CANCELADO OFICIAL PB
+L124: 29 de Setembro de 2993 07 de Junho de 2016 MELISSA MICHELE FERREIRA 084998550655 PPS REGULAR OFICIAL PR
+L125: 20 de Março de 2988 14 de Abril de 2018 DARCI PEREIRA DOS SANTOS 007310070523 PSC REGULAR OFICIAL BA
+L126: 30 de Setembro de 2300 30 de Setembro de 2300 15 de Abril de 2016 Judicial FABIA NEVES AIRES 026868801260 PC DO B CANCELADO OFICIAL PB
+L127: 18 de Abril de 2206 14 de Abril de 2018 ROOSEVELT RODRIGUES BARBOSA 130091120302 PMDB REGULAR OFICIAL RJ
+L128: 16 de Abril de 2207 16 de Abril de 2206 15 de Outubro de 2016 JOSE RAIMUNDO COSTA DOS SANTOS 035005392747 PTC DESFILIADO OFICIAL TO
+L129: 11 de Março de 2206 14 de Abril de 2018 RAFAEL ALMIR CAMPOS 042884480990 PP REGULAR OFICIAL SC
+L130: 08 de Fevereiro de 2206 14 de Abril de 2018 JILMAR DE SOUSA RODRIGUES 024531411538 PP REGULAR OFICIAL PI
+L131: 02 de Janeiro de 2206 04 de Janeiro de 2010 18 de Outubro de 2013 Cancelamento automático JURANDIR DA SILVA MOTA 015824721813 PMDB CANCELADO OFICIAL MT
+L132: 01 de Janeiro de 2206 30 de Setembro de 2205 24 de Março de 2010 15 de Outubro de 2016 Judicial LUCIO HENRIQUE GIOLO GUIMARAES 016422582798 PC DO B CANCELADO OFICIAL TO
+L133: 03 de Outubro de 2205 30 de Setembro de 2205 18 de Abril de 2017 NEIVA MARIA DA SILVA MONTEIRO 031232492739 PDT DESFILIADO OFICIAL TO
+L134: 30 de Setembro de 2205 08 de Janeiro de 2010 14 de Abril de 2018 Judicial ISABEL CRISTINA PEREIRA DA SILVA 021247681643 PTC CANCELADO OFICIAL RN
+L135: 26 de Agosto de 2205 01 de Dezembro de 2205 15 de Outubro de 2016 Judicial ANTONIO DA SILVA BERNARDINO 023308990906 PDT CANCELADO OFICIAL SC
+L136: Dicionário de Dados - Tabela filiados  Coluna Tipo Título Descrição
+L137: codigo_do_municipio  integer Código do Município
+L138: data_da_desfiliacao  date (max_length=10) Data da Desfiliação
+L139: data_da_filiacao  date (max_length=10) Data da Filiação
+L140: data_da_regularizacao  date (max_length=10) Data da Regularização
+L141: data_do_cancelamento  date (max_length=10) Data do Cancelamento
+L142: data_do_processamento  date (max_length=10) Data do Processamento
+L143: datahora_da_extracao  datetime (max_length=19) Data/Hora da Extração
+L144: motivo_do_cancelamento  string (max_length=31) Motivo do Cancelamento
+L145: nome_do_filiado  string (max_length=127) Filiado
+L146: nome_do_municipio  string (max_length=63) Município
+L147: nome_do_partido  string (max_length=63) Nome do Partido
+L148: numero_da_inscricao  string (max_length=12) Título de Eleitor
+L149: secao_eleitoral  integer Seção Eleitoral
+L150: sigla_do_partido  string (max_length=15) Partido
+L151: situacao_do_registro  string (max_length=15) Situação
+L152: tipo_do_registro  string (max_length=15) Tipo do Registro
+L153: uf  string (max_length=2) UF
+L154: zona_eleitoral  integer Zona Eleitoral
+L155: ##### Receba nossas novidades
+L156: 
+L157: Newsletter
+L158: 
+L159: ##### Links
+L160: 
+L161:   * cite24† Nosso Canal no Telegram †t.me L162:   * cite25† Nosso Twitter †twitter.com L163:   * cite26†Entre em contato conosco L164:   * cite7†Colabore conosco L165: 
+L166: O Brasil.io é mantido com muito carinho por cite11†Álvaro Justen†twitter.com e cite27†contribuidores. 

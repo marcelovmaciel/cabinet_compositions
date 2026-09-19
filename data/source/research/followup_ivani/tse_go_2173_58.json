@@ -1,0 +1,16 @@
+{
+  "party": "NOVO",
+  "id": 58,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 849,
+      "totalElements": 849,
+      "response_sha256": "c8cceff91eff8fc74e01f38cdda1148aa2bfcc22e2bcef4d0880635500c026d0",
+      "retrieved_utc": "2026-09-10T23:36:06Z"
+    }
+  ],
+  "matches": []
+}

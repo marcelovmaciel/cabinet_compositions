@@ -1,0 +1,14 @@
+{
+  "party": "NOVO",
+  "id": 58,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=58&currentPage=0&pageSize=10000",
+      "records": 54,
+      "totalElements": 54,
+      "response_sha256": "10d4e5f676dac0b9ed77acf8b0794a9e9d2bbc1050de286b5887db1b2baf789e",
+      "retrieved_utc": "2026-09-11T00:08:24Z"
+    }
+  ],
+  "matches": []
+}

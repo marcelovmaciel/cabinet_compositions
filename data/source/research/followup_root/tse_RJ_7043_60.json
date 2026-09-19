@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "DEMOCRATA",
+  "id": 60,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=60&currentPage=0&pageSize=10000",
+      "records": 2213,
+      "totalElements": 2213,
+      "response_sha256": "6a888056bf924d6b2c50b42a14622cac30ec28d0faebbe5491232fab906fdc2e",
+      "retrieved_utc": "2026-09-10T23:41:46Z"
+    }
+  ],
+  "matches": []
+}

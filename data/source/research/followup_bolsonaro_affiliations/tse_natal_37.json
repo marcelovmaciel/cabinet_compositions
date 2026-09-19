@@ -1,0 +1,14 @@
+{
+  "party": "PCO",
+  "id": 37,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 53,
+      "totalElements": 53,
+      "response_sha256": "33e6032c371eefa781f6837bccddcea41ca55f5977c1ef00b0760bad7c74f756",
+      "retrieved_utc": "2026-09-10T23:43:08Z"
+    }
+  ],
+  "matches": []
+}

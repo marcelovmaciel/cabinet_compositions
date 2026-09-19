@@ -1,0 +1,17 @@
+{
+  "party": "DC",
+  "id": 59,
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "Londrina",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=59&currentPage=0&pageSize=10000",
+      "records": 221,
+      "totalElements": 221,
+      "response_sha256": "882dea0a088af3b8ca87948ed5ac58fb108a1d1088df9d3a2ca737edad360a85",
+      "retrieved_utc": "2026-09-10T23:39:38Z"
+    }
+  ],
+  "matches": []
+}

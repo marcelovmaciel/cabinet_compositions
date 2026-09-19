@@ -1,0 +1,14 @@
+{
+  "party": "MOBILIZA",
+  "id": 48,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 620,
+      "totalElements": 620,
+      "response_sha256": "397add06e8e96b028daa95a4f50db85ea4b37a6652e138c3dae9edec9dd236b5",
+      "retrieved_utc": "2026-09-10T23:43:07Z"
+    }
+  ],
+  "matches": []
+}

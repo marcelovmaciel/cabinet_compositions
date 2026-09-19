@@ -1,0 +1,312 @@
+[
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/antt_resenha_2018.html",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/antt_resenha_2018.html",
+    "sha256": "2d1d094a5f9437525d7b1b186dd200b3788d88d7437de904e95926722697f709"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/casacivil_2018_report.pdf",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/casacivil_2018_report.pdf",
+    "sha256": "6c0c86db8f9caab688a6e679eb4bd91f96dc1378d3eaa3d91c99ee1415390111"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/casacivil_2018_report.txt",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/casacivil_2018_report.txt",
+    "sha256": "ee61fae023018c88faffce7df40b001d2a5c607d2af61b03a8ad1f740b13caaf"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/casacivil_auditoria.html",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/casacivil_auditoria.html",
+    "sha256": "32260ec36539189ea383715fc8d3d77405f2f25df53b5429500f0ccc4f2849bc"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/casacivil_rol_index.html",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/casacivil_rol_index.html",
+    "sha256": "97767c7602986afc35f4cd299ed246584eff0612c58cdd82cead07eaa2ea0b7b"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/dou20190101.pdf",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/dou20190101.pdf",
+    "sha256": "4c8867f4b7a2afc04d1d4c74533a9bd7edca8e0e583ce845f3885da59df00fa2"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/dou20190101.txt",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/dou20190101.txt",
+    "sha256": "a19d3e66d330256e65f0222d6860a303faeaab5e9b45aa3fc39f56670b32b68f"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/dou20190101p1.png",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/dou20190101p1.png",
+    "sha256": "dffbc6e223b3f9e4879757be50ab5ff30ce944e039af7c4b0548eda1688d2d76"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/filia_ufs.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/filia_ufs.json",
+    "sha256": "7fcb1afa3863e623aa2232342ce0569f2972609fff4ada5ccb9aa880587cc7a2"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/marun_20181228_dismissal_antt.html",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/marun_20181228_dismissal_antt.html",
+    "sha256": "9da1849b6abbaf07df1ba83320c77aac44edba9bdbd5103f841adc0439a67326"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/marun_20181228_dismissal_antt.meta.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/marun_20181228_dismissal_antt.meta.json",
+    "sha256": "736a7c1da4c513ac2d91e5a8e3d52a3dee9c2d94dcf788fa8a11b9ac8a36be74"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/marun_20181228_dismissal_antt.txt",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/marun_20181228_dismissal_antt.txt",
+    "sha256": "66e7e90022f903272b91658a29b5a3917b15cd2bf47e59e7a62c49e22a29d293"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/marun_20181228_dismissal_navigation.html",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/marun_20181228_dismissal_navigation.html",
+    "sha256": "9da1849b6abbaf07df1ba83320c77aac44edba9bdbd5103f841adc0439a67326"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/marun_20181228_dismissal_navigation.txt",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/marun_20181228_dismissal_navigation.txt",
+    "sha256": "66e7e90022f903272b91658a29b5a3917b15cd2bf47e59e7a62c49e22a29d293"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/planalto_auditoria.html",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/planalto_auditoria.html",
+    "sha256": "b63518aad7dd14cc0ab5d2ec29ff74458dabdb2f5393d22e5bf78e7b49c4ffc0"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/planalto_prestacao_index.html",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/planalto_prestacao_index.html",
+    "sha256": "dc15190a028d67572f7092e955eac544aac6856d7a1c358486c60212c86989bf"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/presidencia_2018_index.html",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/presidencia_2018_index.html",
+    "sha256": "6bbcea2b37bd092cc60604157a0ceec8944866fc2478f7af8aea3c3df40bc258"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/prior_orgaos_temer_extracted.txt",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/prior_orgaos_temer_extracted.txt",
+    "sha256": "a73df60c7307d82fffb1ebbe8f9b0fcac5a34d705cf313f549ee9c1107dc8a7f"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/prior_research_inventory.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/prior_research_inventory.json",
+    "sha256": "b2c4eecab58e118932efc20a5d1aa41aaa5bd7007d8ee2370f46d676b2345dda"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/segov_2018_report.pdf",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/segov_2018_report.pdf",
+    "sha256": "b5e002e134a4997d060964b34c42ee715835d8b1f76a413d06142b6a78532716"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/segov_2018_report.txt",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/segov_2018_report.txt",
+    "sha256": "06cb73838665c3908c08b41a562ebde9180f446004433d120d49716d7c338faf"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/sgip_ba_20181231.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/sgip_ba_20181231.json",
+    "sha256": "e1f76be4353f0af66712dd586e57c66d55f5c6df83eab31860058ee168e79be9"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/sgip_df_20181231.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/sgip_df_20181231.json",
+    "sha256": "e4ee265f9f92b5bed7adf5c65e92c825c06eb6ae21c4e17c6a66e8a639665a20"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/sgip_members_263115_scoped.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/sgip_members_263115_scoped.json",
+    "sha256": "e9f425ce697e10437a64192cd0195f79146515e2769c8a3615cab50ee89a8ee4"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/sgip_members_263816_scoped.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/sgip_members_263816_scoped.json",
+    "sha256": "d706b8fee6b8cc8db0ba54b83493d638f30373e9aca62e2055fc889632b78cd1"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/sgip_members_70945_scoped.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/sgip_members_70945_scoped.json",
+    "sha256": "5656acbc8ca6e5981db51341319082d4b09dd8447995458137e816fb29be5b20"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/sgip_members_70946_scoped.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/sgip_members_70946_scoped.json",
+    "sha256": "460378caac9bd49287b2613888c0b59f0421f8fee0bb466cabc472e1ca8a3bc0"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/sgip_members_94158_scoped.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/sgip_members_94158_scoped.json",
+    "sha256": "e4ac7e7099bc9f1054dcbb1e51a07d5ff8fe6a7a165db129c9ad250822d2b71e"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/sgip_national_20181231.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/sgip_national_20181231.json",
+    "sha256": "da45e6313fa08456a3500a34e335ba56b1f3d05fd8bc6d46db6afd0b12db297f"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/sgip_se_20181231.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/sgip_se_20181231.json",
+    "sha256": "20aaa838d68a15d923f20d78a23f18fa8933214feccbd7183d9072b69d099aee"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/sobral_identity_anchor.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/sobral_identity_anchor.json",
+    "sha256": "64dc252de107184ceb20f7a9c33bca6e75dcb338c05c854717dfb572f1070222"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/sri_auditoria.html",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/sri_auditoria.html",
+    "sha256": "f281cfb238df59002ff2952af37f7176eff0a1a0e020d7bd5b936430f84a817a"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/tse_BA_182.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/tse_BA_182.json",
+    "sha256": "9c101bdb73b0bb70a376193f6b93a0eb1041df5b33a3dc803aacea072ee9c655"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/tse_BA_38.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/tse_BA_38.json",
+    "sha256": "ebe71aa8367bb7ba1a439e94f65252f5c77bea83aac4f0c55624de0a7ae21264"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/tse_BA_42.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/tse_BA_42.json",
+    "sha256": "3262129664e8ffa76392493bbff9440741c0ddc2f4ba75ef9f899a62c84eed98"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/tse_BA_51.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/tse_BA_51.json",
+    "sha256": "c863a346938dabf14399bbce577cf8e52210f1a2181ac6e952e635ac2e3e9282"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/tse_BA_69.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/tse_BA_69.json",
+    "sha256": "1558a8cd7adc76f3e2b717a7669679e5c9dce9e9383a7e246b5d94cfeed6fcab"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/tse_DF_42.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/tse_DF_42.json",
+    "sha256": "9b4b3653afdfe591781dabbafb327343e2db76a0a6d428ba4f42f3247629d238"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/tse_SE_182.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/tse_SE_182.json",
+    "sha256": "10618ddd60d37b04b267d7471bb69da483ff7e97f43f6243320ab3534abee098"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/tse_SE_38.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/tse_SE_38.json",
+    "sha256": "e93f8c260384169817bd12272812ba99ec18fd2a2307b69086f3f44c2376b78e"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/tse_SE_42.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/tse_SE_42.json",
+    "sha256": "9c5df676728d4da2a140e29fcb132f4dc6bdbbddf3b330f409b1209ed24a83d0"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/tse_SE_51.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/tse_SE_51.json",
+    "sha256": "e22d35ea7e911faf07b9294fbb6b8fdbc2b38183655f29cd243b68f2f7633675"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/tse_SE_69.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/tse_SE_69.json",
+    "sha256": "b2fc45370771e4fefd4b2d2d976eefb4a8a2b1ea7848647844bede60ba009a9c"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/web_001.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/web_001.json",
+    "sha256": "1b8f276b9af02994a2cc662dabcc1883827cd3a44247b7c8d497fdc0dd04e88e"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/web_002.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/web_002.json",
+    "sha256": "d4e05377fbc5e60dca3b2d1e670b727b847250bc30e7b2a73b32be2146d06840"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/web_003.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/web_003.json",
+    "sha256": "b97536feb89623769cbd88d56d2a1f20dcbd9217d13c47f5f8643144749f50dc"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/web_004.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/web_004.json",
+    "sha256": "d161c6997f9585b1c6d42fae484fbc2e85591ad59dad03f3b8cf04bf33691412"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/web_005.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/web_005.json",
+    "sha256": "f8bacd55bd346842ba574093ded55619b93fdde1dd5584c4c0a84e26f3071ec7"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/web_006.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/web_006.json",
+    "sha256": "a85a8b63e11698074bd29c4d84c4f06b2bc23fcaf16c5770d7adc380083d67a8"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/web_007.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/web_007.json",
+    "sha256": "c9aea452f21d6c40749cb6ded9815d9c7c9f791a08902ee21e907e216816d1d3"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/web_008.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/web_008.json",
+    "sha256": "3e454405ed0ca2165a11c0866872212c097d3548c87c5dd8e8ec7b56451fd663"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/web_009.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/web_009.json",
+    "sha256": "12db2c2cdb9440d8dadd2be3ff2c3d17e3d71897575374bc58ff24e8282f9f16"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/web_010.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/web_010.json",
+    "sha256": "8f30f8831276e10146ef303119aa5139de264767f0085655311ee853a3c95a55"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/web_011.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/web_011.json",
+    "sha256": "4e867fc96f44cc1808695f85e8e5cb4358ea6a03fd9e549d7eb20a1b852cf2d7"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/web_012.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/web_012.json",
+    "sha256": "1e64455a62b42b66dae679623ec97c52f0389598dfec141ea6ea0b38e46f704d"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/sources/web_013.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/sources/web_013.json",
+    "sha256": "29b3f2206eb941acccde6ae8be83c52628aac3f58cec95f729cce44ab189561e"
+  },
+  {
+    "source": "/home/marcelovmaciel/Sync/Projects/electoral_inversions/cabinet_dataset/refinement_v5/worker_2_temer_end/RESEARCH.md",
+    "destination": "research/refinement_v5/worker_2_temer_end/RESEARCH.md",
+    "sha256": "2f543abd977af272d4a879fea6e9fc70562728c70165821ea6254aff33c05235"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_2_temer_end/HANDOFF.md",
+    "destination": "research/refinement_v5/worker_2_temer_end/HANDOFF.md",
+    "sha256": "074937ea0b3e1d23fafc537751b0bf68d5a8dd7ad9549cd91c10e5adc4ff1d46"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_2_temer_end/verification.json",
+    "destination": "research/refinement_v5/worker_2_temer_end/verification.json",
+    "sha256": "dd52b9daae1f1c5fb03ad887b352068f6d52f798715f9244b02855f95ab4a7b0"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_2_temer_end/scan_tse_scoped.py",
+    "destination": "research/refinement_v5/worker_2_temer_end/scan_tse_scoped.py",
+    "sha256": "feca8bd7afb50a47adc93f1505d7046c5c01a13b899957956da15b871b8fea23"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_2_temer_end/scan_tse_identity.py",
+    "destination": "research/refinement_v5/worker_2_temer_end/scan_tse_identity.py",
+    "sha256": "f196d0bf48167148c020f2f804d3e6fbd1808221cc8cfcaa5c3667777d923688"
+  },
+  {
+    "source": "cabinet_dataset/refinement_v5/worker_2_temer_end/verify.py",
+    "destination": "research/refinement_v5/worker_2_temer_end/verify.py",
+    "sha256": "dfe7262c49cb0952c8b8abc8c62a38db2e5087dc955bd546eab88c91749679a8"
+  }
+]

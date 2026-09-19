@@ -1,0 +1,158 @@
+[
+  {
+    "path": "research/completion/web_003.txt",
+    "sha256": "7da5d21fe12f4b97b7d6df3050d66290c2388d7dd50baf9ceb3e3bab26640057",
+    "line_count": 352,
+    "target_line_count": 2
+  },
+  {
+    "path": "research/completion/web_036.txt",
+    "sha256": "b8ad6f6ae463cbd5aed28d56c9e87d79f7d28ed5314a77e45ee92869f922f792",
+    "line_count": 301,
+    "target_line_count": 2
+  },
+  {
+    "path": "research/completion/web_084.txt",
+    "sha256": "405428558bee136f86303ee5fd2edf23bd056a3106a25ce55ca3bb24ce3af9c9",
+    "line_count": 23,
+    "target_line_count": 1
+  },
+  {
+    "path": "research/completion/web_086.txt",
+    "sha256": "96c2b4696a3594255397326d26b931c3968f51131f346e58a23da0f7ce005aac",
+    "line_count": 64,
+    "target_line_count": 1
+  },
+  {
+    "path": "research/completion/web_102.txt",
+    "sha256": "a58af351b6e026ab409f6ffcb9807ad58b150af6b68284143582c8a8ea7f9599",
+    "line_count": 306,
+    "target_line_count": 9
+  },
+  {
+    "path": "research/completion/web_103.txt",
+    "sha256": "b81f255c17e5c40539557bb5eac6bd81e0de1330a1656d3cbf3e9f3e1f1c369c",
+    "line_count": 208,
+    "target_line_count": 12
+  },
+  {
+    "path": "research/completion/web_104.txt",
+    "sha256": "b5d93d85f1c42812f444467a3b4ed421805bb38fe0affcd2a9b8bbcd3a5dcf56",
+    "line_count": 310,
+    "target_line_count": 23
+  },
+  {
+    "path": "research/completion/web_138.txt",
+    "sha256": "93d3ab424f9b23fdf4bae4d0716073b6f8af6d6415bba18bcab488dc5a446bc7",
+    "line_count": 285,
+    "target_line_count": 1
+  },
+  {
+    "path": "research/completion/web_168.txt",
+    "sha256": "ee304068cec9c1fffd8d46459c98e59560a5878ec84d42120cae7111a24abbf1",
+    "line_count": 159,
+    "target_line_count": 1
+  },
+  {
+    "path": "research/completion/web_171.txt",
+    "sha256": "5b562cbd35bc5749a048fce11a1de56de887324db9ee7ca0025dabdc34f752fb",
+    "line_count": 356,
+    "target_line_count": 30
+  },
+  {
+    "path": "research/completion/web_172.txt",
+    "sha256": "a627126002dd119e36c3c9f85bb315289008164d17aa48eb1b833c2d8f45d2ea",
+    "line_count": 403,
+    "target_line_count": 3
+  },
+  {
+    "path": "research/completion/web_179.txt",
+    "sha256": "f16e2d9eb6927d3a90d593f2af577711ed088c85f26e27a2aba886aa0ab2ad80",
+    "line_count": 324,
+    "target_line_count": 34
+  },
+  {
+    "path": "research/completion/web_181.txt",
+    "sha256": "633b86abb082200362b327bbd2894e7ba83af6825e79ad62c195459c7595bf8e",
+    "line_count": 368,
+    "target_line_count": 39
+  },
+  {
+    "path": "research/completion/web_200.txt",
+    "sha256": "08681930884c50a374c29a25ade63c8d013f28099f15f3baa753d00a0c7e0132",
+    "line_count": 119,
+    "target_line_count": 2
+  },
+  {
+    "path": "research/completion/web_201.txt",
+    "sha256": "cb0481fdd3cd71076a06f40574f5f93e1542ce6440b7f0227b9d5e413f9b75b9",
+    "line_count": 384,
+    "target_line_count": 30
+  },
+  {
+    "path": "research/completion/web_206.txt",
+    "sha256": "f45efd6b05a0ee632c3c872c4dd7ba4c72f64dd20dad91008985fe7d52e6668c",
+    "line_count": 221,
+    "target_line_count": 5
+  },
+  {
+    "path": "research/completion/web_210.txt",
+    "sha256": "62b2ef50f47528fa785f2bcdfd84d5f17dbb2d484dd4ba37d20ee6fcad5f4b40",
+    "line_count": 469,
+    "target_line_count": 50
+  },
+  {
+    "path": "research/completion/web_214.txt",
+    "sha256": "830382253ff2b97cbfbb7de556d1ffa4e09b70396819456f5d3c5af9f646c385",
+    "line_count": 506,
+    "target_line_count": 48
+  },
+  {
+    "path": "research/completion/web_221.txt",
+    "sha256": "6578ac5671182e0b9064d4a19c69ce0729de109a1c80e3152ea1fca68f24864e",
+    "line_count": 401,
+    "target_line_count": 32
+  },
+  {
+    "path": "research/completion/web_223.txt",
+    "sha256": "6bc20dec81a191f26b24955588913888499abe60609b6974f60c58d237c8061a",
+    "line_count": 7,
+    "target_line_count": 0
+  },
+  {
+    "path": "research/completion/web_228.txt",
+    "sha256": "fca4dd9f1500b186c1351607090ea0ee90ef892e940d1ce7390ff810077d77ef",
+    "line_count": 346,
+    "target_line_count": 30
+  },
+  {
+    "path": "research/completion/web_239.txt",
+    "sha256": "d039626309d72f9c4c5492ae9f3a11bed35ac6376466b75bba3c00f5222b51e5",
+    "line_count": 226,
+    "target_line_count": 0
+  },
+  {
+    "path": "research/completion/web_292.txt",
+    "sha256": "f4af0d3b5a3f6cbcd32931eb492a8ad5af6eca38b15270d49294de65efd03f5f",
+    "line_count": 397,
+    "target_line_count": 35
+  },
+  {
+    "path": "research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md",
+    "sha256": "9ceb98e52419650f6dfc908b2496026aef6101b99e9dc2dd4bee78b6d08afe3e",
+    "line_count": 11,
+    "target_line_count": 1
+  },
+  {
+    "path": "research/followup_bolsonaro_affiliations/RENATO_ARAUCARIA_LEAD_FINDINGS.md",
+    "sha256": "f616d7f12d250766b6d0723f01ccaaa76a2dd4758607931d9b617536c4842264",
+    "line_count": 9,
+    "target_line_count": 3
+  },
+  {
+    "path": "research/followup_root/filiaweb_2016_names.json",
+    "sha256": "aa278cbe9c324b794fd45788f7605bd949903234b00063805c6e31daae886501",
+    "line_count": 62,
+    "target_line_count": 3
+  }
+]

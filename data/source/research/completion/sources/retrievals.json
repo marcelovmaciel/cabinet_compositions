@@ -1,0 +1,50 @@
+[
+  {
+    "id": "presidencia_dilma_ministerios",
+    "url": "https://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/dilma-rousseff/equipe-de-governo/ministerios",
+    "error": "HTTPSConnectionPool(host='www.biblioteca.presidencia.gov.br', port=443): Max retries exceeded with url: /presidencia/ex-presidentes/dilma-rousseff/equipe-de-governo/ministerios (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))",
+    "retry_error": "HTTPSConnectionPool(host='www.biblioteca.presidencia.gov.br', port=443): Read timed out. (read timeout=20)"
+  },
+  {
+    "id": "presidencia_temer_ministerios",
+    "url": "https://www.biblioteca.presidencia.gov.br/presidencia/ex-presidentes/michel-temer/equipe-de-governo/ministerios",
+    "error": "HTTPSConnectionPool(host='www.biblioteca.presidencia.gov.br', port=443): Max retries exceeded with url: /presidencia/ex-presidentes/michel-temer/equipe-de-governo/ministerios (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))",
+    "retry_error": "HTTPSConnectionPool(host='www.biblioteca.presidencia.gov.br', port=443): Read timed out. (read timeout=20)"
+  },
+  {
+    "id": "arko",
+    "url": "https://www.polibiobraga.com.br/arko.pdf",
+    "status": 200,
+    "bytes": 13466954,
+    "path": "cabinet_dataset/research/completion/sources/arko.pdf",
+    "transport_note": "Public unauthenticated retrieval; CA verification unavailable"
+  },
+  {
+    "id": "casimiro_estadao",
+    "url": "https://odia.ig.com.br/brasil/2018/04/5527694-casimiro-avaliaremos-pedidos-de-prorrogacao-de-contratos-do-decreto-dos-portos.html",
+    "status": 200,
+    "bytes": 167277,
+    "path": "cabinet_dataset/research/completion/sources/casimiro_estadao.html"
+  },
+  {
+    "id": "es_bolsonaro",
+    "url": "https://es.wikipedia.org/wiki/Jair_Bolsonaro",
+    "status": 403,
+    "bytes": 126,
+    "path": "cabinet_dataset/research/completion/sources/es_bolsonaro.html"
+  },
+  {
+    "id": "es_temer",
+    "url": "https://es.wikipedia.org/wiki/Michel_Temer",
+    "status": 403,
+    "bytes": 126,
+    "path": "cabinet_dataset/research/completion/sources/es_temer.html"
+  },
+  {
+    "id": "es_dilma",
+    "url": "https://es.wikipedia.org/wiki/Dilma_Rousseff",
+    "status": 403,
+    "bytes": 126,
+    "path": "cabinet_dataset/research/completion/sources/es_dilma.html"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "MOBILIZA",
+  "id": 48,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 4387,
+      "totalElements": 4387,
+      "response_sha256": "efe8eb833c7a9236564b2908106c3d2204066c1a2c13dc33fea3049daa90fbc0",
+      "retrieved_utc": "2026-09-10T23:41:56Z"
+    }
+  ],
+  "matches": []
+}

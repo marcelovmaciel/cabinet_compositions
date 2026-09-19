@@ -1,0 +1,14 @@
+{
+  "party": "PV",
+  "id": 52,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=52&currentPage=0&pageSize=10000",
+      "records": 1026,
+      "totalElements": 1026,
+      "response_sha256": "48523aa0c01e7789c728393d297b97ebb3d4ff523cfac261ed4b4e27d15192f7",
+      "retrieved_utc": "2026-09-10T23:43:28Z"
+    }
+  ],
+  "matches": []
+}

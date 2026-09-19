@@ -1,0 +1,17 @@
+{
+  "party": "PRD",
+  "id": 182,
+  "uf": "RS",
+  "municipio": "7733",
+  "city": "Garibaldi",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=182&currentPage=0&pageSize=10000",
+      "records": 468,
+      "totalElements": 468,
+      "response_sha256": "18f3a81aa4ef0750077be15c8a29dbf44bbbe338682d4208c4181ba239c71609",
+      "retrieved_utc": "2026-09-10T23:37:46Z"
+    }
+  ],
+  "matches": []
+}

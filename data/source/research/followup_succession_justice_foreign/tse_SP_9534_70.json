@@ -1,0 +1,17 @@
+{
+  "party": "PDT",
+  "id": 70,
+  "uf": "SP",
+  "municipio": "9534",
+  "city": "Presidente Prudente",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 924,
+      "totalElements": 924,
+      "response_sha256": "904fe0d7ed8e2bf097ff8aa752598d0e5651e6bf77b123abc06ea95dfc9dc759",
+      "retrieved_utc": "2026-09-10T23:39:24Z"
+    }
+  ],
+  "matches": []
+}

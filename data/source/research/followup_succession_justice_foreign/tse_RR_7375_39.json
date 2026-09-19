@@ -1,0 +1,17 @@
+{
+  "party": "PRTB",
+  "id": 39,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=39&currentPage=0&pageSize=10000",
+      "records": 1394,
+      "totalElements": 1394,
+      "response_sha256": "2a5324e2f16e0c3e5b1d8e07b990fa0366fff58fd1b80681788db423a69fba35",
+      "retrieved_utc": "2026-09-10T23:41:23Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,17 @@
+{
+  "party": "CIDADANIA",
+  "id": 46,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 2548,
+      "totalElements": 2548,
+      "response_sha256": "0241404867a28e8732a88a9feec3527424a4de898a0dbcaf5e53165b6eaa344a",
+      "retrieved_utc": "2026-09-10T23:38:02Z"
+    }
+  ],
+  "matches": []
+}

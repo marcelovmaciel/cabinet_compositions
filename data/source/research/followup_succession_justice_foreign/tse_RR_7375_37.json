@@ -1,0 +1,17 @@
+{
+  "party": "PCO",
+  "id": 37,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 53,
+      "totalElements": 53,
+      "response_sha256": "0fff94cee49469f5e45bff801d5e88d9fbfa4ec791b6d16080070f02f34fff10",
+      "retrieved_utc": "2026-09-10T23:41:10Z"
+    }
+  ],
+  "matches": []
+}

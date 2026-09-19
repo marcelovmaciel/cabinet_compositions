@@ -1,0 +1,17 @@
+{
+  "party": "PRD",
+  "id": 182,
+  "uf": "MS",
+  "municipio": "4139",
+  "city": "Campo Grande",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=MS&cdMunicipio=4139&sqPartido=182&currentPage=0&pageSize=10000",
+      "records": 4951,
+      "totalElements": 4951,
+      "response_sha256": "deb472231058118273f1c0ec7980a45d109f0d0821df70dbc8831dbee31d0f0c",
+      "retrieved_utc": "2026-09-10T23:40:42Z"
+    }
+  ],
+  "matches": []
+}

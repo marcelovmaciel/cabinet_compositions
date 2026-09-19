@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "CIDADANIA",
+  "id": 46,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 2025,
+      "totalElements": 2025,
+      "response_sha256": "99b01a621ea9f33baeddf8e968726c252d29bca33f982315dbbc2c893d3cf86f",
+      "retrieved_utc": "2026-09-10T23:44:27Z"
+    }
+  ],
+  "matches": []
+}

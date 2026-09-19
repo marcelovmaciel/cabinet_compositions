@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "PCO",
+  "id": 37,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 42,
+      "totalElements": 42,
+      "response_sha256": "dba7cc6433e01f13a3f35b2564d7a355795d5e21ec15a6bb8dc2926a4cb7f4e1",
+      "retrieved_utc": "2026-09-10T23:44:32Z"
+    }
+  ],
+  "matches": []
+}

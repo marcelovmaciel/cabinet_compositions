@@ -1,0 +1,572 @@
+baseldosdados/context/file_tree.md at b5d84e35566c9c19b876348371dfda7c19935696 - baseldosdados - Gitea (https://git.extrapolo.com/polo/baseldosdados/src/commit/b5d84e35566c9c19b876348371dfda7c19935696/context/file_tree.md)
+citeturn348search0 [wordlim: 200] Published: 5 months ago; Crawled: 3 months ago;   * meta_alfabetizacao_brasil/ (1 files, 4.0 KB, 11 cols) ...   * resultados_partido_municipio/ (25 files, 17.4 MB, 13 cols) ... ## br_tse_filiacao_partidaria/ (2 tables, 941.9 MB, 106 files)
+## br_sfb_sicar/ (2 tables, 28.3 GB, 947 files)
+
+  * area_imovel/ (946 files, 28.3 GB, 11 cols)
+  * dicionario/ (1 files, 1.7 KB, 5 cols)
+
+## br_simet_educacao_conectada/ (1 tables, 10.0 MB, 1 files)
+
+  * escola/ (1 files, 10.0 MB, 54 cols)
+
+## br_sp_saopaulo_geosampa_iptu/ (1 tables, 2.3 GB, 447 files)
+
+  * iptu/ (447 files, 2.3 GB, 27 cols)
+
+## br_stf_corte_aberta/ (2 tables, 87.3 MB, 33 files)
+
+  * decisoes/ (32 files, 87.3 MB, 17 cols)
+  * dicionario/ (1 files, 2.3 KB, 5 cols)
+
+## br_trase_supply_chain/ (6 tables, 59.9 MB, 24 files)
+
+  * beef/ (3 files, 44.2 MB, 22 cols)
+  * beef_slaughterhouses/ (1 files, 718.9 KB, 19 cols)
+  * soy_beans/ (17 files, 14.8 MB, 25 cols)
+  * soy_beans_crushing_facilities/ (1 files, 19.6 KB, 13 cols)
+  * soy_beans_refining_facilities/ (1 files, 9.4 KB, 9 cols)
+  * soy_beans_storage_facilities/ (1 files, 225.1 KB, 12 cols)
+
+## br_tse_eleicoes/ (22 tables, 8.2 GB, 4324 files)
+
+  * bens_candidato/ (18 files, 134.1 MB, 10 cols)
+  * candidatos/ (29 files, 149.3 MB, 28 cols)
+  * despesas_candidato/ (255 files, 1.5 GB, 45 cols)
+  * detalhes_votacao_municipio/ (16 files, 17.4 MB, 25 cols)
+  * detalhes_votacao_municipio_zona/ (16 files, 19.7 MB, 26 cols)
+  * detalhes_votacao_secao/ (90 files, 401.2 MB, 24 cols)
+  * dicionario/ (1 files, 2.3 KB, 5 cols)
+  * partidos/ (21 files, 7.9 MB, 21 cols)
+  * perfil_eleitorado_local_votacao/ (15 files, 106.1 MB, 23 cols)
+  * perfil_eleitorado_municipio_zona/ (98 files, 128.2 MB, 13 cols)
+  * perfil_eleitorado_secao/ (1425 files, 1.9 GB, 15 cols)
+  * receitas_candidato/ (108 files, 806.4 MB, 55 cols)
+  * receitas_comite/ (7 files, 7.9 MB, 36 cols)
+  * receitas_orgao_partidario/ (7 files, 9.0 MB, 50 cols)
+  * resultados_candidato/ (37 files, 43.7 MB, 16 cols)
+  * resultados_candidato_municipio/ (99 files, 126.6 MB, 16 cols)
+  * resultados_candidato_municipio_zona/ (125 files, 187.0 MB, 17 cols)
+  * resultados_candidato_secao/ (1367 files, 2.0 GB, 17 cols)
+  * resultados_partido_municipio/ (25 files, 17.4 MB, 13 cols)
+  * resultados_partido_municipio_zona/ (26 files, 19.6 MB, 14 cols)
+  * resultados_partido_secao/ (523 files, 608.5 MB, 15 cols)
+  * vagas/ (16 files, 594.7 KB, 9 cols)
+
+## br_tse_filiacao_partidaria/ (2 tables, 941.9 MB, 106 files)
+
+  * microdados/ (44 files, 483.5 MB, 22 cols)
+  * microdados_antigos/ (62 files, 458.4 MB, 16 cols)
+
+--------------------------------------------------------------------------------
+ISSN 1677-7042 (https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=26%2F03%2F2021&jornal=515&pagina=1)
+citeturn348search12 [wordlim: 200] Published: 10 months ago; REPÚBLICA FEDERATIVA DO BRASIL • IMPRENSA NACIONAL ... constitucional o § 9º do artigo 29 da Lei dos Partidos Políticos (Lei nº 9.096/95), ... norma que visa o enfraquecimento da representação partidária. ... Ministério da Defesa................................................................................................................. ... I - discutir as medidas a serem tomadas; e ... : PARTIDO TRABALHISTA BRASILEIRO ... aos cargos de Presidente e Vice-Presidente, pediu vista dos autos o Ministro Gilmar ... de haver a reeleição do Presidente e do Vice-Presidente - artigo 135 - não conflita com a ... : CARLA DE OLIVEIRA RODRIGUES (33657/DF) ... Sergio José Pereira
+reunirão, a critério de cada membro, presencialmente ou por videoconferência.
+Art. 8º O Comitê de Coordenação terá duração de noventa dias, que poderá
+ser prorrogada em ato do Coordenador.
+Art. 9º Este Decreto entra em vigor na data de sua publicação.
+Brasília, 25 de março de 2021; 200º da Independência e 133º da República.
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE 6.044
+(2)
+ORIGEM
+: 6044 - SUPREMO TRIBUNAL FEDERAL
+P R O C E D.
+: DISTRITO FEDERAL
+R E L AT O R A
+: MIN. CÁRMEN LÚCIA
+R EQ T E . ( S )
+: REDE SUSTENTABILIDADE
+A DV . ( A / S )
+: CARLA DE OLIVEIRA RODRIGUES (33657/DF)
+I N T D O. ( A / S )
+: CONGRESSO NACIONAL
+P R O C . ( A / S ) ( ES ) : ADVOGADO-GERAL DA UNIÃO
+I N T D O. ( A / S )
+: PRESIDENTE DA REPÚBLICA
+P R O C . ( A / S ) ( ES ) : ADVOGADO-GERAL DA UNIÃO
+JAIR MESSIAS BOLSONARO
+Marcelo Antônio Cartaxo Queiroga Lopes
+Sergio José Pereira
+Decisão: Após os votos dos Ministros Cármen Lúcia (Relatora), Alexandre de
+Moraes e Marco Aurélio, que convertiam o julgamento da medida cautelar em
+julgamento definitivo de mérito para julgar improcedente a ação direta e declarar
+AVISO
+Foram publicadas em 25/3/2021 as
+edições extras nºs 57-A e 57-B do DOU.
+Para acessar o conteúdo, clique nos nºs das edições.
+Documento assinado digitalmente conforme MP nº 2.200-2 de 24/08/2001,
+que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil.
+Este documento pode ser verificado no endereço eletrônico
+http://www.in.gov.br/autenticidade.html, pelo código 05152021032600001
+1--------------------------------------------------------------------------------
+Bfl SSftVffiO Wffii (https://hemeroteca-pdf.bn.gov.br/783765/per783765_1886_00945.pdf)
+citeturn348search13 [wordlim: 200] Published: 5 months ago; muitos golpes que não cessa de vibrar ... Joaquim Pereira da Silva. ... José Ptreira Guerra. ... José Cândido de Souza. ... meiro poder político, do qual derivão ... defesa, ... Casitniro Rodrigues dos Santos. ... Elias Pereira de Oliveira. ... Manoel Pereira do Amaral.
+A 
+IMPRENSA.
+certidão, 
+depois 
+fez seguir 
+daqui no
+do 
+precioso 
+tempo de 
+que disponlio
+Manoel da Cunha Bodrigues.
+Sérgio José 
+dc Carvalho.
+Mas, 
+presuppor-se 
+existente 
+essa
+encalço do secretario 
+o expresso 
+Ar-
+para empregar em trabalhos 
+nteis â
+Domingos Nery do Espirito Santo.
+Domingos 
+Antunes 
+de 
+Carvalho.
+«fficacia, como explicar 
+o facto 
+arbi-
+minha 
+profissão 
+e 
+a 
+minha 
+famili*,
+Ângelo Pereira Jordão.
+Marcellino de Sena Corado.
+minio, 
+(futuro 
+cunhado) 
+para 
+qac
+trario, sem base legal nem mora!; que
+afim de 
+aparar 
+e desviar alguns 
+dos
+Antonio 
+Rodrigues Bispo.
+Raimundo 
+Nonnato Nery.
+aquelle viesse desdizer 
+o que concen*
+pretende ferir com 
+a 
+nodoa 
+da nulli-
+muitos golpes que não cessa de vibrar
+ciosamente 
+havia aflirmado 
+e fizesse
+José Barbosa 
+de Oliveira.
+Manoel Rodrigues de Freitas.
+dade o eleitorado inteiro 
+de dois 
+mu-
+contra 
+mim. 
+Tem sido 
+um 
+trabalho
+Marcos Ribeiro 
+de Souza.
+João 
+Vieira da Silta.
+recahir sobre mim 
+tudo 
+o 
+que havia
+nicipios importantes ?
+feito.
+insano, que não lhe permilte repouso.
+João Américo Francisco 
+Torres.
+Manoel Joaquim Rodrigues.
+Se 
+a 
+lei 
+é 
+igual para 
+todos, como
+Nomeado 
+delegado 
+da 
+hygieno
+Valerio José Lourenço.
+De 
+facto, 
+Arminio 
+adrede 
+prepa-
+Conrado 
+dos Santos 
+Nt tto.
+preceitua o § 13 do art. 179 
+da Csrta
+nesta cidade, eis 
+o sr. dr. 
+Andreini,
+rado, entende-se 
+com 
+o 
+secretario,
+Joaquim 
+Vogado do Couto,
+Joaquim Pereira da Silva.
+Constitucional, donde vem esta excep-
+neste caracter, 
+á fazer 
+uma 
+derrama
+lldefonso Areomiro da Silva.
+Raimundo José da Cunha.
+preparando-o, ecom elle entrou n'esta
+ção odiosa, creada especialmente para
+de cartas nesta 
+mesma 
+cidade 
+e va
+Francisco Ferreira 
+de Sousa.
+Casmtro 
+Pereira dos 
+Bris.
+villa 
+para 
+salvar 
+o 
+mal, 
+que, 
+no di-
+satisfazer os caprichos mal entendidos
+fronteira 
+villa de 
+S. 
+Francisco da 
+vi-
+zer do emigrante, consistia 
+em 
+des-
+Antonio 
+Pereira Jacobina.
+Cândido da Souza Ribeiro.
+de uma fracção partidaria, que enten-
+João Antonio Lisbúa.
+sinha província do Maranhão, 
+no theor
+João 
+Marques da Silva.
+deu, 
+em detrimento 
+da 
+vontade 
+ge-
+e 
+gosto 
+da 
+que 
+se 
+segue, 
+e que me
+Reduzindo 
+Martins de Souza.
+José 
+Vtlella Gomes.
+dizer, 
+em 
+auto de perguntas.
+Informado eu 
+de que 
+Dantas linha
+nuina da maioria do eleitorado do 3.°
+veio 
+ás mãos por um 
+bambnrrio: —
+Silvestre Baptisla dos Santus.
+Antonio Ribeiro di Farias.
+entrado 
+n'esta 
+villa 
+seguido pelo Ar-
+dislricto, dever 
+introduzir no 
+parla*
+«III.0 sr.—O 
+Delegado 
+da 
+Hygiene,
+Manoel Alexandre de Azevedo.
+Antonio 
+Gomes Netto.
+minio, 
+e que contnuav» sob as vistas
+mento—um candidato sem influencia,
+abaixo assignado cm 
+observançia dos
+Manoel Francisco da Silva.
+Vidal José Pereira.
+do alguém, 
+a 
+semelhança 
+de um 
+pri-
+somente 
+recommendado 
+pelo 
+credo
+sioneiro, 
+até 
+o depoimento, 
+tive de
+Sérgio José 
+de Carvalho.
+deveres do cargo, 
+e 
+querendo 
+cohi-
+João Pereira da Silva.
+jpolitico 
+a que diz pertencer 
+? 
+!
+biros iunumercs abuzosque de longa
+Antonio Pereira Pardtnho.
+Domingos 
+Nogueira 
+--------------------------------------------------------------------------------
+Diretor:
+DR. JOAO LELIS
+Secretário:
+JOSE DE CERQUE (https://auniao.pb.gov.br/servicos/copy_of_jornal-a-uniao/decada-de-1940/1945/junho/a-uniao-08-06-1945.pdf)
+citeturn348search14 [wordlim: 200] Published: 5 months ago; tral do Brasil, agradeceu as fe- ... sidência do ministro José ... ão ministro José de Oliveira ... guerra se tornando mais claro ... Rio de Janeiro, que tem ... casa.Partido Social Democráti- ... organização partidária de ... da elegância protesta. ... los, José Pereira dos Santos ... Antonio Pereira de Souza José ... Silva, Maria Jordão dos Santos ... do Filho, Auro Gonçalves da ... sua orientação política:CENTRO POLÍTICO ... gues, Sergio José Correia, Fran-
+ram para o trabalho.POR deliberação do Dire-
+tório Central do Parti-
+to Social Democrático des-
+e Estado, foi escolhido re-
+presentante da secção lo-
+cal do PSD junto ao órgão
+central dessa agremiação
+partidária o nosso ilustre
+conterraneo dr. José Pe-
+reira Lira, advogado no
+Rio de Janeiro, que tem
+atuado com projeção e
+brilho na vida pública do
+país. Acusando a comu-
+nicação que lhe foi feita, a
+respeito, pelo interventor
+Ruy Carneiro, o dr. Perei-
+ra Lira enviou ao Chefe do
+Governo a seguinte carta:VISITA AOS ESTABELECIMEN-
+TOS DE ENSINO AGRÍCOLA
+NA PARAÍBASe tudo não está como era, a
+pula não pode caber ao come-
+ço que faz o seu suprimento
+a noutras praças e estas não ti-
+veram tempo ainda para pensar
+em esgotar o seu exausto e
+mortar a carestia.O número de construções ia
+de aumentar, e meritiri
+aumentar, e o seu trabalho
+não dariam dor de cabeça àque-
+le que desejasse fazer a sua
+casa.Partido Social Democráti-
+co em organização. Desva-
+neceu-me essa honrosa in-
+vestidura que me dará a
+oportunidade de colaborar
+mais ativamente dentro da
+organização partidária de
+âmbito nacional com os
+nossos coestudantes que
+presidiam sua larga e
+elevada atuação política a
+frente da nossa Paraíba,
+sempre inspirada nas mais
+perfeitas doutrinas democrá-
+ticas. Cordial Abraço. J.
+Pereira Lira.Estiveram neste Estado os drs. Newton  
+Beleza, Waldemar Costa e prof. John  
+Englekirsk — Visita de cumprimentos ao  
+interventor Ruy CarneiroAnunciava-se um mundo que
+era mesmo um paraíso, lugar
+inadaptável às extorções, mundo
+sem clima para os gananciosos,
+em que os homens de negócio
+não aceitariam mais a usura
+ras atrás do lucro.Há também um lado interessante nessa questão.Ninguém procura o que é ma-
+barato. Não há somente calça-
+do de Cr$ 500,00, não há sómen-
+datura general Eurico Dittrich,
+continuador benemérito Gover-
+no nosso grande benfeitor. Sau-
+dões — José Leonardo de
+Oliveira, Justino Luiz Nasci-
+mento, Joaquim Teotonio de Al-
+cantara, Teotonio Pedro Bar-
+bosa, Bernantino José Rodri-
+gues, Sergio José Correia, Fran-
+cisco Félix ano Pessoa, José Fir-
+mino de Souza, Francisco Te-
+Costa, Pedro Matias Filho, Jose
+Porto Pereira da Costa, Severi-
+no Borges de Farias, Estevão
+Francelino da Silva, José Can-
+dido Dantas, José Luiz de As-
+sumpção, Fernandes, José Ro-
+caria de Oliveira Rocha.Movimentam-se os moradores do
+Bairro da MataOs moradores do bairro da
+Mata, que compreende várias
+ruas do sudeste da cidade, so-
+lidiarios com a orientação de
+Interventor Ruy Carneiro apoi-
+ando a candidatura do general
+Eurico Gaspar Dutra à presi-
+dência da República cogitaram
+de fundar um novo partido, o
+milo de Holanda, um Centro
+Político que se denominará
+Pedro II.Conceição, Rosalina do Nasc.
+mento Euclides Ferreira do Nas-
+cimento, Severino Pereira de
+Melo, Josefa Ferreira de Brito,
+Manuel José dos Santos, José
+Joaquim dos Santos, Manoel
+Gomes da Silva, João Lopes
+Pessoa, José Jorge de Brito An-
+tonio Porfírio de Brito Jorge
+Fernandes Farias, Santino Be-
+larmino da Costa, Wilson Ar-
+drigues de Carvalho, Francisco
+Olegario da Silva, Francisco
+Bernarda de Lima, Josefa Ma-
+rinho da Silva, Maria de Car-
+neiro, Severino da Silva, Joana
+Balbina Eudésia Carneiro, Jen-
+Carneiro José Alencar Maia
+Elena Santos, João Pedro dos
+Santos, Antonio dos Santos,
+Artur Pedro dos Santos Emília
+dos Santos, Paulo Fernandes
+da Silva, Jose Lopes Pessoa,
+José Silvestre da Silva, Santino
+Barbosa, José Felipe de Olivei-
+ra, Clodoaldo da Costa Bastos,
+Severino F. de Araújo, Severi-
+no F. de Oliveira João de Oli-
+--------------------------------------------------------------------------------
+Mortos e Desaparecidos na Guerrilha do Araguaia | PDF (https://pt.scribd.com/document/948527204/Documentos-Do-SNI-Os-Mortos-e-Desaparecidos-Na-Guerrilha-Do-Araguaia)
+citeturn348search1 [wordlim: 200] Crawled: 10 months ago; em Santa Tereza/ES, filho de Joaquim Patrício e Izaura de Souza Patrício. ... dois meses e meio para os ensinamentos do temas políticos e dois meses e ... alunos desse curso, respondeu que o programa político fora composto dos ... do exército popular, estratégia e tática da guerra de guerrilhas e da revolução ... Ramirez Garcia, José Humberto Bronca e Miguel Pereira dos Santos, ... o aparelho do Comitê Central do Partido Comunista do Brasil (PCdoB). ... Capacitação Política e Militar na China Comunista, junto com José Humberto ... Carneiro, em seu depoimento, afirmou que, em dezembro de 1970, foi ... Selma Martins de Oliveira e Silva, de 17 de julho de 1973, que também ... “conheceu o militante Tobias Pereira, de codinome ‘Sérgio’, em princípios do
+## Tobias Pereira Júnior (codinomes: Sérgio, Josias) – De acordo com informe da
+
+Agência Rio de Janeiro do SNI, de 16 de junho de 1973, Mauro Brandão
+Carneiro, em seu depoimento, afirmou que, em dezembro de 1970, foi
+realizada, na casa de Tobias Pereira Júnior (Sérgio), situada à Rua Tavares
+Bastos, no bairro do Catete, “a reunião dos representantes das universidades,
+para ser escolhido o da Guanabara”. Mauro Brandão Carneiro asseverou
+que, em 1971, utilizou esporadicamente o aparelho de Tobias “para dormir e
+para fins sexuais”. Ainda segundo o depoente, em abril de 1971, Tobias,
+estudante da Faculdade de Medicina da Universidade Federal Fluminense
+(UFF), substituiu João Carlos Wineski como Secretário de Agitação do
+Comitê Universitário do Partido Comunista do Brasil (PCdoB), sendo o contato
+do depoente no Comitê Intermediário de Niterói – órgão criado após a
+reestruturação do Comitê Universitário do PCdoB. Ao ser perguntado sobre a
+denominada “Área de Campo” do PCdoB, Mauro Brandão Carneiro
+--------------------------------------------------------------------------------
+Alumni – SIPOS – Mestrado Profissional em Sistemas de Gestão (https://latec.uff.br/msg/alumni-sipos/)
+citeturn348search2 [wordlim: 200] Crawled: today; Data de defesa: 25/05/2004 ... Título: PROPOSTA DE SISTEMA DE GESTÃO AMBIENTAL PARA AS ESCOLAS PÚBLICAS DA REDE ESTADUAL DO MUNICÍPIO DE CAMPOS DOS GOYTACAZES / RJ Orientador(a): Sergio Luiz Braga França ... ###### Sergio Pereira Távora ... Orientador(a): José Rodrigues de Farias Filho
+ | 
+
+###### Sergio Murilo de Souza Garcia
+
+Data de defesa: 05/07/2011
+Título: MAPEAMENTO DE PERCEPÇÕES SOBRE IMPACTOS GERADOS PELA PRESENÇA DA UNIVERSIDADE FEDERAL FLUMINENSE EM ITAPERUNA, RJ, A LUZ DE CRITÉRIOS DA SUSTENTABILIDADE Orientador(a): Helder Gomes Costa
+
+###### Sergio Pereira Távora
+
+Data de defesa: 09/12/2003
+Título: Gestão do Tratamento de Óleos Lubrificantes Usados: Contribuição ao Atendimento a Resolução 09/03 e Portaria ANP 125/99 Orientador(a): Osvaldo Luiz Gonçalves Quelhas
+ | 
+
+###### Sergio Ribeiro de SantAna
+
+Data de defesa: 30/08/2005
+Título: PROPOSTA DE PROGRAMA DE PROTEÇÃO RESPIRATÓRIA EM LABORATÓRIOS: O CASO DE UM CENTRO DE PESQUISA. Orientador(a): Sérgio Pinto Amaral
+
+###### Sérgio Ricardo de Magalhães Souza
+
+Data de defesa: 30/12/2002
+Título: Seis Sigma - Obstáculos e Oportunidades Competitivas para as Seguradoras Brasileiras. Orientador(a): José Rodrigues de Farias Filho
+ | 
+
+###### Sergio Ricardo Fernandes da Silva
+
+Data de defesa: 22/08/2003
+Título: PROPOSTA DE SISTEMA DE GESTÃO DE SEGURANÇA DO TRABALHO NA MONTAGEM ELETROMECÂNICA DE USINAS TERMELÉTRICAS DO TIPO FAST-TRACK Orientador(a): Gilson Brito Alves Lima
+
+--------------------------------------------------------------------------------
+✔️ Filiados ao PP de BRASÍLIA / DF - Página 13 (https://brasilia-df.filiaweb.com/filiados/pp?page=13)
+citeturn348search3 [wordlim: 200] Published: 10.1 years ago; Crawled: 2 months ago; SENHORA DO CARMO DE JESUS  | 0037163***38  | 17/03/1988 ... SENILZA PEREIRA DOS SANTOS DA PAIXAO  | 0160960***20  | 20/01/2005 ... SERGIO ANTONIO PEREIRA  | 0052703***54  | 25/02/2005 ... SERGIO BATISTA DE SENA FILHO  | 0030346***03  | 16/05/1986
+SELMA OTAVIANO DE LIMA  | 0128928***62  | 10/02/2011
+SELMA REGINA NOBRE  | 0021899***11  | 06/04/1988
+SELMA SOUSA ROCHA  | 0033975***54  | 05/02/1990
+SELMA VIEIRA COSTA  | 0095577***38  | 21/01/1994
+SELMO ALVES PEREIRA  | 0090758***62  | 18/01/1994
+SELSO RENATO BAGOLIN  | 0004963***11  | 15/05/1988
+SEMIRAMES ALVES DE FONTES  | 0045820***97  | 29/03/1988
+SENHORA DO CARMO DE JESUS  | 0037163***38  | 17/03/1988
+SENHORINHA ALMEIDA LARA  | 0026646***20  | 26/09/2001
+SENILZA PEREIRA DOS SANTOS DA PAIXAO  | 0160960***20  | 20/01/2005
+SENILZA VIEIRA VIANA  | 0077737***54  | 20/05/1988
+SERGIO ALBUQUERQUE DE ABREU E LIMA  | 0016996***70  | 29/04/1994
+SERGIO ALEXANDRE DE MACEDO VERAS  | 0144487***62  | 04/04/2014
+SERGIO ANTONIO PEREIRA  | 0052703***54  | 25/02/2005
+SERGIO ANTONIO SANTOS  | 0050108***03  | 07/12/1992
+SERGIO ANUNCIACAO DE LEAO  | 0122832***03  | 25/02/2005
+SERGIO ARAUJO SANTANA  | 0141498***54  | 26/09/2001
+SERGIO AUGUSTO BATISTA DOS REIS  | 0092906***11  | 08/04/1998
+SERGIO BATISTA DE SENA FILHO  | 0030346***03  | 16/05/1986
+SERGIO DA ROCHA SILVA  | 0214218***11  | 05/07/2009
+SERGIO DE ARAUJO  | 0111724***11  | 26/09/2001
+SERGIO DE LIMA  | 0819903***81  | 20/05/2013
+SERGIO DOS REIS MELO  | 0113961***46  | 26/09/2001
+SERGIO JOSE LOPES  | 0005260***20  | 03/01/1994
+SERGIO JOSE QUEIROZ ALARCAO  | 0110304***54  | 01/03/2009
+SERGIO KLIER DANTAS  | 0038949***46  | 18/03/1988
+SERGIO LIMA DA GRAÃA  | 0011243***46  | 09/10/2013
+SERGIO LUIS DA SILVA ANDRADE  | 0108244***62  | 14/05/2005
+SERGIO LUIZ DE JESUS MONTEIRO  | 0065306***46  | 17/03/1988
+SERGIO LUIZ DE OLIVEIRA  | 0079804***54  | 05/03/2005
+SERGIO LUIZ FELTRINI  | 0124943***03  | 30/05/2001
+SERGIO LUIZ ROCHA  | 0062898***70  | 05/12/1984
+SERGIO LUIZ RODRIGUES DA SILVA  | 0130725***97  | 05/10/2001
+SERGIO MAICON BEZERRA TORQUATO  | 0073829***54  | 14/05/1990
+SERGIO MANUEL DE ASSIS OLIVEIRA ROCHA  | 0032270***03  | 27/07/1989
+SERGIO MOURA DE LIMA  | 0163540***97  | 29/03/2005
+SERGIO MURILO BATISTA  | 0039258***70  | 10/03/2005
+--------------------------------------------------------------------------------
+Cadernos Eleitorais Provisórios 2014 (https://livrozilla.com/doc/844322/cadernos-eleitorais-provis%C3%B3rios-2014)
+citeturn348search4 [wordlim: 200] Crawled: today;     TÂNIA FILIPA JESUS PEREIRA ...     DIANA ANDREIA GOMES BRANCO ...     MANUELA ARMANDA VIEIRA CARDOSO    JOANA MARGARIDA DA SILVA ARMINDO ...     JACINTO JOÃO DA SILVA DUARTE DE ALMEIDA ...     LUIS MIGUEL COELHO MARTINS ...     CLÁUDIA PERPÉTUA MANIQUE DOS SANTOS
+--------------------------------------------------------------------------------
+✔️ Filiados ao PT de TOLEDO / PR - Página 1 (https://toledo-pr.filiaweb.com/filiados/pt)
+citeturn348search5 [wordlim: 200] Published: 10.1 years ago; Crawled: last week; SALETE FERREIRA LEAL DOS SANTOS  | 0206479***98  | 27/12/1995 ... SANTINA PAULO DO NASCIMENTO  | 0206096***47  | 15/07/1982 ... SEBASTIAO PEREIRA  | 0223945***71  | 03/01/1984 ... SERGIO ANDRADE DE OLIVEIRA  | 0799329***80  | 10/04/2011SERGIO APARECIDO DE SOUZA  | 0502079***47  | 11/11/2003 ... SERGIO CEZARINO DA SILVA  | 0747428***47  | 21/09/2003
+--------------------------------------------------------------------------------
+✔️ Filiados ao PSB de PORTO ALEGRE / RS - Página 4 (https://portoalegre-rs.filiaweb.com/filiados/psb?page=4)
+citeturn348search6 [wordlim: 200] Published: 10.1 years ago; Crawled: today; PAULO ROBERTO DE SOUZA RODRIGUES  | 0250888***18  | 01/10/2015 ... PAULO ROBERTO PEREIRA DA SILVA  | 0392304***34  | 27/06/2007 ... PAULO SERGIO ALVES DOS SANTOS  | 0223964***00  | 02/01/2010 ... PAULO SERGIO DA CRUZ PEREIRA  | 0688736***85  | 30/03/2001
+--------------------------------------------------------------------------------
+6.365 - Alesc - Governo do Estado de Santa Catarina (https://livrozilla.com/doc/860738/6.365---alesc---governo-do-estado-de-santa-catarina)
+citeturn348search7 [wordlim: 200] Published: 14.8 years ago; Crawled: today;     SCHIRLEI DE AZEVEDO DO AMARAL RIBEIRO ...     SERGIO LUIZ DA SILVA ...     SERGIO NEY SANT'ANA DE OLIVEIRA ...     SILAS ANTONIO VITORIO PEREIRA
+--------------------------------------------------------------------------------
+✔️ Filiados ao PR de JARAGUÁ DO SUL / SC - Página 1 (https://jaraguadosul-sc.filiaweb.com/filiados/pr)
+citeturn348search8 [wordlim: 200] Published: 10.1 years ago; Crawled: last week; ROSMARA DO ROCIO RODRIGUES  | 0233645***22  | 22/04/2003 ... RUTE MARIA PEREIRA  | 0204846***06  | 30/09/2009 ... SANDRA MAISTER DE SOUZA  | 0306872***49  | 07/10/2011 ... SERGIO DOMINGUES DA SILVA  | 0263272***73  | 26/09/1997 ... SERGIO TOBIAS DE CARVALHO  | 0285801***14  | 13/07/2007
+--------------------------------------------------------------------------------
+( PDF ) Família, poder local e dominação um estudo sobre os processos de disputas políticas da(s) família(s) ernesto-rêgo em Queimadas-PB (https://www.livrosgratis.com.br/ler-livro-online-112595/familia-poder-local-e-dominacao-um-estudo-sobre-os-processos-de-disputas-politicas-das-familias-ernesto-rego-em-queimadas-pb)
+citeturn348search9 [wordlim: 200] Published: 17.5 years ago; Crawled: 5.8 years ago; Pereira ia ser mais aceito do que o de Assis, porque Assis foi uma ... escolher quem seria o “cabeça da chapa”, Tião tinha bastante cuidado com as palavras ... ou Assis e Zé Pereira, ele dizia assim um dos dois, até pra isso ele ... Após assumir o cargo de prefeito, José Pereira não concordando que Tião ... liderança política da década de 40 e presidente do PMDB local. ... Carlos Dunga, então deputado, e do destacado líder político da Paraíba naquele
+--------------------------------------------------------------------------------
+Uma Vida Militante - Fundação Astrojildo Pereira (https://fundacaoastrojildo.org.br/jose-montenegro/vida-militante/)
+citeturn348search10 [wordlim: 200] Crawled: today; Fora deputado estadual da Guanabara, cassado em 1964, quando também perdeu os direitos políticos para se manter na presidência do Sindicato dos Tecelões do Rio de Janeiro e da Comissão Permanente das Organizações Sindicais da Guanabara. ... O documento começava por lembrar que o “XX Congresso do PCUS (Partido Comunista da União Soviética) deu grande destaque ao princípio leninista segundo o qual o Partido deve ser dirigido por organismos que funcionem de modo regular e coletivo”. ... Descrevia o movimento das quedas na direção estadual do Rio de Janeiro ou o desbaratamento da organização partidária na Volkswagen do Brasil, em São Bernardo do Campo – que era integrada por quase trinta operários todos jovens como ele. ... E ali estava a Seção Juvenil do PCB, uma fração da UNE, para decidir quem nós apoiaríamos se o José Serra ou um baiano, ambos candidatos do grupo Ação Popular (AP), disputando a presidência da UNE. ... Com ele presidente, nós não só teríamos uma base política e social maior para a UNE, como contaríamos com uma presença maior do PCB porque nos apoios estaduais o candidato que viria era sempre do Partido.

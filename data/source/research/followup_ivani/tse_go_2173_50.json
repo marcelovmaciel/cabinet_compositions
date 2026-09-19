@@ -1,0 +1,16 @@
+{
+  "party": "AVANTE",
+  "id": 50,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 760,
+      "totalElements": 760,
+      "response_sha256": "a364ec5410a71f68b88a66eb192a9e40bfc0bc1502b337c618e4d27559e8027c",
+      "retrieved_utc": "2026-09-10T23:36:01Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,16 @@
+{
+  "uf": "RS",
+  "municipio": "7733",
+  "party": "PODE",
+  "id": 43,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=43&currentPage=0&pageSize=10000",
+      "records": 24,
+      "totalElements": 24,
+      "response_sha256": "401c6889c270d73bfbb65575a4281a5e30b8b2db7b9034cda486e1fd64601802",
+      "retrieved_utc": "2026-09-11T01:12:02Z"
+    }
+  ],
+  "matches": []
+}

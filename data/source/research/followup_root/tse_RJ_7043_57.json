@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "7043",
+  "city": "RIO DE JANEIRO",
+  "party": "AGIR",
+  "id": 57,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=7043&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 4206,
+      "totalElements": 4206,
+      "response_sha256": "a8171da4b750ab4c841d14a5375ce976aa5c7185b9338c501ce7dca65948eaab",
+      "retrieved_utc": "2026-09-10T23:41:18Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,573 @@
+AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL (https://antigo.aneel.gov.br/web/guest/contratos-de-transmissao?_contratos_WAR_contratosdeconcessaoportlet_INSTANCE_2BISaPYGbgFH_ano=0&_contratos_WAR_contratosdeconcessaoportlet_INSTANCE_2BISaPYGbgFH_codArquivo=542&p_p_cacheability=cacheLevelPage&p_p_col_count=2&p_p_col_id=column-1&p_p_id=contratos_WAR_contratosdeconcessaoportlet_INSTANCE_2BISaPYGbgFH&p_p_lifecycle=2&p_p_mode=view&p_p_state=normal)
+citeturn310search12 [wordlim: 200] Published: 10 months ago; CLÁUSULA DÉCIMA QUARTA – PUBLICAÇÃO E REGISTRO DO CONTRATO ... Nome: Paulo Jerônimo Bandeira de Mello Pedrosa
+Contrato de Concessão de Transmissão no 143/2001 – ANEEL – CTEEP – Fls. 20 de 33 
+CLÁUSULA DÉCIMA QUARTA – PUBLICAÇÃO E REGISTRO DO CONTRATO 
+O presente CONTRATO será registrado e arquivado na ANEEL, que providenciará, dentro dos 20 
+(vinte) dias de sua assinatura, a publicação de seu extrato no Diário Oficial. 
+Assim estando ajustado, fizeram as partes lavrar o presente instrumento, em 3 (três) vias, de igual 
+teor, que são assinadas pelos representantes da ANEEL e da TRANSMISSORA, juntamente com 
+duas testemunhas, para os devidos efeitos legais. 
+_____________________________________ 
+CELSO SEBASTIÃO CERCHIARI 
+Diretor Técnico 
+ 
+Brasília - DF, em  21 de dezembro de 2001 
+ 
+PELA ANEEL: 
+ 
+__________________________________ 
+JOSÉ MÁRIO MIRANDA ABDO 
+Diretor-Geral 
+ 
+PELA TRANSMISSORA: 
+ 
+____________________________________ 
+JOSÉ SIDNEI COLOMBO MARTINI 
+Presidente 
+ 
+PELO ACIONISTA CONTROLADOR: 
+ 
+______________________________________ 
+MAURO GUILHERME JARDIM ARCE 
+Secretário de Estado de Energia 
+ 
+TESTEMUNHAS: 
+ 
+_______________________________________ 
+Nome:  
+CPF:  
+_______________________________________ 
+Nome: Paulo Jerônimo Bandeira de Mello Pedrosa 
+CPF: 309.880.471-87 
+PROCURADORIA
+GERAL/ANEEL  | 
+--- | ---
+VISTO  |--------------------------------------------------------------------------------
+EQUATORIAL S.A. (https://assetfront.arquivosparceiros.cloud.itau.com.br/ESG/RelatorioSegundoTrimestre2025.pdf)
+citeturn310search13 [wordlim: 200] Published: 1.2 years ago; <td>As demonstrações financeiras da Companhia, acompanhadas das respectivas notas explicativas, do relatório dos auditores independentes, do parecer do Comitê de Auditoria Estatutário e do parecer do Conselho Fiscal, referentes ao exercício social encerrado em 31 de dezembro de 2024.</td> ... Eduardo Parente Menezes, Guilherme Mexias Achê, Paulo Jerônimo Bandeira de Mello Pedrosa, Luís Henrique de Moura Gonçalves, Tania Sztamfater Chocolat, Tiago de Almeida Noel, Dennis Herszkowicz e Tinn Freire Amado.</td>
+<td>APROVAR</td>
+</tr>
+<tr>
+<td>AGO</td>
+<td>5.</td>
+<td>Deseja requerer a adoção do processo de voto múltiplo para eleição do conselho de administração, nos termos do art. 141 da Lei nº 6.404, de 1976?<br>Caso o acionista opte por “não” ou “abster-se”, suas ações não serão computadas para fins de requerimento do voto múltiplo.</td>
+<td>ABSTER-SE</td>
+</tr>
+<tr>
+<td>AGO</td>
+<td>6.</td>
+<td>Eleição do conselho de administração por chapa única. Indicação de todos os nomes que compõem a chapa.<br><br>Os votos indicados neste campo serão desconsiderados caso o acionista detentor de ações com direito a voto também preencha os campos presentes na eleição em separado de membro do conselho de administração e a eleição em separado de que tratam esses campos ocorra. Eduardo Parente Menezes, Guilherme Mexias Achê, Paulo Jerônimo Bandeira de Mello Pedrosa, Luís Henrique de Moura Gonçalves, Tania Sztamfater Chocolat, Tiago de Almeida Noel, Dennis Herszkowicz e Tinn Freire Amado.</td>
+<td>APROVAR</td>
+</tr>
+<tr>
+<td>AGO</td>
+<td>7.</td>
+<td>Caso um dos candidatos que compõem a chapa escolhida deixe de integrá-la, os votos correspondentes às suas ações podem continuar sendo conferidos à chapa escolhida?</td>
+<td>SIM</td>
+</tr>
+<tr>
+<td>AGO</td>
+<td>8.</td>
+<td>Em caso de adoção do processo de eleição por voto múltiplo, os votos correspondentes às suas ações devem ser distribuídos em percentuais igualitários pelos membros da chapa que você escolheu?<br><br>Caso o acionista opte por “sim” e também indique o tipo de resposta “aprovar” para candidatos específicos dentre os relacionados abaixo, seus votos serão distribuídos proporcionalmente entre estes candidatos.<br><br>Caso o acionista opte por “abster-se” e a eleição ocorra pelo processo de voto múltiplo, seu voto deve ser computado como abstenção na respectiva deliberação da assembleia.</td>
+<td>SIM</td>
+</tr>
+<tr>
+<td>AGO</td>
+<td>9.1.</td>
+<td>Visualização de todos os candidatos que compõem a chapa para indicação da distribuição do voto múltiplo.<br>Eduardo Parente Menezes.</td>
+<td>APROVAR</td>
+</tr>
+<tr>
+<td>AGO</td>
+<td>9.2.</td>
+<td>GUILHERME MEXIAS ACHÊ</td>
+<td>APROVAR</td>
+</tr>
+<tr>
+<td>AGO</td>
+<td>9.3.</td>
+<td>PAULO JERÔNIMO BANDEIRA DE MELLO PEDROSA</td>
+<td>APROVAR</td>
+</tr>
+<tr>
+<td>AGO</td>
+<td>9.4.</td>
+<td>LUÍS HENRIQUE DE MOURA GONÇALVES</td>
+<td>APROVAR</td>
+</tr>
+<tr>
+<td>AGO</td>
+<td>9.5.</td>
+<td>TANIA SZTAMFATER CHOCOLAT</td>
+<td>APROVAR</td>
+</tr>
+<tr>
+<td>AGO</td>
+<td>9.6.</td>
+<td>TIAGO DE ALMEIDA NOEL</td>
+<td>APROVAR</td>
+</tr>
+<tr>
+<td>AGO</td>
+<td>9.7.</td>
+<td>DENNIS HERSZKOWICZ</td>
+<td>APROVAR</td>
+</tr>
+</table>--------------------------------------------------------------------------------
+Substituto  
+PAULO JERÔNIMO BANDEIRA DE MELLO PEDR (https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/biblioteca-da-pr/galeria-dos-ex-presidentes/michel-miguel-elias-temer-lulia/composicao-ministerial/%40%40download/file/ministerios-gov-mt-0901.pdf)
+citeturn310search14 [wordlim: 200] Published: 7.7 years ago; PAULO JERÔNIMO BANDEIRA DE MELLO PEDROSA ... Ministério do Esporte
+Substituto  
+PAULO JERÔNIMO BANDEIRA DE MELLO PEDROSA  
+Nascimento: Rio de Janeiro-RJ, 1962  
+Período: 02.06.2016 a 06.04.2018  
+
+Ministério do Desenvolvimento Social e Agrário  
+
+Ministro  
+OSMAR GASPARINI TERRA  
+Nascimento: Porto Alegre, 1950  
+Período: 12.05.2016 a 06.04.2018  
+
+ALBERTO BELTRAME  
+Nascimento: Santa Rosa-RS, 1959  
+Período: 10.04.2018 a 01.01.2019  
+
+Interino  
+ALBERTO BELTRAME  
+Nascimento: Santa Rosa-RS, 1959  
+Período: 19.05.2016 a 10.04.2018  
+
+Ministério do Esporte  
+
+Ministro  
+LEONARDO CARNEIRO MONTEIRO PICCIANI  
+Nascimento: Nilópolis-RJ, 1979  
+Período: 12.05.2016 a 20.10.2017  
+26.10.2017 a 06.04.2018  
+
+LEANDRO CRUZ FRÓES DA SILVA  
+Nascimento: Rio de Janeiro-RJ, 1979  
+Período: 10.04.2018 a 01.01.2019  
+
+Interino  
+FERNANDO AVELINO BOESCHENSTEIN VIEIRA  
+Nascimento: Rio de Janeiro-RJ, 1957  
+Período: 03.06.2016  
+
+Ministério do Meio Ambiente  
+
+Ministro  
+JOSÉ SARNEY FILHO  
+Nascimento: São Luís-MA, 1957  
+Período: 12.05.2016 a 20.10.2017  
+26.10.2017 a 06.04.2018  
+
+EDSON GONÇALVES DUARTE--------------------------------------------------------------------------------
+ (https://www.gov.br/mme/pt-br/acesso-a-informacao/legislacao/decretos/2017/decreto-n-9-041-2017.pdf)
+citeturn310search15 [wordlim: 200] Published: 9.4 years ago; resultado pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP. ... Paulo Jerônimo Bandeira de Mello Pedrosa
+Decreto no 9.041/2017 - fls. 2 
+ 
+II - poderá compor o consórcio com o licitante vencedor, se o percentual do 
+excedente em óleo da União ofertado no leilão para a área licitada for superior ao percentual 
+mínimo estabelecido no edital, devendo manifestar sua decisão durante a rodada de licitação. 
+ 
+Parágrafo único.  Na hipótese de a Petrobras não compor o consórcio, conforme 
+faculdade prevista no inciso II do caput, o licitante vencedor indicará o operador e os 
+percentuais de participação de cada contratado do consórcio, condição para homologação do 
+resultado pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP. 
+ 
+Art. 5º Este Decreto entra em vigor na data de sua publicação. 
+ 
+Brasília, 2 de maio de 2017; 196º da Independência e 129º da República. 
+ 
+MICHEL TEMER 
+Paulo Jerônimo Bandeira de Mello Pedrosa 
+ 
+Este texto não substitui o publicado no DOU de 3.5.2017.--------------------------------------------------------------------------------
+Paulo Jeronimo Bandeira de Mello Pedrosa - Sócio de 4 empresas - Veja Informações Completas | Adv Dinâmico (https://advdinamico.com.br/socios/paulo-jeronimo-bandeira-de-mello-pedrosa-8063c25b)
+citeturn310search0 [wordlim: 200] Crawled: last week; Augusto Miranda da Paz Junior Presidente Desde: 25/10/2017 Cristiano de Lima Logrado Diretor Desde: 11/05/2022 Dennis Herszkowicz Conselheiro de Administração Desde: 07/11/2024 Eduardo Parente Menezes Conselheiro de Administração Desde: 23/05/2023 Guilherme Mexias Ache Conselheiro de Administração Desde: 28/05/2019 Humberto Luis Queiroz Nogueira Diretor Desde: 25/10/2017 Jose Ailton Rodrigues Diretor Desde: 31/05/2023 Jose Silva Sobral Neto Diretor Desde: 11/01/2021 Leonardo da Silva Lucas Tavares de Lima Diretor Desde: 25/10/2017 Luis Henrique de Moura Goncalves Conselheiro de Administração Desde: 28/05/2019 Marcos Antonio Souza de Almeida Diretor Desde: 18/11/2022 Mauricio Alvares da Silva Velloso Ferreira Diretor Desde: 02/08/2022 Michele Teixeira da Silva Diretor Desde: 02/06/2026 Paulo Jeronimo Bandeira de Mello Pedrosa Conselheiro de Administração Desde: 28/05/2019 Tania Sztamfater Chocolat Conselheiro de Administração Desde: 28/05/2019 Tiago de Almeida Noel Conselheiro de Administração Desde: 17/05/2021 Tinn Freire Amado Conselheiro de Administração Desde: 31/05/2023
+
+## Paulo Jeronimo Bandeira de Mello Pedrosa
+
+4 empresas
+
+Consultar Processos
+
+# Paulo Jeronimo Bandeira de Mello Pedrosa
+
+  * Solicitar Privacidade
+
+4 empresas Pessoa Física
+
+BRASILIA - DF, SAO LUIS - MA e outras cidades
+
+Qualificação: Presidente
+
+Consultar Processos de Paulo
+
+## Empresas do Sócio Paulo Jeronimo Bandeira de Mello Pedrosa
+
+### Participações Societárias
+
+Associacao Brasileira de Grandes Consumidores Industriais de Energia e de Consumidores Livres - Abrace
+
+CNPJ
+
+53.812.772/0001-94
+
+Data de fundação
+
+05/09/1984
+
+Razão Social
+
+Associacao Brasileira de Grandes Consumidores Industriais de Energia e de Consumidores Livres - Abrace
+
+Nome Fantasia
+
+Abrace Energia
+
+Natureza Jurídica
+
+Associação Privada
+
+Capital Social
+
+R$ 0,00
+
+Situação
+
+Ativa
+
+Porte da Empresa
+
+Demais
+
+Cidade
+
+BRASILIA - DF
+
+Atividade Principal
+
+Atividades de organizações associativas patronais e empresariais
+
+#### Sócios da Empresa
+
+Paulo Jeronimo Bandeira de Mello Pedrosa Presidente Desde: 20/02/2019
+
+Pjp Assessoria Empresarial LTDA
+
+CNPJ
+
+46.830.403/0001-69
+
+Data de fundação
+
+20/06/2022
+
+Razão Social
+
+Pjp Assessoria Empresarial LTDA
+
+Nome Fantasia
+
+Nexo
+
+Natureza Jurídica
+
+Sociedade Empresária Limitada
+
+Capital Social
+
+R$ 3.000,00
+
+Situação
+
+Ativa
+
+Porte da Empresa
+
+Empresa de Pequeno Porte
+
+Cidade
+
+BRASILIA - DF
+
+Atividade Principal
+
+Serviços combinados de escritório e apoio administrativo
+
+#### Sócios da Empresa
+
+Paulo Jeronimo Bandeira de Mello Pedrosa Sócio-Administrador Desde: 20/06/2022
+
+Equatorial S.a.
+
+CNPJ
+
+03.220.438/0001-73
+
+Data de fundação
+
+16/06/1999
+
+Razão Social
+
+Equatorial S.a.
+
+Nome Fantasia
+
+Natureza Jurídica
+
+Sociedade Anônima Aberta
+
+Capital Social
+
+R$ 22.211.539.253,50
+
+Situação
+
+Ativa
+
+Porte da Empresa
+
+Demais
+
+Cidade
+
+SAO LUIS - MA
+
+Atividade Principal
+
+Holdings de instituições não-financeiras
+
+#### Sócios da Empresa
+
+Augusto Miranda da Paz Junior Presidente Desde: 25/10/2017 Cristiano de Lima Logrado Diretor Desde: 11/05/2022 Dennis Herszkowicz Conselheiro de Administração Desde: 07/11/2024 Eduardo Parente Menezes Conselheiro de Administração Desde: 23/05/2023 Guilherme Mexias Ache Conselheiro de Administração Desde: 28/05/2019 Humberto Luis Queiroz Nogueira Diretor Desde: 25/10/2017 Jose Ailton Rodrigues Diretor Desde: 31/05/2023 Jose Silva Sobral Neto Diretor Desde: 11/01/2021 Leonardo da Silva Lucas Tavares de Lima Diretor Desde: 25/10/2017 Luis Henrique de Moura Goncalves Conselheiro de Administração Desde: 28/05/2019 Marcos Antonio Souza de Almeida Diretor Desde: 18/11/2022 Mauricio Alvares da Silva Velloso Ferreira Diretor Desde: 02/08/2022 Michele Teixeira da Silva Diretor Desde: 02/06/2026 Paulo Jeronimo Bandeira de Mello Pedrosa Conselheiro de Administração Desde: 28/05/2019 Tania Sztamfater Chocolat Conselheiro de Administração Desde: 28/05/2019 Tiago de Almeida Noel Conselheiro de Administração Desde: 17/05/2021 Tinn Freire Amado Conselheiro de Administração Desde: 31/05/2023
+
+Entrada como Conselheiro de Administração
+
+Empresa fundada em 16/06/1999
+
+Holdings de instituições não-financeiras
+
+20/06/2022
+
+Pjp Assessoria Empresarial LTDA
+
+Entrada como Sócio-Administrador
+
+Empresa fundada em 20/06/2022
+
+Serviços combinados de escritório e apoio administrativo
+
+## Análise das Participações Societárias
+
+### Resumo Geral
+
+Total de Empresas
+
+4
+
+Empresas Ativas
+
+3
+
+Capital Social Total
+
+R$ 22.211.542.253,50
+
+Primeira Participação
+
+05/09/1984
+
+### Distribuição Geográfica
+
+DF
+
+3 empresas
+
+MA
+
+1 empresa
+
+## Setores de Atuação
+
+### Principais Atividades Econômicas
+
+Atividades de organizações associativas patronais...
+
+1 empresa
+
+Serviços combinados de escritório e apoio administ...
+
+1 empresa
+
+Holdings de instituições não-financeiras
+
+1 empresa
+
+Serviços de engenharia
+
+1 empresa
+
+## Perguntas Frequentes sobre Paulo Jeronimo Bandeira de Mello Pedrosa
+
+### Quem é Paulo Jeronimo Bandeira de Mello Pedrosa e em quais empresas participa?
+
+Paulo Jeronimo Bandeira de Mello Pedrosa é uma pessoa física que atua como sócio em 4 empresa(s) no Brasil. --------------------------------------------------------------------------------
+REPÚBLICA FEDERATIVA DO BRASIL (https://imagem.camara.gov.br/Imagem/d/pdf/DCD22MAI2012.pdf.pdf)
+citeturn310search16 [wordlim: 200] Published: 10 months ago; Paulo Jerônimo Bandeira de Mello Pedrosa, Presi­ ... Mediador: Luiz Antonio Cintra, Editor de Economia da ... 70% de peças produzidas no Brasil”. ... deração das Indústrias do Estado de São Paulo. ... MORAMENTO DO SETOR INDUSTRIAL BRASILEIRO
+5. Paulo Jerônimo Bandeira de Mello Pedrosa, Presi­
+dente da Associação Brasileira dos Grandes Consu­
+midores Industriais de Energia e Consumidores Livres 
+– ABRACE. *
+Das 17h30 às 18h – Debates
+Coordenador: Deputado Sebastião Bala Rocha *
+Mediador: Luiz Antonio Cintra, Editor de Economia da 
+Revista Carta Capital *
+18h30 – Encerramento
+* Presença confirmada
+AVISOS
+PROPOSIÇÕES EM FASE DE RECEBIMENTO DE 
+EMENDAS (5 SESSÕES) 
+DECURSO: 1ª SESSÃO 
+ÚLTIMA SESSÃO: 28-05-12 
+Substitutivo (Art. 119, II e §1º) 
+AS PROPOSIÇÕES ABAIXO SOMENTE RECEBE­
+RÃO EMENDAS APRESENTADAS POR MEMBROS 
+DESTA COMISSÃO 
+PROJETO DE LEI Nº 1.770/11 – do Sr. Vicentinho – 
+que “dispõe sobre a obrigatoriedade de as montadoras 
+de veículos utilizarem, na fabricação de seus produtos, 
+70% de peças produzidas no Brasil”. 
+RELATOR: Deputado JOÃO MAIA. 
+PROJETO DE LEI Nº 2.067/11 – do Senado Federal – 
+Sérgio Zambiasi – (PLS 203/2009) – que “acrescenta 
+§ 5º ao art. 58 da Lei nº 8.213, de 24 de julho de 1991, 
+--------------------------------------------------------------------------------
+Pesquisa textual | Tribunal de Contas da União (https://pesquisa.apps.tcu.gov.br/doc/processo/1554820201)
+citeturn310search1 [wordlim: 200] Crawled: last month; O presente processo, autuado sob o número 015.548/2020-1, refere-se à Prestação de Contas Ordinária do Ministério de Minas e Energia (MME), relativa ao exercício financeiro de 2018. ...   * Paulo Jeronimo Bandeira de Mello Pedrosa - (XXX.880.471-XX)
+
+  * Wellington Moreira Franco - (XXX.568.787-XX)
+  * Paulo Jeronimo Bandeira de Mello Pedrosa - (XXX.880.471-XX)
+  * Edvaldo Luis Risso - (XXX.199.978-XX)
+  * Marcio Felix Carvalho Bezerra - (XXX.016.491-XX)
+  * Domingos Romeu Andreatta - (XXX.548.069-XX)
+  * João José de Nora Souto - (XXX.906.345-XX)
+  * Maria José Gazzi Salum - (XXX.116.616-XX)
+  * Ildo Wilson Grüdtner - (XXX.801.169-XX)
+  * Moacir Carlos Bertol - (XXX.720.479-XX)
+  * Weibson Gustavo de Souza Gomes - (XXX.284.294-XX)
+  * Manoel Humberto Lemos da Silva - (XXX.252.674-XX)
+  * Vicente Humberto Lobo Cruz - (XXX.068.006-XX)
+  * Eduardo Azevedo Rodrigues - (XXX.263.754-XX)
+  * Fabio Lopes Alves - (XXX.886.784-XX)
+  * Orlando Henrique Costa de Oliveira - (XXX.410.875-XX)
+  * Fernando Bezerra de Souza Coelho Filho - (XXX.210.934-XX)
+  * Mauricyo Jose Andrade Correia - (XXX.201.104-XX)
+  * Joao Vicente de Carvalho Vieira - (XXX.893.307-XX)
+  * Wiler Tristao de Castro - (XXX.580.551-XX)
+
+### Estado
+
+Encerrado
+
+### Assunto do processo
+
+Prestação de Contas Ordinária de MINISTÉRIO DE MINAS E ENERGIA (VINCULADOR) relativa ao Exercício Financeiro de 2018
+
+### Unidades Jurisdicionadas
+
+  * MME - Ministério de Minas e Energia
+
+### Outras informações sobre o processo
+
+  * Deliberações deste processo
+  * Conecta TCU: Vista eletrônica, espelho e outros launch
+
+### Peças recentes - transparência ativa
+
+  * insert_drive_file Peça 79 - Despacho de expediente Assunto: Despacho de encerramento - Processo 015.548/2020-1
+  * insert_drive_file Peça 78 - Despacho Assunto: Despacho de Conclusão das Comunicações Processuais
+  * insert_drive_file Peça 31 - Excerto Assunto: Acórdão Nº 6435/2023-TCU-Segunda Câmara - Relator Ministro ANTONIO ANASTASIA Acórdão Nº 6435/2023-TCU-Segunda Câmara - Relator Ministro ANTONIO ANASTASIA
+--------------------------------------------------------------------------------
+REPÚBLICA FEDERATIVA DO BRASIL (https://imagem.camara.gov.br/Imagem/d/pdf/DCD0020130924001660000.PDF)
+citeturn310search17 [wordlim: 200] Published: 1.2 years ago; Paulo Jerônimo Bandeira de Mello Pedrosa, Presiden- ... dutos do Instituto Aço Brasil – IABR; ... gia do Instituto de Economia da UFRJ;
+119, II e §1º) 
+Palestrantes:
+Mário Luiz Menel da Cunha, Presidente da Associa-
+ção Brasileira dos Investidores em Autoprodução de 
+Energia – ABIAPE;
+Luiz Pedro Biazoto, Consultor de Energia da Associação 
+Nacional dos Fabricantes de Cerâmica para Revesti-
+mentos, Louças Sanitárias e Congêneres – ANFACER;
+Paulo Jerônimo Bandeira de Mello Pedrosa, Presiden-
+te da Associação Brasileira de Grandes Consumido-
+res Industriais de Energia e de Consumidores Livres 
+– ABRACE;
+Cassius Cerqueira, Gerente de Suprimentos e Copro-
+dutos do Instituto Aço Brasil – IABR;
+10h50 – 11h50 – 2ª Mesa
+AS PROPOSIÇÕES ABAIXO SOMENTE RECEBE-
+RÃO EMENDAS APRESENTADAS POR MEMBROS 
+DESTA COMISSÃO 
+PROJETO DE LEI Nº 5.699/13 – Do Sr. Carlos Bezer-
+ra – que “acrescenta o art. 19-A à Lei nº 6.404, de 15 
+de dezembro de 1976, para possibilitar aos titulares 
+não identificados ou não localizados que reclamem, a 
+qualquer tempo, suas ações e para tornar imprescrití-
+veis os dividendos desta ações”. 
+--------------------------------------------------------------------------------
+Diretor indicado da Aneel anuncia que Governo deverá adotar racionamento — Senado Notícias (https://www12.senado.leg.br/noticias/materias/2001/05/02/diretor-indicado-da-aneel-anuncia-que-governo-devera-adotar-racionamento)
+citeturn310search2 [wordlim: 200] Published: 25.4 years ago; Crawled: last week; Em reunião da Comissão de Serviços de Infra-Estrutura nesta quarta-feira (dia 2), Paulo Jerônimo Bandeira de Mello Pedrosa, indicado diretor da Agência Nacional de Energia Elétrica (Aneel), anunciou que o Conselho Nacional de Política Energética irá recomendar ao presidente da República a adoção do racionamento de energia elétrica em todo o país. ... O senador Teotônio Vilela Filho (PSDB-AL) observou que o desperdício de energia elétrica ainda é muito grande, daí achar necessário que o governo, com apoio da Aneel, inicie uma campanha de conscientização com vistas à economia de energia.
+Hartung afirmou que as chuvas foram regulares na maior parte do país e que o anunciado racionamento é em virtude da falta de investimentos no setor elétrico, principalmente na construção de novas linhas de transmissão.
+O anúncio do possível racionamento foi feito durante votação, na CI, de mensagem presidencial indicando os nomes dos engenheiros Paulo Jerônimo Bandeira de Mello Pedrosa e Eduardo Henrique Ellery Filho para exercerem cargos de direção na Aneel. A CI aprovou a indicação dos engenheiros. Ambos, durante os debates, defenderam maiores investimentos para o setor e fortalecimento de novas fontes de energia, com destaque para as termelétricas, como forma de o país possuir maior oferta de energia, a custos baixos.
+Os diretores indicados da Aneel também deixaram claro que investimentos em pequenas e médias usinas termelétricas e fontes alternativas de energia, como solar e eólica (ventos), ajudariam a afastar o fantasma do racionamento. O senador Teotônio Vilela Filho (PSDB-AL) observou que o desperdício de energia elétrica ainda é muito grande, daí achar necessário que o governo, com apoio da Aneel, inicie uma campanha de conscientização com vistas à economia de energia. --------------------------------------------------------------------------------
+Paulo Jerônimo Bandeira de Mello Pedrosa - Executive Bio, Work History, and Contacts - Equilar ExecAtlas (https://people.equilar.com/bio/person/paulo-pedrosa-equatorial-sa/36263177)
+citeturn310search3 [wordlim: 200] Published: 1.9 years ago; Crawled: last week; # Paulo Jerônimo Bandeira de Mello Pedrosa ... ### Paulo Jerônimo Bandeira de Mello Pedrosa's Executive Work History
+
+Featured Profile
+
+# Paulo Jerônimo Bandeira de Mello Pedrosa
+
+Board Member at Equatorial S.A.
+
+* * *
+
+### Paulo Jerônimo Bandeira de Mello Pedrosa's Executive Work History
+
+Current
+
+Board Member, Equatorial S.A.
+
+Past
+
+### Paulo Jerônimo Bandeira de Mello Pedrosa's Biography
+
+Mechanical engineer with 37 years of experience in government (executive and legislative), business, and academic sectors in the field of energy. He is the President of Abrace – Energia, an association representing large consumers. He is a member of the Board of Directors of Equatorial Energia, the Advisory Board of EPE (Energy Research Company), E+Painel, the National Industry Forum of CNI, and the Board of Directors of Equatorial Energia. He coordinates the Energy Working Group of Coinfra – Fiesp. He chaired Abraceel – the Brazilian Association of Energy Traders. He has served on the Boards of the National System Operator (ONS), Itaipu Binacional, and the distributors Light and Cemar. He was a Director at Aneel, Executive Secretary of the Ministry of Mines and Energy, and Interim Minister of State for Mines and Energy (MME).
+--------------------------------------------------------------------------------
+Diário Oficial da União - 20/01/2017 - Seção 2 - Pg. 1 | Escavador (https://www.escavador.com/diarios/424031/DOU/secao-2/2017-01-20?page=1)
+citeturn310search4 [wordlim: 200] Published: 9.6 years ago; Crawled: 3 weeks ago; Paulo Jerônimo Bandeira de Mello Pedrosa ... Paulo Jerônimo Bandeira de Mello Pedrosa ... ROSE MIRIAN HOFMANN do cargo de Diretora de Licenciamento Ambiental do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA, a partir de 17 de janeiro de 2017. ... MÁRCIO MARANHÃO BRASILINO DA SILVA, para compor o Tribunal Regional Eleitoral do Estado da Paraíba, no cargo de Juiz Substituto, em vaga decorrente do término do primeiro mandato de José Augusto Meirelles Neto.
+--------------------------------------------------------------------------------
+Abegás se desliga do Fórum do Gás Natural – Paranoá Energia (https://www.paranoaenergia.com.br/noticias/2020/02/28/abegas-expoe-divergencias-e-se-desliga-do-forum-do-gas-natural/)
+citeturn310search5 [wordlim: 200] Published: 6.5 years ago; Crawled: 5 months ago; Assinada pelo presidente executivo da Abegás, Augusto Salomon, a carta está datada de 27 de fevereiro e foi encaminhada ao coordenador geral do Fórum, Paulo Pedrosa (que também preside a Associação Brasileira dos Grandes Consumidores de Energia e dos Consumidores Livres – Abrace). ... “Ao se trazer para aprovação um texto elaborado unilateralmente, o qual trata acerca da Missão, Visão e Princípios do Fórum do Gás, sem uma discussão prévia e construção conjunta, esta Associação entende que o modelo de atuação adotado vai de encontro ao ambiente democrático e plural que (acredita-se) respaldaram a criação do Fórum de Gás”, ressaltou a Abegás, ao justificar a desfiliação.
+--------------------------------------------------------------------------------
+Geradores e comercializadores votam hoje nas seletivas da CCEE; veja os nomes - MegaWhat (https://megawhat.uol.com.br/mercado-livre/geradores-e-comercializadores-votam-hoje-nas-seletivas-da-ccee-veja-os-nomes/)
+citeturn310search6 [wordlim: 200] Published: 7 months ago; Crawled: 2 months ago; Na categoria de comercialização, foram apresentados nomes como Alexandre Pedroza Monteiro Lopes, Ângela Batista de Oliveira, José Olivio Casadei Junior, Frederico Rodrigues, Rodrigo Figueiredo Ferreira, José Carlos Aleluia Costa, Solange Mendes Geraldo Ragazi David, Maura Galuppo Botelho Martins, José Alves de Mello Franco, Ivan Marques de Toledo Camargo, Sérgio Lopes Cabral e Gustavo de Marchi e Silva. ... Na categoria consumo, foram indicados Paulo Jerônimo Bandeira de Mello Pedrosa, Gustavo Souza Checcucci e Luciano Campitelli Conti.
+--------------------------------------------------------------------------------
+Equatorial Pará Distribuidora de Energia S.A.: Governance, Directors and Executives & Committees - MarketScreener (https://www.marketscreener.com/quote/stock/EQUATORIAL-PAR-DISTRIBUID-105515907/company-governance/)
+citeturn310search7 [wordlim: 200] Crawled: 6.1 years ago; Joao Alberto da Silva Neto  | ... Paulo Jerônimo Bandeira de Mello Pedrosa  | ... Image: Logo Equatorial Pará Distribuidora de Energia S.A.Equatorial Para Distribuidora de Energia SA, formerly Centrais Eletricas do Para SA CELPA, is a Brazil-based company involved in the energy sector.
+--------------------------------------------------------------------------------
+Assembleia: CIA SANEAMENTO BASICO EST SAO PAULO — 29/07/2026 | RadarFatos (https://radarfatos.com.br/d/479)
+citeturn310search8 [wordlim: 200] Published: last month; Crawled: 6 days ago; A chapa proposta mantém 8 dos 9 conselheiros atuais, incluindo três indicados como independentes, e inclui um novo nome (Paulo Jerônimo Bandeira de Mello Pedrosa). ...   * 8 dos 9 candidatos já integram o atual Conselho; único novo nome é Paulo Jerônimo Bandeira de Mello Pedrosa
+--------------------------------------------------------------------------------
+VIANNA MANTERÁ FUNCIONÁRIOS DE CARREIRA NOS CARGOS DE SUPERINTENDENTE - Mural do Paraná (https://muraldoparana.com.br/vianna-mantera-funcionarios-de-carreira-nos-cargos-de-superintendente/)
+citeturn310search9 [wordlim: 200] Published: 9.5 years ago; Crawled: 6 months ago; “Se abrir a porteira para a nomeação de um superintendente, vai ser difícil segurar a pressão de deputados federais e estaduais, que estão fazendo fila para pedir cargos”, conforme opinou, por telefone, deputado federal do PSDB, que me pediu anonimato. ... São eles: Orlando Moisés Fischer Pessuti, Adailton da Rocha Teixeira e Paulo Jerônimo Bandeira de Mello Pedrosa. ... Adailton da Rocha Teixeira, Orlando Moisés Fischer Pessuti e Paulo Jerônimo Bandeira de Mello Pedrosa
+--------------------------------------------------------------------------------
+Acionistas da Sabesp elegem para conselho chapa indicada pel — ValorGraham (https://valorgraham.com.br/analise/acionistas-da-sabesp-elegem-para-conselho-chapa-indicada-pela-administracao)
+citeturn310search10 [wordlim: 200] Published: last week; Crawled: 5 days ago; Paulo Jerônimo Bandeira de Mello Pedrosa, ex-diretor da Aneel, assume o lugar de Tinn Freire Amado. ... A estabilidade na governança e a experiência do novo conselheiro no setor de energia podem reforçar a confiança dos investidores na gestão da companhia.
+--------------------------------------------------------------------------------
+Bolsonaro in Foz and Curitiba (https://folhadolitoral.com.br/en/colunistas/adi-parana/bolsonaro-em-foz-e-curitiba/)
+citeturn310search11 [wordlim: 200] Published: 7.3 years ago; Crawled: 10 months ago; Yesterday, he participated in the launch of the Safe School Program in Foz do Iguaçu and today, with President Mario Abdo Benítez (Paraguay), he will lay the cornerstone of the second bridge between Foz and the Paraguayan city of Presidente Franco. ... The president of the Legislative Assembly, Ademar Traiano (PSDB), confirmed that the PEC that ends the retirement of former governors will be voted on in the coming weeks. ... Samantha Ribeiro Meyer-Plug Marques, Paulo Jerônimo Bandeira de Mello Pedrosa and Orlando Moisés Fischer Pessuti were dismissed.

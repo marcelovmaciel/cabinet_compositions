@@ -1,0 +1,17 @@
+{
+  "party": "PRTB",
+  "id": 39,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=39&currentPage=0&pageSize=10000",
+      "records": 263,
+      "totalElements": 263,
+      "response_sha256": "57660e91ac95bb9c5116acb167d6bbb6b027acf6163f11c5966329a4a8e4d86c",
+      "retrieved_utc": "2026-09-10T23:38:41Z"
+    }
+  ],
+  "matches": []
+}

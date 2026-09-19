@@ -1,0 +1,23 @@
+{
+  "party": "PT",
+  "id": 47,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=47&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 11957,
+      "response_sha256": "c431118595353b5d710ae986520deeb6a0b665188ce0fe46bc021b9139f75419",
+      "retrieved_utc": "2026-09-10T23:37:09Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=47&currentPage=1&pageSize=10000",
+      "records": 1957,
+      "totalElements": 11957,
+      "response_sha256": "380494694c9bd3484fc9ee70de4aa1f543fdf049f835f93b5de27ba357ef0bae",
+      "retrieved_utc": "2026-09-10T23:37:13Z"
+    }
+  ],
+  "matches": []
+}

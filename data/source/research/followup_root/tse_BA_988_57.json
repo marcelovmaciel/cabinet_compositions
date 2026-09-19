@@ -1,0 +1,17 @@
+{
+  "uf": "BA",
+  "municipio": "988",
+  "city": "SALVADOR",
+  "party": "AGIR",
+  "id": 57,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=BA&cdMunicipio=988&sqPartido=57&currentPage=0&pageSize=10000",
+      "records": 1413,
+      "totalElements": 1413,
+      "response_sha256": "b48d6cf0c19ad81217d3c9224eef77ea2a18bd05e9991fc146cf0b5904006759",
+      "retrieved_utc": "2026-09-10T23:37:26Z"
+    }
+  ],
+  "matches": []
+}

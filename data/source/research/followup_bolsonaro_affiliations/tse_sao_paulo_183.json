@@ -1,0 +1,14 @@
+{
+  "party": "MISSÃO",
+  "id": 183,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9670&sqPartido=183&currentPage=0&pageSize=10000",
+      "records": 3056,
+      "totalElements": 3056,
+      "response_sha256": "6b6e504dfaaedd2b7cc6008a4b722f4268ebedc81b9d5a64ea8ba2f2ae385558",
+      "retrieved_utc": "2026-09-10T23:44:19Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,8387 @@
+[
+  {
+    "codLocalidadeTse": 61018,
+    "codObjeto": "8852",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ADAMANTINA"
+  },
+  {
+    "codLocalidadeTse": 61034,
+    "codObjeto": "8853",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ADOLFO"
+  },
+  {
+    "codLocalidadeTse": 61050,
+    "codObjeto": "8856",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "AGUAÍ"
+  },
+  {
+    "codLocalidadeTse": 61131,
+    "codObjeto": "8861",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "AGUDOS"
+  },
+  {
+    "codLocalidadeTse": 61581,
+    "codObjeto": "8864",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ALAMBARI"
+  },
+  {
+    "codLocalidadeTse": 61158,
+    "codObjeto": "8869",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ALFREDO MARCONDES"
+  },
+  {
+    "codLocalidadeTse": 61174,
+    "codObjeto": "8870",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ALTAIR"
+  },
+  {
+    "codLocalidadeTse": 61190,
+    "codObjeto": "8871",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ALTINÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 61212,
+    "codObjeto": "8872",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ALTO ALEGRE"
+  },
+  {
+    "codLocalidadeTse": 61220,
+    "codObjeto": "8874",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ALUMÍNIO"
+  },
+  {
+    "codLocalidadeTse": 61298,
+    "codObjeto": "8878",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ALVINLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 61310,
+    "codObjeto": "8882",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "AMERICANA"
+  },
+  {
+    "codLocalidadeTse": 61379,
+    "codObjeto": "8885",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "AMPARO"
+  },
+  {
+    "codLocalidadeTse": 61336,
+    "codObjeto": "8883",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "AMÉRICO BRASILIENSE"
+  },
+  {
+    "codLocalidadeTse": 61352,
+    "codObjeto": "8884",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "AMÉRICO DE CAMPOS"
+  },
+  {
+    "codLocalidadeTse": 61395,
+    "codObjeto": "8887",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ANALÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 61417,
+    "codObjeto": "8890",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ANDRADINA"
+  },
+  {
+    "codLocalidadeTse": 61433,
+    "codObjeto": "8891",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ANGATUBA"
+  },
+  {
+    "codLocalidadeTse": 61450,
+    "codObjeto": "8892",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ANHEMBI"
+  },
+  {
+    "codLocalidadeTse": 61476,
+    "codObjeto": "8893",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ANHUMAS"
+  },
+  {
+    "codLocalidadeTse": 61492,
+    "codObjeto": "8895",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "APARECIDA"
+  },
+  {
+    "codLocalidadeTse": 61514,
+    "codObjeto": "8896",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "APARECIDA D'OESTE"
+  },
+  {
+    "codLocalidadeTse": 61530,
+    "codObjeto": "8900",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "APIAÍ"
+  },
+  {
+    "codLocalidadeTse": 61590,
+    "codObjeto": "8908",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ARAMINA"
+  },
+  {
+    "codLocalidadeTse": 61611,
+    "codObjeto": "8909",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ARANDU"
+  },
+  {
+    "codLocalidadeTse": 61646,
+    "codObjeto": "8910",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ARAPEÍ"
+  },
+  {
+    "codLocalidadeTse": 61638,
+    "codObjeto": "8911",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ARARAQUARA"
+  },
+  {
+    "codLocalidadeTse": 61654,
+    "codObjeto": "8912",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ARARAS"
+  },
+  {
+    "codLocalidadeTse": 61263,
+    "codObjeto": "8905",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ARAÇARIGUAMA"
+  },
+  {
+    "codLocalidadeTse": 61557,
+    "codObjeto": "8906",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ARAÇATUBA"
+  },
+  {
+    "codLocalidadeTse": 61573,
+    "codObjeto": "8907",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ARAÇOIABA DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 62065,
+    "codObjeto": "8915",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ARCO-ÍRIS"
+  },
+  {
+    "codLocalidadeTse": 61670,
+    "codObjeto": "8916",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "AREALVA"
+  },
+  {
+    "codLocalidadeTse": 61697,
+    "codObjeto": "8917",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "AREIAS"
+  },
+  {
+    "codLocalidadeTse": 61719,
+    "codObjeto": "8918",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "AREIÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 61735,
+    "codObjeto": "8919",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ARIRANHA"
+  },
+  {
+    "codLocalidadeTse": 61751,
+    "codObjeto": "8922",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ARTUR NOGUEIRA"
+  },
+  {
+    "codLocalidadeTse": 61778,
+    "codObjeto": "8923",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ARUJÁ"
+  },
+  {
+    "codLocalidadeTse": 61522,
+    "codObjeto": "8924",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ASPÁSIA"
+  },
+  {
+    "codLocalidadeTse": 61794,
+    "codObjeto": "8925",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ASSIS"
+  },
+  {
+    "codLocalidadeTse": 61816,
+    "codObjeto": "8927",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ATIBAIA"
+  },
+  {
+    "codLocalidadeTse": 61832,
+    "codObjeto": "8929",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "AURIFLAMA"
+  },
+  {
+    "codLocalidadeTse": 61875,
+    "codObjeto": "8931",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "AVANHANDAVA"
+  },
+  {
+    "codLocalidadeTse": 61891,
+    "codObjeto": "8932",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "AVARÉ"
+  },
+  {
+    "codLocalidadeTse": 61859,
+    "codObjeto": "8930",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "AVAÍ"
+  },
+  {
+    "codLocalidadeTse": 61913,
+    "codObjeto": "8936",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BADY BASSITT"
+  },
+  {
+    "codLocalidadeTse": 61930,
+    "codObjeto": "8939",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BALBINOS"
+  },
+  {
+    "codLocalidadeTse": 61972,
+    "codObjeto": "8941",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BANANAL"
+  },
+  {
+    "codLocalidadeTse": 61999,
+    "codObjeto": "8946",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BARBOSA"
+  },
+  {
+    "codLocalidadeTse": 62030,
+    "codObjeto": "8947",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BARIRI"
+  },
+  {
+    "codLocalidadeTse": 62057,
+    "codObjeto": "8948",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BARRA BONITA"
+  },
+  {
+    "codLocalidadeTse": 61360,
+    "codObjeto": "8949",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BARRA DO CHAPÉU"
+  },
+  {
+    "codLocalidadeTse": 62073,
+    "codObjeto": "8950",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BARRA DO TURVO"
+  },
+  {
+    "codLocalidadeTse": 62090,
+    "codObjeto": "8953",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BARRETOS"
+  },
+  {
+    "codLocalidadeTse": 62111,
+    "codObjeto": "8954",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BARRINHA"
+  },
+  {
+    "codLocalidadeTse": 62138,
+    "codObjeto": "8955",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BARUERI"
+  },
+  {
+    "codLocalidadeTse": 62014,
+    "codObjeto": "8944",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BARÃO DE ANTONINA"
+  },
+  {
+    "codLocalidadeTse": 62154,
+    "codObjeto": "8956",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BASTOS"
+  },
+  {
+    "codLocalidadeTse": 62170,
+    "codObjeto": "8957",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BATATAIS"
+  },
+  {
+    "codLocalidadeTse": 62197,
+    "codObjeto": "8960",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BAURU"
+  },
+  {
+    "codLocalidadeTse": 62219,
+    "codObjeto": "8961",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BEBEDOURO"
+  },
+  {
+    "codLocalidadeTse": 62235,
+    "codObjeto": "8964",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BENTO DE ABREU"
+  },
+  {
+    "codLocalidadeTse": 62251,
+    "codObjeto": "8965",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BERNARDINO DE CAMPOS"
+  },
+  {
+    "codLocalidadeTse": 61280,
+    "codObjeto": "8966",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BERTIOGA"
+  },
+  {
+    "codLocalidadeTse": 62278,
+    "codObjeto": "8967",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BILAC"
+  },
+  {
+    "codLocalidadeTse": 62294,
+    "codObjeto": "8968",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BIRIGUI"
+  },
+  {
+    "codLocalidadeTse": 62316,
+    "codObjeto": "8969",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BIRITIBA MIRIM"
+  },
+  {
+    "codLocalidadeTse": 62332,
+    "codObjeto": "8971",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BOA ESPERANÇA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 62359,
+    "codObjeto": "8974",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BOCAINA"
+  },
+  {
+    "codLocalidadeTse": 62375,
+    "codObjeto": "8975",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BOFETE"
+  },
+  {
+    "codLocalidadeTse": 62391,
+    "codObjeto": "8976",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BOITUVA"
+  },
+  {
+    "codLocalidadeTse": 62413,
+    "codObjeto": "8978",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BOM JESUS DOS PERDÕES"
+  },
+  {
+    "codLocalidadeTse": 61786,
+    "codObjeto": "8980",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BOM SUCESSO DE ITARARÉ"
+  },
+  {
+    "codLocalidadeTse": 62456,
+    "codObjeto": "8983",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BORACÉIA"
+  },
+  {
+    "codLocalidadeTse": 62472,
+    "codObjeto": "8984",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BORBOREMA"
+  },
+  {
+    "codLocalidadeTse": 61026,
+    "codObjeto": "8985",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BOREBI"
+  },
+  {
+    "codLocalidadeTse": 62430,
+    "codObjeto": "8982",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BORÁ"
+  },
+  {
+    "codLocalidadeTse": 62499,
+    "codObjeto": "8988",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BOTUCATU"
+  },
+  {
+    "codLocalidadeTse": 62510,
+    "codObjeto": "8991",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BRAGANÇA PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 62553,
+    "codObjeto": "8994",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BRAÚNA"
+  },
+  {
+    "codLocalidadeTse": 62081,
+    "codObjeto": "8995",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BREJO ALEGRE"
+  },
+  {
+    "codLocalidadeTse": 62570,
+    "codObjeto": "8997",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BRODOWSKI"
+  },
+  {
+    "codLocalidadeTse": 62596,
+    "codObjeto": "8998",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BROTAS"
+  },
+  {
+    "codLocalidadeTse": 62618,
+    "codObjeto": "9000",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BURI"
+  },
+  {
+    "codLocalidadeTse": 62634,
+    "codObjeto": "9001",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BURITAMA"
+  },
+  {
+    "codLocalidadeTse": 62650,
+    "codObjeto": "9002",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BURITIZAL"
+  },
+  {
+    "codLocalidadeTse": 61956,
+    "codObjeto": "8940",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "BÁLSAMO"
+  },
+  {
+    "codLocalidadeTse": 62693,
+    "codObjeto": "9004",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CABREÚVA"
+  },
+  {
+    "codLocalidadeTse": 62677,
+    "codObjeto": "9003",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CABRÁLIA PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 62731,
+    "codObjeto": "9007",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CACHOEIRA PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 62758,
+    "codObjeto": "9008",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CACONDE"
+  },
+  {
+    "codLocalidadeTse": 62774,
+    "codObjeto": "9009",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAFELÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 62790,
+    "codObjeto": "9011",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAIABU"
+  },
+  {
+    "codLocalidadeTse": 62812,
+    "codObjeto": "9013",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAIEIRAS"
+  },
+  {
+    "codLocalidadeTse": 62839,
+    "codObjeto": "9014",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAIUÁ"
+  },
+  {
+    "codLocalidadeTse": 62855,
+    "codObjeto": "9015",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAJAMAR"
+  },
+  {
+    "codLocalidadeTse": 61484,
+    "codObjeto": "9016",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAJATI"
+  },
+  {
+    "codLocalidadeTse": 62871,
+    "codObjeto": "9017",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAJOBI"
+  },
+  {
+    "codLocalidadeTse": 62898,
+    "codObjeto": "9018",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAJURU"
+  },
+  {
+    "codLocalidadeTse": 61506,
+    "codObjeto": "9024",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAMPINA DO MONTE ALEGRE"
+  },
+  {
+    "codLocalidadeTse": 62910,
+    "codObjeto": "9026",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAMPINAS"
+  },
+  {
+    "codLocalidadeTse": 62936,
+    "codObjeto": "9027",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAMPO LIMPO PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 62952,
+    "codObjeto": "9029",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAMPOS DO JORDÃO"
+  },
+  {
+    "codLocalidadeTse": 62979,
+    "codObjeto": "9030",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAMPOS NOVOS PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 62995,
+    "codObjeto": "9031",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CANANÉIA"
+  },
+  {
+    "codLocalidadeTse": 62103,
+    "codObjeto": "9032",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CANAS"
+  },
+  {
+    "codLocalidadeTse": 61344,
+    "codObjeto": "9037",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CANITAR"
+  },
+  {
+    "codLocalidadeTse": 63070,
+    "codObjeto": "9039",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAPELA DO ALTO"
+  },
+  {
+    "codLocalidadeTse": 63096,
+    "codObjeto": "9040",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAPIVARI"
+  },
+  {
+    "codLocalidadeTse": 63053,
+    "codObjeto": "9038",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAPÃO BONITO"
+  },
+  {
+    "codLocalidadeTse": 63118,
+    "codObjeto": "9044",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CARAGUATATUBA"
+  },
+  {
+    "codLocalidadeTse": 63134,
+    "codObjeto": "9045",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CARAPICUÍBA"
+  },
+  {
+    "codLocalidadeTse": 63150,
+    "codObjeto": "9047",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CARDOSO"
+  },
+  {
+    "codLocalidadeTse": 63177,
+    "codObjeto": "9050",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CASA BRANCA"
+  },
+  {
+    "codLocalidadeTse": 63215,
+    "codObjeto": "9052",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CASTILHO"
+  },
+  {
+    "codLocalidadeTse": 63231,
+    "codObjeto": "9053",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CATANDUVA"
+  },
+  {
+    "codLocalidadeTse": 63258,
+    "codObjeto": "9054",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CATIGUÁ"
+  },
+  {
+    "codLocalidadeTse": 62715,
+    "codObjeto": "9005",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CAÇAPAVA"
+  },
+  {
+    "codLocalidadeTse": 63274,
+    "codObjeto": "9057",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CEDRAL"
+  },
+  {
+    "codLocalidadeTse": 63290,
+    "codObjeto": "9058",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CERQUEIRA CÉSAR"
+  },
+  {
+    "codLocalidadeTse": 63312,
+    "codObjeto": "9059",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CERQUILHO"
+  },
+  {
+    "codLocalidadeTse": 63339,
+    "codObjeto": "9060",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CESÁRIO LANGE"
+  },
+  {
+    "codLocalidadeTse": 63355,
+    "codObjeto": "9062",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CHARQUEADA"
+  },
+  {
+    "codLocalidadeTse": 63371,
+    "codObjeto": "9063",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CHAVANTES"
+  },
+  {
+    "codLocalidadeTse": 63398,
+    "codObjeto": "9066",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CLEMENTINA"
+  },
+  {
+    "codLocalidadeTse": 63410,
+    "codObjeto": "9068",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "COLINA"
+  },
+  {
+    "codLocalidadeTse": 63436,
+    "codObjeto": "9069",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "COLÔMBIA"
+  },
+  {
+    "codLocalidadeTse": 63452,
+    "codObjeto": "9071",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CONCHAL"
+  },
+  {
+    "codLocalidadeTse": 63479,
+    "codObjeto": "9072",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CONCHAS"
+  },
+  {
+    "codLocalidadeTse": 63495,
+    "codObjeto": "9073",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CORDEIRÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 63517,
+    "codObjeto": "9074",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "COROADOS"
+  },
+  {
+    "codLocalidadeTse": 63533,
+    "codObjeto": "9076",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CORONEL MACEDO"
+  },
+  {
+    "codLocalidadeTse": 63550,
+    "codObjeto": "9079",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CORUMBATAÍ"
+  },
+  {
+    "codLocalidadeTse": 63592,
+    "codObjeto": "9081",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "COSMORAMA"
+  },
+  {
+    "codLocalidadeTse": 63576,
+    "codObjeto": "9080",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "COSMÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 63614,
+    "codObjeto": "9083",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "COTIA"
+  },
+  {
+    "codLocalidadeTse": 63630,
+    "codObjeto": "9084",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CRAVINHOS"
+  },
+  {
+    "codLocalidadeTse": 63657,
+    "codObjeto": "9085",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CRISTAIS PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 63690,
+    "codObjeto": "9088",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CRUZEIRO"
+  },
+  {
+    "codLocalidadeTse": 63673,
+    "codObjeto": "9087",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CRUZÁLIA"
+  },
+  {
+    "codLocalidadeTse": 63711,
+    "codObjeto": "9089",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CUBATÃO"
+  },
+  {
+    "codLocalidadeTse": 63738,
+    "codObjeto": "9091",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CUNHA"
+  },
+  {
+    "codLocalidadeTse": 63193,
+    "codObjeto": "9051",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CÁSSIA DOS COQUEIROS"
+  },
+  {
+    "codLocalidadeTse": 63010,
+    "codObjeto": "9034",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CÂNDIDO MOTA"
+  },
+  {
+    "codLocalidadeTse": 63037,
+    "codObjeto": "9035",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "CÂNDIDO RODRIGUES"
+  },
+  {
+    "codLocalidadeTse": 63754,
+    "codObjeto": "9094",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "DESCALVADO"
+  },
+  {
+    "codLocalidadeTse": 63770,
+    "codObjeto": "9095",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "DIADEMA"
+  },
+  {
+    "codLocalidadeTse": 61123,
+    "codObjeto": "9096",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "DIRCE REIS"
+  },
+  {
+    "codLocalidadeTse": 63797,
+    "codObjeto": "9098",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "DIVINOLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 63819,
+    "codObjeto": "9099",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "DOBRADA"
+  },
+  {
+    "codLocalidadeTse": 63835,
+    "codObjeto": "9100",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "DOIS CÓRREGOS"
+  },
+  {
+    "codLocalidadeTse": 63851,
+    "codObjeto": "9101",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "DOLCINÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 63878,
+    "codObjeto": "9103",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "DOURADO"
+  },
+  {
+    "codLocalidadeTse": 63894,
+    "codObjeto": "9104",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "DRACENA"
+  },
+  {
+    "codLocalidadeTse": 63916,
+    "codObjeto": "9105",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "DUARTINA"
+  },
+  {
+    "codLocalidadeTse": 63932,
+    "codObjeto": "9106",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "DUMONT"
+  },
+  {
+    "codLocalidadeTse": 63959,
+    "codObjeto": "9108",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ECHAPORÃ"
+  },
+  {
+    "codLocalidadeTse": 63975,
+    "codObjeto": "9110",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ELDORADO"
+  },
+  {
+    "codLocalidadeTse": 63991,
+    "codObjeto": "9112",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ELIAS FAUSTO"
+  },
+  {
+    "codLocalidadeTse": 61760,
+    "codObjeto": "9113",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ELISIÁRIO"
+  },
+  {
+    "codLocalidadeTse": 61182,
+    "codObjeto": "9114",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "EMBAÚBA"
+  },
+  {
+    "codLocalidadeTse": 64017,
+    "codObjeto": "9115",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "EMBU DAS ARTES"
+  },
+  {
+    "codLocalidadeTse": 64033,
+    "codObjeto": "9116",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "EMBU-GUAÇU"
+  },
+  {
+    "codLocalidadeTse": 61387,
+    "codObjeto": "9117",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "EMILIANÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 61689,
+    "codObjeto": "9120",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ENGENHEIRO COELHO"
+  },
+  {
+    "codLocalidadeTse": 68659,
+    "codObjeto": "9126",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ESPÍRITO SANTO DO PINHAL"
+  },
+  {
+    "codLocalidadeTse": 61140,
+    "codObjeto": "9127",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ESPÍRITO SANTO DO TURVO"
+  },
+  {
+    "codLocalidadeTse": 61662,
+    "codObjeto": "9128",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ESTIVA GERBI"
+  },
+  {
+    "codLocalidadeTse": 64050,
+    "codObjeto": "9129",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ESTRELA D'OESTE"
+  },
+  {
+    "codLocalidadeTse": 64076,
+    "codObjeto": "9130",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ESTRELA DO NORTE"
+  },
+  {
+    "codLocalidadeTse": 61000,
+    "codObjeto": "9131",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "EUCLIDES DA CUNHA PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 64092,
+    "codObjeto": "9133",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "FARTURA"
+  },
+  {
+    "codLocalidadeTse": 64130,
+    "codObjeto": "9137",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "FERNANDO PRESTES"
+  },
+  {
+    "codLocalidadeTse": 64114,
+    "codObjeto": "9138",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "FERNANDÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 62286,
+    "codObjeto": "9139",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "FERNÃO"
+  },
+  {
+    "codLocalidadeTse": 64157,
+    "codObjeto": "9140",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "FERRAZ DE VASCONCELOS"
+  },
+  {
+    "codLocalidadeTse": 64173,
+    "codObjeto": "9141",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "FLORA RICA"
+  },
+  {
+    "codLocalidadeTse": 64190,
+    "codObjeto": "9142",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "FLOREAL"
+  },
+  {
+    "codLocalidadeTse": 64238,
+    "codObjeto": "9145",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "FLORÍNEA"
+  },
+  {
+    "codLocalidadeTse": 64211,
+    "codObjeto": "9144",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "FLÓRIDA PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 64254,
+    "codObjeto": "9146",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "FRANCA"
+  },
+  {
+    "codLocalidadeTse": 64270,
+    "codObjeto": "9147",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "FRANCISCO MORATO"
+  },
+  {
+    "codLocalidadeTse": 64297,
+    "codObjeto": "9148",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "FRANCO DA ROCHA"
+  },
+  {
+    "codLocalidadeTse": 64319,
+    "codObjeto": "9150",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GABRIEL MONTEIRO"
+  },
+  {
+    "codLocalidadeTse": 64351,
+    "codObjeto": "9152",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GARÇA"
+  },
+  {
+    "codLocalidadeTse": 64378,
+    "codObjeto": "9154",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GASTÃO VIDIGAL"
+  },
+  {
+    "codLocalidadeTse": 62308,
+    "codObjeto": "9155",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GAVIÃO PEIXOTO"
+  },
+  {
+    "codLocalidadeTse": 64394,
+    "codObjeto": "9156",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GENERAL SALGADO"
+  },
+  {
+    "codLocalidadeTse": 64416,
+    "codObjeto": "9157",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GETULINA"
+  },
+  {
+    "codLocalidadeTse": 64432,
+    "codObjeto": "9158",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GLICÉRIO"
+  },
+  {
+    "codLocalidadeTse": 64475,
+    "codObjeto": "9163",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUAIMBÊ"
+  },
+  {
+    "codLocalidadeTse": 64459,
+    "codObjeto": "9162",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUAIÇARA"
+  },
+  {
+    "codLocalidadeTse": 64530,
+    "codObjeto": "9167",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUAPIARA"
+  },
+  {
+    "codLocalidadeTse": 64513,
+    "codObjeto": "9166",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUAPIAÇU"
+  },
+  {
+    "codLocalidadeTse": 64599,
+    "codObjeto": "9171",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUARACI"
+  },
+  {
+    "codLocalidadeTse": 64610,
+    "codObjeto": "9173",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUARANI D'OESTE"
+  },
+  {
+    "codLocalidadeTse": 64637,
+    "codObjeto": "9174",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUARANTÃ"
+  },
+  {
+    "codLocalidadeTse": 64653,
+    "codObjeto": "9177",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUARARAPES"
+  },
+  {
+    "codLocalidadeTse": 64670,
+    "codObjeto": "9178",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUARAREMA"
+  },
+  {
+    "codLocalidadeTse": 64696,
+    "codObjeto": "9179",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUARATINGUETÁ"
+  },
+  {
+    "codLocalidadeTse": 64572,
+    "codObjeto": "9170",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUARAÇAÍ"
+  },
+  {
+    "codLocalidadeTse": 64718,
+    "codObjeto": "9180",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUAREÍ"
+  },
+  {
+    "codLocalidadeTse": 64734,
+    "codObjeto": "9181",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUARIBA"
+  },
+  {
+    "codLocalidadeTse": 64750,
+    "codObjeto": "9184",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUARUJÁ"
+  },
+  {
+    "codLocalidadeTse": 64777,
+    "codObjeto": "9185",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUARULHOS"
+  },
+  {
+    "codLocalidadeTse": 64556,
+    "codObjeto": "9169",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUARÁ"
+  },
+  {
+    "codLocalidadeTse": 61107,
+    "codObjeto": "9186",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUATAPARÁ"
+  },
+  {
+    "codLocalidadeTse": 64491,
+    "codObjeto": "9164",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUAÍRA"
+  },
+  {
+    "codLocalidadeTse": 64793,
+    "codObjeto": "9187",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GUZOLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 64335,
+    "codObjeto": "9151",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "GÁLIA"
+  },
+  {
+    "codLocalidadeTse": 64815,
+    "codObjeto": "9188",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "HERCULÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 61743,
+    "codObjeto": "9189",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "HOLAMBRA"
+  },
+  {
+    "codLocalidadeTse": 61727,
+    "codObjeto": "9191",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "HORTOLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 64831,
+    "codObjeto": "9192",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IACANGA"
+  },
+  {
+    "codLocalidadeTse": 64858,
+    "codObjeto": "9193",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IACRI"
+  },
+  {
+    "codLocalidadeTse": 61085,
+    "codObjeto": "9194",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IARAS"
+  },
+  {
+    "codLocalidadeTse": 64874,
+    "codObjeto": "9195",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IBATÉ"
+  },
+  {
+    "codLocalidadeTse": 64912,
+    "codObjeto": "9198",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IBIRAREMA"
+  },
+  {
+    "codLocalidadeTse": 64890,
+    "codObjeto": "9197",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IBIRÁ"
+  },
+  {
+    "codLocalidadeTse": 64939,
+    "codObjeto": "9199",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IBITINGA"
+  },
+  {
+    "codLocalidadeTse": 64955,
+    "codObjeto": "9203",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IBIÚNA"
+  },
+  {
+    "codLocalidadeTse": 64971,
+    "codObjeto": "9204",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ICÉM"
+  },
+  {
+    "codLocalidadeTse": 64998,
+    "codObjeto": "9206",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IEPÊ"
+  },
+  {
+    "codLocalidadeTse": 65030,
+    "codObjeto": "9210",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IGARAPAVA"
+  },
+  {
+    "codLocalidadeTse": 65056,
+    "codObjeto": "9211",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IGARATÁ"
+  },
+  {
+    "codLocalidadeTse": 65013,
+    "codObjeto": "9208",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IGARAÇU DO TIETÊ"
+  },
+  {
+    "codLocalidadeTse": 65072,
+    "codObjeto": "9212",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IGUAPE"
+  },
+  {
+    "codLocalidadeTse": 62006,
+    "codObjeto": "9213",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ILHA COMPRIDA"
+  },
+  {
+    "codLocalidadeTse": 61204,
+    "codObjeto": "9215",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ILHA SOLTEIRA"
+  },
+  {
+    "codLocalidadeTse": 65099,
+    "codObjeto": "9216",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ILHABELA"
+  },
+  {
+    "codLocalidadeTse": 65110,
+    "codObjeto": "9218",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "INDAIATUBA"
+  },
+  {
+    "codLocalidadeTse": 65137,
+    "codObjeto": "9219",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "INDIANA"
+  },
+  {
+    "codLocalidadeTse": 65153,
+    "codObjeto": "9220",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "INDIAPORÃ"
+  },
+  {
+    "codLocalidadeTse": 65170,
+    "codObjeto": "9222",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "INÚBIA PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 65196,
+    "codObjeto": "9223",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IPAUSSU"
+  },
+  {
+    "codLocalidadeTse": 65218,
+    "codObjeto": "9224",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IPERÓ"
+  },
+  {
+    "codLocalidadeTse": 65234,
+    "codObjeto": "9225",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IPEÚNA"
+  },
+  {
+    "codLocalidadeTse": 62243,
+    "codObjeto": "9226",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IPIGUÁ"
+  },
+  {
+    "codLocalidadeTse": 65250,
+    "codObjeto": "9227",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IPORANGA"
+  },
+  {
+    "codLocalidadeTse": 65277,
+    "codObjeto": "9228",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IPUÃ"
+  },
+  {
+    "codLocalidadeTse": 65293,
+    "codObjeto": "9229",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IRACEMÁPOLIS"
+  },
+  {
+    "codLocalidadeTse": 65331,
+    "codObjeto": "9232",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IRAPURU"
+  },
+  {
+    "codLocalidadeTse": 65315,
+    "codObjeto": "9231",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "IRAPUÃ"
+  },
+  {
+    "codLocalidadeTse": 65358,
+    "codObjeto": "9233",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITABERÁ"
+  },
+  {
+    "codLocalidadeTse": 65390,
+    "codObjeto": "9237",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAJOBI"
+  },
+  {
+    "codLocalidadeTse": 65412,
+    "codObjeto": "9238",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAJU"
+  },
+  {
+    "codLocalidadeTse": 65439,
+    "codObjeto": "9239",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITANHAÉM"
+  },
+  {
+    "codLocalidadeTse": 61603,
+    "codObjeto": "9240",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAOCA"
+  },
+  {
+    "codLocalidadeTse": 65455,
+    "codObjeto": "9241",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAPECERICA DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 65471,
+    "codObjeto": "9242",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAPETININGA"
+  },
+  {
+    "codLocalidadeTse": 65498,
+    "codObjeto": "9244",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAPEVA"
+  },
+  {
+    "codLocalidadeTse": 65510,
+    "codObjeto": "9245",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAPEVI"
+  },
+  {
+    "codLocalidadeTse": 65536,
+    "codObjeto": "9246",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAPIRA"
+  },
+  {
+    "codLocalidadeTse": 61948,
+    "codObjeto": "9247",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAPIRAPUÃ PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 65579,
+    "codObjeto": "9249",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAPORANGA"
+  },
+  {
+    "codLocalidadeTse": 65617,
+    "codObjeto": "9251",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAPURA"
+  },
+  {
+    "codLocalidadeTse": 65595,
+    "codObjeto": "9250",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAPUÍ"
+  },
+  {
+    "codLocalidadeTse": 65633,
+    "codObjeto": "9252",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAQUAQUECETUBA"
+  },
+  {
+    "codLocalidadeTse": 65650,
+    "codObjeto": "9254",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITARARÉ"
+  },
+  {
+    "codLocalidadeTse": 65676,
+    "codObjeto": "9255",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITARIRI"
+  },
+  {
+    "codLocalidadeTse": 65692,
+    "codObjeto": "9256",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITATIBA"
+  },
+  {
+    "codLocalidadeTse": 65714,
+    "codObjeto": "9257",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITATINGA"
+  },
+  {
+    "codLocalidadeTse": 65374,
+    "codObjeto": "9235",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITAÍ"
+  },
+  {
+    "codLocalidadeTse": 65730,
+    "codObjeto": "9258",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITIRAPINA"
+  },
+  {
+    "codLocalidadeTse": 65757,
+    "codObjeto": "9259",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITIRAPUÃ"
+  },
+  {
+    "codLocalidadeTse": 65773,
+    "codObjeto": "9260",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITOBI"
+  },
+  {
+    "codLocalidadeTse": 65790,
+    "codObjeto": "9262",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITU"
+  },
+  {
+    "codLocalidadeTse": 65811,
+    "codObjeto": "9263",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITUPEVA"
+  },
+  {
+    "codLocalidadeTse": 65838,
+    "codObjeto": "9264",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITUVERAVA"
+  },
+  {
+    "codLocalidadeTse": 65552,
+    "codObjeto": "9248",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ITÁPOLIS"
+  },
+  {
+    "codLocalidadeTse": 65854,
+    "codObjeto": "9266",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JABORANDI"
+  },
+  {
+    "codLocalidadeTse": 65870,
+    "codObjeto": "9267",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JABOTICABAL"
+  },
+  {
+    "codLocalidadeTse": 65897,
+    "codObjeto": "9269",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JACAREÍ"
+  },
+  {
+    "codLocalidadeTse": 65919,
+    "codObjeto": "9270",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JACI"
+  },
+  {
+    "codLocalidadeTse": 65935,
+    "codObjeto": "9273",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JACUPIRANGA"
+  },
+  {
+    "codLocalidadeTse": 65951,
+    "codObjeto": "9275",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JAGUARIÚNA"
+  },
+  {
+    "codLocalidadeTse": 65978,
+    "codObjeto": "9276",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JALES"
+  },
+  {
+    "codLocalidadeTse": 65994,
+    "codObjeto": "9278",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JAMBEIRO"
+  },
+  {
+    "codLocalidadeTse": 66010,
+    "codObjeto": "9279",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JANDIRA"
+  },
+  {
+    "codLocalidadeTse": 66036,
+    "codObjeto": "9284",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JARDINÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 66052,
+    "codObjeto": "9285",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JARINU"
+  },
+  {
+    "codLocalidadeTse": 66079,
+    "codObjeto": "9287",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JAÚ"
+  },
+  {
+    "codLocalidadeTse": 66095,
+    "codObjeto": "9288",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JERIQUARA"
+  },
+  {
+    "codLocalidadeTse": 66117,
+    "codObjeto": "9289",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JOANÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 66150,
+    "codObjeto": "9293",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JOSÉ BONIFÁCIO"
+  },
+  {
+    "codLocalidadeTse": 66133,
+    "codObjeto": "9290",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JOÃO RAMALHO"
+  },
+  {
+    "codLocalidadeTse": 62324,
+    "codObjeto": "9296",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JUMIRIM"
+  },
+  {
+    "codLocalidadeTse": 66192,
+    "codObjeto": "9297",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JUNDIAÍ"
+  },
+  {
+    "codLocalidadeTse": 66214,
+    "codObjeto": "9300",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JUNQUEIRÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 66257,
+    "codObjeto": "9303",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JUQUITIBA"
+  },
+  {
+    "codLocalidadeTse": 66230,
+    "codObjeto": "9301",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JUQUIÁ"
+  },
+  {
+    "codLocalidadeTse": 66176,
+    "codObjeto": "9295",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "JÚLIO MESQUITA"
+  },
+  {
+    "codLocalidadeTse": 66273,
+    "codObjeto": "9311",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LAGOINHA"
+  },
+  {
+    "codLocalidadeTse": 66290,
+    "codObjeto": "9312",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LARANJAL PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 66338,
+    "codObjeto": "9316",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LAVRINHAS"
+  },
+  {
+    "codLocalidadeTse": 66311,
+    "codObjeto": "9315",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LAVÍNIA"
+  },
+  {
+    "codLocalidadeTse": 66354,
+    "codObjeto": "9317",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LEME"
+  },
+  {
+    "codLocalidadeTse": 66370,
+    "codObjeto": "9318",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LENÇÓIS PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 66397,
+    "codObjeto": "9319",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LIMEIRA"
+  },
+  {
+    "codLocalidadeTse": 66419,
+    "codObjeto": "9320",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LINDÓIA"
+  },
+  {
+    "codLocalidadeTse": 66435,
+    "codObjeto": "9321",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LINS"
+  },
+  {
+    "codLocalidadeTse": 66451,
+    "codObjeto": "9323",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LORENA"
+  },
+  {
+    "codLocalidadeTse": 62022,
+    "codObjeto": "9324",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LOURDES"
+  },
+  {
+    "codLocalidadeTse": 66478,
+    "codObjeto": "9325",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LOUVEIRA"
+  },
+  {
+    "codLocalidadeTse": 66516,
+    "codObjeto": "9327",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LUCIANÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 66494,
+    "codObjeto": "9326",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LUCÉLIA"
+  },
+  {
+    "codLocalidadeTse": 66559,
+    "codObjeto": "9329",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LUIZIÂNIA"
+  },
+  {
+    "codLocalidadeTse": 66575,
+    "codObjeto": "9330",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LUPÉRCIO"
+  },
+  {
+    "codLocalidadeTse": 66591,
+    "codObjeto": "9332",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LUTÉCIA"
+  },
+  {
+    "codLocalidadeTse": 66532,
+    "codObjeto": "9328",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "LUÍS ANTÔNIO"
+  },
+  {
+    "codLocalidadeTse": 66613,
+    "codObjeto": "9333",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MACATUBA"
+  },
+  {
+    "codLocalidadeTse": 66630,
+    "codObjeto": "9334",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MACAUBAL"
+  },
+  {
+    "codLocalidadeTse": 66656,
+    "codObjeto": "9335",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MACEDÔNIA"
+  },
+  {
+    "codLocalidadeTse": 66672,
+    "codObjeto": "9337",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MAGDA"
+  },
+  {
+    "codLocalidadeTse": 66699,
+    "codObjeto": "9339",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MAIRINQUE"
+  },
+  {
+    "codLocalidadeTse": 66710,
+    "codObjeto": "9340",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MAIRIPORÃ"
+  },
+  {
+    "codLocalidadeTse": 66737,
+    "codObjeto": "9342",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MANDURI"
+  },
+  {
+    "codLocalidadeTse": 66753,
+    "codObjeto": "9344",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MARABÁ PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 66770,
+    "codObjeto": "9345",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MARACAÍ"
+  },
+  {
+    "codLocalidadeTse": 61867,
+    "codObjeto": "9346",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MARAPOAMA"
+  },
+  {
+    "codLocalidadeTse": 66834,
+    "codObjeto": "9351",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MARINÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 66796,
+    "codObjeto": "9349",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MARIÁPOLIS"
+  },
+  {
+    "codLocalidadeTse": 66850,
+    "codObjeto": "9355",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MARTINÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 66818,
+    "codObjeto": "9350",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MARÍLIA"
+  },
+  {
+    "codLocalidadeTse": 66877,
+    "codObjeto": "9356",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MATÃO"
+  },
+  {
+    "codLocalidadeTse": 66893,
+    "codObjeto": "9357",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MAUÁ"
+  },
+  {
+    "codLocalidadeTse": 66915,
+    "codObjeto": "9358",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MENDONÇA"
+  },
+  {
+    "codLocalidadeTse": 66931,
+    "codObjeto": "9359",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MERIDIANO"
+  },
+  {
+    "codLocalidadeTse": 61964,
+    "codObjeto": "9360",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MESÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 66958,
+    "codObjeto": "9361",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MIGUELÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 66974,
+    "codObjeto": "9362",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MINEIROS DO TIETÊ"
+  },
+  {
+    "codLocalidadeTse": 67016,
+    "codObjeto": "9363",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MIRA ESTRELA"
+  },
+  {
+    "codLocalidadeTse": 66990,
+    "codObjeto": "9364",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MIRACATU"
+  },
+  {
+    "codLocalidadeTse": 67032,
+    "codObjeto": "9366",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MIRANDÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 67059,
+    "codObjeto": "9367",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MIRANTE DO PARANAPANEMA"
+  },
+  {
+    "codLocalidadeTse": 67075,
+    "codObjeto": "9368",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MIRASSOL"
+  },
+  {
+    "codLocalidadeTse": 67091,
+    "codObjeto": "9369",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MIRASSOLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 67113,
+    "codObjeto": "9370",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MOCOCA"
+  },
+  {
+    "codLocalidadeTse": 67130,
+    "codObjeto": "9371",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MOGI DAS CRUZES"
+  },
+  {
+    "codLocalidadeTse": 67156,
+    "codObjeto": "9372",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MOGI GUAÇU"
+  },
+  {
+    "codLocalidadeTse": 67172,
+    "codObjeto": "9373",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MOGI MIRIM"
+  },
+  {
+    "codLocalidadeTse": 67199,
+    "codObjeto": "9374",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MOMBUCA"
+  },
+  {
+    "codLocalidadeTse": 67237,
+    "codObjeto": "9376",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MONGAGUÁ"
+  },
+  {
+    "codLocalidadeTse": 67253,
+    "codObjeto": "9378",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MONTE ALEGRE DO SUL"
+  },
+  {
+    "codLocalidadeTse": 67270,
+    "codObjeto": "9379",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MONTE ALTO"
+  },
+  {
+    "codLocalidadeTse": 67296,
+    "codObjeto": "9380",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MONTE APRAZÍVEL"
+  },
+  {
+    "codLocalidadeTse": 67318,
+    "codObjeto": "9381",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MONTE AZUL PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 67334,
+    "codObjeto": "9383",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MONTE CASTELO"
+  },
+  {
+    "codLocalidadeTse": 67377,
+    "codObjeto": "9384",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MONTE MOR"
+  },
+  {
+    "codLocalidadeTse": 67350,
+    "codObjeto": "9386",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MONTEIRO LOBATO"
+  },
+  {
+    "codLocalidadeTse": 67210,
+    "codObjeto": "9375",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MONÇÕES"
+  },
+  {
+    "codLocalidadeTse": 67393,
+    "codObjeto": "9388",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MORRO AGUDO"
+  },
+  {
+    "codLocalidadeTse": 67415,
+    "codObjeto": "9390",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MORUNGABA"
+  },
+  {
+    "codLocalidadeTse": 61069,
+    "codObjeto": "9392",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MOTUCA"
+  },
+  {
+    "codLocalidadeTse": 67431,
+    "codObjeto": "9394",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "MURUTINGA DO SUL"
+  },
+  {
+    "codLocalidadeTse": 62340,
+    "codObjeto": "9395",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NANTES"
+  },
+  {
+    "codLocalidadeTse": 67458,
+    "codObjeto": "9396",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NARANDIBA"
+  },
+  {
+    "codLocalidadeTse": 67474,
+    "codObjeto": "9397",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NATIVIDADE DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 67490,
+    "codObjeto": "9398",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NAZARÉ PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 67512,
+    "codObjeto": "9399",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NEVES PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 67539,
+    "codObjeto": "9400",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NHANDEARA"
+  },
+  {
+    "codLocalidadeTse": 67555,
+    "codObjeto": "9401",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NIPOÃ"
+  },
+  {
+    "codLocalidadeTse": 67571,
+    "codObjeto": "9405",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NOVA ALIANÇA"
+  },
+  {
+    "codLocalidadeTse": 61980,
+    "codObjeto": "9408",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NOVA CAMPINA"
+  },
+  {
+    "codLocalidadeTse": 61425,
+    "codObjeto": "9409",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NOVA CANAÃ PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 62367,
+    "codObjeto": "9410",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NOVA CASTILHO"
+  },
+  {
+    "codLocalidadeTse": 67598,
+    "codObjeto": "9411",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NOVA EUROPA"
+  },
+  {
+    "codLocalidadeTse": 67610,
+    "codObjeto": "9412",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NOVA GRANADA"
+  },
+  {
+    "codLocalidadeTse": 67636,
+    "codObjeto": "9413",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NOVA GUATAPORANGA"
+  },
+  {
+    "codLocalidadeTse": 67652,
+    "codObjeto": "9414",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NOVA INDEPENDÊNCIA"
+  },
+  {
+    "codLocalidadeTse": 67679,
+    "codObjeto": "9416",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NOVA LUZITÂNIA"
+  },
+  {
+    "codLocalidadeTse": 67695,
+    "codObjeto": "9417",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NOVA ODESSA"
+  },
+  {
+    "codLocalidadeTse": 61409,
+    "codObjeto": "9420",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NOVAIS"
+  },
+  {
+    "codLocalidadeTse": 67717,
+    "codObjeto": "9422",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NOVO HORIZONTE"
+  },
+  {
+    "codLocalidadeTse": 67733,
+    "codObjeto": "9423",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "NUPORANGA"
+  },
+  {
+    "codLocalidadeTse": 67750,
+    "codObjeto": "9425",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "OCAUÇU"
+  },
+  {
+    "codLocalidadeTse": 67792,
+    "codObjeto": "9427",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "OLÍMPIA"
+  },
+  {
+    "codLocalidadeTse": 67814,
+    "codObjeto": "9430",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ONDA VERDE"
+  },
+  {
+    "codLocalidadeTse": 67830,
+    "codObjeto": "9431",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ORIENTE"
+  },
+  {
+    "codLocalidadeTse": 67857,
+    "codObjeto": "9432",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ORINDIÚVA"
+  },
+  {
+    "codLocalidadeTse": 67873,
+    "codObjeto": "9433",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ORLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 67890,
+    "codObjeto": "9434",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "OSASCO"
+  },
+  {
+    "codLocalidadeTse": 67911,
+    "codObjeto": "9435",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "OSCAR BRESSANE"
+  },
+  {
+    "codLocalidadeTse": 67938,
+    "codObjeto": "9436",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "OSVALDO CRUZ"
+  },
+  {
+    "codLocalidadeTse": 67954,
+    "codObjeto": "9437",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "OURINHOS"
+  },
+  {
+    "codLocalidadeTse": 67970,
+    "codObjeto": "9439",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "OURO VERDE"
+  },
+  {
+    "codLocalidadeTse": 62383,
+    "codObjeto": "9440",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "OUROESTE"
+  },
+  {
+    "codLocalidadeTse": 67997,
+    "codObjeto": "9441",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PACAEMBU"
+  },
+  {
+    "codLocalidadeTse": 68012,
+    "codObjeto": "9443",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PALESTINA"
+  },
+  {
+    "codLocalidadeTse": 68039,
+    "codObjeto": "9444",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PALMARES PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 68055,
+    "codObjeto": "9445",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PALMEIRA D'OESTE"
+  },
+  {
+    "codLocalidadeTse": 68071,
+    "codObjeto": "9447",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PALMITAL"
+  },
+  {
+    "codLocalidadeTse": 68098,
+    "codObjeto": "9448",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PANORAMA"
+  },
+  {
+    "codLocalidadeTse": 68110,
+    "codObjeto": "9449",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PARAGUAÇU PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 68136,
+    "codObjeto": "9450",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PARAIBUNA"
+  },
+  {
+    "codLocalidadeTse": 68179,
+    "codObjeto": "9454",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PARANAPANEMA"
+  },
+  {
+    "codLocalidadeTse": 68195,
+    "codObjeto": "9456",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PARANAPUÃ"
+  },
+  {
+    "codLocalidadeTse": 68217,
+    "codObjeto": "9457",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PARAPUÃ"
+  },
+  {
+    "codLocalidadeTse": 68152,
+    "codObjeto": "9451",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PARAÍSO"
+  },
+  {
+    "codLocalidadeTse": 68233,
+    "codObjeto": "9458",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PARDINHO"
+  },
+  {
+    "codLocalidadeTse": 68250,
+    "codObjeto": "9459",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PARIQUERA-AÇU"
+  },
+  {
+    "codLocalidadeTse": 61824,
+    "codObjeto": "9460",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PARISI"
+  },
+  {
+    "codLocalidadeTse": 68276,
+    "codObjeto": "9464",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PATROCÍNIO PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 68292,
+    "codObjeto": "9465",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PAULICÉIA"
+  },
+  {
+    "codLocalidadeTse": 62405,
+    "codObjeto": "9467",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PAULISTÂNIA"
+  },
+  {
+    "codLocalidadeTse": 68330,
+    "codObjeto": "9468",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PAULO DE FARIA"
+  },
+  {
+    "codLocalidadeTse": 68314,
+    "codObjeto": "9466",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PAULÍNIA"
+  },
+  {
+    "codLocalidadeTse": 68357,
+    "codObjeto": "9470",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PEDERNEIRAS"
+  },
+  {
+    "codLocalidadeTse": 68373,
+    "codObjeto": "9471",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PEDRA BELA"
+  },
+  {
+    "codLocalidadeTse": 68390,
+    "codObjeto": "9473",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PEDRANÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 68411,
+    "codObjeto": "9474",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PEDREGULHO"
+  },
+  {
+    "codLocalidadeTse": 68438,
+    "codObjeto": "9475",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PEDREIRA"
+  },
+  {
+    "codLocalidadeTse": 61247,
+    "codObjeto": "9476",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PEDRINHAS PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 68454,
+    "codObjeto": "9478",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PEDRO DE TOLEDO"
+  },
+  {
+    "codLocalidadeTse": 68470,
+    "codObjeto": "9479",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PENÁPOLIS"
+  },
+  {
+    "codLocalidadeTse": 68497,
+    "codObjeto": "9480",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PEREIRA BARRETO"
+  },
+  {
+    "codLocalidadeTse": 68519,
+    "codObjeto": "9481",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PEREIRAS"
+  },
+  {
+    "codLocalidadeTse": 68535,
+    "codObjeto": "9482",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PERUÍBE"
+  },
+  {
+    "codLocalidadeTse": 68551,
+    "codObjeto": "9483",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PIACATU"
+  },
+  {
+    "codLocalidadeTse": 68578,
+    "codObjeto": "9485",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PIEDADE"
+  },
+  {
+    "codLocalidadeTse": 68594,
+    "codObjeto": "9486",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PILAR DO SUL"
+  },
+  {
+    "codLocalidadeTse": 68616,
+    "codObjeto": "9487",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PINDAMONHANGABA"
+  },
+  {
+    "codLocalidadeTse": 68632,
+    "codObjeto": "9488",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PINDORAMA"
+  },
+  {
+    "codLocalidadeTse": 68675,
+    "codObjeto": "9489",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PINHALZINHO"
+  },
+  {
+    "codLocalidadeTse": 68691,
+    "codObjeto": "9492",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PIQUEROBI"
+  },
+  {
+    "codLocalidadeTse": 68713,
+    "codObjeto": "9493",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PIQUETE"
+  },
+  {
+    "codLocalidadeTse": 68730,
+    "codObjeto": "9494",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PIRACAIA"
+  },
+  {
+    "codLocalidadeTse": 68756,
+    "codObjeto": "9495",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PIRACICABA"
+  },
+  {
+    "codLocalidadeTse": 68772,
+    "codObjeto": "9496",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PIRAJU"
+  },
+  {
+    "codLocalidadeTse": 68799,
+    "codObjeto": "9497",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PIRAJUÍ"
+  },
+  {
+    "codLocalidadeTse": 68810,
+    "codObjeto": "9499",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PIRANGI"
+  },
+  {
+    "codLocalidadeTse": 68837,
+    "codObjeto": "9501",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PIRAPORA DO BOM JESUS"
+  },
+  {
+    "codLocalidadeTse": 68853,
+    "codObjeto": "9502",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PIRAPOZINHO"
+  },
+  {
+    "codLocalidadeTse": 68870,
+    "codObjeto": "9503",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PIRASSUNUNGA"
+  },
+  {
+    "codLocalidadeTse": 68896,
+    "codObjeto": "9504",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PIRATININGA"
+  },
+  {
+    "codLocalidadeTse": 68918,
+    "codObjeto": "9505",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PITANGUEIRAS"
+  },
+  {
+    "codLocalidadeTse": 68934,
+    "codObjeto": "9506",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PLANALTO"
+  },
+  {
+    "codLocalidadeTse": 68950,
+    "codObjeto": "9509",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PLATINA"
+  },
+  {
+    "codLocalidadeTse": 68993,
+    "codObjeto": "9511",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "POLONI"
+  },
+  {
+    "codLocalidadeTse": 69019,
+    "codObjeto": "9513",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "POMPÉIA"
+  },
+  {
+    "codLocalidadeTse": 69035,
+    "codObjeto": "9514",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PONGAÍ"
+  },
+  {
+    "codLocalidadeTse": 69051,
+    "codObjeto": "9515",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PONTAL"
+  },
+  {
+    "codLocalidadeTse": 61808,
+    "codObjeto": "9516",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PONTALINDA"
+  },
+  {
+    "codLocalidadeTse": 69078,
+    "codObjeto": "9517",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PONTES GESTAL"
+  },
+  {
+    "codLocalidadeTse": 69094,
+    "codObjeto": "9518",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "POPULINA"
+  },
+  {
+    "codLocalidadeTse": 69116,
+    "codObjeto": "9519",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PORANGABA"
+  },
+  {
+    "codLocalidadeTse": 69132,
+    "codObjeto": "9520",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PORTO FELIZ"
+  },
+  {
+    "codLocalidadeTse": 69159,
+    "codObjeto": "9521",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PORTO FERREIRA"
+  },
+  {
+    "codLocalidadeTse": 61565,
+    "codObjeto": "9523",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "POTIM"
+  },
+  {
+    "codLocalidadeTse": 69175,
+    "codObjeto": "9524",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "POTIRENDABA"
+  },
+  {
+    "codLocalidadeTse": 68977,
+    "codObjeto": "9510",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "POÁ"
+  },
+  {
+    "codLocalidadeTse": 62120,
+    "codObjeto": "9526",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PRACINHA"
+  },
+  {
+    "codLocalidadeTse": 69191,
+    "codObjeto": "9528",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PRADÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 69213,
+    "codObjeto": "9529",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PRAIA GRANDE"
+  },
+  {
+    "codLocalidadeTse": 62146,
+    "codObjeto": "9530",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PRATÂNIA"
+  },
+  {
+    "codLocalidadeTse": 69230,
+    "codObjeto": "9531",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PRESIDENTE ALVES"
+  },
+  {
+    "codLocalidadeTse": 69256,
+    "codObjeto": "9532",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PRESIDENTE BERNARDES"
+  },
+  {
+    "codLocalidadeTse": 69272,
+    "codObjeto": "9533",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PRESIDENTE EPITÁCIO"
+  },
+  {
+    "codLocalidadeTse": 69299,
+    "codObjeto": "9534",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PRESIDENTE PRUDENTE"
+  },
+  {
+    "codLocalidadeTse": 69310,
+    "codObjeto": "9535",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PRESIDENTE VENCESLAU"
+  },
+  {
+    "codLocalidadeTse": 69337,
+    "codObjeto": "9537",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "PROMISSÃO"
+  },
+  {
+    "codLocalidadeTse": 62162,
+    "codObjeto": "9539",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "QUADRA"
+  },
+  {
+    "codLocalidadeTse": 69353,
+    "codObjeto": "9540",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "QUATÁ"
+  },
+  {
+    "codLocalidadeTse": 69370,
+    "codObjeto": "9541",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "QUEIROZ"
+  },
+  {
+    "codLocalidadeTse": 69396,
+    "codObjeto": "9542",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "QUELUZ"
+  },
+  {
+    "codLocalidadeTse": 69418,
+    "codObjeto": "9543",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "QUINTANA"
+  },
+  {
+    "codLocalidadeTse": 69434,
+    "codObjeto": "9545",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RAFARD"
+  },
+  {
+    "codLocalidadeTse": 69450,
+    "codObjeto": "9546",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RANCHARIA"
+  },
+  {
+    "codLocalidadeTse": 69477,
+    "codObjeto": "9548",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "REDENÇÃO DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 69493,
+    "codObjeto": "9549",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "REGENTE FEIJÓ"
+  },
+  {
+    "codLocalidadeTse": 69515,
+    "codObjeto": "9550",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "REGINÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 69531,
+    "codObjeto": "9551",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "REGISTRO"
+  },
+  {
+    "codLocalidadeTse": 69558,
+    "codObjeto": "9552",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RESTINGA"
+  },
+  {
+    "codLocalidadeTse": 69574,
+    "codObjeto": "9554",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIBEIRA"
+  },
+  {
+    "codLocalidadeTse": 69590,
+    "codObjeto": "9555",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIBEIRÃO BONITO"
+  },
+  {
+    "codLocalidadeTse": 69612,
+    "codObjeto": "9556",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIBEIRÃO BRANCO"
+  },
+  {
+    "codLocalidadeTse": 69639,
+    "codObjeto": "9557",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIBEIRÃO CORRENTE"
+  },
+  {
+    "codLocalidadeTse": 69655,
+    "codObjeto": "9558",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIBEIRÃO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 62421,
+    "codObjeto": "9559",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIBEIRÃO DOS ÍNDIOS"
+  },
+  {
+    "codLocalidadeTse": 61700,
+    "codObjeto": "9560",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIBEIRÃO GRANDE"
+  },
+  {
+    "codLocalidadeTse": 69671,
+    "codObjeto": "9561",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIBEIRÃO PIRES"
+  },
+  {
+    "codLocalidadeTse": 69698,
+    "codObjeto": "9562",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIBEIRÃO PRETO"
+  },
+  {
+    "codLocalidadeTse": 69736,
+    "codObjeto": "9565",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIFAINA"
+  },
+  {
+    "codLocalidadeTse": 69752,
+    "codObjeto": "9566",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RINCÃO"
+  },
+  {
+    "codLocalidadeTse": 69779,
+    "codObjeto": "9567",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RINÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 69795,
+    "codObjeto": "9568",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIO CLARO"
+  },
+  {
+    "codLocalidadeTse": 69817,
+    "codObjeto": "9569",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIO DAS PEDRAS"
+  },
+  {
+    "codLocalidadeTse": 69833,
+    "codObjeto": "9570",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIO GRANDE DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 69850,
+    "codObjeto": "9571",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIOLÂNDIA"
+  },
+  {
+    "codLocalidadeTse": 69710,
+    "codObjeto": "9572",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RIVERSUL"
+  },
+  {
+    "codLocalidadeTse": 61166,
+    "codObjeto": "9575",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ROSANA"
+  },
+  {
+    "codLocalidadeTse": 69876,
+    "codObjeto": "9576",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ROSEIRA"
+  },
+  {
+    "codLocalidadeTse": 69914,
+    "codObjeto": "9579",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RUBINÉIA"
+  },
+  {
+    "codLocalidadeTse": 69892,
+    "codObjeto": "9577",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "RUBIÁCEA"
+  },
+  {
+    "codLocalidadeTse": 69930,
+    "codObjeto": "9582",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SABINO"
+  },
+  {
+    "codLocalidadeTse": 69957,
+    "codObjeto": "9583",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SAGRES"
+  },
+  {
+    "codLocalidadeTse": 69973,
+    "codObjeto": "9584",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SALES"
+  },
+  {
+    "codLocalidadeTse": 69990,
+    "codObjeto": "9585",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SALES OLIVEIRA"
+  },
+  {
+    "codLocalidadeTse": 70017,
+    "codObjeto": "9586",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SALESÓPOLIS"
+  },
+  {
+    "codLocalidadeTse": 70033,
+    "codObjeto": "9587",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SALMOURÃO"
+  },
+  {
+    "codLocalidadeTse": 61441,
+    "codObjeto": "9588",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SALTINHO"
+  },
+  {
+    "codLocalidadeTse": 70050,
+    "codObjeto": "9589",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SALTO"
+  },
+  {
+    "codLocalidadeTse": 70076,
+    "codObjeto": "9590",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SALTO DE PIRAPORA"
+  },
+  {
+    "codLocalidadeTse": 70092,
+    "codObjeto": "9592",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SALTO GRANDE"
+  },
+  {
+    "codLocalidadeTse": 70114,
+    "codObjeto": "9593",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANDOVALINA"
+  },
+  {
+    "codLocalidadeTse": 70130,
+    "codObjeto": "9594",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA ADÉLIA"
+  },
+  {
+    "codLocalidadeTse": 70157,
+    "codObjeto": "9595",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA ALBERTINA"
+  },
+  {
+    "codLocalidadeTse": 70211,
+    "codObjeto": "9598",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA BRANCA"
+  },
+  {
+    "codLocalidadeTse": 70173,
+    "codObjeto": "9597",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA BÁRBARA D'OESTE"
+  },
+  {
+    "codLocalidadeTse": 70238,
+    "codObjeto": "9599",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA CLARA D'OESTE"
+  },
+  {
+    "codLocalidadeTse": 70254,
+    "codObjeto": "9600",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA CRUZ DA CONCEIÇÃO"
+  },
+  {
+    "codLocalidadeTse": 62189,
+    "codObjeto": "9601",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA CRUZ DA ESPERANÇA"
+  },
+  {
+    "codLocalidadeTse": 70270,
+    "codObjeto": "9603",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA CRUZ DAS PALMEIRAS"
+  },
+  {
+    "codLocalidadeTse": 70297,
+    "codObjeto": "9604",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA CRUZ DO RIO PARDO"
+  },
+  {
+    "codLocalidadeTse": 70319,
+    "codObjeto": "9606",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA ERNESTINA"
+  },
+  {
+    "codLocalidadeTse": 70335,
+    "codObjeto": "9608",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA FÉ DO SUL"
+  },
+  {
+    "codLocalidadeTse": 70351,
+    "codObjeto": "9609",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA GERTRUDES"
+  },
+  {
+    "codLocalidadeTse": 70378,
+    "codObjeto": "9610",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA ISABEL"
+  },
+  {
+    "codLocalidadeTse": 70394,
+    "codObjeto": "9612",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA LÚCIA"
+  },
+  {
+    "codLocalidadeTse": 70416,
+    "codObjeto": "9614",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA MARIA DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 70432,
+    "codObjeto": "9616",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA MERCEDES"
+  },
+  {
+    "codLocalidadeTse": 70491,
+    "codObjeto": "9617",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA RITA D'OESTE"
+  },
+  {
+    "codLocalidadeTse": 70513,
+    "codObjeto": "9618",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA RITA DO PASSA QUATRO"
+  },
+  {
+    "codLocalidadeTse": 70530,
+    "codObjeto": "9620",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA ROSA DE VITERBO"
+  },
+  {
+    "codLocalidadeTse": 62200,
+    "codObjeto": "9621",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTA SALETE"
+  },
+  {
+    "codLocalidadeTse": 70459,
+    "codObjeto": "9623",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTANA DA PONTE PENSA"
+  },
+  {
+    "codLocalidadeTse": 70475,
+    "codObjeto": "9624",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTANA DE PARNAÍBA"
+  },
+  {
+    "codLocalidadeTse": 70556,
+    "codObjeto": "9626",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTO ANASTÁCIO"
+  },
+  {
+    "codLocalidadeTse": 70572,
+    "codObjeto": "9627",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTO ANDRÉ"
+  },
+  {
+    "codLocalidadeTse": 70599,
+    "codObjeto": "9628",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DA ALEGRIA"
+  },
+  {
+    "codLocalidadeTse": 70610,
+    "codObjeto": "9630",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DE POSSE"
+  },
+  {
+    "codLocalidadeTse": 61328,
+    "codObjeto": "9631",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DO ARACANGUÁ"
+  },
+  {
+    "codLocalidadeTse": 70637,
+    "codObjeto": "9632",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DO JARDIM"
+  },
+  {
+    "codLocalidadeTse": 70653,
+    "codObjeto": "9634",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTO ANTÔNIO DO PINHAL"
+  },
+  {
+    "codLocalidadeTse": 70670,
+    "codObjeto": "9636",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTO EXPEDITO"
+  },
+  {
+    "codLocalidadeTse": 70718,
+    "codObjeto": "9638",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTOS"
+  },
+  {
+    "codLocalidadeTse": 70696,
+    "codObjeto": "9637",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SANTÓPOLIS DO AGUAPEÍ"
+  },
+  {
+    "codLocalidadeTse": 71234,
+    "codObjeto": "9682",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SARAPUÍ"
+  },
+  {
+    "codLocalidadeTse": 71250,
+    "codObjeto": "9683",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SARUTAIÁ"
+  },
+  {
+    "codLocalidadeTse": 71277,
+    "codObjeto": "9684",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SEBASTIANÓPOLIS DO SUL"
+  },
+  {
+    "codLocalidadeTse": 71293,
+    "codObjeto": "9685",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SERRA AZUL"
+  },
+  {
+    "codLocalidadeTse": 71331,
+    "codObjeto": "9686",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SERRA NEGRA"
+  },
+  {
+    "codLocalidadeTse": 71315,
+    "codObjeto": "9687",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SERRANA"
+  },
+  {
+    "codLocalidadeTse": 71358,
+    "codObjeto": "9688",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SERTÃOZINHO"
+  },
+  {
+    "codLocalidadeTse": 71374,
+    "codObjeto": "9689",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SETE BARRAS"
+  },
+  {
+    "codLocalidadeTse": 71390,
+    "codObjeto": "9690",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SEVERÍNIA"
+  },
+  {
+    "codLocalidadeTse": 71412,
+    "codObjeto": "9692",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SILVEIRAS"
+  },
+  {
+    "codLocalidadeTse": 71439,
+    "codObjeto": "9695",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SOCORRO"
+  },
+  {
+    "codLocalidadeTse": 71455,
+    "codObjeto": "9698",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SOROCABA"
+  },
+  {
+    "codLocalidadeTse": 71471,
+    "codObjeto": "9700",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SUD MENNUCCI"
+  },
+  {
+    "codLocalidadeTse": 71498,
+    "codObjeto": "9702",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SUMARÉ"
+  },
+  {
+    "codLocalidadeTse": 71510,
+    "codObjeto": "9705",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SUZANO"
+  },
+  {
+    "codLocalidadeTse": 61301,
+    "codObjeto": "9704",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SUZANÁPOLIS"
+  },
+  {
+    "codLocalidadeTse": 70734,
+    "codObjeto": "9641",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO BENTO DO SAPUCAÍ"
+  },
+  {
+    "codLocalidadeTse": 70750,
+    "codObjeto": "9642",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO BERNARDO DO CAMPO"
+  },
+  {
+    "codLocalidadeTse": 70777,
+    "codObjeto": "9644",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO CAETANO DO SUL"
+  },
+  {
+    "codLocalidadeTse": 70793,
+    "codObjeto": "9645",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO CARLOS"
+  },
+  {
+    "codLocalidadeTse": 70815,
+    "codObjeto": "9646",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO FRANCISCO"
+  },
+  {
+    "codLocalidadeTse": 70890,
+    "codObjeto": "9656",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO JOAQUIM DA BARRA"
+  },
+  {
+    "codLocalidadeTse": 70912,
+    "codObjeto": "9657",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO JOSÉ DA BELA VISTA"
+  },
+  {
+    "codLocalidadeTse": 70939,
+    "codObjeto": "9659",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO JOSÉ DO BARREIRO"
+  },
+  {
+    "codLocalidadeTse": 70955,
+    "codObjeto": "9660",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO JOSÉ DO RIO PARDO"
+  },
+  {
+    "codLocalidadeTse": 70971,
+    "codObjeto": "9661",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO JOSÉ DO RIO PRETO"
+  },
+  {
+    "codLocalidadeTse": 70998,
+    "codObjeto": "9662",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO JOSÉ DOS CAMPOS"
+  },
+  {
+    "codLocalidadeTse": 70831,
+    "codObjeto": "9649",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO JOÃO DA BOA VISTA"
+  },
+  {
+    "codLocalidadeTse": 70858,
+    "codObjeto": "9650",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO JOÃO DAS DUAS PONTES"
+  },
+  {
+    "codLocalidadeTse": 61883,
+    "codObjeto": "9651",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO JOÃO DE IRACEMA"
+  },
+  {
+    "codLocalidadeTse": 70874,
+    "codObjeto": "9654",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO JOÃO DO PAU D'ALHO"
+  },
+  {
+    "codLocalidadeTse": 61905,
+    "codObjeto": "9663",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO LOURENÇO DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 71013,
+    "codObjeto": "9665",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO LUÍS DO PARAITINGA"
+  },
+  {
+    "codLocalidadeTse": 71030,
+    "codObjeto": "9667",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO MANUEL"
+  },
+  {
+    "codLocalidadeTse": 71056,
+    "codObjeto": "9669",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO MIGUEL ARCANJO"
+  },
+  {
+    "codLocalidadeTse": 71072,
+    "codObjeto": "9670",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO PAULO"
+  },
+  {
+    "codLocalidadeTse": 71099,
+    "codObjeto": "9671",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO PEDRO"
+  },
+  {
+    "codLocalidadeTse": 71110,
+    "codObjeto": "9672",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO PEDRO DO TURVO"
+  },
+  {
+    "codLocalidadeTse": 71137,
+    "codObjeto": "9673",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO ROQUE"
+  },
+  {
+    "codLocalidadeTse": 71153,
+    "codObjeto": "9675",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO SEBASTIÃO"
+  },
+  {
+    "codLocalidadeTse": 71170,
+    "codObjeto": "9676",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO SEBASTIÃO DA GRAMA"
+  },
+  {
+    "codLocalidadeTse": 71196,
+    "codObjeto": "9679",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO SIMÃO"
+  },
+  {
+    "codLocalidadeTse": 71218,
+    "codObjeto": "9680",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "SÃO VICENTE"
+  },
+  {
+    "codLocalidadeTse": 71536,
+    "codObjeto": "9707",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TABAPUÃ"
+  },
+  {
+    "codLocalidadeTse": 71552,
+    "codObjeto": "9708",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TABATINGA"
+  },
+  {
+    "codLocalidadeTse": 71579,
+    "codObjeto": "9709",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TABOÃO DA SERRA"
+  },
+  {
+    "codLocalidadeTse": 71595,
+    "codObjeto": "9710",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TACIBA"
+  },
+  {
+    "codLocalidadeTse": 71617,
+    "codObjeto": "9711",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TAGUAÍ"
+  },
+  {
+    "codLocalidadeTse": 71633,
+    "codObjeto": "9712",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TAIAÇU"
+  },
+  {
+    "codLocalidadeTse": 71650,
+    "codObjeto": "9714",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TAIÚVA"
+  },
+  {
+    "codLocalidadeTse": 71676,
+    "codObjeto": "9716",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TAMBAÚ"
+  },
+  {
+    "codLocalidadeTse": 71692,
+    "codObjeto": "9717",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TANABI"
+  },
+  {
+    "codLocalidadeTse": 71730,
+    "codObjeto": "9720",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TAPIRATIBA"
+  },
+  {
+    "codLocalidadeTse": 71714,
+    "codObjeto": "9719",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TAPIRAÍ"
+  },
+  {
+    "codLocalidadeTse": 62260,
+    "codObjeto": "9721",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TAQUARAL"
+  },
+  {
+    "codLocalidadeTse": 71757,
+    "codObjeto": "9722",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TAQUARITINGA"
+  },
+  {
+    "codLocalidadeTse": 71773,
+    "codObjeto": "9723",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TAQUARITUBA"
+  },
+  {
+    "codLocalidadeTse": 61840,
+    "codObjeto": "9724",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TAQUARIVAÍ"
+  },
+  {
+    "codLocalidadeTse": 71790,
+    "codObjeto": "9725",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TARABAI"
+  },
+  {
+    "codLocalidadeTse": 61042,
+    "codObjeto": "9726",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TARUMÃ"
+  },
+  {
+    "codLocalidadeTse": 71811,
+    "codObjeto": "9727",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TATUÍ"
+  },
+  {
+    "codLocalidadeTse": 71838,
+    "codObjeto": "9728",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TAUBATÉ"
+  },
+  {
+    "codLocalidadeTse": 71854,
+    "codObjeto": "9730",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TEJUPÁ"
+  },
+  {
+    "codLocalidadeTse": 71870,
+    "codObjeto": "9731",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TEODORO SAMPAIO"
+  },
+  {
+    "codLocalidadeTse": 71897,
+    "codObjeto": "9734",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TERRA ROXA"
+  },
+  {
+    "codLocalidadeTse": 71919,
+    "codObjeto": "9737",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TIETÊ"
+  },
+  {
+    "codLocalidadeTse": 71935,
+    "codObjeto": "9738",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TIMBURI"
+  },
+  {
+    "codLocalidadeTse": 62049,
+    "codObjeto": "9740",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TORRE DE PEDRA"
+  },
+  {
+    "codLocalidadeTse": 71951,
+    "codObjeto": "9741",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TORRINHA"
+  },
+  {
+    "codLocalidadeTse": 62448,
+    "codObjeto": "9742",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TRABIJU"
+  },
+  {
+    "codLocalidadeTse": 71978,
+    "codObjeto": "9743",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TREMEMBÉ"
+  },
+  {
+    "codLocalidadeTse": 71994,
+    "codObjeto": "9745",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TRÊS FRONTEIRAS"
+  },
+  {
+    "codLocalidadeTse": 61620,
+    "codObjeto": "9748",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TUIUTI"
+  },
+  {
+    "codLocalidadeTse": 72036,
+    "codObjeto": "9752",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TUPI PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 72010,
+    "codObjeto": "9750",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TUPÃ"
+  },
+  {
+    "codLocalidadeTse": 72052,
+    "codObjeto": "9754",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TURIÚBA"
+  },
+  {
+    "codLocalidadeTse": 72079,
+    "codObjeto": "9755",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "TURMALINA"
+  },
+  {
+    "codLocalidadeTse": 61468,
+    "codObjeto": "9757",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "UBARANA"
+  },
+  {
+    "codLocalidadeTse": 72095,
+    "codObjeto": "9758",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "UBATUBA"
+  },
+  {
+    "codLocalidadeTse": 72117,
+    "codObjeto": "9759",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "UBIRAJARA"
+  },
+  {
+    "codLocalidadeTse": 72133,
+    "codObjeto": "9760",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "UCHOA"
+  },
+  {
+    "codLocalidadeTse": 72150,
+    "codObjeto": "9761",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "UNIÃO PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 72192,
+    "codObjeto": "9764",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "URU"
+  },
+  {
+    "codLocalidadeTse": 72214,
+    "codObjeto": "9765",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "URUPÊS"
+  },
+  {
+    "codLocalidadeTse": 72176,
+    "codObjeto": "9763",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "URÂNIA"
+  },
+  {
+    "codLocalidadeTse": 72230,
+    "codObjeto": "9769",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VALENTIM GENTIL"
+  },
+  {
+    "codLocalidadeTse": 72257,
+    "codObjeto": "9770",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VALINHOS"
+  },
+  {
+    "codLocalidadeTse": 72273,
+    "codObjeto": "9771",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VALPARAÍSO"
+  },
+  {
+    "codLocalidadeTse": 61549,
+    "codObjeto": "9773",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VARGEM"
+  },
+  {
+    "codLocalidadeTse": 72311,
+    "codObjeto": "9774",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VARGEM GRANDE DO SUL"
+  },
+  {
+    "codLocalidadeTse": 72737,
+    "codObjeto": "9775",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VARGEM GRANDE PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 72354,
+    "codObjeto": "9779",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VERA CRUZ"
+  },
+  {
+    "codLocalidadeTse": 72370,
+    "codObjeto": "9785",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VINHEDO"
+  },
+  {
+    "codLocalidadeTse": 72397,
+    "codObjeto": "9786",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VIRADOURO"
+  },
+  {
+    "codLocalidadeTse": 72419,
+    "codObjeto": "9787",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VISTA ALEGRE DO ALTO"
+  },
+  {
+    "codLocalidadeTse": 62227,
+    "codObjeto": "9788",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VITÓRIA BRASIL"
+  },
+  {
+    "codLocalidadeTse": 72435,
+    "codObjeto": "9790",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VOTORANTIM"
+  },
+  {
+    "codLocalidadeTse": 72451,
+    "codObjeto": "9791",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VOTUPORANGA"
+  },
+  {
+    "codLocalidadeTse": 72338,
+    "codObjeto": "9777",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "VÁRZEA PAULISTA"
+  },
+  {
+    "codLocalidadeTse": 61921,
+    "codObjeto": "9792",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ZACARIAS"
+  },
+  {
+    "codLocalidadeTse": 61077,
+    "codObjeto": "8857",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ÁGUAS DA PRATA"
+  },
+  {
+    "codLocalidadeTse": 61093,
+    "codObjeto": "8858",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ÁGUAS DE LINDÓIA"
+  },
+  {
+    "codLocalidadeTse": 70190,
+    "codObjeto": "8859",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ÁGUAS DE SANTA BÁRBARA"
+  },
+  {
+    "codLocalidadeTse": 61115,
+    "codObjeto": "8860",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ÁGUAS DE SÃO PEDRO"
+  },
+  {
+    "codLocalidadeTse": 61239,
+    "codObjeto": "8875",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ÁLVARES FLORENCE"
+  },
+  {
+    "codLocalidadeTse": 61255,
+    "codObjeto": "8876",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ÁLVARES MACHADO"
+  },
+  {
+    "codLocalidadeTse": 61271,
+    "codObjeto": "8877",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ÁLVARO DE CARVALHO"
+  },
+  {
+    "codLocalidadeTse": 67776,
+    "codObjeto": "9426",
+    "codObjetoLocSuperior": null,
+    "uf": {
+      "codObjeto": "1",
+      "codObjetoMunicCapital": "9670",
+      "codUf": 1,
+      "nomUf": "SÃO PAULO",
+      "sglUf": "SP"
+    },
+    "nomLocalidade": "ÓLEO"
+  }
+]

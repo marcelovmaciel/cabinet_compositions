@@ -1,0 +1,14 @@
+{
+  "party": "CIDADANIA",
+  "id": 46,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 867,
+      "totalElements": 867,
+      "response_sha256": "785e64b8f5c089bbd56edace9c3040deb87036036f45b64a0f91373fccc5e517",
+      "retrieved_utc": "2026-09-10T23:43:04Z"
+    }
+  ],
+  "matches": []
+}

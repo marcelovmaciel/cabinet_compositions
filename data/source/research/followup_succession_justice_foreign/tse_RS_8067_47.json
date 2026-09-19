@@ -1,0 +1,17 @@
+{
+  "party": "PT",
+  "id": 47,
+  "uf": "RS",
+  "municipio": "8067",
+  "city": "Sananduva",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=8067&sqPartido=47&currentPage=0&pageSize=10000",
+      "records": 277,
+      "totalElements": 277,
+      "response_sha256": "8448129c4e9599161e1dc8cccf66c4ca75b0fd1e4f83ea5ce570fafd1858dc3e",
+      "retrieved_utc": "2026-09-10T23:37:56Z"
+    }
+  ],
+  "matches": []
+}

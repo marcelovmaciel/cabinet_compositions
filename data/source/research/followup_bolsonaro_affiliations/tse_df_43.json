@@ -1,0 +1,21 @@
+{
+  "party": "PODE",
+  "id": 43,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=43&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 15379,
+      "response_sha256": "44e10f7bfce53dad588bed0361a356b2d35286985df47dcef8a50e6310e36ffd",
+      "retrieved_utc": "2026-09-10T23:35:39Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=43&currentPage=1&pageSize=10000",
+      "records": 5379,
+      "totalElements": 15379,
+      "response_sha256": "4969f4636d6bee0f0a952d48bea6dd2981a54ca26ba8aa8f5333b6d204f9acdc",
+      "retrieved_utc": "2026-09-10T23:35:49Z"
+    }
+  ],
+  "matches": []
+}

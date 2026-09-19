@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6912",
+  "city": "DUQUE DE CAXIAS",
+  "party": "PSOL",
+  "id": 63,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6912&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 1127,
+      "totalElements": 1127,
+      "response_sha256": "428864cd3a59b4a7f0cb5296f98d9b1c8c34b8e58ef58afe46a58edf73e49321",
+      "retrieved_utc": "2026-09-10T23:40:45Z"
+    }
+  ],
+  "matches": []
+}

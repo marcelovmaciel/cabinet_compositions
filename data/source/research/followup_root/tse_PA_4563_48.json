@@ -1,0 +1,17 @@
+{
+  "uf": "PA",
+  "municipio": "4563",
+  "city": "BELÉM",
+  "party": "MOBILIZA",
+  "id": 48,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PA&cdMunicipio=4563&sqPartido=48&currentPage=0&pageSize=10000",
+      "records": 854,
+      "totalElements": 854,
+      "response_sha256": "9ecfe9c164a27a5d359807b2f6b90e35f0efe14dc6571f47ed6f05e768f13914",
+      "retrieved_utc": "2026-09-10T23:38:52Z"
+    }
+  ],
+  "matches": []
+}

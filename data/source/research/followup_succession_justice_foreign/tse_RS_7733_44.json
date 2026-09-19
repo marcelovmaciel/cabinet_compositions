@@ -1,0 +1,17 @@
+{
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "uf": "RS",
+  "municipio": "7733",
+  "city": "Garibaldi",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 99,
+      "totalElements": 99,
+      "response_sha256": "da0895e5c71db3faecbdbbc8bdb56f635e3e7cc5c0e1775ba698597f3b8be30d",
+      "retrieved_utc": "2026-09-10T23:37:49Z"
+    }
+  ],
+  "matches": []
+}

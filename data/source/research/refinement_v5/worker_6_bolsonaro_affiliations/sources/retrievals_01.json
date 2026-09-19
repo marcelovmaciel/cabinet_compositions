@@ -1,0 +1,30 @@
+[
+  {
+    "file": "tcu_78140553.pdf",
+    "url": "https://btcu.apps.tcu.gov.br/api/obterDocumentoPdf/78140553",
+    "status": 200,
+    "sha256": "1e6be4e635f3c3733c0b16416d9773a8c1c07f2cf37bea4d34c53b7a6ff0e979",
+    "bytes": 2344159
+  },
+  {
+    "file": "mme_rol2022.pdf",
+    "url": "https://www.gov.br/mme/pt-br/acesso-a-informacao/auditorias/prestacao-contas/ROLDERESPONSVEIS2022.pdf",
+    "status": 200,
+    "sha256": "d1e99e3813c647256647de72ee983d5fa249c336db5fa0a2fd667b47a4218d0d",
+    "bytes": 88328
+  },
+  {
+    "file": "tse_psdb_rn.txt",
+    "url": "https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_psdb_rn.zip",
+    "status": 403,
+    "sha256": "6e99243f2a231efea1edb9ead8fdc849bee0f669086e2241228729cae443bdaf",
+    "bytes": 464
+  },
+  {
+    "file": "tse_pp_df.txt",
+    "url": "https://cdn.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pp_df.zip",
+    "status": 403,
+    "sha256": "b50894a41361a2c5ef3539f16873da478289d750a77b6a6e37c12e940d3bca7d",
+    "bytes": 462
+  }
+]

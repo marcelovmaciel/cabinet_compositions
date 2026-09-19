@@ -1,0 +1,17 @@
+{
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 550,
+      "totalElements": 550,
+      "response_sha256": "409d204a525f4507a053fcd47fd6b6f4b9d43ec72d9c1788b266c10dfa1a6061",
+      "retrieved_utc": "2026-09-10T23:41:33Z"
+    }
+  ],
+  "matches": []
+}

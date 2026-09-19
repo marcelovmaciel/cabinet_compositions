@@ -1,0 +1,21 @@
+{
+  "organs": 27,
+  "members": 1131,
+  "matches": [],
+  "target": "Ana Carla Machado Lopes",
+  "name_variants_screened": "ANA.*CARLA or MACHADO.*LOPES, case insensitive",
+  "party": "PSDB",
+  "areas": [
+    "National",
+    "PA state",
+    "DF district",
+    "Belem/PA municipal"
+  ],
+  "query_dates": [
+    "01/01/2013",
+    "19/03/2026"
+  ],
+  "source": "https://sgip3.tse.jus.br/sgip3-consulta/",
+  "scope": "27 historical governing bodies returned for date-overlap queries; 1131 member entries (not necessarily distinct people). These are party officers, not the membership universe. No target match supplies no negative affiliation evidence.",
+  "decision": "Retain C075 historical PSDB observation plus contextual identity and forward continuity; no replacement current certificate found."
+}

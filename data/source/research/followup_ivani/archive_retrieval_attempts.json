@@ -1,0 +1,11 @@
+[
+  {
+    "source": "agencia.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pmdb_df.zip",
+    "error": "HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=25)"
+  },
+  {
+    "url": "https://web.archive.org/cdx/search/cdx?url=www.tse.jus.br%2Feleicoes%2Festatisticas%2Frepositorio-de-dados-eleitorais-1%2Frepositorio-de-dados-eleitorais&output=json&filter=mimetype%3Aapplication%2Fzip&collapse=timestamp%3A6",
+    "status": 200,
+    "text": "[]\n"
+  }
+]

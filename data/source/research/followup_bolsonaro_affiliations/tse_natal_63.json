@@ -1,0 +1,14 @@
+{
+  "party": "PSOL",
+  "id": 63,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RN&cdMunicipio=7220&sqPartido=63&currentPage=0&pageSize=10000",
+      "records": 2711,
+      "totalElements": 2711,
+      "response_sha256": "cda0b0b71da52203503b73f9c5aa1c01476f73460c01f3362d52d6597c749e5f",
+      "retrieved_utc": "2026-09-10T23:43:24Z"
+    }
+  ],
+  "matches": []
+}

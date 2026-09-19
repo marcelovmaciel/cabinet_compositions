@@ -1,0 +1,17 @@
+{
+  "party": "MDB",
+  "id": 42,
+  "uf": "SP",
+  "municipio": "9534",
+  "city": "Presidente Prudente",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 2169,
+      "totalElements": 2169,
+      "response_sha256": "28afb0ba29b4069bc7bf1273e16dd552c821d3729ffd7b990cbf527caf467bf7",
+      "retrieved_utc": "2026-09-10T23:39:21Z"
+    }
+  ],
+  "matches": []
+}

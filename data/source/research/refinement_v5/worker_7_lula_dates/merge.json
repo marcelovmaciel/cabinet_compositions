@@ -1,0 +1,620 @@
+{
+  "format": "csv-row-upserts-v1",
+  "worker": "worker_7_lula_dates",
+  "base": "cabinet_dataset/refinement_v5/baseline/inputs",
+  "files": {
+    "affiliations.csv": {
+      "key": [
+        "affiliation_id"
+      ],
+      "upserts": [
+        {
+          "affiliation_id": "affiliation-C075-ana-psdb",
+          "person_id": "person-ana-carla-machado-lopes",
+          "start_inclusive": "2015-01-01",
+          "end_exclusive": "2026-03-20",
+          "state": "PARTY",
+          "party_id": "PSDB",
+          "support": "Historical dated affiliation row, contextual identity adjudication and forward continuity; not a current certificate; retained after scoped official historical SGIP review, whose officer-only non-match is not affiliation evidence",
+          "date_status": "historical_entry_and_adjudicated_continuity",
+          "date_earliest": "2013-10-02",
+          "date_latest": "2013-10-02",
+          "alternatives": "[]",
+          "evidence_ids": "C073;C075;V5W7E005",
+          "decision_ids": "C073;C075;V5W7D003"
+        }
+      ],
+      "deletes": []
+    },
+    "completion_research_register.csv": {
+      "key": [
+        "research_id"
+      ],
+      "upserts": [
+        {
+          "research_id": "completion-search-ana-carla-machado-lopes",
+          "dependency_id": "person-ana-carla-machado-lopes",
+          "person_name": "Ana Carla Machado Lopes",
+          "service_intervals": "2023-12-04/2023-12-06;2024-12-03/2024-12-06;2025-10-08/2025-10-09;2025-11-13/2025-11-17;2025-12-19/2025-12-23",
+          "name_variants": "Ana Carla Machado Lopes;Ana Carla Lopes",
+          "query_family": "official succession + personal affiliation/non-affiliation + public TSE DF and Belem historical-date records + 2025 departure/party reporting + historical official SGIP PSDB governing-body query + actual-event and original parliamentary dispatch review",
+          "saved_result_files": "research/followup_succession_justice_foreign/sabino_vacancy_successions.csv;research/followup_succession_justice_foreign/sabino_date_conflicts.json;research/followup_bolsonaro_affiliations/TSE_TARGET_SCAN_SUMMARY.json;research/followup_root/web_registry_06.json;research/followup_root/web_registry_07.json;research/followup_root/web_registry_12.json;research/followup_bolsonaro_affiliations/HISTORICAL_SNAPSHOT_FINDINGS.md;research/followup_root/filiaweb_2016_names.json;research/followup_succession_justice_foreign/ana_carla_psdb_2016_target_assertion.json;research/followup_succession_justice_foreign/ana_carla_official_cv_web_assertion.txt;research/followup_succession_justice_foreign/ana_carla_alepa_20190211.pdf;research/refinement_v5/worker_7_lula_dates/sources/sgip_scan_summary.json;research/refinement_v5/worker_7_lula_dates/RESEARCH.md",
+          "source_review_finding": "The explicitly dated July27 2016 Filiaweb historical copy of TSE records lists the exact rare full name Ana Carla Machado Lopes in PSDB at Belem/PA, with entry October2 2013. Identity is adjudicated from full name, Para legal/professional history in the official MTur curriculum, and the official2019 ALEPA roster naming the same person as PSDB leadership chief of staff. The employment is an identity corroborator, not the membership evidence: the historical affiliation row supplies that fact. Apply the declared forward-continuity rule from the positive dated membership through her independently documented vacancy services. Targeted searches found no specific subsequent personal resignation, expulsion, new affiliation or general non-affiliation statement. The2025 statement that she was not affiliated to Uniao is consistent with PSDB and does not imply no party. Current TSE municipal-list non-matches do not establish a departure. This is a historical observation plus continuity and contextual identity adjudication, not a current certificate or an exact identifier match; source age and its own update warning remain explicit. Do not invent a non-affiliation alternative merely from absent current data. The five office interruptions do not create five personal affiliation events; one continuous affiliation spell supports the five service spells. Sabino return-date alternatives remain separately set-changing for PSDB representation. V5 targeted review: historical TSE SGIP returned27 PSDB governing bodies and1131 officer entries without a target match; its partial officer universe adds no negative affiliation evidence. C075 historical PSDB observation and continuity are retained without a certification upgrade. The Nov14 ceremony is now retrospectively verified, and original Chamber notice and Secom/EBC Nov17 actual ministerial reporting improve the service chronology provenance; closing-state return bounds remain unchanged.",
+          "unresolved_fact": "",
+          "search_date": "2026-09-10",
+          "completion_status": "resolved_historical_observation_with_identity_and_continuity_adjudication"
+        },
+        {
+          "research_id": "V5W7R001",
+          "dependency_id": "sabino-2023-return",
+          "person_name": "Celso Sabino / Ana Carla Machado Lopes",
+          "service_intervals": "2023-12-04/2023-12-06",
+          "name_variants": "Celso Sabino;Celso Sabino de Oliveira;Ana Carla Machado Lopes",
+          "query_family": "Actual return/handoff records; original Chamber diary dispatches and retrospective contemporaneous report",
+          "saved_result_files": "research/refinement_v5/worker_7_lula_dates/RESEARCH.md;research/refinement_v5/worker_7_lula_dates/sources/diary_review_manifest.json;research/refinement_v5/worker_7_lula_dates/sources/sabino_20231206_folhapress.html",
+          "source_review_finding": "Retain Dec4-Dec6 candidates and primaryDec6. New retrospective Folhapress evidence corroborates actual ministerial return on Dec4, while C073 retains actual parliamentary voting Dec5 and licenceDec6. Reviewed original dispatch sections Dec6-16 did not yield a possession or handoff record. Neither announcement nor legislative administrative date alone resolves the conflicting actual histories; no defensible narrowing. Move Ana Carla vacancy end and Sabino titular start jointly under the existing closing-state rule.",
+          "unresolved_fact": "Exact closing-state return among December4,5,6 remains unresolved.",
+          "search_date": "2026-09-10",
+          "completion_status": "date_bounds_retained_after_targeted_primary_source_review"
+        },
+        {
+          "research_id": "V5W7R002",
+          "dependency_id": "sabino-2025-nov-return",
+          "person_name": "Celso Sabino / Ana Carla Machado Lopes",
+          "service_intervals": "2025-11-14/2025-11-17",
+          "name_variants": "Celso Sabino;Celso Sabino de Oliveira;Ana Carla Machado Lopes",
+          "query_family": "Actual Orla ceremony; original parliamentary notification; official Secom/EBC performed ministerial interview",
+          "saved_result_files": "research/refinement_v5/worker_7_lula_dates/RESEARCH.md;research/refinement_v5/worker_7_lula_dates/sources/orla_reproduction.html;research/refinement_v5/worker_7_lula_dates/sources/dcd20251118_p14.png;research/refinement_v5/worker_7_lula_dates/sources/web_15.json",
+          "source_review_finding": "Retain Nov14-Nov17 candidates and primaryNov17. The Nov14 Orla ceremony is now retrospectively verified, improving the earlier scheduled-only evidence, but an event at one time cannot exclude a later same-day closing-state handoff. The Nov15 weekly recap does not date the quoted remarks independently. Original Chamber dispatch explicitly makes parliamentary leave effective at notificationNov17 19h36, not ministerial possession. Official Secom/EBC reporting proves ministerial exercise on the morning of17, independently supporting that latest bound. Decree13/publication14 and expectedreturn14 remain admissible; no exact handoff record excludes dates14-16.",
+          "unresolved_fact": "Exact closing-state return among November14,15,16,17 remains unresolved.",
+          "search_date": "2026-09-10",
+          "completion_status": "date_bounds_retained_with_stronger_actual_event_evidence"
+        }
+      ],
+      "deletes": []
+    },
+    "decisions.csv": {
+      "key": [
+        "decision_id"
+      ],
+      "upserts": [
+        {
+          "decision_id": "V5W7D001",
+          "disposition": "date_bounds_retained_after_new_actual_event_and_original_record_review",
+          "evidence_ids": "C073;C075;V5W7E004",
+          "rationale": "Retain Dec4-Dec6 candidates and primaryDec6. New retrospective Folhapress evidence corroborates actual ministerial return on Dec4, while C073 retains actual parliamentary voting Dec5 and licenceDec6. Reviewed original dispatch sections Dec6-16 did not yield a possession or handoff record. Neither announcement nor legislative administrative date alone resolves the conflicting actual histories; no defensible narrowing. Move Ana Carla vacancy end and Sabino titular start jointly under the existing closing-state rule.",
+          "alternatives": "[]"
+        },
+        {
+          "decision_id": "V5W7D002",
+          "disposition": "date_bounds_retained_with_actual_event_and_notification_semantics_refined",
+          "evidence_ids": "C073;C075;V5W7E001;V5W7E002;V5W7E003",
+          "rationale": "Retain Nov14-Nov17 candidates and primaryNov17. The Nov14 Orla ceremony is now retrospectively verified, improving the earlier scheduled-only evidence, but an event at one time cannot exclude a later same-day closing-state handoff. The Nov15 weekly recap does not date the quoted remarks independently. Original Chamber dispatch explicitly makes parliamentary leave effective at notificationNov17 19h36, not ministerial possession. Official Secom/EBC reporting proves ministerial exercise on the morning of17, independently supporting that latest bound. Decree13/publication14 and expectedreturn14 remain admissible; no exact handoff record excludes dates14-16.",
+          "alternatives": "[]"
+        },
+        {
+          "decision_id": "V5W7D003",
+          "disposition": "historical_affiliation_continuity_retained_after_official_scoped_search",
+          "evidence_ids": "C075;V5W7E005",
+          "rationale": "Retain the C075 PSDB affiliation and its historical-observation/identity/forward-continuity status. A new official historical SGIP channel screened27 PSDB governing bodies and1131 member entries with no Ana Carla match. That universe contains party officers only; non-match establishes neither non-affiliation nor departure and cannot rebut the positive dated2016 observation. No source found a fresh exact-person positive, resignation, expulsion, new affiliation or exhaustive negative covering the service dates. No upgrade to current certification and no new invented alternative.",
+          "alternatives": "[]"
+        }
+      ],
+      "deletes": []
+    },
+    "evidence.csv": {
+      "key": [
+        "evidence_id"
+      ],
+      "upserts": [
+        {
+          "evidence_id": "V5W7E001",
+          "asserted_fact": "Ana Carla participated as acting Tourism minister in the Orla agreement ceremony on 2025-11-14; the previously retained prospective event is retrospectively confirmed.",
+          "source_locator": "https://minutomt.com.br/geral/brasil-mundo/ministerio-do-turismo-assina-acordo-interministerial-na-cop3o-para-dar-novo-impulso-ao-programa-orla/",
+          "publisher": "Ministerio do Turismo / Livia Albernaz, reproduced by MinutoMT",
+          "publication_date": "2025-11-14",
+          "retrieval_date": "2026-09-10",
+          "access_status": "full_attributed_post_event_reproduction_original_gov_page_unavailable",
+          "rationale": "The attributed ministry report describes a ceremony already held on Friday14, names Ana Carla as acting minister and reports her remarks. Independent post-event reporting was also located. This verifies an actual ministerial event, not all-day exclusive incumbency or the later closing state; the signature/event alone cannot establish titular absence. Original gov URL returned403 or login redirect; attribution and original URL are preserved in the reproduction."
+        },
+        {
+          "evidence_id": "V5W7E002",
+          "asserted_fact": "Original Chamber dispatch orders Sabino parliamentary leave from receipt of notification on 2025-11-17 at19h36, not from a stated ministerial possession timestamp.",
+          "source_locator": "https://Imagem.camara.gov.br/Imagem/d/pdf/DCD0020251118002240000.PDF#page=14",
+          "publisher": "Camara dos Deputados / Presidencia-SGM",
+          "publication_date": "2025-11-18",
+          "retrieval_date": "2026-09-10",
+          "access_status": "official_pdf_retrieved_page14_rendered_and_visually_verified",
+          "rationale": "DCD November18 page14 reproduces the November17 communication and presidential dispatch, document95494-1. It says leave to exercise the Tourism minister post begins with the communication received November17 at19h36. That explicitly identifies parliamentary effect; the document contains no actual assumption/handoff time. It supports the existing latest candidate but does not invalidate a ministry return before the notification."
+        },
+        {
+          "evidence_id": "V5W7E003",
+          "asserted_fact": "Official post-event Secom/EBC report confirms actual ministerial exercise by Sabino on the morning of 2025-11-17.",
+          "source_locator": "https://agenciagov.ebc.com.br/noticias/202511/sabino-nosso-grande-diferencial-competitivo-no-turismo-sao-as-acoes-de-sustentabilidade",
+          "publisher": "Secretaria de Comunicacao Social / Agencia Gov-EBC",
+          "publication_date": "2025-11-17",
+          "retrieval_date": "2026-09-10",
+          "access_status": "official_full_web_extraction_retained_direct_fetch_unavailable",
+          "rationale": "The report published11h13 names Sabino as Tourism minister in that Monday17 Bom Dia Ministro interview in Belem, describing ministry actions, investments and upcoming programs. This independently establishes actual ministerial exercise by November17, before the evening parliamentary notification. It establishes an upper bound, not his first moment back. Direct EBC fetch returned a temporary electoral-period unavailability notice despite HTTP200; browser-indexed official Secom and EBC article text is retained explicitly as such."
+        },
+        {
+          "evidence_id": "V5W7E004",
+          "asserted_fact": "A December6 Folhapress retrospective independently reports Sabino reassumed on December4; targeted original Chamber-diary review did not locate an assumption record resolving the existing December4-6 conflict.",
+          "source_locator": "https://www.acessa.com/politica/2023/12/190467-ministros-do-centrao-encaram-obstaculos-para-ampliar-alianca-de-lula-no-congresso.html",
+          "publisher": "Folhapress / Victoria Azevedo, reproduced by Acessa; Camara dos Deputados",
+          "publication_date": "2023-12-06",
+          "retrieval_date": "2026-09-10",
+          "access_status": "full_report_and_official_diary_dispatch_review_retained",
+          "rationale": "The report says Sabino reassumed Monday4 and attended the Senate meeting that day; it is retrospective, not merely the decree publication. This corroborates already retained CNN/Senate evidence but does not eliminate the contrary actual December5 parliamentary roll call or December6 legislative licence. Text searches and targeted OCR of dispatch sections in nine December6-16 diaries located no exact handoff record; that bounded search failure proves no absence."
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "asserted_fact": "Historical TSE SGIP screening of PSDB governing bodies found no Ana Carla match; its officer-only scope cannot establish personal non-affiliation or departure.",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/",
+          "publisher": "Tribunal Superior Eleitoral / SGIP3",
+          "publication_date": "",
+          "retrieval_date": "2026-09-10",
+          "access_status": "official_public_historical_queries_target_extracts_and_response_hashes_retained",
+          "rationale": "Queried PSDB historical bodies overlapping2013-01-01 through2026-03-19 in PA, DF, Belem and national scope, then all returned active/inactive member entries:27 bodies,1131 entries, no target name match. These are governing-body memberships, not all party affiliates; entries are not necessarily distinct people. No new exact-person dated positive or authoritative exhaustive negative was obtained. Retain C075 PSDB historical observation, contextual identity adjudication and forward continuity without upgrading it to a current certificate."
+        }
+      ],
+      "deletes": []
+    },
+    "evidence_snapshot_links.csv": {
+      "key": [
+        "evidence_id",
+        "snapshot_path",
+        "source_locator"
+      ],
+      "upserts": [
+        {
+          "evidence_id": "V5W7E001",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/orla_reproduction.html",
+          "source_locator": "https://minutomt.com.br/geral/brasil-mundo/ministerio-do-turismo-assina-acordo-interministerial-na-cop3o-para-dar-novo-impulso-ao-programa-orla/",
+          "snapshot_kind": "attributed_post_event_article",
+          "sha256": "9a54264f1993798101e15b9275865aa106c676ddedfe97e68fb19dbc51809a28"
+        },
+        {
+          "evidence_id": "V5W7E001",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/orla_reproduction.txt",
+          "source_locator": "https://minutomt.com.br/geral/brasil-mundo/ministerio-do-turismo-assina-acordo-interministerial-na-cop3o-para-dar-novo-impulso-ao-programa-orla/",
+          "snapshot_kind": "attributed_post_event_article",
+          "sha256": "f95e9ef90851f407cd42e478f43f65c0647917cd3bfe3bcb2d6e0cec3f1dad0e"
+        },
+        {
+          "evidence_id": "V5W7E001",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/web_6.json",
+          "source_locator": "https://www.gov.br/turismo/pt-br/assuntos/noticias/ministerio-do-turismo-assina-acordo-interministerial-na-cop3o-para-dar-novo-impulso-ao-programa-orla",
+          "snapshot_kind": "post_event_search_result_and_original_source_trace",
+          "sha256": "bccf99d7b6db067088e181e93b57dc6b44e23a296c5cbfac8f8a702ba4e88d5c"
+        },
+        {
+          "evidence_id": "V5W7E002",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/dcd20251118_p14.png",
+          "source_locator": "https://Imagem.camara.gov.br/Imagem/d/pdf/DCD0020251118002240000.PDF#page=14",
+          "snapshot_kind": "official_diary_page14_render",
+          "sha256": "cbbdbbd59eaf1c9742e9b648ed4c3c1c18c96bd28357638b5a4865b19997310f"
+        },
+        {
+          "evidence_id": "V5W7E002",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/dcd20251118_p14.ocr.txt",
+          "source_locator": "https://Imagem.camara.gov.br/Imagem/d/pdf/DCD0020251118002240000.PDF#page=14",
+          "snapshot_kind": "official_diary_page14_extract",
+          "sha256": "0495a55166421a6d29fc3fc99b61c34cd3b7417d94d0e7214b88a916fed635dc"
+        },
+        {
+          "evidence_id": "V5W7E002",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/diary_scan_manifest.json",
+          "source_locator": "https://Imagem.camara.gov.br/Imagem/d/pdf/DCD0020251118002240000.PDF#page=14",
+          "snapshot_kind": "original_full_pdf_url_and_sha256",
+          "sha256": "d9db87e265ea3de5ff9655655db84356fe0f3ffdf8d1d1a132f7925387f1bfba"
+        },
+        {
+          "evidence_id": "V5W7E003",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/web_15.json",
+          "source_locator": "https://agenciagov.ebc.com.br/noticias/202511/sabino-nosso-grande-diferencial-competitivo-no-turismo-sao-as-acoes-de-sustentabilidade",
+          "snapshot_kind": "official_full_web_extractions_Secom_and_EBC",
+          "sha256": "573374e800c7a66bea3401e02a3ba271d71a076aebd70cf23de4c73b4091407d"
+        },
+        {
+          "evidence_id": "V5W7E003",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/fetch_manifest_2.json",
+          "source_locator": "https://agenciagov.ebc.com.br/noticias/202511/sabino-nosso-grande-diferencial-competitivo-no-turismo-sao-as-acoes-de-sustentabilidade",
+          "snapshot_kind": "direct_fetch_statuses_and_hashes",
+          "sha256": "04a67e91940a7fe455ae82ce626c5d16ffd79858e4beb14bee25f1fc34e0c405"
+        },
+        {
+          "evidence_id": "V5W7E003",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sabino_20251117_ebc.txt",
+          "source_locator": "https://agenciagov.ebc.com.br/noticias/202511/sabino-nosso-grande-diferencial-competitivo-no-turismo-sao-as-acoes-de-sustentabilidade",
+          "snapshot_kind": "direct_fetch_temporary_unavailability_notice",
+          "sha256": "6665a5cb6639af9a20b03b2574e5c71a3a810ad10a44c2cc55c69ecb0d848fe4"
+        },
+        {
+          "evidence_id": "V5W7E004",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sabino_20231206_folhapress.html",
+          "source_locator": "https://www.acessa.com/politica/2023/12/190467-ministros-do-centrao-encaram-obstaculos-para-ampliar-alianca-de-lula-no-congresso.html",
+          "snapshot_kind": "contemporaneous_retrospective_report",
+          "sha256": "f148b53809839d3fd76dcc79dd1164858dd5c24a134aeadeedc58977d5f34caa"
+        },
+        {
+          "evidence_id": "V5W7E004",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sabino_20231206_folhapress.txt",
+          "source_locator": "https://www.acessa.com/politica/2023/12/190467-ministros-do-centrao-encaram-obstaculos-para-ampliar-alianca-de-lula-no-congresso.html",
+          "snapshot_kind": "contemporaneous_retrospective_report",
+          "sha256": "93b663ef7724f6d512bcc557b8e17f55aad5b08ecd20eb1dc307f5c56347d437"
+        },
+        {
+          "evidence_id": "V5W7E004",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/diary_review_manifest.json",
+          "source_locator": "https://imagem.camara.gov.br/pesquisa_diario_basica.asp",
+          "snapshot_kind": "bounded_diary_review_scope_and_hashes",
+          "sha256": "302ccd208cca72392e86f2eb5ad1ac908d06aa6ffd93e5817258858d1fd35136"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_scan_summary.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/",
+          "snapshot_kind": "scoped_historical_governing_body_query_summary",
+          "sha256": "0ba00533a2c684f363c43d566242b427cd9a6eaee68da185579fb5a42b3eb818"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_belem.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/consulta?tpAbrangencia=83&sgUeSuperior=PA&sgUe=04278&sqPartido=45&isComposicoesHistoricas=true&dataInicioVigencia=01%2F01%2F2013&dataFimVigencia=19%2F03%2F2026",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "becf9ff6fc8fbd9f2db8a6820ec95dea04d00d15c009b367921683fb64ed867e"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_df.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/consulta?tpAbrangencia=84&sgUe=DF&sqPartido=45&isComposicoesHistoricas=true&dataInicioVigencia=01%2F01%2F2013&dataFimVigencia=19%2F03%2F2026",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "1d0c5c8cad52b9f85311de1633d636d77df302bf4f65d46152660bb9f5745461"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_153377.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=153377&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "75e5d7d84018a480e636a0d0dead482adb11de3ab651dac70cd6edd28f3873b9"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_153381.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=153381&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "723116ad118a341567a4f1e2168fd178e57e5e846ea2b53ed9b910a522525256"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_239349.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=239349&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "b2ba9674b0229728868793c8d4cb96798c7c209ea5def014d0087af3d0d9435e"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_240260.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=240260&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "95c2e1340de62e7da367406fe8a7bee241589ab1193ead579432172250e30fbd"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_241375.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=241375&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "3ee2052bec5515d3ba8f4e5f490e3429d40289d8aa3cc5479f5fc8c9de1cebe8"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_244856.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=244856&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "31b963253a95c8bdfbf6c60a898d96d38e0cca692c3b7806514750845f6d5227"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_255962.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=255962&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "b99e53d00c125f9c01975fcbb0a99872d985d918a16a7d97309d6c8c5c1ef71f"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_272494.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=272494&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "d776cf1a9cb9a3cf7a40bb7411c006c928f3e9671835dd72ae97a8b2f5e3d887"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_274194.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=274194&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "7c6415d594d77176523fbab78da53ac2528f034e381c8b7d7c6cfd05387abc69"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_274937.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=274937&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "72dd0a176cc423807195737e8621fff1fe3fe53ce6318dcf085e5fbd8f8e835c"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_276042.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=276042&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "ed0c72a90f1ec48ed1583a40cb3f228445f0c5b6a72b6269d46be48c53e90411"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_383514.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=383514&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "9dfe6b02ea6d664c7fe510b9472439e81b11adce26947caf5405f665f9f436d7"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_414724.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=414724&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "9c1cb4a04b8ddc06667439c7f192a6bc3d49ee4d14dc8e8ddce2536e5060e229"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_439369.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=439369&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "a8738a2e1f2a115e6ac38ef6a2327e64cf00784ee5b24cbd40221a64cd6ded41"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_472737.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=472737&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "7dc4cabb9a0c224f750444aa754998f4c29b7d38a7a97c0a36be514ddffc5027"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_472995.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=472995&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "5acd2e20b361e2213d789a43345b2f245849ae1c08ab37b647de85ccdd7367b0"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_474234.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=474234&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "b4232be7d2820af1693ff7ba5992a2a5705176f08d5b8cb273ddf33030877656"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_477856.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=477856&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "717e4e9cf83cc20e4c9e65082d90f68c6d581a22bdcf7f92a4d1df76c25b4657"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_543279.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=543279&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "59fe21894a0c1f6bbbcff9c05a174050061a68d2471a13d8bd1d3c07f9fc6525"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_575641.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=575641&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "1f491ce34abc3d4107db727deacb2d2fcb755c824004d13acfbdb29756e2285c"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_577422.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=577422&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "508c635bb4521ad16f1308bde09516d5d98f6c429e466f6af9e12e574c107dee"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_578561.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=578561&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "8d0e3d47c9b4d17b76760983764dd730e5138d5b8635c3d026be689779a77c23"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_579560.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=579560&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "8204fb762746db21b49b308523f73092b1724b0f00d012d7d62a810a5cf05080"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_583521.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=583521&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "bec08962da8ebedd445e6492dd04ec14ed1d164cd62c97cb58bc3542986b94e9"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_70971.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70971&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "8aaddc2530d148e884418f0ac2286bd0fce69ce18fa4563b4e62470d8e9ee8d1"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_70972.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=70972&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "0258c5d39069cebc13088cff170138ff4c59e317534be4dce2055162eec1dbeb"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_members_94150.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/comAnotacoesEMembros?idOrgaoPartidario=94150&isMembrosAtivos=false",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "3dae38d378298d0c5480058a7effbcf6ca9eb9edbff58448eb2e767609e0be74"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_national.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/consulta?tpAbrangencia=81&sgUe=BR&sqPartido=45&isComposicoesHistoricas=true&dataInicioVigencia=01%2F01%2F2013&dataFimVigencia=19%2F03%2F2026",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "9630ac3e7a9fd7b0301071bd0bdac08a25fa58e69b9e1599e5c53caaeba257ee"
+        },
+        {
+          "evidence_id": "V5W7E005",
+          "snapshot_path": "research/refinement_v5/worker_7_lula_dates/sources/sgip_pa.json",
+          "source_locator": "https://sgip3.tse.jus.br/sgip3-consulta/api/v1/orgaoPartidario/consulta?tpAbrangencia=82&sgUe=PA&sqPartido=45&isComposicoesHistoricas=true&dataInicioVigencia=01%2F01%2F2013&dataFimVigencia=19%2F03%2F2026",
+          "snapshot_kind": "official_historical_query_target_extract",
+          "sha256": "4070ce0c27dc18cca0e8d7e5d3b3b1642384aa1108323a3446f3262b919b0ad9"
+        }
+      ],
+      "deletes": []
+    },
+    "service_sensitivity_constraints.csv": {
+      "key": [
+        "uncertainty_id"
+      ],
+      "upserts": [
+        {
+          "uncertainty_id": "sabino-2023-return",
+          "administration_id": "lula_3",
+          "office_id": "lula_3-turismo",
+          "outgoing_person_id": "person-ana-carla-machado-lopes",
+          "incoming_person_id": "person-96c220ae0629",
+          "earliest_effective_date": "2023-12-04",
+          "latest_effective_date": "2023-12-06",
+          "baseline_effective_date": "2023-12-06",
+          "candidate_dates": "2023-12-04;2023-12-05;2023-12-06",
+          "constraints": "Retain Dec4-Dec6 candidates and primaryDec6. New retrospective Folhapress evidence corroborates actual ministerial return on Dec4, while C073 retains actual parliamentary voting Dec5 and licenceDec6. Reviewed original dispatch sections Dec6-16 did not yield a possession or handoff record. Neither announcement nor legislative administrative date alone resolves the conflicting actual histories; no defensible narrowing. Move Ana Carla vacancy end and Sabino titular start jointly under the existing closing-state rule. C075 supplies outgoing PSDB affiliation; incoming UNIAO.",
+          "evidence_ids": "C073;C075;V5W7E004",
+          "outgoing_state": "PARTY",
+          "outgoing_party_id": "PSDB",
+          "incoming_state": "PARTY",
+          "incoming_party_id": "UNIAO"
+        },
+        {
+          "uncertainty_id": "sabino-2025-nov-return",
+          "administration_id": "lula_3",
+          "office_id": "lula_3-turismo",
+          "outgoing_person_id": "person-ana-carla-machado-lopes",
+          "incoming_person_id": "person-96c220ae0629",
+          "earliest_effective_date": "2025-11-14",
+          "latest_effective_date": "2025-11-17",
+          "baseline_effective_date": "2025-11-17",
+          "candidate_dates": "2025-11-14;2025-11-15;2025-11-16;2025-11-17",
+          "constraints": "Retain Nov14-Nov17 candidates and primaryNov17. The Nov14 Orla ceremony is now retrospectively verified, improving the earlier scheduled-only evidence, but an event at one time cannot exclude a later same-day closing-state handoff. The Nov15 weekly recap does not date the quoted remarks independently. Original Chamber dispatch explicitly makes parliamentary leave effective at notificationNov17 19h36, not ministerial possession. Official Secom/EBC reporting proves ministerial exercise on the morning of17, independently supporting that latest bound. Decree13/publication14 and expectedreturn14 remain admissible; no exact handoff record excludes dates14-16. Move outgoing vacancy end and titular start jointly; C075 supplies outgoing PSDB affiliation; incoming UNIAO.",
+          "evidence_ids": "C073;C075;V5W7E001;V5W7E002;V5W7E003",
+          "outgoing_state": "PARTY",
+          "outgoing_party_id": "PSDB",
+          "incoming_state": "PARTY",
+          "incoming_party_id": "UNIAO"
+        }
+      ],
+      "deletes": []
+    },
+    "services.csv": {
+      "key": [
+        "service_id"
+      ],
+      "upserts": [
+        {
+          "service_id": "service-C073-sabino-1",
+          "person_id": "person-96c220ae0629",
+          "person_name": "Celso Sabino",
+          "office_id": "lula_3-turismo",
+          "office_name": "Turismo",
+          "administration_id": "lula_3",
+          "start_inclusive": "2023-12-06",
+          "end_exclusive": "2024-12-03",
+          "capacity": "titular",
+          "included": "true",
+          "scope_decision": "Minister of State criterion; inherited qualifying office reviewed with OFF legal scope ledger",
+          "raw_start": "2023-08-03",
+          "raw_end": "2025-12-23",
+          "raw_date_semantics": "Inherited continuous raw roster endpoints retained for comparison; reconstructed actual-service segment endpoints follow C073 dated decrees and legislative licences, with bounds in sabino_date_conflicts.json",
+          "date_status": "adjudicated_documented_actual_service",
+          "date_earliest": "",
+          "date_latest": "",
+          "evidence_ids": "AFF-034;C073;LEG-68b75f23e045;V5W7E004",
+          "decision_ids": "C073;OFF-041;R27;V5W7D001",
+          "source_record_ids": "lula_2023_presente:2:46"
+        },
+        {
+          "service_id": "service-C073-sabino-5",
+          "person_id": "person-96c220ae0629",
+          "person_name": "Celso Sabino",
+          "office_id": "lula_3-turismo",
+          "office_name": "Turismo",
+          "administration_id": "lula_3",
+          "start_inclusive": "2025-11-17",
+          "end_exclusive": "2025-12-19",
+          "capacity": "titular",
+          "included": "true",
+          "scope_decision": "Minister of State criterion; inherited qualifying office reviewed with OFF legal scope ledger",
+          "raw_start": "2023-08-03",
+          "raw_end": "2025-12-23",
+          "raw_date_semantics": "Inherited continuous raw roster endpoints retained for comparison; reconstructed actual-service segment endpoints follow C073 dated decrees and legislative licences, with bounds in sabino_date_conflicts.json; V5W7D002 separates actual ministerial exercise, formal reappointment and parliamentary notification; all interval endpoints retained",
+          "date_status": "adjudicated_documented_actual_service",
+          "date_earliest": "",
+          "date_latest": "",
+          "evidence_ids": "AFF-034;C073;LEG-68b75f23e045;V5W7E001;V5W7E002;V5W7E003",
+          "decision_ids": "C073;OFF-041;R27;V5W7D002",
+          "source_record_ids": "lula_2023_presente:2:46"
+        },
+        {
+          "service_id": "service-C073-vacancy-1",
+          "person_id": "person-ana-carla-machado-lopes",
+          "person_name": "Ana Carla Machado Lopes",
+          "office_id": "lula_3-turismo",
+          "office_name": "Turismo",
+          "administration_id": "lula_3",
+          "start_inclusive": "2023-12-04",
+          "end_exclusive": "2023-12-06",
+          "capacity": "vacancy_acting",
+          "included": "true",
+          "scope_decision": "Carlos designation expired Dec3; Ana Carla was secretary-executive, the statutory substitute; her Dec4 portaria is corroboration in an independently documented vacancy.",
+          "raw_start": "2023-12-04",
+          "raw_end": "2023-12-06",
+          "raw_date_semantics": "Adjudicated half-open succession; independent source assertions retained in sabino_vacancy_successions.csv and sabino_date_conflicts.json",
+          "date_status": "adjudicated_documented_vacancy_succession",
+          "date_earliest": "",
+          "date_latest": "",
+          "evidence_ids": "C073;V5W7E004",
+          "decision_ids": "C073;V5W7D001",
+          "source_record_ids": "SABINO-2023-B"
+        },
+        {
+          "service_id": "service-C073-vacancy-5",
+          "person_id": "person-ana-carla-machado-lopes",
+          "person_name": "Ana Carla Machado Lopes",
+          "office_id": "lula_3-turismo",
+          "office_name": "Turismo",
+          "administration_id": "lula_3",
+          "start_inclusive": "2025-11-13",
+          "end_exclusive": "2025-11-17",
+          "capacity": "vacancy_acting",
+          "included": "true",
+          "scope_decision": "Documented true titular vacancy with designated substitute; the Nov14 Orla ceremony is retrospectively confirmed by attributed MTur post-event reporting naming Ana Carla acting minister. An event/signature alone does not prove titular absence through that day closing; Nov14-17 return bounds remain. Actual Sabino ministerial exercise is independently confirmed by the Nov17 morning Secom/EBC interview; Chamber notification at19h36 concerns legislative leave, not possession.",
+          "raw_start": "2025-11-13",
+          "raw_end": "2025-11-17",
+          "raw_date_semantics": "Adjudicated half-open succession; independent source assertions retained in sabino_vacancy_successions.csv and sabino_date_conflicts.json; V5W7D002 separates actual ministerial exercise, formal reappointment and parliamentary notification; all interval endpoints retained",
+          "date_status": "adjudicated_documented_vacancy_succession",
+          "date_earliest": "",
+          "date_latest": "",
+          "evidence_ids": "C073;V5W7E001;V5W7E002;V5W7E003",
+          "decision_ids": "C073;V5W7D002",
+          "source_record_ids": "SABINO-2025-NOV"
+        }
+      ],
+      "deletes": []
+    }
+  }
+}

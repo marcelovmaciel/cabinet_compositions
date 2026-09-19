@@ -1,0 +1,17 @@
+{
+  "party": "PSB",
+  "id": 49,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=49&currentPage=0&pageSize=10000",
+      "records": 3554,
+      "totalElements": 3554,
+      "response_sha256": "0c8ba8ebff8a87237bf499ad58580b07750fa8a0eda8b10d6a91c43989617d66",
+      "retrieved_utc": "2026-09-10T23:38:48Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "file": "rol_jul2021.pdf",
+    "url": "https://www.gov.br/secretariageral/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas-pr/2021/rol-de-responsaveis-30jul2021_primeiro-envio-da-digep.pdf",
+    "status": 200,
+    "valid_pdf": true,
+    "retrieval_date": "2026-09-10"
+  },
+  {
+    "file": "dou_30dez2022_p1.pdf",
+    "url": "https://static.poder360.com.br/2022/12/dou-comandos-marinha-aeronautica-30dez2022.pdf",
+    "status": 200,
+    "valid_pdf": true,
+    "retrieval_date": "2026-09-10"
+  }
+]

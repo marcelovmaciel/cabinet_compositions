@@ -1,0 +1,24 @@
+{
+  "party": "MDB",
+  "id": 42,
+  "uf": "RS",
+  "municipio": "7994",
+  "city": "Porto Alegre",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 13987,
+      "response_sha256": "14e60f0b7d54c4a6e8506248fc46ef7fd9c33050514fb6f7554042d169d71723",
+      "retrieved_utc": "2026-09-10T23:38:19Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7994&sqPartido=42&currentPage=1&pageSize=10000",
+      "records": 3987,
+      "totalElements": 13987,
+      "response_sha256": "806f4974dcb61b278f6cf6c61d4030d0ca5416be6b40f545d2d46a5948663801",
+      "retrieved_utc": "2026-09-10T23:38:27Z"
+    }
+  ],
+  "matches": []
+}

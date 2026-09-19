@@ -1,0 +1,17 @@
+{
+  "party": "CIDADANIA",
+  "id": 46,
+  "uf": "SP",
+  "municipio": "9534",
+  "city": "Presidente Prudente",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=46&currentPage=0&pageSize=10000",
+      "records": 276,
+      "totalElements": 276,
+      "response_sha256": "d00804ae938b6c3908e03a9c1fb18711f0b66a0f15e9ca57cc17164cb9d028c4",
+      "retrieved_utc": "2026-09-10T23:39:10Z"
+    }
+  ],
+  "matches": []
+}

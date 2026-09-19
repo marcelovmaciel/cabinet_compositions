@@ -1,0 +1,17 @@
+{
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "LONDRINA",
+  "party": "DEMOCRATA",
+  "id": 60,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=60&currentPage=0&pageSize=10000",
+      "records": 81,
+      "totalElements": 81,
+      "response_sha256": "28f0059eb128ca962c9060507522ac9d30cb4c2976f5c955c3d36796b2ae0905",
+      "retrieved_utc": "2026-09-11T00:59:22Z"
+    }
+  ],
+  "matches": []
+}

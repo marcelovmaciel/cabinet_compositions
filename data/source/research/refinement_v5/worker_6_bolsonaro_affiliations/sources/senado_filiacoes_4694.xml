@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FiliacaoParlamentar xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='https://legis.senado.leg.br/dadosabertos/dados/FiliacaoParlamentarv5.xsd'>
+    <Metadados>
+    <Versao>10/09/2026 21:46:32</Versao>
+    <VersaoServico>5</VersaoServico>
+    <DataVersaoServico>2021-09-09</DataVersaoServico>
+    <DescricaoDataSet>Retorna a relação de Filiações Partidárias do Senador informado no parâmetro.</DescricaoDataSet>
+    
+</Metadados>
+
+    <Parlamentar><Codigo>4694</Codigo><Nome>Rogerio Marinho</Nome><Filiacoes><Filiacao><Partido><CodigoPartido>523</CodigoPartido><SiglaPartido>PL</SiglaPartido><NomePartido>Partido Liberal</NomePartido></Partido><DataFiliacao>2021-11-30</DataFiliacao></Filiacao><Filiacao><Partido><CodigoPartido>66</CodigoPartido><SiglaPartido>PSDB</SiglaPartido><NomePartido>Partido da Social Democracia Brasileira</NomePartido></Partido><DataFiliacao>2011-02-08</DataFiliacao><DataDesfiliacao>2021-11-29</DataDesfiliacao></Filiacao><Filiacao><Partido><CodigoPartido>163</CodigoPartido><SiglaPartido>S/Partido</SiglaPartido><NomePartido>Sem Partido</NomePartido></Partido><DataFiliacao>2011-02-01</DataFiliacao><DataDesfiliacao>2011-02-07</DataDesfiliacao></Filiacao><Filiacao><Partido><CodigoPartido>66</CodigoPartido><SiglaPartido>PSDB</SiglaPartido><NomePartido>Partido da Social Democracia Brasileira</NomePartido></Partido><DataFiliacao>2009-05-14</DataFiliacao><DataDesfiliacao>2011-01-31</DataDesfiliacao></Filiacao><Filiacao><Partido><CodigoPartido>63</CodigoPartido><SiglaPartido>PSB</SiglaPartido><NomePartido>Partido Socialista Brasileiro</NomePartido></Partido><DataFiliacao>2007-02-01</DataFiliacao><DataDesfiliacao>2009-05-13</DataDesfiliacao></Filiacao></Filiacoes></Parlamentar>
+</FiliacaoParlamentar>

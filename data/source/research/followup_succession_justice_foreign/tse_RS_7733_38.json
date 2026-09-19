@@ -1,0 +1,17 @@
+{
+  "party": "PL",
+  "id": 38,
+  "uf": "RS",
+  "municipio": "7733",
+  "city": "Garibaldi",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RS&cdMunicipio=7733&sqPartido=38&currentPage=0&pageSize=10000",
+      "records": 140,
+      "totalElements": 140,
+      "response_sha256": "a08e71c5a960d578ab9321d7ccfccfb25a5d8a12cd6bdcafddb8bb24fdd336b6",
+      "retrieved_utc": "2026-09-10T23:37:45Z"
+    }
+  ],
+  "matches": []
+}

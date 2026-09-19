@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6912",
+  "city": "DUQUE DE CAXIAS",
+  "party": "PCB",
+  "id": 68,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6912&sqPartido=68&currentPage=0&pageSize=10000",
+      "records": 46,
+      "totalElements": 46,
+      "response_sha256": "56e9925cc49df37885fd12e66aedc986b80e34c815bf1c8a5b3cdf124c856d02",
+      "retrieved_utc": "2026-09-10T23:40:25Z"
+    }
+  ],
+  "matches": []
+}

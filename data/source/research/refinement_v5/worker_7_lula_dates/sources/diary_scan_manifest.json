@@ -1,0 +1,57 @@
+[
+  {
+    "name": "dcd20251118",
+    "url": "https://Imagem.camara.gov.br/Imagem/d/pdf/DCD0020251118002240000.PDF",
+    "status": 200,
+    "sha256": "caed7c2ae50e1a2d75bc37c7fcc878dbd0146477d977363283cd0900c04f501d",
+    "retrieved_utc": "2026-09-11T01:06:39.443643+00:00",
+    "dispatch_pages": [
+      3,
+      16
+    ]
+  },
+  {
+    "name": "dcd20251119",
+    "url": "https://Imagem.camara.gov.br/Imagem/d/pdf/DCD0020251119002250000.PDF",
+    "status": 200,
+    "sha256": "38cd6e6ed621f4b12bc8c1ecac370a8280cf55b043acdcdcbc0c159e00af51a0",
+    "retrieved_utc": "2026-09-11T01:06:39.946530+00:00",
+    "dispatch_pages": [
+      658,
+      672
+    ]
+  },
+  {
+    "name": "dcd20251120",
+    "url": "https://Imagem.camara.gov.br/Imagem/d/pdf/DCD0020251120002260000.PDF",
+    "status": 200,
+    "sha256": "92bddd07cfde199875a3526d62972a061a762d8b9db3f7c860338807776e6ea5",
+    "retrieved_utc": "2026-09-11T01:06:38.509483+00:00",
+    "dispatch_pages": [
+      7,
+      15
+    ]
+  },
+  {
+    "name": "dcd20231215",
+    "url": "https://Imagem.camara.gov.br/Imagem/d/pdf/DCD0020231215002330000.PDF",
+    "status": 200,
+    "sha256": "6627039c62d75a3ec3dc8d37efdfd09ab3f1925157a2cf36e2e125b243ded97e",
+    "retrieved_utc": "2026-09-11T01:06:56.092569+00:00",
+    "dispatch_pages": [
+      276,
+      285
+    ]
+  },
+  {
+    "name": "dcd20231216",
+    "url": "https://Imagem.camara.gov.br/Imagem/d/pdf/DCD0020231216002340000.PDF",
+    "status": 200,
+    "sha256": "b8c0d724ba35ce94df8474dd14ee8df27c4e878fc8356f93c59e6244b488530a",
+    "retrieved_utc": "2026-09-11T01:07:02.538148+00:00",
+    "dispatch_pages": [
+      867,
+      874
+    ]
+  }
+]

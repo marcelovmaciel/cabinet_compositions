@@ -1,0 +1,17 @@
+{
+  "party": "AVANTE",
+  "id": 50,
+  "uf": "SP",
+  "municipio": "9534",
+  "city": "Presidente Prudente",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SP&cdMunicipio=9534&sqPartido=50&currentPage=0&pageSize=10000",
+      "records": 84,
+      "totalElements": 84,
+      "response_sha256": "c813187ee7f08ad223cfaa6870c45a30169c973cddf90d1d2d237f5c299062cb",
+      "retrieved_utc": "2026-09-10T23:39:09Z"
+    }
+  ],
+  "matches": []
+}

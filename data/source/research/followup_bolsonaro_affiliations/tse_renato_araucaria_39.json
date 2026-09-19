@@ -1,0 +1,14 @@
+{
+  "party": "PRTB",
+  "id": 39,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=39&currentPage=0&pageSize=10000",
+      "records": 144,
+      "totalElements": 144,
+      "response_sha256": "56d6a123a6fe534fa22f3484975845c48cd043c43860051c4fccb149d0662600",
+      "retrieved_utc": "2026-09-11T00:08:32Z"
+    }
+  ],
+  "matches": []
+}

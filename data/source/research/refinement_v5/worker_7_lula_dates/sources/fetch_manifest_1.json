@@ -1,0 +1,44 @@
+[
+  {
+    "key": "dcd20231206",
+    "url": "https://imagem.camara.gov.br/Imagem/d/pdf/DCD0020231206002260000.PDF",
+    "status": 200,
+    "file": "dcd20231206.pdf"
+  },
+  {
+    "key": "dcd20231207",
+    "url": "https://imagem.camara.gov.br/Imagem/d/pdf/DCD0020231207002270000.PDF",
+    "status": 200,
+    "file": "dcd20231207.pdf"
+  },
+  {
+    "key": "dcd20231208",
+    "url": "https://imagem.camara.gov.br/Imagem/d/pdf/DCD0020231208002280000.PDF",
+    "status": 200,
+    "file": "dcd20231208.pdf"
+  },
+  {
+    "key": "dcd20231209",
+    "url": "https://imagem.camara.gov.br/Imagem/d/pdf/DCD0020231209002290000.PDF",
+    "status": 200,
+    "file": "dcd20231209.pdf"
+  },
+  {
+    "key": "dcd_index",
+    "url": "https://imagem.camara.gov.br/diarios.asp",
+    "status": 200,
+    "file": "dcd_index.html"
+  },
+  {
+    "key": "orla_official",
+    "url": "https://www.gov.br/turismo/pt-br/assuntos/noticias/ministerio-do-turismo-assina-acordo-interministerial-na-cop3o-para-dar-novo-impulso-ao-programa-orla",
+    "status": 403,
+    "file": "orla_official.html"
+  },
+  {
+    "key": "orla_reproduction",
+    "url": "https://minutomt.com.br/geral/brasil-mundo/ministerio-do-turismo-assina-acordo-interministerial-na-cop3o-para-dar-novo-impulso-ao-programa-orla/",
+    "status": 200,
+    "file": "orla_reproduction.html"
+  }
+]

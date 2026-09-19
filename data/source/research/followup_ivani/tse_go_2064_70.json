@@ -1,0 +1,16 @@
+{
+  "party": "PDT",
+  "id": 70,
+  "city": "ANÁPOLIS",
+  "city_id": "2064",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2064&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 881,
+      "totalElements": 881,
+      "response_sha256": "6357dd5fc66921077e444cb7effc9f1834b259c321fc8d7cb2bcf9ffeaebb79b",
+      "retrieved_utc": "2026-09-10T23:35:35Z"
+    }
+  ],
+  "matches": []
+}

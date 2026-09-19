@@ -1,0 +1,484 @@
+Conjunto de dados - Portal de Dados Abertos do TSE (https://dadosabertos.tse.jus.br/dataset/?_groups_limit=0&groups=partidos)
+citeturn345search0 [wordlim: 200] Crawled: last month; # 1 conjunto de dados encontrado ... Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária...    * CSV
+
+# 1 conjunto de dados encontrado
+
+Grupos: Partidos
+
+Filtrar Resultados
+
+  * ## Partidos
+
+Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária...
+
+    * CSV
+
+Você também pode ter acesso a esses registros usando a API (veja Documentação da API).--------------------------------------------------------------------------------
+Conjunto de dados - Portal de Dados Abertos do TSE (https://dadosabertos.tse.jus.br/pt_BR/dataset/?_groups_limit=0&page=6&res_format=CSV)
+citeturn345search1 [wordlim: 200] Crawled: 3 days ago; # Portal de Dados Abertos do TSE ... Formatos: CSV ... Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária ATENÇÃO! ...   * ## Comparecimento e Abstenção - 2024 ... Códigos oficiais das Unidades Federativas (UF) e dos municípios, conforme estabelecido pela Justiça Eleitoral (TSE) e pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
+
+# Portal de Dados Abertos do TSE
+
+  * Conjuntos de dados
+  * Organizações
+  * Grupos
+  * Sobre
+  * Contato
+  * Perguntas frequentes
+
+[Input: Buscar conjuntos de dados...]
+
+[Input]
+
+Ordenar por [Select] [Button: Ir]
+
+# 130 conjuntos de dados encontrados
+
+Formatos: CSV
+
+Filtrar Resultados
+
+  * ## Denúncias Eleitorais - 2014
+
+Denúncias registradas no Pardal ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de dados com um grande número de linhas (particularmente...
+
+    * CSV
+  * ## Denúncias Eleitorais - 2026
+
+Denúncias registradas no Pardal ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de dados com um grande número de linhas (particularmente...
+
+    * CSV
+  * ## Partidos
+
+Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de...
+
+    * CSV
+  * ## Comparecimento e Abstenção - 2012
+
+Comparecimento e Abstenção - Pessoas com deficiência - Transferência temporária de eleitor ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de...
+
+    * CSV
+  * ## Códigos oficiais de UF e municípios segundo o TSE e o IBGE
+
+Códigos oficiais das Unidades Federativas (UF) e dos municípios, conforme estabelecido pela Justiça Eleitoral (TSE) e pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
+
+    * CSV
+  * ## Candidatos - 2026
+
+Candidatos - Bens de Candidatos - Coligações - Vagas - Motivo da cassação - Redes sociais de candidatos - Fotos de candidatos - Proposta de governo ATENÇÃO! UTILIZE SOFTWARE...
+
+    * CSV
+    * JPEG
+    * PDF
+  * ## Candidatos - 2024
+
+Candidatos - Bens de Candidatos - Coligações - Vagas - Motivo da cassação - Redes sociais de candidatos - Fotos de candidatos - Proposta de governo ATENÇÃO! --------------------------------------------------------------------------------
+Conjunto de dados - Portal de Dados Abertos do TSE (https://dadosabertos.tse.jus.br/dataset/?page=7)
+citeturn345search2 [wordlim: 200] Crawled: 3 days ago; # Portal de Dados Abertos do TSE ... UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! ...     * CSV ... Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária ATENÇÃO! ...   * ## Comparecimento e Abstenção - 2024
+
+# Portal de Dados Abertos do TSE
+
+[Input: Buscar conjuntos de dados...]
+
+Ordenar por [Select] [Button: Ir]
+
+# 182 conjuntos de dados encontrados
+
+Filtrar Resultados
+
+  * ## Eleitorado - 2008
+
+Eleitorado - Perfil do eleitorado por seção eleitoral ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de dados com um grande número de linhas...
+
+    * CSV
+  * ## Eleitorado - 2006
+
+Perfil do Eleitorado ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de dados com um grande número de linhas (particularmente aqueles com...
+
+    * CSV
+  * ## Eleitorado - 2004
+
+Perfil do Eleitorado ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de dados com um grande número de linhas (particularmente aqueles com...
+
+    * CSV
+  * ## Eleitorado - 2002
+
+Perfil do Eleitorado ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS!   * ## Denúncias Eleitorais - 2016
+
+Denúncias registradas no Pardal ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de dados com um grande número de linhas (particularmente...
+
+    * CSV
+  * ## Denúncias Eleitorais - 2014
+
+Denúncias registradas no Pardal ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de dados com um grande número de linhas (particularmente...
+
+    * CSV
+  * ## Denúncias Eleitorais - 2026
+
+Denúncias registradas no Pardal ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de dados com um grande número de linhas (particularmente...
+
+    * CSV
+  * ## Partidos
+
+Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de dados com um...
+
+    * CSV
+  * ## Prestação de Contas Eleitorais - 2022
+--------------------------------------------------------------------------------
+Datensatz - Portal de Dados Abertos do TSE (https://dadosabertos.tse.jus.br/de/dataset/?page=6&res_format=CSV)
+citeturn345search3 [wordlim: 200] Crawled: last week; # Portal de Dados Abertos do TSE ... Formate: CSV ... Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária ATENÇÃO! ...   * ## Comparecimento e Abstenção - 2024 ... Códigos oficiais das Unidades Federativas (UF) e dos municípios, conforme estabelecido pela Justiça Eleitoral (TSE) e pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
+
+# Portal de Dados Abertos do TSE
+
+  * Datensätze
+  * Organisationen
+  * Gruppen
+  * Über uns
+  * Contato
+  * Perguntas frequentes
+
+# 129 Datensätze gefunden
+
+Formate: CSV
+
+Ergebnisse filtern
+
+  * ## Denúncias Eleitorais - 2026
+
+Denúncias registradas no Pardal ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de dados com um grande número de linhas (particularmente...
+
+    * CSV
+  * ## Partidos
+
+Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de dados com um...
+
+    * CSV
+  * ## Prestação de Contas Eleitorais - 2022
+
+Prestação de contas de órgãos partidários - Prestação de contas de candidatos - CNPJ de campanha - Extratos Bancários ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA...
+
+    * CSV
+    * TXT
+Arquivos de...
+
+    * CSV
+  * ## Códigos oficiais de UF e municípios segundo o TSE e o IBGE
+
+Códigos oficiais das Unidades Federativas (UF) e dos municípios, conforme estabelecido pela Justiça Eleitoral (TSE) e pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
+
+    * CSV
+  * ## Candidatos - 2026
+
+Candidatos - Bens de Candidatos - Coligações - Vagas - Motivo da cassação - Redes sociais de candidatos - Fotos de candidatos - Proposta de governo ATENÇÃO! UTILIZE SOFTWARE...
+
+    * CSV
+    * JPEG
+    * PDF
+  * ## Candidatos - 2024
+
+Candidatos - Bens de Candidatos - Coligações - Vagas - Motivo da cassação - Redes sociais de candidatos - Fotos de candidatos - Proposta de governo ATENÇÃO! UTILIZE SOFTWARE...
+
+    * CSV
+    * JPEG
+    * PDF
+  * ## Candidatos - 2022
+
+Candidatos - Bens de Candidatos - Coligações - Vagas - Motivo da cassação - Redes sociais de candidatos - Fotos de candidatos - Proposta de governo - Certidões criminais - Notas...
+--------------------------------------------------------------------------------
+Conxunto de datos - Portal de Dados Abertos do TSE (https://dadosabertos.tse.jus.br/gl/dataset/?page=6&res_format=CSV)
+citeturn345search4 [wordlim: 200] Crawled: last week; # Portal de Dados Abertos do TSE ... Formatos: CSV ... Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária ATENÇÃO! ...   * ## Comparecimento e Abstenção - 2024 ... Códigos oficiais das Unidades Federativas (UF) e dos municípios, conforme estabelecido pela Justiça Eleitoral (TSE) e pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
+
+# Portal de Dados Abertos do TSE
+
+# Atopáronse 129 conxuntos de datos
+
+Formatos: CSV
+
+Filtrar resultados
+
+  * ## Denúncias Eleitorais - 2026
+
+Denúncias registradas no Pardal ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de dados com um grande número de linhas (particularmente...
+
+    * CSV
+  * ## Partidos
+
+Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS! Arquivos de dados com um...
+
+    * CSV
+  * ## Prestação de Contas Eleitorais - 2022
+
+Prestação de contas de órgãos partidários - Prestação de contas de candidatos - CNPJ de campanha - Extratos Bancários ATENÇÃO! UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA...
+
+    * CSV
+    * TXT
+  * ## Correspondência entre número interno e modelo da urna
+
+Lista de modelos de urnas e respectivos números internos. Os modelos de urnas são atualizados a cada processo de aquisição.
+
+    * CSV
+  * ## Candidatos - 2026
+
+Candidatos - Bens de Candidatos - Coligações - Vagas - Motivo da cassação - Redes sociais de candidatos - Fotos de candidatos - Proposta de governo ATENÇÃO! UTILIZE SOFTWARE...
+
+    * CSV
+    * JPEG
+    * PDF
+  * ## Candidatos - 2024
+
+Candidatos - Bens de Candidatos - Coligações - Vagas - Motivo da cassação - Redes sociais de candidatos - Fotos de candidatos - Proposta de governo ATENÇÃO! UTILIZE SOFTWARE...
+
+    * CSV
+    * JPEG
+    * PDF
+  * ## Candidatos - 2022
+
+Candidatos - Bens de Candidatos - Coligações - Vagas - Motivo da cassação - Redes sociais de candidatos - Fotos de candidatos - Proposta de governo - Certidões criminais - Notas...
+
+    * CSV
+    * JPEG
+    * PDF
+  * ## Candidatos - 2020
+
+Candidatos - Bens de Candidatos - Coligações - Vagas - Motivo da cassação - Redes sociais de candidatos - Fotos de candidatos - Proposta de governo - Certidões criminais...
+--------------------------------------------------------------------------------
+Filiação partidária — Tribunal Superior Eleitoral (https://www.tse.jus.br/partidos/filiacao-partidaria)
+citeturn345search5 [wordlim: 200] Crawled: today; Filiação partidária A filiação partidária é o ato pelo qual um eleitor aceita, adota o programa e passa a integrar um partido político https://www.tse.jus.br/partidos/filiacao-partidaria https://www.tse.jus.br/@@site-logo/logo.jpg ... O acesso ao novo Sistema de Filiação Partidária (FILIA) foi concedido ao presidente nacional de cada partido político com registro de estatuto no TSE, como administrador nacional do sistema.
+
+# Página interna do portal
+
+## Seção de conteúdo
+
+### Partidos
+
+
+Filiação partidária A filiação partidária é o ato pelo qual um eleitor aceita, adota o programa e passa a integrar um partido político https://www.tse.jus.br/partidos/filiacao-partidaria https://www.tse.jus.br/@@site-logo/logo.jpg
+
+## Filiação partidária
+
+Compartilhar página por e-mail Compartilhar pagina via Facebook Compartilhar página no WhatsApp
+
+O acesso ao novo Sistema de Filiação Partidária (FILIA) foi concedido ao presidente nacional de cada partido político com registro de estatuto no TSE, como administrador nacional do sistema.
+
+Os demais administradores nacionais, que serão cadastrados pelos respectivos presidentes nacionais, devem estar anotados no SGIP3, como membros ativos, “vice-presidente” ou “delegado”.
+
+Os administradores nacionais poderão cadastrar os administradores de abrangência inferior.
+
+Acesse o Sistema de Filiação Partidária (FILIA)
+
+Passo a passo - Nova forma de acesso ao sistema FILIA
+
+Guia do usuário do Módulo Externo (formato PDF);
+
+Passo a passo para utilizar assinatura eletrônica, via e-Título (geração do Código de Autenticação) (formato PDF).
+
+Por meio desse aplicativo é possível:
+
+  * gerenciar usuários de partidos políticos;
+  * gerenciar o cadastro de filiados;
+  * emitir a certidão de filiação partidária;
+
+Sobre filiação partidária, consulte:
+
+Normas
+
+Estatísticas
+--------------------------------------------------------------------------------
+Sistema de filiação partidária - Filia — Tribunal Superior Eleitoral (https://www.tse.jus.br/partidos/filiacao-partidaria/filiaweb)
+citeturn345search6 [wordlim: 200] Crawled: today; Sistema de filiação partidária - Filia O sistema permite a gestão do cadastro de filiados, da relação de filiados, dos usuários de partidos políticos, a emissão de certidão de filiação partidária. https://www.tse.jus.br/partidos/filiacao-partidaria/filiaweb https://www.tse.jus.br/@@site-logo/logo.jpg ... O acesso ao novo Sistema de Filiação Partidária (FILIA) foi concedido ao presidente nacional de cada partido político com registro de estatuto no TSE, como administrador nacional do sistema.
+
+## Seção de conteúdo
+
+### Partidos
+
+  * Contas partidárias
+  * Criação de partido político
+  * Federações partidárias
+  * Filiação partidária
+    * Certidão de Filiação Partidária
+    * Fidelidade partidária
+    * Normas
+    * Perguntas frequentes sobre o Sistema de Filiação Partidária
+    * Sistema de filiação partidária - Filia
+  * Partidos registrados no TSE
+  * Propaganda partidária
+
+
+Sistema de filiação partidária - Filia O sistema permite a gestão do cadastro de filiados, da relação de filiados, dos usuários de partidos políticos, a emissão de certidão de filiação partidária. https://www.tse.jus.br/partidos/filiacao-partidaria/filiaweb https://www.tse.jus.br/@@site-logo/logo.jpg
+
+## Sistema de filiação partidária - Filia
+
+Compartilhar página por e-mail Compartilhar pagina via Facebook Compartilhar página no WhatsApp
+
+O acesso ao novo Sistema de Filiação Partidária (FILIA) foi concedido ao presidente nacional de cada partido político com registro de estatuto no TSE, como administrador nacional do sistema.
+
+Os demais administradores nacionais, que serão cadastrados pelos respectivos presidentes nacionais, devem estar anotados no SGIP3, como membros ativos, “vice-presidente” ou “delegado”.
+
+Os administradores nacionais poderão cadastrar os administradores de abrangência inferior.
+
+Acesse o sistema.
+--------------------------------------------------------------------------------
+Partidos - Conjunto de dados - Portal de Dados Abertos do TSE (https://dadosabertos.tse.jus.br/dataset/delegados-partidarios)
+citeturn345search7 [wordlim: 200] Published: 5.1 years ago; Crawled: today; # Portal de Dados Abertos do TSE# Partidos ... Contato para dúvidas/sugestões  | https://www.tse.jus.br/eleitor/servicos/ouvidoria/formulario-da-assessoria-de-informacao-ao-cidadaoEscopo geopolítico  | Brasil
+
+# Portal de Dados Abertos do TSE
+
+# Partidos
+
+Seguidores
+    0
+
+
+## Licença
+
+Creative Commons Attribution
+
+  * Conjunto de dados
+  * Grupos
+
+# Partidos
+
+Delegados Partidários - Órgãos Partidários - Perfil Filiação Partidária
+
+* * *
+
+ATENÇÃO!
+
+UTILIZE SOFTWARE ADEQUADO PARA A COMPLETA VISUALIZAÇÃO DOS DADOS!
+
+Arquivos de dados com um grande número de linhas (particularmente aqueles com extensão .csv e .txt) podem não ser visualizados em sua totalidade a depender do software utilizado. Por exemplo, o Microsoft Excel tem limitação de 1.048.576 linhas. Para evitar o carregamento incompleto do arquivo, utilize softwares com suporte para abrir grande volume de dados ou aplique técnicas específicas para seu processamento.
+
+
+## Dados e recursos
+
+  * Delegados PartidáriosCSV
+
+Todos os Partidos
+
+Explorar
+    * Mais informações
+    * Ir para recurso
+
+  * Órgãos PartidáriosCSV
+
+Todos os Partidos
+
+Explorar
+    * Mais informações
+    * Ir para recurso
+
+  * Perfil Filiação PartidáriaCSV
+
+Todos os Partidos
+
+Explorar
+    * Mais informações
+    * Ir para recurso
+
+### Informações Adicionais
+
+Campo  | Valor
+--- | ---
+Fonte  | Sistema SGIP
+Criado  | agosto 16, 2021, 21:41 (BRT)
+Contato para dúvidas/sugestões  | https://www.tse.jus.br/eleitor/servicos/ouvidoria/formulario-da-assessoria-de-informacao-ao-cidadao
+Escopo geopolítico  | Brasil
+Extração dos dados  | Data de geração disponível por arquivo
+Frequência de atualização  | Semanal
+Área Gestora  | Secretaria Judiciária - SJD--------------------------------------------------------------------------------
+Bem vindo - Portal de Dados Abertos do TSE (https://dadosabertos-novo.tse.jus.br/)
+citeturn345search8 [wordlim: 200] Crawled: last month; # Portal de Dados Abertos do TSE### Este portal disponibiliza à sociedade os dados gerados ou custodiados pelo TSE, de forma a garantir o acesso a informações e aprimorar a cultura de transparência.
+
+Buscar conjunto de dados [Input: Pesquisar]
+
+### Pesquisar dados
+
+[Input: Ex: Resultados] Pesquisar
+
+# Portal de Dados Abertos do TSE
+
+### Este portal disponibiliza à sociedade os dados gerados ou custodiados pelo TSE, de forma a garantir o acesso a informações e aprimorar a cultura de transparência. Ele substitui o antigo Repositório de Dados Eleitorais, descontinuado em janeiro de 2022. Os dados aqui disponíveis podem ser livremente acessados, utilizados, tratados e compartilhados por qualquer pessoa, com vistas à geração de novas informações e iniciativas da sociedade que busquem estimular o controle social e contribuir com a melhoria da gestão pública.
+
+### Acesse também:
+
+  * Formulário Fale Conosco (Ouvidoria)
+  * Termos de uso e privacidade
+
+### Portal de Dados Abertos do TSE estatísticas
+
+  * 172 conjuntos de dados
+  * 7 organizações
+  * 11 grupos--------------------------------------------------------------------------------
+Filia - Consulta (https://filia2-consulta.tse.jus.br/)
+citeturn345search9 [wordlim: 200] Crawled: 6 months ago; Image: Tribunal Superior Eleitoral Sistema de Filiação Partidária - Consulta home help
+Image: Tribunal Superior EleitoralSistema de Filiação Partidária - Consulta home help
+
+## Serviços Disponíveis
+
+Para outros serviços, acesse o sistema.
+
+Versão: 2.4.56--------------------------------------------------------------------------------
+Lista atualizada de filiados a partidos já está disponível no Portal do TSE — Tribunal Superior Eleitoral (https://www.tse.jus.br/comunicacao/noticias/2019/Abril/lista-atualizada-de-filiados-a-partidos-ja-esta-disponivel-no-portal-do-tse)
+citeturn345search10 [wordlim: 200] Published: 7.4 years ago; Crawled: 3 weeks ago; Lista atualizada de filiados a partidos já está disponível no Portal do TSE Legendas tiveram até o dia 12 de abril para enviar as relações de seus associados à Justiça Eleitoral https://www.tse.jus.br/comunicacao/noticias/2019/Abril/lista-atualizada-de-filiados-a-partidos-ja-esta-disponivel-no-portal-do-tse https://www.tse.jus.br/@@site-logo/logo.jpg ... O Tribunal Superior Eleitoral (TSE) já disponibilizou em sua página na Internet a relação atualizada dos filiados de cada partido político registrado na Justiça Eleitoral.
+
+Lista atualizada de filiados a partidos já está disponível no Portal do TSE Legendas tiveram até o dia 12 de abril para enviar as relações de seus associados à Justiça Eleitoral https://www.tse.jus.br/comunicacao/noticias/2019/Abril/lista-atualizada-de-filiados-a-partidos-ja-esta-disponivel-no-portal-do-tse https://www.tse.jus.br/@@site-logo/logo.jpg
+
+## Lista atualizada de filiados a partidos já está disponível no Portal do TSE
+
+Legendas tiveram até o dia 12 de abril para enviar as relações de seus associados à Justiça Eleitoral
+
+24/04/2019 11:14 - Atualizado em 08/07/2026 00:46
+
+Compartilhar página por e-mail Compartilhar pagina via Facebook Compartilhar página no WhatsApp
+
+Image: foto-tse-filiados
+
+O Tribunal Superior Eleitoral (TSE) já disponibilizou em sua página na Internet a relação atualizada dos filiados de cada partido político registrado na Justiça Eleitoral. As listas contêm a data de filiação, os números dos títulos e as seções eleitorais em que os filiados às legendas estão inscritos. --------------------------------------------------------------------------------
+Carta de serviços — Tribunal Superior Eleitoral (https://www.tse.jus.br/servicos-eleitorais/servicos/carta-de-servicos-ao-eleitor)
+citeturn345search11 [wordlim: 200] Crawled: today; As certidões emitidas pela internet e nos locais de atendimento presencial trarão o nome social acompanhado do nome civil e serão geradas a partir da informação do nome civil, da filiação e da data de nascimento. ... As pessoas estrangeiras residentes no Brasil que necessitem de Certidão de Crimes Eleitorais podem solicitar o documento nos Tribunais, nos Cartórios e nas centrais de atendimento ao eleitor, observado o limite de competência das respectivas circunscrições. ... As inconsistências cadastrais devem ser resolvidas pela eleitora ou pelo eleitor diretamente com o partido político ao qual é filiado(a) ou com o juízo eleitoral de sua circunscrição. ... O Portal de Dados Abertos do TSE disponibiliza à sociedade os dados gerados ou custodiados pelo Tribunal, de forma a garantir o acesso a informações e aprimorar a cultura de transparência. ... Essa consulta permite acesso aos dados dos partidos políticos em processo de formação – nome do(a) presidente nacional, telefone e número do Cadastro Nacional da Pessoa Jurídica (CNPJ) –, ao quantitativo do apoiamento mínimo obtido pelas agremiações e à ferramenta que permite verificar se a eleitora ou o eleitor é apoiador(a) de algum partido em formação.
+  * cadastramento como mesária ou mesário voluntário(a);
+  * geração do título eleitoral em formato PDF para impressão;
+  * pagamento de eventuais débitos eleitorais por Pix ou por meio da emissão de boleto.
+
+3. Consulta aos dados eleitorais
+
+O Portal de Dados Abertos do TSE disponibiliza à sociedade os dados gerados ou custodiados pelo Tribunal, de forma a garantir o acesso a informações e aprimorar a cultura de transparência. Ele substitui o antigo Repositório de Dados Eleitorais, descontinuado em janeiro de 2022. Os dados nele disponíveis podem ser livremente acessados, utilizados, tratados e compartilhados por qualquer pessoa, com vistas à geração de novas informações e iniciativas da sociedade que busquem estimular o controle social e contribuir com a melhoria da gestão pública.
+
+3.1 Dados abertos
+
+O Portal de Dados Abertos do TSE disponibiliza à sociedade os dados gerados ou custodiados pelo Tribunal, de forma a garantir o acesso a informações e aprimorar a cultura de transparência. --------------------------------------------------------------------------------
+FUNDAÇÃO GETULIO VARGAS (https://repositorio.fgv.br/bitstreams/c93fdfcb-0ae7-4dc9-a5c0-d67d929d625f/download)
+citeturn345search12 [wordlim: 200] Published: 10 months ago; "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" http://agencia.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pdt_df.zip ... "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" http://agencia.tse.jus.br/estatistica/sead/eleitorado/filiados/uf/filiados_pdt_pe.zip
+--------------------------------------------------------------------------------
+TRIBUNAL SUPREMO ELECTORAL (https://tse.org.gt/images/descargas/LPP28022025.pdf)
+citeturn345search13 [wordlim: 200] Crawled: 1.5 years ago; # Resumen Totales de Afiliados/Adherentes ... ## Partidos Políticos ... | Z | PARTIDO DE AVANZADA NACIONAL | PAN | 40250 |
+--------------------------------------------------------------------------------
+docu0075.pdf (https://tse.org.gt/images/informacion_oficio/manuales/Manual-de-Organizaciones-Politicas.pdf)
+citeturn345search14 [wordlim: 200] Published: 14.4 years ago; EN EL PROGRAMA DE OFF LINE, SE PODRÁ UTILIZAR LA OPCIÓN DE CONSULTA DE AFILIADOS, PARA VERIFICAR QUE SE HAYA DIGITADO CORRECTAMENTE SU INFORMACIÓN. ... LOS DISKETTES O CDS, DEBEN PRESENTARSE DEBIDAMENTE IDENTIFICADOS CON EL NOMBRE DEL PARTIDO. ... SERAN CAUSALES DE RECHAZO DE LOS AFILIADOS Y ADHERENTES (ARTÍCULO 59 Y 60 DE LA LEY ELECTORAL Y DE PARTIDOS POLÍTICOS, Y 24 DE SU REGLAMENTO:)
+--------------------------------------------------------------------------------
+Lista de partidos políticos do Brasil (https://pt.wikipedia.org/wiki/Lista_de_partidos_pol%C3%ADticos_do_Brasil)
+citeturn345search15 [wordlim: 200] Crawled: 4 months ago; Desde novembro de 2025, o Brasil tem 30 (trinta) partidos políticos registrados no Tribunal Superior Eleitoral (TSE). ... O registro como o partido político permite lançar candidaturas nas eleições brasileiras, sendo que no país a filiação partidária é requisito para o direito político de ser elegível. ... Além disso, têm direitos ao uso de recursos do Fundo Partidário e do acesso gratuito a propagandas em estações de rádio e televisão do país, não podem ser financiados por recursos de entidades estrangeiras e devem prestar contas à Justiça Eleitoral. ... # | Nome | Sigla | Número eleitoral | Número de filiados | Data de criação | Data de registro definitivo | Presidente atual ... 2 |  | Partido dos Trabalhadores | PT | 13 | 1.668.670 | 10/02/1980 | 11/02/1982 | Edinho Silva
+--------------------------------------------------------------------------------
+Cruzamento de filiaÃ§Ã£o (https://uploads.agencialupa.org/2025/12/mulheres-partidos-marco-2023.pdf)
+citeturn345search16 [wordlim: 200] Published: 8 months ago; Portal do TSE | Portal de dados abertosPágina inicial \ Filiação partidária mensal \ **Cruzamento de filiação** ... Métricas: **Filiação** | Nome social | Deficientes | Todas ... https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao-filiados/cruzamento-de-filiacao?
+--------------------------------------------------------------------------------
+Tribunal Superior Eleitoral (https://www.tse.jus.br/partidos/filiacao-partidaria/arquivos/tse-manual-sistema-filiacao-partidaria-externo/%40%40display-file/file/TSE-manual-filia-externo.pdf)
+citeturn345search17 [wordlim: 200] Published: 7.0 years ago; Sistema de Filiação Partidária – FILIA ... Sistema de Filiação Partidária - Externo ... Partido ... C – Apresenta o nome do eleitor que sofreu a operação no sistema; ... G – Apresenta a situação da relação vinculada ao registro que sofreu a operação no sistema;
+--------------------------------------------------------------------------------
+Justiça Eleitoral (https://monitor-static.poder360.com.br/static?path=politicos_do_brasil%2Farquivos%2F2024%2F19976%2F150002009964%2FokTJPB1GRAUcvelobjetoepecertidaoimprobidadecompressed.pdf)
+citeturn345search18 [wordlim: 200] Crawled: 2.1 years ago; Dados da Filiação Partidária ... A regularidade de filiação partidária é aferida com base em lançamento feito sob responsabilidade do partido político no sistema FILIA e considera informações sobre o gozo de direitos políticos extraídas do Cadastro Eleitoral na data desta certidão. ... Esta certidão é expedida gratuitamente e a sua autenticidade pode ser conferida no sítio eletrônico do Tribunal Superior Eleitoral https://www.tse.jus.br/servicos-eleitorais/certidoes/certidao-de-filiacao-partidaria, por meio do código de autenticação: **D222.647F.E3C2.95FF**
+--------------------------------------------------------------------------------
+O TSE já abriu o site de divulgação de candidaturas inscritas para as eleições 2026! Esta é a hora de escolher em quem votar, em especial para o LEGISLATIVO (https://www.reddit.com/r/brasil/comments/1vkwpx2/o_tse_j%C3%A1_abriu_o_site_de_divulga%C3%A7%C3%A3o_de/)
+citeturn345reddit19 [wordlim: 200] Published: last month; O DivulgaCand é o serviço de divulgação oficial de candidaturas do TSE. ... Descobri que é treta interna do partido "Democracia Cristã" no estado: https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/08/03/democracia-crista-realiza-convencoes-rivais-e-lanca-dois-candidatos-ao-governo-da-bahia.ghtml ... Excelente post, é muito importante que mais pessoas conheçam esse site, onde é possível acessar o programa dos candidatos, declaração de bens, balanço da campanha, entre outas informações relevantes.
+--------------------------------------------------------------------------------
+O quanto o brasileiro médio/comum está preocupado ou tem interesse em saber detalhes de possíveis candidatos? (https://www.reddit.com/r/brasil/comments/1vj07bk/o_quanto_o_brasileiro_m%C3%A9diocomum_est%C3%A1_preocupado/)
+citeturn345reddit20 [wordlim: 200] Published: last month; Para testar "no mundo real", resolvi usar os dados abertos do TSE.Cruzei dados de candidatos com empresas, assistências sociais, doadores, bens declarados etc. ... O dashboard das eleições de 2024 foi compartilhado com meus poucos seguidores e algumas emissoras de rádio locais, mas nenhuma deu importância. ... Como não sei se as imagens do reddit estarão visíveis, segue o link de uma versão em PDF: https://pt.scribd.com/document/1071265970/Eleicoes-2024 *(após o download, a resolução melhora)*
+--------------------------------------------------------------------------------
+Partidos políticos no Brasil (https://pt.wikipedia.org/wiki/Partidos_pol%C3%ADticos_no_Brasil)
+citeturn345search21 [wordlim: 200] Crawled: 5 months ago; Desde novembro de 2025, os partidos políticos em atividade no Brasil totalizam 30 organizações políticas registradas no Tribunal Superior Eleitoral (TSE) e aptas a lançarem candidatos nas eleições brasileiras.Na tabela abaixo elaborada a partir dos dados do TSE, os partidos políticos estão listados primariamente pelo número eleitoral obtido junto ao tribunal, mas também é ordenável sob os demais critérios presentes nas outras colunas.Nome | Sigla | Número eleitoral | Data de criação | Data de registro definitivo ... Partido Missão | MISSÃO | 14 | 17 de outubro de 2023 | 4 de novembro de 2025
+--------------------------------------------------------------------------------
+Como São Paulo votou nos 2 turnos por local de votação (https://www.reddit.com/r/saopaulo/comments/1gfq2lf)
+citeturn345reddit22 [wordlim: 200] Published: 1.9 years ago; Crawled: 1.7 years ago;   Os dados estão disponíveis no site de Dados Abertos do TSE, tanto os resultados eleitorais quanto as coordenadas dos locais de votação. ...       https://dadosabertos.tse.jus.br/dataset/resultados-2024 as coordenadas dos locais tem em 'Eleitorado.'
+--------------------------------------------------------------------------------
+En este link pueden confirmar si su DPI aparece afiliado a un partido político (https://www.reddit.com/r/guatemala/comments/y04oz9)
+citeturn345reddit23 [wordlim: 200] Published: 3.9 years ago; Crawled: 3.9 years ago; Si aparece afiliado sin su consentimiento acuda al TSE.Link: https://tse.org.gt/index.php/sistema-de-estadisticas/consulta-de-afiliacion

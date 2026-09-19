@@ -1,0 +1,17 @@
+{
+  "party": "PCB",
+  "id": 68,
+  "uf": "RR",
+  "municipio": "7375",
+  "city": "Boa Vista",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RR&cdMunicipio=7375&sqPartido=68&currentPage=0&pageSize=10000",
+      "records": 9,
+      "totalElements": 9,
+      "response_sha256": "9294b6ccd1bebdc13385a5e75402a927656b4b137e0a8ad35dce81189b10ba04",
+      "retrieved_utc": "2026-09-10T23:41:09Z"
+    }
+  ],
+  "matches": []
+}

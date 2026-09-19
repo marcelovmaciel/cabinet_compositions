@@ -1,0 +1,17 @@
+{
+  "uf": "PR",
+  "municipio": "6267",
+  "city": "LONDRINA",
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=6267&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 269,
+      "totalElements": 269,
+      "response_sha256": "209d6b874a829bbe6adcf32ed41d13adb576b4438b90d9a64e151459d131b674",
+      "retrieved_utc": "2026-09-11T00:59:41Z"
+    }
+  ],
+  "matches": []
+}

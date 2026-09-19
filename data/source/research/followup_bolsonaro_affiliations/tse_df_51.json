@@ -1,0 +1,14 @@
+{
+  "party": "REPUBLICANOS",
+  "id": 51,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=51&currentPage=0&pageSize=10000",
+      "records": 5470,
+      "totalElements": 5470,
+      "response_sha256": "336ca5d2b3ff0f0c98f4acc6c2fa6aa3f06f1007469b211478ec4d5b00a75c21",
+      "retrieved_utc": "2026-09-10T23:36:42Z"
+    }
+  ],
+  "matches": []
+}

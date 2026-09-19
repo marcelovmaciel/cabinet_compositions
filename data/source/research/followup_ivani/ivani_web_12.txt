@@ -1,0 +1,298 @@
+GitHub - Webschool-io/Politicos-brasileiros: API com todas as informações dos nossos queridos políticos. · GitHub (https://github.com/Webschool-io/Politicos-brasileiros)
+citeturn351search0 [wordlim: 200] Crawled: last week; Percebeu que temos 3 entidades que estão diretamente ligadas à `Político` caso utilizássemos um banco relacional elas seriam tabelas separadas, porém como usaremos o MongoDb que é baseado em documento essas 3 entidades irão virar documentos embedados dentro da coleção de `politicos`. ... E se entramos na página de cada partido como em http://www.tse.jus.br/partidos/partidos-politicos/partido-do-movimento-democratico-brasileiro podemos adicionar os seguintes dados: ... T6, Praça dos Três Poderes, Brasília-DF ...   * Endereço Internet: www.pmdb.org.br
+
+E se entramos na página de cada partido como em http://www.tse.jus.br/partidos/partidos-politicos/partido-do-movimento-democratico-brasileiro podemos adicionar os seguintes dados:
+
+  * Endereço: Câmara dos Deputados, Ed. Principal, Sl. T6, Praça dos Três Poderes, Brasília-DF
+  * CEP: 70160-900
+  * Telefone: (61) 3215.9206/9209/9211/9215
+  * FAX: (61) 3215.9220
+  * Endereço Internet: www.pmdb.org.br
+  * Email: pmdb@pmdb.org.br / diretorionacional.pmdb@uol.com.br
+
+Logo nossa Molécula(Schema) ficará:
+    
+    {
+      sigla: String
+    , nome: String
+    , numeroPartido: Number
+    , presidente: String
+    , dataCriacao: Date
+    , dataRegistroDefinitivo: Date
+    , numeroAfiliados: Number
+    , espectroPolitico: String
+    , ideologia: String
+    , site: String
+    , email: String
+    , telefoneCompleto: String
+    , faxCompleto: String
+    , enderecoPartido: Object
+    , impeachment: Boolean
+    }
+
+Não iremos separar o DDD do Telefone como seria o comum só porque não há necessidade de termos esses dados em separado e adicionei diretamente a flag `impeachment` para definir diretamente na sua entidade qual foi seu voto pois inicialmente é o foco principal do nosso sistema, cruzar os dados dos políticos e suas votações.
+--------------------------------------------------------------------------------
+br-acc/docs/pt-BR/datasets/matriz-bases-publicas-brasil.md at main · enioxt/br-acc · GitHub (https://github.com/enioxt/br-acc/blob/main/docs/pt-BR/datasets/matriz-bases-publicas-brasil.md)
+citeturn351search1 [wordlim: 200] Crawled: last month; 44  | Filiados a Partidos  | Base de filiados dos partidos  | dadosabertos.tse.jus.br  | CSV  | Lei 9.096/1995 Art.
+42  | Prestação de Contas (Campanhas)  | Receitas, despesas, doadores, fornecedores  | dadosabertos.tse.jus.br  | CSV  | Lei 9.504/1997 Art. 28  | ~8,2M
+43  | Bens Declarados  | Patrimônio declarado de candidatos  | dadosabertos.tse.jus.br  | CSV  | Lei 9.504/1997 Art. 11 §1° IV  | ~14,3M
+44  | Filiados a Partidos  | Base de filiados dos partidos  | dadosabertos.tse.jus.br  | CSV  | Lei 9.096/1995 Art. 19  | ~16,5M
+45  | Boletins de Urna  | Dados brutos de cada urna  | dadosabertos.tse.jus.br  | CSV  | Lei 9.504/1997  | —
+46  | Eleitorado  | Perfil demográfico por seção  | dadosabertos.tse.jus.br  | CSV  | Lei 9.504/1997  | —
+47  | DataJud  | Processos judiciais (mov., partes, decisões)  | datajud.cnj.jus.br  | API / JSON  | CF Art. 93 IX + LAI  | —
+48  | Justiça em Números  | Estatísticas de desempenho dos tribunais  | cnj.jus.br  | CSV / PDF  | CF Art. 93 IX + LAI  | —
+49  | BNMP  | Mandados de prisão  | cnj.jus.br  | API  | CF Art. 93 IX + LAI  | —
+50  | SISBAJUD  | Bloqueio judicial de contas  | cnj.jus.br  | API  | CF Art. 93 IX + LAI  | —
+51  | Autos de Infração/Embargos (IBAMA)  | Multas ambientais, áreas embargadas  | dadosabertos.ibama.gov.br  | CSV  | Dec. 6.514/2008 Art. 15 + LAI  | ~79,0K
+52  | PRODES  | Desmatamento anual da Amazônia Legal  | terrabrasilis.dpi.inpe.br  | SHP / CSV  | LAI  | —
+53  | DETER  | Alertas de desmatamento quase em tempo real  | terrabrasilis.dpi.inpe.br  | SHP / CSV  | LAI  | —
+--------------------------------------------------------------------------------
+COPEVE (https://copeve.ufal.br/sistema/anexos/Processo%20Seletivo%20Simplificado%20-%20UNCISAL%20-%20Edital%20n.01-2012%20%28Tecnico%29/Resultado%20Preliminar%20-%20Tecnico%20Fundamental.pdf)
+citeturn351search12 [wordlim: 200] Published: 14.1 years ago; Regular ... IVANI DOS SANTOS ROCHA - 923440-SSP/AL ... TELMA MARIA SANTOS DA SILVA - 98001132688-SSP/AL
+Processo Seletivo Simplificado UNCISAL-2012
+Comissão Permanente do Vestibular - COPEVE
+Universidade de Ciências da Saúde de Alagoas - UNCISAL
+Cargo: 92 - ARTÍFICE - MESM/AUXILIAR DE COZINHA - EM 30H
+RESULTADO PRELIMINAR DA ANÁLISE DE TÍTULOS - TÉCNICOS NÍVEL FUNDAMENTAL
+Nome - Identidade
+Inscrição
+Status
+Final
+Nascimento
+ARLANE VALENÇA LIMA - 1334095-SSP/AL
+0000005720
+Regular
+70,00
+17/11/1971
+ELIÃ FEITOZA BATISTA - 1717335-SSP/AL
+0000006284
+Regular
+0,00
+24/08/1969
+ELIANE FERREIRA SILVA - 1178768-SSP/AL
+0000005222
+Regular
+20,00
+29/06/1972
+GILVERTO FERREIRA SOARES - 99002007540-SSP/AL
+0000007998
+Regular
+89,20
+04/01/1973
+GIRLENE FERREIRA DOS SANTOS - 34053891-SSP/AL
+0000009385
+Eliminado: não postagem de envelope
+-
+20/04/1994
+HELENITA DUARTE TAVARES - 1560849-SSP/AL
+0000008858
+Regular
+90,00
+14/02/1972
+HEMERSON BARBOSA DE SOUZA BARROS - 458687625-SSSS/AL
+0000001052
+Regular
+50,00
+04/12/1988
+IVANI DOS SANTOS ROCHA - 923440-SSP/AL
+0000002560
+Regular
+20,00
+28/09/1969
+JOSE MARCOS DOS SANTOS - 1440166-SSP/AL
+--------------------------------------------------------------------------------
+1(Pagp) (https://docs.trt10.jus.br/docs/pub/pub000004801.pdf)
+citeturn351search13 [wordlim: 200] Published: 18.8 years ago; Crawled: 18.8 years ago; <tr><td>019369861074</td><td>MARIA IVANI DOS SANTOS</td><td>25/09/2006</td><td>REGULAR</td><td>6</td><td>DEM</td><td>166</td></tr> ... <tr><td>004307802011</td><td>MARIA JOSE DE MACEDO SILVA</td><td>10/09/2006</td><td>REGULAR</td><td>6</td><td>DEM</td><td>19</td></tr>
+<tr><td>019369861074</td><td>MARIA IVANI DOS SANTOS</td><td>25/09/2006</td><td>REGULAR</td><td>6</td><td>DEM</td><td>166</td></tr>
+<tr><td>013409542097</td><td>MARIA IVONETE PEREIRA DA ROCHA</td><td>15/12/2005</td><td>REGULAR</td><td>6</td><td>DEM</td><td>127</td></tr>
+<tr><td>011016782070</td><td>MARIA JANICE SOARES DA SILVA</td><td>14/08/2006</td><td>REGULAR</td><td>6</td><td>DEM</td><td>216</td></tr>
+<tr><td>128007560272</td><td>MARIA JOSE ARAUJO DE FREITAS</td><td>15/09/2006</td><td>REGULAR</td><td>6</td><td>DEM</td><td>173</td></tr>
+<tr><td>019374872097</td><td>MARIA JOSE BATISTA DA SILVA</td><td>15/09/2006</td><td>REGULAR</td><td>6</td><td>DEM</td><td>223</td></tr>
+<tr><td>004413812046</td><td>MARIA JOSE DE AQUINO NASCIMENTO</td><td>10/08/2006</td><td>REGULAR</td><td>6</td><td>DEM</td><td>55</td></tr>
+<tr><td>014453692003</td><td>MARIA JOSE DE FREITAS</td><td>25/02/1999</td><td>REGULAR</td><td>6</td><td>DEM</td><td>151</td></tr>
+<tr><td>004307792089</td><td>MARIA JOSE DE LIMA</td><td>24/09/1999</td><td>REGULAR</td><td>6</td><td>DEM</td><td>19</td></tr>
+<tr><td>004307802011</td><td>MARIA JOSE DE MACEDO SILVA</td><td>10/09/2006</td><td>REGULAR</td><td>6</td><td>DEM</td><td>19</td></tr>
+--------------------------------------------------------------------------------
+Diário da Justiça (https://arquivos.mppb.mp.br/DJ/2007/06/2007-06-20.pdf)
+citeturn351search14 [wordlim: 200] Published: 10 months ago; 028169801287 LUCIANO BALBINO DOS SANTOS 07/08/2003 353 REGULAR ... 013542461201 MARIA IVANI DOS SANTOS ALEXANDRE 07/04/2000 210 REGULAR
+013467181228 MARIA ELIZABETH SOUZA DOS SANTOS 14/03/2003 183 REGULAR
+028160651279 MARIA EMILIA RODRIGUES DOS SANTOS 26/06/2004 349 REGULAR
+010238141600 MARIA FRANCISCA DOS SANTOS 02/06/2000 305 REGULAR
+028123061295 MARIA GORETE DA SILVA 15/07/2004 180 REGULAR
+000075371201 MARIA GORETT LIMA MEDEIROS 28/07/2000 133 REGULAR
+013484931210 MARIA HELENA DOS SANTOS DIAS 21/09/2000 188 REGULAR
+028676131201 MARIA INACIO SILVA DO NASCIMENTO 25/04/2001 364 REGULAR
+008110411279 MARIA INEZ PALMEIRA DANTAS 13/02/2003 142 REGULAR
+033502541244 MARIA ISRAELITA CECILIA ALEXANDRE DA SILVA 25/03/2003 391 REGULAR
+013542461201 MARIA IVANI DOS SANTOS ALEXANDRE 07/04/2000 210 REGULAR
+033345161236 MARIA IVONE RODRIGUES 25/02/2003 390 REGULAR
+034323001279 MARIA JOSE DA SILVA NASCIMENTO 10/02/2003 400 REGULAR
+023719011201 MARIA JOSE DA SILVA PAZ 01/06/2000 129 REGULAR
+013334311201 MARIA JOSE DANTAS 04/06/2000 140 REGULAR
+023674341228 MARIA JOSE DOS SANTOS 01/03/2003 137 REGULAR
+013421011287 MARIA JOSE DOS SANTOS COSTA 08/02/2003 167 REGULAR
+032546621295 ISMAEL DE HOLANDA GRILO 05/04/2005 170 REGULAR
+018168721287 ISRAEL ALEXANDRE DA SILVA 07/06/2000 209 REGULAR
+018648451228 ISRAEL COSTA DOS SANTOS 27/03/2003 396 REGULAR
+013538361252 ISRAELITA FELIX DA SILVA 07/04/2000 209 REGULAR
+--------------------------------------------------------------------------------
+Eleições Brasil - Datasets - Brasil.IO (https://www.brasil.io/dataset/eleicoes-brasil/filiados/)
+citeturn351search2 [wordlim: 200] Published: 8.4 years ago; Crawled: last week; Dados das eleições brasileiras, desde 1996, capturados do TSE, como: filiados a partidos, candidatos e votação. ...   * Código-fonte: https://github.com/turicas/eleicoes-brasil ... Data da Desfiliação  | Data da Filiação  | Data da Regularização  | Data do Cancelamento  | Data do Processamento  | Motivo do Cancelamento  | Filiado  | Título de Eleitor  | Partido  | Situação  | Tipo do Registro  | UF ...  | 04 de Janeiro de 9988  |  | 20 de Janeiro de 2010  | 15 de Abril de 2016  | Judicial  | JOAO DE DEUS DA SILVA  | 006325461570  | PMDB  | CANCELADO  | OFICIAL  | PI
+
+#### Eleições Brasil
+
+Dados das eleições brasileiras, desde 1996, capturados do TSE, como: filiados a partidos, candidatos e votação. Note que nem todos os arquivos estão completos - verifique no TSE os que estão completos.
+
+  * Fonte original: Tribunal Superior Eleitoral do Brasil (TSE)
+  * Libertado por: Álvaro Justen
+  * Código-fonte: https://github.com/turicas/eleicoes-brasil
+  * Licença: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+  * Links relacionados: Perguntas frequentes sobre a filiação partidária
+
+Tabelas: bens_candidatos, candidatos, filiados, votacoes.
+
+Quer baixar os dados completos ou precisa acessá-los de maneira automatizada? Antes de mais nada, leia a documentação e depois baixe o dataset completo ou utilize nossa API.
+
+
+##### Filtros
+
+Busca [Input]
+
+Data da Desfiliação [Input]
+
+Data da Filiação [Input]
+
+Data da Regularização [Input]
+
+Data do Cancelamento [Input]
+
+Data do Processamento [Input]
+
+Motivo do Cancelamento [Select]
+
+Filiado [Input]
+
+Município [Input]
+
+Nome do Partido [Input]
+
+Título de Eleitor [Input]
+
+Partido [Select]
+
+Situação [Select]
+
+Tipo do Registro [Select]
+
+UF [Select]
+
+Dados capturados em 27 de Abril de 2018. Importação dos dados feita em 12 de Agosto de 2018 às 22:38:26.
+
+Baixar dados completos em CSV
+
+  * 1-50 de um total de 22.019.796
+  * chevron_right
+
+Data da Desfiliação  | Data da Filiação  | Data da Regularização  | Data do Cancelamento  | Data do Processamento  | Motivo do Cancelamento  | Filiado  | Título de Eleitor  | Partido  | Situação  | Tipo do Registro  | UF
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+--------------------------------------------------------------------------------
+diraol’s gists · GitHub (https://gist.github.com/diraol?direction=asc&sort=created)
+citeturn351search3 [wordlim: 200] Crawled: 3 months ago; View GitHub Profile ...  | #To run this script you should be on a "root folder" on the same level as the "filiados_<nome_partido>_<estado>" folders ...  | # The script will generate a single "br_filiados.csv" file. ... DE COLONIZ E REF AGRARIA": 1, "UNIVERSIDADE FEDERAL DO PARA": 3, "INSTITUTO FEDERAL DO PIAUI": 1, "UNIVERSIDADE FEDERAL DO CEARA": 6, "INSTITUTO FEDERAL DO PARANA": 1, "FUNDACAO UNIVERSIDADE DO MARANHAO": 1, "INSTITUTO FEDERAL DO CEARA": 2, "UNIVERSIDADE FED.DO TRIANGULO MINEIRO": 1, "MINISTERIO DA SAUDE": 6, "DEPARTAMENTO DE POLICIA FEDERAL": 9, "MINIST.DA CIENCIA, TECNOLOGIA E INOVACAO": 1, "MINISTERIO DA FAZENDA": 2, "FUNDACAO UNIVERSIDADE DE BRASILIA": 1, "MINIST.DA AGRICULTURA,PECUARIA E ABAST.": 1, "GOVERNO DO EX-TERRITORIO DE RORAIMA": 4, "FUNDACAO NACIONAL DE SAUDE": 1, "SERVICO FED.
+
+# Diego Rabatone Oliveira diraol
+
+98 followers · 18 following
+
+  * @ask-ar
+
+  * Sao Paulo, Brazil
+  * http://blog.diraol.eng.br
+
+View GitHub Profile
+
+  * All gists 12
+  * Forked 3
+  * Starred 3
+
+  * Sort
+
+  * 1 file
+  * 0 forks
+  * 0 comments
+  * 0 stars
+
+diraol / join_all_partie_members.sh
+
+Last active December 28, 2015 08:49
+
+shell script to join all files from "Filiados Partidários" obtained on TSE repository into one single file with all political partie members.
+
+ | #!/bin/bash
+ | #To run this script you should be on a "root folder" on the same level as the "filiados_<nome_partido>_<estado>" folders
+ | # So, the folder structure would be:
+ | # - current_folder
+ | # |
+ | # | - partido_xx_aa
+ | # | - partido_xy_bb
+ | # ...
+ | # The script will generate a single "br_filiados.csv" file.
+ | #
+
+  * 1 file
+--------------------------------------------------------------------------------
+Partidos - Conjunto de dados - Portal de Dados Abertos do TSE (https://dadosabertos.tse.jus.br/dataset/delegados-partidarios)
+citeturn351search4 [wordlim: 200] Published: 5.1 years ago; Crawled: today; # Partidos ... Arquivos de dados com um grande número de linhas (particularmente aqueles com extensão .csv e .txt) podem não ser visualizados em sua totalidade a depender do software utilizado. ... Escopo geopolítico  | Brasil
+--------------------------------------------------------------------------------
+Filiação partidária — Tribunal Regional Eleitoral do Distrito Federal (https://www.tre-df.jus.br/partidos/filiacao-partidaria)
+citeturn351search5 [wordlim: 200] Crawled: 5 days ago; Filiação partidária Filiação partidária https://www.tre-df.jus.br/partidos/filiacao-partidaria https://www.tre-df.jus.br/@@site-logo/logo.jpg ... O acesso ao novo Sistema de Filiação Partidária (FILIA) foi concedido ao presidente nacional de cada partido político com registro de estatuto no TSE, como administrador nacional do sistema.
+--------------------------------------------------------------------------------
+Issue · GitHub (https://github.com/basedosdados/sdk/issues/912)
+citeturn351search6 [wordlim: 200] Published: 4.9 years ago; Crawled: last month; # [infra] Erro efetuar download da tabela de filiados a partidos- pacote `basedosdados` - R #912 ... `download(query = 'SELECT * FROM `basedosdados.br_tse_filiacao_partidaria.microdados` ', path = '/bases/br_tse_filiacao_partidaria.csv')`
+--------------------------------------------------------------------------------
+Gera CSV com parlamentares eleitos a partir dos dados do TSE · GitHub (https://gist.github.com/vitorbaptista/bada14e83de1b1cddb06)
+citeturn351search7 [wordlim: 200] Published: 11.0 years ago; Crawled: last month; Gera CSV com parlamentares eleitos a partir dos dados do TSE ...  | # ano, uf, nome, cargo, situação, partido ...  | 1994;AC;ADALBERTO FERREIRA DA SILVA;DEPUTADO FEDERAL;SUPLENTE;PMDB ...  | 1994;AC;ALDEMIR DE CASTRO MACIEL;DEPUTADO ESTADUAL;SUPLENTE;PP
+--------------------------------------------------------------------------------
+✔️ Filiação Partidária em BRASÍLIA / DF (https://brasilia-df.filiaweb.com/)
+citeturn351search8 [wordlim: 200] Published: 10.1 years ago; Crawled: yesterday; # Listas de Filiação Partidária em BRASÍLIA / DF### Foram encontrados 182723 pessoas filiadas a partidos políticos.Sigla - Código  | Nome do Partido  | Total de Filiados ... ### PMDB - 15 ...  | PARTIDO TRABALHISTA DO BRASIL  |
+--------------------------------------------------------------------------------
+lab3_pat3_mes_pagamento_partido.csv · GitHub (https://gist.github.com/arthurSena/baa63040a04a8032e338b4f4e47a1dcf)
+citeturn351search9 [wordlim: 200] Published: 6.9 years ago; Crawled: 2 weeks ago; # arthurSena/lab3_pat3_mes_pagamento_partido.csv ...  | PSDB  | 1  | 53748.66999999999
+--------------------------------------------------------------------------------
+nodes.csv · GitHub (https://gist.github.com/JuanBarros2/59569ef66e3d202f1d6d1b92e385ebb7)
+citeturn351search10 [wordlim: 200] Published: 6.9 years ago; Crawled: 3 months ago; # JuanBarros2/nodes.csv ...  | id  | id_leggo  | id_autor  | nome  | partido  | uf  | bancada  | nome_eleitoral  | node_size ...  | 1  | 1  | 159238  | Marcus Pestana  | PSDB  | MG  | governo  | Marcus Pestana (PSDB/MG)  | 943.3333333333333 | 2  | 1  | 160426  | Rogério Rosso  | PSD  | DF  | governo  | Rogério Rosso (PSD/DF)  | 1168.8095238095239
+--------------------------------------------------------------------------------
+historico filiacao_partidaria_55_legislatura · GitHub (https://gist.github.com/gabrielacaesar/46b7c4e603edba2ba52a006390bcc12c)
+citeturn351search11 [wordlim: 200] Published: 7.4 years ago; Crawled: 2 weeks ago; # gabrielacaesar/historico filiacao_partidaria_55_legislatura ...  | MUDANÇAS DE PARTIDO 55ª LEGISLATURA ;;;;; ...  | PROFESSOR PACCO;DF;S;14/08/2018;PSB;PODE ...  | KAIO MANIÇOBA;PE;T;10/04/2018;PMDB;SD ...  | ROGÉRIO SILVA;MT;S;26/07/2017;PROS;PMDB
+--------------------------------------------------------------------------------
+Amazonas, terça-feira, 27 De Abril De 2021 - Diári (https://diariomunicipalaam.org.br/27042021A.pdf)
+citeturn351search15 [wordlim: 200] Published: 9 months ago; 18 Ivani dos Santos Pinto São Francisco Cai N' Água 263 40h 19 Hélio Veras de Oliveira Sobrinho São Francisco Cai N' Água 266 40h 20 Patricia Pereira Magalhaes São Francisco Cai N' Água 60 40h 21 Euder Gomes da Silva São Francisco Cai N' Água 16 40h CARGO:SERV.GERAIS -REGULAR |  |  |  |  |
+--------------------------------------------------------------------------------
+Diário Oficial da União - Seção 2 — Nº 220, quinta-feira, 17 de novembro de 2016 (https://www.gov.br/mme/pt-br/arquivos/do-17-11-2016-s2.pdf)
+citeturn351search16 [wordlim: 200] Published: 9.8 years ago; Crawled: 9.8 years ago; Art. 2º Na qualidade de substituto, deverá o servidor valer-se das atribuições e responsabilidades do titular do cargo, bem como de dever de dar continuidade regular as atividades em curso naquela coordenação, sem prejuízo de outras que lhe forem atribuídas. ... IVANI DOS SANTOS
+--------------------------------------------------------------------------------
+UNIVERSIDADE FEDERAL DE MINAS GERAIS (https://repositorio.ufmg.br/bitstreams/a3481c4d-40b7-4ae2-9cba-886171a2a487/download)
+citeturn351search17 [wordlim: 200] Published: 5 months ago; Partidos Políticos PMDB PT PP PSDB PTB PDT DEM | N.º de filiados 2.315.651,00 1.394.292,00 1.369.716,00 1.315.527,00 1.159.871,00 1.129.867,00 1.102.825,00 | | Valor percentual 17,00% 10,00% 10,00% 9,00% 8,00% 8,00% 8,00% | Partidos Grandes | --- | --- | --- | --- | --- | --- Partidos Políticos PR PSB PPS PSC PV PC DO B PRB | N.º de filiados 731.771,00 492.705,00 445.390,00 304.434,00 273.875,00 270.745,00 222.140,00 | | Valor percentual 5,00% 4,00% 3,00% 2,00% 2,00% 2,00% 2,00% | Partidos Médios | Partidos Políticos PMN PRP PSL PTC PSDC PT DO B PHS PTN PRTB | N.º de filiados 194.099,00 190.007,00 168.793,00 148.131,00 140.687,00 134.820,00 114.153,00 100.480,00 92.951,00 | | Valor percentual 1,00% 1,00% 1,00% 1,00% 1,00% 1,00% 1,00% 1,00% 1,00% | Partidos Pequenos | Partidos Políticos PSOL | N.º de filiados 41.247,00 | | Valor percentual 0,00% | | Partidos Políticos PCB | N.º de filiados 15.986,00 | | Valor percentual 0,00% | | Partidos Políticos PSTU PCO | N.º de filiados 12.541,00 2.874,00 | | Valor percentual 0,00% 0,00% | Partidos Nanicos |
+--------------------------------------------------------------------------------
+Lista de partidos políticos do Brasil (https://pt.wikipedia.org/wiki/Lista_de_partidos_pol%C3%ADticos_do_Brasil)
+citeturn351search18 [wordlim: 200] Crawled: 4 months ago; Lista de partidos políticos do Brasil ... Os 30 partidos políticos registrados no Tribunal Superior Eleitoral estão listados abaixo por quantidade de filiados. ... 5 |  | Partido da Social Democracia Brasileira | PSDB | 45 | 1.264.716 | 25/06/1988 | 24/08/1988 | Aécio Neves
+--------------------------------------------------------------------------------
+Lista de partidos políticos por número de filiados (https://pt.wikipedia.org/wiki/Lista_de_partidos_pol%C3%ADticos_por_n%C3%BAmero_de_filiados)
+citeturn351search19 [wordlim: 200] Crawled: 7 months ago; Lista de partidos políticos por número de filiadosEsta é uma lista de partidos políticos em atividade por número de filiados em todo o mundo. ... 14 | Partido Socialista Unido da Venezuela | PSUV |  |  | ... 20 | Partido da Social Democracia Brasileira | PSDB |  |  | 1 352 745 ... 49 | Partido Comunista do Brasil | PCdoB |  |  | 409 011
+--------------------------------------------------------------------------------
+Movimento Democrático Brasileiro (1980) (https://pt.wikipedia.org/wiki/Movimento_Democr%C3%A1tico_Brasileiro_%281980%29)
+citeturn351search20 [wordlim: 200] Crawled: 4 months ago; Nomes marcados com o símbolo * foram eleitos em 2022 por outros partidos. ... ### Número de filiadosData | Filiados | Crescimento anual
+--------------------------------------------------------------------------------
+Partido Democrático Trabalhista (https://pt.wikipedia.org/wiki/Partido_Democr%C3%A1tico_Trabalhista)
+citeturn351search21 [wordlim: 200] Crawled: 4 months ago; Partido Democrático Trabalhista ... Nomes marcados com o símbolo * foram eleitos em 2022 por outros partidos. ... ### Número de filiados ... AL | Paulo Dantas (MDB) | Renan Filho (MDB) | PDT / MDB / FE Brasil (PT/PCdoB/PV) / PSC / Solidariedade |  | ... PSDB Cidadania / PL / PP / Republicanos |  | ... DF | Leila do Vôlei (PDT) | Joe Valle (PDT) | PDT |  |
+--------------------------------------------------------------------------------
+Legislativas 2022: Help Wanted (https://www.reddit.com/r/devpt/comments/s34pd4)
+citeturn351reddit22 [wordlim: 200] Published: 4.7 years ago; Crawled: 4.7 years ago; Nos últimos dias compilei num ficheiro .csv com os dados retirados dos PDFs publicados pela Comissão Nacional de Eleições, com todos os candidatos a todos os círculos, que concorrem às próximas legislativas.Sendo um dataset extenso, e por ter algum receio que me possa ter enganado em alguma coisa, abri um issue no GitHub para quem me puder ajudar a fazer uma última validação dos dados presentes no .csv
+--------------------------------------------------------------------------------
+Partido dos Trabalhadores (https://pt.wikipedia.org/wiki/Partido_dos_Trabalhadores)
+citeturn351search23 [wordlim: 200] Crawled: 4 months ago; CE | De Assis Diniz | RJ | Elika Takimoto ... DF | Chico Vigilante | RN | Isolda Dantas ... DF | Ricardo Vale | RN | Francisco do PT
+--------------------------------------------------------------------------------
+Movimiento Democrático Brasileño (1980) (https://es.wikipedia.org/wiki/Movimiento_Democr%C3%A1tico_Brasile%C3%B1o_%281980%29)
+citeturn351search24 [wordlim: 200] Crawled: last year; Desde su fundación en 1980 hasta 2017 se llamó Partido del Movimiento Democrático Brasileño (PMDB). ... Además de ser el partido de los expresidentes Tancredo Neves, José Sarney, Itamar Franco y Michel Temer, a lo largo de la historia el MDB ha apoyado a los expresidentes Fernando Henrique Cardoso, Luiz Inácio Lula da Silva y Dilma Rousseff. ... - https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao-filiados/home? ... * Partidos políticos de Brasil
+--------------------------------------------------------------------------------
+A Tool to Extract Structured Data from GitHub (https://arxiv.org/abs/2012.03453)
+citeturn351academia25 [wordlim: 200] Published: 5.8 years ago; Authors: Shreyansh Surana, Smit Detroja, Saurabh Tiwari ... The tool extracts the information of GitHub repositories and saves the data in the form of CSV. files and a database (.DB) file.

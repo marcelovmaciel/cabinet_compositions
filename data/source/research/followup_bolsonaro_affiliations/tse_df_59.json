@@ -1,0 +1,14 @@
+{
+  "party": "DC",
+  "id": 59,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=59&currentPage=0&pageSize=10000",
+      "records": 1004,
+      "totalElements": 1004,
+      "response_sha256": "3ce3a25715231259ff5a63296a64ea9dac8361af149c57f251ab3bccb02ee7f7",
+      "retrieved_utc": "2026-09-10T23:34:40Z"
+    }
+  ],
+  "matches": []
+}

@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "PCDOB",
+  "id": 45,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=45&currentPage=0&pageSize=10000",
+      "records": 1156,
+      "totalElements": 1156,
+      "response_sha256": "30f3ee6ae96979dc814d90b7ea1aab4130942510d4e894da25f0e0dd64827db1",
+      "retrieved_utc": "2026-09-10T23:44:33Z"
+    }
+  ],
+  "matches": []
+}

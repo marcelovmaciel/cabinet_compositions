@@ -1,0 +1,17 @@
+{
+  "uf": "RJ",
+  "municipio": "6865",
+  "city": "BELFORD ROXO",
+  "party": "MDB",
+  "id": 42,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=RJ&cdMunicipio=6865&sqPartido=42&currentPage=0&pageSize=10000",
+      "records": 2321,
+      "totalElements": 2321,
+      "response_sha256": "b6e27037fcc8226ae85af8bc1d727d8bac5ee20d3f500b79ed1936a570dc0803",
+      "retrieved_utc": "2026-09-10T23:39:55Z"
+    }
+  ],
+  "matches": []
+}

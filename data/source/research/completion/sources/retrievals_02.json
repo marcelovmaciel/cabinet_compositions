@@ -1,0 +1,26 @@
+[
+  {
+    "name": "dou2_2015_12_08",
+    "url": "https://transparencia.mpf.mp.br/conteudo/diarios-e-boletins/diario-oficial-da-uniao-1/2015/dou2_2015_12_08.pdf",
+    "status": 200,
+    "bytes": 2278077,
+    "retrieved": "2026-09-10",
+    "transport": "TLS certificate chain unavailable; certificate verification disabled for public source retrieval"
+  },
+  {
+    "name": "dou2_2015_10_05",
+    "url": "https://transparencia.mpf.mp.br/conteudo/diarios-e-boletins/diario-oficial-da-uniao-1/2015/dou2_2015_10_05.pdf",
+    "status": 200,
+    "bytes": 1849077,
+    "retrieved": "2026-09-10",
+    "transport": "TLS certificate chain unavailable; certificate verification disabled for public source retrieval"
+  },
+  {
+    "name": "ministerios-temer",
+    "url": "https://www.gov.br/secretariageral/pt-br/centrais-de-conteudo/biblioteca-da-pr/galeria-dos-ex-presidentes/michel-miguel-elias-temer-lulia/ministerios-temer.pdf",
+    "status": 200,
+    "bytes": 55931,
+    "retrieved": "2026-09-10",
+    "transport": "TLS certificate chain unavailable; certificate verification disabled for public source retrieval"
+  }
+]

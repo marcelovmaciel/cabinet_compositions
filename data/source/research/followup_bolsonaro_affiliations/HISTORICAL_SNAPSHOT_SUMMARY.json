@@ -1,0 +1,12 @@
+{
+  "historical_snapshot_date_claimed_by_source": "2016-07-27",
+  "retrieval_date": "2026-09-10",
+  "source": "https://brasilia-df.filiaweb.com/",
+  "party_lists": 35,
+  "requested_pages": 202,
+  "source_headline_total": 182723,
+  "rendered_rows_inspected": 182698,
+  "request_failures": [],
+  "target_matches": [],
+  "conclusion": "No positive target matches. Absence from a third-party historical list cannot establish non-affiliation. No affiliation update is proposed."
+}

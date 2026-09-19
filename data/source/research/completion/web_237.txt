@@ -1,0 +1,350 @@
+Nota
+Técnica
+GABINETES 
+MINISTERIAIS DA NOVA 
+REPÚ (https://repositorio.ipea.gov.br/bitstreams/2469c87b-3082-405d-aba8-13971cabb8f7/download)
+citeturn234search12 [wordlim: 200] Published: 8 months ago; NotaTécnicaGABINETESMINISTERIAIS DA NOVAREPÚBLICA (1985-2020): ... NO 53Acir Almeida
+Nota
+Técnica
+GABINETES 
+MINISTERIAIS DA NOVA 
+REPÚBLICA (1985-2020): 
+CARGOS, COMPOSIÇÃO 
+PARTIDÁRIA E MUDANÇA
+NO 53
+Acir Almeida
+Diest
+Diretoria de Estudos e Políticas do
+Estado, das Instituições e da Democracia
+Outubro de 2021--------------------------------------------------------------------------------
+(PDF) Nota Técnica Nº 53 - Gabinetes Ministeriais da Nova República (1985-2020): Cargos, Composição Partidária e Mudança (https://www.researchgate.net/publication/361753585_Nota_Tecnica_N_53_-_Gabinetes_Ministeriais_da_Nova_Republica_1985-2020_Cargos_Composicao_Partidaria_e_Mudanca)
+citeturn234search0 [wordlim: 200] Crawled: last month; # Nota Técnica Nº 53 - Gabinetes Ministeriais da Nova República (1985-2020): Cargos, Composição Partidária e Mudança ... Acir Almeida ... O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na construção do módulo do Atlas do Estado Brasileiro denominado Presidentes, partidos e coalizões, que reúne dados a respeito dos gabinetes ministeriais da Nova República, sobretudo a evolução da sua composição partidária. ... As publicações do Ipea estão disponíveis para download gratuito nos formatos PDF (todas) e EPUB (livros e periódicos). ... O fato de um ministro ter sido indicado por um partido que apoia o governo (condições a e b)  para
+
+Technical Report PDF Available
+
+# Nota Técnica Nº 53 - Gabinetes Ministeriais da Nova República (1985-2020): Cargos, Composição Partidária e Mudança
+
+  * October 2021
+
+DOI:10.38116/ntdiest53
+
+Authors:
+
+Acir Almeida
+
+Acir Almeida
+
+  * This person is not on ResearchGate, or hasn't claimed this research yet.
+
+Diest - Ipea
+
+  * Instituto de Pesquisa Econômica Aplicada - IPEA
+
+Image
+
+Download full-text PDFRead full-text
+
+## Abstract
+
+O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na construção do módulo do Atlas do Estado Brasileiro denominado Presidentes, partidos e coalizões, que reúne dados a respeito dos gabinetes ministeriais da Nova República, sobretudo a evolução da sua composição partidária. A nota revisita os critérios e as informações utilizados na identificação dos gabinetes ministeriais e da sua composição partidária, no período 1985-2020. Espera-se, assim, solucionar divergências de natureza descritiva, de maneira a contribuir para caracterizações mais precisas do fenômeno. Naturalmente, esse tipo de aporte tem potenciais desdobramentos para outras análises, acerca seja dos condicionantes, seja dos impactos da composição partidária do gabinete, no sentido de tornar seus resultados mais precisos e confiáveis.
+
+Content uploaded by Diest - Ipea
+
+Author content
+
+All content in this area was uploaded by Diest - Ipea on Jul 05, 2022
+
+Content may be subject to copyright.
+
+Nota
+
+Técnica
+
+Outubro de 2021
+
+N O 53
+
+Diest
+
+Diretoria de Estudos e Políticas do
+
+Estado, das Instituições e da Democracia
+
+GABINETES
+
+MINISTERIAIS DA NOVA
+
+REPÚBLICA (1985-2020):
+
+CARGOS, COMPOSIÇÃO
+
+PARTIDÁRIA E MUDANÇA
+
+Acir Almeida
+
+DOI: http://dx.doi.org/10.38116/ntdiest53
+
+As publicações do Ipea estão disponíveis para download gratuito nos formatos PDF (todas) e EPUB (livros e periódicos). Acesse: <http://www.ipea.gov.br/
+
+portal/publicacoes>.
+
+As opiniões emitidas nesta publicação são de exclusiva e inteira responsabilidade dos autores, não exprimindo, necessariamente, o ponto de vista do Instituto
+
+de Pesquisa Econômica Aplicada ou do Ministério da Economia.
+
+É permitida a reprodução deste texto e dos dados nele contidos, desde que citada a fonte.
+
+Reproduções para ﬁns comerciais são proibidas.
+
+EQUIPE TÉCNICA
+
+Acir Almeida
+
+Técnico de planejamento e pesquisa na Diretoria de Estudos e Políticas do Estado,
+
+das Instituições e da Democracia (Diest) do Ipea. E-mail: <acir.almeida@ipea.gov.br>.
+
+© Instituto de Pesquisa Econômica Aplicada – ipea 2021
+
+Governo Federal
+
+Ministério da Economia
+
+Ministro Paulo Guedes
+
+Fundação pública vinculada ao Ministério da Economia,
+
+o Ipea fornece suporte técnico e institucional às ações
+
+governamentais – possibilitando a formulação de inúmeras
+
+políticas públicas e programas de desenvolvimento
+
+brasileiros – e disponibiliza, para a sociedade, pesquisas e
+
+estudos realizados por seus técnicos.
+
+Presidente
+
+Carlos von Doellinger
+
+Diretor de Desenvolvimento Institucional
+
+Manoel Rodrigues Junior
+
+Diretora de Estudos e Políticas do Estado,
+
+das Instituições e da Democracia
+
+Flávia de Holanda Schmidt
+
+Diretor de Estudos e Políticas
+
+Macroeconômicas
+
+José Ronaldo de Castro Souza Júnior
+
+Diretor de Estudos e Políticas Regionais,
+
+Urbanas e Ambientais
+
+Nilo Luiz Saccaro Júnior
+
+Diretor de Estudos e Políticas Setoriais de Inovação
+
+e Infraestrutura
+
+André Tortato Rauen
+
+Diretora de Estudos e Políticas Sociais
+
+Lenita Maria Turchi
+
+Diretor de Estudos e Relações Econômicas
+
+e Políticas Internacionais
+
+Ivan Tiago Machado Oliveira
+
+Assessor-chefe de Imprensa e Comunicação
+
+André Reis Diniz
+
+Ouvidoria: http://www.ipea.gov.br/ouvidoria
+
+URL: http://www.ipea.gov.br
+
+SUMÁRIO
+
+1 INTRODUÇÃO ..................................................................................................................................................................................... 5
+
+2 O GABINETE ........................................................................................................................................................................................ 6
+
+3 COMPOSIÇÃO PARTIDÁRIA ........................................................................................................................................................... 8
+
+4 MUDANÇA DE GABINETE ............................................................................................................................................................... 11
+
+5 CONCLUSÃO ....................................................................................................................................................................................... 14
+
+REFERÊNCIAS ........................................................................................................................................................................................ 14
+
+APÊNDICE A ........................................................................................................................................................................................... 16
+
+APÊNDICE B ........................................................................................................................................................................................... 17
+
+APÊNDICE C ........................................................................................................................................................................................... 18
+
+NOTA TÉCNICA
+
+5
+
+1 INTRODUÇÃO 1
+
+O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na construção do módulo do
+
+Atlas do Estado Brasileiro denominado Presidentes, partidos e coalizões, que reúne dados a respeito dos gabinetes
+6. O GSI foi precedido pela Casa Militar (1992-1999) e pelo Gabinete Militar (1985-1992). A Segov, por sua vez, foi antecedida pelas secretarias de
+
+
+
+
+
+
+
+NOTA TÉCNICA
+
+7
+
+
+
+
+
+
+
+permanecido à
+
+NOTA TÉCNICA
+
+9
+
+O fato de um ministro ter sido indicado por um partido que apoia o governo (condições a e b)  para
+
+
+
+os partidos governistas.
+
+NOTA TÉCNICA
+
+11
+
+
+
+
+
+, (1)
+
+em que e são, nesse caso, respectivamente, as frações de cadeiras parlamentares e de cargos de gabinete do par-
+
+tido . A primeira fração é relativa à soma das
+
+computar a fração desses cargos destinados a ministros não partidários de duas maneiras diferentes: individualmente,
+
+para cada um desses ministros; ou em grupo, como se eles fossem de um único partido. A distinção é potencialmente
+
+importante, porque o valor de é maior quando se agrupa os ministros, reduzindo, assim, o valor da medida.
+
+-
+
+--------------------------------------------------------------------------------
+Nota
+Técnica
+GABINETES 
+MINISTERIAIS DA NOVA 
+REPÚ (https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/nota_tecnica/211026_nt_diest_n53.pdf)
+citeturn234search13 [wordlim: 200] Published: 9 months ago; NotaTécnicaGABINETESMINISTERIAIS DA NOVAREPÚBLICA (1985-2020): ... NO 53Acir Almeida
+Nota
+Técnica
+GABINETES 
+MINISTERIAIS DA NOVA 
+REPÚBLICA (1985-2020): 
+CARGOS, COMPOSIÇÃO 
+PARTIDÁRIA E MUDANÇA
+NO 53
+Acir Almeida
+Diest
+Diretoria de Estudos e Políticas do
+Estado, das Instituições e da Democracia
+Outubro de 2021--------------------------------------------------------------------------------
+Read Diest - Ipea's Profile - IPEA (https://ipea.academia.edu/DiestIpea)
+citeturn234search1 [wordlim: 200] Crawled: last week; Nota Técnica Nº 53 - Gabinetes Ministeriais da Nova República (1985-2020): Cargos, Composição Partidária e Mudança ... O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na constr... more O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na construção do módulo do Atlas do Estado Brasileiro denominado Presidentes, partidos e coalizões, que reúne dados a respeito dos gabinetes ministeriais da Nova República, sobretudo a evolução da sua composição partidária.
+downloadDownload free PDF
+
+Nota Técnica Nº 53 - Gabinetes Ministeriais da Nova República (1985-2020): Cargos, Composição Partidária e Mudança
+
+Diest - Ipea, 2021
+
+O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na constr... more O propósito desta nota técnica é apresentar os conceitos, variáveis e fontes utilizados na construção do módulo do Atlas do Estado Brasileiro denominado Presidentes, partidos e coalizões, que reúne dados a respeito dos gabinetes ministeriais da Nova República, sobretudo a evolução da sua composição partidária. A nota revisita os critérios e as informações utilizados na identificação dos gabinetes ministeriais e da sua composição partidária, no período 1985-2020. Espera-se, assim, solucionar divergências de natureza descritiva, de maneira a contribuir para caracterizações mais precisas do fenômeno. Naturalmente, esse tipo de aporte tem potenciais desdobramentos para outras análises, acerca seja dos condicionantes, seja dos impactos da composição partidária do gabinete, no sentido de tornar seus resultados mais precisos e confiáveis.
+
+downloadDownload free PDF
+--------------------------------------------------------------------------------
+3163
+REVERTENDO A DELEGAÇÃO: O 
+CRESCENTE PROTAGON (https://informaparaiba.com.br/wp-content/uploads/2026/01/crescente-protagonismo-congresso-estudo-ipea-2025.pdf)
+citeturn234search14 [wordlim: 200] Published: 6 months ago; Informações extraídas da base de dados construída por: ALMEIDA, A.Gabinetesministeriais da Nova República (1985-2020): cargos, composição partidária e ... (Nota Técnica, n.53). ... PCdoB – Partido Comunista do Brasil; PSB – Partido Socialista Brasileiro; PSDB –
+JB-2
+1/2/2020
+31/1/2021
+JB-3
+1/2/2021
+31/1/2022
+JB-4
+1/2/2022
+31/12/2022
+Elaboração do autor.
+Obs.: 1. Informações extraídas da base de dados construída por: ALMEIDA, A. Gabinetes 
+ministeriais da Nova República (1985-2020): cargos, composição partidária e 
+mudança. Brasília: Ipea, 2021. (Nota Técnica, n. 53).
+          2. JS – José Sarney; FC – Fernando Collor; IF – Itamar Franco; FH – Fernando Henrique; 
+LS – Lula; DR – Dilma Rousseff; MT – Michel Temer; e JB – Jair Bolsonaro.
+3. PMDB – Partido do Movimento Democrático Brasileiro; PFL – Partido da Frente 
+Liberal; PT – Partido dos Trabalhadores; PDT – Partido Democrático Trabalhista; 
+PCdoB – Partido Comunista do Brasil; PSB – Partido Socialista Brasileiro; PSDB – 
+Partido da Social Democracia Brasileira; PCB – Partido Comunista Brasileiro; 
+PDS – Partido Democrático Social; PRN – Partido Republicano Nacionalista; 
+PTB – Partido Trabalhista Brasileiro; PL – Partido Liberal; PDC – Partido Democrata 
+Cristão; PSC – Partido Social Cristão; PTR – Partido Trabalhista Renovador; 
+PST – Partido Social Trabalhista; PP – Partido Progressistas; PPS – Partido 
+Popular Socialista; PPB – Partido Progressista Brasileiro; PV – Partido Verde; 
+PRB – Partido Republicano Brasileiro; PR – Partido da República; DEM – Democratas; 
+PSD – Partido Social Democrático; SD – Solidariedade; PSOL – Partido Socialismo e 
+Liberdade; PSL – Partido Social Liberal; REP – Republicanos; Novo – Partido Novo.
+56--------------------------------------------------------------------------------
+Segurança na Eletrotécnica (https://proedu.rnp.br/handle/123456789/1437)
+citeturn234search2 [wordlim: 200] Published: 8.1 years ago; Crawled: 4 days ago; ##### Segurança na Eletrotécnica ﻿Almeida, Nilson Ubirajara
+--------------------------------------------------------------------------------
+Nota técnica | DocumentCloud (https://www.documentcloud.org/documents/21174590-nota-tecnica)
+citeturn234search3 [wordlim: 200] Crawled: 5 months ago; # Nota técnica ... Download File Share & Embed
+--------------------------------------------------------------------------------
+Nota Técnica Conjunta para Atos Normativos — Portal do Servidor (https://www.gov.br/servidor/pt-br/acesso-a-informacao/gestao-de-pessoas/transparencia_e_registros/medida-provisoria-no-1-326-de-1o-de-dezembro-de-2025/outros-documentos/nota-tecnica-conjunta-para-atos-normativos/view)
+citeturn234search4 [wordlim: 200] Published: 8 months ago; Crawled: last week; Você está aqui: Página Inicial Acesso à Informação Gestão de Pessoas Transparência e Registros Medida Provisória nº 1.326, de 1º de dezembro de 2025 Outros documentos Nota Técnica Conjunta para Atos Normativos ... # Nota Técnica Conjunta para Atos Normativos
+--------------------------------------------------------------------------------
+Busca de documentos (https://plataforma.rnp.br/busca/repositorio-de-documentos)
+citeturn234search5 [wordlim: 200] Published: 2 days ago; Crawled: yesterday; ## Busca de Documentos ... Visualizar Download ... #### Especificação Técnica - Firewall
+--------------------------------------------------------------------------------
+DSpace MJ: Browsing DSpace (https://bibliotecadigital.mj.gov.br/browse?etal=-1&order=ASC&rpp=20&sort_by=1&starts_with=0&type=author&value=Gabinete+do+Ministro)
+citeturn234search6 [wordlim: 200] Crawled: last month; 2021-02-12  | Decisão do Ministro nº 161/2021  | Aprova a Nota Técnica nº 58/2021/GM/MJ, de 12 de fevereiro de 2021, adotando, como decisão, as propostas nela constantes, itens 2 a 6. ... Ministério da Justiça e Segurança Pública; Gabinete do Ministro; ANDRÉ LUIZ DE ALMEIDA MENDONÇA
+--------------------------------------------------------------------------------
+Publicações Conarq — Conselho Nacional de Arquivos (https://www.gov.br/conarq/pt-br/centrais-de-conteudo/publicacoes/publicacoes-conarq)
+citeturn234search7 [wordlim: 200] Published: 6.0 years ago; Crawled: today; Os requisitos, aprovados pela Resolução do Conarq nº 53, de 25 de agosto de 2023, tem por finalidade apresentar aos integrantes do Sinar as condições mínimas necessárias para alcançar o objetivo de preservar websites e mídias sociais em longo prazo, assumindo que são objetos digitais complexos de valor secundário.
+--------------------------------------------------------------------------------
+:: CONAMP - Associação Nacional dos Membros do Ministério Público - Por ano (https://www.conamp.org.br/publicacoes/notas-tecnicas/por-ano.html)
+citeturn234search8 [wordlim: 200] Crawled: 2 weeks ago; NOTA TÉCNICA Nº 05/2025 - Atuação dos Promotores de Justiça nos Plenários do Júri
+--------------------------------------------------------------------------------
+SEI_MGI - 42445349 - Nota Técnica.pdf — Ministério da Gestão e da Inovação em Serviços Públicos (https://www.gov.br/gestao/pt-br/acesso-a-informacao/licitacoes-e-contratos/licitacoes-e-contratacoes-diretas/central-de-compras-seges/2023/pregoes/arquivos/pregao-eletronico-srp-no-07-2023/sei_mgi-42445349-nota-tecnica.pdf/view)
+citeturn234search9 [wordlim: 200] Published: 2.3 years ago; Crawled: last month; Você está aqui: Página Inicial Acesso à Informação Licitações e Contratos Licitações e Contratos Central de Compras/SEGES 2023 Pregões Arquivos ´Pregão Eletrônico SRP nº 07/2023 SEI_MGI - 42445349 - Nota Técnica.pdf
+--------------------------------------------------------------------------------
+ALMEIDA 2025 - Revertendo A Delegação O Crescente Protagonismo Legislativo Do Congresso Nacional. | PDF | Emenda Constitucional | Economia (https://pt.scribd.com/document/1000348587/10-ALMEIDA-2025-Revertendo-a-Delegacao-O-Crescente-Protagonismo-Legislativo-Do-Congresso-Nacional)
+citeturn234search10 [wordlim: 200] Crawled: 6 months ago; Almeida, Acir ... Fundação pública vinculada ao Ministério do do Congresso Nacional / Acir Almeida. – Rio de Janeiro: Ipea, 2025. ... ## Ficha catalográfica elaborada por Elizabeth Ferreira da Silva CRB-7/6844.
+--------------------------------------------------------------------------------
+LÍVIA DE ALMEIDA NUNES FIDELIS 06.PDF — Câmara Municipal (https://www.novamonteverde.mt.leg.br/processo-legislativo/parlamentares-e-gabinetes/relatorios-parlamentares/relatorios-2025/junho-de-2025/LIVIA%20DE%20ALMEIDA%20NUNES%20FIDELIS%2006.PDF/view)
+citeturn234search11 [wordlim: 200] Crawled: 5 months ago; # LÍVIA DE ALMEIDA NUNES FIDELIS 06. ... PDF — Documento PDF, 8.19 MB (8583293 bytes)

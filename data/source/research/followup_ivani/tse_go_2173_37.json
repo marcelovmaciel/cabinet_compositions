@@ -1,0 +1,16 @@
+{
+  "party": "PCO",
+  "id": 37,
+  "city": "GOIÂNIA",
+  "city_id": "2173",
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=GO&cdMunicipio=2173&sqPartido=37&currentPage=0&pageSize=10000",
+      "records": 37,
+      "totalElements": 37,
+      "response_sha256": "3b6cc5a28e4073781df2117ac9d7c5318b6aa46d7c95e56a91f1151964ec8896",
+      "retrieved_utc": "2026-09-10T23:36:08Z"
+    }
+  ],
+  "matches": []
+}

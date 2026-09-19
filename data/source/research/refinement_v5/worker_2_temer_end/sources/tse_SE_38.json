@@ -1,0 +1,16 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "party": "PL",
+  "id": 38,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=38&currentPage=0&pageSize=10000",
+      "records": 1787,
+      "totalElements": 1787,
+      "response_sha256": "23903b992305ce4da60bbdc07e4d214830bfe56f77a3fecd93c1829bdaab236b",
+      "retrieved_utc": "2026-09-11T01:05:37Z"
+    }
+  ],
+  "matches": []
+}

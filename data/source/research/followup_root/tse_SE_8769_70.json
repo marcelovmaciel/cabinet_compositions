@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "PDT",
+  "id": 70,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=70&currentPage=0&pageSize=10000",
+      "records": 2835,
+      "totalElements": 2835,
+      "response_sha256": "9f2aba4fe78814d7c85b17a061f38797f28f71dbd0bbfa761250afe6bcd8fe00",
+      "retrieved_utc": "2026-09-10T23:44:37Z"
+    }
+  ],
+  "matches": []
+}

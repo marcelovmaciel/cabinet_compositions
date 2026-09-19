@@ -1,0 +1,15 @@
+[
+  {
+    "url": "https://araucaria-pr.filiaweb.com/filiados/pt?page=1",
+    "status": 200,
+    "response_sha256": "c510c53696206e7221425aa26d44aff19a5c3d070cfa3f5894b8cad44ccdaa8d",
+    "matches": [
+      [
+        "RENATO DE LIMA FRANCA",
+        "0860920***98",
+        "07/07/2008"
+      ]
+    ],
+    "rendered_rows": 851
+  }
+]

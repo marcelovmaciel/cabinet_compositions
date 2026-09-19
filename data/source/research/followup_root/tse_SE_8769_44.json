@@ -1,0 +1,17 @@
+{
+  "uf": "SE",
+  "municipio": "8769",
+  "city": "ARACAJU",
+  "party": "SOLIDARIEDADE",
+  "id": 44,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=SE&cdMunicipio=8769&sqPartido=44&currentPage=0&pageSize=10000",
+      "records": 738,
+      "totalElements": 738,
+      "response_sha256": "52562bc97866bac6e8cd005cd436f89c7a1110b9c7837b5890fb5cda42f32ac7",
+      "retrieved_utc": "2026-09-10T23:44:55Z"
+    }
+  ],
+  "matches": []
+}

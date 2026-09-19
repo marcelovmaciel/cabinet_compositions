@@ -1,0 +1,205 @@
+{
+  "destination_root": "cabinet_dataset",
+  "files": [
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/filia_app.html",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/filia_app.html",
+      "sha256": "d5fe86bba0c5de4fe96a3e3a028f4fc5f441666218f07d8978a839e94c5382ac"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/filia_app_main.js",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/filia_app_main.js",
+      "sha256": "c8bdc0f7b30e702a2e93ef0f34f3f382c2c4db4dfe2eba54890dfb219b9e9dcb"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/filia_public_client_semantics.txt",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/filia_public_client_semantics.txt",
+      "sha256": "98dd31c06592848a5a2898be79f3e310346b82e1ceb90eb72c6325f1a9b21f56"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/mercopress_20200615.html",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/mercopress_20200615.html",
+      "sha256": "f28b288529fe4b2dc62cc6d509201563f0685525e11b8557df3d155dd68fb9ba"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/mme_rol2022.pdf",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/mme_rol2022.pdf",
+      "sha256": "d1e99e3813c647256647de72ee983d5fa249c336db5fa0a2fd667b47a4218d0d"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/mme_rol2022.txt",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/mme_rol2022.txt",
+      "sha256": "7ecc45f5eabb994f29bdb9991ac53049a3b0c1672cc4ab0f0ba5b79767122e57"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/retrievals_01.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/retrievals_01.json",
+      "sha256": "234c831a1c5d0f288298bfc555f28d15ce865868428084e105be9605349211b6"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/sachsida_identity_verification.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/sachsida_identity_verification.json",
+      "sha256": "8484bfa4def8e32ee2cf23beb939a0701920022a586df27e25e60693db2c7044"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/senado_filiacoes_4694.xml",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/senado_filiacoes_4694.xml",
+      "sha256": "18d13d5ad52bb45e0a5e781cf450bfee8f425cb86b856ba8fcb50b47a74db416"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/senado_filiacoes_6335.xml",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/senado_filiacoes_6335.xml",
+      "sha256": "4dd8b8cfd90b5abca974d5e1df548ee3d84507f819b383a7dac6f2a099ae619d"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/tcu_78140553.pdf",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tcu_78140553.pdf",
+      "sha256": "1e6be4e635f3c3733c0b16416d9773a8c1c07f2cf37bea4d34c53b7a6ff0e979"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/tcu_78140553.txt",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tcu_78140553.txt",
+      "sha256": "1505a74ff6c95d953c249132d86c44639d34e58bd3f7d96a00569dbc20c487b2"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_38.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_38.json",
+      "sha256": "f87a66a1409ce8093e200b3915e763dfa65b323ce925970046f99d0069a736b9"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_51.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_51.json",
+      "sha256": "bc37c28a301be45926882d7fe061f11ba19aaafa656b88feb69d9c63cba610ed"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_56.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_56.json",
+      "sha256": "4253bb85a35f395ab58e12194f54a9f61fe9d749f11b8e0d1f0ed2550e6c9ba3"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_62.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_62.json",
+      "sha256": "77f2e699d5bb418473d135de6de38da5911a2ac667174e9ce5bfe1d67962d1c4"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_69.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_69.json",
+      "sha256": "6122c54fcf30f0d248e9a1a11fd37eb5ce5842ab841695013dd1a51de0600265"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_72.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_DF_72.json",
+      "sha256": "bfe4292447264a51b971452bc13962d6c34c6fced8c5f6ce45713aab42ce927c"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_RN_38.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_RN_38.json",
+      "sha256": "259be54239bb53fa5c060c8d5d5c38458f4e5cbac0ed3974ca85ea1b1dec7699"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_RN_56.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_RN_56.json",
+      "sha256": "ea5c4867c8560c81b3f69b38ef31497cf4237b8a7de5a82245d5e7b4295a362e"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_pp_df.txt",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_pp_df.txt",
+      "sha256": "b50894a41361a2c5ef3539f16873da478289d750a77b6a6e37c12e940d3bca7d"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_psdb_rn.txt",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/tse_psdb_rn.txt",
+      "sha256": "6e99243f2a231efea1edb9ead8fdc849bee0f669086e2241228729cae443bdaf"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_001.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_001.json",
+      "sha256": "922a4d2042861f01172a0601232537f75d627f3f76451ebe5929d5af00876aaa"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_002.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_002.json",
+      "sha256": "494aebef428d94121ae1cbe83625a368665049bfa344d4bb1f8836ea3b55e1c5"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_003.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_003.json",
+      "sha256": "fbb6a24236fff1df4ee0cafb4ddf7ceec8ba05738283dcc5c32a81a122b4b5ff"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_004.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_004.json",
+      "sha256": "9d0c4474d58a4864c8c7aa2d05f7a5272018197bcd9398de1a3ea3e5f4e86661"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_005.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_005.json",
+      "sha256": "ca1d71df032cf3ec7a88d4c8eb5431cf9dde8417357a80fb94f6b374869c32dd"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_006.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_006.json",
+      "sha256": "a97c168fa8590415b31e241ab3d08f91728cda7fd647245acf03cd58b618e77d"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_007.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_007.json",
+      "sha256": "56023759bcb673fcd73b639a29e96c0d413427692cc15f390411a7b7fe39fa98"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_008.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_008.json",
+      "sha256": "d6bd778e7309ea4761688d5b1b4ef7a67cd70b14a7e961251f198734afcc9602"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_009.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_009.json",
+      "sha256": "9211f8519b8af78a5345bab639a0e8c4216eea78506f68e939cb4cbf6d06253a"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_010.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_010.json",
+      "sha256": "9417e327902c6e32e23dc8f1a4d850d9e1842888e074fb19336bf3601b5edb8f"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_011.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_011.json",
+      "sha256": "aa033738d22f36e234be888d42522bc1f7093eb0da37aff0aa33dded8ddaf9a7"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_012.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_012.json",
+      "sha256": "aef74bc2aa616487d4870c4772400abf417fc39c193078131e75c5a29124be31"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_013.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_013.json",
+      "sha256": "852b1699776eb37cf58c555c2a7860c49547f38e1c47945999256f7b6d868993"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_014.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_014.json",
+      "sha256": "9f11ba3d025508e27f3493c6e1a098c4120af576d1c5fd1b6ffd50d80ddb2952"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_015.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_015.json",
+      "sha256": "e48aabd95cddaa4348a80c16aec6bd3d7a49498af472b8ecafe5e28f2e3af5d0"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_016.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_016.json",
+      "sha256": "bc6bbed945b50d73952e566d20a56f147ea1a95db014f81a80ade13f45237eb2"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_017.json",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/sources/web_017.json",
+      "sha256": "a50a7f5a104930e1b617eeb80fd35a9148d26162d927395904114e3ed7fd2d28"
+    },
+    {
+      "source": "cabinet_dataset/refinement_v5/worker_6_bolsonaro_affiliations/RESEARCH.md",
+      "destination": "research/refinement_v5/worker_6_bolsonaro_affiliations/RESEARCH.md",
+      "sha256": "875ee8c9d1fd893fa81ad895fc127dde25d436b137e5a297c61d4d1a9754436b"
+    }
+  ]
+}

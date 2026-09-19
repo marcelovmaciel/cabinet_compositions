@@ -1,0 +1,14 @@
+{
+  "party": "PP",
+  "id": 69,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=PR&cdMunicipio=5787&sqPartido=69&currentPage=0&pageSize=10000",
+      "records": 1192,
+      "totalElements": 1192,
+      "response_sha256": "73ec068aaf24e6b9ab3913fd083e09b96d459586047da06d3abe2636d118232b",
+      "retrieved_utc": "2026-09-11T00:08:32Z"
+    }
+  ],
+  "matches": []
+}

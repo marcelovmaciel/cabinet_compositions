@@ -1,0 +1,28 @@
+{
+  "party": "PSDB",
+  "id": 56,
+  "pages": [
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=56&currentPage=0&pageSize=10000",
+      "records": 10000,
+      "totalElements": 26559,
+      "response_sha256": "e3f284b5d657031a505fd059bab982cccc1dace3c0eb5ea093e376edfb4bc36f",
+      "retrieved_utc": "2026-09-10T23:36:30Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=56&currentPage=1&pageSize=10000",
+      "records": 10000,
+      "totalElements": 26559,
+      "response_sha256": "3b42105a1954544368eeff69af436af52dbfccb53040c380e60218403da4487d",
+      "retrieved_utc": "2026-09-10T23:36:52Z"
+    },
+    {
+      "url": "https://filia2-consulta.tse.jus.br/filia-consulta/rest/v1/relacao-filiados?sgUe=DF&cdMunicipio=1778&sqPartido=56&currentPage=2&pageSize=10000",
+      "records": 6559,
+      "totalElements": 26559,
+      "response_sha256": "44f644cc5789e2f37633e8a8c43bfdad69c4188f4fa24de6275cb1417e286bc6",
+      "retrieved_utc": "2026-09-10T23:37:13Z"
+    }
+  ],
+  "matches": []
+}

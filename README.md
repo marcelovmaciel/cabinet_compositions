@@ -4,6 +4,12 @@ This repository reconstructs the composition of Brazilian federal cabinets from
 January 2015 through March 19, 2026, with particular attention to the set of
 political parties represented in qualifying cabinet offices over time.
 
+This repository owns the cabinet-data construction and validation pipeline
+and publishes the release consumed by
+[`coalition_inversions`](https://github.com/marcelovmaciel/coalition_inversions).
+The substantive coalition-inversion analysis and paper replication workflow
+belong to that downstream repository.
+
 Qualifying officeholding is dated separately from personal party affiliation.
 The cabinet party set is the set of parties represented by qualifying
 officeholders on each date. Appointments, departures, affiliation changes,
